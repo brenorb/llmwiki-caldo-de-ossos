@@ -103,6 +103,10 @@ Outros usos localizados fora das categorias de receita.
 | --- | --- | --- | --- |
 | [Marrow Broth](https://www.westonaprice.org/health-topics/bone-marrow-nutrient-benefits/) | Ossos de tutano, articulações e pescoço em água | Sem açúcar, farinha ou grãos | Coe e ajuste o sal no prato se quiser usar o fundo em receitas diferentes. |
 | [Sopa de ossos com legumes](https://www.westonaprice.org/health-topics/modern-diseases/liver-detoxification-starve-or-nourish/) | Caldo com cebola, alho, legumes e vinagre | Legumes variáveis e pão de fermentação natural na hora de servir | Use folhas, couve-flor ou abobrinha e dispense o pão. O artigo apresenta uma alegação de desintoxicação sem testar a sopa em ensaio. |
+| [Jarrete bovino](https://www.westonaprice.org/health-topics/food-features/beef-shanks/) | Jarrete com osso e tutano, cozido até soltar da peça. O líquido coado vira molho por redução. | Extrato de tomate e vinagre balsâmico | Use pouco extrato e vinagre sem açúcar adicionado. A redução dá corpo sem farinha. |
+| [Ensopado de paleta de cordeiro](https://www.westonaprice.org/health-topics/food-features/lamb-shoulder-stew/) | Ossos, aparas e líquido do assado retornam à panela para preparar o caldo do molho. | O perfil depende dos legumes e do espessante usados no molho. | Reserve o fundo coado e reduza para engrossar. Sirva com couve-flor ou folhas. |
+| [Borscht e molho de caldo bovino](https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-recipes/) | Fundo de frango no borscht e fundo bovino no molho. | Beterraba no borscht. Farinha de espelta ou araruta no molho. | Use porção medida de beterraba com repolho. Engrosse o molho por redução. |
+| [Camarões com legumes e espumante](https://www.westonaprice.org/health-topics/food-features/maine-shrimp-pandalus-borealis/) | Caldo de peixe ou cascas de camarão reduzido com espumante e creme. | Legumes e vinho. A receita dispensa farinha. | Use creme pasteurizado e, se preferir omitir o espumante, reduza com um pouco mais de caldo. |
 
 ## Fichas do livreto *Healthy 4 Life*
 

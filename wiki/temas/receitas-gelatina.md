@@ -151,6 +151,14 @@ Para **oito porções**, a receita da *Wise Traditions* usa **2½ xícaras de le
 2. Bata o restante do leite de coco com a abóbora, a canela, o sal e o ingrediente escolhido para adoçar. Junte à gelatina dissolvida e aqueça, mexendo, até começar a soltar vapor. Distribua em taças e refrigere até firmar.
 3. Para reduzir carboidratos, use leite de coco integral sem açúcar e substitua o mel ou xarope por adoçante a gosto, seguindo o rótulo do produto. O adoçante não precisa repor o volume da meia xícara. O gel pode ficar mais firme com menos líquido. A abóbora ainda contribui com carboidratos, e a adaptação não foi testada pela wiki.
 
+### Gelatina de frutas vermelhas com chá
+
+A ficha de Angie Needels usa **cerca de 280 g de frutas vermelhas congeladas**, **360 mL de água, chá ou água de coco**, **2 colheres de sopa de gelatina incolor**, **1 colher de sopa de suco de limão**, uma pitada de sal e **até 2 colheres de sopa de mel ou xarope de bordo**. [Receita publicada pela WAPF](https://www.westonaprice.org/raspberry-gelatina/)
+
+1. Aqueça as frutas em fogo baixo por **5–10 minutos** e amasse parte delas. Junte o líquido, o limão e o sal. Cozinhe em fervura branda por **2–3 minutos**.
+2. Retire do fogo e incorpore a gelatina conforme as instruções do produto. Distribua em potes e refrigere até firmar.
+3. Para reduzir carboidratos, use chá sem açúcar no lugar da água de coco e dispense o mel ou substitua por adoçante a gosto. Framboesas e amoras ainda contribuem com carboidratos. A troca do adoçante é uma adaptação da wiki.
+
 ### Mousse aerada de framboesa
 
 Use **240 mL de creme de leite fresco pasteurizado**, **120 mL de água**, **170 g de framboesas** e **1½ colher de sopa de gelatina incolor** para a textura de mousse sugerida por Anita Hirth. Para uma panna cotta mais firme, a receita usa **3 colheres de sopa**. O original leva **2–3 colheres de sopa de xarope de bordo**. A própria autora sugere omiti-lo, e a framboesa continua contribuindo com carboidratos. [Receita de Anita Hirth](https://www.westonaprice.org/whipped-raspberry-panna-cotta/)
@@ -162,6 +170,14 @@ Hidrate a gelatina em água fria, aqueça em fogo baixo até dissolver e misture
 Aqueça **¾ de xícara americana de kombucha (cerca de 180 mL)** em uma panela pequena. Polvilhe **2 colheres de sopa de gelatina bovina incolor** e bata com um batedor de arame por **1–2 minutos**, até dissolver. Despeje em moldes levemente untados com óleo de coco ou em um recipiente de cerca de **15 × 15 cm**. Refrigere por **cerca de 2 horas**. Desenforme ou corte em cubos e mantenha refrigerado. [Ficha de Sisson e Taylor republicada pelo Thrive Market](https://thrivemarket.com/blog/kombucha-gummy-bears-recipe)
 
 A receita dispensa mel e açúcar acrescentados no preparo. Para reduzir os carboidratos do lote, escolha uma kombucha com menos açúcar no rótulo ou teste chá de hibisco sem açúcar na mesma proporção. A troca por chá é uma adaptação da wiki. A versão da WAPF usa também cranberry e mel. [Gelatina de cranberry e kombucha](https://www.westonaprice.org/cranberry-kombucha-jello/)
+
+### Cubos cremosos de iogurte e cottage
+
+Para um lote pequeno inspirado nas balas de Spencer Clanin, use **115 g de iogurte grego natural**, **55 g de cottage**, **60 mL de creme de leite**, **60 mL de água** e **1 colher de sopa de gelatina incolor**. Use laticínios pasteurizados sem açúcar adicionado. A receita publicada leva mel e, na versão mais firme, aproximadamente o dobro da proporção de gelatina. O autor sugere reduzir a gelatina para uma textura mais macia. [Receita original da WAPF](https://www.westonaprice.org/high-protein-gummies-2/)
+
+1. Bata o cottage até ficar liso e misture com o iogurte, o creme e adoçante a gosto. Baunilha é opcional.
+2. Hidrate a gelatina na água fria conforme o rótulo e aqueça em fogo baixo até dissolver. Misture algumas colheradas da base à gelatina morna antes de juntar ao restante.
+3. Despeje em molde pequeno, refrigere até firmar e corte em cubos. Para reduzir o açúcar da cobertura marmorizada, amasse e cozinhe uma pequena porção de amora sem açúcar e misture a parte da base. As medidas deste lote e a troca do mel são adaptações da wiki. Os laticínios e as frutas continuam contribuindo com carboidratos.
 
 ### Balas de coco sem açúcar adicionado
 

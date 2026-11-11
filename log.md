@@ -475,3 +475,7 @@ A [triagem dos dois feeds](raw/mark-sisson-entrevistas.md#peak-human-e-the-bosst
 ## [2026-11-11] ingestão | Peptídeos no plasma após gelatina e hidrolisados
 
 A [nota de estudos](wiki/fontes/virgilio-iwasaki-peptideos.md) registra as formas de colágeno administradas, as medidas plasmáticas e os limites para avaliar a equivalência clínica alegada em comentários.
+
+## [2026-11-11] ingestão | Gelatina de frutas vermelhas e cubos de iogurte e cottage
+
+As [fichas de sobremesas](wiki/temas/receitas-gelatina.md#com-gelatina-em-pó) incorporam dois preparos da WAPF e identificam as trocas de mel ou xarope para reduzir açúcar adicionado.

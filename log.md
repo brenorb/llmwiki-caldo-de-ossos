@@ -123,3 +123,7 @@ O [inventário histórico](raw/inventario-mark-receitas.md) registra 18 páginas
 ## [2026-11-11] ingestão | Cópias oficiais das edições da WAPF
 
 O [inventário dos PDFs](raw/inventario-wapf-receitas.md#cópias-oficiais-e-divergências-entre-rótulo-e-arquivo) vincula as edições recuperadas às cópias oficiais e registra as lacunas. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) acrescenta as passagens sobre folato e glicina.
+
+## [2026-11-11] ingestão | Carrosséis de canície e artrite reumatoide
+
+As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) localizam a foto citada no relato de fios escuros e os depoimentos sobre dor e artrite reumatoide. A [nota de ensaios](wiki/fontes/colageno-tipo-ii-artrite-reumatoide.md) identifica as formulações estudadas e os critérios de remissão.

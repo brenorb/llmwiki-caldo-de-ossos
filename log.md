@@ -195,3 +195,7 @@ O [inventário histórico](raw/inventario-mark-receitas.md#replays-adicionais-e-
 ## [2026-11-11] revisão | Carrosséis percorridos e inventário dos destaques
 
 A [trilha de acesso](raw/busca-receitas-relatos.md) registra a inspeção dos 78 carrosséis, dois vídeos que não carregaram e a contagem de 248 cartões em oito destaques. As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) documentam os achados sobre gelificação, panela elétrica e a alegação de probióticos.
+
+## [2026-11-11] ingestão | Leitura de 252 trechos adicionais da WAPF
+
+A [busca residual](raw/inventario-wapf-receitas.md) registra a seleção e o conteúdo conferido. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) inclui preparos históricos e usos culinários do caldo, e a [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) identifica relatos sobre pele, cabelo, sintomas digestivos e esporte.

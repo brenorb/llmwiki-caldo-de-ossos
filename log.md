@@ -459,3 +459,7 @@ A [nota de Hsu et al.](wiki/fontes/hsu-2017-metais.md) e a [tabela por preparo](
 ## [2026-11-11] revisão | Arquivo de novembro de 2012 e vídeos históricos do blog
 
 O [inventário de Mark’s Daily Apple](raw/inventario-mark-receitas.md#arquivo-mensal-de-2012-e-vídeos-incorporados) acrescenta o cruzamento do arquivo mensal com capturas do feed, a transcrição do vídeo de sprints e a fórmula escrita vinculada ao vídeo de bistecas de Justin. O corpo editorial próprio das edições 216 e 263 segue sem acesso.
+
+## [2026-11-11] revisão | Reprises e caldo comercial nas entrevistas da WAPF
+
+O [inventário de áudios](raw/inventario-wapf-receitas.md#caldo-em-recomendações-e-reprises) chegou a 65 episódios transcritos em inglês e 29 em espanhol. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) registra que a menção ao caldo comercial não informa teor de colágeno nem compara o produto a suplementos.

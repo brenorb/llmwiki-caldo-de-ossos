@@ -100,6 +100,12 @@ Para o fundo, cubra **1,6–1,8 kg de frango inteiro** com cerca de **3,3–3,8 
 
 Refogue em **5 colheres de sopa de manteiga ou óleo de abacate** a cebola, o salsão e a cenoura ralados, na proporção de **½**, **1½** e **2 xícaras**, respectivamente. Junte **3 xícaras de abobrinha ralada** e **1½ xícara de batata-doce ralada**. Deixe amaciar, devolva o caldo e acrescente o frango desfiado e **1–2 pedaços de cúrcuma fresca ralada**. Cozinhe mais **5–10 min** em fogo brando. Finalize com coentro e limão. Para reduzir o amido, omita a batata-doce ou substitua por mais abobrinha. [Ginger Turmeric Chicken Soup Recipe, Mark’s Daily Apple](https://www.marksdailyapple.com/p/ginger-turmeric-chicken-soup-recipe)
 
+## Sopa de peru e cúrcuma do Keto Reset Diet Cookbook
+
+Para quatro porções, separe **450 g de peru moído**, **1,4 L de caldo de ossos de frango**, **um maço pequeno de couve**, **uma cebola pequena**, **seis dentes de alho**, **uma colher de sopa de gengibre ralado** e **duas colheres de sopa de ghee ou outra gordura**. A receita usa cúrcuma fresca e em pó e leva ainda coentro, canela, pimenta e limão. A ficha republicada declara **7 g de carboidratos por porção**. [Receita de Mark Sisson e Lindsay Taylor republicada pela Men's Health](https://www.menshealth.com/nutrition/a25475333/keto-turkey-turmeric-soup/)
+
+Refogue a cebola e os talos picados da couve na gordura. Junte alho, gengibre e cúrcuma. Acrescente o peru e as especiarias, mexendo para desmanchar a carne. Use um pouco do caldo para soltar o fundo da panela e acrescente o restante. Deixe ferver suavemente por dez minutos. Junte as folhas picadas da couve, cozinhe até amaciarem e finalize com coentro e limão.
+
 ## Dois usos de caldo no cardápio semanal
 
 | Preparo | Método original | Adaptação |

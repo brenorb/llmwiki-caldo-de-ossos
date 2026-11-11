@@ -339,3 +339,7 @@ A [trilha de recuperação](raw/mark-sisson-entrevistas.md#recuperação-de-entr
 ## [2026-11-11] ingestão | pH e cálcio no experimento de Rosen
 
 A [nota de Rosen et al.](wiki/fontes/rosen-1994-calcio-caldo.md) registra os três preparos descritos no resumo e a relação entre acidez, tempo e cálcio, com a lacuna de acesso aos valores por volume.
+
+## [2026-11-11] ingestão | Sopa de peru e cúrcuma de Sisson e Taylor
+
+A [ficha da sopa](wiki/temas/receitas-mark-sisson.md#sopa-de-peru-e-cúrcuma-do-keto-reset-diet-cookbook) incorpora a receita republicada de The Keto Reset Diet Cookbook, com caldo de ossos de frango e o teor de carboidratos declarado por porção.

@@ -500,6 +500,30 @@ No corte de **4.900 de 5.447 caminhos**, restavam **547 sem corpo triado**. A fi
 
 O *Weekend Link Love* nº 78 indica uma sopa de brócolis com coco e uma sopa de peru externas. O nº 81 indica uma sopa cremosa de pimentão assado. Esses itens foram verificados como indicações editoriais e não como fórmulas nos corpos consultados. [Edição nº 78](https://web.archive.org/web/20231202021253id_/https://www.marksdailyapple.com/weekend-link-love-78/) · [Edição nº 81](https://web.archive.org/web/20231004165534id_/http://www.marksdailyapple.com/weekend-link-love-81/)
 
+### Retomada com deduplicação entre os arquivos
+
+A fila da Wayback retomou do checkpoint com **1.391 corpos válidos** e **161 endereços a pular** por já terem sido triados pelo Common Crawl. O diário preservou os registros anteriores e recebeu novos corpos após a transição. No corte seguinte, a cobertura deduplicada chegou a **5.108 de 5.447 caminhos**, **208 a mais** que em 4.900, com **339 sem corpo triado**.
+
+| Fonte na segunda etapa | Corpos válidos | Caminhos adicionais na união, na ordem da tabela |
+| --- | ---: | ---: |
+| Wayback, fila ampla | 1.408 em 1.412 endereços | 1.408 |
+| Wayback, consultas complementares | 134 | 117 |
+| Arquivo.pt, consultas complementares | 2 | 1 |
+| Common Crawl | 185 em 187 endereços | 184 |
+| Total deduplicado da segunda etapa | | 1.710 |
+
+| Publicação | O que foi verificado |
+| --- | --- |
+| [Game Meat Recipes](https://web.archive.org/web/20230926052658id_/https://www.marksdailyapple.com/game-meat-recipes/), equipe editorial, 2009-02-06 | Os peitos de peru selvagem recheados com espinafre e bacon vão ao forno com uma xícara de fundo de frango. |
+| [Primal Comfort Foods](https://web.archive.org/web/20230925061556id_/http://www.marksdailyapple.com/primal-comfort-foods/), equipe editorial, 2009-01-30 | A sopa de frango, repolho, cogumelos e outros legumes usa seis xícaras de fundo de frango. |
+| [The Great Pumpkin](https://web.archive.org/web/20231003000618id_/http://www.marksdailyapple.com/the-great-pumpkin/), equipe editorial, 2008-09-24 | A sopa de abóbora e cogumelos leva quatro xícaras de caldo de frango. O molho de abóbora para vieiras, peru ou lombo suíno usa uma xícara de fundo de frango. |
+| [Low-Carb Thanksgiving Recipes](https://web.archive.org/web/20231202013801id_/https://www.marksdailyapple.com/low-carb-thanksgiving-recipes/), equipe editorial, 2008-11-24 | O molho aproveita o líquido da assadeira, que pode incluir o caldo usado para regar o assado. A coletânea também indica uma sopa externa que faz o fundo com asas de frango. [Sopa de cogumelos no Epicurious](https://www.epicurious.com/recipes/food/views/wild-mushroom-soup-with-vegetable-confetti-2452) |
+| [Crock Pot Pork-Stuffed Peppers](https://web.archive.org/web/20231205022031id_/https://www.marksdailyapple.com/crock-pot-pork-stuffed-peppers/), Katerina Shchyelkunova, publicada pela equipe editorial, 2010-03-06 | A introdução menciona caldo ou água para a cocção lenta em geral. A fórmula dos pimentões usa meia xícara de água. |
+| [Natural Cold Remedies](https://www.goodreads.com/author_blog_posts/19081978-12-natural-cold-remedies-examined-what-works-and-what-doesn-t), Mark Sisson, 2019-11-13 | Sisson relata cozinhar alho em caldo de ossos quando sente o começo de um resfriado. Na seção sobre caldo de frango, levanta a hipótese de que sopas com outros caldos de ossos possam ter efeitos semelhantes. A publicação não testa essa extrapolação. |
+| [Osteoarthritis is Not Your Destiny](https://web.archive.org/web/20231206211153id_/http://www.marksdailyapple.com/arthritis-diet/), Mark Sisson, versão atualizada em 2020-08-28 | A coluna sugere caldo de ossos e o aproveitamento das pontas articulares ao comentar glucosamina. A publicação não mede a substância no caldo nem testa desfechos de osteoartrite após o consumo. |
+
+Na versão consultada de *Stay Healthy This Fall*, Sisson sugere congelar fundo de frango ou bovino feito com carcaças e sobras de assado. O texto oferece usos em sopas, ensopados e molhos, sem uma fórmula de caldo. [Coluna arquivada](https://web.archive.org/web/20231204073514id_/https://www.marksdailyapple.com/healthy-fall/)
+
 ## Resultados do Arquivo.pt
 
 A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.

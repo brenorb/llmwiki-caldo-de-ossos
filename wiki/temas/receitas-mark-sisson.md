@@ -266,3 +266,24 @@ Doure **450 g de carne bovina ou suína** temperada com páprica e sal. Aqueça 
 ## Carne com brócolis e molho de caldo de frango
 
 Marine **450 g de carne bovina em tiras** em tamari, xerez seco e pimenta-do-reino por pelo menos **10 min**. Escalde **450 g de brócolis** por **2 min** e escorra. Salteie a carne e o alho em óleo de coco, junte os brócolis e o molho de **80 mL de caldo de frango**, tamari, xerez seco e molho de peixe ou de ostra. Aqueça até ferver e engrosse com **1 colher de chá de farinha**. Rende **4 porções**. [Better than Take-Out Beef and Broccoli](https://web.archive.org/web/20230927091630id_/https://www.marksdailyapple.com/beef-and-broccoli-recipe/)
+
+## Peito de peru selvagem recheado, assado com fundo de frango
+
+Doure **450 g de bacon**, reserve e refogue **1 cebola** em parte da gordura. Junte o bacon e **450 g de espinafre** e cozinhe até murchar. Abra **2 peitos desossados de peru selvagem**, distribua o recheio, prenda com palitos e doure dos dois lados. Acrescente **240 mL de fundo de frango** e leve ao forno a **150 °C**. O original estima **45–60 min**, conforme o tamanho dos peitos. Confira que o centro do recheio e da carne atingiu **74 °C**. Deixe descansar **10 min**, retire os palitos e fatie. Rende **8 porções**. [Game Meat Recipes, seção Bacon and Spinach Stuffed Wild Turkey Breast](https://web.archive.org/web/20230926052658id_/https://www.marksdailyapple.com/game-meat-recipes/) · [Temperatura mínima, USDA](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)
+
+## Sopa de frango e legumes com fundo de frango
+
+A publicação usa **1,4 L de fundo de frango** temperado com salsa, alho em pó, orégano, sal e pimenta. Cozinhe **¾ de xícara de salsão, ¾ de cogumelos, ½ de brócolis, ½ de cebola e ½ de abobrinha** no fundo por **30 min** com tampa. Junte **2 xícaras de repolho em tiras** e cerca de **1,1 kg de peito de frango** em cubos. A receita escalda os peitos em água por **5 min** antes de cortá-los e estima mais **15 min** na sopa. Cozinhe até o frango atingir **74 °C**. Rende **6 porções**. [Primal Comfort Foods, seção Chicken Vegetable Soup](https://web.archive.org/web/20230925061556id_/http://www.marksdailyapple.com/primal-comfort-foods/) · [Temperatura mínima, USDA](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)
+
+## Sopa e molho de abóbora
+
+| Preparo | Uso do caldo |
+| --- | --- |
+| Sopa de abóbora e cogumelos | Bata **3 xícaras de purê de abóbora** com **950 mL de caldo de frango**, **1 colher de sopa de sálvia fresca**, sal e pimenta. Junte **1½ xícara de cogumelos salteados**, **⅔ de xícara de cebola refogada** e **3 dentes de alho refogados**. Aqueça e deixe em fogo baixo por **15–20 min**. Creme de leite ou manteiga são opcionais. [The Great Pumpkin, seção Pumpkin Soup](https://web.archive.org/web/20231003000618id_/http://www.marksdailyapple.com/the-great-pumpkin/) |
+| Molho de abóbora para vieiras | Refogue **½ cebola grande** e **2 dentes de alho** e incorpore **4 colheres de sopa de manteiga** e **3 colheres de sopa de salsa picada**. Junte **1½ xícara de purê de abóbora** e **240 mL de fundo de frango** e aqueça até ficar homogêneo. Sirva sobre vieiras douradas. A fonte também sugere peru ou lombo suíno. [The Great Pumpkin, seção Scallops with Pumpkin Sauce](https://web.archive.org/web/20231003000618id_/http://www.marksdailyapple.com/the-great-pumpkin/) |
+
+## Molho de assadeira para peru e sopa externa de cogumelos
+
+Para o molho, aqueça **120–710 mL do líquido da assadeira** em uma frigideira, conforme o rendimento do assado e o número de porções. Se o peru foi regado com caldo, esse líquido já pode estar na assadeira. A fonte oferece vinho como opção e sugere **½–1 colher de sopa de farinha integral** ou um pouco de creme de leite para engrossar. Também indica servir o líquido aquecido sem espessante. [Low-Carb Thanksgiving Recipes, seção Low-Carb Gravy](https://web.archive.org/web/20231202013801id_/https://www.marksdailyapple.com/low-carb-thanksgiving-recipes/)
+
+A mesma coletânea indica uma sopa do *Epicurious* com um fundo de **1,8 kg de asas de frango**, alho-poró, cenoura, cebola, tomilho, louro, pimenta em grãos e cerca de **3,55 L de água**. O fundo cozinha por **2 h 15 min**, é coado e reduzido, se necessário, até cerca de **1,9 L**. A sopa usa aproximadamente **1,54 L desse fundo** com açafrão, cogumelos, chalota, alho e curry. A equipe do *Mark’s Daily Apple* sugere fundo pronto para poupar tempo. [Receita externa](https://www.epicurious.com/recipes/food/views/wild-mushroom-soup-with-vegetable-confetti-2452) · [Coletânea que a indica](https://web.archive.org/web/20231202013801id_/https://www.marksdailyapple.com/low-carb-thanksgiving-recipes/)

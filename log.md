@@ -283,3 +283,7 @@ O [inventário de áudio](raw/inventario-wapf-receitas.md#passagens-adicionais-e
 ## [2026-11-11] ingestão | Entrevista de Mandagará no Batata Assando
 
 A [nota do episódio](wiki/fontes/cozinha-de-pedra-caldo.md#entrevista-no-batata-assando) registra a transcrição integral, a descrição de fios escuros novos e os trechos culinários. A [página de canície](wiki/temas/cabelos-brancos.md) localiza a provável repetição do caso. As [receitas](wiki/temas/receitas-gelatina.md#torta-fria-de-limão-com-gordura-do-caldo) trazem a adaptação da torta de limão.
+
+## [2026-11-11] ingestão | Sopas, molhos e retomada do arquivo de Sisson
+
+O [inventário histórico](raw/inventario-mark-receitas.md#retomada-com-deduplicação-entre-os-arquivos) registra a triagem de 5.108 de 5.447 caminhos e a contagem por fonte. As [fichas](wiki/temas/receitas-mark-sisson.md) acrescentam usos de fundo para peru, sopa de frango, abóbora e cogumelos.

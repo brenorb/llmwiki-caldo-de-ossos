@@ -479,3 +479,7 @@ A [nota de estudos](wiki/fontes/virgilio-iwasaki-peptideos.md) registra as forma
 ## [2026-11-11] ingestão | Gelatina de frutas vermelhas e cubos de iogurte e cottage
 
 As [fichas de sobremesas](wiki/temas/receitas-gelatina.md#com-gelatina-em-pó) incorporam dois preparos da WAPF e identificam as trocas de mel ou xarope para reduzir açúcar adicionado.
+
+## [2026-11-11] revisão | Almoço escolar e nova cobertura de áudio da WAPF
+
+O [inventário da WAPF](raw/inventario-wapf-receitas.md#almoço-escolar-e-lote-auxiliar) chegou a 68 áudios conferidos em inglês e 31 em espanhol. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) localiza as passagens sobre caldo na escola e o relato histórico de Weston Price.

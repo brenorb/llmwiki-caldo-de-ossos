@@ -2,6 +2,8 @@
 
 O arquivo de Mark’s Daily Apple migrou para o Substack. A [Primal Kitchen informa que o blog anterior tinha mais de 6 mil publicações e receitas](https://www.primalkitchen.com/pages/marks-daily-apple). A busca combina páginas atuais e textos da publicação antiga recuperados no feed de autor do Goodreads. O [inventário histórico](../../raw/inventario-mark-receitas.md) registra as 385 páginas e 3.842 entradas recuperadas, a triagem por palavras e as lacunas do acervo. A atribuição abaixo distingue a voz pessoal de Sisson nas colunas *Dear Mark* das receitas publicadas sob a marca Mark’s Daily Apple.
 
+As [fichas de Mark’s Daily Apple e de Sisson](../temas/receitas-mark-sisson.md) trazem medidas, tempos e adaptações culinárias. Uma busca adicional por medidas junto a gelatina em pó no corpo do feed recuperou três sobremesas que ficaram fora do filtro de título. São o [cheesecake de coco](https://www.goodreads.com/author_blog_posts/16156075-no-bake-keto-coconut-cheesecake), o [parfait](https://www.goodreads.com/author_blog_posts/17090127-keto-cheesecake-parfait) e a [torta de morango](https://www.goodreads.com/author_blog_posts/18676384-keto-strawberry-cream-pie).
+
 ## Receitas e aplicações recuperadas
 
 | Texto | Aplicação |

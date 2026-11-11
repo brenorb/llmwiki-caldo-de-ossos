@@ -92,6 +92,10 @@ Para uma adaptação da receita da WAPF, use **200 mL de leite de coco integral 
 
 Mandagará relata ter adaptado o quindim do Senhor Tanquinho com a gordura separada do caldo e eritritol. A receita base usa gemas, coco ralado e óleo de coco. A versão de forno usa xilitol e apresenta eritritol como opção, enquanto a versão de micro-ondas já usa eritritol. A proporção de gordura empregada na adaptação ficou em aberto. [Live do Cozinha de Pedra, 1:04:04–1:04:10 e 1:05:15–1:05:20](https://www.instagram.com/cozinhadepedra/reel/CRM6gmfJsQM/) · [Receita base do Senhor Tanquinho](https://www.senhortanquinho.com/quindim-low-carb-receita/)
 
+## Como usar gengibre em uma gelatina firme
+
+Em uma live, a autora relata que gengibre cru dificulta a gelificação e sugere aquecê-lo antes. A protease do gengibre hidrolisa gelatina em laboratório. Para aromatizar um caldo que já firme quando frio, teste uma pequena porção com uma infusão feita em fervura e coada. A firmeza também depende de quanto líquido foi acrescentado. [Live do Cozinha de Pedra, 21:43–22:20](https://www.instagram.com/cozinhadepedra/reel/CQW68bqpaz-/) · [Estudo de hidrólise](https://pmc.ncbi.nlm.nih.gov/articles/PMC9370692/)
+
 ## Substituições que mudam os carboidratos e a textura
 
 | Ideia | Onde entram carboidratos | Como adaptar |

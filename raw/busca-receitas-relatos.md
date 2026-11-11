@@ -25,6 +25,8 @@ Na conferência seguinte da fila sem limite, havia **36 reels com transcrição*
 
 No retrato seguinte, havia **40 reels com transcrição automática completa** e três sem fala detectada. O reel que tinha falhado por conexão foi recuperado em nova tentativa, com 32 blocos e falas até cerca de 1h03. Os demais itens continuavam na fila. [Live recuperada](https://www.instagram.com/cozinhadepedra/reel/CR2as2IpHH9/)
 
+Na nova conferência, o conjunto chegou a **45 transcrições automáticas completas** e três reels processados sem fala detectada. As transcrições com preparos ou alegações pertinentes foram usadas para localizar trechos nas lives. [Notas do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md)
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

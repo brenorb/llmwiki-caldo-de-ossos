@@ -43,7 +43,7 @@ Como ponto de partida da wiki para duas porções, use **1 chuchu médio** e **4
 
 Mandagará dilui caldo bovino com um pouco de água, junta frango já frito na gordura do tutano e tempera com sal e alho. Quando o caldo ferve, ela quebra **1 ovo** na panela, deixa cozinhar e finaliza com parmesão ralado. A publicação deixa em aberto as quantidades de frango, caldo e água. [Reel do Cozinha de Pedra, 00:08–02:45 e 03:46–05:06](https://www.instagram.com/cozinhadepedra/reel/CAbY-OPlY1K/)
 
-Na versão com legumes, junte ao caldo tomates-cereja, cenoura e pimentão picados. Cozinhe até ficarem macios e deixe o ovo firmar no caldo. A autora também sugere finalizar com salsinha, queijo ralado e azeite. [Live do Cozinha de Pedra, 18:28–19:15 e 20:23–21:21](https://www.instagram.com/cozinhadepedra/reel/CDfKkCrFkzv/) · [Reel, 00:35–00:49](https://www.instagram.com/cozinhadepedra/reel/B7ACPN-DY8r/)
+Na versão com legumes, junte ao caldo tomates-cereja, cenoura e pimentão picados. Cozinhe até ficarem macios e deixe o ovo firmar no caldo. A autora também sugere finalizar com salsinha, queijo ralado e azeite. [Live do Cozinha de Pedra, 18:28–19:15 e 20:23–21:21](https://www.instagram.com/cozinhadepedra/reel/CDfKkCrFkzv/) · [Reel, 00:35–00:49](https://www.instagram.com/cozinhadepedra/reel/B7ACPN-DY8r/) · [Fotos e legenda do preparo com ovo](https://www.instagram.com/cozinhadepedra/p/B8Kte42DbFb/)
 
 ## Sopa à moda italiana com linguiça e abobrinha
 

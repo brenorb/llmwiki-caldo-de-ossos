@@ -50,11 +50,13 @@ Mandagará faz uma mistura seca de **leite de coco em pó, cacau, café solúvel
 
 ### Canjica cremosa de castanha de caju
 
-**Para um lote**, use **250 g de xerém de castanha de caju**, **200 mL de caldo neutro**, **200–400 mL de leite de coco sem açúcar**, água para completar **600 mL de água mais leite de coco**, coco ralado, uma pitada de sal, cravo, canela em pau e eritritol a gosto. A receita original usa 100 g de eritritol.
+**Para um lote**, use **250 g de xerém de castanha de caju**, **200 mL de caldo neutro**, **200–400 mL de leite de coco sem açúcar**, água para completar **600 mL de água mais leite de coco**, **50 g de coco ralado sem açúcar**, uma pitada de sal, cravo, canela em pau e eritritol a gosto. A receita original usa 100 g de eritritol.
 
 1. Hidrate o xerém durante a noite na geladeira, escorra e descarte a água do molho.
 2. Leve ao fogo com caldo, especiarias e adoçante. Incorpore coco ralado, leite de coco e a água da receita e cozinhe em fogo brando até a castanha ficar macia.
 3. Retire do fogo enquanto a mistura ainda estiver fluida. Ela engrossa ao esfriar. O caju contribui com carboidratos, então avalie a porção conforme a sua meta. [Receita do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/p/CBxgKWiKPvU/)
+
+Os cartões do preparo mostram também bicarbonato de sódio, sem indicar a quantidade no cartão. A ficha acima usa o espessamento ao esfriar. [Carrossel, cartões 7 a 10](https://www.instagram.com/cozinhadepedra/p/CBxgKWiKPvU/)
 
 ### Sacolé de iogurte, frutas vermelhas e caldo neutro
 

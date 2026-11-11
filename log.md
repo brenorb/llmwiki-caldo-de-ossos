@@ -191,3 +191,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md) registra a conferência de s
 ## [2026-11-11] ingestão | Mariscos e vídeos do concurso do Mark’s Daily Apple
 
 O [inventário histórico](raw/inventario-mark-receitas.md#replays-adicionais-e-vídeos-do-concurso-de-2011) registra 4.231 textos triados, o acesso aos vídeos e as buscas nas capturas antigas. As [receitas](wiki/temas/receitas-mark-sisson.md) incluem fundo de camarão e mexilhões com caldo de tomate.
+
+## [2026-11-11] revisão | Carrosséis percorridos e inventário dos destaques
+
+A [trilha de acesso](raw/busca-receitas-relatos.md) registra a inspeção dos 78 carrosséis, dois vídeos que não carregaram e a contagem de 248 cartões em oito destaques. As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) documentam os achados sobre gelificação, panela elétrica e a alegação de probióticos.

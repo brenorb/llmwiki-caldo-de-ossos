@@ -45,15 +45,18 @@ Uma segunda transcrição integral dos sete reels com trilha sem texto também r
 
 ## Destaques do Cozinha de Pedra
 
-| Destaque | Conteúdo verificado na interface |
-| --- | --- |
-| [Sucessos](https://www.instagram.com/stories/highlights/18120103564175023/) | Cartões de diferentes pontos da sequência, inclusive os últimos. Há relatos repetidos e falas de vídeos que requerem transcrição. |
-| [Panela Elétrica](https://www.instagram.com/stories/highlights/18071376179065415/) | Cartões sobre capacidade nominal, marca máxima, duração de ciclos e experiência com modelos. Alguns cartões ficaram em carregamento. As especificações de cada panela pertencem ao manual do equipamento. |
-| [P&R](https://www.instagram.com/stories/highlights/17863690877381878/) | Cartões sobre cor do caldo, ingredientes e alegações de saúde. Leitura parcial. |
-| [Aprenda aqui](https://www.instagram.com/stories/highlights/18133140973187412/) | Trechos em vídeo, incluindo corte de ossos. Leitura visual parcial. |
-| [OqÉ](https://www.instagram.com/stories/highlights/17982434939068189/) | Vídeo de apresentação que menciona possíveis usos culinários. Leitura visual parcial. |
-| [Aula Gratuita](https://www.instagram.com/stories/highlights/17906118194675749/) e [Método Colosso](https://www.instagram.com/stories/highlights/18089308693765563/) | Cartões de apresentação da aula e do curso. |
-| [Quem sou](https://www.instagram.com/stories/highlights/17875237964040894/) | Vídeo de apresentação da autora. |
+A sessão autenticada exibiu **oito destaques e 248 cartões**. O total vem dos segmentos de progresso de cada sequência. A leitura visual de um cartão em vídeo confirma o que apareceu na tela. A fala exige verificação da trilha.
+
+| Destaque | Cartões | Conteúdo verificado na interface |
+| --- | ---: | --- |
+| [Panela Elétrica](https://www.instagram.com/stories/highlights/18071376179065415/) | 22 | Todos os 22 conferidos visualmente. Inclui capacidade nominal, marca máxima, duração do ciclo sob pressão, comparação de painéis e experiência com modelos. Três cartões em vídeo ainda não tiveram a fala verificada. |
+| [Método Colosso](https://www.instagram.com/stories/highlights/18089308693765563/) | 12 | Apresentação do curso. Leitura parcial. |
+| [OqÉ](https://www.instagram.com/stories/highlights/17982434939068189/) | 1 | Vídeo de apresentação que menciona possíveis usos culinários. Cartão visto, com fala pendente. |
+| [Aula Gratuita](https://www.instagram.com/stories/highlights/17906118194675749/) | 7 | Cinco cartões visualmente conferidos. Dois ficaram sem imagem ou vídeo carregado na conferência. |
+| [Sucessos](https://www.instagram.com/stories/highlights/18120103564175023/) | 65 | Cartões de diferentes pontos da sequência, inclusive os últimos. Há relatos repetidos e vídeos com fala ainda pendente. |
+| [Aprenda aqui](https://www.instagram.com/stories/highlights/18133140973187412/) | 52 | Trechos em vídeo, incluindo corte de ossos. Leitura visual parcial. |
+| [P&R](https://www.instagram.com/stories/highlights/17863690877381878/) | 87 | Cartões sobre cor do caldo, ingredientes e alegações de saúde. Leitura parcial. |
+| [Quem sou](https://www.instagram.com/stories/highlights/17875237964040894/) | 2 | Os dois cartões foram vistos. Um é um vídeo de apresentação com fala pendente. |
 
 - [Notas do Cozinha de Pedra](../wiki/fontes/cozinha-de-pedra-caldo.md)
 - [Notas de Mark Sisson e Mark’s Daily Apple](../wiki/fontes/mark-sisson-caldo-gelatina.md)
@@ -80,4 +83,6 @@ A conferência seguinte percorreu mais 25 carrosséis. Entre os materiais locali
 
 Uma rodada com seis carrosséis mais antigos recuperou cartões sobre [imunidade](https://www.instagram.com/cozinhadepedra/p/B-zIRjwIHuN/), [saciedade](https://www.instagram.com/cozinhadepedra/p/B-Pqa_GDCXn/) e [alegações gerais de saúde](https://www.instagram.com/cozinhadepedra/p/B-2GE-dDbpl/). Neste último, nove dos dez cartões ficaram legíveis na sequência conferida.
 
-Dos **78 carrosséis** identificados, **50** tiveram leitura visual confirmada, **11** tiveram leitura parcial e **17** ainda aguardavam conferência. A extração de mídia foi tentada em 16 carrosséis.
+Os **78 carrosséis** identificados foram percorridos. Em **76**, todos os cartões apresentados pela interface foram conferidos visualmente. Em dois, um vídeo ficou sem carregar. Os casos são o primeiro cartão da [gelatina de coco](https://www.instagram.com/cozinhadepedra/p/CFSEIF3MRbK/) e o terceiro de um anúncio de logística. A leitura visual dos cartões e a transcrição de áudio dos vídeos têm coberturas distintas. A extração de mídia foi tentada em 16 carrosséis.
+
+A nova leitura da [canjica](https://www.instagram.com/cozinhadepedra/p/CBxgKWiKPvU/) confirmou as imagens das etapas e a medida de coco ralado. Os [cartões sobre gelificação](https://www.instagram.com/cozinhadepedra/p/CKHlf8zMlq_/) detalham a diluição, as partes usadas e a temperatura. A [outra versão da sopa de sobras](https://www.instagram.com/cozinhadepedra/p/B8Kte42DbFb/) confirma o ovo cozido diretamente no caldo.

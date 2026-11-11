@@ -45,3 +45,5 @@ No retrato seguinte, havia **40 reels com transcrição automática completa** e
 - [Comparação de alegações e evidência](../wiki/temas/relatos-e-evidencia.md)
 
 Foram lidos os nove cartões do [carrossel sobre unhas quebradiças](https://www.instagram.com/cozinhadepedra/p/CDHOUEslLBm/). Os cartões 2–5 trazem fotos e relato. Os cartões 6–8 reproduzem partes do [resumo de Hexsel et al.](https://pubmed.ncbi.nlm.nih.gov/28786550/).
+
+Mais quatro carrosséis foram lidos por completo, com 15 cartões ao todo. Dois repetem os mesmos cinco cartões sobre dor no joelho. Um anuncia uma entrevista e relembra uma publicação anterior. O outro reúne fotos e um relato de perda de peso em contexto de mudanças concomitantes. [Entrevista](https://www.instagram.com/cozinhadepedra/p/CJGiUdTsPC1/) · [Joelho](https://www.instagram.com/cozinhadepedra/p/CEteZC3o8og/) · [Joelho, republicação](https://www.instagram.com/cozinhadepedra/p/B_Ho2SlIHZT/) · [Peso](https://www.instagram.com/cozinhadepedra/p/CElv4jwImjX/)

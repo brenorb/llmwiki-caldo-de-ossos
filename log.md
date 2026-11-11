@@ -495,3 +495,7 @@ A [nota de Lugo et al.](wiki/fontes/lugo-2016-colageno-nativo-artrose.md) regist
 ## [2026-11-11] ingestão | Bife com ovos e caldo no Two Meals a Day Cookbook
 
 A prévia licenciada de Sisson e Brad Kearns confirma 30 mL de caldo no preparo dos ovos. A [ficha na wiki](wiki/temas/receitas-mark-sisson.md#bife-com-ovos-e-caldo-do-two-meals-a-day-cookbook) registra o que apareceu nos trechos e identifica a etapa do bife como lacuna.
+
+## [2026-11-11] ingestão | Purinas em caldos comerciais de frango e alegação sobre gota
+
+A [nota de Wu et al.](wiki/fontes/wu-2021-purinas-caldo-frango.md) registra os 12 resultados e a conversão por 250 mL. A [matriz de relatos](wiki/temas/relatos-e-evidencia.md) compara a alegação da WAPF com a medição e a diretriz clínica.

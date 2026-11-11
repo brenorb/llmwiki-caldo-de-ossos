@@ -123,6 +123,7 @@
 - [Thomas et al. (2024) · Peptídeos de colágeno e sono](wiki/fontes/thomas-2024-colageno-sono.md)
 - [Lugo et al. (2016) · Colágeno tipo II não desnaturado e artrose](wiki/fontes/lugo-2016-colageno-nativo-artrose.md)
 - [Iwasaki e Virgilio · Peptídeos no plasma após gelatina e hidrolisados](wiki/fontes/virgilio-iwasaki-peptideos.md)
+- [Wu et al. (2021) · Purinas em 12 caldos de frango](wiki/fontes/wu-2021-purinas-caldo-frango.md)
 - [Yamadera et al. (2007) — Glicina isolada e sono](wiki/fontes/yamadera-2007-glicina-sono.md)
 - [Yamamoto e Tomimori (1998) — Pressão e caldo de ossos de frango](wiki/fontes/yamamoto-tomimori-1998.md)
 - [Zeng e Zhang (2014) — Condições de extração em caldo de frango](wiki/fontes/zeng-zhang-2014.md)

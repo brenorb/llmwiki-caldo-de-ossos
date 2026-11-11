@@ -48,6 +48,7 @@ A [busca de receitas e relatos](../raw/busca-receitas-relatos.md) descreve a cob
 | O piloto de dermatite atópica comparou um suplemento com placebo e mediu o uso de creme de resgate e os sintomas. | [Proksch et al.](fontes/proksch-2026-colageno-dermatite.md). |
 | Gelatina e hidrolisados elevaram pequenos peptídeos no plasma. Os produtos tiveram diferenças em alguns marcadores de exposição. | [Iwasaki e Virgilio](fontes/virgilio-iwasaki-peptideos.md). |
 | Um ensaio de artrose estudou uma dose definida de colágeno tipo II não desnaturado de cartilagem de frango e mediu sintomas e função. | [Lugo et al.](fontes/lugo-2016-colageno-nativo-artrose.md). |
+| Quatro purinas e ácido úrico foram quantificados separadamente em 12 caldos comerciais chineses de frango. | [Wu et al.](fontes/wu-2021-purinas-caldo-frango.md). |
 | Resfriar em porções rasas e refrigerar logo. O limite de exposição doméstica é diferente da curva de resfriamento no centro monitorada em serviços. | [USDA](fontes/usda-sobras.md), [FDA](fontes/fda-resfriamento.md), [RDC 216](fontes/anvisa-rdc-216.md). |
 | A conservação na despensa exige processo validado para a preparação e equipamento próprio. | [NCHFP](fontes/nchfp-caldo.md), [CDC](fontes/cdc-conservas.md). |
 

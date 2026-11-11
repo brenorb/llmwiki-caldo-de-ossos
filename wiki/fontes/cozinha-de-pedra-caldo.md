@@ -132,6 +132,19 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 - O destaque sobre panela elétrica descreve como a autora compara o volume útil, o tempo máximo do ciclo sob pressão e os painéis. As opiniões sobre durabilidade descrevem experiências individuais. A capacidade nominal e o volume que o fabricante permite durante o cozimento podem diferir. [Destaque Panela Elétrica](https://www.instagram.com/stories/highlights/18071376179065415/) · [Preparo e segurança](../temas/preparo.md)
 - Uma notícia republicada descreve o caldo como fonte de probióticos sem identificar microrganismos vivos, quantidade ou teste de benefício do produto. A definição de probiótico exige microrganismos vivos que produzam benefício quando consumidos em quantidade adequada. [Carrossel, cartão 3](https://www.instagram.com/cozinhadepedra/p/B7dX8N6IRdR/?img_index=3) · [Consenso da ISAPP](https://pubmed.ncbi.nlm.nih.gov/24912386/)
 
+## Destaque Aprenda aqui
+
+Todos os **52 cartões** foram conferidos visualmente, incluindo quadros de **39 vídeos**. A numeração segue a ordem do destaque na sessão autenticada. A conferência visual ainda deixa a fala dos vídeos pendente. [Destaque no perfil](https://www.instagram.com/stories/highlights/18133140973187412/)
+
+| Cartões | Conteúdo conferido |
+| --- | --- |
+| 1–18 | Corte e porcionamento dos ossos, uso da panela elétrica, coagem e retirada da camada de gordura fria. |
+| 19–29 | Chocolate quente, gelatina de coco, bolo de chocolate com brigadeiro e nata, café com caldo e picolé em camadas de coco e chocolate. O bolo aparece sem fórmula. As expressões promocionais sobre efeito estético no chocolate e no café não vêm acompanhadas de medidas clínicas. |
+| 30–39 | Café com óleo de coco e creme de leite, batida de morango com kefir, caldo cremoso com canela, flan de coco e combinações frias com fruta. O cartão 33 indica duas horas de pressão para aves e três para bovinos como orientação culinária do perfil. Para resfriar após o preparo, siga os prazos da [página de conservação](../temas/seguranca-conservacao.md). |
+| 40–52 | Caldo de ave com cúrcuma, caldo neutro batido com limão, infusão de camomila e noz-moscada com caldo, batidas de fruta, caldo com canela, pasta de alho e sal para temperar, purê de couve-flor, mousse de morango e goulash com caldo. As batidas incluem morango com gengibre e ora-pro-nóbis, abacaxi com gengibre e casca de abacaxi com hortelã. |
+
+As [fichas de gelatinas e bebidas](../temas/receitas-gelatina.md#com-caldo-de-ossos-neutro) registram as medidas visíveis e identificam as proporções acrescentadas para teste. O [vídeo de kefir creditado no cartão 31](https://www.senhortanquinho.com/iogurte-dieta-low-carb-cetogenica-receita-coalhada-kefir/) aparece incorporado na página dos autores. A receita escrita nessa página usa cacau e canela. As medidas da versão com morango e caldo ficaram em aberto no destaque.
+
 ## Destaque Sucessos
 
 A posição dos cartões é a da sequência de 65 exibida em 2026-11-11. A leitura foi visual, inclusive nos 16 cartões em vídeo. Os relatos foram resumidos sem republicar nomes ou imagens. A sequência seleciona mensagens de quem entrou em contato com o perfil. Ela não informa quantas pessoas consumiram caldo nem permite estimar a frequência dos efeitos. [Destaque Sucessos](https://www.instagram.com/stories/highlights/18120103564175023/)

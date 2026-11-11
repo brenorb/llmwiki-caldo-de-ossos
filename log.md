@@ -227,3 +227,7 @@ A [triagem histórica](raw/inventario-mark-receitas.md#continuação-da-triagem-
 ## [2026-11-11] revisão | Duração das lives transcritas
 
 A [trilha de áudio](raw/busca-receitas-relatos.md#áudio-dos-reels) registra a duração verificada das duas lives recuperadas na primeira retomada e da live de saborização. Todos os blocos das três faixas foram processados.
+
+## [2026-11-11] ingestão | Destaque Aprenda aqui e receitas de caldo neutro
+
+A [trilha de acesso](raw/busca-receitas-relatos.md#destaques-do-cozinha-de-pedra) registra os 52 cartões vistos e a pendência das trilhas. A [nota do destaque](wiki/fontes/cozinha-de-pedra-caldo.md#destaque-aprenda-aqui) localiza as receitas, e as [fichas](wiki/temas/receitas-gelatina.md#com-caldo-de-ossos-neutro) acrescentam flan de coco, picolé em camadas, café batido, caldo com canela e batida de morango.

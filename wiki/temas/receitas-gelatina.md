@@ -20,6 +20,10 @@ Para sobremesas, Bibiana Mandagará prefere caldo bovino de fêmur ou canela pre
 
 Uma participante relata que o pudim de coco firmou quando ela trocou a gelatina incolor em pó por caldo de ossos. A live deixa em aberto a receita base, o volume e a concentração do caldo. Para experimentar a técnica, use caldo neutro que já firme bem na geladeira e faça um teste pequeno, contando o caldo no volume de líquido da receita. [Live do Cozinha de Pedra, 24:14–24:32](https://www.instagram.com/cozinhadepedra/reel/CHJfIXuJrpw/)
 
+### Flan de coco com caldo gelificado
+
+Em uma receita de leitora compartilhada no destaque, aqueça **100 g de caldo neutro gelificado**, **100 g de coco ralado**, **100 mL de água**, **6 gotas de essência de baunilha** e **2 colheres de eritritol** até ferver. Retire do fogo e junte **3 colheres de creme de leite**. Quando a mistura amornar, bata por **3 minutos**, divida em porções e refrigere até firmar. O cartão informa as colheres sem indicar seu tamanho. Para um primeiro teste da wiki, use 3 colheres de sopa de creme e ajuste o eritritol a gosto. Use coco ralado sem açúcar se quiser manter a versão sem açúcar adicionado. [Destaque Aprenda aqui, cartão 37](../fontes/cozinha-de-pedra-caldo.md#destaque-aprenda-aqui)
+
 ### Limonada e gelatina de limão
 
 Bata **160 mL de caldo neutro congelado em cubos**, **200 mL de água**, o suco de **meio limão** e, se quiser, um pouco de eritritol. Sirva a bebida imediatamente. Para transformar em gelatina, use caldo liquefeito e comece com menos água que a versão de beber. Em outra live, a autora prepara a gelatina com caldo bovino neutro derretido, limão e eritritol, sem diluir com água. Faça um teste em um copo e resfrie. [Live, 17:10–18:20](https://www.instagram.com/cozinhadepedra/reel/CLX3O49JHkb/) Se o caldo for fraco ou a mistura ficar muito diluída, acrescente gelatina em pó conforme o rótulo. Bater com nata pasteurizada dá a variação aerada descrita na entrevista. [Limonada da Bibi](https://www.instagram.com/cozinhadepedra/p/CKKDN_EFp4_/) · [Entrevista e torta de limão](../fontes/cozinha-de-pedra-caldo.md)
@@ -44,9 +48,21 @@ Para uma textura aerada, bata a mistura depois de fria e firmada e volte à gela
 
 A mesma base pode ser congelada em formas de picolé. Para outra variação, congele café com leite em cubos, use os cubos para resfriar o chocolate e leve a mistura à geladeira para firmar. A live não indica proporções. Leite e chocolate adoçado contribuem com carboidratos. [Live de saborização, 22:13–22:36 e 32:50–33:56](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/)
 
+### Picolé em camadas de coco e chocolate
+
+O destaque mostra um picolé com uma camada de coco e outra de chocolate, ambas feitas com caldo. Para montar a adaptação da wiki, preencha parcialmente as formas com a [base de coco](#gelatina-ou-mousse-de-coco) e congele até firmar. Complete com a [base de cacau](#cacau-quente-ou-sobremesa-de-chocolate) já fria, coloque os palitos e volte ao congelador. Use cacau sem açúcar e ajuste a doçura antes de congelar. [Destaque Aprenda aqui, cartão 29](../fontes/cozinha-de-pedra-caldo.md#destaque-aprenda-aqui)
+
 ### Cappuccino com caldo neutro
 
 Mandagará faz uma mistura seca de **leite de coco em pó, cacau, café solúvel e eritritol**, com canela opcional. Para servir, dissolva a mistura em caldo neutro aquecido e ajuste ao gosto. A live não dá as proporções. Confira se o leite de coco em pó contém açúcar ou maltodextrina. [Live do Cozinha de Pedra, 12:00–12:43 e 13:35–14:42](https://www.instagram.com/cozinhadepedra/reel/CC7HbTcFQ73/)
+
+### Café batido com óleo de coco e caldo
+
+Bata **20 g de café forte**, **200 g de caldo neutro gelado**, **1 colher de sobremesa de óleo de coco**, **1 colher de sobremesa de creme de leite** e canela a gosto. O cartão informa o peso do café sem especificar se já foi coado. Para reproduzir a bebida, a wiki interpreta a medida como café forte preparado. [Destaque Aprenda aqui, cartão 30](../fontes/cozinha-de-pedra-caldo.md#destaque-aprenda-aqui)
+
+### Caldo cremoso com canela
+
+Aqueça **200 mL de caldo neutro**. Infunda **2 pedaços de canela em casca** em xícara coberta por **10 minutos** e misture **½ colher de sopa de creme de leite**. Outro cartão mostra uma versão adoçada com eritritol e sem medidas. [Destaque Aprenda aqui, cartões 32 e 46](../fontes/cozinha-de-pedra-caldo.md#destaque-aprenda-aqui)
 
 ### Canjica cremosa de castanha de caju
 
@@ -61,6 +77,10 @@ Os cartões do preparo mostram também bicarbonato de sódio, sem indicar a quan
 ### Sacolé de iogurte, frutas vermelhas e caldo neutro
 
 Para um lote de teste, use **170 g de iogurte natural sem açúcar**, **60 g de morangos ou framboesas** e **80 g de caldo neutro já gelificado**. Bata o iogurte com a fruta, incorpore o caldo frio e bata brevemente. Distribua em formas pequenas para picolé ou saquinhos próprios para alimentos e congele. A live sugere gelo e não fornece proporções. As quantidades acima são uma adaptação da wiki. O iogurte e a fruta contribuem com carboidratos. [Live do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/reel/CUBazYUJ5BH/) · [Conservação](seguranca-conservacao.md)
+
+### Bebidas geladas de morango com caldo
+
+Para um copo de teste, bata **100 mL de caldo neutro frio**, **100 mL de kefir de leite sem açúcar** e **50 g de morango**. As medidas são uma adaptação da wiki. O destaque registra a combinação sem quantidades e mostra outras versões com iogurte natural, amora congelada e raspas de bergamota ou com gengibre. O kefir de leite e a fruta contribuem com carboidratos. [Destaque Aprenda aqui, cartões 31, 38 e 41](../fontes/cozinha-de-pedra-caldo.md#destaque-aprenda-aqui)
 
 ### Compota de frutas vermelhas com caldo
 

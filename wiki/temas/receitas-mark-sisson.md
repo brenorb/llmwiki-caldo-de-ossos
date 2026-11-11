@@ -1,6 +1,18 @@
 # Receitas de caldo e gelatina de Mark’s Daily Apple
 
-As fichas resumem receitas publicadas por Mark’s Daily Apple, as duas técnicas pessoais que Mark Sisson descreveu na coluna *Dear Mark* e o caldo de frango do livro em coautoria com Brad Kearns. As medidas métricas foram arredondadas. Para comparar os tempos da pressão, conte o período de cocção programado e deixe tempo à parte para a panela atingir e liberar a pressão. [Nota de fonte e atribuições](../fontes/mark-sisson-caldo-gelatina.md)
+As fichas resumem receitas publicadas por Mark’s Daily Apple, as duas técnicas pessoais que Mark Sisson descreveu na coluna *Dear Mark* e receitas dos livros em coautoria da série Keto Reset. As medidas métricas foram arredondadas. Para comparar os tempos da pressão, conte o período de cocção programado e deixe tempo à parte para a panela atingir e liberar a pressão. [Nota de fonte e atribuições](../fontes/mark-sisson-caldo-gelatina.md)
+
+## Receitas do Keto Reset Instant Pot Cookbook
+
+Em maio de 2018, Sisson publicou duas fichas do livro em sua coluna. A terceira ficha foi republicada pela Tasting Page, com crédito à edição da Harmony Books. [Trechos no blog de Sisson](https://www.goodreads.com/author_blog_posts/16775591-recipes-from-the-keto-reset-instant-pot-cookbook-and-a-giveaway) · [Edição de Sisson, Taylor e McGowan](https://www.penguinrandomhouse.com/books/595086/the-keto-reset-instant-pot-cookbook-by-mark-sisson-with-lindsay-taylor-and-layla-mcgowan/)
+
+| Preparo | Como fazer | Carboidratos e adaptações |
+| --- | --- | --- |
+| Cogumelos na manteiga e nas ervas | Salteie **4 xícaras de cogumelos** e **3 dentes de alho** em **4 colheres de sopa de manteiga ou ghee** por **5 min**. Junte salsinha, orégano, tomilho e **240 mL de caldo de ossos**. Cozinhe **5 min sob pressão**. Retire os cogumelos quando a panela estiver despressurizada. Reduza o líquido por **3–5 min** e regue os cogumelos. | O blog informa **4 g de carboidratos por porção**. A receita oferece caldo de legumes como alternativa ao caldo de ossos. |
+| Phở bò com rabada e abobrinha | Afervente **680 g de rabada** e **225 g de peito ou acém** em água por **15 min** e descarte essa água. Toste canela, cravo, coentro e anis-estrelado, junte cebola e gengibre, depois adicione as carnes, **2,4 L de água**, **½ maçã** e sal. Cozinhe **15 min sob pressão** e aguarde **20 min** de liberação natural antes de liberar a pressão restante conforme o manual. Coe, reserve a carne cozida e tempere o líquido com molho de peixe. Sirva com **2 abobrinhas em tiras**, cebolinha, limão e a carne fatiada. A receita inclui **170 g de contrafilé** em fatias. Na adaptação da wiki, cozinhe essas fatias no caldo quente antes de servir. | O blog informa **11 g de carboidratos por porção** na versão para **4 pessoas** com brotos de feijão-mungo. A abobrinha já substitui a massa de arroz. Parte dos açúcares da maçã pode passar ao caldo. O adoçante é opcional. |
+| Sobrecoxas com azeitonas e alcaparras | Tempere **6 sobrecoxas com osso** com óleo de abacate, cúrcuma, pimenta, páprica e mostarda em pó. Doure em ghee, retire o frango e solte o fundo da panela com parte dos **240 mL de caldo de frango**. Volte com a carne, junte o restante do caldo, limão, alho, **¾ de xícara de azeitonas** e **2 colheres de sopa de alcaparras**. Cozinhe **14 min sob pressão** e sirva com o líquido do cozimento. Rende **6 porções**. | A preparação usa limão e temperos, sem farinha ou açúcar acrescentado na fórmula. Para evitar laticínios, use óleo de abacate no lugar do ghee. [Ficha republicada pela Tasting Page](https://www.tastingpage.com/cooking/instant-pot-chicken-thighs-olives-and-capers) |
+
+A receita de phở sugere guardar os ossos e cartilagens da rabada para outro fundo. Resfrie prontamente o que for guardar. [Segurança e conservação](seguranca-conservacao.md)
 
 ## Caldo de frango e quatro acabamentos do blog
 

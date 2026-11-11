@@ -251,3 +251,7 @@ O [inventário](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventár
 ## [2026-11-11] ingestão | Perguntas e respostas do Cozinha de Pedra
 
 A [trilha de acesso](raw/busca-receitas-relatos.md#destaques-do-cozinha-de-pedra) registra a conferência visual dos 248 cartões dos oito destaques. A [nota de P&R](wiki/fontes/cozinha-de-pedra-caldo.md#destaque-pr) relaciona as alegações aos cartões e à revisão de ácido hialurônico intra-articular. As [receitas](wiki/temas/receitas-caldo.md#mais-caminhos) incluem dois usos culinários da sequência.
+
+## [2026-11-11] ingestão | Receitas keto com caldo nos livros de Sisson
+
+As [fichas](wiki/temas/receitas-mark-sisson.md#receitas-do-keto-reset-instant-pot-cookbook) incluem cogumelos na manteiga, phở bò com abobrinha e sobrecoxas com azeitonas e alcaparras. A [nota dos livros](wiki/fontes/mark-sisson-caldo-gelatina.md#livros-em-coautoria) registra as páginas e as prévias consultadas.

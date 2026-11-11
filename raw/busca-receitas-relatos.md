@@ -37,6 +37,8 @@ Na conferência seguinte, **63 reels tinham transcrição completa** e três tin
 
 O lote seguinte elevou a cobertura para **70 reels com texto**, cinco processados sem fala detectada, dois arquivos sem áudio e um acesso sem exportação. Outros 44 ainda não tinham resultado. [Notas das lives e vídeos curtos](../wiki/fontes/cozinha-de-pedra-caldo.md)
 
+A fila encerrou com **122 de 122 reels processados ou testados**. Foram reunidas **105 transcrições automáticas**, 78 com áudio segmentado e processado até o fim do arquivo obtido e 27 concluídas em rodadas anteriores. Em sete arquivos com trilha, o reconhecimento de fala não encontrou texto. Em nove reels, a inspeção dos arquivos baixados, formatos alternativos e mídia dos players incorporados confirmou que as versões públicas examinadas tinham apenas vídeo e não ofereciam legendas. A tentativa de exportar os segmentos da [live de cerca de 1h08](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/) também falhou. A [live mais longa transcrita](https://www.instagram.com/cozinhadepedra/reel/CI1wSgxpG6p/) teve 88 blocos, com falas até 2h54min44s. Os arquivos de transcrição e o índice por reel estão no acervo local. A íntegra automática pode conter erros de reconhecimento.
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

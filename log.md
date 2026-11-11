@@ -151,3 +151,7 @@ O [inventário](raw/inventario-wapf-receitas.md) registra as 44 publicações do
 ## [2026-11-11] ingestão | Estimativa de colágeno em dez produtos comerciais
 
 A [nota do ConsumerLab](wiki/fontes/consumerlab-2025-caldos-comerciais.md) registra a faixa divulgada, o método e o limite de acesso à tabela por produto.
+
+## [2026-11-11] revisão | Transcrição dos reels sem limite de duração
+
+O [registro de acesso](raw/busca-receitas-relatos.md#áudio-dos-reels) documenta o resultado dos 122 reels e as tentativas de recuperação de mídia. As 105 transcrições automáticas foram preservadas no acervo local, com um índice por reel.

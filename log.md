@@ -119,3 +119,7 @@ O [catálogo](wiki/temas/receitas-wapf-catalogo.md) incorpora 32 receitas de out
 ## [2026-11-11] ingestão | Replays e receitas do acervo do Mark’s Daily Apple
 
 O [inventário histórico](raw/inventario-mark-receitas.md) registra 18 páginas conferidas e o que foi possível verificar dos vídeos vinculados. As [fichas culinárias](wiki/temas/receitas-mark-sisson.md) incluem sete aplicações adicionais do caldo.
+
+## [2026-11-11] ingestão | Cópias oficiais das edições da WAPF
+
+O [inventário dos PDFs](raw/inventario-wapf-receitas.md#cópias-oficiais-e-divergências-entre-rótulo-e-arquivo) vincula as edições recuperadas às cópias oficiais e registra as lacunas. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) acrescenta as passagens sobre folato e glicina.

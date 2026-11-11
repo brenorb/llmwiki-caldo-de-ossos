@@ -252,4 +252,35 @@ O endpoint de anexos do WordPress com o filtro `mime_type=application/pdf` respo
 
 O feed oficial de edições digitais retornou 44 páginas de edição em cinco lotes. Quarenta e uma tinham link para PDF, com 41 URLs distintas. As entradas dos guias de compras de 2018, 2019 e 2020 não traziam PDF no corpo do RSS. Vinte URLs do feed não apareciam no catálogo REST, totalizando 524 endereços de PDF nas duas fontes combinadas. [Arquivo de edições digitais](https://www.westonaprice.org/digital-journal/) · [Feed de edições digitais](https://www.westonaprice.org/feed/?post_type=digital-journals)
 
-O acesso direto aos 41 PDFs ligados pelo feed retornou 22 arquivos com texto extraível, somando 2.617 páginas, e 19 respostas HTTP 404. Uma busca nas páginas extraídas por variantes de caldo, fundo, aspic e gelatina sinalizou 206 páginas. Os resultados incluíram anúncios, guias de fornecedores, alegações, receitas e texto editorial repetido. A leitura pontual confirmou quatro receitas publicadas também no site e vinculou cada par PDF/HTML em uma só ficha. Os demais anexos do catálogo de mídia foram inventariados por metadados. [Receitas confirmadas nas edições digitais](../wiki/temas/receitas-wapf-catalogo.md)
+O primeiro acesso direto aos 41 PDFs ligados pelo feed retornou 22 arquivos com texto extraível, somando 2.617 páginas físicas, e 19 respostas HTTP 404. A busca por variantes de caldo, fundo, aspic e gelatina sinalizou 206 páginas. A segunda extração recuperou o texto das 206 páginas para revisão. Os resultados incluíram anúncios, guias de fornecedores, alegações, receitas e texto editorial repetido. A leitura pontual confirmou quatro receitas publicadas também no site e vinculou cada par PDF/HTML em uma só ficha. [Receitas confirmadas nas edições digitais](../wiki/temas/receitas-wapf-catalogo.md)
+
+### Cópias oficiais e divergências entre rótulo e arquivo
+
+O catálogo de anexos ofereceu cópias oficiais para **19 de 19** links do feed que retornaram 404. Todas as cópias retornaram HTTP 200 e a estação e o ano conferiram no início do PDF. O arquivo indicado no feed para *Winter 2022* tinha nome de *Spring 2023*. A cópia oficial de *Winter 2022* confirma a edição e o volume 23, número 4. O link de *Spring 2024* abria o guia de compras de 2024. A edição correta foi localizada no mesmo catálogo. [API de anexos PDF](https://www.westonaprice.org/wp-json/wp/v2/media?mime_type=application%2Fpdf) · [Feed de edições digitais](https://www.westonaprice.org/feed/?post_type=digital-journals)
+
+| Edição no feed | Arquivo indicado no feed | Cópia oficial verificada |
+| --- | --- | --- |
+| Spring 2016 | `Spring2016web.pdf` | [Spring2016a.pdf](https://www.westonaprice.org/wp-content/uploads/Spring2016a.pdf) |
+| Summer 2016 | `summer2016.pdf` | [summer2016a.pdf](https://www.westonaprice.org/wp-content/uploads/summer2016a.pdf) |
+| Spring 2018 | `SpringJournal2018.pdf` | [SpringJournal20181.pdf](https://www.westonaprice.org/wp-content/uploads/SpringJournal20181.pdf) |
+| Fall 2018 | `2018FallJournal-finalwithCover.pdf` | [2018FallJournala.pdf](https://www.westonaprice.org/wp-content/uploads/2018FallJournala.pdf) |
+| Winter 2018 | `winter2018withCover.pdf` | [winter2018withCover1.pdf](https://www.westonaprice.org/wp-content/uploads/winter2018withCover1.pdf) |
+| Spring 2019 | `JournalSpring2019.pdf` | [JournalSpring20191.pdf](https://www.westonaprice.org/wp-content/uploads/JournalSpring20191.pdf) |
+| Summer 2019 | `Summer2019.pdf` | [Summer2019a.pdf](https://www.westonaprice.org/wp-content/uploads/Summer2019a.pdf) |
+| Fall 2020 | `Fall2020.pdf` | [Fall2020a.pdf](https://www.westonaprice.org/wp-content/uploads/Fall2020a.pdf) |
+| Winter 2020 | `Winter-2020.pdf` | [Winter-2020a.pdf](https://www.westonaprice.org/wp-content/uploads/Winter-2020a.pdf) |
+| Spring 2021 | `Spring-2021.pdf` | [Spring-2021a.pdf](https://www.westonaprice.org/wp-content/uploads/Spring-2021a.pdf) |
+| Summer 2021 | `Summer2021.pdf` | [Summer2021a.pdf](https://www.westonaprice.org/wp-content/uploads/Summer2021a.pdf) |
+| Fall 2021 | `Fall2021.pdf` | [Fall2021a.pdf](https://www.westonaprice.org/wp-content/uploads/Fall2021a.pdf) |
+| Winter 2021 | `Winter-Journal2021.pdf` | [Winter-Journal2021a.pdf](https://www.westonaprice.org/wp-content/uploads/Winter-Journal2021a.pdf) |
+| Spring 2022 | `Spring2022.pdf` | [Spring2022a.pdf](https://www.westonaprice.org/wp-content/uploads/Spring2022a.pdf) |
+| Summer 2022 | `Summer2022.pdf` | [Summer2022a.pdf](https://www.westonaprice.org/wp-content/uploads/Summer2022a.pdf) |
+| Fall 2022 | `Fall2022.pdf` | [Fall2022a.pdf](https://www.westonaprice.org/wp-content/uploads/Fall2022a.pdf) |
+| Winter 2022 | `Spring2023-final.pdf` | [Winter2022a.pdf](https://www.westonaprice.org/wp-content/uploads/Winter2022a.pdf) |
+| Spring 2023 | `Spring2023-final-1.pdf` | [Spring2023a.pdf](https://www.westonaprice.org/wp-content/uploads/Spring2023a.pdf) |
+| Summer 2023 | `Summer-2023.pdf` | [Summer-2023a.pdf](https://www.westonaprice.org/wp-content/uploads/Summer-2023a.pdf) |
+| Spring 2024 | `Final-Shopping-Guide-2024.pdf` | [Spring2024.pdf](https://www.westonaprice.org/wp-content/uploads/Spring2024.pdf) |
+
+Após consolidar por publicação, as 41 entradas com link no feed correspondem a **36 edições regulares, duas especiais e três guias de compras** verificados, com **5.061 páginas físicas**. O guia de compras de 2024 foi contado à parte. Das três entradas sem link no RSS, o catálogo forneceu o guia de 2020, com 108 páginas físicas, elevando a cobertura do feed a **42 de 44 publicações e 5.169 páginas físicas**. As versões integrais dos guias de 2018 e 2019 continuam sem confirmação. O número de páginas físicas depende do formato do PDF e pode divergir da numeração impressa. [Guia de 2020](https://www.westonaprice.org/wp-content/uploads/2020-shopping-guide-complete.pdf) · [Guia de 2024](https://www.westonaprice.org/wp-content/uploads/Final-Shopping-Guide-2024.pdf)
+
+A rodada ampliada também selecionou 74 anexos adicionais pelo nome ou título, priorizando edições, guias e livretos alimentares. Somados aos 22 arquivos que abriram no primeiro acesso e às 20 cópias da tabela, foram extraídas **116 de 524 URLs inventariadas**. A comparação por SHA-256 encontrou 106 arquivos com conteúdo binário distinto, somando 11.088 páginas físicas, das quais 11.086 renderam texto. Essa comparação identifica arquivos idênticos. Republicações ou compressões diferentes podem conter o mesmo material. A busca ampliada acrescentou termos de folato, ácido fólico, B9, vitiligo e repigmentação às variantes culinárias. Ela sinalizou 961 páginas nesses arquivos, 208 delas com termos de folato. A conferência manual foi pontual e distinguiu a coocorrência de palavras da medição de um nutriente. [Achados sobre folato](../wiki/fontes/weston-price-caldo-gelatina.md)

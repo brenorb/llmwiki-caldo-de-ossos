@@ -16,9 +16,18 @@ A receita de phở sugere guardar os ossos e cartilagens da rabada para outro fu
 
 ## Bife com ovos e caldo do Two Meals a Day Cookbook
 
-A prévia de Sisson e Brad Kearns mostra o uso de **30 mL de caldo de ossos** em **2 ovos**, servidos com **114 g de bife magro** e cebolinha. A lista inclui **1 colher de sopa de sebo bovino** e **1 colher de chá de sal marinho**. O caldo entra numa caneca própria para micro-ondas por **45 segundos**. A receita bate os ovos no caldo aquecido e volta com a caneca ao micro-ondas por **mais 45 segundos**, antes de servir com o bife fatiado. Os trechos públicos confirmam os ingredientes e a etapa dos ovos. O título original e o método completo do bife ficaram fora dos trechos consultados. [Busca no texto da prévia, localizadores PT364–365](https://books.google.com.br/books?id=FzJHEAAAQBAJ&jscmd=SearchWithinVolume2&q=broth)
+Em *Steak and Eggs*, Sisson e Brad Kearns usam **30 mL de caldo de ossos**, **2 ovos**, **114 g de bife magro**, **1 colher de sopa de sebo bovino**, **1 colher de chá de sal marinho** e cebolinha. A ficha rende **1 porção** e informa **10 min de preparo e 10 min de cocção**. [Prévia, título e rendimento em PT364](https://books.google.com.br/books?id=FzJHEAAAQBAJ&jscmd=SearchWithinVolume2&q=steak+and+eggs)
+
+1. Aqueça o sebo em frigideira de ferro em fogo médio-alto, salgue o bife e doure por **3–4 min de cada lado**, ajustando ao ponto. Deixe descansar por **1–2 min**. [Prévia, preparo do bife em PT364–365](https://books.google.com.br/books?id=FzJHEAAAQBAJ&jscmd=SearchWithinVolume2&q=season+the+steak)
+2. Aqueça o caldo em caneca própria para micro-ondas por **45 segundos**. Bata os ovos no caldo aquecido e cozinhe por **mais 45 segundos**. Sirva com o bife fatiado e a cebolinha. [Prévia, preparo dos ovos em PT364–365](https://books.google.com.br/books?id=FzJHEAAAQBAJ&jscmd=SearchWithinVolume2&q=broth)
 
 O tempo depende da potência do aparelho. Confira se os ovos ficaram firmes e, se necessário, cozinhe mais em intervalos curtos. O USDA usa **71,1 °C** como referência de temperatura interna para pratos com ovos. [USDA](https://ask.fsis.usda.gov/article/By-what-methods-can-you-cook-eggs-safely)
+
+## Fundos na edição revista de The Primal Blueprint Cookbook
+
+A orientação geral do livro de Sisson e Jennifer Meier, no trecho digital PT32, é cobrir os ossos com água, cozinhar em panela lenta por **6–8 h** e coar. A ficha de caldo de frango, nas p. **251–252** impressas, sugere aproveitar ossos, pontas e cascas de legumes. O rendimento indicado é de aproximadamente **8 porções**, conforme o tamanho do recipiente. A ficha de fundo de peixe, p. **99**, descreve cabeças e carcaças de peixes magros como base tradicional e menciona flocos de bonito. As medidas e as etapas completas dessas fichas ficaram fora dos trechos públicos. [Prévia, ossos de frango e panela lenta](https://books.google.com.br/books?id=poS2EAAAQBAJ&jscmd=SearchWithinVolume2&q=chicken+bones) · [Prévia, fundo de peixe](https://books.google.com.br/books?id=poS2EAAAQBAJ&jscmd=SearchWithinVolume2&q=fish+broth) · [Prévia, flocos de bonito](https://books.google.com.br/books?id=poS2EAAAQBAJ&jscmd=SearchWithinVolume2&q=bonito+flakes)
+
+Na ficha *Sausage Stew*, p. **111–113**, o livro descreve um fundo rápido como alternativa para o ensopado de linguiça. Ferva a água, acrescente **um pé de porco partido ou um jarrete suíno** e **15 mL de vinagre de maçã**, baixe o fogo e deixe **45–60 min destampado**. Use esse líquido no ensopado no lugar do caldo bovino ou de frango. O ensopado rende **6–8 porções**. O rendimento do fundo fica em aberto. [Prévia, título e localização da ficha](https://books.google.com.br/books?id=poS2EAAAQBAJ&jscmd=SearchWithinVolume2&q=sausage+stew) · [Prévia, preparo e rendimento em PT186–190](https://books.google.com.br/books?id=poS2EAAAQBAJ&jscmd=SearchWithinVolume2&q=pig+foot)
 
 ## Caldo de frango e quatro acabamentos do blog
 

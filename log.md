@@ -515,3 +515,7 @@ O [inventário de entrevistas](raw/mark-sisson-entrevistas.md) localiza o relato
 ## [2026-11-11] ingestão | Entrevistas integrais de Sisson em três podcasts
 
 O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-school-of-greatness-the-dan-buettner-podcast-e-the-genius-life) registra a duração, os horários das passagens sobre caldo, colágeno e gelatina, e os episódios cuja mídia segue pendente.
+
+## [2026-11-11] ingestão | Bife com ovos e ensopado de linguiça das prévias de Sisson
+
+O [inventário das prévias](raw/inventario-mark-receitas.md#prévias-públicas-dos-livros) localiza os trechos recuperados. O [caderno de receitas](wiki/temas/receitas-mark-sisson.md) registra o bife com ovos e a sequência de preparo do fundo suíno do ensopado.

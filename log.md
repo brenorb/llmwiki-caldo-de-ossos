@@ -51,3 +51,7 @@ A busca pelo site antigo de Mark’s Daily Apple recuperou textos anteriores ao 
 ## [2026-11-11] ingestão | Relato sobre unhas e estudo citado no Instagram
 
 A [comparação por desfecho](wiki/temas/relatos-e-evidencia.md) agora vincula as fotos e mensagens do carrossel sobre unhas ao estudo aberto com peptídeos específicos de colágeno citado nos próprios cartões.
+
+## [2026-11-11] ingestão | Mais três lives recuperadas sem limite de processamento
+
+As [notas das transmissões](wiki/fontes/cozinha-de-pedra-caldo.md) incorporam os trechos sobre autoimunidade e barreira intestinal. As [receitas de caldo](wiki/temas/receitas-caldo.md) incluem molho de chucrute e molho de costela com chipotle.

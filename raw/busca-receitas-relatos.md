@@ -21,6 +21,8 @@ Na revisão seguinte, **63 de 122 reels** já tinham resultado de tentativa. Hav
 
 Os limites de tempo das primeiras filas foram retirados. A fila que os substituiu abrange os 122 reels inventariados, reutiliza trechos já gravados e processa o áudio até o fim do arquivo disponível. Os blocos de dois minutos são pontos de retomada. A live `CTdWxwPpb6R` foi a primeira nova recuperação concluída nessa fila, com 47 blocos e falas até cerca de 1h32. Ainda podem ocorrer falhas de acesso ou de extração, registradas à parte. [Live no perfil](https://www.instagram.com/cozinhadepedra/reel/CTdWxwPpb6R/)
 
+Na conferência seguinte da fila sem limite, havia **36 reels com transcrição**, três sem fala detectada e um com falha de acesso, entre 122 itens inventariados. Três das novas transcrições completas correspondem a transmissões de aproximadamente 64, 83 e 82 minutos. [Trechos e achados registrados](../wiki/fontes/cozinha-de-pedra-caldo.md)
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

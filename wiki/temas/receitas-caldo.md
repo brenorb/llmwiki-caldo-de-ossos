@@ -46,3 +46,5 @@ A [página de preparo](preparo.md) já reunia técnicas e referências para cald
 Os caldos coados sem açúcar, farinha ou amido adicionado são boas bases para refeições com poucos carboidratos. Parte dos açúcares dos aromáticos pode passar ao líquido. Para uma meta cetogênica, use os valores do caldo e dos ingredientes efetivamente servidos. As receitas desta página não foram analisadas em laboratório. [Variação por preparo](componentes-por-caldo.md)
 
 Para uma sopa de costela suína, gengibre e daikon e outras variações chinesas, veja [caldo de ossos na medicina chinesa tradicional](medicina-chinesa.md).
+
+Para aproveitar fundo de peixe, reduza no fogão antes de resfriar e congele em cubos pequenos. Use como tempero em sopas ou legumes. O pirão tradicional citado na live leva farinha de mandioca. Para uma versão com menos amido, bata couve-flor cozida com um pouco do fundo para obter um creme. [Live do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/)

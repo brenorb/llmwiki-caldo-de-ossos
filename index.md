@@ -39,6 +39,7 @@
 
 ## Notas de fonte
 
+- [MEXT e Chung et al. · Iodo em fundos e água de cocção](wiki/fontes/mext-chung-iodo-fundos.md)
 - [Huo (2023) e Pandita (2011) · PFAS no plasma e relato de hipervitaminose D](wiki/fontes/huo-2023-pandita-2011-seguranca.md)
 - [Price (1939) e Wald e Adibi (1982) · Cárie e secreção gástrica](wiki/fontes/price-1939-caries-wald-1982-acidez.md)
 - [Aljumaily (2011) e Oviawe et al. (2023) · Caldo e reparo ósseo em coelhos](wiki/fontes/caldo-cicatrizacao-ossea-coelhos.md)

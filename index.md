@@ -51,6 +51,7 @@
 - [Hexsel et al. (2017) · Peptídeos de colágeno e unhas frágeis](wiki/fontes/hexsel-2017-unhas.md)
 - [Unhas · Ensaios de gelatina e peptídeos de colágeno](wiki/fontes/colageno-unhas-ensaios.md)
 - [Mark Sisson e Mark’s Daily Apple · Receitas, gelatina e colágeno](wiki/fontes/mark-sisson-caldo-gelatina.md)
+- [Mark’s Daily Apple · Caldo no caderno de receitas de coco](wiki/fontes/mark-sisson-caderno-coco.md)
 - [Weston A. Price Foundation · Caldos, gelatina e alegações](wiki/fontes/weston-price-caldo-gelatina.md)
 - [Adagro · Como conferir a inspeção de produtos de origem animal](wiki/fontes/adagro-inspecao.md)
 - [Aksu et al. (2026) · Elementos minerais e chumbo em caldos de varejo](wiki/fontes/aksu-2026-elementos.md)

@@ -375,3 +375,7 @@ A [triagem de Mark’s Daily Apple](raw/inventario-mark-receitas.md#encerramento
 ## [2026-11-11] revisão | Colostro, colágeno e caldo na coluna de Sisson
 
 A [nota de Sisson](wiki/fontes/mark-sisson-caldo-gelatina.md#publicações-atuais-sobre-colágeno) registra o que a coluna de outubro de 2026 afirma sobre o caldo e identifica as intervenções das referências citadas.
+
+## [2026-11-11] ingestão | Caderno de coco do concurso de Mark’s Daily Apple
+
+A [nota de fonte](wiki/fontes/mark-sisson-caderno-coco.md) reúne os usos de caldo identificados no caderno de leitores e indica as páginas, os autores das receitas e as substituições para reduzir carboidratos.

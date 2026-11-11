@@ -17,6 +17,8 @@ Em 2026-11-11, uma consulta de título e resumo no PubMed combinou `"bone broth"
 
 Na primeira rodada de conferência, havia 36 tentativas concluídas entre os 122 reels da grade. A transcrição local retornou texto para 15, arquivo sem fala detectada para três e nenhum texto para 18. Entre os 18, 16 atingiram o limite de 240 segundos de processamento e dois falharam no acesso pelo extrator. Os vídeos longos que atingiram o limite podem ser visíveis na sessão do Instagram. A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md) identifica exemplos em que áudio e legenda trouxeram informações diferentes.
 
+Na revisão seguinte, **63 de 122 reels** já tinham resultado de tentativa. Havia **29 com texto**, três sem fala detectada e 31 ainda sem texto, dos quais 28 por limite de processamento e três por falha de acesso. Os 29 incluem duas lives recuperadas por completo em 39 e 48 blocos de até dois minutos. Cada bloco foi gravado separadamente para permitir retomar os trechos faltantes. A contagem é um retrato da revisão, com a fila ainda em execução. [Trechos conferidos na nota da fonte](../wiki/fontes/cozinha-de-pedra-caldo.md)
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

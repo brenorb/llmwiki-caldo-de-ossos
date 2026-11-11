@@ -19,6 +19,8 @@ Na primeira rodada de conferência, havia 36 tentativas concluídas entre os 122
 
 Na revisão seguinte, **63 de 122 reels** já tinham resultado de tentativa. Havia **29 com texto**, três sem fala detectada e 31 ainda sem texto, dos quais 28 por limite de processamento e três por falha de acesso. Os 29 incluem duas lives recuperadas por completo em 39 e 48 blocos de até dois minutos. Cada bloco foi gravado separadamente para permitir retomar os trechos faltantes. A contagem é um retrato da revisão, com a fila ainda em execução. [Trechos conferidos na nota da fonte](../wiki/fontes/cozinha-de-pedra-caldo.md)
 
+Os limites de tempo das primeiras filas foram retirados. A fila que os substituiu abrange os 122 reels inventariados, reutiliza trechos já gravados e processa o áudio até o fim do arquivo disponível. Os blocos de dois minutos são pontos de retomada. A live `CTdWxwPpb6R` foi a primeira nova recuperação concluída nessa fila, com 47 blocos e falas até cerca de 1h32. Ainda podem ocorrer falhas de acesso ou de extração, registradas à parte. [Live no perfil](https://www.instagram.com/cozinhadepedra/reel/CTdWxwPpb6R/)
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

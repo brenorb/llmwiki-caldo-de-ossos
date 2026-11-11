@@ -311,3 +311,7 @@ O [inventário](raw/mark-sisson-entrevistas.md#catálogos-oficiais-e-áudios) re
 ## [2026-11-11] ingestão | Comentários sobre porções, gelificação e dor
 
 A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-preparo-porções-e-dor) registra 79 comentários e respostas em quatro publicações, com uma lista que continuou a oferecer o carregamento. A [nota de fonte](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-preparo-porções-e-dor) documenta porções declaradas, experiências de gelificação e um relato de dor sem diagnóstico informado.
+
+## [2026-11-11] ingestão | Panna cotta de capim-limão e picolé de hibisco
+
+A [página de gelatinas](wiki/temas/receitas-gelatina.md#panna-cotta-de-coco-e-capim-limão) traz a proporção publicada de leite de coco e gelatina, além de uma [adaptação dos Gelasicles](wiki/temas/receitas-gelatina.md#picolé-de-hibisco-coco-e-framboesa) com menos açúcar.

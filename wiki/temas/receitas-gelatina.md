@@ -127,6 +127,14 @@ Use **240 mL de caldo de peixe ou água**, **2 colheres de sopa de gelatina inco
 2. Aqueça o restante, retire do fogo e dissolva a gelatina hidratada. Acrescente baunilha e adoçante.
 3. Distribua nas taças e refrigere até firmar. Sirva sem cobertura ou com poucos frutos vermelhos. A versão da WAPF adoça com mel ou xarope de bordo. Creme de leite combina com a interpretação primal que aceita laticínios. Leite de coco integral é a alternativa para uma versão sem laticínios. [Panna cotta e outras receitas da WAPF](https://www.westonaprice.org/health-topics/food-features/essential-recipes-for-the-wise-family/)
 
+### Panna cotta de coco e capim-limão
+
+Para oito porções pequenas, use **2 xícaras americanas de leite de coco integral sem açúcar (cerca de 475 mL)**, **2 colheres de chá de gelatina incolor**, **60 mL de água fria**, **2 talos de capim-limão amassados** e **raspas e suco de 1 limão**. A receita de Rosie Ueng usa **⅓ de xícara de açúcar de coco** ou outro adoçante. Para reduzir o açúcar adicionado, use adoçante culinário a gosto ou sirva sem adoçar. [Receita de Rosie Ueng](https://www.westonaprice.org/coconut-lemongrass-panna-cotta/)
+
+1. Hidrate a gelatina na água fria por cerca de cinco minutos. Aqueça o leite de coco com o capim-limão e as raspas em fogo baixo para aromatizar.
+2. Dissolva a gelatina hidratada no leite de coco quente. Coe para tirar os talos. Junte o limão e ajuste o dulçor.
+3. Divida em taças e leve à geladeira até firmar. A versão da WAPF indica pelo menos uma hora.
+
 ### Balas de kombucha e gelatina
 
 Aqueça **¾ de xícara americana de kombucha (cerca de 180 mL)** em uma panela pequena. Polvilhe **2 colheres de sopa de gelatina bovina incolor** e bata com um batedor de arame por **1–2 minutos**, até dissolver. Despeje em moldes levemente untados com óleo de coco ou em um recipiente de cerca de **15 × 15 cm**. Refrigere por **cerca de 2 horas**. Desenforme ou corte em cubos e mantenha refrigerado. [Ficha de Sisson e Taylor republicada pelo Thrive Market](https://thrivemarket.com/blog/kombucha-gummy-bears-recipe)
@@ -144,6 +152,12 @@ Misture **200 mL de infusão de hibisco** e **200 mL de leite de coco integral s
 ### Picolé cremoso de coco e cacau
 
 Para uma adaptação da receita da WAPF, use **200 mL de leite de coco integral sem açúcar**, **200 mL de creme de coco sem açúcar**, **1 colher de sopa de gelatina incolor**, **1–2 colheres de sopa de cacau em pó sem açúcar** e adoçante a gosto. Hidrate a gelatina em parte do leite de coco frio. Aqueça o restante e misture a gelatina hidratada, o creme, o cacau e o adoçante. Deixe amornar, distribua em formas e congele. A receita publicada usa alfarroba e mel. O cacau muda o sabor e a troca do mel pode deixar o picolé mais firme quando congelado. [Healthy Fudgesicles](https://www.westonaprice.org/healthy-fudgesicles/)
+
+### Picolé de hibisco, coco e framboesa
+
+A receita *Gelasicles* usa **1 xícara de chá forte ou suco**, **1 xícara de leite de coco**, **2 colheres de sopa de gelatina**, **4 colheres de sopa de rapadura** e **3 xícaras de frutas**. Para um lote com menos açúcar, teste **240 mL de chá de hibisco sem açúcar**, **240 mL de leite de coco integral sem açúcar**, **1 xícara de framboesas**, **1 colher de sopa de gelatina incolor** e adoçante culinário a gosto. A proporção reduzida de fruta e gelatina é uma adaptação da wiki. [Gelasicles, WAPF](https://www.westonaprice.org/health-topics/childrens-health/celebrate-summer-with-a-pop/#gelasicles)
+
+Hidrate a gelatina em parte do chá frio e dissolva no restante do chá quente. Bata com o leite de coco e as frutas, ajuste o dulçor, distribua em formas e congele. O picolé pode ficar mais duro com a retirada da rapadura. Deixe a forma alguns minutos fora do congelador antes de desenformar. Os carboidratos da framboesa e do leite de coco continuam na porção.
 
 ## Com derivados do caldo
 

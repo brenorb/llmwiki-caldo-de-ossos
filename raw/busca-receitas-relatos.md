@@ -47,6 +47,20 @@ A leitura nas páginas individuais recuperou **45 comentários ou respostas com 
 
 Os [registros de relatos e perguntas](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-unhas-e-preparo) acrescentam um caso de unhas frágeis durante o uso de caldo e suplementos e uma dúvida sobre gelificação na panela de pressão.
 
+## Comentários sobre sono, porções e jejum
+
+A leitura na sessão autenticada recuperou **48 comentários e respostas com identificador distinto** em cinco publicações. Em duas, o indicador de carregamento permaneceu visível. Os totais descrevem a lista exibida.
+
+| Publicação | Registros exibidos | Estado da lista |
+| --- | ---: | --- |
+| [Glicina e sono](https://www.instagram.com/cozinhadepedra/p/CHib3DLswYf/) | 5 | Sem controle adicional exibido |
+| [Quantidade diária e glicina](https://www.instagram.com/cozinhadepedra/p/CHN40aEsPA6/) | 15 | Carregamento continuou visível |
+| [Jejum, primeira parte](https://www.instagram.com/cozinhadepedra/p/CETvEGcj1Fk/) | 9 | Sem controle adicional exibido |
+| [Jejum, segunda parte](https://www.instagram.com/cozinhadepedra/p/CE9TyLNMJJ9/) | 4 | Sem controle adicional exibido |
+| [Porção de caldo e glicina](https://www.instagram.com/cozinhadepedra/p/CA-APp0Kcip/) | 15 | Carregamento continuou visível |
+
+Os trechos pertinentes estão na [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-sono-porções-e-jejum).
+
 ## Busca complementar de estudos humanos
 
 Em 2026-11-11, uma consulta de título e resumo no PubMed combinou `"bone broth" OR "bone soup" OR "bone broths" OR "bone soups" OR "sagol" OR "gomtang" OR "tonkotsu"`. O índice retornou 58 registros. A triagem não identificou ensaio humano terapêutico adicional de caldo de ossos para digestão, sono, articulações ou pele. A busca por intervenção na API do ClinicalTrials.gov localizou o programa de dieta e peso já registrado, NCT05740670. Buscas por fundos de frango e bovino retornaram intervenções diferentes, como caldo de peito de frango, diagnóstico de alergia e preparo para colonoscopia. Uma consulta ao ANZCTR recuperou os registros já catalogados de absorção de aminoácidos e permeabilidade intestinal. [Matriz de estudos](../wiki/temas/alegacoes-saude.md) · [Achados observacionais e relatos de segurança](../wiki/fontes/huo-2023-pandita-2011-seguranca.md)

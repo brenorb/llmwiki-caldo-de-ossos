@@ -399,3 +399,7 @@ A leitura chegou a 55 áudios transcritos em inglês e 21 em espanhol. O [invent
 ## [2026-11-11] ingestão | Peptídeos de colágeno, glicina e sono
 
 A [nota de Thomas et al.](wiki/fontes/thomas-2024-colageno-sono.md) registra os resultados primários, a menor contagem de despertares e o financiamento do estudo. A [matriz clínica](wiki/temas/alegacoes-saude.md) e a [comparação com os relatos](wiki/temas/relatos-e-evidencia.md) mantêm os resultados associados à intervenção testada.
+
+## [2026-11-11] ingestão | Comentários sobre sono, porções e jejum no Cozinha de Pedra
+
+A [leitura](raw/busca-receitas-relatos.md#comentários-sobre-sono-porções-e-jejum) registrou 48 comentários e respostas em cinco publicações. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-sono-porções-e-jejum) localiza o relato de disposição, a expectativa sobre sono e as perguntas sobre porções.

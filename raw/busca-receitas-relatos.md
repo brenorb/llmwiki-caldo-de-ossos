@@ -68,6 +68,8 @@ A sessão autenticada exibiu **oito destaques e 248 cartões**. O total vem dos 
 | [P&R](https://www.instagram.com/stories/highlights/17863690877381878/) | 87 | Todos os 87 cartões foram conferidos visualmente, incluindo 15 vídeos e 72 imagens. O cartão 21 carregou na segunda tentativa. Um teste de exportação de segmento de áudio falhou. [Conteúdo por cartão](../wiki/fontes/cozinha-de-pedra-caldo.md#destaque-pr). |
 | [Quem sou](https://www.instagram.com/stories/highlights/17875237964040894/) | 2 | Os dois cartões foram vistos. Um é um vídeo de apresentação com fala pendente. |
 
+Na busca de áudio, os oito endereços canônicos retornaram HTTP 200 sem login e identificaram no título o destaque e o perfil. O HTML público não trouxe manifesto, trilhas ou legendas. Os oito endereços de incorporação retornaram HTTP 404, e o extrator solicitou login nos oito. Consultas pelos oito endereços exatos à Wayback Machine e ao Arquivo.pt retornaram sem capturas. A busca pelos títulos e IDs não localizou uma republicação confirmada. Na sessão autenticada, o teste de exportação de um segmento identificado como áudio em P&R também falhou. O acervo local conserva os registros de teste por destaque.
+
 - [Notas do Cozinha de Pedra](../wiki/fontes/cozinha-de-pedra-caldo.md)
 - [Notas de Mark Sisson e Mark’s Daily Apple](../wiki/fontes/mark-sisson-caldo-gelatina.md)
 - [Inventário do feed histórico](inventario-mark-receitas.md)

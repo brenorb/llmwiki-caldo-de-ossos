@@ -335,3 +335,7 @@ O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#recuperação-de-e
 ## [2026-11-11] revisão | Vídeo oficial de Two Meals A Day
 
 A [trilha de recuperação](raw/mark-sisson-entrevistas.md#recuperação-de-entrevistas-históricas) acrescenta a comparação da legenda do canal Mark’s Daily Apple com a transcrição publicada pelo coautor.
+
+## [2026-11-11] ingestão | pH e cálcio no experimento de Rosen
+
+A [nota de Rosen et al.](wiki/fontes/rosen-1994-calcio-caldo.md) registra os três preparos descritos no resumo e a relação entre acidez, tempo e cálcio, com a lacuna de acesso aos valores por volume.

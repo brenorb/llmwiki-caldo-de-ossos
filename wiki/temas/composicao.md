@@ -35,6 +35,8 @@ Em 36 caldos bovinos prontos da Coreia do Sul, as médias medidas por 250 g fora
 
 No braço de acidificação de Hsu et al., a acidificação de um caldo experimental de osso suíno com vinagre (pH médio de 5,32 contra 8,38 no controle) aumentou a massa extraída de cálcio e magnésio por massa inicial de osso. A magnitude relativa depende do ponto de partida. Aumento de extração, concentração por mL e aporte por porção são três medidas diferentes. Em outro desenho, Alcock et al. não observaram aumento dos aminoácidos analisados ao adicionar vinagre. O alvo químico e o método de preparo diferem. [Hsu et al., Figura 1](../fontes/hsu-2017-metais.md) · [Alcock et al.](../fontes/alcock-2019-composicao.md)
 
+Num experimento anterior, Rosen et al. compararam preparos de 24 h com osso bovino, com ou sem vegetais, e uma sopa de vegetais sem osso. O resumo relata aumento do cálcio com a cocção prolongada em meio ácido e ausência desse aumento em pH neutro. O acesso ao resumo não permite confirmar a quantidade por porção. [Rosen et al.](../fontes/rosen-1994-calcio-caldo.md)
+
 A [tabela mineral relatada por Schuette](componentes-por-caldo.md#minerais-relatados-por-schuette) registra cobre **<0,0298 mg** em caldo com ossos e vegetais, sem a massa ou o volume analisado. Os valores de cobre do caldo bovino experimental e da receita estimada de mocotó têm denominadores próprios. [Tabela mineral, p. 3](https://www.gapsinfo.com/wp-content/uploads/2012/03/Stock-vs.-Broth.pdf#page=3) · [Resultados por preparo](componentes-por-caldo.md#bovino-e-séries-de-varejo)
 
 ## Sódio e rótulos

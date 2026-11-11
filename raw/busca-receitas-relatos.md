@@ -21,6 +21,19 @@ Na sessão autenticada foram percorridas as listas de três publicações e aber
 
 A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-cabelo-e-colágeno) relaciona as respostas da autora às perguntas sobre folato e tipos de colágeno. A busca nas demais listas de comentários da grade permanece em aberto.
 
+## Comentários sobre preparo, porções e dor
+
+Foram conferidos 79 comentários e respostas exibidos pela sessão autenticada em quatro publicações. No carrossel de retorno, o botão para carregar mais comentários permaneceu visível, sem acrescentar registros nas novas tentativas. Os totais descrevem o que foi exibido na interface.
+
+| Publicação | Comentários principais | Respostas exibidas | Total |
+| --- | ---: | ---: | ---: |
+| [Porções diárias](https://www.instagram.com/cozinhadepedra/reel/DRpFy9Lk_BK/) | 4 | 4 | 8 |
+| [Pressão e vinagre](https://www.instagram.com/cozinhadepedra/reel/DRuELA7Dao1/) | 2 | 4 | 6 |
+| [Consistência na geladeira](https://www.instagram.com/cozinhadepedra/reel/DQU2SAFCTSB/) | 17 | 10 | 27 |
+| [Carrossel de retorno](https://www.instagram.com/cozinhadepedra/p/DQCVqQBDXZ0/) | 28 | 10 | 38 |
+
+As passagens pertinentes constam na [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-preparo-porções-e-dor).
+
 ## Busca complementar de estudos humanos
 
 Em 2026-11-11, uma consulta de título e resumo no PubMed combinou `"bone broth" OR "bone soup" OR "bone broths" OR "bone soups" OR "sagol" OR "gomtang" OR "tonkotsu"`. O índice retornou 58 registros. A triagem não identificou ensaio humano terapêutico adicional de caldo de ossos para digestão, sono, articulações ou pele. A busca por intervenção na API do ClinicalTrials.gov localizou o programa de dieta e peso já registrado, NCT05740670. Buscas por fundos de frango e bovino retornaram intervenções diferentes, como caldo de peito de frango, diagnóstico de alergia e preparo para colonoscopia. Uma consulta ao ANZCTR recuperou os registros já catalogados de absorção de aminoácidos e permeabilidade intestinal. [Matriz de estudos](../wiki/temas/alegacoes-saude.md) · [Achados observacionais e relatos de segurança](../wiki/fontes/huo-2023-pandita-2011-seguranca.md)

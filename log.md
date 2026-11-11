@@ -307,3 +307,7 @@ O [guia de ingestão](AGENTS.md#ingestão) registra a transcrição até o últi
 ## [2026-11-11] ingestão | Catálogos e áudios de Mark Sisson
 
 O [inventário](raw/mark-sisson-entrevistas.md#catálogos-oficiais-e-áudios) registra 71 páginas no catálogo da Primal Kitchen, 1.140 itens deduplicados do RSS histórico e o primeiro lote de oito episódios transcritos até o fim. As passagens identificam a voz de Sisson, de entrevistados e de apresentadores.
+
+## [2026-11-11] ingestão | Comentários sobre porções, gelificação e dor
+
+A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-preparo-porções-e-dor) registra 79 comentários e respostas em quatro publicações, com uma lista que continuou a oferecer o carregamento. A [nota de fonte](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-preparo-porções-e-dor) documenta porções declaradas, experiências de gelificação e um relato de dor sem diagnóstico informado.

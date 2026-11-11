@@ -353,6 +353,12 @@ No episódio 40 em espanhol, Katita Williamson atribui cobre e ferro ao fígado 
 
 No episódio 258 em inglês, a apresentadora conta que uma conhecida percebeu melhora de eczema durante uma mudança alimentar com caldo e gorduras (00:26:37–00:27:10). A entrevista não mede pigmentação ou o efeito isolado do caldo. [Episódio 258](https://www.westonaprice.org/podcast/258-fat-is-where-its-at/)
 
+#### Caldo de paleta suína e novo corte de áudio
+
+Os lotes chegaram a **33 de 60** áudios verificados em inglês (17 h 55 min 11 s) e **22 de 30** em espanhol (16 h 16 min 56 s). Das 237 páginas curtas em inglês, **63** tinham áudio transcrito e **174** aguardavam. Na série em espanhol, **27 de 189** áudios estavam conferidos e **162** aguardavam.
+
+No episódio 249 em inglês, uma convidada descreve fazer ensopado de paleta suína e depois usar o osso da peça para preparar caldo (00:25:20–00:25:34). Diz continuar com o caldo por vários dias, sem especificar tempo de cocção, temperatura, conservação ou ingredientes adicionais. No episódio 254, a menção a caldo (00:30:06–00:30:36) está numa carta que comenta uma cena de ficção. No episódio 250, a fala sobre vitamina K está na discussão de demolho de alimentos (00:18:44–00:19:05), sem dosagem em caldo. Os episódios 184 e 185 em espanhol e um anúncio sem número não apresentaram trecho pertinente na triagem. [Episódio 249](https://www.westonaprice.org/podcast/249-a-fat-fueled-family/) · [Episódio 254](https://www.westonaprice.org/podcast/254-slow-living/) · [Episódio 250](https://www.westonaprice.org/podcast/250-neutralize-anti-nutrients/)
+
 ## PDFs e edições digitais
 
 O endpoint de anexos do WordPress com o filtro `mime_type=application/pdf` respondeu em seis páginas. O cabeçalho indicou 519 registros, e o corpo das respostas expôs 504 IDs e URLs distintas. A diferença de 15 não pôde ser esclarecida pelas respostas. A lista registra metadados e localizadores, sem pressupor que os arquivos estejam disponíveis ou sejam pertinentes. [API de anexos PDF](https://www.westonaprice.org/wp-json/wp/v2/media?mime_type=application%2Fpdf)

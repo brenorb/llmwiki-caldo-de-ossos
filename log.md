@@ -431,3 +431,7 @@ A [nota sobre dermatite atópica](wiki/fontes/proksch-2026-colageno-dermatite.md
 ## [2026-11-11] revisão | Duas edições pendentes de Weekend Link Love
 
 O [inventário histórico](raw/inventario-mark-receitas.md#versões-de-impressão-e-quatro-lacunas-restantes) registra o salto do nº 215 ao 217 no feed e o redirecionamento arquivado do nº 263. A contagem de caminhos com corpo próprio permanece em 5.443.
+
+## [2026-11-11] ingestão | Caldo do osso de paleta suína na WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md#caldo-de-paleta-suína-e-novo-corte-de-áudio) chegou a 63 áudios em inglês e 27 em espanhol. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) acrescenta o aproveitamento do osso da paleta depois do ensopado.

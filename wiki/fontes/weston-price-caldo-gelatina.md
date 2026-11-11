@@ -19,6 +19,8 @@ A Weston A. Price Foundation publica receitas, textos de seus colaboradores, ent
 
 Christine Muldoon descreve um fundo de carne com osso em água por até três horas, um caldo longo de ossos por 24 a 48 horas e tutano assado por cerca de 20 minutos e batido após sair do osso. Galia Kleiman cita o uso de panela de aço inoxidável no caldo. A fala sobre utensílios de cobre vem mais tarde e não apresenta medição do metal na bebida. [Muldoon, 00:10:40–00:13:37](https://www.westonaprice.org/nutricion-optima-los-primeros-mil-dias-de-vida/) · [Kleiman, 00:22:40 e 00:24:14–00:25:28](https://www.westonaprice.org/tu-cocina-fuente-de-salud-o-de-enfermedad/)
 
+Uma convidada de *A Fat-Fueled Family* descreve fazer ensopado de paleta suína e aproveitar o osso da peça em um caldo. Diz continuar com o caldo por vários dias e não informa as condições de cocção ou conservação. [Episódio 249, 00:25:20–00:25:34](https://www.westonaprice.org/podcast/249-a-fat-fueled-family/)
+
 ## Afirmações de saúde
 
 - **Cartas de leitores.** Em 2006, uma carta descreve melhora percebida de edema e sintomas de joelho após caldo concentrado de pés de galinha, em contexto de cirurgia anterior. Em 2003, outras cartas atribuem ao caldo melhora digestiva e consolidação de fratura. Os relatos não apresentam comparador e têm informações limitadas sobre intervenções simultâneas. [Cartas de 2006](https://www.westonaprice.org/letters-fall-2006/) · [Cartas de 2003](https://www.westonaprice.org/letters-summer-2003/)

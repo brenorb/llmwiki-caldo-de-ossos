@@ -271,3 +271,7 @@ A [leitura paralela](raw/inventario-mark-receitas.md#leitura-paralela-da-wayback
 ## [2026-11-11] ingestão | Balas de kombucha de Sisson e Taylor
 
 A [ficha de gelatina](wiki/temas/receitas-gelatina.md#balas-de-kombucha-e-gelatina) traz a receita republicada de The Keto Reset Diet Cookbook, a proporção da base e opções com menos açúcar.
+
+## [2026-11-11] ingestão | Ensaios de gelatina sobre fome e peso
+
+A [nota dos ensaios](wiki/fontes/gelatina-saciedade-ensaios.md) distingue diferenças agudas de fome e consumo de resultados de perda e manutenção do peso. A [comparação de evidência](wiki/temas/relatos-e-evidencia.md) vincula esses achados aos relatos de saciedade.

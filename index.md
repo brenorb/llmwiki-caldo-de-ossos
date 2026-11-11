@@ -76,6 +76,7 @@
 - [Bannai et al. (2012) · Glicina em restrição de sono](wiki/fontes/bannai-2012-glicina-restricao-sono.md)
 - [ConsumerLab (2025) · Colágeno estimado em caldos comerciais](wiki/fontes/consumerlab-2025-caldos-comerciais.md)
 - [Hoh et al. (1934) · Cálcio e fósforo de costela agridoce](wiki/fontes/hoh-1934-costela-agridoce.md)
+- [Ensaios humanos de gelatina, saciedade e peso](wiki/fontes/gelatina-saciedade-ensaios.md)
 - [Hsu et al. (2017) — minerais e metais em caldos](wiki/fontes/hsu-2017-metais.md)
 - [Instant Pot — Operação e referência de tempo sob pressão](wiki/fontes/instant-pot-caldo-frango.md)
 - [Iwai et al. (2005) — peptídeos plasmáticos após gelatina hidrolisada](wiki/fontes/iwai-2005-peptideos.md)

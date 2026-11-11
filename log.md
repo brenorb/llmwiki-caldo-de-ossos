@@ -63,3 +63,7 @@ A [tabela de componentes](wiki/temas/componentes-por-caldo.md) vincula a alegaç
 ## [2026-11-11] ingestão | Receitas na edição atual do Mark’s Daily Apple
 
 A [triagem do mapa atual](raw/busca-receitas-relatos.md) cobriu os 207 corpos de artigos listados. As [fichas de receitas](wiki/temas/receitas-mark-sisson.md) incluem sopas, carne desfiada, chili e formas de usar gelatina culinária, com adaptações para reduzir açúcar e amido.
+
+## [2026-11-11] ingestão | Capturas históricas e receitas da Weston A. Price Foundation
+
+O [inventário](raw/inventario-wapf-receitas.md) registra a triagem de 240 capturas. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) incorpora 11 entradas de artigos, com adaptações para reduzir carboidratos. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) esclarece o material e o desenho do trabalho de Pottenger.

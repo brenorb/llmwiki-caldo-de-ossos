@@ -172,7 +172,7 @@ A leitura complementar de [Soup-stenance](https://www.westonaprice.org/health-to
 
 ## Busca no corpo de capturas do Arquivo.pt
 
-Foram percorridas as 26 páginas de resultados de oito consultas limitadas ao domínio `westonaprice.org`. As buscas retornaram 572 linhas no conjunto, com 317 URLs originais distintas e 313 caminhos após normalização. O conjunto inclui sobreposição, feeds, índices, comentários e versões alternativas. A contagem descreve o índice pesquisado. A validação no texto concentrou-se nas páginas com uso ou alegação pertinente.
+Em 2026-11-11 foram percorridas as 26 páginas de resultados de oito consultas limitadas ao domínio `westonaprice.org`. As buscas retornaram 572 linhas no conjunto, com 317 URLs originais distintas e 313 caminhos após normalização. Para reproduzir a descoberta, consulte a API de busca textual com `siteSearch=westonaprice.org`, `maxItems=40`, `dedupValue=1` e siga o campo `next_page` de cada consulta. A contagem descreve o índice pesquisado.
 
 | Termo | Linhas retornadas |
 | --- | ---: |
@@ -184,6 +184,17 @@ Foram percorridas as 26 páginas de resultados de oito consultas limitadas ao do
 | `gelatine` | 7 |
 | `collagen` | 47 |
 | `aspic` | 0 |
+
+A triagem do HTML selecionou a captura mais recente entre as devolvidas por caminho. Foram excluídos resultados com consulta na URL, outros formatos como PDF e RSS e padrões de endereço de feeds, páginas de busca, índices paginados, tags, autores, comentários, incorporações e endpoints do WordPress. Os 240 caminhos HTML selecionados responderam HTTP 200. Quatro precisaram de uma segunda tentativa.
+
+| Região usada para extrair texto | Capturas |
+| --- | ---: |
+| Conteúdo editorial identificado por `entry-content` | 100 |
+| Elemento `main` | 6 |
+| Elemento `article` | 1 |
+| Corpo HTML como alternativa, sobretudo em páginas antigas | 133 |
+
+A extração excluiu navegação, rodapé, barras laterais e blocos identificados de comentários. Encontrou pelo menos um termo em 177 das 240 capturas. Essa contagem inclui menções incidentais, resenhas e cópias editoriais. Em páginas antigas sem marcação editorial, a extração do corpo pode incluir texto auxiliar. A leitura manual conferiu as receitas e alegações acrescentadas às páginas abaixo. Ela também verificou falsos positivos, como o diretório *Find Nutrient-Dense Foods*, cujo resultado de caldo vinha de comentário. Dois caminhos históricos de *Broth Is Beautiful* foram tratados como versões do mesmo artigo. O inventário de capturas e o registro de respostas ficam no acervo local. A busca não cobre páginas ausentes do índice nem substitui a leitura integral do site. [Diretório arquivado](https://arquivo.pt/noFrame/replay/20240811022741id_/https://westonaprice.org/find-nutrient-dense-foods) · [Versão histórica de *Broth Is Beautiful*](https://arquivo.pt/noFrame/replay/20160521050116id_/https://westonaprice.org/health-topics/broth-is-beautiful)
 
 - [Busca pública de exemplo](https://arquivo.pt/textsearch?q=%22bone%20broth%22&siteSearch=westonaprice.org)
 - [Cartas e afirmações verificadas](../wiki/fontes/weston-price-caldo-gelatina.md)

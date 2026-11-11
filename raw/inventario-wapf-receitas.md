@@ -228,3 +228,28 @@ bouillon\s+d[\u2019\x27e]\s*os|Knochenbrühe|Knochenfond|bottenbouillon|gelatine
 ~~~
 
 As 1.089 correspondências por URL incluem títulos repetidos em índices, usos incidentais e textos traduzidos ou republicados. A leitura manual foi pontual, com conferência dos ingredientes e do preparo nas receitas acrescentadas e das fontes citadas nas alegações registradas. O manifesto por URL fica no acervo local. A cobertura conta o texto publicado no endereço do mapa. Áudios ou vídeos sem transcrição, PDFs e outros anexos, páginas fora do mapa e conteúdo restrito não têm cobertura integral nesta triagem. [Catálogo culinário](../wiki/temas/receitas-wapf-catalogo.md) · [Nota sobre as alegações](../wiki/fontes/weston-price-caldo-gelatina.md)
+
+## Revisão por categoria de receitas e cartas
+
+O cruzamento entre as categorias do WordPress e a triagem do corpo encontrou 464 páginas distintas associadas à categoria *Recipe of the Week* ou às suas 20 subcategorias. Entre essas páginas, 133 tinham ao menos um termo pesquisado. Oitenta e seis já tinham link na wiki quando começou a revisão, incluindo as fichas das categorias de sopas e de gelatina. Os trechos pertinentes das outras 47 foram conferidos no corpo retornado pela API e classificados pelo papel do ingrediente. [Recipe of the Week](https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/) · [Categorias REST](https://www.westonaprice.org/wp-json/wp/v2/categories)
+
+| Resultado entre as 47 páginas revisadas | Páginas |
+| --- | ---: |
+| Ingrediente, alternativa indicada no preparo ou caldo gerado na receita | 32 |
+| Uso secundário, como acompanhamento, reaproveitamento ou conservação | 9 |
+| Remissão a outra preparação | 2 |
+| Colágeno em pó como ingrediente | 2 |
+| Menção incidental ao colágeno do tutano | 1 |
+| Menção à consistência gelatinosa dos grãos de kefir | 1 |
+
+Os usos secundários incluíram caldo para servir macarrão, fundo para cozinhar arroz ou painço de acompanhamento, caldo para reaproveitar carcaça ou língua e opções com tutano retirado de ossos já cozidos. As 32 fichas com uso no preparo estão no [catálogo culinário](../wiki/temas/receitas-wapf-catalogo.md). [Macarrão](https://www.westonaprice.org/sourdough-ramen-noodles/) · [Arroz](https://www.westonaprice.org/rajma-masala-lamb/) · [Painço](https://www.westonaprice.org/glorious-halibut/) · [Carcaça](https://www.westonaprice.org/roast-chicken-with-apple-onion-gravy/) · [Língua](https://www.westonaprice.org/easy-seared-tongue/) · [Tutano](https://www.westonaprice.org/bone-marrow-butter-2/)
+
+A categoria *Letters* tinha 108 páginas no sitemap e 69 com termos no corpo. A segunda extração recuperou 69 de 69 corpos sinalizados. Em 64 havia menção a caldo ou fundo no texto extraído. A revisão conferiu o contexto das menções e separou cartas independentes dentro da mesma edição. Os relatos resumidos na wiki preservam a sequência e as intervenções simultâneas, sem reproduzir dados pessoais dos depoentes. A revisão categorizada não inclui todos os relatos dispersos em podcasts, galerias e outras páginas. [Categoria Letters](https://www.westonaprice.org/category/get-involved/letters/) · [Nota de fontes](../wiki/fontes/weston-price-caldo-gelatina.md)
+
+## PDFs e edições digitais
+
+O endpoint de anexos do WordPress com o filtro `mime_type=application/pdf` respondeu em seis páginas. O cabeçalho indicou 519 registros, e o corpo das respostas expôs 504 IDs e URLs distintas. A diferença de 15 não pôde ser esclarecida pelas respostas. A lista registra metadados e localizadores, sem pressupor que os arquivos estejam disponíveis ou sejam pertinentes. [API de anexos PDF](https://www.westonaprice.org/wp-json/wp/v2/media?mime_type=application%2Fpdf)
+
+O feed oficial de edições digitais retornou 44 páginas de edição em cinco lotes. Quarenta e uma tinham link para PDF, com 41 URLs distintas. As entradas dos guias de compras de 2018, 2019 e 2020 não traziam PDF no corpo do RSS. Vinte URLs do feed não apareciam no catálogo REST, totalizando 524 endereços de PDF nas duas fontes combinadas. [Arquivo de edições digitais](https://www.westonaprice.org/digital-journal/) · [Feed de edições digitais](https://www.westonaprice.org/feed/?post_type=digital-journals)
+
+O acesso direto aos 41 PDFs ligados pelo feed retornou 22 arquivos com texto extraível, somando 2.617 páginas, e 19 respostas HTTP 404. Uma busca nas páginas extraídas por variantes de caldo, fundo, aspic e gelatina sinalizou 206 páginas. Os resultados incluíram anúncios, guias de fornecedores, alegações, receitas e texto editorial repetido. A leitura pontual confirmou quatro receitas publicadas também no site e vinculou cada par PDF/HTML em uma só ficha. Os demais anexos do catálogo de mídia foram inventariados por metadados. [Receitas confirmadas nas edições digitais](../wiki/temas/receitas-wapf-catalogo.md)

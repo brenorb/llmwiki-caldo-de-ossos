@@ -111,3 +111,7 @@ As [receitas de gelatina](wiki/temas/receitas-gelatina.md) ganharam variações 
 ## [2026-11-11] ingestão | Áudio de vídeos em carrosséis do Cozinha de Pedra
 
 O [registro de cobertura](raw/busca-receitas-relatos.md) informa 30 mídias recuperadas. A [página de aplicações](wiki/temas/aplicacoes-culinarias.md) registra um risoto de limão com caldo e uma adaptação com couve-flor.
+
+## [2026-11-11] ingestão | Revisão de categorias, cartas e edições da WAPF
+
+O [catálogo](wiki/temas/receitas-wapf-catalogo.md) incorpora 32 receitas de outras subcategorias e quatro verificadas em PDFs e no site. O [inventário](raw/inventario-wapf-receitas.md) detalha o acesso às edições. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) registra seis relatos e as mudanças concomitantes.

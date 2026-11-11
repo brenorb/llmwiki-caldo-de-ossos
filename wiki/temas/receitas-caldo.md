@@ -37,6 +37,10 @@ Como ponto de partida da wiki para duas porções, use **1 chuchu médio** e **4
 2. Volte à panela e tempere a gosto com cúrcuma, gengibre, cominho e pimenta-do-reino. Sirva com carne moída refogada ou frango desfiado. Outra opção da live é quebrar um ovo no caldo e cozinhar até firmar.
 3. Finalize com torresmo triturado no lugar de croutons. Para limitar carboidratos, confira se o torresmo preparado leva farinha ou açúcar. [Live do Cozinha de Pedra, 1:06:48–1:09:24 e 1:10:50–1:11:01](https://www.instagram.com/cozinhadepedra/reel/CRM6gmfJsQM/)
 
+## Sopa à moda italiana com linguiça e abobrinha
+
+A [receita publicada pelos autores do Senhor Tanquinho](https://www.senhortanquinho.com/sopas-caldos-low-carb/) rende oito porções. Doure **500 g de linguiça italiana** e **500 g de patinho ou músculo** numa panela grande. Junte **4 xícaras de caldo**, **500 g de abobrinha**, **5 tomates**, **1 pimentão verde**, **1 xícara de salsão** e **meia cebola**, picados. Cozinhe tampado em fervura branda até os legumes ficarem macios e a carne estar cozida. Finalize com ervas, sal e pimenta. A publicação sugere cerca de uma hora. Para reduzir o açúcar adicionado, confira o rótulo da linguiça. O teor por porção depende do caldo, da linguiça e dos legumes. [Anúncio da receita no Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/p/CAVe_btDb3Z/)
+
 ## Mais caminhos
 
 | Preparo | Como usar e adaptar | Fonte |

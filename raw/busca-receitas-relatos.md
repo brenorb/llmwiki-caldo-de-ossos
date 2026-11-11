@@ -23,6 +23,8 @@ Os limites de tempo das primeiras filas foram retirados. A fila que os substitui
 
 Na conferência seguinte da fila sem limite, havia **36 reels com transcrição**, três sem fala detectada e um com falha de acesso, entre 122 itens inventariados. Três das novas transcrições completas correspondem a transmissões de aproximadamente 64, 83 e 82 minutos. [Trechos e achados registrados](../wiki/fontes/cozinha-de-pedra-caldo.md)
 
+No retrato seguinte, havia **40 reels com transcrição automática completa** e três sem fala detectada. O reel que tinha falhado por conexão foi recuperado em nova tentativa, com 32 blocos e falas até cerca de 1h03. Os demais itens continuavam na fila. [Live recuperada](https://www.instagram.com/cozinhadepedra/reel/CR2as2IpHH9/)
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

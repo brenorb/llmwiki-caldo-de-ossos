@@ -291,3 +291,7 @@ O [inventário histórico](raw/inventario-mark-receitas.md#retomada-com-deduplic
 ## [2026-11-11] ingestão | Conversas sobre folato e fios brancos
 
 A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-cabelo-e-colágeno) registra 448 comentários e respostas em três publicações. A [página de canície](wiki/temas/cabelos-brancos.md) localiza a hipótese de folato, as divulgações de Peter Liu e o relato de progressão percebida.
+
+## [2026-11-11] revisão | Métodos e resultados do ensaio de Bhardwaj
+
+A [nota do ensaio](wiki/fontes/bhardwaj-2026-suplemento-serum.md) incorpora as seções recuperadas da revista, registra os quatro braços e distingue a escala de densidade da contagem bruta. O registro inclui o financiamento da fabricante e o folato entre os ingredientes do suplemento.

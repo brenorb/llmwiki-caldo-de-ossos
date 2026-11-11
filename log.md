@@ -219,3 +219,7 @@ O [inventário](raw/inventario-wapf-receitas.md) registra a leitura dos 345 trec
 ## [2026-11-11] ingestão | Fechamento da rodada de capturas antigas de Mark’s Daily Apple
 
 O [inventário](raw/inventario-mark-receitas.md#fechamento-da-rodada-de-capturas-antigas) registra 4.442 textos triados de 5.447 caminhos e a recuperação de 110 entre 111 endereços localizados fora da janela inicial. As [fichas](wiki/temas/receitas-mark-sisson.md) incluem preparos de Sisson, da equipe e dos leitores.
+
+## [2026-11-11] ingestão | Frango com poblano e chili de batata-doce
+
+A [triagem histórica](raw/inventario-mark-receitas.md#continuação-da-triagem-por-corpo-e-por-título) chegou a 4.519 de 5.447 caminhos. As [fichas](wiki/temas/receitas-mark-sisson.md) registram o frango de Sisson com fundo reduzido, o chili de batata-doce da equipe e o ensopado de coelho de leitores.

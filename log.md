@@ -435,3 +435,7 @@ O [inventário histórico](raw/inventario-mark-receitas.md#versões-de-impressã
 ## [2026-11-11] ingestão | Caldo do osso de paleta suína na WAPF
 
 O [inventário](raw/inventario-wapf-receitas.md#caldo-de-paleta-suína-e-novo-corte-de-áudio) chegou a 63 áudios em inglês e 27 em espanhol. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) acrescenta o aproveitamento do osso da paleta depois do ensopado.
+
+## [2026-11-11] ingestão | Comentários sobre receitas e sintomas intestinais no Cozinha de Pedra
+
+A [leitura](raw/busca-receitas-relatos.md#comentários-sobre-receitas-gelificação-e-sintomas-intestinais) registrou 198 comentários e respostas em oito publicações. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-receitas-gelificação-e-sintomas-intestinais) relaciona conservação, gelificação e vinagre às fontes de segurança e composição. O relato digestivo entrou na [comparação por desfecho](wiki/temas/relatos-e-evidencia.md).

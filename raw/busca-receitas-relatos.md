@@ -61,6 +61,23 @@ A leitura na sessão autenticada recuperou **48 comentários e respostas com ide
 
 Os trechos pertinentes estão na [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-sono-porções-e-jejum).
 
+## Comentários sobre receitas, gelificação e sintomas intestinais
+
+A leitura na sessão autenticada recuperou **198 comentários e respostas com identificador distinto** em oito publicações. Foram abertas as respostas oferecidas pela interface. O indicador de carregamento continuou visível em sete páginas, então as contagens representam o material exibido.
+
+| Publicação | Registros exibidos | Estado da lista |
+| --- | ---: | --- |
+| [Publicação fixada sobre colágeno](https://www.instagram.com/cozinhadepedra/p/DRmpyo1EbE8/) | 32 | Carregamento continuou visível |
+| [Caldo Colossal](https://www.instagram.com/cozinhadepedra/reel/DR0DuUYkZ0y/) | 48 | Carregamento continuou visível |
+| [Custo do colágeno](https://www.instagram.com/cozinhadepedra/reel/DR4WXd1kWBS/) | 6 | Sem indicador de carregamento no fim da leitura |
+| [Anúncio de aula](https://www.instagram.com/cozinhadepedra/reel/DRw3b-ADW5n/) | 28 | Carregamento continuou visível |
+| [Gelatina de coco](https://www.instagram.com/cozinhadepedra/p/CFSEIF3MRbK/) | 18 | Carregamento continuou visível |
+| [Canjica de castanha de caju](https://www.instagram.com/cozinhadepedra/p/CBxgKWiKPvU/) | 18 | Carregamento continuou visível |
+| [Limonada de caldo](https://www.instagram.com/cozinhadepedra/p/CKKDN_EFp4_/) | 20 | Carregamento continuou visível |
+| [Consistência do caldo](https://www.instagram.com/cozinhadepedra/reel/DQG_jpTDWRC/) | 28 | Carregamento continuou visível |
+
+A [nota da fonte](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-receitas-gelificação-e-sintomas-intestinais) registra dúvidas de preparo, conservação e um relato de melhora percebida de sintomas intestinais.
+
 ## Busca complementar de estudos humanos
 
 Em 2026-11-11, uma consulta de título e resumo no PubMed combinou `"bone broth" OR "bone soup" OR "bone broths" OR "bone soups" OR "sagol" OR "gomtang" OR "tonkotsu"`. O índice retornou 58 registros. A triagem não identificou ensaio humano terapêutico adicional de caldo de ossos para digestão, sono, articulações ou pele. A busca por intervenção na API do ClinicalTrials.gov localizou o programa de dieta e peso já registrado, NCT05740670. Buscas por fundos de frango e bovino retornaram intervenções diferentes, como caldo de peito de frango, diagnóstico de alergia e preparo para colonoscopia. Uma consulta ao ANZCTR recuperou os registros já catalogados de absorção de aminoácidos e permeabilidade intestinal. [Matriz de estudos](../wiki/temas/alegacoes-saude.md) · [Achados observacionais e relatos de segurança](../wiki/fontes/huo-2023-pandita-2011-seguranca.md)

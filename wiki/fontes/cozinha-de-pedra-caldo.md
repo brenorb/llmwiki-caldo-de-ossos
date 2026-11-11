@@ -1,0 +1,16 @@
+# Cozinha de Pedra · Receitas e relatos sobre caldo
+
+Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde e depoimentos de seguidoras no perfil [@cozinhadepedra](https://www.instagram.com/cozinhadepedra/). Na [entrevista em texto do Senhor Tanquinho](https://www.senhortanquinho.com/podcast-095-tudo-sobre-caldo-de-ossos-com-a-nutri-isabela-e-especialista-bibiana-mandagara/), Mandagara descreve como usa caldo neutro, inclusive em gelatina de chocolate, mousse e torta de limão. Ela separa gordura do caldo para a massa da torta e usa a gelatina do caldo na cobertura ou recheio de limão. As falas da nutricionista Isabela Clerot e dos apresentadores têm atribuição própria na transcrição.
+
+| Publicação | O que documenta |
+| --- | --- |
+| [Gelatina de coco](https://www.instagram.com/cozinhadepedra/p/CFSEIF3MRbK/) e [outra publicação da receita](https://www.instagram.com/cozinhadepedra/p/B_aM9Jbjmca/) | Caldo neutro concentrado, leite de coco em pó, eritritol, coco ralado e creme opcional. Bater o gel frio dá a variação de mousse. |
+| [Limonada](https://www.instagram.com/cozinhadepedra/p/CKKDN_EFp4_/) e [bebidas de frutas](https://www.instagram.com/cozinhadepedra/p/B_QaG_3DjC8/) | Cubos de caldo neutro em bebidas. A autora sugere testar uma gelatina de limão usando o caldo líquido. |
+| [Chocolate quente](https://www.instagram.com/cozinhadepedra/reel/CGMvjwQBV6i/) e [Caputosso](https://www.instagram.com/cozinhadepedra/reel/CRMMSkEFE_J/) | Cacau, creme e adoçante com caldo neutro. A segunda receita acrescenta café e canela. |
+| [Canjica de caju](https://www.instagram.com/cozinhadepedra/p/CBxgKWiKPvU/) | Xerém de castanha, caldo neutro, leite de coco e especiarias. A castanha contém carboidratos. |
+| [Mocotó temperado](https://www.instagram.com/cozinhadepedra/reel/CJFYjIol3sh/) e [panela de pressão](https://www.instagram.com/cozinhadepedra/reel/DRuELA7Dao1/) | Cominho e pimentas para servir quente. Em outro vídeo, a autora descreve o preparo simplificado na pressão e questiona a necessidade de vinagre. |
+| [Colágeno por porção](https://www.instagram.com/cozinhadepedra/p/CHTB2StsJgK/) | Estimativa editorial de 15 g de colágeno por xícara e hipótese de necessidade diária. O teor depende da receita, da redução e do volume servido. |
+| [Publicação sobre cabelo](https://www.instagram.com/cozinhadepedra/p/CIlPnYnM39G/) | A imagem atribui a seguidores relatos de crescimento de fios pretos após consumir caldo. A legenda cita uma seguidora que deixou de usar xampu para neutralizar o amarelado de fios brancos. A publicação não apresenta medidas de melanina nem verificação do crescimento de fio pigmentado. |
+| [Destaque Sucessos](https://www.instagram.com/stories/highlights/18120103564175023/) | Seleção de depoimentos republicados pelo perfil. Os exemplos lidos mencionam dores, unhas, brilho do cabelo, pele, sono, saciedade, disposição e percepção de escurecimento de cílios. |
+
+A [página de receitas](../temas/receitas-gelatina.md) incorpora as versões que a legenda ou a entrevista permitiu reconstruir. A [comparação clínica](../temas/relatos-e-evidencia.md) resume relatos sem identificação de seguidoras. A [trilha de acesso](../../raw/busca-receitas-relatos.md) registra a grade de 395 itens e as lacunas de leitura das mídias.

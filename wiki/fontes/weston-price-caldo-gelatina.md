@@ -1,0 +1,26 @@
+# Weston A. Price Foundation · Caldos, gelatina e alegações
+
+A Weston A. Price Foundation publica receitas, textos de seus colaboradores, entrevistas e resenhas. A [categoria de gelatina](https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/gelatin/) e a [categoria de sopas, caldos e fundos](https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/soups/) servem para localizar receitas recentes. As fichas abaixo indicam o uso culinário e os pontos que mudam o perfil de carboidratos.
+
+| Fonte | Uso na wiki |
+| --- | --- |
+| [Stocks](https://www.westonaprice.org/health-topics/food-features/stocks/) e [Chicken Stock](https://www.westonaprice.org/chicken-stock/) | Fundo de frango e uso de pés para obter corpo. |
+| [Collagen Broth from Chicken Feet](https://www.westonaprice.org/collagen-broth-from-chicken-feet/) · Mai Meyers | Escaldar e cozinhar pés de frango com aromáticos. |
+| [Piggy Chicken Feet Basic Bone Broth](https://www.westonaprice.org/piggy-chicken-feet-basic-bone-broth/) · Maria Atwood | Combinação de pé suíno e pés de frango. |
+| [Beef Broth](https://www.westonaprice.org/beef-broth/), [Beef Broth de Sally Fallon Morell](https://www.westonaprice.org/beef-broth-2/) e [Rich and Savory Beef Bone Broth](https://www.westonaprice.org/rich-and-savory-beef-bone-broth/) | Variações bovinas. A versão de Fallon Morell acrescenta vinho, conhaque e extrato de tomate. |
+| [Fish Stock](https://www.westonaprice.org/fish-stock/), [Lamb Stock](https://www.westonaprice.org/lamb-stock/) e [Turkey Stock](https://www.westonaprice.org/turkey-stock/) | Fundos específicos por matéria-prima. |
+| [Sugar Free Gelatin Jellybeans](https://www.westonaprice.org/sugar-free-gelatin-jellybeans/) · Susanna Zahratka | Gelatina firme com leite ou creme de coco sem açúcar adicionado. |
+| [Coconut Hibiscus Jello](https://www.westonaprice.org/coconut-hibiscus-jello/) e [High Protein Gummies](https://www.westonaprice.org/high-protein-gummies-2/) · Spencer Clanin | Gelatina de hibisco e coco, ou balas à base de laticínios. As receitas usam mel. |
+| [Essential Recipes for the Wise Family](https://www.westonaprice.org/health-topics/food-features/essential-recipes-for-the-wise-family/) e [Coconut Lemongrass Panna Cotta](https://www.westonaprice.org/coconut-lemongrass-panna-cotta/) | Panna cotta clássica adoçada com mel ou xarope de bordo e variação de coco com açúcar de coco. |
+| [Gelasicles](https://www.westonaprice.org/health-topics/childrens-health/celebrate-summer-with-a-pop/) e [Homemade Marshmallows](https://www.westonaprice.org/homemade-marshmallows/) | Picolés e marshmallow. No marshmallow, o adoçante original participa da estrutura. |
+| [Raspberry Gelatina](https://www.westonaprice.org/raspberry-gelatina/), [Homemade Gummy Candies](https://www.westonaprice.org/homemade-gummy-candies/) e [Blueberry Cheesecake Jello](https://www.westonaprice.org/blueberry-cheesecake-jello/) | Frutas vermelhas, com mel ou xarope nas duas primeiras e mel mais açúcar na terceira. |
+| [Seasonal Bone Broth Soup](https://www.westonaprice.org/seasonal-bone-broth-soup/), [Shrimp Shell Broth](https://www.westonaprice.org/shrimp-shell-broth/) e [Slow-Cooker Chicken and Broth](https://www.westonaprice.org/slow-cooker-chicken-and-broth/) | Sopa de legumes, caldo de cascas de camarão e frango na panela lenta. Batata, milho, arroz e leguminosas são opções da sopa. |
+
+## Afirmações de saúde
+
+- [Can Broth Help Us Maintain a Healthy Weight?](https://www.westonaprice.org/can-broth-help-us-maintain-a-healthy-weight-a-study-on-glutamine-and-the-microbiome-suggests-it/) extrapola de um estudo de glutamina sobre a microbiota. O piloto randomizou 33 adultos para glutamina ou alanina isoladas, 30 g/dia durante 14 dias. A mudança observada foi na microbiota. [De Souza et al.](https://pubmed.ncbi.nlm.nih.gov/25933498/)
+- [Broth Is Beautiful](https://www.westonaprice.org/health-topics/food-features/broth-is-beautiful/) apresenta usos históricos e alegações sobre articulações, digestão e infecções. As observações e explicações fisiológicas citadas têm desenhos e intervenções diversos.
+- [Why Broth Is Beautiful](https://www.westonaprice.org/health-topics/why-broth-is-beautiful-essential-roles-for-proline-glycine-and-gelatin/), de Kaayla T. Daniel, recorre a textos históricos sobre gelatina e discute glicina, prolina e digestão. Os tratamentos históricos têm contexto e critérios próprios.
+- [Rediscover Bone Broth](https://www.westonaprice.org/podcast/rediscover-bone-broth/) e [Broth, Stew and Sauce Recipes for Good Health](https://www.westonaprice.org/broth-stew-and-sauce-recipes-for-good-health/) combinam técnica, tradição e afirmações dos convidados. A [resenha de Nourishing Broth](https://www.westonaprice.org/book-reviews/nourishing-broth-by-sally-fallon-morell-kaayla-daniel/) ajuda a localizar as alegações do livro. A [chamada por depoimentos](https://www.westonaprice.org/a-new-book-on-broth-testimonials-and-recipes-requested/) selecionava histórias de melhora, sem medir quantas pessoas não melhoraram.
+
+Veja [receitas de caldo](../temas/receitas-caldo.md), [receitas com gelatina](../temas/receitas-gelatina.md), [comparação de evidência](../temas/relatos-e-evidencia.md) e [registro de busca](../../raw/busca-receitas-relatos.md).

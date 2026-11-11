@@ -12,6 +12,7 @@ Para rastrear uma afirmação, siga da página temática para a nota de fonte e 
 | Evidência indireta | O que ocorre com outro alimento, ingrediente isolado ou suplemento definido? | Forma, dose, duração, população e desfecho podem diferir. |
 | Norma ou orientação | Qual processo foi recomendado ou validado e para qual contexto? | Distinguir cozinha doméstica, serviços de alimentação e conservas sob pressão. |
 | Fonte culinária original | Como um cozinheiro ou uma tradição executa determinado preparo? | A receita sustenta o método e o resultado pretendido. Um tempo de receita não mede teor de gelatina nem demonstra benefício clínico. |
+| Depoimento | O que alguém percebeu e resolveu relatar? | Seleção de quem relata, medidas subjetivas, intervenções simultâneas e ausência de comparador. |
 
 ## Cobertura e limites da busca inicial
 
@@ -27,6 +28,8 @@ Pesquisa em português e inglês, com consultas acadêmicas e na web em 2026-11-
 A [busca de 2026-11-11](../raw/busca-composicao-terapeutica.md) preserva os retornos de três consultas do PubMed e uma do ClinicalTrials.gov, junto dos acessos complementares. A [tabela por preparo](temas/componentes-por-caldo.md) informa o denominador e o tipo de dado de cada medida. A [síntese de cabelos brancos](temas/cabelos-brancos.md) localiza estudos bioquímicos, observacionais, relatos de deficiência e um ensaio de produtos combinados. A cobertura é narrativa, com as limitações de acesso descritas no registro.
 
 ## Verificação das afirmações centrais
+
+A [busca de receitas e relatos](../raw/busca-receitas-relatos.md) descreve a cobertura do Instagram, de Mark’s Daily Apple e da Weston A. Price Foundation. A [comparação por desfecho](temas/relatos-e-evidencia.md) rastreia cada alegação ao relato ou estudo.
 
 | Afirmação | Onde conferir |
 | --- | --- |

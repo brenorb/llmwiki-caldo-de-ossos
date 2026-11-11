@@ -41,3 +41,5 @@ Um [relato pós-transplante](../fontes/2024-pho-creatinina.md) encontrou creatin
 Definir espécie, proporção de água, processo, volume final e composição por dose. Usar comparação adequada à alegação. Para sintomas digestivos, por exemplo, comparar com bebida de sabor e composição global semelhantes, registrar previamente o desfecho clínico principal e analisar perdas e eventos adversos. Se o foco for um marcador, associá-lo a sintomas, função ou outros desfechos que importem às pessoas. Uma diferença pré–pós isolada pode motivar um ensaio confirmatório.
 
 A digestão disponibiliza aminoácidos e, em alguns casos, peptídeos detectáveis, como explica [Colágeno e gelatina](colageno-gelatina.md). Para aplicar um achado de suplemento a caldo, seria necessário demonstrar comparabilidade da dose, perfil de peptídeos e exposição biológica e testar o próprio desfecho.
+
+Para localizar as alegações de Cozinha de Pedra, Mark Sisson e da WAPF, consulte a [comparação de relatos e evidência](relatos-e-evidencia.md).

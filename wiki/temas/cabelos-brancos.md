@@ -24,3 +24,5 @@ As quantidades se referem às amostras e porções indicadas. Dada a pequena qua
 - **Canície do envelhecimento.** A capacidade do folículo de produzir pigmento também depende da manutenção dos melanócitos, as células que produzem melanina. Em camundongos, falhas no deslocamento e na diferenciação de suas células-tronco contribuíram para o embranquecimento. A presença de substrato e cofator na dieta não demonstra recuperação desse sistema. [Sun et al.](../fontes/sun-2023-melanocitos.md)
 
 Para avaliar um efeito do caldo seriam necessários lotes com teor medido de cobre e outros candidatos, comparação com controle, avaliação do estado nutricional inicial e medida de pigmentação na raiz ao longo do crescimento. A [matriz terapêutica](alegacoes-saude.md) reúne os outros desfechos estudados.
+
+O Cozinha de Pedra publicou relatos de crescimento de fios escuros e de escurecimento percebido de cílios. A [comparação de relatos e evidência](relatos-e-evidencia.md) registra essas observações e o que faltou medir para atribuí-las ao caldo.

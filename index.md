@@ -8,6 +8,8 @@
 
 ### Cozinha
 
+- [Receitas de caldo de frango, pés de frango, bovino e outras variações](wiki/temas/receitas-caldo.md)
+- [Gelatinas, mousses e adaptações com menos carboidratos](wiki/temas/receitas-gelatina.md)
 - [Ossos, articulações, carne, cartilagem, água, aromáticos e sal](wiki/temas/ingredientes.md)
 - [Fogo brando, pressão, caldo claro, escuro e emulsificado](wiki/temas/preparo.md)
 - [Sopas, grãos, molhos, redução e reaproveitamento culinário](wiki/temas/aplicacoes-culinarias.md)
@@ -18,6 +20,7 @@
 - [Proteína, aminoácidos, sódio, minerais e variação entre preparações](wiki/temas/composicao.md)
 - [Transformação, gelificação e diferenças entre caldo e hidrolisado](wiki/temas/colageno-gelatina.md)
 - [Estudos humanos e pré-clínicos, suplementos e limites das alegações](wiki/temas/alegacoes-saude.md)
+- [Depoimentos sobre caldo comparados com estudos por desfecho](wiki/temas/relatos-e-evidencia.md)
 
 - [Componentes e quantidades por espécie, preparo ou produto](wiki/temas/componentes-por-caldo.md)
 - [Cabelos brancos, cobre e evidência de repigmentação](wiki/temas/cabelos-brancos.md)
@@ -29,9 +32,14 @@
 - [Instruções de ingestão, consulta e revisão](AGENTS.md)
 - [Histórico cronológico de mudanças](log.md)
 - [Originais e registros de acesso](raw/README.md)
+- [Cobertura da pesquisa de receitas e relatos](raw/busca-receitas-relatos.md)
 
 ## Notas de fonte
 
+- [Cozinha de Pedra · Receitas e relatos no Instagram e em entrevista](wiki/fontes/cozinha-de-pedra-caldo.md)
+- [Hexsel et al. (2017) · Peptídeos de colágeno e unhas frágeis](wiki/fontes/hexsel-2017-unhas.md)
+- [Mark Sisson e Mark’s Daily Apple · Receitas, gelatina e colágeno](wiki/fontes/mark-sisson-caldo-gelatina.md)
+- [Weston A. Price Foundation · Caldos, gelatina e alegações](wiki/fontes/weston-price-caldo-gelatina.md)
 - [Adagro · Como conferir a inspeção de produtos de origem animal](wiki/fontes/adagro-inspecao.md)
 - [Aksu et al. (2026) · Elementos minerais e chumbo em caldos de varejo](wiki/fontes/aksu-2026-elementos.md)
 - [Alcock et al. (2019) — Aminoácidos plasmáticos após caldo bovino](wiki/fontes/alcock-2019-aminoacidos-plasma.md)

@@ -38,3 +38,5 @@ A opacidade também tem uma base mensurável. Guan e colegas estudaram uma emuls
 | Salgado demais | Dilua com água ou caldo sem sal. Para molhos, tempere depois da redução e considere o sal de outros ingredientes do prato. |
 
 Para repetir um lote, registre peso e tipos de cortes, litros de água inicial e de reposição, aromáticos, tempo efetivo, tipo de panela, volume coado e volume final. Compare sabor a quente e firmeza a frio à mesma temperatura. O volume final permite distinguir concentração por evaporação de mudanças de receita. Termine o preparo servindo logo ou seguindo [resfriamento e conservação](seguranca-conservacao.md).
+
+Veja também as [receitas completas de caldo](receitas-caldo.md) para comparar quantidades e tempos.

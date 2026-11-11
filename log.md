@@ -27,3 +27,7 @@ A página de [cabelos brancos](wiki/temas/cabelos-brancos.md) incorporou os estu
 ## [2026-11-11] ingestão | Auditoria da ficha de mocotó e análise de vitamina K
 
 O folato de 3,09 µg por 100 g já constava na tabela de composição. O valor de 4,02 µg por concha entrou na atualização anterior sobre pigmentação. A auditoria da [ficha BRC0878F](wiki/fontes/tbca-mocoto.md) acrescentou campos calculados, zeros assumidos e campos sem valor à [tabela por preparo](wiki/temas/componentes-por-caldo.md). A mesma tabela passou a incluir a medição de K1 em outro caldo bovino e a divergência sobre K2 na [fonte original](wiki/fontes/kesterson-2018-vitamina-k-caldo.md). O [relato com tratamento combinado](wiki/fontes/sakhiya-2019-suplemento-canitie.md) foi incorporado à página de pigmentação.
+
+## [2026-11-11] ingestão | Receitas, relatos e evidência
+
+Entraram fichas de caldo e gelatina, adaptações com menos carboidratos e uma comparação de alegações de saúde por desfecho. As notas ligam Cozinha de Pedra, Mark’s Daily Apple e Weston A. Price Foundation às receitas e aos estudos relevantes. O [registro de acesso](raw/busca-receitas-relatos.md) documenta a cobertura parcial de conteúdo histórico, mídias e textos.

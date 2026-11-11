@@ -13,3 +13,5 @@ Uma base sem sal adicionado pode servir a várias preparações. Use um [fundo c
 | Ramen | Aqueça a base de caldo e combine com *tare*, o tempero concentrado, na tigela. Na receita doméstica de Chen, o ponto de partida é 1 colher de sopa de *tare* para 350 mL de caldo, antes do macarrão e das guarnições. | A proporção serve para o *tare* da receita. Caldo de tonkotsu costuma ser opaco e rico em gordura dispersa, enquanto outras bases de ramen podem ser claras. [Yonemitsu](../fontes/yonemitsu-tonkotsu.md) · [Chen](../fontes/just-one-cookbook-tonkotsu.md). |
 
 Um concentrado com metade do volume final tem aproximadamente o dobro da concentração dos solutos não voláteis que permanecem na panela. Exemplo: reduzindo 1 L a 500 mL, 125 mL de concentrado mais 125 mL de água reconstituem 250 mL na concentração original desses solutos. Aromas, gordura retirada e perdas durante o preparo podem alterar o resultado. Identifique porções congeladas com o tipo de caldo, data e fator de redução. Veja [composição e variabilidade](composicao.md) e [conservação](seguranca-conservacao.md).
+
+Veja também as [receitas com gelatina e caldo neutro](receitas-gelatina.md).

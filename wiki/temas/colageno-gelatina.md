@@ -26,3 +26,5 @@ Alcock et al. compararam seis aminoácidos de 250 mL de caldo com porções de q
 Na digestão, cadeias proteicas dão origem a aminoácidos e peptídeos menores. Iwai et al. detectaram peptídeos como prolil-hidroxiprolina no sangue após voluntários ingerirem hidrolisados de gelatina. A intervenção usou hidrolisados e a medida foi de curto prazo no sangue. Isso deixa em aberto a quantidade de peptídeo que surge após uma porção de caldo e qualquer efeito em pele, articulação ou tendão. [Iwai et al.](../fontes/iwai-2005-peptideos.md)
 
 Leia também [Preparo](preparo.md) e [Alegações de saúde](alegacoes-saude.md).
+
+Para preparar sobremesas, consulte as [receitas de gelatina](receitas-gelatina.md).

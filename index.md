@@ -39,6 +39,7 @@
 
 ## Notas de fonte
 
+- [Price (1939) e Wald e Adibi (1982) · Cárie e secreção gástrica](wiki/fontes/price-1939-caries-wald-1982-acidez.md)
 - [Aljumaily (2011) e Oviawe et al. (2023) · Caldo e reparo ósseo em coelhos](wiki/fontes/caldo-cicatrizacao-ossea-coelhos.md)
 - [Chan et al. (2000) · Sopa cantonesa de gengibre e vinagre](wiki/fontes/chan-2000-sopa-pos-parto.md)
 - [Jiang et al. (1999) · Cálcio em caldos suínos com e sem vinagre](wiki/fontes/jiang-1999-calcio-caldo-suino.md)

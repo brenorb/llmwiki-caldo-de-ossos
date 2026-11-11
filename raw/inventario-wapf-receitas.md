@@ -167,3 +167,5 @@ Para localizar menções no corpo da página, foram feitas dez consultas complem
 | [Choleric Dispositions](https://www.westonaprice.org/health-topics/modern-diseases/choleric-dispositions/) e [WAPF Chapter Leaders’ Health During Covid: A Survey](https://www.westonaprice.org/health-topics/survey-wapf-chapter-leaders-health-during-covid/) | No primeiro, o caldo integra várias mudanças dietéticas de um relato. No segundo, a menção está na biografia de uma autora. |
 
 O recorte inclui as páginas indexadas acima e os itens das duas categorias culinárias. O acesso por indexador à busca nativa do site falhou para *bone broth*, *gelatin* e *collagen*. A leitura integral das demais URLs do site, das edições completas da revista, das conversas restritas e de áudios ou vídeos sem transcrição continua em aberto.
+
+A leitura complementar de [Soup-stenance](https://www.westonaprice.org/health-topics/childrens-health/soup-stenance/) rastreou as alegações de cárie e secreção gástrica aos [textos originais](../wiki/fontes/price-1939-caries-wald-1982-acidez.md). A tentativa de busca pelo endpoint REST e pelo feed do WordPress não retornou conteúdo no indexador.

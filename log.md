@@ -211,3 +211,7 @@ A [nota do destaque](wiki/fontes/cozinha-de-pedra-caldo.md#destaque-sucessos) id
 ## [2026-11-11] ingestão | Caldo de costela de Bogotá
 
 A [ficha culinária](wiki/temas/receitas-caldo.md#caldo-de-costela-de-bogotá) inclui a versão com batatas e uma adaptação com chuchu. A [comparação de evidência](wiki/temas/relatos-e-evidencia.md) registra o uso tradicional para ressaca e a busca por ensaios.
+
+## [2026-11-11] ingestão | Trechos restantes da triagem da WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md) registra a leitura dos 345 trechos sinalizados e dos 329 trechos disponíveis do recorte residual. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) ganhou fichas de estufados e usos do caldo com miúdos. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) localiza a afirmação sobre folato no coração de vitela.

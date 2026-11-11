@@ -573,6 +573,31 @@ A coleção **CC-MAIN-2018-51** indicou **805 caminhos HTML de um segmento** com
 | [Holiday Travel](https://web.archive.org/web/20230926092431id_/https://www.marksdailyapple.com/holiday-travel/), Mark Sisson, 2014-12-23 | A coluna menciona que algumas pessoas consomem caldo antes de viajar. A passagem é um relato genérico e não apresenta uma análise de resultados. |
 | [Appetite](https://web.archive.org/web/20230922013937id_/https://www.marksdailyapple.com/appetite/), Mark Sisson, 2007-10-22 | A coluna sugere sopas de legumes ou de caldo e menciona um experimento sobre pistas visuais de porção. O experimento avaliou o consumo com tigelas que se reabasteciam, sem comparar sopa leve e sopa cremosa. [Wansink et al.](https://pubmed.ncbi.nlm.nih.gov/15761167/) |
 
+### Conclusão da leitura do índice de 2016
+
+A leitura do índice **CC-MAIN-2016-50** retomou do cache após um erro de transporte. A coleção indicou **1.567 caminhos HTML de um segmento** com resposta HTTP 200 no domínio. O endereço adicional `locavores` abriu com o título *The SUV Diet Vs. the 100-Mile Diet*. O texto foi publicado em 2007 e foi triado na captura de **2016-12-11 06:44:16 UTC**. A coleção ficou com **quatro corpos válidos em quatro tentativas**, todos de endereços que antes não tinham indicação de captura. [Índice e recuperação de registros WARC](https://commoncrawl.org/cdxj-index)
+
+Nesse corte, havia **5.419 corpos triados de 5.447 caminhos**, com **28 pendências**. As capturas de `most-popular-posts` e `marks-beach-sprints` trazem um índice de categoria e uma página de vídeo, respectivamente. As capturas de `healthy-tastes-great-32` e `weekend-link-love-263` ficaram sem corpo recuperável.
+
+Os **24 caminhos ainda sem indicação de captura** nesse corte eram:
+
+- `calories`, `disease-inventing-contest`, `weight-loss-sabotage`, `holiday-survival-guide-part-ii` e `oxidative-stress-antioxidants`.
+- `healthy-tastes-great`, `healthy-tastes-great-7`, `healthy-tastes-great-11`, `healthy-tastes-great-16`, `healthy-tastes-great-18`, `healthy-tastes-great-21`, `healthy-tastes-great-26`, `healthy-tastes-great-30`, `healthy-tastes-great-33` e `healthy-tastes-great-34`.
+- `introducing-the-primal-leap`, `announcement-primal-fuel-now-available`, `before-you-close-your-eyes-make-sure-theyre-open`, `a-healthy-body-and-mind-in-2011-first-quarter-progress-check`, `7-low-tech-tools-for-primal-living`, `primal-stuffed-chops`, `halfway-through-the-primal-blueprint-challenge`, `the-importance-of-wrist-and-ankle-mobility` e `weekend-link-love-216`.
+
+O código-fonte arquivado de *Sarah’s Primal Sushi Recipe* confirma o título *Primal Stuffed Chops* e o caminho da publicação anterior no metadado `rel="prev"`. A captura vizinha não inclui a fórmula. [Sarah’s Primal Sushi Recipe, captura de 2013](https://web.archive.org/web/20130426235022id_/http://www.marksdailyapple.com/sarahs-primal-sushi-recipe/)
+
+### Recuperação de oito textos na coleção de 2014
+
+O índice **CC-MAIN-2014-52** indicou **3.259 caminhos HTML de um segmento** com resposta HTTP 200 no domínio. Cruzou **dez pendências**, incluindo as páginas já verificadas de categoria e vídeo. Os **oito endereços sem outra indicação** abriram por faixa de bytes. Um texto sobre estresse oxidativo menciona uma gelatina de tomate de passagem. Nenhum desses oito traz fórmula de caldo ou dados de composição. [Índice e recuperação de registros WARC](https://commoncrawl.org/cdxj-index)
+
+A cobertura chegou a **5.427 de 5.447 caminhos**. Dos **20** restantes, **16** estavam sem indicação de captura, dois tinham capturas sem corpo recuperável e dois tinham páginas sem texto editorial. Uma nova tentativa do replay alternativo do Arquivo.pt para *Healthy Tastes Great!* nº 32 devolveu HTTP 404. [Replay consultado no Arquivo.pt](https://arquivo.pt/noFrame/replay/20160522225838/http://www.marksdailyapple.com/healthy-tastes-great-32/)
+
+Os **16 caminhos ainda sem indicação de captura** neste corte eram:
+
+- `calories`, `weight-loss-sabotage`, `introducing-the-primal-leap`, `announcement-primal-fuel-now-available`, `primal-stuffed-chops` e `weekend-link-love-216`.
+- `healthy-tastes-great`, `healthy-tastes-great-7`, `healthy-tastes-great-11`, `healthy-tastes-great-16`, `healthy-tastes-great-18`, `healthy-tastes-great-21`, `healthy-tastes-great-26`, `healthy-tastes-great-30`, `healthy-tastes-great-33` e `healthy-tastes-great-34`.
+
 ## Resultados do Arquivo.pt
 
 A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.

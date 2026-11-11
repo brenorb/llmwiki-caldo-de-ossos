@@ -383,3 +383,7 @@ A [nota de fonte](wiki/fontes/mark-sisson-caderno-coco.md) reúne os usos de cal
 ## [2026-11-11] ingestão | Locro de galinha e novo corte da WAPF
 
 O [inventário de áudio](raw/inventario-wapf-receitas.md#locro-de-galinha-e-novo-corte-de-áudio) chega a 52 transcrições locais em inglês e 18 em espanhol. A [ficha do locro](wiki/temas/receitas-caldo.md#locro-de-galinha-de-santa-cruz) cruza a entrevista com o receituário boliviano e explicita a troca de batata e arroz.
+
+## [2026-11-11] revisão | Oito textos recuperados do índice de 2014
+
+A [busca no Common Crawl](raw/inventario-mark-receitas.md#recuperação-de-oito-textos-na-coleção-de-2014) elevou a cobertura para 5.427 de 5.447 caminhos. O inventário identifica os 20 endereços pendentes e registra os tipos de lacuna.

@@ -8,7 +8,7 @@ Na [carta de relançamento de junho de 2026](https://www.marksdailyapple.com/p/m
 
 Em 11 de novembro de 2026, o sitemap atual listava 210 URLs. Três eram páginas de navegação e os 207 endereços de publicações forneceram o corpo do texto. A triagem por termos de caldo, gelatina, colágeno, glicina e preparações afins encontrou 41 textos, incluindo referências a suplementos e menções de passagem. Essa cobertura se refere ao conjunto de publicações listado no sitemap na data da consulta. [Sitemap oficial](https://www.marksdailyapple.com/sitemap.xml) · [Arquivo oficial](https://www.marksdailyapple.com/archive)
 
-O [inventário do WordPress de dezembro de 2023](../../raw/inventario-mark-receitas.md#sitemap-wordpress-de-dezembro-de-2023) recuperou 5.447 caminhos únicos. A busca combinada no Goodreads, no site atual, no Arquivo.pt, na Wayback Machine e no Common Crawl encontrou uma versão textual triada para pelo menos 5.418 desses caminhos. As capturas da Wayback permitiram confirmar a data e a atribuição de receitas anteriores ao início do feed, além de uma receita de caldo espumado de Priscilla Chamessian.
+O [inventário do WordPress de dezembro de 2023](../../raw/inventario-mark-receitas.md#sitemap-wordpress-de-dezembro-de-2023) recuperou 5.447 caminhos únicos. A busca combinada no Goodreads, no site atual, no Arquivo.pt, na Wayback Machine e no Common Crawl encontrou uma versão textual triada para pelo menos 5.427 desses caminhos. As capturas da Wayback permitiram confirmar a data e a atribuição de receitas anteriores ao início do feed, além de uma receita de caldo espumado de Priscilla Chamessian.
 
 ## Artigos anteriores ao feed do Goodreads
 
@@ -112,6 +112,8 @@ O [inventário do WordPress de dezembro de 2023](../../raw/inventario-mark-recei
 Em entrevistas, Sisson associa a redução do aproveitamento de carcaças e tecidos conjuntivos ao menor consumo de gelatina e propõe que isso contribuiria para lesões esportivas. O relato do Aquiles se refere a suplemento. Sua descrição do consumo pessoal varia entre a coluna de 2015, em que tomava uma caneca antes de dormir, e a entrevista do Live Fit, em que mencionou consumo ocasional. O [registro de entrevistas](../../raw/mark-sisson-entrevistas.md) localiza as declarações e distingue a fala de Sisson da dos apresentadores.
 
 O [inventário dos catálogos e áudios](../../raw/mark-sisson-entrevistas.md#catálogos-oficiais-e-áudios) inclui os feeds de Primal Blueprint e Primal Kitchen. No vídeo *Talking Collagen*, Sisson descreve seu consumo de caldo quente no inverno e fala de suplemento ao relatar tendinose. [Vídeo, 05:12–09:25](https://www.youtube.com/watch?v=bCrE39DozW8&t=312s)
+
+O [caderno de receitas de coco dos leitores](mark-sisson-caderno-coco.md) reúne seis preparos com caldo ou fundo de frango encontrados nas 84 páginas do livreto do concurso de 2010.
 
 ## Livros em coautoria
 

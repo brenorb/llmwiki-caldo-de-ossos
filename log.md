@@ -451,3 +451,7 @@ As duas [fichas de bebidas](wiki/temas/receitas-caldo.md#bebidas-salgadas-batida
 ## [2026-11-11] ingestão | Triagem do capítulo de North Atlanta e sopa de cogumelos
 
 O [inventário](raw/inventario-wapf-receitas.md#publicações-dos-capítulos-locais) registra 53 posts e sete páginas de North Atlanta. As [receitas de caldo](wiki/temas/receitas-caldo.md#sopa-de-três-cogumelos-com-caldo-de-frango) incluem a sopa recuperada na triagem.
+
+## [2026-11-11] revisão | Cobre extraído no ensaio com vinagre diluído
+
+A [nota de Hsu et al.](wiki/fontes/hsu-2017-metais.md) e a [tabela por preparo](wiki/temas/componentes-por-caldo.md) acrescentam a comparação relativa de cobre no braço de acidificação. A unidade é massa extraída por massa de osso.

@@ -45,15 +45,15 @@ Uma segunda transcrição integral dos sete reels com trilha sem texto também r
 
 ## Destaques do Cozinha de Pedra
 
-A sessão autenticada exibiu **oito destaques e 248 cartões**. O total vem dos segmentos de progresso de cada sequência. A leitura visual de um cartão em vídeo confirma o que apareceu na tela. A fala exige verificação da trilha.
+A sessão autenticada exibiu **oito destaques e 248 cartões**. O total vem dos segmentos de progresso de cada sequência. Em seis destaques, a leitura visual foi confirmada para os 109 cartões apresentados. A leitura visual de um cartão em vídeo confirma o que apareceu na tela. A fala exige verificação da trilha.
 
 | Destaque | Cartões | Conteúdo verificado na interface |
 | --- | ---: | --- |
 | [Panela Elétrica](https://www.instagram.com/stories/highlights/18071376179065415/) | 22 | Todos os 22 conferidos visualmente. Inclui capacidade nominal, marca máxima, duração do ciclo sob pressão, comparação de painéis e experiência com modelos. Três cartões em vídeo ainda não tiveram a fala verificada. |
-| [Método Colosso](https://www.instagram.com/stories/highlights/18089308693765563/) | 12 | Apresentação do curso. Leitura parcial. |
+| [Método Colosso](https://www.instagram.com/stories/highlights/18089308693765563/) | 12 | Os 12 cartões foram vistos. Apresentam o curso e seus recursos. Um cartão em vídeo ficou sem verificação de áudio. |
 | [OqÉ](https://www.instagram.com/stories/highlights/17982434939068189/) | 1 | Vídeo de apresentação que menciona possíveis usos culinários. Cartão visto, com fala pendente. |
-| [Aula Gratuita](https://www.instagram.com/stories/highlights/17906118194675749/) | 7 | Cinco cartões visualmente conferidos. Dois ficaram sem imagem ou vídeo carregado na conferência. |
-| [Sucessos](https://www.instagram.com/stories/highlights/18120103564175023/) | 65 | Cartões de diferentes pontos da sequência, inclusive os últimos. Há relatos repetidos e vídeos com fala ainda pendente. |
+| [Aula Gratuita](https://www.instagram.com/stories/highlights/17906118194675749/) | 7 | Todos os sete vistos após recuperar os cartões 2 e 7. O último mostra o convite para acessar a aula. |
+| [Sucessos](https://www.instagram.com/stories/highlights/18120103564175023/) | 65 | Todos os 65 cartões foram vistos. Há 49 imagens e 16 cartões em vídeo. A exportação pelo reprodutor falhou no cartão 59. Os depoimentos repetidos e os limites são descritos na [nota do destaque](../wiki/fontes/cozinha-de-pedra-caldo.md#destaque-sucessos). |
 | [Aprenda aqui](https://www.instagram.com/stories/highlights/18133140973187412/) | 52 | Trechos em vídeo, incluindo corte de ossos. Leitura visual parcial. |
 | [P&R](https://www.instagram.com/stories/highlights/17863690877381878/) | 87 | Cartões sobre cor do caldo, ingredientes e alegações de saúde. Leitura parcial. |
 | [Quem sou](https://www.instagram.com/stories/highlights/17875237964040894/) | 2 | Os dois cartões foram vistos. Um é um vídeo de apresentação com fala pendente. |

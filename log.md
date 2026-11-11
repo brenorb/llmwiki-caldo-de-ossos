@@ -203,3 +203,7 @@ A [busca residual](raw/inventario-wapf-receitas.md) registra a seleção e o con
 ## [2026-11-11] ingestão | Molho mole e busca complementar no Arquivo.pt
 
 A [triagem histórica](raw/inventario-mark-receitas.md#continuação-da-leitura-e-busca-dos-39-endereços) chegou a 4.347 de 5.447 textos. O Arquivo.pt verificou os 39 endereços sem captura indicada na Wayback Machine. As [fichas](wiki/temas/receitas-mark-sisson.md) incluem o molho mole com caldo de frango e a sopa de tupinambo.
+
+## [2026-11-11] ingestão | Leitura dos 65 cartões de Sucessos
+
+A [nota do destaque](wiki/fontes/cozinha-de-pedra-caldo.md#destaque-sucessos) identifica republicações e localiza os relatos por cartão. A [comparação por desfecho](wiki/temas/relatos-e-evidencia.md) documenta o que foi medido nos estudos sobre lesão por pressão e prevenção de alergia. A [página de canície](wiki/temas/cabelos-brancos.md) registra o que o comentário sobre cílios informa.

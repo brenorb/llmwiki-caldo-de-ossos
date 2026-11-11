@@ -483,3 +483,7 @@ As [fichas de sobremesas](wiki/temas/receitas-gelatina.md#com-gelatina-em-pó) i
 ## [2026-11-11] revisão | Almoço escolar e nova cobertura de áudio da WAPF
 
 O [inventário da WAPF](raw/inventario-wapf-receitas.md#almoço-escolar-e-lote-auxiliar) chegou a 68 áudios conferidos em inglês e 31 em espanhol. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) localiza as passagens sobre caldo na escola e o relato histórico de Weston Price.
+
+## [2026-11-11] revisão | Cobertura acumulada dos comentários do Instagram
+
+O [registro de acesso](raw/busca-receitas-relatos.md#cobertura-dos-comentários-do-instagram) consolida 38 publicações distintas e 1.039 registros exibidos e identifica o restante da grade.

@@ -190,3 +190,27 @@ Doure separadamente **2 dentes de alho**, **2 colheres de sopa de sementes de ab
 ## Sopa de tupinambo
 
 Para uma sopa de **tupinambo**, também chamado alcachofra-de-jerusalém, a equipe editorial sugere refogar as fatias descascadas em manteiga, cozinhar em fundo até amaciar e bater. O creme de leite é opcional. A fonte deixa o tipo e o volume do fundo em aberto. [Roasted Jerusalem Artichokes with Chives, seção Sunchoke Soup](https://web.archive.org/web/20231205200626id_/https://www.marksdailyapple.com/roasted-jerusalem-artichokes-with-chives/)
+
+## Carne à borgonhesa com fundo bovino
+
+Na versão de Sisson de 2009, doure **115 g de bacon** e **1,1–1,4 kg de carne bovina em cubos**. Tempere com sal, pimenta e **2 colheres de sopa de farinha de amêndoas** e leve ao forno sem tampa a **220 °C** por **10 min**. Refogue **2 cenouras** e **1 cebola** em manteiga, junte extrato de tomate, alho, tomilho, salsa e louro, acrescente **590 mL de fundo bovino** e **710 mL de vinho tinto** e deixe ferver suavemente por **3–5 min**. Despeje sobre a carne e asse com tampa a **160 °C** por cerca de **2 h 30 min**. Escorra e reduza o líquido por **8–10 min**. Sirva o molho com a carne e **450 g de cogumelos** salteados em manteiga. [Beef Burgundy](https://web.archive.org/web/20230927053554id_/https://www.marksdailyapple.com/beef-burgundy-recipe/)
+
+## Coração cozido lentamente com couve
+
+Na receita publicada pela equipe editorial em 2010, abra e limpe **1–2 corações**, retirando válvulas e tecido conjuntivo visível. Acomode entre camadas de cenoura, salsão, cebola, alho, jalapeño, coco em flocos e especiarias. Acrescente cerca de **240 mL de caldo ou água** e deixe na panela elétrica de cocção lenta, em potência baixa, por cerca de **6 h**. Fatie e sirva sobre couve refogada em **½ lata de leite de coco**. A receita rende **1–2 porções** e deixa em aberto a espécie do coração e o tipo de caldo. [Slow-Cooked “Heart on Fire” with Creamed Kale](https://web.archive.org/web/20230924032249id_/https://www.marksdailyapple.com/slow-cooked-heart-on-fire-with-creamed-kale/)
+
+## Gumbo com caldo da carcaça de peru
+
+A equipe editorial publicou o gumbo em uma coletânea de sobras de peru de 2008. Refogue cerca de **900 g de quiabo** em parte do azeite por cerca de **40 min**, mexendo até começar a secar. Em outra panela, refogue **3 cebolas**, **2 pimentões verdes**, **6 talos de salsão** e **225 g de linguiça andouille ou kielbasa**. Adicione caldo feito com a carcaça do peru, ou **950 mL de caldo de frango**, molho de tomate, sal e pimenta-caiena. Cozinhe por **20 min**, adicione louro e cozinhe em fogo baixo com tampa por mais **15–60 min**. Junte cerca de **225 g de peru cozido** e **1,35 kg de camarão limpo** nos últimos **10 min**. A lista inclui o quiabo refogado e o texto deixa em aberto o momento de incorporá-lo. [Thanksgiving Turkey Leftover Recipes](https://web.archive.org/web/20231208203349id_/https://www.marksdailyapple.com/thanksgiving-turkey-leftover-recipes/)
+
+## Molho de mirtilo com fundo de pato ou frango
+
+Em 2010, a equipe editorial propôs este molho para pato assado. Ferva **60 mL de vinagre balsâmico**, **240 mL de vinho branco** e **240 mL de fundo de pato ou frango** por **10 min**. Junte **1 xícara de mirtilos** e reduza por mais **12–15 min**, até sobrar menos de **120 mL de líquido**. Fora do fogo, incorpore **2 colheres de sopa de manteiga sem sal**. A receita oferece a opção de coar. [Crispy Roasted Duck with Holiday Seasonings and Sauces, seção Balsamic Berry Sauce](https://web.archive.org/web/20230926083449id_/http://www.marksdailyapple.com/crispy-roasted-duck-with-holiday-seasonings-and-sauces/)
+
+## Receitas de leitores no concurso Grokfeast de 2010
+
+| Prato | Uso do caldo e preparo |
+| --- | --- |
+| Sopa de frango de Burnsville | O grupo estimou **5,7 L de fundo feito com ossos de frango e pés de peru** para a carne de **3 frangos** e duas panelas de sopa. Refogou **6 cebolas** em manteiga e juntou o fundo, **5 xícaras de cenoura**, **5 de batata**, **2 de abóbora**, alho, alecrim, sálvia, sal e pimenta. A sopa cozinhou em fogo aberto até os legumes amaciarem. [Grokfeast in Burnsville, seção Chicken Soup](https://web.archive.org/web/20230924042950id_/https://www.marksdailyapple.com/grokfeast-in-burnsville-north-carolina/) |
+| Sopa de abóbora e linguiça da ilha de San Juan | Doure **450–680 g de linguiça**, **½ cebola** e **½ xícara de cogumelos** separadamente. Cozinhe **1 abóbora pequena** em **950 mL de fundo de frango** com a cebola por cerca de **10 min** e bata. Devolva a linguiça e os cogumelos, acrescente orégano, tomilho, alecrim, páprica e pimenta e cozinhe por **20 min**. Fora do fogo, junte **120 mL de leite de coco**. Rende **6 porções**. [Grokfeast on San Juan Island, seção Pumpkin Sausage Soup](https://web.archive.org/web/20231210191648id_/https://www.marksdailyapple.com/grokfeast-on-san-juan-island-washington/) |
+| Bratwurst ao molho cremoso de Fairview | Doure **6 linguiças já cozidas** e reserve. Refogue cebola e mostarda em pó, incorpore **1 colher de sopa de farinha de trigo** e **180 mL de caldo de frango** e aqueça até engrossar com o laticínio. A lista indica **180 mL de creme de leite** e o modo de preparo menciona leite. Volte com as linguiças, junte pimentão verde e cozinhe com tampa por **5 min**. [Grokfeast in Fairview, seção Creamed Bratwurst](https://web.archive.org/web/20231211194255id_/https://www.marksdailyapple.com/grokfeast-in-fairview-north-carolina/) |

@@ -215,3 +215,7 @@ A [ficha culinária](wiki/temas/receitas-caldo.md#caldo-de-costela-de-bogotá) i
 ## [2026-11-11] ingestão | Trechos restantes da triagem da WAPF
 
 O [inventário](raw/inventario-wapf-receitas.md) registra a leitura dos 345 trechos sinalizados e dos 329 trechos disponíveis do recorte residual. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) ganhou fichas de estufados e usos do caldo com miúdos. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) localiza a afirmação sobre folato no coração de vitela.
+
+## [2026-11-11] ingestão | Fechamento da rodada de capturas antigas de Mark’s Daily Apple
+
+O [inventário](raw/inventario-mark-receitas.md#fechamento-da-rodada-de-capturas-antigas) registra 4.442 textos triados de 5.447 caminhos e a recuperação de 110 entre 111 endereços localizados fora da janela inicial. As [fichas](wiki/temas/receitas-mark-sisson.md) incluem preparos de Sisson, da equipe e dos leitores.

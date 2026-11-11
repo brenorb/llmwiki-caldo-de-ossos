@@ -107,3 +107,7 @@ A [nota de Hoh et al.](wiki/fontes/hoh-1934-costela-agridoce.md) e a [tabela de 
 ## [2026-11-11] ingestão | Mousses e recheios com caldo nas lives
 
 As [receitas de gelatina](wiki/temas/receitas-gelatina.md) ganharam variações de mousse e recheio de torta. A [comparação de relatos](wiki/temas/relatos-e-evidencia.md) registra uma menção indireta a fibromialgia e as mudanças de dieta concomitantes.
+
+## [2026-11-11] ingestão | Áudio de vídeos em carrosséis do Cozinha de Pedra
+
+O [registro de cobertura](raw/busca-receitas-relatos.md) informa 30 mídias recuperadas. A [página de aplicações](wiki/temas/aplicacoes-culinarias.md) registra um risoto de limão com caldo e uma adaptação com couve-flor.

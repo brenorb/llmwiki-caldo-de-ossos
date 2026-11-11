@@ -24,6 +24,10 @@ Uma variação da live usa caldo neutro frio com limão espremido e gengibre em 
 
 Para uma mousse de limão, uma convidada sugere bater caldo neutro, suco de limão, creme de leite pasteurizado e eritritol, com baunilha opcional. Sirva gelado como bebida ou refrigere em taças. Para um recheio que mantenha o corte, ela acrescenta gelatina incolor. Comece pela proporção do rótulo, considerando que o caldo já dá corpo. Uma cobertura de frutas vermelhas sem açúcar adicionado reduz o açúcar em comparação com uma geleia comum. [Live do Cozinha de Pedra, 1:02:48–1:03:26 e 1:09:12–1:10:12](https://www.instagram.com/cozinhadepedra/reel/CKz54x8plal/)
 
+### Cubos de caldo para bebida com tônica
+
+A autora cita trocar o gelo do gim-tônica por cubos de caldo neutro congelado. Para reduzir o açúcar adicionado, use tônica sem açúcar. Uma versão sem álcool usa a tônica, os cubos e limão. Sirva logo após misturar. [Live do Cozinha de Pedra, 46:43–48:00](https://www.instagram.com/cozinhadepedra/reel/CJZssQTp3Op/)
+
 ### Cubos de caldo com camomila para bebida de maracujá
 
 Aqueça caldo neutro até ficar líquido e faça uma infusão de camomila conforme as instruções do chá. Retire o sachê, resfrie e congele em cubos. Bata alguns cubos com água e uma pequena porção de polpa de maracujá. A fruta entra na conta de carboidratos. Prefira polpa sem açúcar e, se quiser, adoce a gosto. A ideia da live não traz medidas. [Live do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/reel/CTLSgHipRt3/) · [Resfriamento e congelamento](seguranca-conservacao.md)

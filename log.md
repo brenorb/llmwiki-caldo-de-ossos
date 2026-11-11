@@ -527,3 +527,7 @@ O [catálogo da WAPF](wiki/temas/receitas-wapf-catalogo.md) registra *ciorbă*, 
 ## [2026-11-11] revisão | Fórmula infantil caseira e alfa-gal
 
 A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) inclui a orientação das autoridades junto à tabela da mistura com caldo. A [página de segurança](wiki/temas/seguranca-conservacao.md#alergia-à-alfa-gal) registra a orientação do CDC sobre caldos de mamíferos e gelatina bovina ou suína.
+
+## [2026-11-11] ingestão | Fundo de bonito e três sopas de Mark Sisson e Jennifer Meier
+
+As [fichas de receita](wiki/temas/receitas-mark-sisson.md) registram as quantidades recuperadas nas prévias, os trechos de preparo disponíveis e sugestões para reduzir amido ou retirar laticínios.

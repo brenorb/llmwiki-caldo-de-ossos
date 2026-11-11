@@ -169,3 +169,22 @@ Para localizar menções no corpo da página, foram feitas dez consultas complem
 O recorte inclui as páginas indexadas acima e os itens das duas categorias culinárias. O acesso por indexador à busca nativa do site falhou para *bone broth*, *gelatin* e *collagen*. A leitura integral das demais URLs do site, das edições completas da revista, das conversas restritas e de áudios ou vídeos sem transcrição continua em aberto.
 
 A leitura complementar de [Soup-stenance](https://www.westonaprice.org/health-topics/childrens-health/soup-stenance/) rastreou as alegações de cárie e secreção gástrica aos [textos originais](../wiki/fontes/price-1939-caries-wald-1982-acidez.md). A tentativa de busca pelo endpoint REST e pelo feed do WordPress não retornou conteúdo no indexador.
+
+## Busca no corpo de capturas do Arquivo.pt
+
+Foram percorridas as 26 páginas de resultados de oito consultas limitadas ao domínio `westonaprice.org`. As buscas retornaram 572 linhas no conjunto, com 317 URLs originais distintas e 313 caminhos após normalização. O conjunto inclui sobreposição, feeds, índices, comentários e versões alternativas. A contagem descreve o índice pesquisado. A validação no texto concentrou-se nas páginas com uso ou alegação pertinente.
+
+| Termo | Linhas retornadas |
+| --- | ---: |
+| `"bone broth"` | 77 |
+| `broth` | 265 |
+| `"bone stock"` | 4 |
+| `"chicken stock"` | 17 |
+| `gelatin` | 155 |
+| `gelatine` | 7 |
+| `collagen` | 47 |
+| `aspic` | 0 |
+
+- [Busca pública de exemplo](https://arquivo.pt/textsearch?q=%22bone%20broth%22&siteSearch=westonaprice.org)
+- [Cartas e afirmações verificadas](../wiki/fontes/weston-price-caldo-gelatina.md)
+- [Preparos localizados fora das categorias](../wiki/temas/receitas-wapf-catalogo.md)

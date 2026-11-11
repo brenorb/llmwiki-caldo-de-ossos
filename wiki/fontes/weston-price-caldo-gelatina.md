@@ -21,6 +21,8 @@ Christine Muldoon descreve um fundo de carne com osso em água por até três ho
 
 Uma convidada de *A Fat-Fueled Family* descreve fazer ensopado de paleta suína e aproveitar o osso da peça em um caldo. Diz continuar com o caldo por vários dias e não informa as condições de cocção ou conservação. [Episódio 249, 00:25:20–00:25:34](https://www.westonaprice.org/podcast/249-a-fat-fueled-family/)
 
+Mary Bryant Shrader descreve cobrir carcaça e aparas de legumes com água e cozinhar em fogo brando por cerca de seis horas. Sugere acrescentar pés de frango ou usar mais carcaças. Na mesma entrevista, atribui menor gelificação de alguns produtos de prateleira ao tratamento térmico e à possível diluição. A entrevista não mede a composição dos caldos comparados. [Entrevista](https://www.westonaprice.org/podcast/why-cooking-traditional-foods-from-scratch-is-worth-it-with-mary-bryant-shrader/) · [Gelificação](../temas/colageno-gelatina.md)
+
 ## Afirmações de saúde
 
 - **Cartas de leitores.** Em 2006, uma carta descreve melhora percebida de edema e sintomas de joelho após caldo concentrado de pés de galinha, em contexto de cirurgia anterior. Em 2003, outras cartas atribuem ao caldo melhora digestiva e consolidação de fratura. Os relatos não apresentam comparador e têm informações limitadas sobre intervenções simultâneas. [Cartas de 2006](https://www.westonaprice.org/letters-fall-2006/) · [Cartas de 2003](https://www.westonaprice.org/letters-summer-2003/)

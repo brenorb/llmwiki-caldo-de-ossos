@@ -20,6 +20,8 @@ Para sobremesas, Bibiana Mandagará prefere caldo bovino de fêmur ou canela pre
 
 Bata **160 mL de caldo neutro congelado em cubos**, **200 mL de água**, o suco de **meio limão** e, se quiser, um pouco de eritritol. Sirva a bebida imediatamente. Para transformar em gelatina, use caldo liquefeito e comece com menos água que a versão de beber. Faça um teste em um copo e resfrie. Se o caldo for fraco ou a mistura ficar muito diluída, acrescente gelatina em pó conforme o rótulo. Bater com nata pasteurizada dá a variação aerada descrita na entrevista. [Limonada da Bibi](https://www.instagram.com/cozinhadepedra/p/CKKDN_EFp4_/) · [Entrevista e torta de limão](../fontes/cozinha-de-pedra-caldo.md)
 
+Uma variação da live usa caldo neutro frio com limão espremido e gengibre em pó a gosto. Cúrcuma e pimenta-do-reino mudam o sabor. Para uma bebida cremosa, bata com um pedaço de abacate. A conversa não fixa proporções. [Live do Cozinha de Pedra, 52:56–53:26](https://www.instagram.com/cozinhadepedra/reel/CQEtcBCp7JV/)
+
 ### Cubos de caldo com camomila para bebida de maracujá
 
 Aqueça caldo neutro até ficar líquido e faça uma infusão de camomila conforme as instruções do chá. Retire o sachê, resfrie e congele em cubos. Bata alguns cubos com água e uma pequena porção de polpa de maracujá. A fruta entra na conta de carboidratos. Prefira polpa sem açúcar e, se quiser, adoce a gosto. A ideia da live não traz medidas. [Live do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/reel/CTLSgHipRt3/) · [Resfriamento e congelamento](seguranca-conservacao.md)

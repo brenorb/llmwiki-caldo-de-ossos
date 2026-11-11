@@ -55,3 +55,7 @@ A [comparação por desfecho](wiki/temas/relatos-e-evidencia.md) agora vincula a
 ## [2026-11-11] ingestão | Mais três lives recuperadas sem limite de processamento
 
 As [notas das transmissões](wiki/fontes/cozinha-de-pedra-caldo.md) incorporam os trechos sobre autoimunidade e barreira intestinal. As [receitas de caldo](wiki/temas/receitas-caldo.md) incluem molho de chucrute e molho de costela com chipotle.
+
+## [2026-11-11] ingestão | Composição por xícara e caldo concentrado em lives
+
+A [tabela de componentes](wiki/temas/componentes-por-caldo.md) vincula a alegação de quatro compostos por xícara aos denominadores realmente medidos. As [aplicações culinárias](wiki/temas/aplicacoes-culinarias.md) incluem porções de gel de caldo reduzido para temperar pratos.

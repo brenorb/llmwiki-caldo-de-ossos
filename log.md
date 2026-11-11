@@ -391,3 +391,7 @@ A [busca no Common Crawl](raw/inventario-mark-receitas.md#recuperação-de-oito-
 ## [2026-11-11] revisão | Cobertura dos reels que excederam o tempo de processamento
 
 A auditoria cruzou as 34 ocorrências de tempo esgotado com os arquivos consolidados e verificou a sequência dos 1.265 blocos. Os 106 TXT do índice local estão acessíveis. O [registro de áudio](raw/busca-receitas-relatos.md#áudio-dos-reels) reúne os números e aponta para a tabela de cobertura das lives.
+
+## [2026-11-11] ingestão | Fundo curto, caldo longo e tutano batido na WAPF
+
+A leitura chegou a 55 áudios transcritos em inglês e 21 em espanhol. O [inventário](raw/inventario-wapf-receitas.md#fundos-de-carne-tutano-e-utensílios-no-áudio) registra o que falta e os trechos que sustentam as novas entradas do [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md). A menção a utensílios de cobre ficou localizada à parte da fala sobre o caldo.

@@ -539,3 +539,7 @@ O [inventário](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventár
 ## [2026-11-11] ingestão | Três preparos das notas do episódio Fibro Hope
 
 A [página de receitas](wiki/temas/receitas-caldo.md#caldo-de-carcaça-e-sopa-de-leah-mccullough) registra o caldo de carcaça, a xícara de caldo com gelatina e a sopa de legumes da convidada. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) mantém o relato de fibromialgia associado às várias mudanças descritas na entrevista.
+
+## [2026-11-11] ingestão | Phở de rabada, curry de frango e carne com cogumelos
+
+O [catálogo da WAPF](wiki/temas/receitas-wapf-catalogo.md) localiza a entrevista de Sophia Nguyen Eng. As [fichas culinárias](wiki/temas/receitas-caldo.md#phở-de-rabada-e-outros-usos-de-sophia-nguyen-eng) registram três versões com caldo publicadas no caderno de Melissa K. Norris e as opções com menos carboidratos.

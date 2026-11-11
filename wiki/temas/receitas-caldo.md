@@ -113,6 +113,18 @@ As notas da entrevista *Fibro Hope* remetem ao livro de McCullough. O receituár
 
 [Caldo de carcaça, p. 173–176](https://unconventionaltraditional.com/wp-content/uploads/2016/01/Freedom-from-Fibromyalgia-2nd-Edition.pdf#page=189) · [Caldo rápido e sopa, p. 177–178](https://unconventionaltraditional.com/wp-content/uploads/2016/01/Freedom-from-Fibromyalgia-2nd-Edition.pdf#page=193) · [Conservação](seguranca-conservacao.md)
 
+## Phở de rabada e outros usos de Sophia Nguyen Eng
+
+Na entrevista da WAPF, Eng descreve o phở de rabada que aparece na capa de seu livro, servido com cortes bovinos e massa de arroz. Um caderno de Melissa K. Norris publica uma versão para panela lenta atribuída à mesma autora e duas outras receitas com caldo. Os tempos abaixo são dessas fichas. [Entrevista da WAPF](https://www.westonaprice.org/podcast/building-a-nourishing-asian-kitchen/) · [Caderno One-Pot Wonders for Homesteaders](https://melissaknorris.com/wp-content/uploads/2025/10/One-Pot_Wonders_for_Homesteaders-1.pdf)
+
+| Receita | Caldo e preparo | Adaptação com menos carboidratos |
+| --- | --- | --- |
+| Phở de rabada na panela lenta | Para **6–8 porções**, cozinhe **cerca de 1,36 kg de rabada** com **1,9 L de caldo bovino**, cebola e gengibre tostados, alho, canela, anis-estrelado e molho de peixe. Use o ajuste baixo por **8–10 h**, até a carne ficar macia. Coe e sirva o caldo com a carne, ervas frescas e limão. A ficha também usa massa de arroz e oferece açúcar de coco como opcional. | Omita o açúcar e sirva com brotos de feijão ou tiras finas de repolho no lugar da massa. |
+| Curry de frango com coco na panela lenta | Misture leite de coco, pasta de curry vermelho, alho, gengibre, chalota e molho de peixe. A ficha permite adicionar **120 mL de caldo de frango** e usa **cerca de 680 g de sobrecoxa desossada**. Cozinhe no ajuste baixo por **4–6 h** com pimentão opcional. | Omita o açúcar de coco, escolha pasta e leite de coco sem açúcar adicionado e sirva com couve-flor no lugar do arroz ou da massa. |
+| Carne bovina e cogumelos na pressão | Doure **cerca de 450 g de acém ou músculo** em cubos. Junte cogumelos, alho, gengibre, molho de soja, molho de peixe, vinagre de arroz opcional e **240 mL de caldo de ossos**. Cozinhe **30 min em pressão alta**. Aguarde **10 min** de liberação natural e libere o restante conforme o manual. | Use repolho ou folhas refogadas no lugar do arroz ou da massa que acompanha a ficha. |
+
+As trocas de acompanhamentos e a retirada do açúcar no curry são adaptações da wiki. A cebola, a chalota e os vegetais contribuem com carboidratos. [Caderno de receitas](https://melissaknorris.com/wp-content/uploads/2025/10/One-Pot_Wonders_for_Homesteaders-1.pdf) · [Conservação](seguranca-conservacao.md)
+
 ## Mais caminhos
 
 | Preparo | Como usar e adaptar | Fonte |

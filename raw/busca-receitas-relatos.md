@@ -9,6 +9,10 @@ Consulta em 2026-11-11. Escopo temático de caldos de ossos, fundos relacionados
 | [Weston A. Price Foundation](https://www.westonaprice.org/) | [Índice](https://www.westonaprice.org/sitemap_index.xml) com 15 sitemaps subordinados e 6.376 URLs de página distintas. Triagem de endereços com termos sobre caldo, gelatina e sopas retornou 61 candidatos. O indexador retornou texto para os 61 candidatos. Foram localizadas também as páginas dos 73 itens listados nas categorias de sopas, caldos e fundos e de gelatina. A busca complementar abrangeu categorias de artigos e vídeos, podcasts e textos históricos. Há sobreposição entre as listas. | A coleta direta de artigos retornou HTTP 403. Muitas páginas foram consultadas pela versão indexada na web. A triagem de endereços não cobre menções que só aparecem no texto integral ou em mídias, e parte dos resultados pôde ser lida apenas em trechos. |
 | Estudos | As alegações foram cruzadas com as notas de composição, artrose, pele, sono, saúde intestinal e canície. Também se conferiu o resumo do estudo aberto de Hexsel et al. sobre unhas. | A revisão compara os materiais recuperados. As conclusões de ensaios de suplementos referem-se às doses e aos produtos dos estudos. |
 
+## Áudio dos reels
+
+Na primeira rodada de conferência, havia 36 tentativas concluídas entre os 122 reels da grade. A transcrição local retornou texto para 15, arquivo sem fala detectada para três e nenhum texto para 18. Entre os 18, 16 atingiram o limite de 240 segundos de processamento e dois falharam no acesso pelo extrator. Os vídeos longos que atingiram o limite podem ser visíveis na sessão do Instagram. A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md) identifica exemplos em que áudio e legenda trouxeram informações diferentes.
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

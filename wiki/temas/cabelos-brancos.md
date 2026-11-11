@@ -28,3 +28,5 @@ Para avaliar um efeito do caldo seriam necessários lotes com teor medido de cob
 O Cozinha de Pedra publicou relatos de crescimento de fios escuros e de escurecimento percebido de cílios. A [comparação de relatos e evidência](relatos-e-evidencia.md) registra essas observações e o que faltou medir para atribuí-las ao caldo.
 
 A [medicina chinesa tradicional](medicina-chinesa.md) também tem uma correspondência entre o Rim e a aparência do cabelo. As fontes de dietoterapia consultadas não testam se caldo devolve pigmento aos fios.
+
+Mark Sisson citou o estudo de Fatemi Naieni et al. ao discutir cobre e canície precoce. O estudo mediu cobre no soro. A coluna descreveu o material de análise como cabelo. [Coluna arquivada e conferência](../fontes/mark-sisson-caldo-gelatina.md)

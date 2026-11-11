@@ -65,3 +65,7 @@ Para o recheio, dissolva **1 colher de sopa de gelatina em pó em 75 mL de água
 A publicação estima **13 g de carboidratos totais e 8,7 g líquidos por 1/10 da torta**. Esses valores dependem das marcas e do tamanho das porções. Servir em taças sem a base e reduzir a cobertura de fruta são adaptações que mudam a composição. [Keto Strawberry Cream Pie, Mark’s Daily Apple](https://www.goodreads.com/author_blog_posts/18676384-keto-strawberry-cream-pie)
 
 A [página de gelatinas](receitas-gelatina.md) traz também a gelatina de framboesa com leite de coco, sem açúcar adicionado, e a mousse salgada de salmão do mesmo blog.
+
+## Sopa de agrião e bacon do concurso do blog
+
+A receita de Danielle Thalman, publicada no Mark’s Daily Apple em 2009, usa cerca de **950 mL de fundo de carne**, **4–8 fatias de bacon**, **um maço de agrião**, cebola, três dentes de alho e folhas de salsão. Refogue os aromáticos, junte os talos de agrião, o fundo e o bacon e deixe em fogo brando por pelo menos 30 minutos. Acrescente as folhas perto do fim e cozinhe mais 5–10 minutos. O creme é opcional. A batata comum ou doce também é opcional e pode ser omitida para reduzir o amido. [Receita original arquivada](https://arquivo.pt/noFrame/replay/20160522232817id_/https://marksdailyapple.com/watercress-bacon-soup)

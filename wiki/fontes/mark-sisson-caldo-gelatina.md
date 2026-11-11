@@ -11,6 +11,8 @@ Na [carta de relançamento de junho de 2026](https://www.marksdailyapple.com/p/m
 - Em abril de 2010, *Cooking with Bones* recomenda torrar ossos bovinos por cerca de 50 min a 190 °C e usar carcaças, pés e articulações para um caldo mais firme. O texto sugere vinagre de maçã e cerca de 20 h para frango, com tempos maiores para bovino e ovino. Sisson reconhece que não tinha números da concentração mineral. Em colunas posteriores, ele passou a questionar se um pouco de vinagre na água aumenta de forma relevante o cálcio. [Original de 2010 no Arquivo.pt](https://arquivo.pt/noFrame/replay/20160517171629id_/http://www.marksdailyapple.com/cooking-with-bones/) · [Coluna posterior](https://www.goodreads.com/author_blog_posts/9337331-dear-mark-bone-broth-edition) · [Medições de Hsu et al.](hsu-2017-metais.md)
 - Em *Bone Marrow*, Sisson descreve assar os ossos para servir o tutano com salsa, chalota e limão. Sugere aproveitar os ossos no fundo depois. Os dados de composição discutidos no artigo dizem respeito ao tutano. [Original de 2010 no Arquivo.pt](https://arquivo.pt/noFrame/replay/20190320173333id_/https://www.marksdailyapple.com/bone-marrow-recipe/)
 
+- Na coluna de abril de 2012 sobre canície precoce, Sisson discute alimentos ricos em cobre e menciona a doença de Menkes e um estudo observacional. A coluna descreve a medição como sendo no cabelo, mas o estudo comparou **cobre no soro**. A coluna não documenta repigmentação com caldo. [Coluna arquivada](https://arquivo.pt/noFrame/replay/20160522231755id_/https://marksdailyapple.com/dear-mark-dehydrated-vegetables-cooked-versus-raw-and-premature-graying-and-copper) · [Estudo original](fatemi-naieni-2012-cobre-canitie.md)
+
 ## Receitas e aplicações recuperadas
 
 | Texto | Aplicação |

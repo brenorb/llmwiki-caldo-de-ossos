@@ -255,3 +255,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md#destaques-do-cozinha-de-pedra
 ## [2026-11-11] ingestão | Receitas keto com caldo nos livros de Sisson
 
 As [fichas](wiki/temas/receitas-mark-sisson.md#receitas-do-keto-reset-instant-pot-cookbook) incluem cogumelos na manteiga, phở bò com abobrinha e sobrecoxas com azeitonas e alcaparras. A [nota dos livros](wiki/fontes/mark-sisson-caldo-gelatina.md#livros-em-coautoria) registra as páginas e as prévias consultadas.
+
+## [2026-11-11] revisão | Entrevistas de Sisson sobre caldo e tecido conjuntivo
+
+O [registro das entrevistas](raw/mark-sisson-entrevistas.md) localiza declarações sobre caldo caseiro e suplementos. A descrição de um experimento em uma das entrevistas foi cotejada com o [protocolo de Shaw et al.](wiki/fontes/shaw-2017-gelatina.md).

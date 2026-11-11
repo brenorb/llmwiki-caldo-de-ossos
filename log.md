@@ -171,3 +171,7 @@ O [registro de acesso](raw/busca-receitas-relatos.md#áudio-dos-reels) incorpora
 ## [2026-11-11] ingestão | Novo lote histórico do Mark’s Daily Apple
 
 A [triagem histórica](raw/inventario-mark-receitas.md#receitas-e-alegações-na-continuação-da-triagem) chegou a 4.114 textos de 5.447 caminhos. Entraram cinco fichas e outras sugestões culinárias. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) registra as alegações sobre cálcio, condroitina e gelatina e as exposições efetivamente estudadas.
+
+## [2026-11-11] ingestão | Carrosséis de jejum, dor e flacidez
+
+A [trilha de acesso](raw/busca-receitas-relatos.md) registra a conferência visual de mais 24 carrosséis e as verificações de trilha. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) relaciona os relatos às publicações originais e identifica as imagens repetidas na série sobre jejum.

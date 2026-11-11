@@ -115,3 +115,7 @@ O [registro de cobertura](raw/busca-receitas-relatos.md) informa 30 mídias recu
 ## [2026-11-11] ingestão | Revisão de categorias, cartas e edições da WAPF
 
 O [catálogo](wiki/temas/receitas-wapf-catalogo.md) incorpora 32 receitas de outras subcategorias e quatro verificadas em PDFs e no site. O [inventário](raw/inventario-wapf-receitas.md) detalha o acesso às edições. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) registra seis relatos e as mudanças concomitantes.
+
+## [2026-11-11] ingestão | Replays e receitas do acervo do Mark’s Daily Apple
+
+O [inventário histórico](raw/inventario-mark-receitas.md) registra 18 páginas conferidas e o que foi possível verificar dos vídeos vinculados. As [fichas culinárias](wiki/temas/receitas-mark-sisson.md) incluem sete aplicações adicionais do caldo.

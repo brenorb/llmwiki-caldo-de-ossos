@@ -337,28 +337,32 @@ A triagem nos nomes dos 5.447 caminhos selecionou **138** candidatos por termos 
 
 O replay de dezembro de 2023 para *Homemade Chicken Stock* devolveu uma página de erro. A captura de abril de 2009 preserva a receita publicada em fevereiro de 2009. [Replay de dezembro de 2023](https://web.archive.org/web/20231209221258id_/https://www.marksdailyapple.com/homemade-chicken-stock/)
 
-### Candidatos localizados pelo caminho
+### Outros 18 candidatos verificados na Wayback Machine
 
-Os 18 caminhos abaixo constam nos XMLs de 2023. Os links abrem a busca por capturas. O corpo de cada publicação ainda requer conferência.
+A consulta paginada ao índice CDX da Wayback Machine, de 1º de setembro a 15 de dezembro de 2023, retornou 9.274 linhas de captura, com 6.243 caminhos sem parâmetros de consulta. **1.898 dos 2.049 caminhos pendentes** apareceram nesse lote. A consulta individual localizou mais um candidato fora da janela, totalizando **1.899 caminhos com captura localizada**. Esse número registra disponibilidade indicada pelo índice. O corpo editorial de cada captura requer conferência própria. [Documentação da API CDX](https://github.com/internetarchive/wayback/blob/master/wayback-cdx-server/README.md)
 
-- [sticks-stones-may-break-your-bones](https://web.archive.org/web/*/https://www.marksdailyapple.com/sticks-stones-may-break-your-bones/)
-- [braised-wild-boar-with-sauerkraut-and-bacon](https://web.archive.org/web/*/https://www.marksdailyapple.com/braised-wild-boar-with-sauerkraut-and-bacon/)
-- [curry-chicken-and-sweet-potato-stew](https://web.archive.org/web/*/https://www.marksdailyapple.com/curry-chicken-and-sweet-potato-stew/)
-- [stifado-octopus-braised-in-red-wine](https://web.archive.org/web/*/https://www.marksdailyapple.com/stifado-octopus-braised-in-red-wine/)
-- [senegalese-chicken-stew-curried-chicken-salad](https://web.archive.org/web/*/https://www.marksdailyapple.com/senegalese-chicken-stew-curried-chicken-salad/)
-- [pork-beef-and-liver-terrine](https://web.archive.org/web/*/https://www.marksdailyapple.com/pork-beef-and-liver-terrine/)
-- [chilled-summer-soups](https://web.archive.org/web/*/https://www.marksdailyapple.com/chilled-summer-soups/)
-- [d-ribose-bean-sprouts-backyard-rabbits-the-protein-bone-loss-canard-and](https://web.archive.org/web/*/https://www.marksdailyapple.com/d-ribose-bean-sprouts-backyard-rabbits-the-protein-bone-loss-canard-and/)
-- [savory-goat-stew](https://web.archive.org/web/*/https://www.marksdailyapple.com/savory-goat-stew/)
-- [tender-braised-brisket-with-carmelized-onions-and-tomatoes](https://web.archive.org/web/*/https://www.marksdailyapple.com/tender-braised-brisket-with-carmelized-onions-and-tomatoes/)
-- [braised-beef-short-rib-and-sweet-potato-squash-bake](https://web.archive.org/web/*/https://www.marksdailyapple.com/braised-beef-short-rib-and-sweet-potato-squash-bake/)
-- [ginger-soup-with-scallops-and-shrimp](https://web.archive.org/web/*/https://www.marksdailyapple.com/ginger-soup-with-scallops-and-shrimp/)
-- [beef-with-prunes-stew](https://web.archive.org/web/*/https://www.marksdailyapple.com/beef-with-prunes-stew/)
-- [calorie-restriction-bone-loss](https://web.archive.org/web/*/https://www.marksdailyapple.com/calorie-restriction-bone-loss/)
-- [10-minute-seaweed-soup](https://web.archive.org/web/*/https://www.marksdailyapple.com/10-minute-seaweed-soup/)
-- [green-smoothie-collagen-peptides](https://web.archive.org/web/*/https://www.marksdailyapple.com/green-smoothie-collagen-peptides/)
-- [collagen-benefits](https://web.archive.org/web/*/https://www.marksdailyapple.com/collagen-benefits/)
-- [how-to-use-collagen-powder](https://web.archive.org/web/*/https://www.marksdailyapple.com/how-to-use-collagen-powder/)
+Nesta etapa, os **18 candidatos restantes** tiveram o corpo textual consultado. A contagem por caminho passou a **3.416 de 5.447**, com **2.031 caminhos restantes** após esta conferência. Cinco publicações eram apresentações de vídeos de concurso e continham seis vídeos ao todo. Foi possível conferir o áudio de quatro. Os resultados abaixo distinguem o texto do blog e o conteúdo do vídeo.
+
+| Publicação | Data original | O que foi recuperado |
+| --- | --- | --- |
+| [Sticks & Stones May Break Your Bones...](https://web.archive.org/web/20230925171453id_/https://www.marksdailyapple.com/sticks-stones-may-break-your-bones/) | 2006-12-27 | Comentário sobre medicamentos e fraturas, sem receita de caldo ou gelatina. |
+| [Calorie Restriction and Bone Loss](https://web.archive.org/web/20231115110040id_/https://www.marksdailyapple.com/calorie-restriction-bone-loss/) | 2008-08-02 | Comentário sobre densidade óssea e restrição calórica, sem receita de caldo ou gelatina. |
+| [Beef with Prunes "Stew"](https://web.archive.org/web/20231209223107id_/https://www.marksdailyapple.com/beef-with-prunes-stew/) | 2009-08-29 | Vídeo do concurso. O vídeo estava privado e o texto disponível é a apresentação da inscrição. [Link original do vídeo](https://www.youtube.com/watch?v=XsRq5eouo4s) |
+| [Ginger Soup with Scallops and Shrimp](https://web.archive.org/web/20231003145730id_/https://www.marksdailyapple.com/ginger-soup-with-scallops-and-shrimp/) | 2009-09-25 | Receita de sopa de gengibre e frutos do mar com fundo de frango. |
+| [Braised Beef Short Rib and Sweet Potato Squash Bake](https://web.archive.org/web/20230926101719id_/https://www.marksdailyapple.com/braised-beef-short-rib-and-sweet-potato-squash-bake/) | 2010-09-29 | Dois vídeos do concurso. O preparo narrado da costela descreve vinho e tomate, e menciona o colágeno do corte. O acompanhamento é de batata-doce e abóbora. [Costela](https://www.youtube.com/watch?v=AC0HbpQbm9o) · [Acompanhamento](https://www.youtube.com/watch?v=2awQjVQ48mU) |
+| [Tender Braised Brisket with Carmelized Onions and Tomatoes](https://web.archive.org/web/20231130035344id_/https://www.marksdailyapple.com/tender-braised-brisket-with-carmelized-onions-and-tomatoes/) | 2010-12-11 | Receita de peito bovino braseado com fundo bovino. |
+| [Savory Goat Stew](https://web.archive.org/web/20231130040023id_/http://www.marksdailyapple.com/savory-goat-stew/) | 2010-12-18 | Receita de ensopado com fundo de frango ou de boi e vinho branco. |
+| [Dear Mark: D-Ribose, Bean Sprouts, Backyard Rabbits, and More](https://web.archive.org/web/20230922024120id_/https://www.marksdailyapple.com/d-ribose-bean-sprouts-backyard-rabbits-the-protein-bone-loss-canard-and/) | 2011-06-13 | Coluna sobre temas diversos, inclusive proteína e perda óssea, sem receita de caldo ou gelatina. |
+| [Chilled Summer Soups](https://web.archive.org/web/20231204054654id_/https://www.marksdailyapple.com/chilled-summer-soups/) | 2011-06-18 | Receita de sopa fria de pimentão com fundo de frango. A sopa de beterraba da mesma página usa água. |
+| [Pork, Beef and Liver Terrine](https://web.archive.org/web/20230601090618id_/https://www.marksdailyapple.com/pork-beef-and-liver-terrine/) | 2011-08-06 | Explica a cobertura tradicional de aspic de caldo clarificado e gelatina. A receita publicada omite a cobertura. |
+| [Senegalese Chicken Stew & Curried Chicken Salad](https://web.archive.org/web/20230928001516id_/https://www.marksdailyapple.com/senegalese-chicken-stew-curried-chicken-salad/) | 2011-10-03 | Vídeo do concurso. O texto descreve a inscrição, e o vídeo estava indisponível. [Link original do vídeo](https://www.youtube.com/watch?v=dychmcDtlBI) |
+| [Stifado: Octopus Braised in Red Wine](https://web.archive.org/web/20230921094439id_/https://www.marksdailyapple.com/stifado-octopus-braised-in-red-wine/) | 2011-10-04 | Vídeo do concurso. Cozinha polvo na própria água liberada e no vinho, sem caldo de ossos ou gelatina adicionada. [Vídeo a partir de 3:12](https://www.youtube.com/watch?v=Futts6ltv7Q&t=192s) |
+| [Curry Chicken and Sweet Potato Stew](https://web.archive.org/web/20231209203503id_/https://www.marksdailyapple.com/curry-chicken-and-sweet-potato-stew/) | 2011-10-04 | Vídeo do concurso. Usa cerca de 1,2 L de caldo de frango. [Vídeo a partir de 6:24](https://www.youtube.com/watch?v=zlcqfyIydWQ&t=384s) |
+| [Braised Wild Boar with Sauerkraut and Bacon](https://web.archive.org/web/20230927104251id_/https://www.marksdailyapple.com/braised-wild-boar-with-sauerkraut-and-bacon/) | 2011-11-05 | Receita com opção de fundo no lugar do vinho. |
+| [Collagen for Skin: The Truth Behind the Benefits](https://web.archive.org/web/20231129120331id_/https://www.marksdailyapple.com/collagen-benefits/) | 2017-11-14 | Artigo sobre colágeno para pele. O título corresponde a uma republicação do Goodreads com outro caminho. [Republicação](https://www.goodreads.com/author_blog_posts/16006019-collagen-for-skin-the-truth-behind-the-benefits) |
+| [10-Minute Seaweed Soup](https://web.archive.org/web/20231130033856id_/https://www.marksdailyapple.com/10-minute-seaweed-soup/) | 2018-01-17 | Receita de wakame e folhas com caldo de frango ou caldo de ossos bovinos. |
+| [Green Smoothie](https://web.archive.org/web/20230922192658id_/https://www.marksdailyapple.com/green-smoothie-collagen-peptides/) | 2018-03-13 | Receita com peptídeos comerciais, kefir, abacaxi e espinafre. A mistura é batida e servida líquida. |
+| [How to Use Collagen Powder: 12 Interesting Uses that Go Beyond Smoothies](https://web.archive.org/web/20231114023712id_/https://www.marksdailyapple.com/how-to-use-collagen-powder/) | 2021-01-19 | Compilação de usos de peptídeos comerciais. Indica gelatina culinária nas balas e remete a uma receita externa da Primal Kitchen. |
 
 ## Resultados do Arquivo.pt
 

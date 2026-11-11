@@ -103,6 +103,8 @@ O [inventário do WordPress de dezembro de 2023](../../raw/inventario-mark-recei
 
 Em entrevistas, Sisson associa a redução do aproveitamento de carcaças e tecidos conjuntivos ao menor consumo de gelatina e propõe que isso contribuiria para lesões esportivas. O relato do Aquiles se refere a suplemento. Sua descrição do consumo pessoal varia entre a coluna de 2015, em que tomava uma caneca antes de dormir, e a entrevista do Live Fit, em que mencionou consumo ocasional. O [registro de entrevistas](../../raw/mark-sisson-entrevistas.md) localiza as declarações e distingue a fala de Sisson da dos apresentadores.
 
+O [inventário dos catálogos e áudios](../../raw/mark-sisson-entrevistas.md#catálogos-oficiais-e-áudios) inclui os feeds de Primal Blueprint e Primal Kitchen. No vídeo *Talking Collagen*, Sisson descreve seu consumo de caldo quente no inverno e fala de suplemento ao relatar tendinose. [Vídeo, 05:12–09:25](https://www.youtube.com/watch?v=bCrE39DozW8&t=312s)
+
 ## Livros em coautoria
 
 - *The Keto Reset Diet*, com Brad Kearns. No material complementar de 2017, a receita de caldo de frango das páginas 43–44 usa carcaça ou ossos de frango, aparas de legumes e aromáticos. Oferece cocção branda, panela lenta e 120 min na pressão, com despressurização natural e resfriamento rápido. A tabela nutricional do livro refere-se à formulação apresentada e não é uma medição de caldos em geral. [Editora](https://www.penguinrandomhouse.com/books/558392/the-keto-reset-diet-by-mark-sisson-with-brad-kearns/) · [Material complementar, p. 43–44](https://www.justpressone.com/wp-content/uploads/2019/02/KetoResetDiet.pdf#page=44)

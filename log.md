@@ -303,3 +303,7 @@ O [inventário](raw/inventario-wapf-receitas.md#lote-seguinte-em-inglês) regist
 ## [2026-11-11] revisão | Transcrição integral no fluxo da wiki
 
 O [guia de ingestão](AGENTS.md#ingestão) registra a transcrição até o último bloco, independentemente da duração da gravação. O [inventário do Cozinha de Pedra](raw/busca-receitas-relatos.md#áudio-dos-reels) documenta os totais e a conferência dos finais.
+
+## [2026-11-11] ingestão | Catálogos e áudios de Mark Sisson
+
+O [inventário](raw/mark-sisson-entrevistas.md#catálogos-oficiais-e-áudios) registra 71 páginas no catálogo da Primal Kitchen, 1.140 itens deduplicados do RSS histórico e o primeiro lote de oito episódios transcritos até o fim. As passagens identificam a voz de Sisson, de entrevistados e de apresentadores.

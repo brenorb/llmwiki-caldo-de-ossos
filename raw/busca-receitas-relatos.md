@@ -43,6 +43,14 @@ A recuperação seguinte confirmou uma faixa AAC de **1h07min41s**, corresponden
 
 Uma segunda transcrição integral dos sete reels com trilha sem texto também retornou vazia. A inspeção da trilha e dos trechos sinalizados pelo detector de voz encontrou música predominante e nenhuma passagem inteligível. O total de transcrições permaneceu em 106.
 
+Na verificação posterior, as faixas AAC de três lives foram comparadas aos blocos processados e à última marca de fala reconhecida. A fila processou todos os blocos, incluindo o último bloco parcial. A marca de fala indica a posição no TXT automático.
+
+| Live | Duração da faixa | Blocos processados | Última marca de fala |
+| --- | ---: | ---: | ---: |
+| [Alimentação e saúde mental](https://www.instagram.com/cozinhadepedra/reel/CUquPfkJqZm/) | 1h17min31s | 39 de 39 | 1:17:26 |
+| [Fundo de peixe](https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/) | 1h34min59s | 48 de 48 | 1:34:56 |
+| [Saborização do caldo](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/) | 1h07min41s | 34 de 34 | 1:07:29 |
+
 ## Destaques do Cozinha de Pedra
 
 A sessão autenticada exibiu **oito destaques e 248 cartões**. O total vem dos segmentos de progresso de cada sequência. Em seis destaques, a leitura visual foi confirmada para os 109 cartões apresentados. A leitura visual de um cartão em vídeo confirma o que apareceu na tela. A fala exige verificação da trilha.

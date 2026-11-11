@@ -375,6 +375,16 @@ Os lotes chegaram a **37 de 60** áudios verificados em inglês (21 h 07 min 37 
 
 No episódio 197, Hilary Boynton recorda uma panela de feijão do programa de almoço escolar com um corte suíno que identifica como orelha ou jarrete (00:06:52–00:07:22). Não informa proporções ou tempo de preparo. Em outros trechos, descreve falar de caldo com os alunos (00:08:23) e a apresentadora reconta o almoço histórico de Weston Price (00:19:21–00:19:48). A entrevista não fornece resultado isolado do caldo. Os episódios 234 e 235 em inglês e 180 e 181 em espanhol não trouxeram uma ficha de preparo de caldo na triagem. [Episódio 197](https://www.westonaprice.org/podcast/197-school-lunch-makeover/)
 
+#### Retomada das duas séries
+
+A conferência dos arquivos por GUID passou a **70 de 237** transcrições locais em inglês e **32 de 189** em espanhol. Restavam **167** e **157**, respectivamente. Em inglês, as 370 páginas com transcrição publicada ou diálogo longo continuam no inventário textual. As filas retomaram a partir dos arquivos conferidos e processam as faixas completas.
+
+| Episódio | Duração conferida | Passagem pertinente |
+| --- | --- | --- |
+| [230 · Lessons from Ballymaloe Cookery](https://wisetraditions.libsyn.com/230-lessons-from-ballymaloe-cookery) | 37 min 06 s | As menções a gelatina ocorrem em anúncios de cápsulas. A triagem da entrevista não encontrou preparo com caldo. |
+| [233 · Vitamin A-mazing](https://wisetraditions.libsyn.com/233-vitamin-a-mazing) | 32 min 36 s | As menções de gelatina são de anúncios de cápsulas. Não apareceu receita de caldo ou quantificação de nutrientes no caldo. |
+| [159 · El alto costo social y ecológico de consumir ultraprocesados](https://sabiastradiciones.libsyn.com/159-ultraprocesados-2-con-galia-kleiman) | 48 min 37 s | A apresentação cita a marca de caldo da convidada (00:01:20). Entre 00:28:16 e 00:29:10, a conversa menciona temperos em caldos instantâneos e extrato de levedura, sem análise de produto ou medida de glutamato. |
+
 ## Publicações dos capítulos locais
 
 O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.376 URLs do sitemap principal. A consulta de 2026-11-11 verificou o relato de uma reunião do capítulo de North Atlanta, as duas fichas de bebidas em imagem e uma apresentação de três páginas. A apresentação diferencia fundo de carne e caldo de ossos por proporções indicativas e por tempo. Nas faixas culinárias, cita 1½–3 h para fundo de aves, 4–6 h para fundo de boi, bisão ou porco, 6–24 h para caldo de ossos de frango e 24–72 h para bovino. O documento não informa a base das proporções, o volume de água ou resultados de testes próprios. As alegações de recuperação da barreira intestinal e maior teor de eletrólitos aparecem no material didático, sem medições comparativas ou ensaio clínico nele. A consulta é pontual e ainda não cobre todos os sites dos capítulos. [Reunião de 31 de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/) · [Apresentação em PDF](https://chapters.westonaprice.org/northatlantaga/files/2024/04/Meat-Stock-vs.-Bone-Broth.pdf) · [Bebidas e medidas](../wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)

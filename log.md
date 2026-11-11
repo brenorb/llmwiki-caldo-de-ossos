@@ -547,3 +547,7 @@ O [catálogo da WAPF](wiki/temas/receitas-wapf-catalogo.md) localiza a entrevist
 ## [2026-11-11] revisão | Alegações de acne e canície em textos da WAPF
 
 A [matriz de relatos](wiki/temas/relatos-e-evidencia.md) registra a alegação sobre acne e as intervenções realmente estudadas. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) localiza a referência sobre catalase no pâncreas de camundongos.
+
+## [2026-11-11] revisão | Retomada da transcrição dos podcasts da WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md#retomada-das-duas-séries) registra 70 áudios em inglês e 32 em espanhol, com as menções de gelatina e de caldos comerciais dos episódios recém-conferidos.

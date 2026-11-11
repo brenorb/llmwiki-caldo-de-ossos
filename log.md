@@ -419,3 +419,7 @@ O [sitemap histórico de Mark’s Daily Apple](raw/inventario-mark-receitas.md#v
 ## [2026-11-11] ingestão | Três entrevistas completas com Mark Sisson
 
 O [inventário de entrevistas](raw/mark-sisson-entrevistas.md) acrescentou Megyn Kelly, Jennifer Cohen e Dhru Purohit. As três mídias somaram 142 blocos e 4h37min48s. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md#entrevistas) identifica os falantes e vincula a alegação sobre o tendão ao estudo citado.
+
+## [2026-11-11] ingestão | Atribuição de cobre e relato de eczema nos áudios da WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md#corte-de-áudio-e-atribuição-do-cobre) chegou a 59 áudios conferidos em inglês e 24 em espanhol. A [nota da fundação](wiki/fontes/weston-price-caldo-gelatina.md) localiza a fala sobre cobre no fígado e o relato de eczema durante várias mudanças alimentares.

@@ -120,6 +120,12 @@ Use **240 mL de caldo de peixe ou água**, **2 colheres de sopa de gelatina inco
 2. Aqueça o restante, retire do fogo e dissolva a gelatina hidratada. Acrescente baunilha e adoçante.
 3. Distribua nas taças e refrigere até firmar. Sirva sem cobertura ou com poucos frutos vermelhos. A versão da WAPF adoça com mel ou xarope de bordo. Creme de leite combina com a interpretação primal que aceita laticínios. Leite de coco integral é a alternativa para uma versão sem laticínios. [Panna cotta e outras receitas da WAPF](https://www.westonaprice.org/health-topics/food-features/essential-recipes-for-the-wise-family/)
 
+### Balas de kombucha e gelatina
+
+Aqueça **¾ de xícara americana de kombucha (cerca de 180 mL)** em uma panela pequena. Polvilhe **2 colheres de sopa de gelatina bovina incolor** e bata com um batedor de arame por **1–2 minutos**, até dissolver. Despeje em moldes levemente untados com óleo de coco ou em um recipiente de cerca de **15 × 15 cm**. Refrigere por **cerca de 2 horas**. Desenforme ou corte em cubos e mantenha refrigerado. [Ficha de Sisson e Taylor republicada pelo Thrive Market](https://thrivemarket.com/blog/kombucha-gummy-bears-recipe)
+
+A receita dispensa mel e açúcar acrescentados no preparo. Para reduzir os carboidratos do lote, escolha uma kombucha com menos açúcar no rótulo ou teste chá de hibisco sem açúcar na mesma proporção. A troca por chá é uma adaptação da wiki. A versão da WAPF usa também cranberry e mel. [Gelatina de cranberry e kombucha](https://www.westonaprice.org/cranberry-kombucha-jello/)
+
 ### Balas de coco sem açúcar adicionado
 
 Para uma adaptação pequena da receita de Susanna Zahratka, use **200 mL de leite ou creme de coco sem açúcar**, **12–15 g de gelatina incolor** e algumas gotas de baunilha ou hortelã. Hidrate a gelatina em parte da base fria, dissolva com o restante morno e coloque em formas pequenas. Refrigere até firmar. A proporção é maior que na panna cotta para obter balas mais firmes. Verifique o teor de carboidratos do produto de coco. [Sugar Free Gelatin Jellybeans](https://www.westonaprice.org/sugar-free-gelatin-jellybeans/)

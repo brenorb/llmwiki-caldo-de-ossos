@@ -267,3 +267,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md#destaques-do-cozinha-de-pedra
 ## [2026-11-11] ingestão | Carne asada, torta de carne e caldo no arquivo histórico
 
 A [leitura paralela](raw/inventario-mark-receitas.md#leitura-paralela-da-wayback-e-do-common-crawl) chegou a 4.900 de 5.447 caminhos. As [fichas](wiki/temas/receitas-mark-sisson.md) incorporam quatro usos de caldo em pratos com carne, incluindo a versão de torta com couve-flor.
+
+## [2026-11-11] ingestão | Balas de kombucha de Sisson e Taylor
+
+A [ficha de gelatina](wiki/temas/receitas-gelatina.md#balas-de-kombucha-e-gelatina) traz a receita republicada de The Keto Reset Diet Cookbook, a proporção da base e opções com menos açúcar.

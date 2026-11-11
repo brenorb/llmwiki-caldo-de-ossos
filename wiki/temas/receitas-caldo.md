@@ -42,6 +42,12 @@ A receita publicada pelo Korea.net usa **1 kg de osso de joelho bovino**, **600 
 
 O arroz acompanha o prato tradicional. Para reduzir os carboidratos, sirva apenas o caldo com a carne e os temperos. A análise coreana de uma versão de restaurante reúne os ingredientes da porção, sem um resultado separado para o caldo coado. [Ficha de composição e variantes](../fontes/coreia-seolleongtang.md)
 
+## Sopa cremosa de pele ou pés de porco
+
+A ficha da WAPF usa **pés suínos com pele** ou **couro de bacon ou presunto**, água fria apenas para cobrir e um pouco de vinagre. Aqueça até começar a ferver e mantenha em fogo brando até a pele se desfazer. A fonte indica **24 h ou mais** e não informa rendimento ou proporções exatas. [Pig Skin Soup, WAPF](https://www.westonaprice.org/health-topics/modern-diseases/skin-deep/) · [Tradução em espanhol](https://www.westonaprice.org/skin-deep/)
+
+Coe se quiser servir como caldo. Para a sopa espessa, retire todos os ossos antes de bater a carne e a pele com o líquido. Ajuste a textura com água e finalize com creme de leite ou crème fraîche e sal a gosto. Use pés frescos sem cura para controlar o sal e evitar açúcares que possam vir de embutidos. A ficha dispensa farinha. Para guardar, divida em recipientes rasos e refrigere prontamente. [Conservação](seguranca-conservacao.md)
+
 ## Sopa cremosa de chuchu com caldo e torresmo
 
 Como ponto de partida da wiki para duas porções, use **1 chuchu médio** e **400 mL de caldo de ossos**. A live descreve o método sem dar medidas.

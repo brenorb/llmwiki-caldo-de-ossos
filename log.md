@@ -531,3 +531,7 @@ A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) inclui a orientaç�
 ## [2026-11-11] ingestão | Fundo de bonito e três sopas de Mark Sisson e Jennifer Meier
 
 As [fichas de receita](wiki/temas/receitas-mark-sisson.md) registram as quantidades recuperadas nas prévias, os trechos de preparo disponíveis e sugestões para reduzir amido ou retirar laticínios.
+
+## [2026-11-11] revisão | Leitura integral de 17 páginas da WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventário-de-áudio) registra a recuperação dos 17 corpos editoriais e das 83 ocorrências além do teto de extração. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) localiza as diferenças na receita de fundo de peixe e as novas fichas. A [receita de sopa de pés de porco](wiki/temas/receitas-caldo.md#sopa-cremosa-de-pele-ou-pés-de-porco) detalha o caldo coado e a versão cremosa.

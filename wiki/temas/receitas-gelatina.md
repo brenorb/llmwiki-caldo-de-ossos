@@ -58,6 +58,10 @@ A live cozinha **500 g de frutas vermelhas e 5 a 10 maçãs** com **600 mL de ca
 
 A live combina caldo neutro, abacate e sementes de abóbora, com cacau e adoçante opcionais. Para testar um copo, bata **120 mL de caldo neutro frio**, **¼ de abacate pequeno** e **1 colher de sopa de sementes de abóbora**. Se quiser, acrescente **1 colher de chá de cacau 100%** e adoçante a gosto. As medidas são sugestões da wiki. Use mais caldo se preferir uma bebida menos espessa. [Live do Cozinha de Pedra, 52:38–54:00 e 1:21:35–1:21:59](https://www.instagram.com/cozinhadepedra/reel/CQo4wsTnPb3/)
 
+### Pasta fria de caldo, bacon e parmesão
+
+A live mostra caldo carbonara gelado, com bacon, parmesão e ovo, servido sobre pão de frigideira. Para testar a ideia com ingredientes já cozidos, misture **120 mL de caldo salgado concentrado**, **2 colheres de sopa de parmesão ralado** e **1 fatia de bacon bem cozida e picada**. Para incluir ovo, acrescente um ovo cozido picado. Resfrie em recipiente raso até firmar, mexa para espalhar e sirva com pepino ou pão low carb. As medidas e o uso do ovo já cozido são adaptações da wiki. [Live do Cozinha de Pedra, 33:30–34:29 e 36:27–36:55](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/) · [Conservação](seguranca-conservacao.md)
+
 ## Com gelatina em pó
 
 ### Gelatina salgada de frango e ervas

@@ -31,6 +31,8 @@ Na conferência posterior, **49 de 122 reels** tinham transcrição completa, tr
 
 A conferência seguinte encontrou **55 reels com transcrição completa** e três processados sem fala detectada. Outros 64 continuavam em processamento ou aguardavam a vez. [Trechos registrados](../wiki/fontes/cozinha-de-pedra-caldo.md)
 
+A transcrição integral de uma live adicional chegou a 88 blocos, com cerca de 2h55 de material. A fila alcançou **58 reels com transcrição completa** e três sem fala detectada. [Live longa](https://www.instagram.com/cozinhadepedra/reel/CI1wSgxpG6p/)
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

@@ -551,3 +551,7 @@ A [matriz de relatos](wiki/temas/relatos-e-evidencia.md) registra a alegação s
 ## [2026-11-11] revisão | Retomada da transcrição dos podcasts da WAPF
 
 O [inventário](raw/inventario-wapf-receitas.md#retomada-das-duas-séries) registra 70 áudios em inglês e 32 em espanhol, com as menções de gelatina e de caldos comerciais dos episódios recém-conferidos.
+
+## [2026-11-11] ingestão | Áudios restantes de The Genius Life e The School of Greatness
+
+O [inventário das entrevistas](raw/mark-sisson-entrevistas.md#the-school-of-greatness-the-dan-buettner-podcast-e-the-genius-life) registra as cinco faixas recuperadas, com 5 h 48 min 34 s de mídia, os trechos reaproveitados e as novas passagens sobre caldo e suplementação.

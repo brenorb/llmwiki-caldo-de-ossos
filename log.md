@@ -443,3 +443,7 @@ A [leitura](raw/busca-receitas-relatos.md#comentários-sobre-receitas-gelificaç
 ## [2026-11-11] ingestão | Comparação comercial e rotina de colágeno em entrevistas de Mark Sisson
 
 O [registro de entrevistas](raw/mark-sisson-entrevistas.md) incorpora passagens das conversas com Chris Kresser, Jacqueline Genova e Gabby Reece. A fala de Sisson sobre uma barra de colágeno não informa a composição do caldo usado como referência. A observação de Kresser sobre metionina tem atribuição própria.
+
+## [2026-11-11] ingestão | Bebidas salgadas com caldo do capítulo de North Atlanta
+
+As duas [fichas de bebidas](wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo) foram conferidas nas imagens originais. O [inventário](raw/inventario-wapf-receitas.md#publicações-dos-capítulos-locais) registra o alcance dessa consulta fora do sitemap principal.

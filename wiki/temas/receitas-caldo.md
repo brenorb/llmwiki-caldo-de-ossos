@@ -80,6 +80,13 @@ Na demonstração, Mandagará pesa **15 g da gordura separada do caldo**. Ao rec
 2. Ponha a massa numa frigideira pequena, tampe e leve ao fogo baixo. A autora estima **10–15 minutos** e vira o pão para dourar o outro lado. Cozinhe até firmar também no centro.
 3. Para bases finas de minipizza, a autora acrescenta mais água e relata obter cerca de quatro discos. Ela também cita parmesão e provolone como substitutos da muçarela. O pão pode acompanhar a [pasta fria de caldo, bacon e parmesão](receitas-gelatina.md#pasta-fria-de-caldo-bacon-e-parmesão). [Live do Cozinha de Pedra, 06:58–07:14, 15:28–18:44 e 29:14–29:28](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/)
 
+## Bebidas salgadas batidas com caldo
+
+O capítulo de North Atlanta da Weston A. Price Foundation publicou duas fichas de bebidas cremosas feitas com caldo. As receitas usam o caldo morno. Bata com mixer em recipiente alto aberto ou use um liquidificador adequado a líquidos mornos. [Encontro de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/)
+
+- **Abacate e limão.** Bata **240 mL de fundo de carne ou caldo de ossos**, **½ abacate** sem casca e sem caroço e **½ colher de chá de suco de limão** até ficar cremoso. Ajuste sal e pimenta e finalize com especiarias a gosto. No encontro, a versão usou fundo de frango. [Ficha original](https://chapters.westonaprice.org/northatlantaga/2024/01/avocado-broth-latte/)
+- **Manjericão, coco e cítricos.** Bata **240–355 mL de fundo de carne ou caldo de ossos**, **60 mL de leite de coco**, **¼ de xícara de manjericão fresco picado**, **1 colher de chá de suco de limão-siciliano** e **1 colher de chá de suco de limão-taiti**. Tempere com sal e pimenta. No encontro, a versão usou caldo bovino. Para uma versão sem açúcar adicionado, use leite de coco sem açúcar e confira os ingredientes do caldo pronto. [Ficha original](https://chapters.westonaprice.org/northatlantaga/2024/01/basil-citrus-broth-latte/)
+
 ## Mais caminhos
 
 | Preparo | Como usar e adaptar | Fonte |

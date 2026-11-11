@@ -61,6 +61,13 @@ A coluna de adaptações é da wiki. A quantidade de carboidratos depende do ren
 | [Broccoli Brie Soup](https://www.westonaprice.org/broccoli-brie-soup/) | Fundo de frango com brócolis e brie | Cebola, creme e brie; sem farinha ou açúcar adicionado | Triture o brócolis para dar corpo e escolha creme e queijo pasteurizados. |
 | [Broth, Stew, and Sauce Recipes for Good Health](https://www.westonaprice.org/broth-stew-and-sauce-recipes-for-good-health/) | Fundo de galinha e pés; sopa ao curry; molho de tomate; sopa de jarrete; redução de amora | Abóboras, concentrado de tomate, ervilha partida ou amora, conforme a receita | Abobrinha pode substituir parte da abóbora; couve-flor ou repolho podem substituir as ervilhas em outro ensopado. |
 
+## Receitas do capítulo de North Atlanta
+
+| Preparo | Uso do caldo | Ingredientes que contribuem com carboidratos | Variação |
+| --- | --- | --- | --- |
+| [Caldo batido com abacate](https://chapters.westonaprice.org/northatlantaga/2024/01/avocado-broth-latte/) | Cerca de 240 mL de caldo morno com meio abacate e suco de limão. | Abacate e limão. | Use o fundo de frango da demonstração ou caldo bovino sem açúcar adicionado. |
+| [Caldo batido com manjericão e cítricos](https://chapters.westonaprice.org/northatlantaga/2024/01/basil-citrus-broth-latte/) | Caldo morno com leite de coco, manjericão e dois tipos de limão. | Leite de coco e sucos de limão. | Use leite de coco sem açúcar. [Medidas e preparo das duas bebidas](receitas-caldo.md#bebidas-salgadas-batidas-com-caldo) |
+
 ## Gelatina
 
 | Receita original | Base de caldo ou gelatina | Ingredientes que influenciam os carboidratos | Opção com menos carboidratos |

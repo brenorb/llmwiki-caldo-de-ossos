@@ -359,3 +359,7 @@ O [inventário de áudio](raw/inventario-wapf-receitas.md#progresso-dos-lotes-am
 ## [2026-11-11] ingestão | Gelatina salgada escocesa e mousse aerada
 
 As [receitas com caldo](wiki/temas/receitas-gelatina.md#potted-head-gelatina-salgada-escocesa) incluem o preparo histórico escocês. A [mousse de framboesa](wiki/temas/receitas-gelatina.md#mousse-aerada-de-framboesa) registra a proporção com menos gelatina e a opção sem xarope de bordo descritas pela autora.
+
+## [2026-11-11] revisão | Arquivo histórico de Primal Endurance
+
+A [seção Primal Endurance](raw/mark-sisson-entrevistas.md#primal-endurance) acrescenta o cruzamento de 12 capturas do RSS da Libsyn com a Omny, 258 episódios deduplicados e três gravações transcritas integralmente. O [registro de Two Meals A Day](raw/mark-sisson-entrevistas.md#recuperação-de-entrevistas-históricas) inclui a verificação independente de toda a faixa oficial.

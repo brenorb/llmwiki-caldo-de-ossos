@@ -275,3 +275,7 @@ A [ficha de gelatina](wiki/temas/receitas-gelatina.md#balas-de-kombucha-e-gelati
 ## [2026-11-11] ingestão | Ensaios de gelatina sobre fome e peso
 
 A [nota dos ensaios](wiki/fontes/gelatina-saciedade-ensaios.md) distingue diferenças agudas de fome e consumo de resultados de perda e manutenção do peso. A [comparação de evidência](wiki/temas/relatos-e-evidencia.md) vincula esses achados aos relatos de saciedade.
+
+## [2026-11-11] ingestão | Podcasts curtos da WAPF e inventário em espanhol
+
+O [inventário de áudio](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventário-de-áudio) registra a transcrição integral dos 16 episódios curtos sinalizados e de um episódio adicional em inglês. A [série em espanhol](raw/inventario-wapf-receitas.md#série-em-espanhol) tem 189 itens inventariados e um episódio sobre caldo transcrito integralmente neste corte.

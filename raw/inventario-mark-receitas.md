@@ -341,7 +341,7 @@ O replay de dezembro de 2023 para *Homemade Chicken Stock* devolveu uma página 
 
 A consulta paginada ao índice CDX da Wayback Machine, de 1º de setembro a 15 de dezembro de 2023, retornou 9.274 linhas de captura, com 6.243 caminhos sem parâmetros de consulta. **1.898 dos 2.049 caminhos pendentes** apareceram nesse lote. A consulta individual localizou mais um candidato fora da janela, totalizando **1.899 caminhos com captura localizada**. Esse número registra disponibilidade indicada pelo índice. O corpo editorial de cada captura requer conferência própria. [Documentação da API CDX](https://github.com/internetarchive/wayback/blob/master/wayback-cdx-server/README.md)
 
-Nesta etapa, os **18 candidatos restantes** tiveram o corpo textual consultado. A contagem por caminho passou a **3.416 de 5.447**, com **2.031 caminhos restantes** após esta conferência. Cinco publicações eram apresentações de vídeos de concurso e continham seis vídeos ao todo. Foi possível conferir o áudio de quatro. Os resultados abaixo distinguem o texto do blog e o conteúdo do vídeo.
+Nesta etapa, os **18 candidatos restantes** tiveram o corpo textual consultado. A contagem por caminho passou a **3.416 de 5.447**, com **2.031 caminhos restantes** após esta conferência. Um lote geral adicional consultou mais 42 corpos, chegando a **3.458 de 5.447**. As ocorrências temáticas nesse lote foram incidentais. Entre os 18 candidatos, cinco publicações eram apresentações de vídeos de concurso e continham seis vídeos ao todo. Foi possível conferir o áudio de quatro. Os resultados abaixo distinguem o texto do blog e o conteúdo do vídeo.
 
 | Publicação | Data original | O que foi recuperado |
 | --- | --- | --- |

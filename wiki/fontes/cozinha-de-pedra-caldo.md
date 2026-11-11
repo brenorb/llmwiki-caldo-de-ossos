@@ -132,6 +132,11 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 - O destaque sobre panela elétrica descreve como a autora compara o volume útil, o tempo máximo do ciclo sob pressão e os painéis. As opiniões sobre durabilidade descrevem experiências individuais. A capacidade nominal e o volume que o fabricante permite durante o cozimento podem diferir. [Destaque Panela Elétrica](https://www.instagram.com/stories/highlights/18071376179065415/) · [Preparo e segurança](../temas/preparo.md)
 - Uma notícia republicada descreve o caldo como fonte de probióticos sem identificar microrganismos vivos, quantidade ou teste de benefício do produto. A definição de probiótico exige microrganismos vivos que produzam benefício quando consumidos em quantidade adequada. [Carrossel, cartão 3](https://www.instagram.com/cozinhadepedra/p/B7dX8N6IRdR/?img_index=3) · [Consenso da ISAPP](https://pubmed.ncbi.nlm.nih.gov/24912386/)
 
+### Trechos recuperados em segunda transcrição
+
+- Na live de 2h55, a conversa passa por café com manteiga e caldo e café batido com óleo de coco e canela. A sensação de energia é um relato pessoal. A [versão medida com óleo de coco e creme](../temas/receitas-gelatina.md#café-batido-com-óleo-de-coco-e-caldo) vem de outro registro, o cartão 30 do destaque. [Live, 2:12:33–2:13:40](https://www.instagram.com/cozinhadepedra/reel/CI1wSgxpG6p/)
+- Em outra live, a autora cita pele, cartilagens e pés de frango como fontes culinárias de colágeno. Também compartilha a sugestão de dourar os pés cozidos na fritadeira a ar. A conversa descreve usos e opiniões sobre a dieta sem quantificar a ingestão ou estabelecer uma necessidade de caldo. [Live, 32:01–33:57](https://www.instagram.com/cozinhadepedra/reel/CIjmXYFJO1o/) · [Colágeno e gelatina](../temas/colageno-gelatina.md)
+
 ## Destaque Aprenda aqui
 
 Todos os **52 cartões** foram conferidos visualmente, incluindo quadros de **39 vídeos**. A numeração segue a ordem do destaque na sessão autenticada. A conferência visual ainda deixa a fala dos vídeos pendente. [Destaque no perfil](https://www.instagram.com/stories/highlights/18133140973187412/)

@@ -235,3 +235,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md#destaques-do-cozinha-de-pedra
 ## [2026-11-11] ingestão | Receitas em passagens adicionais da WAPF
 
 O [inventário](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventário-de-áudio) registra 214 passagens conferidas e a disponibilidade de transcrição nos podcasts selecionados. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) acrescenta sete preparos. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) registra menções a cálcio, B12 e ácido hialurônico e identifica o que as fontes mediram.
+
+## [2026-11-11] revisão | Segunda passagem nos trechos de áudio sem texto
+
+A [auditoria das transcrições](raw/busca-receitas-relatos.md#áudio-dos-reels) registra a fala recuperada em três gravações. A [nota de fonte](wiki/fontes/cozinha-de-pedra-caldo.md#trechos-recuperados-em-segunda-transcrição) aponta os trechos sobre café com caldo e aproveitamento de pés de frango.

@@ -51,6 +51,8 @@ Na verificação posterior, as faixas AAC de três lives foram comparadas aos bl
 | [Fundo de peixe](https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/) | 1h34min59s | 48 de 48 | 1:34:56 |
 | [Saborização do caldo](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/) | 1h07min41s | 34 de 34 | 1:07:29 |
 
+Uma segunda passagem examinou blocos sem texto e finais com intervalo longo entre a última fala reconhecida e o fim da faixa. Recuperou fala em três gravações, sem alterar o total de 106 transcrições. Na live de **2h55min11s**, houve recuperação entre **50:00–55:59**, entre **2:12:00–2:13:59** e no encerramento, com texto até **2:55:09**. As outras duas recuperações foram **32:01–33:57** na conversa sobre pés de frango e **40:00–40:24** no encerramento de outro reel. As versões revisadas e as saídas originais estão no acervo local. [Live de 2h55](https://www.instagram.com/cozinhadepedra/reel/CI1wSgxpG6p/) · [Pés de frango](https://www.instagram.com/cozinhadepedra/reel/CIjmXYFJO1o/) · [Reel com encerramento recuperado](https://www.instagram.com/cozinhadepedra/reel/CRSYx-MJmLy/)
+
 ## Destaques do Cozinha de Pedra
 
 A sessão autenticada exibiu **oito destaques e 248 cartões**. O total vem dos segmentos de progresso de cada sequência. Em sete destaques, a leitura visual foi confirmada para os 161 cartões apresentados. A leitura visual de um cartão em vídeo confirma o que apareceu na tela. A fala exige verificação da trilha.

@@ -64,6 +64,10 @@ Para uma adaptação pequena da receita de Susanna Zahratka, use **200 mL de lei
 
 Misture **200 mL de infusão de hibisco** e **200 mL de leite de coco integral sem açúcar**. Hidrate **7–9 g de gelatina** em parte do líquido frio, dissolva em parte da infusão morna e junte tudo. Adoce a gosto e gele. A receita da WAPF usa mel. A versão aqui usa adoçante culinário ou fica sem adoçar. O hibisco ácido pode talhar leite de vaca, por isso a base de coco é mais adequada a esta combinação. [Spencer Clanin](https://www.westonaprice.org/coconut-hibiscus-jello/)
 
+### Picolé cremoso de coco e cacau
+
+Para uma adaptação da receita da WAPF, use **200 mL de leite de coco integral sem açúcar**, **200 mL de creme de coco sem açúcar**, **1 colher de sopa de gelatina incolor**, **1–2 colheres de sopa de cacau em pó sem açúcar** e adoçante a gosto. Hidrate a gelatina em parte do leite de coco frio. Aqueça o restante e misture a gelatina hidratada, o creme, o cacau e o adoçante. Deixe amornar, distribua em formas e congele. A receita publicada usa alfarroba e mel. O cacau muda o sabor e a troca do mel pode deixar o picolé mais firme quando congelado. [Healthy Fudgesicles](https://www.westonaprice.org/healthy-fudgesicles/)
+
 ## Substituições que mudam os carboidratos e a textura
 
 | Ideia | Onde entram carboidratos | Como adaptar |

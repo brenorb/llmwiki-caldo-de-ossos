@@ -112,6 +112,8 @@ O [inventário do WordPress de dezembro de 2023](../../raw/inventario-mark-recei
 
 Em entrevistas, Sisson associa a redução do aproveitamento de carcaças e tecidos conjuntivos ao menor consumo de gelatina e propõe que isso contribuiria para lesões esportivas. O relato do Aquiles se refere a suplemento. Sua descrição do consumo pessoal varia entre a coluna de 2015, em que tomava uma caneca antes de dormir, e a entrevista do Live Fit, em que mencionou consumo ocasional. O [registro de entrevistas](../../raw/mark-sisson-entrevistas.md) localiza as declarações e distingue a fala de Sisson da dos apresentadores.
 
+Em três outras entrevistas, Sisson cita caldos de galinha e de boi e gelatina entre as fontes tradicionais. Nas conversas com Jennifer Cohen e Dhru Purohit, ele descreve o suplemento como opção prática e atribui à ingestão de peptídeos um efeito no Aquiles. O estudo de Shaw et al. mediu um marcador circulante e usou ligamentos cultivados em laboratório. Na entrevista com Megyn Kelly, a fala que atribui glucosamina e glicosaminoglicanos ao caldo é de Cate Shanahan. [Entrevistas e marcas de tempo](../../raw/mark-sisson-entrevistas.md) · [Ensaio de Shaw et al.](shaw-2017-gelatina.md)
+
 O [inventário dos catálogos e áudios](../../raw/mark-sisson-entrevistas.md#catálogos-oficiais-e-áudios) inclui os feeds de Primal Blueprint e Primal Kitchen. No vídeo *Talking Collagen*, Sisson descreve seu consumo de caldo quente no inverno e fala de suplemento ao relatar tendinose. [Vídeo, 05:12–09:25](https://www.youtube.com/watch?v=bCrE39DozW8&t=312s)
 
 O [caderno de receitas de coco dos leitores](mark-sisson-caderno-coco.md) reúne seis preparos com caldo ou fundo de frango encontrados nas 84 páginas do livreto do concurso de 2010.

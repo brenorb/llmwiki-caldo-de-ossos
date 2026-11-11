@@ -415,3 +415,7 @@ A [nota de Kuroda e Nozawa](wiki/fontes/kuroda-2008-bonito-fadiga.md) documenta 
 ## [2026-11-11] ingestão | Healthy Tastes Great e textos recuperados em versões de impressão
 
 O [sitemap histórico de Mark’s Daily Apple](raw/inventario-mark-receitas.md#versões-de-impressão-e-quatro-lacunas-restantes) chegou a 5.443 de 5.447 caminhos com texto triado. As [quatro receitas externas](wiki/temas/receitas-mark-sisson.md#receitas-externas-indicadas-por-aaron-em-healthy-tastes-great) indicadas por Aaron foram conferidas nas fontes originais e receberam sugestões de adaptação.
+
+## [2026-11-11] ingestão | Três entrevistas completas com Mark Sisson
+
+O [inventário de entrevistas](raw/mark-sisson-entrevistas.md) acrescentou Megyn Kelly, Jennifer Cohen e Dhru Purohit. As três mídias somaram 142 blocos e 4h37min48s. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md#entrevistas) identifica os falantes e vincula a alegação sobre o tendão ao estudo citado.

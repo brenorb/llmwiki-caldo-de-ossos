@@ -143,3 +143,7 @@ As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) localizam as fontes 
 ## [2026-11-11] ingestão | Busca histórica fora da janela inicial
 
 O [inventário do Mark’s Daily Apple](raw/inventario-mark-receitas.md) registra a consulta individual de 150 endereços e a cobertura de 3.613 textos no corte. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) inclui a coluna de Sisson sobre indisposição.
+
+## [2026-11-11] ingestão | Guia de 2019 e cadernos culinários oficiais
+
+O [inventário](raw/inventario-wapf-receitas.md) registra as 44 publicações do feed e a ampliação da busca nos anexos oficiais. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) inclui os preparos verificados em dois cadernos de aulas de cozinha.

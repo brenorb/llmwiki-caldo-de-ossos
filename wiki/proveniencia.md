@@ -45,6 +45,7 @@ A [busca de receitas e relatos](../raw/busca-receitas-relatos.md) descreve a cob
 | Os estudos humanos sobre caldos específicos medem efeitos agudos ou usam intervenções com limitações causais. Estudos de suplementos não estabelecem efeitos equivalentes do caldo. | [Alegações de saúde](temas/alegacoes-saude.md). |
 | Um ensaio de peptídeos de colágeno observou menos despertares. A latência e a eficiência do sono, desfechos primários, ficaram sem diferença detectada. | [Thomas et al.](fontes/thomas-2024-colageno-sono.md) e [relatos e evidência](temas/relatos-e-evidencia.md). |
 | Ensaios de fundo de bonito seco analisaram escalas autorrelatadas de fadiga e vigor. A intervenção usou outro tipo de fundo. | [Kuroda e Nozawa](fontes/kuroda-2008-bonito-fadiga.md). |
+| O piloto de dermatite atópica comparou um suplemento com placebo e mediu o uso de creme de resgate e os sintomas. | [Proksch et al.](fontes/proksch-2026-colageno-dermatite.md). |
 | Resfriar em porções rasas e refrigerar logo. O limite de exposição doméstica é diferente da curva de resfriamento no centro monitorada em serviços. | [USDA](fontes/usda-sobras.md), [FDA](fontes/fda-resfriamento.md), [RDC 216](fontes/anvisa-rdc-216.md). |
 | A conservação na despensa exige processo validado para a preparação e equipamento próprio. | [NCHFP](fontes/nchfp-caldo.md), [CDC](fontes/cdc-conservas.md). |
 

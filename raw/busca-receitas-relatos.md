@@ -67,6 +67,8 @@ Em 2026-11-11, uma consulta de título e resumo no PubMed combinou `"bone broth"
 
 A busca complementar por colágeno e sono localizou o ensaio cruzado de Thomas et al. e o resumo de Inagawa et al. sobre glicina isolada. Foram conferidos os desfechos primários, as tabelas e a declaração de financiamento no texto integral de Thomas. Uma busca por caldos e sono também retornou estudos com fundo de bonito seco, hidrolisados e líquidos de fermentação. Esses registros tratam de intervenções distintas das receitas de caldo de ossos. [Nota de fonte](../wiki/fontes/thomas-2024-colageno-sono.md) · [Análise do fundo de bonito seco](../wiki/fontes/kuroda-2008-bonito-fadiga.md)
 
+Uma busca por caldo de ossos, eczema e dermatite atópica não localizou ensaio de caldo para esse desfecho. A consulta recuperou dois ensaios de suplementos. O texto integral e o registro de Proksch et al. foram conferidos, assim como o resumo de Hakuta et al. [Nota de fonte](../wiki/fontes/proksch-2026-colageno-dermatite.md)
+
 ## Áudio dos reels
 
 O acervo local contém **106 transcrições automáticas** dos 122 reels inventariados. Os **34 reels** que constavam como tempo esgotado na primeira fila foram reprocessados integralmente. A auditoria confirmou **1.265 blocos em sequência**, do primeiro ao último bloco de cada arquivo, e um TXT consolidado por reel. Os horários são aproximados. Na junção de alguns blocos, marcas consecutivas podem aparecer com diferença de um segundo fora de ordem. A [tabela de duração e cobertura](#duração-e-cobertura-das-lives) mostra as duas lives inicialmente recuperadas e a live de saborização.

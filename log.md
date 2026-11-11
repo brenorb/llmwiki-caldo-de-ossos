@@ -423,3 +423,7 @@ O [inventário de entrevistas](raw/mark-sisson-entrevistas.md) acrescentou Megyn
 ## [2026-11-11] ingestão | Atribuição de cobre e relato de eczema nos áudios da WAPF
 
 O [inventário](raw/inventario-wapf-receitas.md#corte-de-áudio-e-atribuição-do-cobre) chegou a 59 áudios conferidos em inglês e 24 em espanhol. A [nota da fundação](wiki/fontes/weston-price-caldo-gelatina.md) localiza a fala sobre cobre no fígado e o relato de eczema durante várias mudanças alimentares.
+
+## [2026-11-11] ingestão | Comparação entre os relatos de eczema e os ensaios de peptídeos
+
+A [nota sobre dermatite atópica](wiki/fontes/proksch-2026-colageno-dermatite.md) registra o uso de creme de resgate, os resultados sem diferença entre os grupos e a data do registro do piloto. A [síntese](wiki/temas/relatos-e-evidencia.md) vincula essa evidência indireta aos relatos da WAPF.

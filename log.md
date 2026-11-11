@@ -159,3 +159,7 @@ O [registro de acesso](raw/busca-receitas-relatos.md#áudio-dos-reels) documenta
 ## [2026-11-11] ingestão | OCR dos anexos da WAPF
 
 O [inventário da WAPF](raw/inventario-wapf-receitas.md#ocr-das-páginas-sem-texto-ou-com-extração-esparsa) registra a extração e o OCR dos anexos oficiais. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) inclui fundos e pratos em gelatina do livro de 1895 e receitas recuperadas das edições digitais. A [comparação de evidência](wiki/temas/relatos-e-evidencia.md) registra os relatos e os ensaios encontrados.
+
+## [2026-11-11] ingestão | Sopa de sobras e cappuccino com caldo neutro
+
+As [notas do Cozinha de Pedra](wiki/fontes/cozinha-de-pedra-caldo.md) registram os trechos localizados no lote de 35 transcrições. As fichas incluem [sopa com frango e ovo](wiki/temas/receitas-caldo.md#sopa-de-sobras-com-frango-e-ovo) e [cappuccino com caldo neutro](wiki/temas/receitas-gelatina.md#cappuccino-com-caldo-neutro).

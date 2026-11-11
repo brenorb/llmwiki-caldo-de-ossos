@@ -42,6 +42,10 @@ Misture **200 mL de caldo neutro** aquecido, **1 colher de sopa de cacau 100%**,
 
 Para uma textura aerada, bata a mistura depois de fria e firmada e volte à geladeira. Se quiser usar coco no lugar do creme, a autora sugere leite de coco em pó sem açúcar para limitar a diluição. Confira se o produto leva maltodextrina ou outro carboidrato adicionado. [Live do Cozinha de Pedra, 20:28–22:38](https://www.instagram.com/cozinhadepedra/reel/CKuaAZGJGw3/)
 
+### Cappuccino com caldo neutro
+
+Mandagará faz uma mistura seca de **leite de coco em pó, cacau, café solúvel e eritritol**, com canela opcional. Para servir, dissolva a mistura em caldo neutro aquecido e ajuste ao gosto. A live não dá as proporções. Confira se o leite de coco em pó contém açúcar ou maltodextrina. [Live do Cozinha de Pedra, 12:00–12:43 e 13:35–14:42](https://www.instagram.com/cozinhadepedra/reel/CC7HbTcFQ73/)
+
 ### Canjica cremosa de castanha de caju
 
 **Para um lote**, use **250 g de xerém de castanha de caju**, **200 mL de caldo neutro**, **200–400 mL de leite de coco sem açúcar**, água para completar **600 mL de água mais leite de coco**, coco ralado, uma pitada de sal, cravo, canela em pau e eritritol a gosto. A receita original usa 100 g de eritritol.

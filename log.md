@@ -487,3 +487,7 @@ O [inventário da WAPF](raw/inventario-wapf-receitas.md#almoço-escolar-e-lote-a
 ## [2026-11-11] revisão | Cobertura acumulada dos comentários do Instagram
 
 O [registro de acesso](raw/busca-receitas-relatos.md#cobertura-dos-comentários-do-instagram) consolida 38 publicações distintas e 1.039 registros exibidos e identifica o restante da grade.
+
+## [2026-11-11] ingestão | Colágeno tipo II não desnaturado na artrose do joelho
+
+A [nota de Lugo et al.](wiki/fontes/lugo-2016-colageno-nativo-artrose.md) registra a dose total do produto, a quantidade da fração não desnaturada e o resultado na escala WOMAC. A [síntese](wiki/temas/relatos-e-evidencia.md) liga o resultado ao produto realmente testado.

@@ -343,3 +343,7 @@ A [nota de Rosen et al.](wiki/fontes/rosen-1994-calcio-caldo.md) registra os tr�
 ## [2026-11-11] ingestão | Sopa de peru e cúrcuma de Sisson e Taylor
 
 A [ficha da sopa](wiki/temas/receitas-mark-sisson.md#sopa-de-peru-e-cúrcuma-do-keto-reset-diet-cookbook) incorpora a receita republicada de The Keto Reset Diet Cookbook, com caldo de ossos de frango e o teor de carboidratos declarado por porção.
+
+## [2026-11-11] ingestão | Comentários sobre unhas e gelificação
+
+A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-unhas-peso-e-escolha-de-ossos) registra 45 comentários ou respostas exibidos em quatro publicações. A [comparação por desfecho](wiki/temas/relatos-e-evidencia.md) incorpora o relato de unhas frágeis durante um período que incluiu caldo e suplementos.

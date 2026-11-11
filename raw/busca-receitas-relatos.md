@@ -34,6 +34,19 @@ Foram conferidos 79 comentários e respostas exibidos pela sessão autenticada e
 
 As passagens pertinentes constam na [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-preparo-porções-e-dor).
 
+## Comentários sobre unhas, peso e escolha de ossos
+
+A leitura nas páginas individuais recuperou **45 comentários ou respostas com identificador distinto** em quatro publicações. Em três delas o indicador de carregamento permaneceu visível e não houve confirmação de que a lista tinha terminado. Os totais descrevem o material exibido na sessão.
+
+| Publicação | Registros exibidos | Estado da lista |
+| --- | ---: | --- |
+| [Oito relatos de dor](https://www.instagram.com/cozinhadepedra/p/CLZguPysV9G/) | 14 | Carregamento continuou visível |
+| [Unhas quebradiças](https://www.instagram.com/cozinhadepedra/p/CDHOUEslLBm/) | 11 | Carregamento continuou visível |
+| [Peso e dieta](https://www.instagram.com/cozinhadepedra/p/CElv4jwImjX/) | 6 | Sem controle adicional exibido no momento da leitura |
+| [Escolha dos ossos](https://www.instagram.com/cozinhadepedra/p/CJli9_PMIrW/) | 14 | Carregamento continuou visível |
+
+Os [registros de relatos e perguntas](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-unhas-e-preparo) acrescentam um caso de unhas frágeis durante o uso de caldo e suplementos e uma dúvida sobre gelificação na panela de pressão.
+
 ## Busca complementar de estudos humanos
 
 Em 2026-11-11, uma consulta de título e resumo no PubMed combinou `"bone broth" OR "bone soup" OR "bone broths" OR "bone soups" OR "sagol" OR "gomtang" OR "tonkotsu"`. O índice retornou 58 registros. A triagem não identificou ensaio humano terapêutico adicional de caldo de ossos para digestão, sono, articulações ou pele. A busca por intervenção na API do ClinicalTrials.gov localizou o programa de dieta e peso já registrado, NCT05740670. Buscas por fundos de frango e bovino retornaram intervenções diferentes, como caldo de peito de frango, diagnóstico de alergia e preparo para colonoscopia. Uma consulta ao ANZCTR recuperou os registros já catalogados de absorção de aminoácidos e permeabilidade intestinal. [Matriz de estudos](../wiki/temas/alegacoes-saude.md) · [Achados observacionais e relatos de segurança](../wiki/fontes/huo-2023-pandita-2011-seguranca.md)

@@ -53,6 +53,8 @@ Em 2026-11-11, uma consulta de título e resumo no PubMed combinou `"bone broth"
 
 ## Áudio dos reels
 
+O acervo local contém **106 transcrições automáticas** dos 122 reels inventariados. Os **34 reels** que constavam como tempo esgotado na primeira fila foram reprocessados integralmente. A auditoria confirmou **1.265 blocos em sequência**, do primeiro ao último bloco de cada arquivo, e um TXT consolidado por reel. Os horários são aproximados. Na junção de alguns blocos, marcas consecutivas podem aparecer com diferença de um segundo fora de ordem. A [tabela de duração e cobertura](#duração-e-cobertura-das-lives) mostra as duas lives inicialmente recuperadas e a live de saborização.
+
 Na primeira rodada de conferência, havia 36 tentativas concluídas entre os 122 reels da grade. A transcrição local retornou texto para 15, arquivo sem fala detectada para três e nenhum texto para 18. Entre os 18, 16 atingiram o limite de 240 segundos de processamento e dois falharam no acesso pelo extrator. Os vídeos longos que atingiram o limite podem ser visíveis na sessão do Instagram. A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md) identifica exemplos em que áudio e legenda trouxeram informações diferentes.
 
 Na revisão seguinte, **63 de 122 reels** já tinham resultado de tentativa. Havia **29 com texto**, três sem fala detectada e 31 ainda sem texto, dos quais 28 por limite de processamento e três por falha de acesso. Os 29 incluem duas lives recuperadas por completo em 39 e 48 blocos de até dois minutos. Cada bloco foi gravado separadamente para permitir retomar os trechos faltantes. A contagem é um retrato da revisão, com a fila ainda em execução. [Trechos conferidos na nota da fonte](../wiki/fontes/cozinha-de-pedra-caldo.md)
@@ -80,6 +82,8 @@ O primeiro fechamento da fila registrou **122 de 122 reels processados ou testad
 A recuperação seguinte confirmou uma faixa AAC de **1h07min41s**, correspondente à duração do reprodutor, para a live de saborização. A faixa foi transcrita em 34 blocos, do começo ao fim. O balanço final de áudio da grade é de **106 transcrições automáticas**, sete reels com trilha sem fala detectada e nove em que o reprodutor autenticado informou ausência de áudio, em acordo com os formatos públicos verificados. [Live recuperada](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/)
 
 Uma segunda transcrição integral dos sete reels com trilha sem texto também retornou vazia. A inspeção da trilha e dos trechos sinalizados pelo detector de voz encontrou música predominante e nenhuma passagem inteligível. O total de transcrições permaneceu em 106.
+
+### Duração e cobertura das lives
 
 Na verificação posterior, as faixas AAC de três lives foram comparadas aos blocos processados e à última marca de fala reconhecida. A fila processou todos os blocos, incluindo o último bloco parcial. A marca de fala indica a posição no TXT automático.
 

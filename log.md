@@ -387,3 +387,7 @@ O [inventário de áudio](raw/inventario-wapf-receitas.md#locro-de-galinha-e-nov
 ## [2026-11-11] revisão | Oito textos recuperados do índice de 2014
 
 A [busca no Common Crawl](raw/inventario-mark-receitas.md#recuperação-de-oito-textos-na-coleção-de-2014) elevou a cobertura para 5.427 de 5.447 caminhos. O inventário identifica os 20 endereços pendentes e registra os tipos de lacuna.
+
+## [2026-11-11] revisão | Cobertura dos reels que excederam o tempo de processamento
+
+A auditoria cruzou as 34 ocorrências de tempo esgotado com os arquivos consolidados e verificou a sequência dos 1.265 blocos. Os 106 TXT do índice local estão acessíveis. O [registro de áudio](raw/busca-receitas-relatos.md#áudio-dos-reels) reúne os números e aponta para a tabela de cobertura das lives.

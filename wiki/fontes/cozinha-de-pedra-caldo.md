@@ -100,4 +100,6 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 
 - Em outra live, Mandagará mostra um caldo de sabor carbonara já frio, com parmesão, bacon e ovo, servido como pasta sobre pão de frigideira. Ela remete a receita completa a outra transmissão e ao canal do perfil. [Live, 33:30–34:29 e 36:27–36:55](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/)
 
+- Na demonstração de pão de frigideira, a autora pesa 15 g de gordura do caldo e cita 12 g ao recapitular. Ela usa farinha de amêndoas, ovo e muçarela. Em outra live, relata fazer fundo de cascas de camarão e lê uma mensagem sobre trocar gelatina em pó por caldo num pudim de coco. [Pão, 05:14–18:44 e 27:45–28:08](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/) · [Pudim e fundo, 24:14–24:32 e 32:18–35:37](https://www.instagram.com/cozinhadepedra/reel/CHJfIXuJrpw/)
+
 A [página de receitas](../temas/receitas-gelatina.md) incorpora as versões que a legenda ou a entrevista permitiu reconstruir. A [comparação clínica](../temas/relatos-e-evidencia.md) resume relatos sem identificação de seguidoras. A [trilha de acesso](../../raw/busca-receitas-relatos.md) registra a grade de 395 itens e as lacunas de leitura das mídias.

@@ -16,6 +16,10 @@ Para sobremesas, Bibiana Mandagará prefere caldo bovino de fêmur ou canela pre
 2. Para mousse, bata o caldo já gelificado e frio com os mesmos ingredientes, distribua em porções e sirva frio.
 3. A receita da Bibi não fixa quantidades. Começar com pouco líquido adicional ajuda a manter o gel. Confira se o leite de coco em pó contém maltodextrina ou açúcar. A versão sem creme de leite também serve a quem evita laticínios. [Publicação do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/p/CFSEIF3MRbK/) · [Nota de fonte](../fontes/cozinha-de-pedra-caldo.md)
 
+### Pudim de coco com caldo no lugar da gelatina em pó
+
+Uma participante relata que o pudim de coco firmou quando ela trocou a gelatina incolor em pó por caldo de ossos. A live deixa em aberto a receita base, o volume e a concentração do caldo. Para experimentar a técnica, use caldo neutro que já firme bem na geladeira e faça um teste pequeno, contando o caldo no volume de líquido da receita. [Live do Cozinha de Pedra, 24:14–24:32](https://www.instagram.com/cozinhadepedra/reel/CHJfIXuJrpw/)
+
 ### Limonada e gelatina de limão
 
 Bata **160 mL de caldo neutro congelado em cubos**, **200 mL de água**, o suco de **meio limão** e, se quiser, um pouco de eritritol. Sirva a bebida imediatamente. Para transformar em gelatina, use caldo liquefeito e comece com menos água que a versão de beber. Em outra live, a autora prepara a gelatina com caldo bovino neutro derretido, limão e eritritol, sem diluir com água. Faça um teste em um copo e resfrie. [Live, 17:10–18:20](https://www.instagram.com/cozinhadepedra/reel/CLX3O49JHkb/) Se o caldo for fraco ou a mistura ficar muito diluída, acrescente gelatina em pó conforme o rótulo. Bater com nata pasteurizada dá a variação aerada descrita na entrevista. [Limonada da Bibi](https://www.instagram.com/cozinhadepedra/p/CKKDN_EFp4_/) · [Entrevista e torta de limão](../fontes/cozinha-de-pedra-caldo.md)

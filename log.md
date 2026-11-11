@@ -127,3 +127,7 @@ O [inventário dos PDFs](raw/inventario-wapf-receitas.md#cópias-oficiais-e-dive
 ## [2026-11-11] ingestão | Carrosséis de canície e artrite reumatoide
 
 As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) localizam a foto citada no relato de fios escuros e os depoimentos sobre dor e artrite reumatoide. A [nota de ensaios](wiki/fontes/colageno-tipo-ii-artrite-reumatoide.md) identifica as formulações estudadas e os critérios de remissão.
+
+## [2026-11-11] ingestão | Pão de frigideira, fundo de camarão e pudim de coco
+
+As [receitas salgadas](wiki/temas/receitas-caldo.md) registram a divergência entre a pesagem e a recapitulação da gordura no pão. A [ficha do pudim](wiki/temas/receitas-gelatina.md) registra a substituição relatada pela participante e as proporções em aberto.

@@ -41,6 +41,14 @@ Como ponto de partida da wiki para duas porções, use **1 chuchu médio** e **4
 
 A [receita publicada pelos autores do Senhor Tanquinho](https://www.senhortanquinho.com/sopas-caldos-low-carb/) rende oito porções. Doure **500 g de linguiça italiana** e **500 g de patinho ou músculo** numa panela grande. Junte **4 xícaras de caldo**, **500 g de abobrinha**, **5 tomates**, **1 pimentão verde**, **1 xícara de salsão** e **meia cebola**, picados. Cozinhe tampado em fervura branda até os legumes ficarem macios e a carne estar cozida. Finalize com ervas, sal e pimenta. A publicação sugere cerca de uma hora. Para reduzir o açúcar adicionado, confira o rótulo da linguiça. O teor por porção depende do caldo, da linguiça e dos legumes. [Anúncio da receita no Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/p/CAVe_btDb3Z/)
 
+## Pão de frigideira com gordura do caldo
+
+Na demonstração, Mandagará pesa **15 g da gordura separada do caldo**. Ao recapitular, cita **12 g** para a mesma colher de sobremesa. Os outros ingredientes são **1 ovo**, **cerca de 25 g de muçarela ralada**, **60 g de farinha de amêndoas**, **1 colher de chá de fermento químico** e uma pitada de sal. Alho desidratado ou orégano são opcionais. [Live do Cozinha de Pedra, 05:14–12:28, 14:06–14:23 e 27:45–28:08](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/)
+
+1. Amasse a gordura, misture bem com o ovo e incorpore o queijo, o sal, a farinha e o fermento. Se a massa estiver seca, adicione um pouco de água ou caldo para umedecer. A live deixa essa quantidade em aberto.
+2. Ponha a massa numa frigideira pequena, tampe e leve ao fogo baixo. A autora estima **10–15 minutos** e vira o pão para dourar o outro lado. Cozinhe até firmar também no centro.
+3. Para bases finas de minipizza, a autora acrescenta mais água e relata obter cerca de quatro discos. Ela também cita parmesão e provolone como substitutos da muçarela. O pão pode acompanhar a [pasta fria de caldo, bacon e parmesão](receitas-gelatina.md#pasta-fria-de-caldo-bacon-e-parmesão). [Live do Cozinha de Pedra, 06:58–07:14, 15:28–18:44 e 29:14–29:28](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/)
+
 ## Mais caminhos
 
 | Preparo | Como usar e adaptar | Fonte |
@@ -49,6 +57,7 @@ A [receita publicada pelos autores do Senhor Tanquinho](https://www.senhortanqui
 | Suíno e pés de frango | O pé suíno e os pés de ave dão corpo. A receita usa uma etapa refrigerada com água e vinagre. Salgue no prato se quiser preservar a versatilidade. | [Maria Atwood](https://www.westonaprice.org/piggy-chicken-feet-basic-bone-broth/) |
 | Caldo bovino com vinho | A versão de Sally Fallon Morell inclui extrato de tomate, vinho seco e conhaque. Para uma versão sem álcool adicionado, substitua as bebidas por água. O extrato ainda contribui com carboidratos. | [Sally Fallon Morell](https://www.westonaprice.org/beef-broth-2/) |
 | Fundo de peixe | Use a receita específica e o tempo correspondente. Sirva como base de sopa com peixe, ervas e vegetais. | [Fish Stock](https://www.westonaprice.org/fish-stock/) · [Fundos da WAPF](../fontes/weston-price-caldo-gelatina.md) |
+| Fundo de camarão | Na receita de família relatada por Mandagará, ferva cabeças, cascas e caudas de camarão em água numa panela comum e tempere com salsa a gosto. Coe para usar o líquido como base de sopa ou molho. A live deixa em aberto a proporção de água e o tempo de fervura. | [Live do Cozinha de Pedra, 32:18–32:28 e 35:29–35:37](https://www.instagram.com/cozinhadepedra/reel/CHJfIXuJrpw/) |
 | Tonkotsu | A base suína pode ser servida com cogumelos, folhas ou macarrão de konjac. A versão com massa de trigo e *tare* adocicado contém mais carboidratos. | [Tonkotsu doméstico](../fontes/just-one-cookbook-tonkotsu.md) |
 | Stracciatella | Incorpore ovos batidos com parmesão ao caldo quente e cozinhe até firmarem. Use salsinha e pimenta. É uma opção sem massa, com laticínio. | [Sopa romana da WAPF](https://www.westonaprice.org/roman-egg-soup-stracciatella/) |
 | Sopa cremosa de cogumelos com coco | Use caldo de frango ou bovino e leite de coco sem açúcar. Bata parte dos cogumelos para dar corpo. O original inclui xerez ou vermute doce, que pode ser substituído por mais caldo. | [Sopa de cogumelos da WAPF](https://www.westonaprice.org/cream-of-mushroom-soup-with-coconut-milk/) |

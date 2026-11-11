@@ -363,3 +363,7 @@ As [receitas com caldo](wiki/temas/receitas-gelatina.md#potted-head-gelatina-sal
 ## [2026-11-11] revisão | Arquivo histórico de Primal Endurance
 
 A [seção Primal Endurance](raw/mark-sisson-entrevistas.md#primal-endurance) acrescenta o cruzamento de 12 capturas do RSS da Libsyn com a Omny, 258 episódios deduplicados e três gravações transcritas integralmente. O [registro de Two Meals A Day](raw/mark-sisson-entrevistas.md#recuperação-de-entrevistas-históricas) inclui a verificação independente de toda a faixa oficial.
+
+## [2026-11-11] ingestão | Gelatina em cápsulas e dureza ungueal em 1963
+
+A [comparação de estudos de unhas](wiki/fontes/colageno-unhas-ensaios.md) acrescenta a leitura integral de Michaelson e Huntsman, com 15 participantes, cápsulas de gelatina ou lactose e medição instrumental de dureza.

@@ -40,4 +40,8 @@ O arquivo de Mark’s Daily Apple migrou para o Substack. A [Primal Kitchen info
 | Chumbo | Sisson questiona a representatividade de um estudo com frangos de uma mesma origem. [Lead in Bone Broth](https://www.goodreads.com/author/show/617812.Mark_Sisson/blog?page=224) | A origem é uma limitação do estudo. As medições de outros caldos também variam, e a publicação opinativa não substitui análise do produto. [Monro et al.](monro-2013-chumbo.md) · [Aksu et al.](aksu-2026-elementos.md) |
 | Histamina | Em resposta a uma leitora, Sisson associa caldos de cocção prolongada a sintomas em pessoas sensíveis. [Histamine Intolerance](https://www.goodreads.com/author_blog_posts/9175054-dear-mark-histamine-intolerance) | O texto não mediu a histamina nos caldos. Importam a matéria-prima, o manejo e o armazenamento, e os dados da wiki sobre a cocção são limitados. [Chung et al.](chung-2017-histamina.md) |
 
+## Entrevistas
+
+Em entrevistas, Sisson associa a redução do aproveitamento de carcaças e tecidos conjuntivos ao menor consumo de gelatina e propõe que isso contribuiria para lesões esportivas. O relato do Aquiles se refere a suplemento. Sua descrição do consumo pessoal varia entre a coluna de 2015, em que tomava uma caneca antes de dormir, e a entrevista do Live Fit, em que mencionou consumo ocasional. O [registro de entrevistas](../../raw/mark-sisson-entrevistas.md) localiza as declarações e distingue a fala de Sisson da dos apresentadores.
+
 As [receitas de caldo](../temas/receitas-caldo.md) aproveitam o material culinário. A [comparação de evidência](../temas/relatos-e-evidencia.md) remete aos estudos por desfecho. O [registro de busca](../../raw/busca-receitas-relatos.md) descreve a cobertura do arquivo migrado e das republicações.

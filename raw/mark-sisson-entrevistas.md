@@ -1,0 +1,14 @@
+# Mark Sisson · Trechos de entrevistas sobre caldo e colágeno
+
+Em 2026-11-11, foram buscadas transcrições em inglês que contivessem o nome de Sisson junto a *bone broth*, *gelatin* ou *collagen*. A leitura conferiu as falas atribuídas a Sisson e as distinguiu das intervenções de apresentadores e anúncios. O inventário registra os trechos localizados e não cobre todas as aparições do autor.
+
+| Entrevista ou publicação | Localização e declaração |
+| --- | --- |
+| [Get Primal on Your Cardio, Dave Asprey #314](https://daveasprey.com/mark-sisson-314/1000/) | A partir de 31 min, Sisson menciona ossos e caldo como fontes alimentares e narra o alívio da dor no tendão de Aquiles após suplementação. O apresentador também descreve experiências próprias, com intervenções distintas. |
+| [The Dr. Gundry Podcast](https://drgundry.com/mark-sisson-transcript/) | De 56 a 59 min, Sisson descreve o aproveitamento da carcaça para fundo, menciona gelatina comercial com menos açúcar e defende a hipótese de que a redução do consumo de colágeno contribua para lesões tendíneas. Também informa uso pessoal de suplemento e identifica que a sua empresa o comercializa. |
+| [Live Fit, Ignite Change](https://livefitignitechange.com/sisson/) | De 30 a 32 min, Sisson lembra o consumo de sobremesa de gelatina e afirma que toma caldo ocasionalmente, preferindo suplemento na rotina descrita. O site identifica a transcrição como majoritariamente gerada por IA. |
+| [The Meat Mafia Podcast #176](https://themeatmafia.com/176/transcript) | De 1 h 01 a 1 h 04, Sisson descreve reaproveitar carcaças e partes restantes para caldos e afirma, como hipótese pessoal, que a redução de fontes de colágeno contribuiria para lesões esportivas. O anúncio de caldo a partir de 43 min é dos apresentadores. |
+| [Entrevista com NutraIngredients](https://www.nutraingredients.com/Article/2018/04/04/Primal-Kitchen-co-founder-Collagen-is-a-critical-component-people-have-been-omitting-from-their-diet/) | Sisson elogia o caldo e diz que buscou um produto à base de colágeno que fosse fácil de consumir diariamente. O contexto é a divulgação de suplementos da Primal Kitchen. |
+| [Entrevista sobre tecido conjuntivo e lesões](https://articles.mercola.com/sites/articles/archive/2023/07/02/collagen-for-soft-tissue-injury-repair.aspx) | O texto reproduz declarações de Sisson sobre a dor no Aquiles e a melhora percebida após alguns meses de suplementação. O artigo inclui interpretações do entrevistador. |
+
+Na [coluna de novembro de 2015](https://www.goodreads.com/author_blog_posts/9337331-dear-mark-bone-broth-edition), Sisson descreve uma caneca de caldo antes de dormir. A fala sobre consumo ocasional no Live Fit registra outro contexto. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) reúne esses relatos e as publicações do blog. A [página de evidência](../wiki/temas/relatos-e-evidencia.md) indica os ensaios relevantes e os limites da extrapolação ao caldo.

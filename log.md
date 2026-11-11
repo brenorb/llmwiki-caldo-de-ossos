@@ -99,3 +99,7 @@ As seis partes do mapa preservado enumeram 5.447 publicações. O [inventário h
 ## [2026-11-11] ingestão | Receitas recuperadas do Mark’s Daily Apple antigo
 
 As [fichas de receitas](wiki/temas/receitas-mark-sisson.md) incluem fundos de 2009 e 2010, preparos na pressão, sopas e três versões de caldo espumado. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) registra a autoria indicada e o relato de Sisson sobre caldo antes de dormir.
+
+## [2026-11-11] ingestão | Costela agridoce e cálcio no carrossel sobre vinagre
+
+A [nota de Hoh et al.](wiki/fontes/hoh-1934-costela-agridoce.md) e a [tabela de componentes](wiki/temas/componentes-por-caldo.md) registram as massas medidas no líquido e na carne, com a base da amostra.

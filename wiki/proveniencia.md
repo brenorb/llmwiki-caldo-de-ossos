@@ -44,3 +44,5 @@ A [busca de receitas e relatos](../raw/busca-receitas-relatos.md) descreve a cob
 | A conservação na despensa exige processo validado para a preparação e equipamento próprio. | [NCHFP](fontes/nchfp-caldo.md), [CDC](fontes/cdc-conservas.md). |
 
 A [busca de dietoterapia chinesa](../raw/busca-medicina-chinesa.md) indica o alcance dos textos históricos, das fontes institucionais e das pesquisas clínicas consultadas.
+
+O [estudo de costela agridoce de Hoh et al.](fontes/hoh-1934-costela-agridoce.md) informa as massas de cálcio e fósforo no líquido e na carne. O [carrossel do Cozinha de Pedra](fontes/cozinha-de-pedra-caldo.md) cita essa preparação no contexto do uso de vinagre.

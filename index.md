@@ -72,6 +72,7 @@
 - [FoodSafety.gov · Tabela de conservação doméstica a frio](wiki/fontes/foodsafety-prazos.md)
 - [Grimes e Mahto (2026) — Reanálise das meta-análises sobre pele](wiki/fontes/grimes-mahto-2026-pele.md)
 - [Guan et al. (2024) — emulsão de caldo branco de frango](wiki/fontes/guan-2024-caldo-branco.md)
+- [Hoh et al. (1934) · Cálcio e fósforo de costela agridoce](wiki/fontes/hoh-1934-costela-agridoce.md)
 - [Hsu et al. (2017) — minerais e metais em caldos](wiki/fontes/hsu-2017-metais.md)
 - [Instant Pot — Operação e referência de tempo sob pressão](wiki/fontes/instant-pot-caldo-frango.md)
 - [Iwai et al. (2005) — peptídeos plasmáticos após gelatina hidrolisada](wiki/fontes/iwai-2005-peptideos.md)

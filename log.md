@@ -243,3 +243,7 @@ A [auditoria das transcrições](raw/busca-receitas-relatos.md#áudio-dos-reels)
 ## [2026-11-11] ingestão | Frango hainanês e capturas do Common Crawl
 
 O [inventário](raw/inventario-mark-receitas.md#capturas-alternativas-no-common-crawl) registra a recuperação de 44 textos pelo Common Crawl e a triagem deduplicada de 4.691 de 5.447 caminhos. As [fichas](wiki/temas/receitas-mark-sisson.md) incluem o frango hainanês, com fundo no molho e na couve-flor, além de caldo de kombu e braseado de cordeiro.
+
+## [2026-11-11] ingestão | Podcasts da WAPF e tabelas de composição da Covance
+
+O [inventário](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventário-de-áudio) registra nove episódios completos e 641 trechos de páginas. As [tabelas de composição](wiki/temas/componentes-por-caldo.md#aminoácidos-relatados-por-schuette) trazem 17 aminoácidos de dois caldos de frango e nove resultados minerais de outro caldo, com as unidades e lacunas da fonte. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) acrescenta preparos localizados na rodada.

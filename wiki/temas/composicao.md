@@ -25,6 +25,8 @@ Gramas de proteína no rótulo não descrevem o perfil de aminoácidos indispens
 
 A [TBCA, entrada BRC0878F](../fontes/tbca-mocoto.md), estima para um caldo brasileiro de mocotó sem sal adicionado **51 kcal, 4,58 g de proteína, 3,23 g de lipídios, 15,6 mg de sódio e 5,48 mg de cálcio por 100 g**. São valores calculados de uma receita, em unidade de massa. Para comparar com um rótulo em mL, é preciso conhecer a massa da porção ou a densidade do líquido.
 
+Um relatório de Kim Schuette atribui à Covance **450 mg de glicina** no fundo curto de carne de frango e **1.773,33 mg** no caldo longo de ossos de frango, ambos por 8 fl oz (236,6 mL). A [tabela de 17 aminoácidos](componentes-por-caldo.md#aminoácidos-relatados-por-schuette) preserva os dois preparos e as unidades. A diferença entre receitas e a falta de protocolo publicado impedem atribuir a diferença apenas ao tempo de cocção. [Relatório, p. 2](https://www.gapsinfo.com/wp-content/uploads/2012/03/Stock-vs.-Broth.pdf#page=2)
+
 ## Cálcio, magnésio, fósforo e vinagre
 
 Hsu et al. analisaram a parte líquida de três pratos comerciais em Taiwan. As médias foram **14,5–38,8 mg de cálcio** e **13,6–17,4 mg de magnésio por porção** entre os três pratos. Na própria comparação do estudo, isso correspondeu a cerca de **1,4–3,9%** e **3,4–4,4%**, respectivamente, das referências adultas adotadas. São médias de pratos locais e porções próprias de cada prato. A tabela do estudo é a base dos valores, pois o texto corrido contém uma inconsistência de unidade. [Hsu et al., Tabelas 2–3](../fontes/hsu-2017-metais.md)
@@ -32,6 +34,8 @@ Hsu et al. analisaram a parte líquida de três pratos comerciais em Taiwan. As 
 Em 36 caldos bovinos prontos da Coreia do Sul, as médias medidas por 250 g foram **7,65 mg de cálcio, 2,65 mg de magnésio e 299 mg de fósforo**. Em 13 caldos bovinos ou de frango da Turquia, as médias equivalem a aproximadamente **45,36 mg de cálcio, 2,55 mg de magnésio e 26,09 mg de fósforo por 250 g**. Os perfis de cálcio e fósforo variaram entre as séries. A comparação descreve essas amostras e não atribui a diferença ao país ou ao método de cocção. [Choi e Kim, Tabela 2](../fontes/choi-kim-2025-minerais.md) · [Aksu et al., Tabela 2](../fontes/aksu-2026-elementos.md)
 
 No braço de acidificação de Hsu et al., a acidificação de um caldo experimental de osso suíno com vinagre (pH médio de 5,32 contra 8,38 no controle) aumentou a massa extraída de cálcio e magnésio por massa inicial de osso. A magnitude relativa depende do ponto de partida. Aumento de extração, concentração por mL e aporte por porção são três medidas diferentes. Em outro desenho, Alcock et al. não observaram aumento dos aminoácidos analisados ao adicionar vinagre. O alvo químico e o método de preparo diferem. [Hsu et al., Figura 1](../fontes/hsu-2017-metais.md) · [Alcock et al.](../fontes/alcock-2019-composicao.md)
+
+A [tabela mineral relatada por Schuette](componentes-por-caldo.md#minerais-relatados-por-schuette) registra cobre **<0,0298 mg** em caldo com ossos e vegetais, sem a massa ou o volume analisado. Os valores de cobre do caldo bovino experimental e da receita estimada de mocotó têm denominadores próprios. [Tabela mineral, p. 3](https://www.gapsinfo.com/wp-content/uploads/2012/03/Stock-vs.-Broth.pdf#page=3) · [Resultados por preparo](componentes-por-caldo.md#bovino-e-séries-de-varejo)
 
 ## Sódio e rótulos
 

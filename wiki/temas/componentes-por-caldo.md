@@ -19,6 +19,46 @@ Cada linha descreve uma preparação ou amostra identificada. **Medido** é um r
 | Dez caldos comerciais bovinos ou de frango, EUA, líquidos ou em pó | Xícara de 8 fl oz, cerca de 237 mL | Aproximadamente 1–6 g de colágeno estimado. Maioria perto de 4 g | Estimado por hidroxiprolina. Resumo agregado do laboratório, sem tabela pública por produto ou tipagem do colágeno. [ConsumerLab](../fontes/consumerlab-2025-caldos-comerciais.md) |
 | Swanson Chicken Bone Broth | 240 mL | 35 kcal, proteína 8 g, gordura 0 g, sódio 350 mg, cálcio 10 mg | Declarado pelo fabricante. O zero pode refletir arredondamento. [Rótulo](../fontes/rotulos-swanson.md) |
 
+### Aminoácidos relatados por Schuette
+
+O artigo apresenta resultados atribuídos à Covance para dois preparos com frango. A porção das duas colunas é de **8 fl oz dos EUA**, cerca de **236,6 mL**. O relatório laboratorial, o número de amostras e o método de quantificação não estão publicados no PDF. As preparações diferem nos ingredientes e no cozimento. A tabela não identifica se o ácido glutâmico medido era livre ou total. [Schuette, p. 2](https://www.gapsinfo.com/wp-content/uploads/2012/03/Stock-vs.-Broth.pdf#page=2) · [Contexto da análise](../fontes/weston-price-caldo-gelatina.md)
+
+| Aminoácido | Fundo curto de carne de frango, mg por porção | Caldo longo de ossos de frango, mg por porção |
+| --- | ---: | ---: |
+| Ácido aspártico | 161 | 553,33 |
+| Treonina | 70,33 | 214 |
+| Serina | 85,67 | 242,67 |
+| Ácido glutâmico | 366,67 | 1.013,33 |
+| Prolina | 242,33 | 986,67 |
+| Glicina | 450 | 1.773,33 |
+| Alanina | 214,33 | 773,33 |
+| Valina | 63,67 | 181 |
+| Isoleucina | 43 | 131,67 |
+| Leucina | 92,33 | 276,33 |
+| Tirosina | 34 | 76,33 |
+| Fenilalanina | 56,67 | 192,33 |
+| Lisina | 127,67 | 303 |
+| Histidina | 98,67 | 93,67 |
+| Arginina | 170,67 | 696,67 |
+| Cistina | <23,77 | <24,03 |
+| Metionina | 26,13 | 96,33 |
+
+### Minerais relatados por Schuette
+
+Em outra tabela, a autora atribui à Covance uma análise de **caldo com ossos e vegetais**. A tabela dá os resultados em mg e deixa em aberto o volume ou a massa de referência. O limite reportado para cobre é **<0,0298 mg**. Sem o denominador, esse número fica sem conversão por xícara. Kaayla Daniel relata separadamente **6,14 mg de cálcio por xícara** para o caldo com ossos e vegetais e **2,31 mg por xícara** para o caldo de frango inteiro e dois pés, sem vegetais. [Schuette, p. 3](https://www.gapsinfo.com/wp-content/uploads/2012/03/Stock-vs.-Broth.pdf#page=3) · [Relato de Daniel](https://www.thehealthyhomeeconomist.com/bone-broth-calcium/)
+
+| Mineral | Quantidade relatada, mg |
+| --- | ---: |
+| Cálcio | 6,14 |
+| Cobre | <0,0298 |
+| Ferro | <0,119 |
+| Magnésio | 5,20 |
+| Manganês | 0,024 |
+| Fósforo | 19,5 |
+| Potássio | 94,3 |
+| Sódio | 57,5 |
+| Zinco | 0,0517 |
+
 ## Bovino e séries de varejo
 
 | Preparo ou amostra | Base | Componentes e quantidade | Status e fonte |

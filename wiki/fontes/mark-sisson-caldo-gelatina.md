@@ -6,6 +6,11 @@ As [fichas de Mark’s Daily Apple e de Sisson](../temas/receitas-mark-sisson.md
 
 Na [carta de relançamento de junho de 2026](https://www.marksdailyapple.com/p/mda-start-here), Sisson informa que iniciou o blog em 2006, retirou o site do ar no fim de 2023 e passou a restaurar publicações do acervo. A carta descreve uma restauração em andamento.
 
+## Artigos anteriores ao feed do Goodreads
+
+- Em abril de 2010, *Cooking with Bones* recomenda torrar ossos bovinos por cerca de 50 min a 190 °C e usar carcaças, pés e articulações para um caldo mais firme. O texto sugere vinagre de maçã e cerca de 20 h para frango, com tempos maiores para bovino e ovino. Sisson reconhece que não tinha números da concentração mineral. Em colunas posteriores, ele passou a questionar se um pouco de vinagre na água aumenta de forma relevante o cálcio. [Original de 2010 no Arquivo.pt](https://arquivo.pt/noFrame/replay/20160517171629id_/http://www.marksdailyapple.com/cooking-with-bones/) · [Coluna posterior](https://www.goodreads.com/author_blog_posts/9337331-dear-mark-bone-broth-edition) · [Medições de Hsu et al.](hsu-2017-metais.md)
+- Em *Bone Marrow*, Sisson descreve assar os ossos para servir o tutano com salsa, chalota e limão. Sugere aproveitar os ossos no fundo depois. Os dados de composição discutidos no artigo dizem respeito ao tutano. [Original de 2010 no Arquivo.pt](https://arquivo.pt/noFrame/replay/20190320173333id_/https://www.marksdailyapple.com/bone-marrow-recipe/)
+
 ## Receitas e aplicações recuperadas
 
 | Texto | Aplicação |

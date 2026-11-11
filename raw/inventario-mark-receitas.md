@@ -297,3 +297,7 @@ Foram pesquisados título e corpo de cada entrada em inglês por termos de caldo
 - P. 376 · [Dear Mark: Industrial Duck, Topical Seed Oils, and Costco Rotisserie Chicken Bones](https://www.goodreads.com/author_blog_posts/2815402-dear-mark-industrial-duck-topical-seed-oils-and-costco-rotisserie-chi)
 - P. 378 · [Is It Primal? – Paleo Bread, Bragg’s Liquid Aminos, Psyllium Fiber, and Other Foods Scrutinized](https://www.goodreads.com/author_blog_posts/2727955-is-it-primal-paleo-bread-bragg-s-liquid-aminos-psyllium-fiber-and)
 - P. 381 · [Dear Mark: Personalizing the Primal Blueprint](https://www.goodreads.com/author_blog_posts/2632485-dear-mark-personalizing-the-primal-blueprint)
+
+## Fontes anteriores e complementares ao feed
+
+O autor confirma que começou a publicar em 2006, que o site antigo saiu do ar em 2023 e que a restauração está em andamento. Duas capturas do site original no Arquivo.pt permitiram ler artigos de abril de 2010, anteriores ao início do feed do Goodreads. O mapa público da newsletter pessoal no Beehiiv tinha 36 publicações entre 40 URLs. As 36 páginas públicas foram abertas e triadas por termos relacionados ao tema. Os textos visíveis não trouxeram uma nova receita de caldo ou de gelatina culinária. A cobertura de newsletters arquivadas fora do mapa ou enviadas somente por e-mail permanece desconhecida. [Carta de relançamento](https://www.marksdailyapple.com/p/mda-start-here) · [Mapa da newsletter](https://marks-newsletter-4655f1.beehiiv.com/sitemap.xml) · [Artigos recuperados](../wiki/fontes/mark-sisson-caldo-gelatina.md)

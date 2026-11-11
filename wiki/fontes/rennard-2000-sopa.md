@@ -1,0 +1,5 @@
+# Rennard et al. (2000) — Sopa de galinha em ensaio celular
+
+**Fonte primária, evidência indireta para caldo.** Rennard BO, Ertl RF, Gossman GL, Robbins RA, Rennard SI. *Chicken soup inhibits neutrophil chemotaxis in vitro*. Chest. 2000;118(4):1150–1157. DOI 10.1378/chest.118.4.1150. Resumo e PDF de repositório acadêmico consultados em 2026-11-11. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11035691/) · [Universidade de Connecticut](https://lyneslab.uconn.edu/wp-content/uploads/sites/2599/2019/10/chicken-soup-chemotaxis.pdf).
+
+**Achado e limite.** Uma sopa tradicional de galinha inibiu de maneira dependente da concentração a migração de neutrófilos em câmara de quimiotaxia. Componentes vegetais e frango também mostraram atividade quando ensaiados individualmente, e sopas comerciais variaram. O preparo completo e o ensaio celular não permitem atribuir o achado a ossos. Ninguém ingeriu a sopa nesse ensaio e o estudo não mediu incidência, duração ou gravidade de resfriado. [Alegações](../temas/alegacoes-saude.md).

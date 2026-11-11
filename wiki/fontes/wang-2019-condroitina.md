@@ -1,0 +1,5 @@
+# Wang et al. (2019) · Recuperação de sulfato de condroitina a partir de caldo de frango
+
+Xiaojun Wang, Qingshan Shen, Chunhui Zhang e Wei Jia. *Carbohydrate Polymers* 207:191–199. **Acesso:** resumo e prévia da editora. [DOI](https://doi.org/10.1016/j.carbpol.2018.11.086) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/30599999/) · [Registro](../../raw/busca-composicao-terapeutica.md)
+
+Os autores recuperaram sulfato de condroitina de caldo de ossos da perna de frango por adsorção em resina e caracterizaram a fração por eletroforese e métodos espectroscópicos/cromatográficos. O resumo relata rendimento de 0,14%, recuperação de 67,35% e massa molecular média de 35,81 kDa para a fração recuperada. O resumo não detalha a base de massa do rendimento. Esses dados documentam a presença e o processo de extração, sem estabelecer uma concentração do caldo pronto por porção nem teor de glucosamina livre. Financiamento não verificado no acesso parcial. [Tabela de componentes](../temas/componentes-por-caldo.md)

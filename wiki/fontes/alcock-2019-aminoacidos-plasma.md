@@ -1,0 +1,11 @@
+# Alcock et al. (2019) — Aminoácidos plasmáticos após caldo bovino
+
+**Fonte primária.** Alcock RD, Shaw GC, Tee N, Burke LM. *Plasma Amino Acid Concentrations After the Ingestion of Dairy and Collagen Proteins, in Healthy Active Males*. Front Nutr. 2019;6:163. DOI 10.3389/fnut.2019.00163. Texto integral e tabelas consultados em 2026-11-11. [Editora](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2019.00163/full) · [Registro ANZCTR](https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=372982) · [Original na fonte](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2019.00163/pdf).
+
+**Desenho.** Estudo cruzado com ordem aleatória e contrabalanceada, intervalo mínimo de 48 h, em 15 homens saudáveis ativos (30 ± 5 anos). Foram seis condições publicadas, 300 mL de caldo bovino de café ou uma porção nominal de 20 g de proteína de diferentes suplementos (gelatina em pó, peptídeos de colágeno, colágeno líquido, caseinato, caseína hidrolisada). As bebidas foram dadas aquecidas com volume total igual. O plasma foi amostrado por 180 min após ingestão em jejum.
+
+**Resultados.** O caldo foi escolhido por ser proteico no estudo anterior e a análise posterior revelou um lote mais concentrado que o esperado. A Tabela 1 informa, por 300 mL, 52,26 g de aminoácidos totais (calculados como massa molecular livre), 11,76 g de glicina e 6,42 g de prolina. Os suplementos forneceram 17,89–20,59 g de aminoácidos totais por porção. Na Tabela 2, o caldo teve pico médio de glicina de 666 ± 170 μmol/L, peptídeos em pó de 747 ± 176 e gelatina de 674 ± 172. O pico de prolina foi mais tardio com caldo (103 ± 29 min versus 55 ± 27 min com peptídeos).
+
+**Limites.** Comparação entre porções com doses muito desiguais, um lote selecionado e amostra homogênea. Resultados de plasma não dão fração absorvida, perfil completo de peptídeos ou síntese tecidual e não medem benefício clínico. O registro previa sete preparações, incluindo whey. A publicação relata seis e não apresenta um braço de whey. O ACT Brumbies Super Rugby Team financiou o estudo e, segundo os autores, não teve papel direto. A declaração reporta ausência de conflito comercial ou financeiro.
+
+Uso na wiki. [Alegações](../temas/alegacoes-saude.md) · [Composição](../temas/composicao.md) · [Colágeno e gelatina](../temas/colageno-gelatina.md).

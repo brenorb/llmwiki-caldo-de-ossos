@@ -1,0 +1,5 @@
+# Matar et al. (2025) — Revisão narrativa de nutrientes e barreira intestinal
+
+**Revisão narrativa.** Matar A, Abdelnaem N, Camilleri M. *Bone Broth Benefits: How Its Nutrients Fortify Gut Barrier in Health and Disease*. Dig Dis Sci. 2025;70(6):1951–1961. DOI 10.1007/s10620-025-08997-x. Resumo e referências da editora consultados em 2026-11-11. [Editora](https://link.springer.com/article/10.1007/s10620-025-08997-x) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40180691/).
+
+**Escopo e limite.** O artigo discute aminoácidos e minerais citados na literatura de caldo e os possíveis papéis desses constituintes na barreira intestinal. Trata de estudos em animais e humanos de constituintes e de mecanismos. É útil para localizar trabalhos, mas não estima um efeito clínico de uma porção de caldo sobre permeabilidade ou doença inflamatória intestinal. As quantidades presentes em receitas e produtos precisam de evidência própria. [Alegações](../temas/alegacoes-saude.md) · [Composição](../temas/composicao.md).

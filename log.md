@@ -523,3 +523,7 @@ O [inventário das prévias](raw/inventario-mark-receitas.md#prévias-públicas-
 ## [2026-11-11] ingestão | Gelatina suína e sopas tradicionais da Romênia e do Peru
 
 O [catálogo da WAPF](wiki/temas/receitas-wapf-catalogo.md) registra *ciorbă*, *tobă* e o relato peruano sobre cabeça e pés bovinos. A [ficha de piftie](wiki/temas/receitas-gelatina.md#piftie-gelatina-salgada-romena-com-alho) propõe uma versão com caldo suíno já gelificado.
+
+## [2026-11-11] revisão | Fórmula infantil caseira e alfa-gal
+
+A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) inclui a orientação das autoridades junto à tabela da mistura com caldo. A [página de segurança](wiki/temas/seguranca-conservacao.md#alergia-à-alfa-gal) registra a orientação do CDC sobre caldos de mamíferos e gelatina bovina ou suína.

@@ -35,3 +35,7 @@ Trate o caldo de carne como alimento de baixa acidez para fins de conserva. Cald
 Para riscos químicos, veja [metais e variabilidade](composicao.md).
 
 Uma coorte de gestantes encontrou associação entre consumo relatado de sopa de ossos e alguns PFAS no plasma. Um relato clínico levantou a hipótese de hipervitaminose D após consumo elevado de sopa bovina. As duas fontes deixam em aberto a composição da sopa e a relação causal. [Desenhos e resultados](../fontes/huo-2023-pandita-2011-seguranca.md)
+
+## Alergia à alfa-gal
+
+O CDC inclui caldos de mamíferos e gelatina bovina ou suína entre os produtos que podem conter alfa-gal e provocar reações em parte das pessoas com a síndrome. A sensibilidade pode variar entre pessoas, produtos e exposições. Aves e peixes não contêm alfa-gal. Em preparações prontas, a lista de ingredientes ajuda a identificar a adição de gelatina, caldo ou gordura de mamíferos. [CDC, produtos que podem conter alfa-gal](https://www.cdc.gov/alpha-gal-syndrome/data-research/products-containing-alpha-gal/index.html)

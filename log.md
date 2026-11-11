@@ -319,3 +319,7 @@ A [página de gelatinas](wiki/temas/receitas-gelatina.md#panna-cotta-de-coco-e-c
 ## [2026-11-11] ingestão | Seolleongtang e sua composição
 
 A [receita coreana](wiki/temas/receitas-caldo.md#seolleongtang-sopa-coreana-de-ossos-bovinos) inclui a opção de servir sem arroz. A [ficha de fonte](wiki/fontes/coreia-seolleongtang.md) registra minerais e aminoácidos para o prato de restaurante e o dado de folato de outra preparação, com massa de referência ausente.
+
+## [2026-11-11] ingestão | Segunda coleção do Common Crawl e receitas antigas
+
+A [triagem de Mark’s Daily Apple](raw/inventario-mark-receitas.md#segunda-coleção-do-common-crawl-e-receitas-de-2008) chegou a 5.300 de 5.447 caminhos. A [página de receitas](wiki/temas/receitas-mark-sisson.md) acrescenta sopa de sobras, molho para wok e carne de panela.

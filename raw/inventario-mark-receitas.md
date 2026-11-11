@@ -524,6 +524,29 @@ A fila da Wayback retomou do checkpoint com **1.391 corpos válidos** e **161 en
 
 Na versão consultada de *Stay Healthy This Fall*, Sisson sugere congelar fundo de frango ou bovino feito com carcaças e sobras de assado. O texto oferece usos em sopas, ensopados e molhos, sem uma fórmula de caldo. [Coluna arquivada](https://web.archive.org/web/20231204073514id_/https://www.marksdailyapple.com/healthy-fall/)
 
+### Segunda coleção do Common Crawl e receitas de 2008
+
+O corte chegou a **5.300 de 5.447 caminhos**, **192 a mais** que em 5.108. Dos **147** sem corpo triado, **118** tinham indicação de captura e **29** permaneciam sem uma indicação nos índices consultados.
+
+| Fonte na segunda etapa | Corpos válidos | Caminhos adicionais na união, na ordem da tabela |
+| --- | ---: | ---: |
+| Wayback, fila ampla | 1.565 em 1.575 endereços | 1.565 |
+| Wayback, consultas complementares | 134 | 114 |
+| Arquivo.pt, consultas complementares | 2 | 1 |
+| Common Crawl, CC-MAIN-2023-50 | 214 em 217 endereços | 212 |
+| Common Crawl, CC-MAIN-2021-49 | 10 em 10 endereços neste corte | 10 |
+| Total deduplicado da segunda etapa | | 1.902 |
+
+A coleção **CC-MAIN-2021-49** indicou **972 caminhos HTML de um segmento** com resposta HTTP 200 no domínio. Cruzou **29 pendências** no momento da consulta, das quais sete ainda não tinham uma captura conhecida. A leitura dos arquivos WARC recuperou os corpos desses sete endereços, incluindo *Duck Eggs* e *Half-Baked*, além de *Orthorexia Nervosa*, *Control Gene Expression*, *Primal Lifestyle Good for Environment*, *Apollo Would Be Appalled* e *Sunscreen Causes Osteoporosis*. Os sete ficaram sem termos pertinentes à composição do caldo ou à repigmentação. [Índice e recuperação de registros WARC](https://commoncrawl.org/cdxj-index)
+
+| Publicação | O que foi verificado |
+| --- | --- |
+| [10 Quick and Easy Recipes in 15 Minutes or Less](https://web.archive.org/web/20231210200938id_/https://www.marksdailyapple.com/10-primal-meals-in-15-minutes-or-less/), equipe editorial, 2008-09-09 | A sopa de sobras usa **cinco xícaras de caldo ou fundo** com tomate, aromáticos, sobras de carne e legumes opcionais. O tipo de caldo fica em aberto. |
+| [How to Create the Perfect Stir Fry](https://web.archive.org/web/20230928013820id_/https://www.marksdailyapple.com/choose-your-own-stir-fry-adventure/), equipe editorial, 2008-08-21 | O guia oferece fundo de frango, bovino ou de peixe para o salteado. O exemplo usa **¼ de xícara de fundo de frango**, molho de soja e amido de milho opcional. |
+| [Budget Eating Recipes](https://web.archive.org/web/20231203131210id_/https://www.marksdailyapple.com/budget-eating-recipes/), equipe editorial, 2008-07-18 | A carne de panela de cocção lenta leva **uma lata de caldo bovino**, sem volume especificado. |
+| [10 Things You (Likely) Don’t Know About Your Immune System](https://web.archive.org/web/20231210103434id_/https://www.marksdailyapple.com/10-things-you-likely-dont-know-about-your-immune-system/), equipe editorial, 2008-08-19 | A coluna usa o estudo de sopa de frango e migração de neutrófilos em laboratório para sugerir um efeito sobre a inflamação do resfriado. A publicação não apresenta um teste em pessoas resfriadas. [Rennard et al.](https://pubmed.ncbi.nlm.nih.gov/11035691/) |
+| [Grocery Store Seafood: What to Eat and What to Avoid](https://web.archive.org/web/20230922192244id_/http://www.marksdailyapple.com/grocery-store-seafood-what-to-eat-and-what-to-avoid/), Mark Sisson, 2011-05-18 | A seção sobre caranguejo sugere guardar as carapaças para fazer fundo. A coluna não oferece proporções nem mede a composição do líquido. |
+
 ## Resultados do Arquivo.pt
 
 A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.

@@ -39,3 +39,5 @@ Os limites de tempo das primeiras filas foram retirados. A fila que os substitui
 - [Notas da Weston A. Price Foundation](../wiki/fontes/weston-price-caldo-gelatina.md)
 - [Inventário de URLs da triagem da WAPF](inventario-wapf-receitas.md)
 - [Comparação de alegações e evidência](../wiki/temas/relatos-e-evidencia.md)
+
+Foram lidos os nove cartões do [carrossel sobre unhas quebradiças](https://www.instagram.com/cozinhadepedra/p/CDHOUEslLBm/). Os cartões 2–5 trazem fotos e relato. Os cartões 6–8 reproduzem partes do [resumo de Hexsel et al.](https://pubmed.ncbi.nlm.nih.gov/28786550/).

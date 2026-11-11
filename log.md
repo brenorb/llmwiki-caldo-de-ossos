@@ -47,3 +47,7 @@ Entraram a [síntese da dietoterapia chinesa](wiki/temas/medicina-chinesa.md), u
 ## [2026-11-11] ingestão | Fontes históricas e recuperação de áudio
 
 A busca pelo site antigo de Mark’s Daily Apple recuperou textos anteriores ao Goodreads e registrou capturas candidatas. Foram conferidas fontes originais citadas pela WAPF sobre cárie e secreção gástrica. Duas lives do Cozinha de Pedra foram recuperadas por segmentos, com novas notas de composição de fundos e de uso culinário. [Cobertura e lacunas](raw/busca-receitas-relatos.md)
+
+## [2026-11-11] ingestão | Relato sobre unhas e estudo citado no Instagram
+
+A [comparação por desfecho](wiki/temas/relatos-e-evidencia.md) agora vincula as fotos e mensagens do carrossel sobre unhas ao estudo aberto com peptídeos específicos de colágeno citado nos próprios cartões.

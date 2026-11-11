@@ -29,7 +29,7 @@ A [busca de 2026-11-11](../raw/busca-composicao-terapeutica.md) preserva os reto
 
 ## Verificação das afirmações centrais
 
-A [busca de receitas e relatos](../raw/busca-receitas-relatos.md) descreve a cobertura do Instagram, de Mark’s Daily Apple e da Weston A. Price Foundation. A [comparação por desfecho](temas/relatos-e-evidencia.md) rastreia cada alegação ao relato ou estudo.
+A [busca de receitas e relatos](../raw/busca-receitas-relatos.md) descreve a cobertura do Instagram, de Mark’s Daily Apple e da Weston A. Price Foundation. A [comparação por desfecho](temas/relatos-e-evidencia.md) rastreia cada alegação ao relato ou estudo. Para unhas quebradiças, há um [carrossel com depoimento](fontes/cozinha-de-pedra-caldo.md) e um [ensaio aberto com peptídeos específicos](fontes/hexsel-2017-unhas.md).
 
 | Afirmação | Onde conferir |
 | --- | --- |

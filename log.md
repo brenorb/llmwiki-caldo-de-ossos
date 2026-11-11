@@ -347,3 +347,7 @@ A [ficha da sopa](wiki/temas/receitas-mark-sisson.md#sopa-de-peru-e-cúrcuma-do-
 ## [2026-11-11] ingestão | Comentários sobre unhas e gelificação
 
 A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-unhas-peso-e-escolha-de-ossos) registra 45 comentários ou respostas exibidos em quatro publicações. A [comparação por desfecho](wiki/temas/relatos-e-evidencia.md) incorpora o relato de unhas frágeis durante um período que incluiu caldo e suplementos.
+
+## [2026-11-11] ingestão | Ensaios controlados de suplementos e unhas
+
+A [comparação de estudos](wiki/fontes/colageno-unhas-ensaios.md) confronta o relato clínico aberto de Hexsel et al. com quatro ensaios com placebo. A dissertação da UNESP relata os desfechos de crescimento, espessura e dureza. O registro também localiza cinco artigos históricos sobre gelatina com acesso incompleto.

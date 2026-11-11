@@ -86,3 +86,13 @@ A coluna de adaptações é da wiki. A quantidade de carboidratos depende do ren
 | [No-Bake Cheesecake](https://www.westonaprice.org/no-bake-cheesecake/) | Gelatina culinária em cheesecake frio | Tâmaras na crosta; mel ou xarope no recheio | Sirva em taças sem crosta. Prefira a base de panna cotta ou uma fórmula com ovos pasteurizados e laticínios sem açúcar. |
 | [Vanilla Panna Cotta](https://www.westonaprice.org/vanilla-panna-cotta/) | Gelatina culinária em panna cotta de creme | Xarope de bordo, mel ou açúcar de seiva de coco; fruta ou geleia na cobertura | Use creme pasteurizado, adoçante e poucas frutas vermelhas. As gemas cruas são opcionais e podem ser omitidas. |
 | [Cranberry Kombucha Jello](https://www.westonaprice.org/cranberry-kombucha-jello/) | Gelatina culinária com kombucha e cranberries | Mel, fruta e açúcar residual na kombucha | Use chá de hibisco sem açúcar no lugar da kombucha ou confira o rótulo. Dispense o mel ou use adoçante. |
+
+## Receitas em artigos fora das duas categorias
+
+As três sopas abaixo aparecem juntas em *Soup-stenance*, artigo da WAPF publicado em 2012. [Seção Three Puréed Soups](https://www.westonaprice.org/health-topics/childrens-health/soup-stenance/)
+
+| Receita original | Base | Ingredientes que influenciam os carboidratos | Opção com menos carboidratos |
+| --- | --- | --- | --- |
+| Tomate com abóbora-manteiga | Fundo ou água, com creme e parmesão | Abóbora, cebola e tomate | Troque parte da abóbora por couve-flor e use creme pasteurizado. |
+| Pimentão vermelho e gengibre | Fundo de frango, com limão e iogurte na hora de servir | Batata, cenoura e cebola | Troque a batata por couve-flor. Use iogurte natural sem açúcar ou sirva sem cobertura. |
+| Brócolis cremoso com queijo | Fundo de frango, parmesão e cheddar | Batata-doce e cebola | Use couve-flor no lugar da batata-doce e bata parte dos brócolis para dar corpo. |

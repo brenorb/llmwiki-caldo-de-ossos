@@ -35,6 +35,8 @@ A transcrição integral de uma live adicional chegou a 88 blocos, com cerca de 
 
 Na conferência seguinte, **63 reels tinham transcrição completa** e três tinham trilha sem fala detectada. Dois arquivos marcados como falha de segmentação continham apenas vídeo na inspeção das trilhas. Um reel reproduziu na sessão autenticada, com duração de cerca de 1h08. O extrator retornou resposta vazia nos dois endereços oficiais testados e a exportação pelo navegador falhou. Outros 53 reels ainda não tinham resultado. [Reel reproduzido na sessão](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/)
 
+O lote seguinte elevou a cobertura para **70 reels com texto**, cinco processados sem fala detectada, dois arquivos sem áudio e um acesso sem exportação. Outros 44 ainda não tinham resultado. [Notas das lives e vídeos curtos](../wiki/fontes/cozinha-de-pedra-caldo.md)
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

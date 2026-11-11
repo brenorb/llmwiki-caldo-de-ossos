@@ -11,6 +11,8 @@ A [página de preparo](preparo.md) já reunia técnicas e referências para cald
 3. Coe e ajuste o sal apenas na parte que será usada como caldo salgado. Se quiser um fundo mais concentrado, reduza o líquido coado no fogão.
 4. Divida em recipientes rasos e refrigere prontamente. [Fonte e variantes](../fontes/mark-sisson-caldo-gelatina.md) · [Segurança e conservação](seguranca-conservacao.md)
 
+A versão demonstrada no Cozinha de Pedra usa cerca de **1 kg de partes de frango para 1 L de água**, combinando sobras assadas com pescoço ou pés quando disponíveis. É a proporção usada na panela da autora. Ajuste ao volume necessário para cobrir e à marca máxima do seu equipamento. [Live, 01:41–06:02](https://www.instagram.com/cozinhadepedra/reel/CGbKKlwJj9O/)
+
 ## Pés de frango para uma base que firma ao gelar
 
 **Use cerca de 900 g de pés limpos, próprios para consumo, e água suficiente para cobrir.** Para um caldo neutro, reserve louro, pimenta e sal para o prato final. Em uma versão salgada, adicione esses temperos à panela.

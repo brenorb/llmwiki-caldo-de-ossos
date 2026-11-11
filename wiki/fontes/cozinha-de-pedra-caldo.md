@@ -89,4 +89,6 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 
 - Numa live sobre o trabalho do perfil, a autora menciona cubos de caldo neutro congelado no lugar do gelo em gim-tônica. O trecho não fornece medidas. [Live, 46:43–48:00](https://www.instagram.com/cozinhadepedra/reel/CJZssQTp3Op/)
 
+- Em uma sessão de perguntas, Mandagará diz ter lido que caldo poderia alterar fios brancos e relata ainda não ter observado o efeito naquele momento. A conversa menciona mudança percebida no amarelado, questiona um possível papel da prolina e termina com pedido de fotos. A live não mede pigmento e não permite saber se o comentário sobre amarelado é independente da publicação já registrada. [Live, 51:36–54:29 e 56:22–58:01](https://www.instagram.com/cozinhadepedra/reel/CIjmXYFJO1o/) · [Evidência sobre canície](../temas/cabelos-brancos.md)
+
 A [página de receitas](../temas/receitas-gelatina.md) incorpora as versões que a legenda ou a entrevista permitiu reconstruir. A [comparação clínica](../temas/relatos-e-evidencia.md) resume relatos sem identificação de seguidoras. A [trilha de acesso](../../raw/busca-receitas-relatos.md) registra a grade de 395 itens e as lacunas de leitura das mídias.

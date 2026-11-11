@@ -29,6 +29,8 @@ Na nova conferência, o conjunto chegou a **45 transcrições automáticas compl
 
 Na conferência posterior, **49 de 122 reels** tinham transcrição completa, três estavam processados sem fala detectada e 70 ainda aguardavam resultado. Os novos trechos recuperados abrangem preparo, receitas e alegações sobre treino, articulações e ressaca. [Notas das lives](../wiki/fontes/cozinha-de-pedra-caldo.md)
 
+A conferência seguinte encontrou **55 reels com transcrição completa** e três processados sem fala detectada. Outros 64 continuavam em processamento ou aguardavam a vez. [Trechos registrados](../wiki/fontes/cozinha-de-pedra-caldo.md)
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

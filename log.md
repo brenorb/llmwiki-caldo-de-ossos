@@ -439,3 +439,7 @@ O [inventário](raw/inventario-wapf-receitas.md#caldo-de-paleta-suína-e-novo-co
 ## [2026-11-11] ingestão | Comentários sobre receitas e sintomas intestinais no Cozinha de Pedra
 
 A [leitura](raw/busca-receitas-relatos.md#comentários-sobre-receitas-gelificação-e-sintomas-intestinais) registrou 198 comentários e respostas em oito publicações. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-receitas-gelificação-e-sintomas-intestinais) relaciona conservação, gelificação e vinagre às fontes de segurança e composição. O relato digestivo entrou na [comparação por desfecho](wiki/temas/relatos-e-evidencia.md).
+
+## [2026-11-11] ingestão | Comparação comercial e rotina de colágeno em entrevistas de Mark Sisson
+
+O [registro de entrevistas](raw/mark-sisson-entrevistas.md) incorpora passagens das conversas com Chris Kresser, Jacqueline Genova e Gabby Reece. A fala de Sisson sobre uma barra de colágeno não informa a composição do caldo usado como referência. A observação de Kresser sobre metionina tem atribuição própria.

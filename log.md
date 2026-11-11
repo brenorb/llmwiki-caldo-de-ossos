@@ -163,3 +163,7 @@ O [inventário da WAPF](raw/inventario-wapf-receitas.md#ocr-das-páginas-sem-tex
 ## [2026-11-11] ingestão | Sopa de sobras e cappuccino com caldo neutro
 
 As [notas do Cozinha de Pedra](wiki/fontes/cozinha-de-pedra-caldo.md) registram os trechos localizados no lote de 35 transcrições. As fichas incluem [sopa com frango e ovo](wiki/temas/receitas-caldo.md#sopa-de-sobras-com-frango-e-ovo) e [cappuccino com caldo neutro](wiki/temas/receitas-gelatina.md#cappuccino-com-caldo-neutro).
+
+## [2026-11-11] ingestão | Live de saborização recuperada
+
+O [registro de acesso](raw/busca-receitas-relatos.md#áudio-dos-reels) incorpora a transcrição da faixa AAC de 1h07min41s. A [ficha de chocolate](wiki/temas/receitas-gelatina.md) ganhou as variações de picolé e cubos de café com leite.

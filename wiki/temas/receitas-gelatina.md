@@ -42,6 +42,8 @@ Misture **200 mL de caldo neutro** aquecido, **1 colher de sopa de cacau 100%**,
 
 Para uma textura aerada, bata a mistura depois de fria e firmada e volte à geladeira. Se quiser usar coco no lugar do creme, a autora sugere leite de coco em pó sem açúcar para limitar a diluição. Confira se o produto leva maltodextrina ou outro carboidrato adicionado. [Live do Cozinha de Pedra, 20:28–22:38](https://www.instagram.com/cozinhadepedra/reel/CKuaAZGJGw3/)
 
+A mesma base pode ser congelada em formas de picolé. Para outra variação, congele café com leite em cubos, use os cubos para resfriar o chocolate e leve a mistura à geladeira para firmar. A live não indica proporções. Leite e chocolate adoçado contribuem com carboidratos. [Live de saborização, 22:13–22:36 e 32:50–33:56](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/)
+
 ### Cappuccino com caldo neutro
 
 Mandagará faz uma mistura seca de **leite de coco em pó, cacau, café solúvel e eritritol**, com canela opcional. Para servir, dissolva a mistura em caldo neutro aquecido e ajuste ao gosto. A live não dá as proporções. Confira se o leite de coco em pó contém açúcar ou maltodextrina. [Live do Cozinha de Pedra, 12:00–12:43 e 13:35–14:42](https://www.instagram.com/cozinhadepedra/reel/CC7HbTcFQ73/)

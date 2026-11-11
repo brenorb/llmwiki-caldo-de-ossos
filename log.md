@@ -247,3 +247,7 @@ O [inventário](raw/inventario-mark-receitas.md#capturas-alternativas-no-common-
 ## [2026-11-11] ingestão | Podcasts da WAPF e tabelas de composição da Covance
 
 O [inventário](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventário-de-áudio) registra nove episódios completos e 641 trechos de páginas. As [tabelas de composição](wiki/temas/componentes-por-caldo.md#aminoácidos-relatados-por-schuette) trazem 17 aminoácidos de dois caldos de frango e nove resultados minerais de outro caldo, com as unidades e lacunas da fonte. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) acrescenta preparos localizados na rodada.
+
+## [2026-11-11] ingestão | Perguntas e respostas do Cozinha de Pedra
+
+A [trilha de acesso](raw/busca-receitas-relatos.md#destaques-do-cozinha-de-pedra) registra a conferência visual dos 248 cartões dos oito destaques. A [nota de P&R](wiki/fontes/cozinha-de-pedra-caldo.md#destaque-pr) relaciona as alegações aos cartões e à revisão de ácido hialurônico intra-articular. As [receitas](wiki/temas/receitas-caldo.md#mais-caminhos) incluem dois usos culinários da sequência.

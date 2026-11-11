@@ -371,3 +371,7 @@ A [comparação de estudos de unhas](wiki/fontes/colageno-unhas-ensaios.md) acre
 ## [2026-11-11] ingestão | Fim da fila ampla da Wayback e novos preparos do arquivo
 
 A [triagem de Mark’s Daily Apple](raw/inventario-mark-receitas.md#encerramento-da-fila-ampla-e-buscas-em-2018-e-2016) chegou a 5.418 de 5.447 caminhos. A [página de receitas](wiki/temas/receitas-mark-sisson.md) inclui o latte de Simon Cheng, o patê de Priscilla Chamessian e o caldo externo que o blog indicou em 2010.
+
+## [2026-11-11] revisão | Colostro, colágeno e caldo na coluna de Sisson
+
+A [nota de Sisson](wiki/fontes/mark-sisson-caldo-gelatina.md#publicações-atuais-sobre-colágeno) registra o que a coluna de outubro de 2026 afirma sobre o caldo e identifica as intervenções das referências citadas.

@@ -507,3 +507,7 @@ A leitura de mais 615 contextos encerrou a revisão dos 1.256 recortes secundár
 ## [2026-11-11] revisão | Prévias autorizadas dos livros de Mark Sisson
 
 O [inventário dos livros](raw/inventario-mark-receitas.md#prévias-públicas-dos-livros) reúne oito títulos, as edições consultadas, as receitas confirmadas e as páginas que continuam fora das prévias.
+
+## [2026-11-11] ingestão | Entrevistas com Andrew Hill e Lewis Howes
+
+O [inventário de entrevistas](raw/mark-sisson-entrevistas.md) localiza o relato de Sisson sobre tomar caldo em alguns dias e a comparação comercial de sua barra com uma xícara de caldo de composição não informada.

@@ -167,3 +167,7 @@ As [notas do Cozinha de Pedra](wiki/fontes/cozinha-de-pedra-caldo.md) registram 
 ## [2026-11-11] ingestão | Live de saborização recuperada
 
 O [registro de acesso](raw/busca-receitas-relatos.md#áudio-dos-reels) incorpora a transcrição da faixa AAC de 1h07min41s. A [ficha de chocolate](wiki/temas/receitas-gelatina.md) ganhou as variações de picolé e cubos de café com leite.
+
+## [2026-11-11] ingestão | Novo lote histórico do Mark’s Daily Apple
+
+A [triagem histórica](raw/inventario-mark-receitas.md#receitas-e-alegações-na-continuação-da-triagem) chegou a 4.114 textos de 5.447 caminhos. Entraram cinco fichas e outras sugestões culinárias. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) registra as alegações sobre cálcio, condroitina e gelatina e as exposições efetivamente estudadas.

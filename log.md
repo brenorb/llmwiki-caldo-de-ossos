@@ -103,3 +103,7 @@ As [fichas de receitas](wiki/temas/receitas-mark-sisson.md) incluem fundos de 20
 ## [2026-11-11] ingestão | Costela agridoce e cálcio no carrossel sobre vinagre
 
 A [nota de Hoh et al.](wiki/fontes/hoh-1934-costela-agridoce.md) e a [tabela de componentes](wiki/temas/componentes-por-caldo.md) registram as massas medidas no líquido e na carne, com a base da amostra.
+
+## [2026-11-11] ingestão | Mousses e recheios com caldo nas lives
+
+As [receitas de gelatina](wiki/temas/receitas-gelatina.md) ganharam variações de mousse e recheio de torta. A [comparação de relatos](wiki/temas/relatos-e-evidencia.md) registra uma menção indireta a fibromialgia e as mudanças de dieta concomitantes.

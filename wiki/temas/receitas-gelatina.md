@@ -22,6 +22,8 @@ Bata **160 mL de caldo neutro congelado em cubos**, **200 mL de água**, o suco 
 
 Uma variação da live usa caldo neutro frio com limão espremido e gengibre em pó a gosto. Cúrcuma e pimenta-do-reino mudam o sabor. Para uma bebida cremosa, bata com um pedaço de abacate. A conversa não fixa proporções. [Live do Cozinha de Pedra, 52:56–53:26](https://www.instagram.com/cozinhadepedra/reel/CQEtcBCp7JV/)
 
+Para uma mousse de limão, uma convidada sugere bater caldo neutro, suco de limão, creme de leite pasteurizado e eritritol, com baunilha opcional. Sirva gelado como bebida ou refrigere em taças. Para um recheio que mantenha o corte, ela acrescenta gelatina incolor. Comece pela proporção do rótulo, considerando que o caldo já dá corpo. Uma cobertura de frutas vermelhas sem açúcar adicionado reduz o açúcar em comparação com uma geleia comum. [Live do Cozinha de Pedra, 1:02:48–1:03:26 e 1:09:12–1:10:12](https://www.instagram.com/cozinhadepedra/reel/CKz54x8plal/)
+
 ### Cubos de caldo com camomila para bebida de maracujá
 
 Aqueça caldo neutro até ficar líquido e faça uma infusão de camomila conforme as instruções do chá. Retire o sachê, resfrie e congele em cubos. Bata alguns cubos com água e uma pequena porção de polpa de maracujá. A fruta entra na conta de carboidratos. Prefira polpa sem açúcar e, se quiser, adoce a gosto. A ideia da live não traz medidas. [Live do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/reel/CTLSgHipRt3/) · [Resfriamento e congelamento](seguranca-conservacao.md)
@@ -29,6 +31,8 @@ Aqueça caldo neutro até ficar líquido e faça uma infusão de camomila confor
 ### Cacau quente ou sobremesa de chocolate
 
 Misture **200 mL de caldo neutro** aquecido, **1 colher de sopa de cacau 100%**, **2–3 colheres de sopa de creme de leite** e adoçante a gosto. Para a versão de beber, sirva quente. Para a sobremesa, distribua em taças e refrigere. A receita original de chocolate quente inclui **20 g de chocolate 80%**, que pode conter açúcar. Deixe-o de fora ou use chocolate sem açúcar e confira o rótulo. No **Caputosso**, a Bibi adiciona café solúvel e canela. Mexer com batedor em panela ou caneca evita bater líquido quente em recipiente fechado. [Chocolate quente](https://www.instagram.com/cozinhadepedra/reel/CGMvjwQBV6i/) · [Caputosso](https://www.instagram.com/cozinhadepedra/reel/CRMMSkEFE_J/)
+
+Para uma textura aerada, bata a mistura depois de fria e firmada e volte à geladeira. Se quiser usar coco no lugar do creme, a autora sugere leite de coco em pó sem açúcar para limitar a diluição. Confira se o produto leva maltodextrina ou outro carboidrato adicionado. [Live do Cozinha de Pedra, 20:28–22:38](https://www.instagram.com/cozinhadepedra/reel/CKuaAZGJGw3/)
 
 ### Canjica cremosa de castanha de caju
 

@@ -8,6 +8,7 @@
 
 ### Cozinha
 
+- [Caldo na medicina chinesa, evidência e receita de costela com daikon](wiki/temas/medicina-chinesa.md)
 - [Receitas de caldo e gelatina de Mark’s Daily Apple](wiki/temas/receitas-mark-sisson.md)
 - [Catálogo de 73 itens das categorias culinárias da Weston A. Price Foundation](wiki/temas/receitas-wapf-catalogo.md)
 - [Receitas de caldo de frango, pés de frango, bovino e outras variações](wiki/temas/receitas-caldo.md)
@@ -38,6 +39,10 @@
 
 ## Notas de fonte
 
+- [Aljumaily (2011) e Oviawe et al. (2023) · Caldo e reparo ósseo em coelhos](wiki/fontes/caldo-cicatrizacao-ossea-coelhos.md)
+- [Chan et al. (2000) · Sopa cantonesa de gengibre e vinagre](wiki/fontes/chan-2000-sopa-pos-parto.md)
+- [Jiang et al. (1999) · Cálcio em caldos suínos com e sem vinagre](wiki/fontes/jiang-1999-calcio-caldo-suino.md)
+- [Medicina chinesa tradicional · Fontes sobre caldo de ossos](wiki/fontes/fontes-chinesas-caldo.md)
 - [Souza (2023) · Composição de quatro preparos bovinos com e sem vinagre](wiki/fontes/souza-caldo-bovino-tcc.md)
 - [Cozinha de Pedra · Receitas e relatos no Instagram e em entrevista](wiki/fontes/cozinha-de-pedra-caldo.md)
 - [Hexsel et al. (2017) · Peptídeos de colágeno e unhas frágeis](wiki/fontes/hexsel-2017-unhas.md)

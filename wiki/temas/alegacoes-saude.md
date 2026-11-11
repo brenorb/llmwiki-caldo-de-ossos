@@ -43,3 +43,5 @@ Definir espécie, proporção de água, processo, volume final e composição po
 A digestão disponibiliza aminoácidos e, em alguns casos, peptídeos detectáveis, como explica [Colágeno e gelatina](colageno-gelatina.md). Para aplicar um achado de suplemento a caldo, seria necessário demonstrar comparabilidade da dose, perfil de peptídeos e exposição biológica e testar o próprio desfecho.
 
 Para localizar as alegações de Cozinha de Pedra, Mark Sisson e da WAPF, consulte a [comparação de relatos e evidência](relatos-e-evidencia.md).
+
+A [página sobre medicina chinesa tradicional](medicina-chinesa.md) cruza recomendações para ossos e articulações com estudos de composição e evidência sobre fraturas e densidade óssea.

@@ -39,3 +39,7 @@ Um [TCC da UnB](wiki/fontes/souza-caldo-bovino-tcc.md) compara quatro preparos c
 ## [2026-11-11] ingestão | Catálogos culinários e legendas do Cozinha de Pedra
 
 A wiki ganhou [fichas de Mark’s Daily Apple](wiki/temas/receitas-mark-sisson.md) e um [catálogo de 73 itens da Weston A. Price Foundation](wiki/temas/receitas-wapf-catalogo.md). A revisão individual das 395 páginas do Instagram expandiu as legendas disponíveis. O [registro de acesso](raw/busca-receitas-relatos.md) identifica a cobertura parcial de áudio, carrosséis e destaques.
+
+## [2026-11-11] ingestão | Caldo de ossos na medicina chinesa tradicional
+
+Entraram a [síntese da dietoterapia chinesa](wiki/temas/medicina-chinesa.md), uma receita de costela com daikon e as notas sobre cálcio e ferro em sopas suínas. A página compara os usos tradicionais com as medições de composição e a evidência sobre fraturas, densidade óssea e repigmentação.

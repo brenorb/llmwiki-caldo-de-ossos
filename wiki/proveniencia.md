@@ -42,3 +42,5 @@ A [busca de receitas e relatos](../raw/busca-receitas-relatos.md) descreve a cob
 | Os estudos humanos sobre caldos específicos medem efeitos agudos ou usam intervenções com limitações causais. Estudos de suplementos não estabelecem efeitos equivalentes do caldo. | [Alegações de saúde](temas/alegacoes-saude.md). |
 | Resfriar em porções rasas e refrigerar logo. O limite de exposição doméstica é diferente da curva de resfriamento no centro monitorada em serviços. | [USDA](fontes/usda-sobras.md), [FDA](fontes/fda-resfriamento.md), [RDC 216](fontes/anvisa-rdc-216.md). |
 | A conservação na despensa exige processo validado para a preparação e equipamento próprio. | [NCHFP](fontes/nchfp-caldo.md), [CDC](fontes/cdc-conservas.md). |
+
+A [busca de dietoterapia chinesa](../raw/busca-medicina-chinesa.md) indica o alcance dos textos históricos, das fontes institucionais e das pesquisas clínicas consultadas.

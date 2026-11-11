@@ -44,3 +44,5 @@ A [página de preparo](preparo.md) já reunia técnicas e referências para cald
 | Sopa, molho, braseado ou cubos | Cozinhe legumes no caldo, reduza para molho, use como líquido de braseado ou congele pequenas porções. Em risotos e sopas com batata, milho, arroz ou massa, a guarnição pesa mais no teor de carboidratos que a base coada. | [Aplicações culinárias](aplicacoes-culinarias.md) |
 
 Os caldos coados sem açúcar, farinha ou amido adicionado são boas bases para refeições com poucos carboidratos. Parte dos açúcares dos aromáticos pode passar ao líquido. Para uma meta cetogênica, use os valores do caldo e dos ingredientes efetivamente servidos. As receitas desta página não foram analisadas em laboratório. [Variação por preparo](componentes-por-caldo.md)
+
+Para uma sopa de costela suína, gengibre e daikon e outras variações chinesas, veja [caldo de ossos na medicina chinesa tradicional](medicina-chinesa.md).

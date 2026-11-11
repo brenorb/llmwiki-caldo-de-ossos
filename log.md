@@ -379,3 +379,7 @@ A [nota de Sisson](wiki/fontes/mark-sisson-caldo-gelatina.md#publicações-atuai
 ## [2026-11-11] ingestão | Caderno de coco do concurso de Mark’s Daily Apple
 
 A [nota de fonte](wiki/fontes/mark-sisson-caderno-coco.md) reúne os usos de caldo identificados no caderno de leitores e indica as páginas, os autores das receitas e as substituições para reduzir carboidratos.
+
+## [2026-11-11] ingestão | Locro de galinha e novo corte da WAPF
+
+O [inventário de áudio](raw/inventario-wapf-receitas.md#locro-de-galinha-e-novo-corte-de-áudio) chega a 52 transcrições locais em inglês e 18 em espanhol. A [ficha do locro](wiki/temas/receitas-caldo.md#locro-de-galinha-de-santa-cruz) cruza a entrevista com o receituário boliviano e explicita a troca de batata e arroz.

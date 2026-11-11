@@ -62,6 +62,12 @@ Para seis porções, o receituário do Instituto Distrital de Turismo usa **1,25
 
 A batata fornece boa parte dos carboidratos da sopa. Para uma versão com menos carboidratos, use pedaços de chuchu no lugar da batata e cozinhe até amaciar. O *Recetario Santafereño* traz uma versão de panela comum, com costela cozida em água até ficar macia antes de juntar as batatas. [Recetario Santafereño, Caldo de costilla](https://idartesencasa.gov.co/sites/default/files/libros_pdf/88.%20Recetario%20Santafereno.pdf)
 
+## Locro de galinha de Santa Cruz
+
+O receituário de Adela Gutiérrez de Rivero usa **uma galinha caipira em pedaços, 20 xícaras de água, uma xícara de arroz e quatro batatas**. Doure as peças e refogue cebola, tomate e pimentão. Cozinhe a galinha e o refogado em água até a carne amaciar. Junte o arroz e as batatas em quartos. Quando estiverem macios, quebre os ovos no caldo e deixe cozinhar. O receituário usa um ovo por pessoa e tempera com sal, pimenta e cominho. [Ficha do receituário boliviano](https://www.soysantacruz.com.bo/SSCB_Contenidos.php?CualBasAux=sscb&CualForAux=general&CualOpcAux=13&CualSubOpcAux=RE-04_Locro-de-Gallina.&CualTabAux=cocinatipica)
+
+Para uma versão com menos amido, omita o arroz e troque a batata por chuchu ou couve-flor. Junte os legumes só na etapa final para manter a textura. A entrevista da WAPF descreve a versão de Santa Cruz como caldo de galinha com batata e arroz opcional, e o portal boliviano de turismo registra o arroz entre os acompanhamentos. [Entrevista, 00:09:12–00:09:30](https://www.westonaprice.org/el-valor-nutricional-unico-de-la-carne/) · [Portal boliviano de turismo](https://www.turismo.produccion.gob.bo/?page_id=9394)
+
 ## Sopa à moda italiana com linguiça e abobrinha
 
 A [receita publicada pelos autores do Senhor Tanquinho](https://www.senhortanquinho.com/sopas-caldos-low-carb/) rende oito porções. Doure **500 g de linguiça italiana** e **500 g de patinho ou músculo** numa panela grande. Junte **4 xícaras de caldo**, **500 g de abobrinha**, **5 tomates**, **1 pimentão verde**, **1 xícara de salsão** e **meia cebola**, picados. Cozinhe tampado em fervura branda até os legumes ficarem macios e a carne estar cozida. Finalize com ervas, sal e pimenta. A publicação sugere cerca de uma hora. Para reduzir o açúcar adicionado, confira o rótulo da linguiça. O teor por porção depende do caldo, da linguiça e dos legumes. [Anúncio da receita no Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/p/CAVe_btDb3Z/)

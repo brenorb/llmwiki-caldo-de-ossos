@@ -503,3 +503,7 @@ A [nota de Wu et al.](wiki/fontes/wu-2021-purinas-caldo-frango.md) registra os 1
 ## [2026-11-11] revisão | Recortes residuais do site da WAPF
 
 A leitura de mais 615 contextos encerrou a revisão dos 1.256 recortes secundários armazenados. O [inventário](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventário-de-áudio) preserva as lacunas do recorte. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) registra o teste de pel’meni e o preparo de fundo de carcaça de Shrader.
+
+## [2026-11-11] revisão | Prévias autorizadas dos livros de Mark Sisson
+
+O [inventário dos livros](raw/inventario-mark-receitas.md#prévias-públicas-dos-livros) reúne oito títulos, as edições consultadas, as receitas confirmadas e as páginas que continuam fora das prévias.

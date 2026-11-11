@@ -95,3 +95,7 @@ O [inventário da WAPF](raw/inventario-wapf-receitas.md) registra o texto das 6.
 ## [2026-11-11] ingestão | Inventário WordPress do Mark’s Daily Apple de 2023
 
 As seis partes do mapa preservado enumeram 5.447 publicações. O [inventário histórico](raw/inventario-mark-receitas.md#sitemap-wordpress-de-dezembro-de-2023) rastreia as 3.398 com corpo triado e os candidatos que ainda requerem acesso.
+
+## [2026-11-11] ingestão | Receitas recuperadas do Mark’s Daily Apple antigo
+
+As [fichas de receitas](wiki/temas/receitas-mark-sisson.md) incluem fundos de 2009 e 2010, preparos na pressão, sopas e três versões de caldo espumado. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) registra a autoria indicada e o relato de Sisson sobre caldo antes de dormir.

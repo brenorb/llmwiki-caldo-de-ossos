@@ -1,6 +1,6 @@
 # Weston A. Price Foundation · Caldos, gelatina e alegações
 
-A Weston A. Price Foundation publica receitas, textos de seus colaboradores, entrevistas e resenhas. A [categoria de gelatina](https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/gelatin/) e a [categoria de sopas, caldos e fundos](https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/soups/) servem para localizar receitas recentes. As fichas abaixo indicam o uso culinário e os pontos que mudam o perfil de carboidratos.
+A Weston A. Price Foundation publica receitas, textos de seus colaboradores, entrevistas e resenhas. O [catálogo culinário](../temas/receitas-wapf-catalogo.md) compara os 73 itens das categorias de gelatina e de sopas, caldos e fundos. As fichas abaixo destacam fontes usadas em outras páginas da wiki.
 
 | Fonte | Uso na wiki |
 | --- | --- |

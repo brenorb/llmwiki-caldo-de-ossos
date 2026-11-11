@@ -9,6 +9,7 @@
 ### Cozinha
 
 - [Receitas de caldo e gelatina de Mark’s Daily Apple](wiki/temas/receitas-mark-sisson.md)
+- [Catálogo de 73 itens das categorias culinárias da Weston A. Price Foundation](wiki/temas/receitas-wapf-catalogo.md)
 - [Receitas de caldo de frango, pés de frango, bovino e outras variações](wiki/temas/receitas-caldo.md)
 - [Gelatinas, mousses e adaptações com menos carboidratos](wiki/temas/receitas-gelatina.md)
 - [Ossos, articulações, carne, cartilagem, água, aromáticos e sal](wiki/temas/ingredientes.md)

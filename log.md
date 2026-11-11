@@ -179,3 +179,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md) registra a conferência visu
 ## [2026-11-11] ingestão | Ensaios de peptídeos e propriedades do fio
 
 A [nota dos ensaios](wiki/fontes/hwang-kim-2026-peptideos-cabelo.md) registra os suplementos, as medidas de diâmetro e brilho e o limite de acesso aos resultados detalhados. A [síntese sobre canície](wiki/temas/cabelos-brancos.md) identifica o que os resumos relatam sobre esses desfechos.
+
+## [2026-11-11] ingestão | Tutano cru e receitas em outros textos da WAPF
+
+A [revisão de 105 candidatos](raw/inventario-wapf-receitas.md) acrescentou preparos ao [catálogo](wiki/temas/receitas-wapf-catalogo.md). A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) registra o painel de tutano cru e suas unidades. A [tabela de componentes](wiki/temas/componentes-por-caldo.md) identifica a amostra analisada.

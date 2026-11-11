@@ -87,3 +87,7 @@ A [página de receitas](wiki/temas/receitas-caldo.md) incorpora a sopa com lingu
 ## [2026-11-11] ingestão | Compota, bebida de abacate e sopa de abóbora
 
 Duas lives acrescentaram [preparações com caldo neutro](wiki/temas/receitas-gelatina.md) e uma [sopa com ovo](wiki/temas/receitas-caldo.md). As medidas de teste e as adaptações de fruta e abóbora estão identificadas nas fichas.
+
+## [2026-11-11] ingestão | Triagem textual do mapa completo da WAPF
+
+O [inventário da WAPF](raw/inventario-wapf-receitas.md) registra o texto das 6.376 URLs do sitemap e as 1.089 correspondências temáticas. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) ganhou 14 entradas. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) rastreia a estimativa de glicina durante a gestação à hipótese de composição usada no cálculo.

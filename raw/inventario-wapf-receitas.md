@@ -166,7 +166,7 @@ Para localizar menções no corpo da página, foram feitas dez consultas complem
 | [Banana Cream Pie](https://www.westonaprice.org/banana-cream-pie-gf-df-options/) e [No-Bake Cheesecake](https://www.westonaprice.org/no-bake-cheesecake/) | Ingredientes e métodos. Na torta, a gelatina é alternativa à farinha no recheio, com açúcar e banana no original. No cheesecake, a gelatina firma o recheio, adoçado com mel ou xarope de bordo. |
 | [Choleric Dispositions](https://www.westonaprice.org/health-topics/modern-diseases/choleric-dispositions/) e [WAPF Chapter Leaders’ Health During Covid: A Survey](https://www.westonaprice.org/health-topics/survey-wapf-chapter-leaders-health-during-covid/) | No primeiro, o caldo integra várias mudanças dietéticas de um relato. No segundo, a menção está na biografia de uma autora. |
 
-O recorte inclui as páginas indexadas acima e os itens das duas categorias culinárias. O acesso por indexador à busca nativa do site falhou para *bone broth*, *gelatin* e *collagen*. A leitura integral das demais URLs do site, das edições completas da revista, das conversas restritas e de áudios ou vídeos sem transcrição continua em aberto.
+O recorte inicial inclui as páginas indexadas acima e os itens das duas categorias culinárias. O acesso por indexador à busca nativa do site falhou para *bone broth*, *gelatin* e *collagen*. A rodada de leitura direta e por feeds, abaixo, ampliou a cobertura do HTML público.
 
 A leitura complementar de [Soup-stenance](https://www.westonaprice.org/health-topics/childrens-health/soup-stenance/) rastreou as alegações de cárie e secreção gástrica aos [textos originais](../wiki/fontes/price-1939-caries-wald-1982-acidez.md). A tentativa de busca pelo endpoint REST e pelo feed do WordPress não retornou conteúdo no indexador.
 
@@ -199,3 +199,32 @@ A extração excluiu navegação, rodapé, barras laterais e blocos identificado
 - [Busca pública de exemplo](https://arquivo.pt/textsearch?q=%22bone%20broth%22&siteSearch=westonaprice.org)
 - [Cartas e afirmações verificadas](../wiki/fontes/weston-price-caldo-gelatina.md)
 - [Preparos localizados fora das categorias](../wiki/temas/receitas-wapf-catalogo.md)
+
+## Triagem do texto corrente de todas as URLs do sitemap
+
+Em 2026-11-11 foi extraído texto das **6.376 de 6.376 URLs distintas** nos 15 mapas subordinados do site. Os caminhos foram comparados sem a barra final, com decodificação dos caracteres percentuais. A triagem buscou termos no corpo textual disponibilizado pelo WordPress. As linhas da tabela atribuem cada caminho a uma via, mesmo quando mais de uma forneceu texto. Para páginas de navegação, o texto é o índice que o endereço exibe. [Mapa do site](https://www.westonaprice.org/sitemap_index.xml) · [Robots.txt](https://www.westonaprice.org/robots.txt)
+
+| Via de acesso ao corpo ou texto do índice | URLs do sitemap | URLs com ao menos uma correspondência |
+| --- | ---: | ---: |
+| REST, publicações | 3.242 | 424 |
+| REST, páginas | 244 | 36 |
+| RSS, artigos de saúde | 1.413 | 393 |
+| RSS, podcasts | 607 | 124 |
+| RSS, resenhas | 543 | 78 |
+| HTML direto, páginas e índices remanescentes | 327 | 34 |
+| **Total** | **6.376** | **1.089** |
+
+A REST API foi paginada em lotes de até 100 registros, em ordem crescente de ID. O campo consultado foi `content.rendered`. Houve 3.273 registros de publicações em 33 páginas de resultados e 257 registros de páginas em três. Os feeds foram paginados em lotes de até dez itens, consultando `content:encoded` até o primeiro HTTP 404 após o fim de cada feed. Forneceram 1.415 artigos de saúde, 609 podcasts e 545 resenhas com texto. A página 76 do feed de saúde continha um caractere de controle inválido em XML. Ele foi removido na análise local e a paginação prosseguiu. O HTML direto resolveu as lacunas do sitemap e incluiu 314 páginas de taxonomia. A extração também encontrou 36 caminhos públicos com texto fora do sitemap. [REST de publicações](https://www.westonaprice.org/wp-json/wp/v2/posts) · [REST de páginas](https://www.westonaprice.org/wp-json/wp/v2/pages) · [RSS de artigos de saúde](https://www.westonaprice.org/feed/?post_type=health-topics&paged=2) · [RSS de podcasts](https://www.westonaprice.org/feed/?post_type=podcasts&paged=2) · [RSS de resenhas](https://www.westonaprice.org/feed/?post_type=book-reviews&paged=2)
+
+A expressão abaixo foi aplicada ao texto extraído, sem distinção entre maiúsculas e minúsculas. As quebras de linha separam trechos concatenados da mesma expressão.
+
+~~~text
+\b(?:broths?|gelatin(?:e|ous|a)?|collagen|aspic|consomm[eé]s?|bouillon|
+bone\s+(?:stocks?|soups?)|marrow\s+(?:stocks?|soups?)|
+(?:chicken|beef|lamb|pork|fish|veal|turkey|duck|seafood|shellfish|homemade|soup)\s+(?:stocks?)|demi[\s-]*glace|
+caldos?\s+(?:de\s+)?(?:huesos?|ossos?|pollos?|frangos?|carnes?|pescados?|peixes?|gallinas?)|
+col[aá]gen[oa]|sopa\s+de\s+(?:huesos?|ossos?)|
+bouillon\s+d[\u2019\x27e]\s*os|Knochenbrühe|Knochenfond|bottenbouillon|gelatine|żelatyna|kollagen)\b
+~~~
+
+As 1.089 correspondências por URL incluem títulos repetidos em índices, usos incidentais e textos traduzidos ou republicados. A leitura manual foi pontual, com conferência dos ingredientes e do preparo nas receitas acrescentadas e das fontes citadas nas alegações registradas. O manifesto por URL fica no acervo local. A cobertura conta o texto publicado no endereço do mapa. Áudios ou vídeos sem transcrição, PDFs e outros anexos, páginas fora do mapa e conteúdo restrito não têm cobertura integral nesta triagem. [Catálogo culinário](../wiki/temas/receitas-wapf-catalogo.md) · [Nota sobre as alegações](../wiki/fontes/weston-price-caldo-gelatina.md)

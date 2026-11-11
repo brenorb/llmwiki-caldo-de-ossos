@@ -180,3 +180,13 @@ Para o molho, refogue cogumelos, cebola e alho na gordura de bacon. Junte **355 
 ## Mexilhões com caldo de tomate e alho
 
 Na receita de Lynn Koch publicada pela equipe editorial em 2010, refogue **4 dentes de alho** e **1 pimenta fresca** em **2 colheres de sopa de manteiga**. Junte **2 tomates grandes picados** e deixe soltarem o suco. Acrescente **60–120 mL de vinho branco seco** e deixe reduzir à metade. Junte **900 g de mexilhões limpos**, tampe e cozinhe por cerca de **3–5 min**, até abrirem. Finalize com manjericão e salsinha e sirva com o caldo que se forma na panela. Uma adaptação sem álcool adicionado é usar fundo de peixe no lugar do vinho. [Tomato Garlic Mussels](https://web.archive.org/web/20231208200346id_/https://www.marksdailyapple.com/tomato-garlic-mussels/)
+
+## Molho mole com caldo de frango
+
+A receita da equipe editorial de 2011 rende **cerca de 475 mL**. Retire os talos e as sementes de **6 pimentas ancho**, **2 pasilla** e **2 mulato**, todas secas. Passe as pimentas rapidamente em óleo ou banha, deixe de molho em água quente por **30 min** e bata com **180 mL da água do molho**. Cozinhe esse purê em fogo brando por **15 min**.
+
+Doure separadamente **2 dentes de alho**, **2 colheres de sopa de sementes de abóbora**, **¼ de xícara de gergelim**, **⅓ de xícara de amêndoas sem pele** e **3 colheres de sopa de passas ou mirtilos secos sem açúcar adicionado**. Bata com **3 tomatillos**, cravo, pimenta-do-reino, canela e **240 mL de caldo de frango**. Misture ao purê de pimentas e cozinhe mais **15 min**. Acrescente **⅓ de xícara de chocolate amargo picado** e os **475 mL restantes de caldo** e cozinhe por mais **20–25 min**. A fórmula oferece chocolate de 70–80% de cacau. Para diminuir o açúcar adicionado, use chocolate mais amargo e frutas secas sem açúcar adicionado. [Mexican Mole Sauce](https://web.archive.org/web/20230923181926id_/https://www.marksdailyapple.com/mexican-mole-sauce/)
+
+## Sopa de tupinambo
+
+Para uma sopa de **tupinambo**, também chamado alcachofra-de-jerusalém, a equipe editorial sugere refogar as fatias descascadas em manteiga, cozinhar em fundo até amaciar e bater. O creme de leite é opcional. A fonte deixa o tipo e o volume do fundo em aberto. [Roasted Jerusalem Artichokes with Chives, seção Sunchoke Soup](https://web.archive.org/web/20231205200626id_/https://www.marksdailyapple.com/roasted-jerusalem-artichokes-with-chives/)

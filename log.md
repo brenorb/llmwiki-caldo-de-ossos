@@ -199,3 +199,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md) registra a inspeção dos 78
 ## [2026-11-11] ingestão | Leitura de 252 trechos adicionais da WAPF
 
 A [busca residual](raw/inventario-wapf-receitas.md) registra a seleção e o conteúdo conferido. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) inclui preparos históricos e usos culinários do caldo, e a [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) identifica relatos sobre pele, cabelo, sintomas digestivos e esporte.
+
+## [2026-11-11] ingestão | Molho mole e busca complementar no Arquivo.pt
+
+A [triagem histórica](raw/inventario-mark-receitas.md#continuação-da-leitura-e-busca-dos-39-endereços) chegou a 4.347 de 5.447 textos. O Arquivo.pt verificou os 39 endereços sem captura indicada na Wayback Machine. As [fichas](wiki/temas/receitas-mark-sisson.md) incluem o molho mole com caldo de frango e a sopa de tupinambo.

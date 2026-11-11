@@ -239,3 +239,7 @@ O [inventário](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventár
 ## [2026-11-11] revisão | Segunda passagem nos trechos de áudio sem texto
 
 A [auditoria das transcrições](raw/busca-receitas-relatos.md#áudio-dos-reels) registra a fala recuperada em três gravações. A [nota de fonte](wiki/fontes/cozinha-de-pedra-caldo.md#trechos-recuperados-em-segunda-transcrição) aponta os trechos sobre café com caldo e aproveitamento de pés de frango.
+
+## [2026-11-11] ingestão | Frango hainanês e capturas do Common Crawl
+
+O [inventário](raw/inventario-mark-receitas.md#capturas-alternativas-no-common-crawl) registra a recuperação de 44 textos pelo Common Crawl e a triagem deduplicada de 4.691 de 5.447 caminhos. As [fichas](wiki/temas/receitas-mark-sisson.md) incluem o frango hainanês, com fundo no molho e na couve-flor, além de caldo de kombu e braseado de cordeiro.

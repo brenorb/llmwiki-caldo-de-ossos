@@ -458,6 +458,33 @@ Neste corte, a fila ampla acumulava **928 corpos válidos em 933 endereços tent
 
 Os outros cinco textos da rodada dirigida foram *Butter Chicken in a Silky Sauce*, *Slow-Cooked Cinnamon Pork Loin With Parsnips*, *The Best Chili in the World*, *Shrimp, Sausage and Summer Squash Casserole* e *How to Make the Ultimate Homemade Tomato Sauce*. Nenhum usa caldo ou gelatina na fórmula verificada. A triagem deste corte não localizou alegações inéditas sobre a composição do caldo ou repigmentação.
 
+### Frango hainanês e novas menções ao caldo
+
+A fila ampla chegou a **1.007 corpos válidos em 1.012 endereços tentados**. A cobertura deduplicada passou a **4.595 de 5.447 caminhos**, **76 a mais** desde o corte anterior. Dos **852** que ficaram sem corpo triado, **816** tinham indicação de captura.
+
+| Publicação | O que foi verificado |
+| --- | --- |
+| [Sesame Chicken and “Rice” with Fiery Ginger and Chile Sauce](https://web.archive.org/web/20230925071237id_/http://www.marksdailyapple.com/sesame-chicken-and-rice-with-fiery-ginger-and-chile-sauce/), Peter Yong, publicada pela equipe editorial, 2010-06-12 | A adaptação do frango hainanês forma um fundo com a ave inteira, alho, gengibre e cebolinha. Usa meia xícara do fundo no molho de pimenta e três xícaras no arroz de couve-flor. |
+| [A Visual Guide to Sea Vegetables](https://web.archive.org/web/20231208145646id_/https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/), Mark Sisson, 2010-07-08 | A seção *Kombu* sugere usar uma tira de cerca de 13 cm em água com sal e pimenta para um caldo vegetal. A publicação descreve o caldo como rico em minerais sem informar volume de água nem análise. |
+| [Hangover Cures](https://web.archive.org/web/20230922024252id_/http://www.marksdailyapple.com/hangover-cures/), Mark Sisson, 2010-08-02 | Sisson sugere caldo de ossos para a ressaca, atribuindo ao líquido eletrólitos e minerais. A coluna não apresenta dosagem, análise do caldo ou teste desse efeito. |
+| [Joint Mobility Reader Question Roundup](https://web.archive.org/web/20230925054807id_/http://www.marksdailyapple.com/joint-mobility-reader-question-roundup/), Mark Sisson, 2010-05-27 | Em resposta sobre capsulite adesiva, Sisson menciona caldo de ossos e tendões ao discutir suplementos de glucosamina, condroitina e MSM. A coluna não mede esses compostos no caldo, não demonstra equivalência de dose e não testa a intervenção. |
+| [Garlic Pulled Pork](https://web.archive.org/web/20230927051807id_/http://www.marksdailyapple.com/garlic-pulled-pork/), Pat Levine, publicada pela equipe editorial, 2010-03-20 | A abertura menciona que outras versões de carne desfiada usam caldo. A fórmula de Levine assa a paleta suína e usa o próprio líquido da assadeira no molho. |
+
+Os textos sobre coração bovino, fígado de frango, amamentação e fertilidade mencionam nutrientes como folato e cobre em outros contextos. Nenhum deles apresenta uma medição do teor de folato ou cobre em caldo de ossos, nem vincula caldo à repigmentação. [Coração bovino](https://web.archive.org/web/20231208190055id_/https://www.marksdailyapple.com/grilled-beef-heart-with-roasted-chili-peppers/) · [Fígado de frango](https://web.archive.org/web/20231120060551id_/https://www.marksdailyapple.com/cajun-blackened-chicken-livers-with-lemon-and-garlic/) · [Amamentação](https://web.archive.org/web/20230927072845id_/https://www.marksdailyapple.com/nursing-primal-blueprint-diet/) · [Fertilidade](https://web.archive.org/web/20230922004815id_/http://www.marksdailyapple.com/primal-nutrition-and-fertility/)
+
+### Capturas alternativas no Common Crawl
+
+O índice estático da coleção **CC-MAIN-2023-50** indicou **2.377 caminhos HTML de um segmento** com resposta HTTP 200 no domínio. A leitura usou faixas de bytes do índice e dos blocos compactados do domínio. Dos **830 caminhos sem corpo triado** no corte de **4.617**, **372** constavam nesse índice. Todos os 372 já tinham indicação de captura nas buscas anteriores. Nenhum dos 36 endereços ainda sem indicação de captura apareceu nessa coleção. [Índice CDXJ e faixas WARC do Common Crawl](https://commoncrawl.org/cdxj-index)
+
+Quatro consultas de teste por faixa de bytes nos arquivos WARC recuperaram o corpo editorial de *Apple-Stuffed Roasted Chicken*, *Curried Chicken Salad*, *Spicy Buffalo Chicken* e *The Differences Between Grass-Fed Beef and Grain-Fed Beef*. Os quatro corpos foram conferidos pela URL canônica e pelo texto. O uso de *stock up* no último texto se refere a comprar carne para estocar.
+
+O piloto seguinte recuperou **40 de 40 corpos** do fim da fila, por faixas de bytes em sequência. Com a fila ampla em **1.059 corpos válidos em 1.064 endereços** e as 44 leituras Common Crawl deduplicadas, a cobertura chegou a **4.691 de 5.447 caminhos**, com **756 sem corpo triado**. Os dois achados pertinentes do piloto estão em versões atualizadas em 2023. As datas abaixo identificam as versões consultadas.
+
+| Publicação | O que foi verificado |
+| --- | --- |
+| [Lamb 101 and How it Fits into Primal Eating](https://web.archive.org/web/20231205025330id_/http://www.marksdailyapple.com/lamb/), equipe editorial, atualização de 2023-10-19 | O guia descreve brasear a paleta com tampa e reduzir o líquido destampado para um molho gelatinoso. Sugere tratar o pescoço como rabo bovino, cozinhando-o em líquido para um caldo encorpado. O texto não quantifica a gelatina. |
+| [Herbal Tea Recipes](https://web.archive.org/web/20231202012514id_/https://www.marksdailyapple.com/herbal-tea/), equipe editorial, atualização de 2023-09-15 | A infusão de camomila e lavanda sugere peptídeos de colágeno sem sabor como ingrediente opcional. A coluna associa glicina ao ciclo de sono, sem testar a bebida. |
+
 ## Resultados do Arquivo.pt
 
 A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.

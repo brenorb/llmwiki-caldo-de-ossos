@@ -68,4 +68,4 @@ Foram conferidos os cartões sobre [glicina](https://www.instagram.com/cozinhade
 
 Foram percorridos nove carrosséis da faixa inicial da grade. Foram conferidos o [relato de artrite reumatoide](https://www.instagram.com/cozinhadepedra/p/DQCVqQBDXZ0/), a [série de oito relatos de dor](https://www.instagram.com/cozinhadepedra/p/CLZguPysV9G/) e os oito cartões do [carrossel estético](https://www.instagram.com/cozinhadepedra/p/CKaGLAaMB_L/), com retorno aos cartões 5 e 7. A [apresentação da aula](https://www.instagram.com/cozinhadepedra/p/CqqCTsNOpkk/) teve carregamento intermitente. Outros cartões nesse trecho eram anúncios, republicações de preparo ou material pessoal fora do tema.
 
-O inventário visual reúne os 78 carrosséis identificados. Nesta conferência, 19 tiveram leitura visual confirmada, seis tiveram leitura parcial e 53 estavam pendentes. A cobertura de vídeo dentro deles é registrada separadamente.
+O inventário visual reúne os 78 carrosséis identificados. Nesta conferência, 24 tiveram leitura visual confirmada, seis tiveram leitura parcial e 48 estavam pendentes. A cobertura de vídeo dentro deles é registrada separadamente.

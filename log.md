@@ -135,3 +135,7 @@ As [receitas salgadas](wiki/temas/receitas-caldo.md) registram a divergência en
 ## [2026-11-11] ingestão | Guia de compras de 2018 e receitas das edições digitais
 
 O [inventário da WAPF](raw/inventario-wapf-receitas.md) incorpora o guia de 2018 e registra a exigência de login no de 2019. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) ganhou dez fichas. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) identifica uma tabela de folato e cobre que se refere a uma mistura completa.
+
+## [2026-11-11] ingestão | Fontes citadas nos carrosséis de sono e tutano
+
+As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) localizam as fontes sobre adiponectina e o uso de caldo no esporte. A [nota de Bannai et al.](wiki/fontes/bannai-2012-glicina-restricao-sono.md) registra a amostra humana e o experimento separado sobre melatonina.

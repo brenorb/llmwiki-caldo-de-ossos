@@ -80,6 +80,14 @@ Na demonstração, Mandagará pesa **15 g da gordura separada do caldo**. Ao rec
 2. Ponha a massa numa frigideira pequena, tampe e leve ao fogo baixo. A autora estima **10–15 minutos** e vira o pão para dourar o outro lado. Cozinhe até firmar também no centro.
 3. Para bases finas de minipizza, a autora acrescenta mais água e relata obter cerca de quatro discos. Ela também cita parmesão e provolone como substitutos da muçarela. O pão pode acompanhar a [pasta fria de caldo, bacon e parmesão](receitas-gelatina.md#pasta-fria-de-caldo-bacon-e-parmesão). [Live do Cozinha de Pedra, 06:58–07:14, 15:28–18:44 e 29:14–29:28](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/)
 
+## Sopa de três cogumelos com caldo de frango
+
+Refogue **1 cebola grande** e **3 chalotas** em **3 colheres de sopa de manteiga** e **1 colher de sopa de azeite** até amaciar. Junte **450 g de cremini**, **225 g de shiitake** e **115 g de champignon**, fatiados, e refogue por cerca de **3 minutos**. Acrescente **2–3 dentes de alho**, tomilho, endro e páprica defumada. [Receita do capítulo de North Atlanta](https://chapters.westonaprice.org/northatlantaga/2025/08/mushroom-soup/)
+
+1. Na receita original, reduza **¼ de xícara de vinho branco seco** à metade. Acrescente **1½ colher de chá de tamari** e **4 xícaras de caldo de frango**. Ajuste sal e pimenta e cozinhe tampado em fogo brando por **15–20 minutos**.
+2. Desligue o fogo e bata parcialmente com mixer para engrossar, deixando pedaços de cogumelo. Finalize com salsinha e, se quiser, crème fraîche pasteurizado.
+3. O preparo dispensa farinha. Para uma versão sem álcool adicionado, use mais caldo no lugar do vinho. Cebola, chalota e cogumelos contribuem com carboidratos. Se evitar soja, dispense o tamari e ajuste o sal no fim.
+
 ## Bebidas salgadas batidas com caldo
 
 O capítulo de North Atlanta da Weston A. Price Foundation publicou duas fichas de bebidas cremosas feitas com caldo. As receitas usam o caldo morno. Bata com mixer em recipiente alto aberto ou use um liquidificador adequado a líquidos mornos. [Encontro de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/)

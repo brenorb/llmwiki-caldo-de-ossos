@@ -447,3 +447,7 @@ O [registro de entrevistas](raw/mark-sisson-entrevistas.md) incorpora passagens 
 ## [2026-11-11] ingestão | Bebidas salgadas com caldo do capítulo de North Atlanta
 
 As duas [fichas de bebidas](wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo) foram conferidas nas imagens originais. O [inventário](raw/inventario-wapf-receitas.md#publicações-dos-capítulos-locais) registra o alcance dessa consulta fora do sitemap principal.
+
+## [2026-11-11] ingestão | Triagem do capítulo de North Atlanta e sopa de cogumelos
+
+O [inventário](raw/inventario-wapf-receitas.md#publicações-dos-capítulos-locais) registra 53 posts e sete páginas de North Atlanta. As [receitas de caldo](wiki/temas/receitas-caldo.md#sopa-de-três-cogumelos-com-caldo-de-frango) incluem a sopa recuperada na triagem.

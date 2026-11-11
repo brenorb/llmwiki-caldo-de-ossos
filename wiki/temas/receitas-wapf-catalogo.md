@@ -65,6 +65,7 @@ A coluna de adaptações é da wiki. A quantidade de carboidratos depende do ren
 
 | Preparo | Uso do caldo | Ingredientes que contribuem com carboidratos | Variação |
 | --- | --- | --- | --- |
+| [Sopa de três cogumelos](https://chapters.westonaprice.org/northatlantaga/2025/08/mushroom-soup/) | Caldo de frango cozinha três tipos de cogumelos e aromáticos. A sopa é batida em parte para dar corpo. | Cebola, chalota e cogumelos. | Use caldo no lugar do vinho se preferir. [Ficha na wiki](receitas-caldo.md#sopa-de-três-cogumelos-com-caldo-de-frango) |
 | [Caldo batido com abacate](https://chapters.westonaprice.org/northatlantaga/2024/01/avocado-broth-latte/) | Cerca de 240 mL de caldo morno com meio abacate e suco de limão. | Abacate e limão. | Use o fundo de frango da demonstração ou caldo bovino sem açúcar adicionado. |
 | [Caldo batido com manjericão e cítricos](https://chapters.westonaprice.org/northatlantaga/2024/01/basil-citrus-broth-latte/) | Caldo morno com leite de coco, manjericão e dois tipos de limão. | Leite de coco e sucos de limão. | Use leite de coco sem açúcar. [Medidas e preparo das duas bebidas](receitas-caldo.md#bebidas-salgadas-batidas-com-caldo) |
 

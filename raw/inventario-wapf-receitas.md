@@ -286,11 +286,46 @@ A menção a análises em *Gentle Detox* levou ao artigo *Stock vs. Broth*, assi
 
 A segunda captura guardou **61 páginas do RSS WordPress e os corpos das 609 URLs únicas**. A busca no texto encontrou **404 linhas com termos em 124 URLs**. Havia 352 corpos com cabeçalho *Episode Transcript*. Outros 18 corpos acima de 12.000 caracteres apresentaram diálogo quando conferidos em pontos distribuídos. O cruzamento com a Libsyn associou **607 URLs WordPress** a itens de áudio. As duas exceções foram a página de apresentação e o episódio 214, que a WAPF declara retirado. O item Libsyn adicional repete título, duração e tamanho declarados do episódio 508, em outro endereço de mídia. Das 239 páginas com texto curto, 237 têm áudio correspondente. Os 16 episódios acima compõem o conjunto de páginas curtas com termos nas notas. [RSS WordPress](https://www.westonaprice.org/feed/?post_type=podcasts) · [RSS Libsyn](https://wisetraditions.libsyn.com/rss) · [Episódio 214](https://www.westonaprice.org/podcast/214-why-cant-i-sleep/) · [Episódio 508](https://www.westonaprice.org/podcast/the-mystical-mythical-and-marvelous-wise-traditions-of-ireland-with-stephen-kavanagh/)
 
+#### Lote seguinte em inglês
+
+O lote selecionou **13 episódios** com páginas curtas sem termo temático nas notas, priorizados pelo assunto do título. Foram conferidos **13 de 13 áudios**, com 7 h 09 min 30 s de mídia. A verificação confrontou a duração do arquivo com o início e o encerramento falado da transcrição automática.
+
+| Episódio | Duração do arquivo | Trecho pertinente |
+| --- | --- | --- |
+| [5 · key to good health](https://www.westonaprice.org/podcast/5-the-gut-key-to-good-health/) | 34 min 08 s | Discute permeabilidade intestinal. A triagem da transcrição não encontrou menção a caldo. |
+| [38 · Principle #4 - All traditional cultures cooked some food and ate some of their animal products raw](https://www.westonaprice.org/podcast/38-all-traditional-cultures-cooked-food-ate-animal-products-raw-principle-4/) | 27 min 50 s | Sem menção temática substantiva na transcrição. |
+| [44 · Principle #5 - Lacto-fermented foods](https://www.westonaprice.org/podcast/44-lacto-fermented-foods-principle-5/) | 29 min 02 s | Sem menção temática substantiva na transcrição. |
+| [63 · Heal your gut](https://www.westonaprice.org/podcast/63-heal-your-gut/) | 32 min 24 s | 00:14:30–00:15:19 e 00:25:12. Caldo e fundo entre alimentos do protocolo GAPS, sem teste isolado. |
+| [95 · Bonus episode: Vitamins, minerals & more (summer journal highlights)](https://www.westonaprice.org/podcast/95-bonus-episode-vitamins-minerals-summer-journal-highlights/) | 25 min 58 s | Sem menção temática substantiva na transcrição. |
+| [100 · From soup to nuts: Q&A w/ Sally Fallon Morell](https://www.westonaprice.org/podcast/100-soup-nuts-qa-w-sally-fallon-morell/) | 34 min 12 s | 00:09:14–00:09:26. Repete a recomendação de fundo curto no contexto GAPS, sem medição. |
+| [113 · It takes guts](https://www.westonaprice.org/podcast/113-it-takes-guts/) | 31 min 51 s | Sem menção temática substantiva na transcrição. |
+| [144 · A chicken revolution](https://www.westonaprice.org/podcast/144-a-chicken-revolution/) | 38 min 23 s | Sem menção temática substantiva na transcrição. |
+| [152 · Optimize your gut health](https://www.westonaprice.org/podcast/152-optimize-your-gut-health/) | 40 min 43 s | As correspondências foram anúncios de cápsulas de gelatina. O encerramento foi conferido também em um recorte do áudio. |
+| [213 · Yes to meat](https://www.westonaprice.org/podcast/213-yes-to-meat/) | 34 min 51 s | 00:06:19. Cita o caldo entre produtos de origem animal, sem fornecer receita ou medida. |
+| [243 · Maximize nutrient density](https://www.westonaprice.org/podcast/243-maximize-nutrient-density/) | 30 min 56 s | 00:06:08–00:08:26 e 00:26:06. Reedição da entrevista do episódio 30, sem medida de vitamina K no caldo. |
+| [257 · Every bite counts for baby](https://www.westonaprice.org/podcast/257-every-bite-counts-for-baby/) | 34 min 25 s | 00:12:03–00:12:21. Preparo com ossos bovinos em panela de pressão elétrica por cerca de 2 h. |
+| [268 · Reset your gut](https://www.westonaprice.org/podcast/268-reset-your-gut/) | 34 min 47 s | As correspondências foram anúncios de cápsulas de gelatina. |
+
+Dos **237 áudios** associados a páginas curtas, **207** ficam fora dos 17 áudios da primeira rodada e dos 13 desta seleção. O inventário local os identifica pelo GUID e totaliza cerca de 109 h 47 min de mídia declarada. Um lote retomável de **60** desses áudios começou a ser processado, com 33 h 24 min de mídia declarada e **5** verificados neste corte. Os outros **147** continuam na fila. As 370 páginas com transcrições ou diálogo longo mantêm cobertura textual. [RSS WordPress](https://www.westonaprice.org/feed/?post_type=podcasts) · [RSS Libsyn](https://wisetraditions.libsyn.com/rss)
+
 ### Série em espanhol
 
 A série *Tradiciones Sabias* tem RSS próprio. O feed público inventariado contém **189 itens**, com 189 identificadores, páginas e URLs de áudio distintos. São 177 episódios com número no título e 12 itens sem número no título. A extração leu todos os campos de descrição e conteúdo. **188 itens** tinham texto nesses campos. Um anúncio tinha áudio e nenhum texto extraído. O feed não declarou links de transcrição. A busca temática encontrou **17 linhas distintas em 14 itens**, todas conferidas. Onze linhas mencionavam caldo na apresentação da mesma convidada. Entre as demais, havia usos culinários, referências a tutano e tecido conjuntivo e um relato digestivo com várias mudanças alimentares. [Página da série](https://www.westonaprice.org/tradiciones-sabias-podcast/) · [RSS da produtora](https://rss.libsyn.com/shows/138584/destinations/863873.xml)
 
 O áudio do episódio 29, com Galia Kleiman, foi transcrito até a fala final. O arquivo tem **48 min 10 s**. Entre 00:17:33 e 00:20:35 a convidada fala dos ingredientes e do tempo de preparo. Entre 00:27:23 e 00:28:05, associa aminoácidos à parede intestinal sem apresentar análise de composição ou estudo humano com caldo. Entre 00:32:25 e 00:32:50 descreve preparo de peixe. As notas dos demais itens não substituem a transcrição de seus áudios. [Episódio 29](https://www.westonaprice.org/las-maravillas-del-caldo-de-huesos-para-la-buena-salud/)
+
+#### Lote seguinte em espanhol
+
+Depois do episódio 29, quatro áudios foram selecionados pelas menções das notas. Foram conferidos **4 de 4 áudios**, com 3 h 08 min 49 s de mídia.
+
+| Episódio | Duração do arquivo | Trecho pertinente |
+| --- | --- | --- |
+| [17 · La Alimentación Sencilla: Principios de la Dieta Sabia](https://sabiastradiciones.libsyn.com/17-la-alimentacin-sencilla-principios-de-la-dieta-sabia) | 49 min 52 s | 00:12:41–00:13:59 e 00:43:11–00:44:31. Distingue gordura e caldo ao falar de vitaminas e descreve arroz cozido no caldo. |
+| [60 · El Vinagre de Manzana, Un Fermento Multiuso con Galia Keiman](https://sabiastradiciones.libsyn.com/60-vinagre-de-cidra-de-manzana-un-fermento-multiusos) | 44 min 00 s | A menção ao caldo na nota vinha da apresentação da convidada. O áudio discute vinagre, sem teste de extração em caldo. |
+| [70 · Recuperar la Salud con una Dieta Ancestral con Verónica Belli](https://www.westonaprice.org/recuperar-la-salud-con-una-dieta-ancestral/) | 37 min 57 s | 00:00:29 e 00:28:35. Caldo, fígado e ácido fólico aparecem em um relato pessoal, sem dosagem do caldo. |
+| [113 · Beneficios Económicos, Ecológicos y Nutricionales de Consumir y Aprovechar el Animal de Rabo a Cabo con Galia Kleiman de La Cocina de Galia](https://www.westonaprice.org/beneficios-economicos-ecologicos-y-nutricionales-de-consumir-y-aprovechar-el-animal-de-rabo-a-cabo-con-galia-kleiman-de-la-cocina-de-galia/) | 57 min 00 s | 00:20:19–00:21:02, 00:43:12–00:44:13 e 00:50:30–00:51:26. Consomê de barbacoa, gelatina de pata e caldo de chambarete. |
+
+Fora deste lote e do episódio 29, o inventário identifica **184 áudios**, com cerca de 139 h 16 min declaradas no RSS. Um lote retomável de 30 desses áudios começou a ser processado, com 23 h 20 min 51 s declaradas e **1** verificado neste corte. Os outros 154 aguardam processamento. A fila local mantém o GUID de cada item, inclusive quando o título não tem número. [RSS da série](https://rss.libsyn.com/shows/138584/destinations/863873.xml)
 
 ## PDFs e edições digitais
 

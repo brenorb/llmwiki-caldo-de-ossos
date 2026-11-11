@@ -295,3 +295,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-cabelo-e-c
 ## [2026-11-11] revisão | Métodos e resultados do ensaio de Bhardwaj
 
 A [nota do ensaio](wiki/fontes/bhardwaj-2026-suplemento-serum.md) incorpora as seções recuperadas da revista, registra os quatro braços e distingue a escala de densidade da contagem bruta. O registro inclui o financiamento da fabricante e o folato entre os ingredientes do suplemento.
+
+## [2026-11-11] ingestão | Dezessete áudios adicionais da WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md#lote-seguinte-em-inglês) registra a revisão integral de 13 áudios em inglês e [quatro em espanhol](raw/inventario-wapf-receitas.md#lote-seguinte-em-espanhol). O [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md) acrescenta caldo bovino sob pressão, consomê de barbacoa, chambarete e gelatina de pata.

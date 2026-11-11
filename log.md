@@ -511,3 +511,7 @@ O [inventário dos livros](raw/inventario-mark-receitas.md#prévias-públicas-do
 ## [2026-11-11] ingestão | Entrevistas com Andrew Hill e Lewis Howes
 
 O [inventário de entrevistas](raw/mark-sisson-entrevistas.md) localiza o relato de Sisson sobre tomar caldo em alguns dias e a comparação comercial de sua barra com uma xícara de caldo de composição não informada.
+
+## [2026-11-11] ingestão | Entrevistas integrais de Sisson em três podcasts
+
+O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-school-of-greatness-the-dan-buettner-podcast-e-the-genius-life) registra a duração, os horários das passagens sobre caldo, colágeno e gelatina, e os episódios cuja mídia segue pendente.

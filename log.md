@@ -351,3 +351,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-unhas-peso
 ## [2026-11-11] ingestão | Ensaios controlados de suplementos e unhas
 
 A [comparação de estudos](wiki/fontes/colageno-unhas-ensaios.md) confronta o relato clínico aberto de Hexsel et al. com quatro ensaios com placebo. A dissertação da UNESP relata os desfechos de crescimento, espessura e dureza. O registro também localiza cinco artigos históricos sobre gelatina com acesso incompleto.
+
+## [2026-11-11] ingestão | Aproveitamento de peixe e relatos nos áudios da WAPF
+
+O [inventário de áudio](raw/inventario-wapf-receitas.md#progresso-dos-lotes-ampliados) registra 45 transcrições locais em inglês e 14 em espanhol no corte. O [catálogo de preparos](wiki/temas/receitas-wapf-catalogo.md) incorpora a passagem de Flavia López sobre aproveitamento do peixe.

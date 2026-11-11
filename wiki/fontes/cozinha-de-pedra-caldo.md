@@ -75,4 +75,6 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 
 - Em outra live de preparo, Mandagará descreve usar aproximadamente 1 kg de ossos por 1 kg de água na panela elétrica e ajustar a água quando há perda por evaporação. Considera vinagre opcional e diz que não conta com o caldo como fonte importante de cálcio. O teor depende da amostra e do método. A live retoma o aproveitamento do tutano em patê. [Live, 22:06–31:08 e 44:21–49:29](https://www.instagram.com/cozinhadepedra/reel/CP626fJplxC/) · [Medições por preparo](../temas/componentes-por-caldo.md)
 
+- Na live sobre ressaca, Mandagará sugere caldo após beber álcool e pede relatos de quem testar. A passagem não apresenta comparação clínica. Uma revisão de ensaios controlados de intervenções para ressaca não avaliou caldo de ossos. [Live, 1:04:41–1:05:25](https://www.instagram.com/cozinhadepedra/reel/CLX3O49JHkb/) · [Roberts et al.](https://pubmed.ncbi.nlm.nih.gov/34972259/)
+
 A [página de receitas](../temas/receitas-gelatina.md) incorpora as versões que a legenda ou a entrevista permitiu reconstruir. A [comparação clínica](../temas/relatos-e-evidencia.md) resume relatos sem identificação de seguidoras. A [trilha de acesso](../../raw/busca-receitas-relatos.md) registra a grade de 395 itens e as lacunas de leitura das mídias.

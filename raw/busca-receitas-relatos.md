@@ -27,6 +27,8 @@ No retrato seguinte, havia **40 reels com transcrição automática completa** e
 
 Na nova conferência, o conjunto chegou a **45 transcrições automáticas completas** e três reels processados sem fala detectada. As transcrições com preparos ou alegações pertinentes foram usadas para localizar trechos nas lives. [Notas do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md)
 
+Na conferência posterior, **49 de 122 reels** tinham transcrição completa, três estavam processados sem fala detectada e 70 ainda aguardavam resultado. Os novos trechos recuperados abrangem preparo, receitas e alegações sobre treino, articulações e ressaca. [Notas das lives](../wiki/fontes/cozinha-de-pedra-caldo.md)
+
 ## Destaques do Cozinha de Pedra
 
 | Destaque | Conteúdo verificado na interface |

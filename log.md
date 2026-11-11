@@ -395,3 +395,7 @@ A auditoria cruzou as 34 ocorrências de tempo esgotado com os arquivos consolid
 ## [2026-11-11] ingestão | Fundo curto, caldo longo e tutano batido na WAPF
 
 A leitura chegou a 55 áudios transcritos em inglês e 21 em espanhol. O [inventário](raw/inventario-wapf-receitas.md#fundos-de-carne-tutano-e-utensílios-no-áudio) registra o que falta e os trechos que sustentam as novas entradas do [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md). A menção a utensílios de cobre ficou localizada à parte da fala sobre o caldo.
+
+## [2026-11-11] ingestão | Peptídeos de colágeno, glicina e sono
+
+A [nota de Thomas et al.](wiki/fontes/thomas-2024-colageno-sono.md) registra os resultados primários, a menor contagem de despertares e o financiamento do estudo. A [matriz clínica](wiki/temas/alegacoes-saude.md) e a [comparação com os relatos](wiki/temas/relatos-e-evidencia.md) mantêm os resultados associados à intervenção testada.

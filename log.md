@@ -59,3 +59,7 @@ As [notas das transmissões](wiki/fontes/cozinha-de-pedra-caldo.md) incorporam o
 ## [2026-11-11] ingestão | Composição por xícara e caldo concentrado em lives
 
 A [tabela de componentes](wiki/temas/componentes-por-caldo.md) vincula a alegação de quatro compostos por xícara aos denominadores realmente medidos. As [aplicações culinárias](wiki/temas/aplicacoes-culinarias.md) incluem porções de gel de caldo reduzido para temperar pratos.
+
+## [2026-11-11] ingestão | Receitas na edição atual do Mark’s Daily Apple
+
+A [triagem do mapa atual](raw/busca-receitas-relatos.md) cobriu os 207 corpos de artigos listados. As [fichas de receitas](wiki/temas/receitas-mark-sisson.md) incluem sopas, carne desfiada, chili e formas de usar gelatina culinária, com adaptações para reduzir açúcar e amido.

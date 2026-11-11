@@ -81,3 +81,30 @@ A receita do blog de 2009 substitui o arroz por couve-flor triturada. Para seis 
 ## Vagens com redução de caldo
 
 Salteie vagens em manteiga, acrescente cerca de **120 mL de caldo de ossos** e deixe reduzir até o líquido cobrir as vagens. Sisson descreveu esse uso em uma coluna de 2011. As vagens contribuem com carboidratos conforme a porção. [Coluna arquivada](https://arquivo.pt/noFrame/replay/20160517184829id_/https://marksdailyapple.com/are-peas-and-green-beans-healthy)
+
+## Sopa de frango com gengibre e cúrcuma
+
+Para o fundo, cubra **1,6–1,8 kg de frango inteiro** com cerca de **3,3–3,8 L de água**. Junte **3 cenouras**, **3 talos de salsão**, **¼–½ cebola**, **3 pedaços de cúrcuma fresca**, **5–8 cm de gengibre**, **2 dentes de alho**, pimenta-do-reino em grãos e **1 colher de chá de sal**. Cozinhe tampado em fervura branda por **1 h**. Vire o frango e cozinhe mais **45–60 min**. Coe o caldo e desfie a carne.
+
+Refogue em **5 colheres de sopa de manteiga ou óleo de abacate** a cebola, o salsão e a cenoura ralados, na proporção de **½**, **1½** e **2 xícaras**, respectivamente. Junte **3 xícaras de abobrinha ralada** e **1½ xícara de batata-doce ralada**. Deixe amaciar, devolva o caldo e acrescente o frango desfiado e **1–2 pedaços de cúrcuma fresca ralada**. Cozinhe mais **5–10 min** em fogo brando. Finalize com coentro e limão. Para reduzir o amido, omita a batata-doce ou substitua por mais abobrinha. [Ginger Turmeric Chicken Soup Recipe, Mark’s Daily Apple](https://www.marksdailyapple.com/p/ginger-turmeric-chicken-soup-recipe)
+
+## Dois usos de caldo no cardápio semanal
+
+| Preparo | Método original | Adaptação |
+| --- | --- | --- |
+| Sopa de frango com shirataki, 4 porções | Aqueça **1,9 L de fundo de frango**. Junte a carne escura de **1 frango assado**, **200 g de shirataki lavado** e metade do lote de abobrinha e cebola assadas. O lote inteiro leva **4 abobrinhas médias e 1 cebola**. Aqueça tudo em fogo brando. | Use caldo sem açúcar adicionado e confira os ingredientes do shirataki. |
+| Carne bovina desfiada, base de 2 refeições de 4 porções | Doure **1,8 kg de acém** com **1 cebola**. Junte **710 mL de fundo bovino**, **6 dentes de alho**, **1 colher de sopa de vinagre de vinho tinto**, tomilho e louro. Cozinhe **50 min em alta pressão**, espere a liberação natural e desfie. | A carne serve tanto para o prato com aspargos quanto para as carnitas de frigideira. Para reduzir o açúcar adicionado do acompanhamento, troque o molho de mel e mostarda da salada por limão e azeite. |
+
+[90-Minute Low-Carb, Keto Meal Prep, seções de preparo da carne e da quinta refeição](https://www.marksdailyapple.com/p/keto-meal-prep)
+
+## Chili de carne bovina na pressão
+
+A publicação usa carne bovina magra, extrato de tomate, cebola, alho, pimentão, pimenta em pó, cominho e páprica defumada, com chipotle opcional. Cubra com caldo de ossos respeitando o limite da panela. Cozinhe sob pressão até a carne desmanchar. Abra a panela após despressurizar e reduza o líquido até engrossar. A fonte deixa as quantidades e o tempo em aberto e oferece feijão como opcional. Para uma versão com menos carboidratos, mantenha a base sem feijão e use extrato de tomate sem açúcar adicionado. Sirva após o preparo ou siga as orientações de resfriamento e armazenamento. [Easy Camping Meals You Can Prepare at Home, seção sobre chili na pressão](https://www.marksdailyapple.com/p/easy-camping-meals-you-can-prepare-at-home) · [Segurança e conservação](seguranca-conservacao.md)
+
+## Gelatina culinária em curry, molhos e infusões
+
+| Uso | Método e adaptação |
+| --- | --- |
+| Curry rápido com leite de coco | Aqueça especiarias e curry em pó no óleo de coco, junte o leite de coco e deixe reduzir. O texto mistura cerca de **2 colheres de sopa de gelatina em pó** para dar corpo, sem indicar o volume de leite de coco. Use leite de coco sem açúcar e ajuste a gelatina pelo volume e pela textura desejada, conforme o rótulo. [10 Reasons to Eat More Collagen](https://www.marksdailyapple.com/p/10-reasons-to-eat-more-collagen) |
+| Gelatina de chá ou café | A publicação sugere chá-verde, infusão de ervas ou café com adoçante sem açúcar. Use gelatina incolor em pó conforme a proporção para sobremesa firme indicada no rótulo. [Guia de peptídeos de colágeno](https://www.marksdailyapple.com/p/definitive-guide-to-collagen-peptides-protein) · [10 Ways to Optimize Your Meat Consumption](https://www.marksdailyapple.com/p/10-ways-to-optimize-your-meat-consumption) |
+| Sopas, ensopados e molhos de frigideira | Incorpore gelatina em pó hidratada ao líquido quente, em pequenas quantidades, para ajustar o corpo. A publicação sobre refeições de acampamento também sugere caldo em pó. Para espessar com ele, verifique a composição do produto, que varia entre marcas. [Easy Camping Meals You Can Prepare at Home, seção sobre gelatina e caldo em pó](https://www.marksdailyapple.com/p/easy-camping-meals-you-can-prepare-at-home) · [Guia de peptídeos de colágeno](https://www.marksdailyapple.com/p/definitive-guide-to-collagen-peptides-protein) · [Gelificação](colageno-gelatina.md) |

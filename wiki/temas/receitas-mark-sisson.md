@@ -1,6 +1,6 @@
 # Receitas de caldo e gelatina de Mark’s Daily Apple
 
-As fichas resumem receitas publicadas por Mark’s Daily Apple, as duas técnicas pessoais que Mark Sisson descreveu na coluna *Dear Mark* e receitas dos livros em coautoria da série Keto Reset. As medidas métricas foram arredondadas. Para comparar os tempos da pressão, conte o período de cocção programado e deixe tempo à parte para a panela atingir e liberar a pressão. [Nota de fonte e atribuições](../fontes/mark-sisson-caldo-gelatina.md)
+As fichas resumem receitas publicadas por Mark’s Daily Apple, as duas técnicas pessoais que Mark Sisson descreveu na coluna *Dear Mark* e receitas de livros em coautoria. As medidas métricas foram arredondadas. Para comparar os tempos da pressão, conte o período de cocção programado e deixe tempo à parte para a panela atingir e liberar a pressão. [Nota de fonte e atribuições](../fontes/mark-sisson-caldo-gelatina.md)
 
 ## Receitas do Keto Reset Instant Pot Cookbook
 
@@ -13,6 +13,12 @@ Em maio de 2018, Sisson publicou duas fichas do livro em sua coluna. A terceira 
 | Sobrecoxas com azeitonas e alcaparras | Tempere **6 sobrecoxas com osso** com óleo de abacate, cúrcuma, pimenta, páprica e mostarda em pó. Doure em ghee, retire o frango e solte o fundo da panela com parte dos **240 mL de caldo de frango**. Volte com a carne, junte o restante do caldo, limão, alho, **¾ de xícara de azeitonas** e **2 colheres de sopa de alcaparras**. Cozinhe **14 min sob pressão** e sirva com o líquido do cozimento. Rende **6 porções**. | A preparação usa limão e temperos, sem farinha ou açúcar acrescentado na fórmula. Para evitar laticínios, use óleo de abacate no lugar do ghee. [Ficha republicada pela Tasting Page](https://www.tastingpage.com/cooking/instant-pot-chicken-thighs-olives-and-capers) |
 
 A receita de phở sugere guardar os ossos e cartilagens da rabada para outro fundo. Resfrie prontamente o que for guardar. [Segurança e conservação](seguranca-conservacao.md)
+
+## Bife com ovos e caldo do Two Meals a Day Cookbook
+
+A prévia de Sisson e Brad Kearns mostra o uso de **30 mL de caldo de ossos** em **2 ovos**, servidos com **114 g de bife magro** e cebolinha. A lista inclui **1 colher de sopa de sebo bovino** e **1 colher de chá de sal marinho**. O caldo entra numa caneca própria para micro-ondas por **45 segundos**. A receita bate os ovos no caldo aquecido e volta com a caneca ao micro-ondas por **mais 45 segundos**, antes de servir com o bife fatiado. Os trechos públicos confirmam os ingredientes e a etapa dos ovos. O título original e o método completo do bife ficaram fora dos trechos consultados. [Busca no texto da prévia, localizadores PT364–365](https://books.google.com.br/books?id=FzJHEAAAQBAJ&jscmd=SearchWithinVolume2&q=broth)
+
+O tempo depende da potência do aparelho. Confira se os ovos ficaram firmes e, se necessário, cozinhe mais em intervalos curtos. O USDA usa **71,1 °C** como referência de temperatura interna para pratos com ovos. [USDA](https://ask.fsis.usda.gov/article/By-what-methods-can-you-cook-eggs-safely)
 
 ## Caldo de frango e quatro acabamentos do blog
 

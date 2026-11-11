@@ -491,3 +491,7 @@ O [registro de acesso](raw/busca-receitas-relatos.md#cobertura-dos-comentários-
 ## [2026-11-11] ingestão | Colágeno tipo II não desnaturado na artrose do joelho
 
 A [nota de Lugo et al.](wiki/fontes/lugo-2016-colageno-nativo-artrose.md) registra a dose total do produto, a quantidade da fração não desnaturada e o resultado na escala WOMAC. A [síntese](wiki/temas/relatos-e-evidencia.md) liga o resultado ao produto realmente testado.
+
+## [2026-11-11] ingestão | Bife com ovos e caldo no Two Meals a Day Cookbook
+
+A prévia licenciada de Sisson e Brad Kearns confirma 30 mL de caldo no preparo dos ovos. A [ficha na wiki](wiki/temas/receitas-mark-sisson.md#bife-com-ovos-e-caldo-do-two-meals-a-day-cookbook) registra o que apareceu nos trechos e identifica a etapa do bife como lacuna.

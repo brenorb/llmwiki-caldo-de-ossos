@@ -16,6 +16,7 @@ As páginas públicas apontam para as fontes externas. Cópias de trabalho e seu
 2. Arquive original permitido ou registro de acesso e abra uma nota em `wiki/fontes/`. Registre o objeto estudado, o desenho, comparador, tamanho amostral, unidade, achados, limites e páginas relacionadas. Identifique as tabelas ou seções relevantes. Fontes culinárias sustentam métodos, enquanto orientações sanitárias dependem de autoridades e protocolos aplicáveis.
 3. Atualize a síntese nas páginas existentes, preserve divergências explicadas e vincule cada afirmação verificável à nota. Use as classes da [proveniência](wiki/proveniencia.md). Ao cruzar estudos, separe líquidos prontos, concentrados e pós. Declare conversões e preserve unidades de origem.
 4. Atualize índice, proveniência e log. Use cabeçalhos de log no formato `## [AAAA-MM-DD] ingestão | assunto`. Execute `python3 scripts/verificar-links.py`.
+5. Transcreva a gravação inteira, independentemente da duração. Se o transcritor exigir trechos menores, divida a faixa em blocos e remonte a transcrição com os tempos da gravação original. Confira a cobertura até o último bloco e registre problemas de acesso à mídia ou trechos inaudíveis no inventário.
 
 ## Consulta
 

@@ -299,3 +299,7 @@ A [nota do ensaio](wiki/fontes/bhardwaj-2026-suplemento-serum.md) incorpora as s
 ## [2026-11-11] ingestão | Dezessete áudios adicionais da WAPF
 
 O [inventário](raw/inventario-wapf-receitas.md#lote-seguinte-em-inglês) registra a revisão integral de 13 áudios em inglês e [quatro em espanhol](raw/inventario-wapf-receitas.md#lote-seguinte-em-espanhol). O [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md) acrescenta caldo bovino sob pressão, consomê de barbacoa, chambarete e gelatina de pata.
+
+## [2026-11-11] revisão | Transcrição integral no fluxo da wiki
+
+O [guia de ingestão](AGENTS.md#ingestão) registra a transcrição até o último bloco, independentemente da duração da gravação. O [inventário do Cozinha de Pedra](raw/busca-receitas-relatos.md#áudio-dos-reels) documenta os totais e a conferência dos finais.

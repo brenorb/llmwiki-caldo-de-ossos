@@ -71,3 +71,7 @@ O [inventário](raw/inventario-wapf-receitas.md) registra a triagem de 240 captu
 ## [2026-11-11] ingestão | Carrosséis de joelho e perda de peso
 
 As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) identificam a metanálise de ácido hialurônico intra-articular citada nos cartões e registram as intervenções concomitantes no relato de peso.
+
+## [2026-11-11] ingestão | Relatos de fios escuros e ensaio citado sobre rugas
+
+A [página de cabelos brancos](wiki/temas/cabelos-brancos.md) registra o que foi mostrado na live e o vínculo com o caso já publicado. A [comparação por desfecho](wiki/temas/relatos-e-evidencia.md) identifica a formulação de peptídeos usada no estudo sobre rugas.

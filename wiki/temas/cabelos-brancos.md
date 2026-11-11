@@ -25,7 +25,7 @@ As quantidades se referem às amostras e porções indicadas. Dada a pequena qua
 
 Para avaliar um efeito do caldo seriam necessários lotes com teor medido de cobre e outros candidatos, comparação com controle, avaliação do estado nutricional inicial e medida de pigmentação na raiz ao longo do crescimento. A [matriz terapêutica](alegacoes-saude.md) reúne os outros desfechos estudados.
 
-O Cozinha de Pedra publicou relatos de crescimento de fios escuros e de escurecimento percebido de cílios. A [comparação de relatos e evidência](relatos-e-evidencia.md) registra essas observações e o que faltou medir para atribuí-las ao caldo.
+O Cozinha de Pedra publicou relatos de crescimento de fios escuros e de escurecimento percebido de cílios. Em uma live, a autora mostra o que descreve como fios escuros novos entre os brancos em uma pessoa que bebia caldo diariamente havia cerca de sete meses. Segundo a autora, o mesmo caso já aparecia em um post. A transmissão não permite identificar se folículos que produziam fios brancos retomaram a produção de pigmento. [Live, 30:15–31:55](https://www.instagram.com/cozinhadepedra/reel/CRAWg20JoVU/) · [Comparação de relatos e evidência](relatos-e-evidencia.md)
 
 A [medicina chinesa tradicional](medicina-chinesa.md) também tem uma correspondência entre o Rim e a aparência do cabelo. As fontes de dietoterapia consultadas não testam se caldo devolve pigmento aos fios.
 

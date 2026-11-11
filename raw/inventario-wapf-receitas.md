@@ -63,3 +63,105 @@ Lista de 61 endereços encontrados pela triagem no mapa do site. Inclui categori
 - [turkey-stock](https://www.westonaprice.org/turkey-stock/)
 - [vanilla-panna-cotta](https://www.westonaprice.org/vanilla-panna-cotta/)
 - [whipped-raspberry-panna-cotta](https://www.westonaprice.org/whipped-raspberry-panna-cotta/)
+
+## Categorias consultadas
+
+As páginas das categorias listavam 52 receitas de sopas, caldos e fundos e 21 de gelatina. Foram localizadas páginas indexadas para os 73 itens. A leitura disponível variou de trechos aos ingredientes e métodos. Parte dos itens se repete na triagem por URL acima.
+
+### Sopas, caldos e fundos
+
+- [Chicken and Vegetable Soup](https://www.westonaprice.org/chicken-and-vegetable-soup/)
+- [Mushroom Soup](https://www.westonaprice.org/mushroom-soup/)
+- [Cream of Mushroom Soup with Coconut Milk](https://www.westonaprice.org/cream-of-mushroom-soup-with-coconut-milk/)
+- [Lamb Stock](https://www.westonaprice.org/lamb-stock/)
+- [Spicy Southwest Chicken Soup](https://www.westonaprice.org/spicy-southwest-chicken-soup/)
+- [Beef Broth](https://www.westonaprice.org/beef-broth-2/)
+- [Beef Barley Soup](https://www.westonaprice.org/beef-barley-soup/)
+- [Onion Soup](https://www.westonaprice.org/onion-soup/)
+- [Roman Egg Soup – Stracciatella](https://www.westonaprice.org/roman-egg-soup-stracciatella/)
+- [French Onion Soup](https://www.westonaprice.org/french-onion-soup/)
+- [Sunny Tomato Soup](https://www.westonaprice.org/sunny-tomato-soup/)
+- [Fish Stock Variation](https://www.westonaprice.org/fish-stock-variation/)
+- [Rich and Savory Beef Bone Broth](https://www.westonaprice.org/rich-and-savory-beef-bone-broth/)
+- [Fish Stock](https://www.westonaprice.org/fish-stock/)
+- [Collagen Broth from Chicken Feet](https://www.westonaprice.org/collagen-broth-from-chicken-feet/)
+- [Tomato Soup Viento](https://www.westonaprice.org/tomato-soup-viento/)
+- [Roman Lentil Soup](https://www.westonaprice.org/roman-lentil-soup/)
+- [Thanksgiving Leftover Soup](https://www.westonaprice.org/thanksgiving-leftover-soup/)
+- [Beef Bone Broth](https://www.westonaprice.org/beef-broth/)
+- [Banff Buffalo Stew](https://www.westonaprice.org/banff-buffalo-stew/)
+- [Home-style Gazpacho](https://www.westonaprice.org/home-style-gazpacho/)
+- [Cream of Asparagus Soup with Spring Leeks](https://www.westonaprice.org/cream-of-asparagus-soup-with-spring-leeks/)
+- [Coconut Chicken Soup](https://www.westonaprice.org/coconut-chicken-soup/)
+- [Turkey Stock](https://www.westonaprice.org/turkey-stock/)
+- [Butternut Squash and Sun Dried Tomato Soup](https://www.westonaprice.org/butternut-squash-and-sun-dried-tomato-soup/)
+- [Potato Leek Soup — Vichyssoise](https://www.westonaprice.org/potato-leek-soup-vichyssoise/)
+- [Cream of Delicata Squash Soup](https://www.westonaprice.org/cream-of-delicata-squash-soup/)
+- [Spring Pea and Pesto Soup](https://www.westonaprice.org/spring-pea-and-pesto-soup/)
+- [Broth](https://www.westonaprice.org/broth/)
+- [Shrimp Shell Broth](https://www.westonaprice.org/shrimp-shell-broth/)
+- [Freestyle Split Pea and Pork Hock Stew](https://www.westonaprice.org/freestyle-split-pea-and-pork-hock-stew/)
+- [Seaweed Vegetable Soup](https://www.westonaprice.org/seaweed-vegetable-soup/)
+- [Pumpkin Bisque](https://www.westonaprice.org/pumpkin-bisque/)
+- [Chicken Stock](https://www.westonaprice.org/chicken-stock/)
+- [Thai Seafood Curry](https://www.westonaprice.org/thai-seafood-curry/)
+- [Southwest Chicken Soup](https://www.westonaprice.org/southwest-chicken-soup/)
+- [Soup](https://www.westonaprice.org/soup/)
+- [Cream of Mushroom Soup with Ramps](https://www.westonaprice.org/cream-of-mushroom-soup-with-ramps/)
+- [Potato Peel Stock/Potassium Broth](https://www.westonaprice.org/potato-peel-stock-potassium-broth/)
+- [Mild Lentil Dal](https://www.westonaprice.org/mild-lentil-dal/)
+- [Nourishing Tortilla Soup](https://www.westonaprice.org/nourishing-tortilla-soup/)
+- [Seasonal Bone Broth Soup](https://www.westonaprice.org/seasonal-bone-broth-soup/)
+- [Creamy Pumpkin Soup with Turmeric and Sage](https://www.westonaprice.org/creamy-pumpkin-soup-with-turmeric-and-sage/)
+- [Pumpkin/Squash Soup](https://www.westonaprice.org/pumpkin-squash-soup/)
+- [Simple, Succulent Squash Soup](https://www.westonaprice.org/simple-succulent-squash-soup/)
+- [Santa Claus Gazpacho](https://www.westonaprice.org/santa-claus-gazpacho/)
+- [Simple Tomato Soup](https://www.westonaprice.org/simple-tomato-soup/)
+- [Postpartum Recovery Soup](https://www.westonaprice.org/postpartum-recovery-soup/)
+- [Piggy and Chicken Feet Basic Bone Broth](https://www.westonaprice.org/piggy-chicken-feet-basic-bone-broth/)
+- [Cranberry Bean-Oxtail Soup](https://www.westonaprice.org/cranberry-bean-oxtail-soup/)
+- [Broccoli Brie Soup](https://www.westonaprice.org/broccoli-brie-soup/)
+- [Broth, Stew, and Sauce Recipes for Good Health](https://www.westonaprice.org/broth-stew-and-sauce-recipes-for-good-health/)
+
+### Gelatina
+
+- [Animal Based Pumpkin Pie](https://www.westonaprice.org/animal-based-pumpkin-pie/)
+- [Variations on High Protein Gummies](https://www.westonaprice.org/high-protein-gummies-2/)
+- [Raw Liver Honey Gummy](https://www.westonaprice.org/raw-liver-honey-gummy/)
+- [Clabbered Pumpkin Spice Gummies](https://www.westonaprice.org/clabbered-pumpkin-spice-gummies/)
+- [High Protein Gummies](https://www.westonaprice.org/high-protein-gummies/)
+- [Creamed Honey Gummies](https://www.westonaprice.org/creamed-honey-gummy/)
+- [Pemmican Crust Raw Panna Cotta](https://www.westonaprice.org/pemmican-crust-raw-panna-cotta/)
+- [Homemade Gummy Candies](https://www.westonaprice.org/homemade-gummy-candies/)
+- [Coconut Hibiscus Jello](https://www.westonaprice.org/coconut-hibiscus-jello/)
+- [Raw Cream Gummies](https://www.westonaprice.org/raw-cream-gummies/)
+- [Gelatin](https://www.westonaprice.org/gelatin/)
+- [Raspberry Gelatina](https://www.westonaprice.org/raspberry-gelatina/)
+- [Healthy Fudgesicles](https://www.westonaprice.org/healthy-fudgesicles/)
+- [Sugar Free Gelatin Jellybeans](https://www.westonaprice.org/sugar-free-gelatin-jellybeans/)
+- [Gelatin Gummies](https://www.westonaprice.org/gelatin-gummies/)
+- [Strawberry-Ashitaba Gelatin](https://www.westonaprice.org/strawberry-ashitaba-gelatin/)
+- [Whipped Raspberry Panna Cotta](https://www.westonaprice.org/whipped-raspberry-panna-cotta/)
+- [Homemade Marshmallows](https://www.westonaprice.org/homemade-marshmallows/)
+- [No-Bake Cheesecake](https://www.westonaprice.org/no-bake-cheesecake/)
+- [Vanilla Panna Cotta](https://www.westonaprice.org/vanilla-panna-cotta/)
+- [Cranberry Kombucha Jello](https://www.westonaprice.org/cranberry-kombucha-jello/)
+
+## Verificação dos endereços e busca por menções
+
+Em 2026-11-11, os 61 endereços da triagem foram abertos em lotes na versão indexada da web. Todos devolveram título e texto indexado. A inspeção da seção inicial confirmou um falso positivo para *stocks* no sentido de grupos populacionais. Artigos longos tiveram leitura por seções e termos, enquanto páginas de áudio e vídeo tiveram leitura de texto acompanhante. A categoria de artigos [Soup & Broth](https://www.westonaprice.org/health-topics-category/soup-and-broth/) exibia sete itens, dos quais cinco já apareciam no mapa temático. Os outros dois são [Hearty Beef Soup](https://www.westonaprice.org/health-topics/food-features/hearty-beef-soup/) e [Essential Recipes for the Wise Family](https://www.westonaprice.org/health-topics/food-features/essential-recipes-for-the-wise-family/). A [categoria de vídeos](https://www.westonaprice.org/category/video/broth-soups-stews-and-sauces/) exibia três itens, incluindo um vídeo geral de churrasco.
+
+Para localizar menções no corpo da página, foram feitas dez consultas complementares no domínio por combinações de *bone broth*, *gelatin* e *stock* com história, podcasts, GAPS, glutamato, minerais, chumbo, histamina, aspic e depoimentos. Seguiram-se 28 buscas por termos em páginas específicas, inclusive em itens já enumerados. Entre os materiais adicionais consultados estão os seguintes.
+
+| Material | Trecho ou tipo de acesso |
+| --- | --- |
+| [Décimo princípio](https://www.westonaprice.org/10-principle/) e [seu capítulo](https://www.westonaprice.org/wp-content/uploads/11Principles-chapter10.pdf) | Índice temático e texto em PDF. O índice também anuncia uma conversa para membros com Monica Corrado e DVDs à venda. Esses materiais requerem acesso adicional. |
+| [Don’t Throw Away the Bones!](https://www.westonaprice.org/podcast/dont-throw-away-bones/) e [Beautiful Broth](https://www.westonaprice.org/podcast/43-beautiful-broth/) | Apresentação e notas editoriais. |
+| [The “Tweakable” Wise Traditions Diet](https://www.westonaprice.org/podcast/the-tweakable-wise-traditions-diet-making-an-ancestral-diet-work-for-you-with-sally-fallon-morell/) e [Rediscover Bone Broth](https://www.westonaprice.org/podcast/rediscover-bone-broth/) | Trechos da transcrição sobre o décimo princípio e as alegações sobre colágeno e glicina. |
+| [FAQ de alimentos](https://www.westonaprice.org/health-topics/faq-miscellaneous-food-questions/) e [Leaky Gut, Autoimmunity And Chronic Disease](https://www.westonaprice.org/health-topics/leaky-gut-autoimmunity-and-chronic-disease/) | Seção de fundo curto versus caldo longo e exemplo de uso de caldo em um protocolo com vários alimentos. |
+| [Soup-stenance](https://www.westonaprice.org/health-topics/childrens-health/soup-stenance/) | Seções culinárias sobre fundo e sopa e referências históricas sobre gelatina. |
+| [Francis M. Pottenger, MD](https://www.westonaprice.org/health-topics/nutrition-greats/francis-m-pottenger-md/) | Perfil histórico com referência ao texto sobre gelatina e digestão. |
+| [Lab Report: Lead In Salt](https://www.westonaprice.org/health-topics/lab-report-lead-in-salt/) | Seção que cita Monro et al. sobre caldo. As novas medições da página dizem respeito a sal. |
+| [Hidden in Plain Sight: Histamine Problems](https://www.westonaprice.org/health-topics/modern-diseases/hidden-in-plain-sight-histamine-problems/) | As menções de caldo localizadas nesta busca estavam na discussão de leitores. |
+
+O recorte inclui as páginas indexadas acima e os itens das duas categorias culinárias. A leitura integral das demais URLs do site, das edições completas da revista, das conversas restritas e de áudios ou vídeos sem transcrição continua em aberto.

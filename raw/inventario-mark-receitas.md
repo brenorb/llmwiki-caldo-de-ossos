@@ -304,139 +304,139 @@ O autor confirma que começou a publicar em 2006, que o site antigo saiu do ar e
 
 ## Resultados do Arquivo.pt
 
-A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. A presença na lista registra a descoberta da captura. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) identifica os textos efetivamente lidos.
+A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.
 
-- [Top 10 Foods I Couldn't Live Without](https://arquivo.pt/noFrame/replay/20160517182304/https://marksdailyapple.com/10-foods-i-couldnt-live-without)
-- [10 Innovative Uses for Salt](https://arquivo.pt/noFrame/replay/20160517183910/https://marksdailyapple.com/10-innovative-uses-for-salt)
-- [12 Signs You Need to Eat More Protein](https://arquivo.pt/noFrame/replay/20191010142142/https://marksdailyapple.com/12-signs-you-need-to-eat-more-protein)
-- [14 Weird Plant Bits and Where to Find Them: Foraging Ethnic Markets](https://arquivo.pt/noFrame/replay/20210914035645/https://marksdailyapple.com/14-weird-plant-bits-and-where-to-find-them-foraging-ethnic-markets)
-- [20 Ways to Cultivate Intermittent Euphoria in Your Life](https://arquivo.pt/noFrame/replay/20160522225442/https://marksdailyapple.com/20-ways-to-cultivate-intermittent-euphoria-in-your-life)
-- [Five Common Nutrient Deficiencies](https://arquivo.pt/noFrame/replay/20200805010529/https://marksdailyapple.com/5-common-nutrient-deficiencies-and-what-to-do-about-them)
-- [5 Primal Superfoods for Fertility and Pregnancy](https://arquivo.pt/noFrame/replay/20160522224124/https://marksdailyapple.com/5-primal-superfoods-for-fertility-and-pregnancy)
-- [5 Sweet and Savory Primal Shakes](https://arquivo.pt/noFrame/replay/20160517174410/https://marksdailyapple.com/5-sweet-savory-primal-shakes)
-- [7 Foods You Don't Have to Buy Organic](https://arquivo.pt/noFrame/replay/20191010141641/https://marksdailyapple.com/7-foods-you-dont-need-to-buy-organic)
-- [7 Things You Had No Idea Gut Bacteria Could Do](https://arquivo.pt/noFrame/replay/20210630011549/https://marksdailyapple.com/7-things-you-had-no-idea-gut-bacteria-could-do)
-- [A Primal Comeback](https://arquivo.pt/noFrame/replay/20160522231949/https://marksdailyapple.com/a-primal-comeback)
-- [Is Alcohol Good or Bad For Health?](https://arquivo.pt/noFrame/replay/20231217070543/https://marksdailyapple.com/alcohol-the-good-and-the-bad)
-- [An Open Letter to Taco Bell](https://arquivo.pt/noFrame/replay/20160517184503/https://marksdailyapple.com/an-open-letter-to-taco-bell)
-- [Announcement: New Year’s Resolution Contest](https://arquivo.pt/noFrame/replay/20160517184257/https://marksdailyapple.com/announcement-new-years-resolution-contest)
-- [Are Cell Phones Bad for Male Fertility?](https://arquivo.pt/noFrame/replay/20160517173226/https://marksdailyapple.com/are-cell-phones-bad-for-male-fertility)
-- [Are Peas and Green Beans Healthy?](https://arquivo.pt/noFrame/replay/20160517184829/https://marksdailyapple.com/are-peas-and-green-beans-healthy)
-- [Balsamic-Glazed Drumsticks](https://arquivo.pt/noFrame/replay/20160525040101/https://marksdailyapple.com/balsamic-glazed-drumsticks)
-- [Because We’d Miss the Puppies & Flowers & Fields](https://arquivo.pt/noFrame/replay/20160522222820/https://marksdailyapple.com/because-wed-miss-the-puppies-flowers-fields)
-- [Just How Long Did Grok Live, Really?](https://arquivo.pt/noFrame/replay/20160522223943/https://marksdailyapple.com/bone-dating-life-span)
-- [Bone Marrow: Delicious, Nutritious and Underappreciated](https://arquivo.pt/noFrame/replay/20190320173333/https://marksdailyapple.com/bone-marrow-recipe)
-- [The Biggest Myth About Cancer: That It Just “Happens”](https://arquivo.pt/noFrame/replay/20160525040038/https://marksdailyapple.com/cancer-myths-and-facts)
-- [Contest: Grokpose for Bacon](https://arquivo.pt/noFrame/replay/20160522223713/https://marksdailyapple.com/contest-grokpose-for-bacon)
-- [Contest: What’s Your 20?](https://arquivo.pt/noFrame/replay/20160522223659/https://marksdailyapple.com/contest-whats-your-20)
-- [Cooking with Bones](https://arquivo.pt/noFrame/replay/20160517171629/https://marksdailyapple.com/cooking-with-bones)
-- [Creamy Turmeric Tea](https://arquivo.pt/noFrame/replay/20160517174549/https://marksdailyapple.com/creamy-turmeric-tea)
-- [The Health Benefits of Cumin](https://arquivo.pt/noFrame/replay/20160517173645/https://marksdailyapple.com/cumin)
-- [Dear Mark: Canola Oil](https://arquivo.pt/noFrame/replay/20160522224629/https://marksdailyapple.com/dear-mark-canola-oil)
-- [Dear Mark: Dehydrated Vegetables, Cooked Versus Raw, and Premature Graying and Copper](https://arquivo.pt/noFrame/replay/20160522231755/https://marksdailyapple.com/dear-mark-dehydrated-vegetables-cooked-versus-raw-and-premature-graying-and-copper)
-- [Dear Mark: Kosher, Weak Nails, Tea Seed Oil, and Greasing the Groove](https://arquivo.pt/noFrame/replay/20160517173714/https://marksdailyapple.com/dear-mark-kosher-weak-nails-tea-seed-oil-and-greasing-the-groove)
-- [How to Eat According to the Primal Blueprint](https://arquivo.pt/noFrame/replay/20190320173344/https://marksdailyapple.com/definitive-guide-to-the-primal-eating-plan)
-- [The Definitive Guide to Insulin, Blood Sugar & Type 2 Diabetes (and you’ll understand it)](https://arquivo.pt/noFrame/replay/20160522222741/https://marksdailyapple.com/diabetes)
-- [Dial in Your Carb Count](https://arquivo.pt/noFrame/replay/20160522230842/https://marksdailyapple.com/dial-in-your-carb-count)
-- [Diet & Nutrition](https://arquivo.pt/noFrame/replay/20200415053529/https://marksdailyapple.com/diet-nutrition)
-- [Does Coffee Break a Fast?](https://arquivo.pt/noFrame/replay/20220126161432/https://marksdailyapple.com/does-coffee-break-a-fast)
-- [Does Gluten Have Any Effect on Non-Celiacs?](https://arquivo.pt/noFrame/replay/20191010141456/https://marksdailyapple.com/does-gluten-have-any-effect-on-non-celiacs)
-- [Now You Can Drink Your Grains](https://arquivo.pt/noFrame/replay/20160522222837/https://marksdailyapple.com/drink-your-grains)
-- [Eat This Today, Feel Better Tomorrow: Installment III](https://arquivo.pt/noFrame/replay/20160517184055/https://marksdailyapple.com/eat-feel-better-3)
-- [Are You Eating Too Little Food on a Primal/Paleo Diet?](https://arquivo.pt/noFrame/replay/20191010141909/https://marksdailyapple.com/eating-too-little-food-paleo-primal)
-- [This Comeback Kid Is Much Prettier than Travolta](https://arquivo.pt/noFrame/replay/20160522225543/https://marksdailyapple.com/echinacea)
-- [What I Mean by “Reprogram Your Genes”](https://arquivo.pt/noFrame/replay/20160517180350/https://marksdailyapple.com/epigenetics)
-- [Facing the Primal Blueprint Fitness Challenges](https://arquivo.pt/noFrame/replay/20160522231138/https://marksdailyapple.com/facing-the-primal-blueprint-fitness-challenges)
-- [Healthy Farmed Fish and Seafood](https://arquivo.pt/noFrame/replay/20160522224424/https://marksdailyapple.com/farmed-seafood-safe-nutritious)
-- [How Fasting Aids Weight Loss](https://arquivo.pt/noFrame/replay/20160517185648/https://marksdailyapple.com/fasting-weight-loss)
-- [Fish Allergies: Safe Sources of Omega 3s](https://arquivo.pt/noFrame/replay/20160517171641/https://marksdailyapple.com/fish-allergies-omega-3)
-- [Fish Oil Health Benefits](https://arquivo.pt/noFrame/replay/20191007060949/https://marksdailyapple.com/fish-oil-health-benefits)
-- [Is Fish Oil Linked to Prostate Cancer?](https://arquivo.pt/noFrame/replay/20160517175113/https://marksdailyapple.com/fish-oil-prostate-cancer)
-- [Flat Feet Treatment - How to Strengthen Flat Feet](https://arquivo.pt/noFrame/replay/20160517174824/https://marksdailyapple.com/flat-feet-treatment)
-- [What Are FODMAPs? - A Beginner's Guide](https://arquivo.pt/noFrame/replay/20210630011554/https://marksdailyapple.com/fodmaps)
-- [Pros and Cons of Different Forms of Magnesium](https://arquivo.pt/noFrame/replay/20211011081843/https://marksdailyapple.com/forms-of-magnesium)
-- [From Athlete to Overweight to Primal](https://arquivo.pt/noFrame/replay/20160517184650/https://marksdailyapple.com/from-athlete-to-overweight-to-primal)
-- [From Athlete to Overweight to Primal](https://arquivo.pt/noFrame/replay/20160517174613/https://marksdailyapple.com/from-athlete-to-overweight-to-primal-2)
-- [Is Gluten-Free a Fad Diet?](https://arquivo.pt/noFrame/replay/20191010141532/https://marksdailyapple.com/gluten-free-fad)
-- [The Health Benefits of Herbs](https://arquivo.pt/noFrame/replay/20160517185149/https://marksdailyapple.com/health-benefits-herbs)
-- [A Beginner’s Guide: How to Culture Vegetables](https://arquivo.pt/noFrame/replay/20160522233231/https://marksdailyapple.com/how-to-culture-vegetables)
-- [How to Freeze Fruits and Vegetables](https://arquivo.pt/noFrame/replay/20191010134827/https://marksdailyapple.com/how-to-freeze-fruits-vegetables)
-- [How to Take Care of Your Teeth (Hint: There's More to It Than Brushing)](https://arquivo.pt/noFrame/replay/20191007060818/https://marksdailyapple.com/how-to-take-care-of-your-teeth)
-- [I Have a New Lease on Life](https://arquivo.pt/noFrame/replay/20160522225455/https://marksdailyapple.com/i-have-a-new-lease-on-life-2)
-- [Mystery Meat: Imitation Crab](https://arquivo.pt/noFrame/replay/20160517174001/https://marksdailyapple.com/imitation-crab)
-- [Introducing The South Asian Health Solution](https://arquivo.pt/noFrame/replay/20160522233427/https://marksdailyapple.com/introducing-the-south-asian-health-solution)
-- [Is Circumcision Safe?](https://arquivo.pt/noFrame/replay/20160517174351/https://marksdailyapple.com/is-circumcision-safe)
-- [Are These 10 Foods Primal?](https://arquivo.pt/noFrame/replay/20160522224218/https://marksdailyapple.com/is-it-primal-10-foods-scrutinized)
-- [Is Rice Unhealthy?](https://arquivo.pt/noFrame/replay/20190327022757/https://marksdailyapple.com/is-rice-unhealthy)
-- [It Was Time to Make a Change](https://arquivo.pt/noFrame/replay/20160517175155/https://marksdailyapple.com/it-was-time-to-make-a-change)
-- [It Was Time to Make a Change](https://arquivo.pt/noFrame/replay/20160517185346/https://marksdailyapple.com/it-was-time-to-make-a-change-2)
-- [It’s Not a Matter of If, It’s a Matter of When](https://arquivo.pt/noFrame/replay/20160517173305/https://marksdailyapple.com/its-not-a-matter-of-if-its-a-matter-of-when)
-- [It’s Not a Matter of If, It’s a Matter of When](https://arquivo.pt/noFrame/replay/20160517182506/https://marksdailyapple.com/its-not-a-matter-of-if-its-a-matter-of-when-2)
-- [Can You Be an Endurance Athlete and Primal?](https://arquivo.pt/noFrame/replay/20160517180543/https://marksdailyapple.com/jonas-colting)
-- [Definitive Guide to Alcohol on a Low Carb Diet](https://arquivo.pt/noFrame/replay/20160517174853/https://marksdailyapple.com/low-carb-alcohol)
-- [Mackerel Recipe](https://arquivo.pt/noFrame/replay/20160517182734/https://marksdailyapple.com/mackerel-recipe)
-- [Makes My Blood Boil](https://arquivo.pt/noFrame/replay/20160517173503/https://marksdailyapple.com/makes-my-blood-boil)
-- [Meat Eating and Human Evolution](https://arquivo.pt/noFrame/replay/20160522233048/https://marksdailyapple.com/meat-eating-human-evolution)
-- [How Dairy Entered the Human Diet](https://arquivo.pt/noFrame/replay/20160522223930/https://marksdailyapple.com/milk-dairy-human-diet)
-- [Movement, Exercise, and Training: Getting the Results You Want](https://arquivo.pt/noFrame/replay/20160522225152/https://marksdailyapple.com/movement-exercise-and-training-getting-the-results-you-want)
-- [The Best Natural Bug Repellent](https://arquivo.pt/noFrame/replay/20160517173252/https://marksdailyapple.com/natural-bug-repellent)
-- [News](https://arquivo.pt/noFrame/replay/20191021031518/https://marksdailyapple.com/news)
-- [Nuts and Phytic Acid](https://arquivo.pt/noFrame/replay/20210630011543/https://marksdailyapple.com/nuts-and-phytic-acid)
-- [Dear Mark: Oily Fish Limit, Diet and Posture, Acid Reflux, Whey Replacement, Milk and Fasting, and Remembering to Live](https://arquivo.pt/noFrame/replay/20191010132649/https://marksdailyapple.com/oily-fish-limit-diet-and-posture-acid-reflux-whey-replacement-milk-and-fasting-and-remembering-to-live)
-- [Organ Meats](https://arquivo.pt/noFrame/replay/20191007060726/https://marksdailyapple.com/organ-meats)
-- [8 Signs You Are Overtraining](https://arquivo.pt/noFrame/replay/20160517172320/https://marksdailyapple.com/overtraining)
-- [Homemade Deli Meat](https://arquivo.pt/noFrame/replay/20191010142053/https://marksdailyapple.com/paleo-deli-meat)
-- [Dear Mark: Palmitic Acid and Eating Speed](https://arquivo.pt/noFrame/replay/20160522225048/https://marksdailyapple.com/palmitic-acid-and-eating-speed)
-- [Personal Improvement](https://arquivo.pt/noFrame/replay/20191010134144/https://marksdailyapple.com/personal-improvement)
-- [In Search of a Good Poop (or Sh*t Happens)](https://arquivo.pt/noFrame/replay/20190608014020/https://marksdailyapple.com/poop-health)
-- [Are Potatoes Healthy?](https://arquivo.pt/noFrame/replay/20160522223854/https://marksdailyapple.com/potatoes-healthy)
-- [Primal Blueprint 101](https://arquivo.pt/noFrame/replay/20191010132840/https://marksdailyapple.com/primal-blueprint-101)
-- [Primal Evolution: Change Within Weeks, Transformation in Mere Months](https://arquivo.pt/noFrame/replay/20160525040426/https://marksdailyapple.com/primal-evolution-change-within-weeks-transformation-in-mere-months)
-- [Holiday Gifts for the Health and Fitness Enthusiast](https://arquivo.pt/noFrame/replay/20160522224725/https://marksdailyapple.com/primal-holiday-gifts)
-- [Primal Jambalaya](https://arquivo.pt/noFrame/replay/20160517183015/https://marksdailyapple.com/primal-jambalaya)
-- [Primal Lifestyle](https://arquivo.pt/noFrame/replay/20191010133438/https://marksdailyapple.com/primal-lifestyle)
-- [Primal Minded Practitioners?](https://arquivo.pt/noFrame/replay/20160522232234/https://marksdailyapple.com/primal-paleo-doctors)
-- [Prodding Parents to Get Healthy](https://arquivo.pt/noFrame/replay/20160522223023/https://marksdailyapple.com/prodding-parents-to-get-healthy)
-- [A Quick Guide to Edible Seeds](https://arquivo.pt/noFrame/replay/20191010141048/https://marksdailyapple.com/quick-guide-edible-seeds)
-- [Rejecting the Status Quo: Saying “No” to a Common Life](https://arquivo.pt/noFrame/replay/20160522224441/https://marksdailyapple.com/rejecting-the-status-quo-saying-no-to-a-common-life)
-- [Rejecting the Status Quo: Saying “No” to a Common Life](https://arquivo.pt/noFrame/replay/20160522232539/https://marksdailyapple.com/rejecting-the-status-quo-saying-no-to-a-common-life-2)
-- [Remember the 80/20 Principle](https://arquivo.pt/noFrame/replay/20160522223626/https://marksdailyapple.com/remember-the-80-20-principle)
-- [Resistant Starch: Your Questions Answered](https://arquivo.pt/noFrame/replay/20191010142247/https://marksdailyapple.com/resistant-starch-your-questions-answered)
-- [Dear Mark: Right Leg Balance Issues, Plastic Wrap Flattened Meat, Vaporizing Cannabis](https://arquivo.pt/noFrame/replay/20210914035626/https://marksdailyapple.com/right-leg-balance-issues-plastic-wrap-flattened-meat-vaporizing-cannabis)
-- [Salmon Mousse Gelatin Ring and Raspberry Coconut Gelatin Dessert](https://arquivo.pt/noFrame/replay/20191010133015/https://marksdailyapple.com/salmon-mousse-gelatin-ring-and-raspberry-coconut-gelatin-dessert)
-- [The Mysterious World of Smell](https://arquivo.pt/noFrame/replay/20160517175141/https://marksdailyapple.com/sense-of-smell)
-- [Should You Trust Medical Studies?](https://arquivo.pt/noFrame/replay/20160522231545/https://marksdailyapple.com/should-you-trust-medical-studies)
-- [Sitting is Unhealthy (and What to Do About It)](https://arquivo.pt/noFrame/replay/20160517185009/https://marksdailyapple.com/sitting-unhealthy)
-- [Are Traditionally Prepared Grains Healthy?](https://arquivo.pt/noFrame/replay/20191007060422/https://marksdailyapple.com/soaked-sprouted-fermented-grains)
-- [Questions About Soy Formula](https://arquivo.pt/noFrame/replay/20160517174046/https://marksdailyapple.com/soy-baby-formula)
-- [SPF 100 Sunblock](https://arquivo.pt/noFrame/replay/20160517173516/https://marksdailyapple.com/spf-100-sunblock)
-- [Mark's Daily Apple: Start Here | Beginner's Guide](https://arquivo.pt/noFrame/replay/20231217070934/https://marksdailyapple.com/start-here-beginners-guide)
-- [Success Story Summaries](https://arquivo.pt/noFrame/replay/20191010132329/https://marksdailyapple.com/success-story-summaries)
-- [Sunflower Sesame Crackers with Shrimp Paté](https://arquivo.pt/noFrame/replay/20160522222959/https://marksdailyapple.com/sunflower-sesame-crackers-with-shrimp-pate)
-- [The Definitive Guide to Resistant Starch](https://arquivo.pt/noFrame/replay/20200421195142/https://marksdailyapple.com/the-definitive-guide-to-resistant-starch)
-- [Are Seeds Healthy to Eat?](https://arquivo.pt/noFrame/replay/20191010145448/https://marksdailyapple.com/the-definitive-guide-to-seeds)
-- [The Definitive Guide to Sugar](https://arquivo.pt/noFrame/replay/20191010140416/https://marksdailyapple.com/the-definitive-guide-to-sugar)
-- [The Hypothetical Game](https://arquivo.pt/noFrame/replay/20160525040212/https://marksdailyapple.com/the-hypothetical-game)
-- [The Lost Art of Play: Reclaiming a Primal Tradition](https://arquivo.pt/noFrame/replay/20160517183658/https://marksdailyapple.com/the-lost-art-of-play-reclaiming-a-primal-tradition)
-- [The Straight Dope on Cholesterol: 10 Things You Need to Know – Part 1](https://arquivo.pt/noFrame/replay/20160522222658/https://marksdailyapple.com/the-straight-dope-on-cholesterol-10-things-you-need-to-know-part-1)
-- [Top 10 Best & Worst Protein Sources (vegetarians take note)](https://arquivo.pt/noFrame/replay/20191010134747/https://marksdailyapple.com/top-ten-protein-sources)
-- [10 True Old Wives' Tales: Take 2](https://arquivo.pt/noFrame/replay/20220125155304/https://marksdailyapple.com/true-old-wives-tales)
-- [Watercress Bacon Soup](https://arquivo.pt/noFrame/replay/20160522232817/https://marksdailyapple.com/watercress-bacon-soup)
-- [Weekend Link Love - Edition 167](https://arquivo.pt/noFrame/replay/20160517174627/https://marksdailyapple.com/weekend-link-love-167)
-- [Weekend Link Love - Edition 201](https://arquivo.pt/noFrame/replay/20160525040445/https://marksdailyapple.com/weekend-link-love-201)
-- [Weekend Link Love - Edition 285](https://arquivo.pt/noFrame/replay/20160522225135/https://marksdailyapple.com/weekend-link-love-285)
-- [Weekend Link Love - Edition 75](https://arquivo.pt/noFrame/replay/20160522224710/https://marksdailyapple.com/weekend-link-love-75)
-- [Weekend Link Love - Edition 83](https://arquivo.pt/noFrame/replay/20160522223037/https://marksdailyapple.com/weekend-link-love-83)
-- [Weekend Link Love - Edition 85](https://arquivo.pt/noFrame/replay/20160517172258/https://marksdailyapple.com/weekend-link-love-85)
-- [Weight Loss](https://arquivo.pt/noFrame/replay/20230124095955/https://marksdailyapple.com/weight-loss)
-- [Where Do Legumes Belong in the Primal Eating Plan?](https://arquivo.pt/noFrame/replay/20200512164253/https://marksdailyapple.com/where-do-legumes-belong-in-the-primal-eating-plan)
-- [Whey Protein: Isolate, Conentrate, Hydrolysate](https://arquivo.pt/noFrame/replay/20160522230147/https://marksdailyapple.com/whey-isolate-concentrate-hydrolysate)
-- [Why We Don't Walk Anymore](https://arquivo.pt/noFrame/replay/20160522224201/https://marksdailyapple.com/why-we-dont-walk-anymore)
-- [Will Eating Red Meat Kill You?](https://arquivo.pt/noFrame/replay/20160517175335/https://marksdailyapple.com/will-eating-red-meat-kill-you)
-- [Should Women Fast?](https://arquivo.pt/noFrame/replay/20210525024946/https://marksdailyapple.com/women-and-intermittent-fasting)
-- [WOW: Grok the Groove](https://arquivo.pt/noFrame/replay/20160517183339/https://marksdailyapple.com/wow-grok-the-groove)
-- [WOW: The Auroch Stalk](https://arquivo.pt/noFrame/replay/20160522231359/https://marksdailyapple.com/wow-the-auroch-stalk)
-- [The Health Benefits of Yerba Mate](https://arquivo.pt/noFrame/replay/20160522224353/https://marksdailyapple.com/yerba-mate-benefits)
-- [Cooking with Edible Animal Fats](https://arquivo.pt/noFrame/replay/20191010140348/https://marksdailyapple.com/yet-another-primal-primer-animal-fats)
-- [Yoga Good for Beating Symptoms of Breast Cancer](https://arquivo.pt/noFrame/replay/20160517174100/https://marksdailyapple.com/yoga-reduce-cancer-symptom)
-- [Zero Carb Diet](https://arquivo.pt/noFrame/replay/20160517174321/https://marksdailyapple.com/zero-carb-diet)
+- [Top 10 Foods I Couldn't Live Without](https://arquivo.pt/noFrame/replay/20160517182304/https://marksdailyapple.com/10-foods-i-couldnt-live-without) · termo no corpo
+- [10 Innovative Uses for Salt](https://arquivo.pt/noFrame/replay/20160517183910/https://marksdailyapple.com/10-innovative-uses-for-salt) · corpo triado, sem termo
+- [12 Signs You Need to Eat More Protein](https://arquivo.pt/noFrame/replay/20191010142142/https://marksdailyapple.com/12-signs-you-need-to-eat-more-protein) · termo no corpo
+- [14 Weird Plant Bits and Where to Find Them: Foraging Ethnic Markets](https://arquivo.pt/noFrame/replay/20210914035645/https://marksdailyapple.com/14-weird-plant-bits-and-where-to-find-them-foraging-ethnic-markets) · termo no corpo
+- [20 Ways to Cultivate Intermittent Euphoria in Your Life](https://arquivo.pt/noFrame/replay/20160522225442/https://marksdailyapple.com/20-ways-to-cultivate-intermittent-euphoria-in-your-life) · corpo triado, sem termo
+- [Five Common Nutrient Deficiencies](https://arquivo.pt/noFrame/replay/20200805010529/https://marksdailyapple.com/5-common-nutrient-deficiencies-and-what-to-do-about-them) · termo no corpo
+- [5 Primal Superfoods for Fertility and Pregnancy](https://arquivo.pt/noFrame/replay/20160522224124/https://marksdailyapple.com/5-primal-superfoods-for-fertility-and-pregnancy) · corpo triado, sem termo
+- [5 Sweet and Savory Primal Shakes](https://arquivo.pt/noFrame/replay/20160517174410/https://marksdailyapple.com/5-sweet-savory-primal-shakes) · corpo triado, sem termo
+- [7 Foods You Don't Have to Buy Organic](https://arquivo.pt/noFrame/replay/20191010141641/https://marksdailyapple.com/7-foods-you-dont-need-to-buy-organic) · corpo triado, sem termo
+- [7 Things You Had No Idea Gut Bacteria Could Do](https://arquivo.pt/noFrame/replay/20210630011549/https://marksdailyapple.com/7-things-you-had-no-idea-gut-bacteria-could-do) · corpo triado, sem termo
+- [A Primal Comeback](https://arquivo.pt/noFrame/replay/20160522231949/https://marksdailyapple.com/a-primal-comeback) · corpo triado, sem termo
+- [Is Alcohol Good or Bad For Health?](https://arquivo.pt/noFrame/replay/20231217070543/https://marksdailyapple.com/alcohol-the-good-and-the-bad) · corpo indisponível
+- [An Open Letter to Taco Bell](https://arquivo.pt/noFrame/replay/20160517184503/https://marksdailyapple.com/an-open-letter-to-taco-bell) · corpo triado, sem termo
+- [Announcement: New Year’s Resolution Contest](https://arquivo.pt/noFrame/replay/20160517184257/https://marksdailyapple.com/announcement-new-years-resolution-contest) · corpo triado, sem termo
+- [Are Cell Phones Bad for Male Fertility?](https://arquivo.pt/noFrame/replay/20160517173226/https://marksdailyapple.com/are-cell-phones-bad-for-male-fertility) · corpo triado, sem termo
+- [Are Peas and Green Beans Healthy?](https://arquivo.pt/noFrame/replay/20160517184829/https://marksdailyapple.com/are-peas-and-green-beans-healthy) · termo no corpo
+- [Balsamic-Glazed Drumsticks](https://arquivo.pt/noFrame/replay/20160525040101/https://marksdailyapple.com/balsamic-glazed-drumsticks) · corpo triado, sem termo
+- [Because We’d Miss the Puppies & Flowers & Fields](https://arquivo.pt/noFrame/replay/20160522222820/https://marksdailyapple.com/because-wed-miss-the-puppies-flowers-fields) · corpo triado, sem termo
+- [Just How Long Did Grok Live, Really?](https://arquivo.pt/noFrame/replay/20160522223943/https://marksdailyapple.com/bone-dating-life-span) · corpo triado, sem termo
+- [Bone Marrow: Delicious, Nutritious and Underappreciated](https://arquivo.pt/noFrame/replay/20190320173333/https://marksdailyapple.com/bone-marrow-recipe) · termo no corpo
+- [The Biggest Myth About Cancer: That It Just “Happens”](https://arquivo.pt/noFrame/replay/20160525040038/https://marksdailyapple.com/cancer-myths-and-facts) · corpo triado, sem termo
+- [Contest: Grokpose for Bacon](https://arquivo.pt/noFrame/replay/20160522223713/https://marksdailyapple.com/contest-grokpose-for-bacon) · corpo triado, sem termo
+- [Contest: What’s Your 20?](https://arquivo.pt/noFrame/replay/20160522223659/https://marksdailyapple.com/contest-whats-your-20) · corpo triado, sem termo
+- [Cooking with Bones](https://arquivo.pt/noFrame/replay/20160517171629/https://marksdailyapple.com/cooking-with-bones) · termo no corpo
+- [Creamy Turmeric Tea](https://arquivo.pt/noFrame/replay/20160517174549/https://marksdailyapple.com/creamy-turmeric-tea) · corpo triado, sem termo
+- [The Health Benefits of Cumin](https://arquivo.pt/noFrame/replay/20160517173645/https://marksdailyapple.com/cumin) · termo no corpo
+- [Dear Mark: Canola Oil](https://arquivo.pt/noFrame/replay/20160522224629/https://marksdailyapple.com/dear-mark-canola-oil) · corpo triado, sem termo
+- [Dear Mark: Dehydrated Vegetables, Cooked Versus Raw, and Premature Graying and Copper](https://arquivo.pt/noFrame/replay/20160522231755/https://marksdailyapple.com/dear-mark-dehydrated-vegetables-cooked-versus-raw-and-premature-graying-and-copper) · termo no corpo
+- [Dear Mark: Kosher, Weak Nails, Tea Seed Oil, and Greasing the Groove](https://arquivo.pt/noFrame/replay/20160517173714/https://marksdailyapple.com/dear-mark-kosher-weak-nails-tea-seed-oil-and-greasing-the-groove) · termo no corpo
+- [How to Eat According to the Primal Blueprint](https://arquivo.pt/noFrame/replay/20190320173344/https://marksdailyapple.com/definitive-guide-to-the-primal-eating-plan) · corpo triado, sem termo
+- [The Definitive Guide to Insulin, Blood Sugar & Type 2 Diabetes (and you’ll understand it)](https://arquivo.pt/noFrame/replay/20160522222741/https://marksdailyapple.com/diabetes) · corpo triado, sem termo
+- [Dial in Your Carb Count](https://arquivo.pt/noFrame/replay/20160522230842/https://marksdailyapple.com/dial-in-your-carb-count) · corpo triado, sem termo
+- [Diet & Nutrition](https://arquivo.pt/noFrame/replay/20200415053529/https://marksdailyapple.com/diet-nutrition) · corpo triado, sem termo
+- [Does Coffee Break a Fast?](https://arquivo.pt/noFrame/replay/20220126161432/https://marksdailyapple.com/does-coffee-break-a-fast) · termo no corpo
+- [Does Gluten Have Any Effect on Non-Celiacs?](https://arquivo.pt/noFrame/replay/20191010141456/https://marksdailyapple.com/does-gluten-have-any-effect-on-non-celiacs) · corpo triado, sem termo
+- [Now You Can Drink Your Grains](https://arquivo.pt/noFrame/replay/20160522222837/https://marksdailyapple.com/drink-your-grains) · corpo triado, sem termo
+- [Eat This Today, Feel Better Tomorrow: Installment III](https://arquivo.pt/noFrame/replay/20160517184055/https://marksdailyapple.com/eat-feel-better-3) · corpo triado, sem termo
+- [Are You Eating Too Little Food on a Primal/Paleo Diet?](https://arquivo.pt/noFrame/replay/20191010141909/https://marksdailyapple.com/eating-too-little-food-paleo-primal) · termo no corpo
+- [This Comeback Kid Is Much Prettier than Travolta](https://arquivo.pt/noFrame/replay/20160522225543/https://marksdailyapple.com/echinacea) · corpo triado, sem termo
+- [What I Mean by “Reprogram Your Genes”](https://arquivo.pt/noFrame/replay/20160517180350/https://marksdailyapple.com/epigenetics) · corpo triado, sem termo
+- [Facing the Primal Blueprint Fitness Challenges](https://arquivo.pt/noFrame/replay/20160522231138/https://marksdailyapple.com/facing-the-primal-blueprint-fitness-challenges) · corpo triado, sem termo
+- [Healthy Farmed Fish and Seafood](https://arquivo.pt/noFrame/replay/20160522224424/https://marksdailyapple.com/farmed-seafood-safe-nutritious) · termo no corpo
+- [How Fasting Aids Weight Loss](https://arquivo.pt/noFrame/replay/20160517185648/https://marksdailyapple.com/fasting-weight-loss) · corpo triado, sem termo
+- [Fish Allergies: Safe Sources of Omega 3s](https://arquivo.pt/noFrame/replay/20160517171641/https://marksdailyapple.com/fish-allergies-omega-3) · termo no corpo
+- [Fish Oil Health Benefits](https://arquivo.pt/noFrame/replay/20191007060949/https://marksdailyapple.com/fish-oil-health-benefits) · corpo triado, sem termo
+- [Is Fish Oil Linked to Prostate Cancer?](https://arquivo.pt/noFrame/replay/20160517175113/https://marksdailyapple.com/fish-oil-prostate-cancer) · corpo triado, sem termo
+- [Flat Feet Treatment - How to Strengthen Flat Feet](https://arquivo.pt/noFrame/replay/20160517174824/https://marksdailyapple.com/flat-feet-treatment) · termo no corpo
+- [What Are FODMAPs? - A Beginner's Guide](https://arquivo.pt/noFrame/replay/20210630011554/https://marksdailyapple.com/fodmaps) · corpo triado, sem termo
+- [Pros and Cons of Different Forms of Magnesium](https://arquivo.pt/noFrame/replay/20211011081843/https://marksdailyapple.com/forms-of-magnesium) · termo no corpo
+- [From Athlete to Overweight to Primal](https://arquivo.pt/noFrame/replay/20160517184650/https://marksdailyapple.com/from-athlete-to-overweight-to-primal) · corpo triado, sem termo
+- [From Athlete to Overweight to Primal](https://arquivo.pt/noFrame/replay/20160517174613/https://marksdailyapple.com/from-athlete-to-overweight-to-primal-2) · corpo triado, sem termo
+- [Is Gluten-Free a Fad Diet?](https://arquivo.pt/noFrame/replay/20191010141532/https://marksdailyapple.com/gluten-free-fad) · corpo triado, sem termo
+- [The Health Benefits of Herbs](https://arquivo.pt/noFrame/replay/20160517185149/https://marksdailyapple.com/health-benefits-herbs) · corpo triado, sem termo
+- [A Beginner’s Guide: How to Culture Vegetables](https://arquivo.pt/noFrame/replay/20160522233231/https://marksdailyapple.com/how-to-culture-vegetables) · corpo triado, sem termo
+- [How to Freeze Fruits and Vegetables](https://arquivo.pt/noFrame/replay/20191010134827/https://marksdailyapple.com/how-to-freeze-fruits-vegetables) · corpo triado, sem termo
+- [How to Take Care of Your Teeth (Hint: There's More to It Than Brushing)](https://arquivo.pt/noFrame/replay/20191007060818/https://marksdailyapple.com/how-to-take-care-of-your-teeth) · falha de acesso
+- [I Have a New Lease on Life](https://arquivo.pt/noFrame/replay/20160522225455/https://marksdailyapple.com/i-have-a-new-lease-on-life-2) · corpo triado, sem termo
+- [Mystery Meat: Imitation Crab](https://arquivo.pt/noFrame/replay/20160517174001/https://marksdailyapple.com/imitation-crab) · corpo triado, sem termo
+- [Introducing The South Asian Health Solution](https://arquivo.pt/noFrame/replay/20160522233427/https://marksdailyapple.com/introducing-the-south-asian-health-solution) · corpo triado, sem termo
+- [Is Circumcision Safe?](https://arquivo.pt/noFrame/replay/20160517174351/https://marksdailyapple.com/is-circumcision-safe) · corpo triado, sem termo
+- [Are These 10 Foods Primal?](https://arquivo.pt/noFrame/replay/20160522224218/https://marksdailyapple.com/is-it-primal-10-foods-scrutinized) · corpo triado, sem termo
+- [Is Rice Unhealthy?](https://arquivo.pt/noFrame/replay/20190327022757/https://marksdailyapple.com/is-rice-unhealthy) · corpo triado, sem termo
+- [It Was Time to Make a Change](https://arquivo.pt/noFrame/replay/20160517175155/https://marksdailyapple.com/it-was-time-to-make-a-change) · falha de acesso
+- [It Was Time to Make a Change](https://arquivo.pt/noFrame/replay/20160517185346/https://marksdailyapple.com/it-was-time-to-make-a-change-2) · corpo triado, sem termo
+- [It’s Not a Matter of If, It’s a Matter of When](https://arquivo.pt/noFrame/replay/20160517173305/https://marksdailyapple.com/its-not-a-matter-of-if-its-a-matter-of-when) · corpo triado, sem termo
+- [It’s Not a Matter of If, It’s a Matter of When](https://arquivo.pt/noFrame/replay/20160517182506/https://marksdailyapple.com/its-not-a-matter-of-if-its-a-matter-of-when-2) · corpo triado, sem termo
+- [Can You Be an Endurance Athlete and Primal?](https://arquivo.pt/noFrame/replay/20160517180543/https://marksdailyapple.com/jonas-colting) · corpo triado, sem termo
+- [Definitive Guide to Alcohol on a Low Carb Diet](https://arquivo.pt/noFrame/replay/20160517174853/https://marksdailyapple.com/low-carb-alcohol) · termo no corpo
+- [Mackerel Recipe](https://arquivo.pt/noFrame/replay/20160517182734/https://marksdailyapple.com/mackerel-recipe) · corpo triado, sem termo
+- [Makes My Blood Boil](https://arquivo.pt/noFrame/replay/20160517173503/https://marksdailyapple.com/makes-my-blood-boil) · corpo triado, sem termo
+- [Meat Eating and Human Evolution](https://arquivo.pt/noFrame/replay/20160522233048/https://marksdailyapple.com/meat-eating-human-evolution) · corpo triado, sem termo
+- [How Dairy Entered the Human Diet](https://arquivo.pt/noFrame/replay/20160522223930/https://marksdailyapple.com/milk-dairy-human-diet) · corpo triado, sem termo
+- [Movement, Exercise, and Training: Getting the Results You Want](https://arquivo.pt/noFrame/replay/20160522225152/https://marksdailyapple.com/movement-exercise-and-training-getting-the-results-you-want) · corpo triado, sem termo
+- [The Best Natural Bug Repellent](https://arquivo.pt/noFrame/replay/20160517173252/https://marksdailyapple.com/natural-bug-repellent) · corpo triado, sem termo
+- [News](https://arquivo.pt/noFrame/replay/20191021031518/https://marksdailyapple.com/news) · corpo triado, sem termo
+- [Nuts and Phytic Acid](https://arquivo.pt/noFrame/replay/20210630011543/https://marksdailyapple.com/nuts-and-phytic-acid) · corpo triado, sem termo
+- [Dear Mark: Oily Fish Limit, Diet and Posture, Acid Reflux, Whey Replacement, Milk and Fasting, and Remembering to Live](https://arquivo.pt/noFrame/replay/20191010132649/https://marksdailyapple.com/oily-fish-limit-diet-and-posture-acid-reflux-whey-replacement-milk-and-fasting-and-remembering-to-live) · termo no corpo
+- [Organ Meats](https://arquivo.pt/noFrame/replay/20191007060726/https://marksdailyapple.com/organ-meats) · falha de acesso
+- [8 Signs You Are Overtraining](https://arquivo.pt/noFrame/replay/20160517172320/https://marksdailyapple.com/overtraining) · corpo triado, sem termo
+- [Homemade Deli Meat](https://arquivo.pt/noFrame/replay/20191010142053/https://marksdailyapple.com/paleo-deli-meat) · corpo triado, sem termo
+- [Dear Mark: Palmitic Acid and Eating Speed](https://arquivo.pt/noFrame/replay/20160522225048/https://marksdailyapple.com/palmitic-acid-and-eating-speed) · corpo triado, sem termo
+- [Personal Improvement](https://arquivo.pt/noFrame/replay/20191010134144/https://marksdailyapple.com/personal-improvement) · corpo triado, sem termo
+- [In Search of a Good Poop (or Sh*t Happens)](https://arquivo.pt/noFrame/replay/20190608014020/https://marksdailyapple.com/poop-health) · corpo triado, sem termo
+- [Are Potatoes Healthy?](https://arquivo.pt/noFrame/replay/20160522223854/https://marksdailyapple.com/potatoes-healthy) · corpo triado, sem termo
+- [Primal Blueprint 101](https://arquivo.pt/noFrame/replay/20191010132840/https://marksdailyapple.com/primal-blueprint-101) · termo no corpo
+- [Primal Evolution: Change Within Weeks, Transformation in Mere Months](https://arquivo.pt/noFrame/replay/20160525040426/https://marksdailyapple.com/primal-evolution-change-within-weeks-transformation-in-mere-months) · corpo triado, sem termo
+- [Holiday Gifts for the Health and Fitness Enthusiast](https://arquivo.pt/noFrame/replay/20160522224725/https://marksdailyapple.com/primal-holiday-gifts) · termo no corpo
+- [Primal Jambalaya](https://arquivo.pt/noFrame/replay/20160517183015/https://marksdailyapple.com/primal-jambalaya) · termo no corpo
+- [Primal Lifestyle](https://arquivo.pt/noFrame/replay/20191010133438/https://marksdailyapple.com/primal-lifestyle) · corpo triado, sem termo
+- [Primal Minded Practitioners?](https://arquivo.pt/noFrame/replay/20160522232234/https://marksdailyapple.com/primal-paleo-doctors) · corpo triado, sem termo
+- [Prodding Parents to Get Healthy](https://arquivo.pt/noFrame/replay/20160522223023/https://marksdailyapple.com/prodding-parents-to-get-healthy) · corpo triado, sem termo
+- [A Quick Guide to Edible Seeds](https://arquivo.pt/noFrame/replay/20191010141048/https://marksdailyapple.com/quick-guide-edible-seeds) · termo no corpo
+- [Rejecting the Status Quo: Saying “No” to a Common Life](https://arquivo.pt/noFrame/replay/20160522224441/https://marksdailyapple.com/rejecting-the-status-quo-saying-no-to-a-common-life) · corpo triado, sem termo
+- [Rejecting the Status Quo: Saying “No” to a Common Life](https://arquivo.pt/noFrame/replay/20160522232539/https://marksdailyapple.com/rejecting-the-status-quo-saying-no-to-a-common-life-2) · corpo triado, sem termo
+- [Remember the 80/20 Principle](https://arquivo.pt/noFrame/replay/20160522223626/https://marksdailyapple.com/remember-the-80-20-principle) · corpo triado, sem termo
+- [Resistant Starch: Your Questions Answered](https://arquivo.pt/noFrame/replay/20191010142247/https://marksdailyapple.com/resistant-starch-your-questions-answered) · termo no corpo
+- [Dear Mark: Right Leg Balance Issues, Plastic Wrap Flattened Meat, Vaporizing Cannabis](https://arquivo.pt/noFrame/replay/20210914035626/https://marksdailyapple.com/right-leg-balance-issues-plastic-wrap-flattened-meat-vaporizing-cannabis) · termo no corpo
+- [Salmon Mousse Gelatin Ring and Raspberry Coconut Gelatin Dessert](https://arquivo.pt/noFrame/replay/20191010133015/https://marksdailyapple.com/salmon-mousse-gelatin-ring-and-raspberry-coconut-gelatin-dessert) · termo no corpo
+- [The Mysterious World of Smell](https://arquivo.pt/noFrame/replay/20160517175141/https://marksdailyapple.com/sense-of-smell) · corpo triado, sem termo
+- [Should You Trust Medical Studies?](https://arquivo.pt/noFrame/replay/20160522231545/https://marksdailyapple.com/should-you-trust-medical-studies) · corpo triado, sem termo
+- [Sitting is Unhealthy (and What to Do About It)](https://arquivo.pt/noFrame/replay/20160517185009/https://marksdailyapple.com/sitting-unhealthy) · falha de acesso
+- [Are Traditionally Prepared Grains Healthy?](https://arquivo.pt/noFrame/replay/20191007060422/https://marksdailyapple.com/soaked-sprouted-fermented-grains) · corpo triado, sem termo
+- [Questions About Soy Formula](https://arquivo.pt/noFrame/replay/20160517174046/https://marksdailyapple.com/soy-baby-formula) · corpo triado, sem termo
+- [SPF 100 Sunblock](https://arquivo.pt/noFrame/replay/20160517173516/https://marksdailyapple.com/spf-100-sunblock) · corpo triado, sem termo
+- [Mark's Daily Apple: Start Here | Beginner's Guide](https://arquivo.pt/noFrame/replay/20231217070934/https://marksdailyapple.com/start-here-beginners-guide) · corpo indisponível
+- [Success Story Summaries](https://arquivo.pt/noFrame/replay/20191010132329/https://marksdailyapple.com/success-story-summaries) · corpo indisponível
+- [Sunflower Sesame Crackers with Shrimp Paté](https://arquivo.pt/noFrame/replay/20160522222959/https://marksdailyapple.com/sunflower-sesame-crackers-with-shrimp-pate) · corpo triado, sem termo
+- [The Definitive Guide to Resistant Starch](https://arquivo.pt/noFrame/replay/20200421195142/https://marksdailyapple.com/the-definitive-guide-to-resistant-starch) · corpo triado, sem termo
+- [Are Seeds Healthy to Eat?](https://arquivo.pt/noFrame/replay/20191010145448/https://marksdailyapple.com/the-definitive-guide-to-seeds) · termo no corpo
+- [The Definitive Guide to Sugar](https://arquivo.pt/noFrame/replay/20191010140416/https://marksdailyapple.com/the-definitive-guide-to-sugar) · corpo triado, sem termo
+- [The Hypothetical Game](https://arquivo.pt/noFrame/replay/20160525040212/https://marksdailyapple.com/the-hypothetical-game) · corpo triado, sem termo
+- [The Lost Art of Play: Reclaiming a Primal Tradition](https://arquivo.pt/noFrame/replay/20160517183658/https://marksdailyapple.com/the-lost-art-of-play-reclaiming-a-primal-tradition) · corpo triado, sem termo
+- [The Straight Dope on Cholesterol: 10 Things You Need to Know – Part 1](https://arquivo.pt/noFrame/replay/20160522222658/https://marksdailyapple.com/the-straight-dope-on-cholesterol-10-things-you-need-to-know-part-1) · corpo triado, sem termo
+- [Top 10 Best & Worst Protein Sources (vegetarians take note)](https://arquivo.pt/noFrame/replay/20191010134747/https://marksdailyapple.com/top-ten-protein-sources) · corpo triado, sem termo
+- [10 True Old Wives' Tales: Take 2](https://arquivo.pt/noFrame/replay/20220125155304/https://marksdailyapple.com/true-old-wives-tales) · corpo triado, sem termo
+- [Watercress Bacon Soup](https://arquivo.pt/noFrame/replay/20160522232817/https://marksdailyapple.com/watercress-bacon-soup) · termo no corpo
+- [Weekend Link Love - Edition 167](https://arquivo.pt/noFrame/replay/20160517174627/https://marksdailyapple.com/weekend-link-love-167) · corpo triado, sem termo
+- [Weekend Link Love - Edition 201](https://arquivo.pt/noFrame/replay/20160525040445/https://marksdailyapple.com/weekend-link-love-201) · corpo triado, sem termo
+- [Weekend Link Love - Edition 285](https://arquivo.pt/noFrame/replay/20160522225135/https://marksdailyapple.com/weekend-link-love-285) · corpo triado, sem termo
+- [Weekend Link Love - Edition 75](https://arquivo.pt/noFrame/replay/20160522224710/https://marksdailyapple.com/weekend-link-love-75) · corpo triado, sem termo
+- [Weekend Link Love - Edition 83](https://arquivo.pt/noFrame/replay/20160522223037/https://marksdailyapple.com/weekend-link-love-83) · corpo triado, sem termo
+- [Weekend Link Love - Edition 85](https://arquivo.pt/noFrame/replay/20160517172258/https://marksdailyapple.com/weekend-link-love-85) · corpo triado, sem termo
+- [Weight Loss](https://arquivo.pt/noFrame/replay/20230124095955/https://marksdailyapple.com/weight-loss) · corpo indisponível
+- [Where Do Legumes Belong in the Primal Eating Plan?](https://arquivo.pt/noFrame/replay/20200512164253/https://marksdailyapple.com/where-do-legumes-belong-in-the-primal-eating-plan) · corpo triado, sem termo
+- [Whey Protein: Isolate, Conentrate, Hydrolysate](https://arquivo.pt/noFrame/replay/20160522230147/https://marksdailyapple.com/whey-isolate-concentrate-hydrolysate) · corpo triado, sem termo
+- [Why We Don't Walk Anymore](https://arquivo.pt/noFrame/replay/20160522224201/https://marksdailyapple.com/why-we-dont-walk-anymore) · corpo triado, sem termo
+- [Will Eating Red Meat Kill You?](https://arquivo.pt/noFrame/replay/20160517175335/https://marksdailyapple.com/will-eating-red-meat-kill-you) · corpo triado, sem termo
+- [Should Women Fast?](https://arquivo.pt/noFrame/replay/20210525024946/https://marksdailyapple.com/women-and-intermittent-fasting) · corpo triado, sem termo
+- [WOW: Grok the Groove](https://arquivo.pt/noFrame/replay/20160517183339/https://marksdailyapple.com/wow-grok-the-groove) · corpo triado, sem termo
+- [WOW: The Auroch Stalk](https://arquivo.pt/noFrame/replay/20160522231359/https://marksdailyapple.com/wow-the-auroch-stalk) · termo no corpo
+- [The Health Benefits of Yerba Mate](https://arquivo.pt/noFrame/replay/20160522224353/https://marksdailyapple.com/yerba-mate-benefits) · corpo triado, sem termo
+- [Cooking with Edible Animal Fats](https://arquivo.pt/noFrame/replay/20191010140348/https://marksdailyapple.com/yet-another-primal-primer-animal-fats) · corpo triado, sem termo
+- [Yoga Good for Beating Symptoms of Breast Cancer](https://arquivo.pt/noFrame/replay/20160517174100/https://marksdailyapple.com/yoga-reduce-cancer-symptom) · corpo triado, sem termo
+- [Zero Carb Diet](https://arquivo.pt/noFrame/replay/20160517174321/https://marksdailyapple.com/zero-carb-diet) · corpo triado, sem termo

@@ -69,3 +69,15 @@ A [página de gelatinas](receitas-gelatina.md) traz também a gelatina de frambo
 ## Sopa de agrião e bacon do concurso do blog
 
 A receita de Danielle Thalman, publicada no Mark’s Daily Apple em 2009, usa cerca de **950 mL de fundo de carne**, **4–8 fatias de bacon**, **um maço de agrião**, cebola, três dentes de alho e folhas de salsão. Refogue os aromáticos, junte os talos de agrião, o fundo e o bacon e deixe em fogo brando por pelo menos 30 minutos. Acrescente as folhas perto do fim e cozinhe mais 5–10 minutos. O creme é opcional. A batata comum ou doce também é opcional e pode ser omitida para reduzir o amido. [Receita original arquivada](https://arquivo.pt/noFrame/replay/20160522232817id_/https://marksdailyapple.com/watercress-bacon-soup)
+
+## Jambalaya primal com couve-flor
+
+A receita do blog de 2009 substitui o arroz por couve-flor triturada. Para seis porções, use **355 mL de fundo de frango**, **2 peitos de frango em cubos**, **450 g de linguiça andouille**, **2 xícaras de camarão limpo**, **1 couve-flor grande**, **1 lata de tomate picado de cerca de 410 g**, cebola, pimentão, alho, azeite, tomilho, salsinha e pimenta.
+
+1. Doure o frango e a linguiça no azeite. Acrescente cebola, pimentão e alho e refogue até a cebola amaciar. Junte tomate, fundo e temperos e cozinhe destampado por cerca de 20 min.
+2. Triture a couve-flor até parecer arroz. Acrescente à panela e cozinhe por cerca de 15 min. Junte o camarão nos últimos 5 min e sirva assim que estiver cozido.
+3. Para reduzir açúcares e amido adicionados, use tomate em lata sem açúcar e confira o rótulo da linguiça. [Primal Jambalaya no Arquivo.pt](https://arquivo.pt/noFrame/replay/20160517183015id_/https://marksdailyapple.com/primal-jambalaya)
+
+## Vagens com redução de caldo
+
+Salteie vagens em manteiga, acrescente cerca de **120 mL de caldo de ossos** e deixe reduzir até o líquido cobrir as vagens. Sisson descreveu esse uso em uma coluna de 2011. As vagens contribuem com carboidratos conforme a porção. [Coluna arquivada](https://arquivo.pt/noFrame/replay/20160517184829id_/https://marksdailyapple.com/are-peas-and-green-beans-healthy)

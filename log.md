@@ -519,3 +519,7 @@ O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-school-of-grea
 ## [2026-11-11] ingestão | Bife com ovos e ensopado de linguiça das prévias de Sisson
 
 O [inventário das prévias](raw/inventario-mark-receitas.md#prévias-públicas-dos-livros) localiza os trechos recuperados. O [caderno de receitas](wiki/temas/receitas-mark-sisson.md) registra o bife com ovos e a sequência de preparo do fundo suíno do ensopado.
+
+## [2026-11-11] ingestão | Gelatina suína e sopas tradicionais da Romênia e do Peru
+
+O [catálogo da WAPF](wiki/temas/receitas-wapf-catalogo.md) registra *ciorbă*, *tobă* e o relato peruano sobre cabeça e pés bovinos. A [ficha de piftie](wiki/temas/receitas-gelatina.md#piftie-gelatina-salgada-romena-com-alho) propõe uma versão com caldo suíno já gelificado.

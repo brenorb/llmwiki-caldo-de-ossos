@@ -111,6 +111,12 @@ Distribua **150 g de frango cozido desfiado** e ervas em quatro potes pequenos. 
 
 A Weston A. Price Foundation descreve este prato festivo de caldo de ossos suínos ou bovinos com presunto curado, carne, alho e louro. A versão tradicional cozinha lentamente por 8–9 horas. O caldo é resfriado até firmar, cortado em fatias e servido com vinagre. Confira o sal antes de temperar, pois o presunto pode salgar o caldo. [Receita e tradição eslovena](https://www.westonaprice.org/health-topics/food-features/soups-stews-and-one-pot-meals-of-slovenia/)
 
+### Piftie, gelatina salgada romena com alho
+
+Raluca Schacter descreve o *piftie* natalino feito com rabo, pés e orelhas de porco, alho e a gelatina natural do caldo. A mesma fonte descreve a *tobă*, que inclui carne da cabeça e é moldada em estômago suíno. O artigo registra os ingredientes característicos dos dois pratos e não dá medidas nem tempos. [Cozinha romena, Weston A. Price Foundation](https://www.westonaprice.org/health-topics/traditional-diets/old-world-traditions-thrive-in-modern-romania/)
+
+Para testar uma versão simples do *piftie*, use **400 mL de caldo suíno que já firme na geladeira**, **150 g de carne suína cozida e desossada** e **1 dente de alho pequeno amassado**. Aqueça o caldo até ficar líquido, acrescente o alho e ajuste o sal. Distribua a carne em quatro recipientes rasos, cubra com o caldo e refrigere prontamente até firmar. A ficha é uma adaptação da wiki e dispensa farinha, açúcar e gelatina em pó. [Caldo suíno](receitas-caldo.md) · [Conservação](seguranca-conservacao.md)
+
 ### Potted head, gelatina salgada escocesa
 
 A ficha histórica usa **meia cabeça e um pé bovinos**, água para cobrir, louro, macis e cravo. Para reproduzir o método, peça ao açougueiro as peças já limpas e cortadas. Escalde, descarte a água e cubra com água fresca. Cozinhe em fervura branda por cerca de três horas. Retire a carne aproveitável e volte os ossos à panela com os aromáticos por mais duas a três horas. Coe, resfrie prontamente em porções rasas e leve à geladeira. [Receita histórica publicada pela WAPF](https://www.westonaprice.org/health-topics/traditional-diets/the-good-scots-diet/)
@@ -177,7 +183,7 @@ Para um lote pequeno inspirado nas balas de Spencer Clanin, use **115 g de iogur
 
 1. Bata o cottage até ficar liso e misture com o iogurte, o creme e adoçante a gosto. Baunilha é opcional.
 2. Hidrate a gelatina na água fria conforme o rótulo e aqueça em fogo baixo até dissolver. Misture algumas colheradas da base à gelatina morna antes de juntar ao restante.
-3. Despeje em molde pequeno, refrigere até firmar e corte em cubos. Para reduzir o açúcar da cobertura marmorizada, amasse e cozinhe uma pequena porção de amora sem açúcar e misture a parte da base. As medidas deste lote e a troca do mel são adaptações da wiki. Os laticínios e as frutas continuam contribuindo com carboidratos.
+3. Despeje em molde pequeno, refrigere até firmar e corte em cubos. Para reduzir o açúcar da cobertura marmorizada, amasse e cozinhe uma pequena porção de amora sem açúcar e misture a uma parte da base. As medidas deste lote e a troca do mel são adaptações da wiki. Os laticínios e as frutas continuam contribuindo com carboidratos.
 
 ### Balas de coco sem açúcar adicionado
 

@@ -323,3 +323,7 @@ A [receita coreana](wiki/temas/receitas-caldo.md#seolleongtang-sopa-coreana-de-o
 ## [2026-11-11] ingestão | Segunda coleção do Common Crawl e receitas antigas
 
 A [triagem de Mark’s Daily Apple](raw/inventario-mark-receitas.md#segunda-coleção-do-common-crawl-e-receitas-de-2008) chegou a 5.300 de 5.447 caminhos. A [página de receitas](wiki/temas/receitas-mark-sisson.md) acrescenta sopa de sobras, molho para wok e carne de panela.
+
+## [2026-11-11] ingestão | Infusões em caldo e avanço dos áudios da WAPF
+
+O [inventário dos lotes ampliados](raw/inventario-wapf-receitas.md#progresso-dos-lotes-ampliados) registra os resultados conferidos em inglês e espanhol, inclusive uma discussão sobre pele. O [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md) incorpora a infusão de ervas em caldo.

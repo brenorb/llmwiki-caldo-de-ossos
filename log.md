@@ -31,3 +31,7 @@ O folato de 3,09 µg por 100 g já constava na tabela de composição. O valor d
 ## [2026-11-11] ingestão | Receitas, relatos e evidência
 
 Entraram fichas de caldo e gelatina, adaptações com menos carboidratos e uma comparação de alegações de saúde por desfecho. As notas ligam Cozinha de Pedra, Mark’s Daily Apple e Weston A. Price Foundation às receitas e aos estudos relevantes. O [registro de acesso](raw/busca-receitas-relatos.md) documenta a cobertura parcial de conteúdo histórico, mídias e textos.
+
+## [2026-11-11] ingestão | Composição de quatro caldos bovinos
+
+Um [TCC da UnB](wiki/fontes/souza-caldo-bovino-tcc.md) compara quatro preparos com e sem vinagre. A tabela de componentes registra as medidas por 100 g e distingue a proteína bruta de uma dosagem específica de colágeno.

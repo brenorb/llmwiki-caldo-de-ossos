@@ -36,6 +36,7 @@
 
 ## Notas de fonte
 
+- [Souza (2023) · Composição de quatro preparos bovinos com e sem vinagre](wiki/fontes/souza-caldo-bovino-tcc.md)
 - [Cozinha de Pedra · Receitas e relatos no Instagram e em entrevista](wiki/fontes/cozinha-de-pedra-caldo.md)
 - [Hexsel et al. (2017) · Peptídeos de colágeno e unhas frágeis](wiki/fontes/hexsel-2017-unhas.md)
 - [Mark Sisson e Mark’s Daily Apple · Receitas, gelatina e colágeno](wiki/fontes/mark-sisson-caldo-gelatina.md)

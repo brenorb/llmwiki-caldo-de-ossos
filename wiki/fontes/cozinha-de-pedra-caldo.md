@@ -73,4 +73,6 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 
 - Uma live sobre «detox» sugere uma bebida de caldo neutro frio com limão e gengibre, além de cúrcuma, pimenta e abacate entre os ingredientes possíveis. A conversa não apresenta medidas de exposição ou eliminação de substâncias após consumir a mistura. [Live, 52:56–53:26](https://www.instagram.com/cozinhadepedra/reel/CQEtcBCp7JV/)
 
+- Em outra live de preparo, Mandagará descreve usar aproximadamente 1 kg de ossos por 1 kg de água na panela elétrica e ajustar a água quando há perda por evaporação. Considera vinagre opcional e diz que não conta com o caldo como fonte importante de cálcio. O teor depende da amostra e do método. A live retoma o aproveitamento do tutano em patê. [Live, 22:06–31:08 e 44:21–49:29](https://www.instagram.com/cozinhadepedra/reel/CP626fJplxC/) · [Medições por preparo](../temas/componentes-por-caldo.md)
+
 A [página de receitas](../temas/receitas-gelatina.md) incorpora as versões que a legenda ou a entrevista permitiu reconstruir. A [comparação clínica](../temas/relatos-e-evidencia.md) resume relatos sem identificação de seguidoras. A [trilha de acesso](../../raw/busca-receitas-relatos.md) registra a grade de 395 itens e as lacunas de leitura das mídias.

@@ -327,3 +327,7 @@ A [triagem de Mark’s Daily Apple](raw/inventario-mark-receitas.md#segunda-cole
 ## [2026-11-11] ingestão | Infusões em caldo e avanço dos áudios da WAPF
 
 O [inventário dos lotes ampliados](raw/inventario-wapf-receitas.md#progresso-dos-lotes-ampliados) registra os resultados conferidos em inglês e espanhol, inclusive uma discussão sobre pele. O [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md) incorpora a infusão de ervas em caldo.
+
+## [2026-11-11] revisão | Cópias de entrevistas históricas e Primal Endurance
+
+O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#recuperação-de-entrevistas-históricas) registra a busca em 19 páginas históricas. A [seção Primal Endurance](raw/mark-sisson-entrevistas.md#primal-endurance) cobre as notas de 100 episódios e a transcrição integral da entrevista com Jacques DeVore.

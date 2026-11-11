@@ -183,3 +183,7 @@ A [nota dos ensaios](wiki/fontes/hwang-kim-2026-peptideos-cabelo.md) registra os
 ## [2026-11-11] ingestão | Tutano cru e receitas em outros textos da WAPF
 
 A [revisão de 105 candidatos](raw/inventario-wapf-receitas.md) acrescentou preparos ao [catálogo](wiki/temas/receitas-wapf-catalogo.md). A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) registra o painel de tutano cru e suas unidades. A [tabela de componentes](wiki/temas/componentes-por-caldo.md) identifica a amostra analisada.
+
+## [2026-11-11] ingestão | Carrosséis antigos de imunidade e saciedade
+
+A [trilha de acesso](raw/busca-receitas-relatos.md) registra a conferência de seis publicações antigas. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) registra as alegações sobre glutationa, imunidade e fome e as medidas que as fontes clínicas avaliaram.

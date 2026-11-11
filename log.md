@@ -407,3 +407,7 @@ A [leitura](raw/busca-receitas-relatos.md#comentários-sobre-sono-porções-e-je
 ## [2026-11-11] ingestão | Panna cotta de abóbora e canela
 
 A [ficha de sobremesa](wiki/temas/receitas-gelatina.md#panna-cotta-de-abóbora-e-canela) registra as medidas da edição de inverno de 2012 da WAPF e uma substituição do mel ou do xarope para reduzir carboidratos.
+
+## [2026-11-11] ingestão | Ensaios de fundo de bonito seco e fadiga
+
+A [nota de Kuroda e Nozawa](wiki/fontes/kuroda-2008-bonito-fadiga.md) documenta as mudanças em vigor e fadiga, o denominador da análise e a diferença entre o fundo japonês estudado e os caldos dos relatos.

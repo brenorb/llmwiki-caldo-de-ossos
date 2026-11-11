@@ -118,6 +118,7 @@
 - [USDA/FSIS · Resfriar, guardar e reaquecer sobras](wiki/fontes/usda-sobras.md)
 - [USDA/FSIS — Ave crua e panela de cocção lenta](wiki/fontes/usda-preparo-aves-coccao-lenta.md)
 - [Wang et al. (2022) — Caldo suíno e fração isolada em modelo murino](wiki/fontes/wang-2022-colite.md)
+- [Kuroda e Nozawa (2008) · Fundo de bonito seco, fadiga e disposição](wiki/fontes/kuroda-2008-bonito-fadiga.md)
 - [Thomas et al. (2024) · Peptídeos de colágeno e sono](wiki/fontes/thomas-2024-colageno-sono.md)
 - [Yamadera et al. (2007) — Glicina isolada e sono](wiki/fontes/yamadera-2007-glicina-sono.md)
 - [Yamamoto e Tomimori (1998) — Pressão e caldo de ossos de frango](wiki/fontes/yamamoto-tomimori-1998.md)

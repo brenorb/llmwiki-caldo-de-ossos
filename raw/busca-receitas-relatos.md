@@ -115,6 +115,8 @@ Uma busca por caldo de ossos, eczema e dermatite atópica não localizou ensaio 
 
 A busca sobre digestão de gelatina e colágeno conferiu o resumo de Iwasaki et al. e o artigo integral de Virgilio et al., com o registro do ensaio. As medidas se referem a produtos específicos e à concentração de metabólitos no plasma. [Nota de fonte](../wiki/fontes/virgilio-iwasaki-peptideos.md)
 
+A busca complementar por caldo de ossos, gelatina, colágeno oral e acne não localizou ensaio em humanos que testasse a ingestão de caldo ou gelatina para acne. Foram encontrados um ensaio de padrão alimentar de baixa carga glicêmica e um estudo de aplicação de gel facial com colágeno cofermentado. [Smith et al.](https://pubmed.ncbi.nlm.nih.gov/17616769/) · [Ho et al.](https://pubmed.ncbi.nlm.nih.gov/35818134/) · [Matriz de relatos e evidência](../wiki/temas/relatos-e-evidencia.md)
+
 ## Áudio dos reels
 
 O acervo local contém **106 transcrições automáticas** dos 122 reels inventariados. Os **34 reels** que constavam como tempo esgotado na primeira fila foram reprocessados integralmente. A auditoria confirmou **1.265 blocos em sequência**, do primeiro ao último bloco de cada arquivo, e um TXT consolidado por reel. Os horários são aproximados. Na junção de alguns blocos, marcas consecutivas podem aparecer com diferença de um segundo fora de ordem. A [tabela de duração e cobertura](#duração-e-cobertura-das-lives) mostra as duas lives inicialmente recuperadas e a live de saborização.

@@ -543,3 +543,7 @@ A [página de receitas](wiki/temas/receitas-caldo.md#caldo-de-carcaça-e-sopa-de
 ## [2026-11-11] ingestão | Phở de rabada, curry de frango e carne com cogumelos
 
 O [catálogo da WAPF](wiki/temas/receitas-wapf-catalogo.md) localiza a entrevista de Sophia Nguyen Eng. As [fichas culinárias](wiki/temas/receitas-caldo.md#phở-de-rabada-e-outros-usos-de-sophia-nguyen-eng) registram três versões com caldo publicadas no caderno de Melissa K. Norris e as opções com menos carboidratos.
+
+## [2026-11-11] revisão | Alegações de acne e canície em textos da WAPF
+
+A [matriz de relatos](wiki/temas/relatos-e-evidencia.md) registra a alegação sobre acne e as intervenções realmente estudadas. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) localiza a referência sobre catalase no pâncreas de camundongos.

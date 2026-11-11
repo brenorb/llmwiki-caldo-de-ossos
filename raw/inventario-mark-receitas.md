@@ -547,6 +547,32 @@ A coleção **CC-MAIN-2021-49** indicou **972 caminhos HTML de um segmento** com
 | [10 Things You (Likely) Don’t Know About Your Immune System](https://web.archive.org/web/20231210103434id_/https://www.marksdailyapple.com/10-things-you-likely-dont-know-about-your-immune-system/), equipe editorial, 2008-08-19 | A coluna usa o estudo de sopa de frango e migração de neutrófilos em laboratório para sugerir um efeito sobre a inflamação do resfriado. A publicação não apresenta um teste em pessoas resfriadas. [Rennard et al.](https://pubmed.ncbi.nlm.nih.gov/11035691/) |
 | [Grocery Store Seafood: What to Eat and What to Avoid](https://web.archive.org/web/20230922192244id_/http://www.marksdailyapple.com/grocery-store-seafood-what-to-eat-and-what-to-avoid/), Mark Sisson, 2011-05-18 | A seção sobre caranguejo sugere guardar as carapaças para fazer fundo. A coluna não oferece proporções nem mede a composição do líquido. |
 
+### Encerramento da fila ampla e buscas em 2018 e 2016
+
+A fila ampla da Wayback concluiu suas tentativas. Uma rodada dirigida repetiu **quatro erros de conexão** e abriu os quatro textos. A cobertura chegou a **5.418 de 5.447 caminhos**, **118 a mais** desde 5.300. Dos **29** endereços sem corpo triado, **25** ainda não tinham indicação nos índices consultados. Os outros quatro são o índice *Most Popular Posts*, a página de vídeo *Mark’s Beach Sprints* e as capturas sem corpo recuperável de *Healthy Tastes Great!* nº 32 e *Weekend Link Love* nº 263.
+
+| Fonte na segunda etapa | Corpos válidos | Caminhos adicionais na união, na ordem da tabela |
+| --- | ---: | ---: |
+| Wayback, fila ampla | 1.650 em 1.662 endereços | 1.650 |
+| Wayback, consultas complementares | 138 | 116 |
+| Arquivo.pt, consultas complementares | 2 | 1 |
+| Common Crawl, CC-MAIN-2023-50 | 214 em 217 endereços | 212 |
+| Common Crawl, CC-MAIN-2021-49 | 27 em 28 endereços | 27 |
+| Common Crawl, CC-MAIN-2018-51 | 11 em 12 endereços | 11 |
+| Common Crawl, CC-MAIN-2016-50 | 3 em 3 endereços, durante a leitura do índice | 3 |
+| Total deduplicado da segunda etapa | | 2.020 |
+
+A coleção **CC-MAIN-2018-51** indicou **805 caminhos HTML de um segmento** com resposta HTTP 200 e cruzou **12 pendências**. Recuperou *Winging It: Fun, Spontaneity and Intuition in Your Primal Life*, que ainda não tinha indicação nos índices consultados, e *Defending Olive Oil’s Reputation*, cujo replay do Arquivo.pt não tinha aberto. A leitura parcial do índice de **2016-50** encontrou capturas para *Dear Mark: College Meal Plan*, *Dear Mark: Late Night Work Shifts* e *Don’t You Just Love Making Doctors Speechless?*. Os três corpos abriram e não continham termos pertinentes ao caldo.
+
+| Publicação | O que foi verificado |
+| --- | --- |
+| [A Definitive Guide to Tea](https://web.archive.org/web/20231003141743id_/https://www.marksdailyapple.com/health-benefits-of-tea/), Simon Cheng, 2018-09-25 | A introdução de Sisson atribui o texto e o latte ao convidado. A receita usa um sachê de peptídeos. O texto associa os peptídeos ao sono e remete a uma revisão sobre glicina isolada. [Bannai e Kawai](https://pubmed.ncbi.nlm.nih.gov/22293292/) |
+| [A Chicken Liver Paté Recipe That Will Turn You Into a Liver Lover](https://web.archive.org/web/20230903014423id_/https://www.marksdailyapple.com/a-chicken-liver-pate-recipe-that-will-turn-you-into-a-liver-lover/), Priscilla Chamessian, 2021-01-02 | O patê usa até duas colheres de sopa de água ou caldo, aos poucos, se o fundo da frigideira começar a queimar. |
+| [Weekend Link Love nº 87](https://web.archive.org/web/20230927084556id_/https://www.marksdailyapple.com/weekend-link-love-87/), 2010-03-07 | A edição indica o caldo bovino do *Food Renegade*. A versão disponível propõe combinar ossos com carne e partes articulares e associa a escolha a gelatina, glucosamina e condroitina sem medir esses componentes. [Receita externa](https://www.foodrenegade.com/how-to-make-beef-broth/) |
+| [What is Keto Flu And How to Beat It](https://web.archive.org/web/20230902221116id_/https://www.marksdailyapple.com/what-is-keto-flu/), Mark Sisson, 2020-07-30 | A coluna sugere caldo de ossos salgado como uma opção de ingestão de sódio. A publicação não mede o teor nem testa o efeito sobre sintomas. |
+| [Holiday Travel](https://web.archive.org/web/20230926092431id_/https://www.marksdailyapple.com/holiday-travel/), Mark Sisson, 2014-12-23 | A coluna menciona que algumas pessoas consomem caldo antes de viajar. A passagem é um relato genérico e não apresenta uma análise de resultados. |
+| [Appetite](https://web.archive.org/web/20230922013937id_/https://www.marksdailyapple.com/appetite/), Mark Sisson, 2007-10-22 | A coluna sugere sopas de legumes ou de caldo e menciona um experimento sobre pistas visuais de porção. O experimento avaliou o consumo com tigelas que se reabasteciam, sem comparar sopa leve e sopa cremosa. [Wansink et al.](https://pubmed.ncbi.nlm.nih.gov/15761167/) |
+
 ## Resultados do Arquivo.pt
 
 A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.

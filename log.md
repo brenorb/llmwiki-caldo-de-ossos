@@ -367,3 +367,7 @@ A [seção Primal Endurance](raw/mark-sisson-entrevistas.md#primal-endurance) ac
 ## [2026-11-11] ingestão | Gelatina em cápsulas e dureza ungueal em 1963
 
 A [comparação de estudos de unhas](wiki/fontes/colageno-unhas-ensaios.md) acrescenta a leitura integral de Michaelson e Huntsman, com 15 participantes, cápsulas de gelatina ou lactose e medição instrumental de dureza.
+
+## [2026-11-11] ingestão | Fim da fila ampla da Wayback e novos preparos do arquivo
+
+A [triagem de Mark’s Daily Apple](raw/inventario-mark-receitas.md#encerramento-da-fila-ampla-e-buscas-em-2018-e-2016) chegou a 5.418 de 5.447 caminhos. A [página de receitas](wiki/temas/receitas-mark-sisson.md) inclui o latte de Simon Cheng, o patê de Priscilla Chamessian e o caldo externo que o blog indicou em 2010.

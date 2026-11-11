@@ -305,3 +305,15 @@ O guia inclui fundos de frango, bovino e de peixe entre as opções para dar sab
 ## Carne de panela com fundo bovino
 
 A equipe editorial sugere colocar na panela elétrica de cocção lenta **1,8 kg de carne bovina para assar**, **1 cebola grande**, **3 dentes de alho**, um ramo de alecrim, cenouras picadas, **1 lata de caldo bovino** e **1 lata de extrato de tomate**. A publicação indica um programa de **6 ou 8 h** e deixa em aberto o volume das latas e a potência de cocção. [Budget Eating Recipes, seção Pot Roast](https://web.archive.org/web/20231203131210id_/https://www.marksdailyapple.com/budget-eating-recipes/)
+
+## Latte de chá Earl Grey, rosa e peptídeos de colágeno
+
+Na receita do convidado Simon Cheng, aqueça **120 mL de água** e bata com **120 mL de bebida de macadâmia ou de outra castanha**, **1 sachê de cristais solúveis de chá Earl Grey**, **1 sachê de peptídeos de colágeno**, **1 colher de chá de mel** e um pouco de água de rosas própria para alimentos. Sirva com pétalas de rosa comestíveis. O texto especifica marcas dos sachês e deixa o peso em aberto. [A Definitive Guide to Tea, seção Frothy Rose Earl Grey Latte](https://web.archive.org/web/20231003141743id_/https://www.marksdailyapple.com/health-benefits-of-tea/)
+
+## Patê de fígado de frango com caldo opcional
+
+Na receita de Priscilla Chamessian, refogue **¾ de xícara de cebola picada** e **4 dentes de alho** em **2 colheres de sopa de manteiga**. Doure **340 g de fígado de frango** e use até **2 colheres de sopa de caldo ou água**, aos poucos, se o fundo da frigideira começar a queimar. Junte **60 mL de vinagre balsâmico**, **2 colheres de chá de mostarda Dijon**, alecrim, tomilho, sal, pimenta e louro. Reduza o líquido e cozinhe os fígados até **74 °C**. Retire o louro e processe com o restante de **½ xícara de manteiga** até ficar cremoso. Rende **4 porções**. A publicação deixa o tipo de caldo em aberto e lista suco de limão sem indicar quando adicioná-lo. [A Chicken Liver Paté Recipe That Will Turn You Into a Liver Lover](https://web.archive.org/web/20230903014423id_/https://www.marksdailyapple.com/a-chicken-liver-pate-recipe-that-will-turn-you-into-a-liver-lover/) · [Temperatura mínima para aves e miúdos](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)
+
+## Caldo bovino do Food Renegade indicado no blog
+
+Na versão disponível da receita de Kristen Michaelis, com data exibida de 2016, os ossos carnudos com tutano douram a **175 °C** e vão à panela com partes como cascos, juntas ou ossos do crânio. A receita cobre os ingredientes com água, acrescenta cerca de **2 colheres de sopa de vinagre ou suco de limão**, retira a espuma e propõe **pelo menos 24 h** de cocção branda, repondo água se necessário. Sal e aparas de legumes entram, se desejado, nas últimas horas. O líquido é coado e pode ser reduzido para congelar em porções. A publicação não fixa o peso dos ossos, o volume de água nem o rendimento. [Receita do Food Renegade](https://www.foodrenegade.com/how-to-make-beef-broth/) · [Weekend Link Love nº 87](https://web.archive.org/web/20230927084556id_/https://www.marksdailyapple.com/weekend-link-love-87/)

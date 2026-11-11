@@ -36,6 +36,10 @@ Misture **200 mL de caldo neutro** aquecido, **1 colher de sopa de cacau 100%**,
 
 Distribua **150 g de frango cozido desfiado** e ervas em quatro potes pequenos. Cubra com **400 mL de caldo salgado** que já firme na geladeira. Se o caldo ficar fluido quando frio, hidrate **6–8 g de gelatina incolor** em parte dele, dissolva no restante morno e despeje sobre o frango. Refrigere prontamente em recipientes rasos e sirva frio. A quantidade de pó varia com o rótulo e a firmeza desejada. [Aplicações culinárias](aplicacoes-culinarias.md) · [Conservação](seguranca-conservacao.md)
 
+### Žolce, gelatina salgada eslovena
+
+A Weston A. Price Foundation descreve este prato festivo de caldo de ossos suínos ou bovinos com presunto curado, carne, alho e louro. A versão tradicional cozinha lentamente por 8–9 horas. O caldo é resfriado até firmar, cortado em fatias e servido com vinagre. Confira o sal antes de temperar, pois o presunto pode salgar o caldo. [Receita e tradição eslovena](https://www.westonaprice.org/health-topics/food-features/soups-stews-and-one-pot-meals-of-slovenia/)
+
 ### Gelatina de framboesa e coco
 
 Use **1 lata de leite de coco integral sem açúcar de cerca de 400 mL**, **120 mL de água fria**, **1 xícara de framboesas**, **1 colher de sopa de gelatina incolor** e baunilha. Hidrate a gelatina na água. Aqueça cerca de 120 mL do leite de coco e dissolva a gelatina. Bata o restante do leite de coco com a fruta e a baunilha, junte as duas partes e refrigere em taças. A receita de Mark’s Daily Apple usa a fruta para adoçar. A framboesa entra na conta de carboidratos por porção. [Receita original e versão de salmão](https://www.goodreads.com/author/show/617812.Mark_Sisson/blog?page=377)

@@ -74,6 +74,7 @@
 - [Guan et al. (2024) — emulsão de caldo branco de frango](wiki/fontes/guan-2024-caldo-branco.md)
 - [Ensaios de colágeno tipo II em artrite reumatoide](wiki/fontes/colageno-tipo-ii-artrite-reumatoide.md)
 - [Bannai et al. (2012) · Glicina em restrição de sono](wiki/fontes/bannai-2012-glicina-restricao-sono.md)
+- [ConsumerLab (2025) · Colágeno estimado em caldos comerciais](wiki/fontes/consumerlab-2025-caldos-comerciais.md)
 - [Hoh et al. (1934) · Cálcio e fósforo de costela agridoce](wiki/fontes/hoh-1934-costela-agridoce.md)
 - [Hsu et al. (2017) — minerais e metais em caldos](wiki/fontes/hsu-2017-metais.md)
 - [Instant Pot — Operação e referência de tempo sob pressão](wiki/fontes/instant-pot-caldo-frango.md)

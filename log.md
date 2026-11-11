@@ -147,3 +147,7 @@ O [inventário do Mark’s Daily Apple](raw/inventario-mark-receitas.md) registr
 ## [2026-11-11] ingestão | Guia de 2019 e cadernos culinários oficiais
 
 O [inventário](raw/inventario-wapf-receitas.md) registra as 44 publicações do feed e a ampliação da busca nos anexos oficiais. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) inclui os preparos verificados em dois cadernos de aulas de cozinha.
+
+## [2026-11-11] ingestão | Estimativa de colágeno em dez produtos comerciais
+
+A [nota do ConsumerLab](wiki/fontes/consumerlab-2025-caldos-comerciais.md) registra a faixa divulgada, o método e o limite de acesso à tabela por produto.

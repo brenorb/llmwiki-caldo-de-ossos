@@ -1,0 +1,5 @@
+# ConsumerLab (2025) · Colágeno estimado em caldos comerciais
+
+O laboratório divulgou em 16 de abril de 2025 os resultados agregados de dez produtos bovinos e de frango, líquidos ou em pó, comprados no mercado dos EUA. O método calcula o colágeno a partir da hidroxiprolina determinada por HPLC, com referência ao método AOAC 990.26. A proteína total foi analisada por combustão, em ensaio separado. [Resultados públicos](https://www.consumerlab.com/news/best-bone-broths-collagen-protein-sodium/04-16-2025/) · [Métodos](https://www.consumerlab.com/methods/bone-broth-review/bone-broth/)
+
+O comunicado informa cerca de **1 a 6 g de colágeno estimado por xícara de 8 fl oz** (aproximadamente 237 mL). Destaca uma amostra de 1,3 g e descreve a maioria como próxima de 4 g por xícara. A tabela individual e a preparação detalhada dos pós não estavam no comunicado público. A análise não identifica a distribuição por tipo de colágeno nem a quantidade na receita doméstica. [Composição por preparo](../temas/componentes-por-caldo.md)

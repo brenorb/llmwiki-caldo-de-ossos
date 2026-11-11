@@ -143,6 +143,14 @@ Para oito porções pequenas, use **2 xícaras americanas de leite de coco integ
 2. Dissolva a gelatina hidratada no leite de coco quente. Coe para tirar os talos. Junte o limão e ajuste o dulçor.
 3. Divida em taças e leve à geladeira até firmar. A versão da WAPF indica pelo menos uma hora.
 
+### Panna cotta de abóbora e canela
+
+Para **oito porções**, a receita da *Wise Traditions* usa **2½ xícaras de leite de coco**, **1 xícara de purê de abóbora**, **¼ onça de gelatina incolor (cerca de 7 g)**, **¼ de colher de chá de canela**, **⅛ de colher de chá de sal** e **½ xícara de mel ou xarope de bordo**. [Wise Traditions, inverno de 2012, p. 64](https://www.westonaprice.org/wp-content/uploads/winter2012small.pdf#page=66)
+
+1. Hidrate a gelatina por cerca de **5 minutos** em **½ xícara** do leite de coco frio. Aqueça em fogo baixo, mexendo até dissolver.
+2. Bata o restante do leite de coco com a abóbora, a canela, o sal e o ingrediente escolhido para adoçar. Junte à gelatina dissolvida e aqueça, mexendo, até começar a soltar vapor. Distribua em taças e refrigere até firmar.
+3. Para reduzir carboidratos, use leite de coco integral sem açúcar e substitua o mel ou xarope por adoçante a gosto, seguindo o rótulo do produto. O adoçante não precisa repor o volume da meia xícara. O gel pode ficar mais firme com menos líquido. A abóbora ainda contribui com carboidratos, e a adaptação não foi testada pela wiki.
+
 ### Mousse aerada de framboesa
 
 Use **240 mL de creme de leite fresco pasteurizado**, **120 mL de água**, **170 g de framboesas** e **1½ colher de sopa de gelatina incolor** para a textura de mousse sugerida por Anita Hirth. Para uma panna cotta mais firme, a receita usa **3 colheres de sopa**. O original leva **2–3 colheres de sopa de xarope de bordo**. A própria autora sugere omiti-lo, e a framboesa continua contribuindo com carboidratos. [Receita de Anita Hirth](https://www.westonaprice.org/whipped-raspberry-panna-cotta/)

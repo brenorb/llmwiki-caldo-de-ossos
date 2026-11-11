@@ -403,3 +403,7 @@ A [nota de Thomas et al.](wiki/fontes/thomas-2024-colageno-sono.md) registra os 
 ## [2026-11-11] ingestão | Comentários sobre sono, porções e jejum no Cozinha de Pedra
 
 A [leitura](raw/busca-receitas-relatos.md#comentários-sobre-sono-porções-e-jejum) registrou 48 comentários e respostas em cinco publicações. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-sono-porções-e-jejum) localiza o relato de disposição, a expectativa sobre sono e as perguntas sobre porções.
+
+## [2026-11-11] ingestão | Panna cotta de abóbora e canela
+
+A [ficha de sobremesa](wiki/temas/receitas-gelatina.md#panna-cotta-de-abóbora-e-canela) registra as medidas da edição de inverno de 2012 da WAPF e uma substituição do mel ou do xarope para reduzir carboidratos.

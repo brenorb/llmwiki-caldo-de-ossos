@@ -90,6 +90,7 @@
 - [Meng et al. (2022) — Tempo, composição e aroma do caldo bovino](wiki/fontes/meng-2022.md)
 - [Monro, Leon e Puri (2013) — chumbo em caldos de frango](wiki/fontes/monro-2013-chumbo.md)
 - [Muneaki Yonemitsu (2024) — Caldo e tare no ramen](wiki/fontes/yonemitsu-tonkotsu.md)
+- [Hwang et al. e Kim et al. (2026) · Peptídeos de colágeno e propriedades do fio](wiki/fontes/hwang-kim-2026-peptideos-cabelo.md)
 - [Myung e Park (2025) — Colágeno para pele por qualidade e financiamento](wiki/fontes/myung-park-2025-pele.md)
 - [Namiko Hirasawa Chen — Tonkotsu doméstico](wiki/fontes/just-one-cookbook-tonkotsu.md)
 - [NCHFP · Protocolo de conserva para caldos de carne e aves](wiki/fontes/nchfp-caldo.md)

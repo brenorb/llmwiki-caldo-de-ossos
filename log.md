@@ -427,3 +427,7 @@ O [inventário](raw/inventario-wapf-receitas.md#corte-de-áudio-e-atribuição-d
 ## [2026-11-11] ingestão | Comparação entre os relatos de eczema e os ensaios de peptídeos
 
 A [nota sobre dermatite atópica](wiki/fontes/proksch-2026-colageno-dermatite.md) registra o uso de creme de resgate, os resultados sem diferença entre os grupos e a data do registro do piloto. A [síntese](wiki/temas/relatos-e-evidencia.md) vincula essa evidência indireta aos relatos da WAPF.
+
+## [2026-11-11] revisão | Duas edições pendentes de Weekend Link Love
+
+O [inventário histórico](raw/inventario-mark-receitas.md#versões-de-impressão-e-quatro-lacunas-restantes) registra o salto do nº 215 ao 217 no feed e o redirecionamento arquivado do nº 263. A contagem de caminhos com corpo próprio permanece em 5.443.

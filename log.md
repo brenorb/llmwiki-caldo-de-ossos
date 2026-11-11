@@ -263,3 +263,7 @@ O [registro das entrevistas](raw/mark-sisson-entrevistas.md) localiza declaraç�
 ## [2026-11-11] revisão | Busca de áudio dos oito destaques
 
 A [trilha de acesso](raw/busca-receitas-relatos.md#destaques-do-cozinha-de-pedra) registra o resultado das consultas a oito páginas públicas, oito incorporações, dois arquivos da web e a tentativa na sessão autenticada.
+
+## [2026-11-11] ingestão | Carne asada, torta de carne e caldo no arquivo histórico
+
+A [leitura paralela](raw/inventario-mark-receitas.md#leitura-paralela-da-wayback-e-do-common-crawl) chegou a 4.900 de 5.447 caminhos. As [fichas](wiki/temas/receitas-mark-sisson.md) incorporam quatro usos de caldo em pratos com carne, incluindo a versão de torta com couve-flor.

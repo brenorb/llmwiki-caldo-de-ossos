@@ -250,3 +250,19 @@ O guia de cortes do *Mark’s Daily Apple*, na versão atualizada em 2023, suger
 ## Infusão de camomila e lavanda com peptídeos opcionais
 
 Na versão de 2023, deixe **1 colher de sopa de flores secas de camomila** e **1 colher de sopa de lavanda** em **475 mL de água fervente**, com tampa, por **5 min**. Se desejar, acrescente erva-cidreira na infusão. Coe e divida em duas xícaras. A receita oferece **1 medida de peptídeos de colágeno sem sabor por xícara**, adicionada após coar. A publicação deixa o peso da medida em aberto. [Herbal Tea Recipes, seção Chamomile tea for sleep and stress relief](https://web.archive.org/web/20231202012514id_/https://www.marksdailyapple.com/herbal-tea/)
+
+## Torta de carne com purê de couve-flor
+
+Na receita de Cherie Randall, cozinhe **1 couve-flor** no vapor e bata com **2 colheres de sopa de manteiga**. Para o recheio, refogue **1 cebola** e doure **450 g de carne bovina ou de bisão moída**. Junte **1 xícara de ervilhas e cenouras** e **¾ de xícara de vagem**, cozinhe por **5 min** e misture **1 colher de sopa de farinha de coco ou de amêndoas**. Adicione **180 mL de fundo ou caldo bovino**, tomilho e alecrim e cozinhe em fogo brando por mais **5 min**. Cubra com o purê e pedaços de manteiga e asse a **205 °C** por **30–35 min**. [Shepherd’s Pie](https://web.archive.org/web/20230930115347id_/https://www.marksdailyapple.com/shepherds-pie/)
+
+## Fraldinha marinada em caldo bovino
+
+Na receita de Darlene, corte **680 g de fraldinha** em tiras diagonais e cubra com **240–355 mL de caldo bovino**, suco de **2 limas** e **1 laranja**, alho, jalapeño, coentro, cominho, pimenta em pó, orégano e caiena. Marine na geladeira por pelo menos **3 h**. Descarte a marinada, salgue a carne e grelhe ou doure as tiras em frigideira. A publicação oferece o caldo bovino como alternativa à cerveja. [Carne Asada](https://web.archive.org/web/20230926084110id_/https://www.marksdailyapple.com/carne-asada/)
+
+## Salteado de raízes e carne braseada
+
+Doure **450 g de carne bovina ou suína** temperada com páprica e sal. Aqueça **240 mL de fundo bovino**, **2 colheres de sopa de vinagre de vinho tinto** e louro na mesma frigideira por **3–5 min**, raspando o fundo. Despeje sobre a carne e asse coberto a **160 °C** por cerca de **2 h**, até desfiar. Para o salteado, cozinhe **2 cenouras**, **2 pastinacas**, **2 nabos ou rutabagas** e **1 beterraba** em água por **10–15 min**. Escorra e doure com cebola, a carne cozida e cominho por **15–30 min**. Finalize com **4 ovos**, que podem cozinhar na própria panela. Rende **4–6 porções**. [Root Vegetable Hash](https://web.archive.org/web/20230923171446id_/https://www.marksdailyapple.com/root-vegetable-hash/)
+
+## Carne com brócolis e molho de caldo de frango
+
+Marine **450 g de carne bovina em tiras** em tamari, xerez seco e pimenta-do-reino por pelo menos **10 min**. Escalde **450 g de brócolis** por **2 min** e escorra. Salteie a carne e o alho em óleo de coco, junte os brócolis e o molho de **80 mL de caldo de frango**, tamari, xerez seco e molho de peixe ou de ostra. Aqueça até ferver e engrosse com **1 colher de chá de farinha**. Rende **4 porções**. [Better than Take-Out Beef and Broccoli](https://web.archive.org/web/20230927091630id_/https://www.marksdailyapple.com/beef-and-broccoli-recipe/)

@@ -331,3 +331,7 @@ O [inventário dos lotes ampliados](raw/inventario-wapf-receitas.md#progresso-do
 ## [2026-11-11] revisão | Cópias de entrevistas históricas e Primal Endurance
 
 O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#recuperação-de-entrevistas-históricas) registra a busca em 19 páginas históricas. A [seção Primal Endurance](raw/mark-sisson-entrevistas.md#primal-endurance) cobre as notas de 100 episódios e a transcrição integral da entrevista com Jacques DeVore.
+
+## [2026-11-11] revisão | Vídeo oficial de Two Meals A Day
+
+A [trilha de recuperação](raw/mark-sisson-entrevistas.md#recuperação-de-entrevistas-históricas) acrescenta a comparação da legenda do canal Mark’s Daily Apple com a transcrição publicada pelo coautor.

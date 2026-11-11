@@ -35,3 +35,7 @@ Entraram fichas de caldo e gelatina, adaptações com menos carboidratos e uma c
 ## [2026-11-11] ingestão | Composição de quatro caldos bovinos
 
 Um [TCC da UnB](wiki/fontes/souza-caldo-bovino-tcc.md) compara quatro preparos com e sem vinagre. A tabela de componentes registra as medidas por 100 g e distingue a proteína bruta de uma dosagem específica de colágeno.
+
+## [2026-11-11] ingestão | Catálogos culinários e legendas do Cozinha de Pedra
+
+A wiki ganhou [fichas de Mark’s Daily Apple](wiki/temas/receitas-mark-sisson.md) e um [catálogo de 73 itens da Weston A. Price Foundation](wiki/temas/receitas-wapf-catalogo.md). A revisão individual das 395 páginas do Instagram expandiu as legendas disponíveis. O [registro de acesso](raw/busca-receitas-relatos.md) identifica a cobertura parcial de áudio, carrosséis e destaques.

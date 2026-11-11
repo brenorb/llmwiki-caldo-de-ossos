@@ -187,3 +187,7 @@ A [revisão de 105 candidatos](raw/inventario-wapf-receitas.md) acrescentou prep
 ## [2026-11-11] ingestão | Carrosséis antigos de imunidade e saciedade
 
 A [trilha de acesso](raw/busca-receitas-relatos.md) registra a conferência de seis publicações antigas. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) registra as alegações sobre glutationa, imunidade e fome e as medidas que as fontes clínicas avaliaram.
+
+## [2026-11-11] ingestão | Mariscos e vídeos do concurso do Mark’s Daily Apple
+
+O [inventário histórico](raw/inventario-mark-receitas.md#replays-adicionais-e-vídeos-do-concurso-de-2011) registra 4.231 textos triados, o acesso aos vídeos e as buscas nas capturas antigas. As [receitas](wiki/temas/receitas-mark-sisson.md) incluem fundo de camarão e mexilhões com caldo de tomate.

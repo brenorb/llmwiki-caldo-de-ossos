@@ -9,6 +9,18 @@ Consulta em 2026-11-11. Escopo temático de caldos de ossos, fundos relacionados
 | [Weston A. Price Foundation](https://www.westonaprice.org/) | Foi feita triagem do texto corrente das 6.376 URLs distintas dos 15 mapas subordinados. A API REST, os feeds por tipo e o HTML direto cobriram o sitemap inteiro. O filtro sinalizou 1.089 URLs, incluindo menções de passagem e índices. Também foram verificadas 240 capturas históricas, 47 páginas culinárias adicionais, 69 páginas de cartas sinalizadas e as 44 publicações do feed de edições, com 5.375 páginas em PDFs oficiais. O guia de 2019 foi recuperado pelo anexo público do WordPress. A fila de anexos tentou os 524 endereços oficiais inventariados e verificou 486 arquivos distintos, com 15.374 páginas físicas. Havia texto nativo em 15.177 páginas. O OCR produziu texto em 584 das 589 páginas selecionadas por falta de camada textual ou extração insuficiente. [Métodos e denominadores](inventario-wapf-receitas.md#triagem-do-texto-corrente-de-todas-as-urls-do-sitemap) | A leitura manual conferiu as fontes incorporadas. Permanecem lacunas de mídias sem transcrição, anexos fora do inventário e páginas fora do mapa. |
 | Estudos | As alegações foram cruzadas com as notas de composição, artrose, pele, sono, saúde intestinal e canície. Também se conferiu o resumo do estudo aberto de Hexsel et al. sobre unhas. | A revisão compara os materiais recuperados. As conclusões de ensaios de suplementos referem-se às doses e aos produtos dos estudos. |
 
+## Comentários sobre cabelo e colágeno
+
+Na sessão autenticada foram percorridas as listas de três publicações e abertos os grupos de respostas exibidos. Os totais abaixo contam identificadores distintos de comentários após o carregamento. As respostas removidas, ocultadas ou indisponíveis na sessão ficam fora dessas contagens.
+
+| Publicação | Comentários principais | Respostas carregadas | Total |
+| --- | ---: | ---: | ---: |
+| [Cabelo e amarelado dos fios](https://www.instagram.com/cozinhadepedra/p/CIlPnYnM39G/) | 12 | 14 | 26 |
+| [Carrossel de relatos estéticos](https://www.instagram.com/cozinhadepedra/p/CKaGLAaMB_L/) | 128 | 137 | 265 |
+| [Reel sobre colágeno e envelhecimento](https://www.instagram.com/cozinhadepedra/reel/CPtZ8wgFMrW/) | 78 | 79 | 157 |
+
+A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-cabelo-e-colágeno) relaciona as respostas da autora às perguntas sobre folato e tipos de colágeno. A busca nas demais listas de comentários da grade permanece em aberto.
+
 ## Busca complementar de estudos humanos
 
 Em 2026-11-11, uma consulta de título e resumo no PubMed combinou `"bone broth" OR "bone soup" OR "bone broths" OR "bone soups" OR "sagol" OR "gomtang" OR "tonkotsu"`. O índice retornou 58 registros. A triagem não identificou ensaio humano terapêutico adicional de caldo de ossos para digestão, sono, articulações ou pele. A busca por intervenção na API do ClinicalTrials.gov localizou o programa de dieta e peso já registrado, NCT05740670. Buscas por fundos de frango e bovino retornaram intervenções diferentes, como caldo de peito de frango, diagnóstico de alergia e preparo para colonoscopia. Uma consulta ao ANZCTR recuperou os registros já catalogados de absorção de aminoácidos e permeabilidade intestinal. [Matriz de estudos](../wiki/temas/alegacoes-saude.md) · [Achados observacionais e relatos de segurança](../wiki/fontes/huo-2023-pandita-2011-seguranca.md)

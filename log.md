@@ -287,3 +287,7 @@ A [nota do episódio](wiki/fontes/cozinha-de-pedra-caldo.md#entrevista-no-batata
 ## [2026-11-11] ingestão | Sopas, molhos e retomada do arquivo de Sisson
 
 O [inventário histórico](raw/inventario-mark-receitas.md#retomada-com-deduplicação-entre-os-arquivos) registra a triagem de 5.108 de 5.447 caminhos e a contagem por fonte. As [fichas](wiki/temas/receitas-mark-sisson.md) acrescentam usos de fundo para peru, sopa de frango, abóbora e cogumelos.
+
+## [2026-11-11] ingestão | Conversas sobre folato e fios brancos
+
+A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-cabelo-e-colágeno) registra 448 comentários e respostas em três publicações. A [página de canície](wiki/temas/cabelos-brancos.md) localiza a hipótese de folato, as divulgações de Peter Liu e o relato de progressão percebida.

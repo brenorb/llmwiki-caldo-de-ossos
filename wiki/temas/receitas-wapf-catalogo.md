@@ -96,3 +96,32 @@ As três sopas abaixo aparecem juntas em *Soup-stenance*, artigo da WAPF publica
 | Tomate com abóbora-manteiga | Fundo ou água, com creme e parmesão | Abóbora, cebola e tomate | Troque parte da abóbora por couve-flor e use creme pasteurizado. |
 | Pimentão vermelho e gengibre | Fundo de frango, com limão e iogurte na hora de servir | Batata, cenoura e cebola | Troque a batata por couve-flor. Use iogurte natural sem açúcar ou sirva sem cobertura. |
 | Brócolis cremoso com queijo | Fundo de frango, parmesão e cheddar | Batata-doce e cebola | Use couve-flor no lugar da batata-doce e bata parte dos brócolis para dar corpo. |
+
+Outros usos localizados fora das categorias de receita.
+
+| Receita original | Base | Ingredientes que influenciam os carboidratos | Opção com menos carboidratos |
+| --- | --- | --- | --- |
+| [Marrow Broth](https://www.westonaprice.org/health-topics/bone-marrow-nutrient-benefits/) | Ossos de tutano, articulações e pescoço em água | Sem açúcar, farinha ou grãos | Coe e ajuste o sal no prato se quiser usar o fundo em receitas diferentes. |
+| [Sopa de ossos com legumes](https://www.westonaprice.org/health-topics/modern-diseases/liver-detoxification-starve-or-nourish/) | Caldo com cebola, alho, legumes e vinagre | Legumes variáveis e pão de fermentação natural na hora de servir | Use folhas, couve-flor ou abobrinha e dispense o pão. O artigo apresenta uma alegação de desintoxicação sem testar a sopa em ensaio. |
+
+## Fichas do livreto *Healthy 4 Life*
+
+As páginas abaixo são as da numeração impressa. A triagem por *broth*, *stock* e *gelatin* no [livreto da WAPF](https://www.westonaprice.org/wp-content/uploads/Healthy4LifeEnglish.pdf) localizou os seguintes preparos com caldo animal.
+
+| Ficha | Base | Ingredientes que influenciam os carboidratos | Opção com menos carboidratos |
+| --- | --- | --- | --- |
+| Caldo de rabo bovino, p. 12 | Rabo bovino e água | Aromáticos e vinho opcional | Use a versão sem vinho e coe para usar como fundo. |
+| Caldo de frango, p. 13 | Partes de frango ou ave inteira | Aromáticos, sem amido adicionado | Separe uma porção antes de salgar. |
+| Frango assado com molho de mostarda, p. 14 | Caldo de frango reduzido com os sucos da assadeira e creme | Confira a mostarda e o creme | O próprio molho engrossa por redução, sem farinha. |
+| Curry de frango, p. 15 | Caldo de frango com creme e curry | Farinha, arroz integral e uvas-passas opcionais | Reduza para dar corpo e sirva com couve-flor triturada, sem passas. |
+| Ensopado de carne, p. 16 | Caldo de rabo ou água | Batata, cenoura e outras raízes conforme a mistura | Use mais cogumelos, abobrinha ou chuchu e menos batata. |
+| Carne ao vinho, p. 17 | Caldo de rabo e vinho | Farinha de trigo e vinho | Doure a carne sem enfarinhar e reduza o molho ao final. |
+| Patê de fígado de frango, p. 18 | Caldo de frango reduzido com fígado, gordura e ervas | Confira acompanhamentos como pão ou bolachas | Sirva com pepino, salsão ou em folhas. |
+| Arroz integral, p. 38 | Água ou caldo de frango | Arroz integral | Salteie couve-flor triturada e acrescente apenas o caldo necessário para dar sabor. |
+| Arroz integral de panela, pp. 38–39 | Água ou caldo de frango, aromáticos e ervas | Arroz integral | Use couve-flor triturada e reduza a quantidade de líquido. |
+| Sopa de lentilha com curry, p. 43 | Caldo de frango ou água, com creme | Lentilha | Para reduzir o amido, bata parte de uma sopa de couve-flor com o caldo, o curry e o creme. |
+| Sopa cremosa de abobrinha, p. 52 | Caldo de frango com creme | Batata e croutons | Troque a batata por couve-flor e sirva sem croutons. |
+| Sopa de bacon e legumes, p. 53 | Caldo de frango com bacon e creme | Milho, cenoura e cebola | Troque o milho por abobrinha em cubos e use o bacon só para temperar. |
+| Sopa de cebola, p. 53 | Caldo de rabo e creme | Cebola e vinho opcional | Use porção menor ou substitua parte da cebola por cogumelos. |
+| Molho de creme e mostarda, p. 70 | Caldo de frango, creme, mostarda, salsa e vinho opcional | Confira os rótulos do creme e da mostarda | Ferva suavemente até reduzir. A fórmula dispensa farinha. |
+| Sopa de leite de coco, p. 72 | Caldo de frango, coco, gengibre e limão | Leite de coco se adoçado | Use leite de coco integral sem açúcar e tempere a gosto. |

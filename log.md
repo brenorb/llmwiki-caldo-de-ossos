@@ -207,3 +207,7 @@ A [triagem histórica](raw/inventario-mark-receitas.md#continuação-da-leitura-
 ## [2026-11-11] ingestão | Leitura dos 65 cartões de Sucessos
 
 A [nota do destaque](wiki/fontes/cozinha-de-pedra-caldo.md#destaque-sucessos) identifica republicações e localiza os relatos por cartão. A [comparação por desfecho](wiki/temas/relatos-e-evidencia.md) documenta o que foi medido nos estudos sobre lesão por pressão e prevenção de alergia. A [página de canície](wiki/temas/cabelos-brancos.md) registra o que o comentário sobre cílios informa.
+
+## [2026-11-11] ingestão | Caldo de costela de Bogotá
+
+A [ficha culinária](wiki/temas/receitas-caldo.md#caldo-de-costela-de-bogotá) inclui a versão com batatas e uma adaptação com chuchu. A [comparação de evidência](wiki/temas/relatos-e-evidencia.md) registra o uso tradicional para ressaca e a busca por ensaios.

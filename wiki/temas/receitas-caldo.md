@@ -45,6 +45,12 @@ Mandagará dilui caldo bovino com um pouco de água, junta frango já frito na g
 
 Na versão com legumes, junte ao caldo tomates-cereja, cenoura e pimentão picados. Cozinhe até ficarem macios e deixe o ovo firmar no caldo. A autora também sugere finalizar com salsinha, queijo ralado e azeite. [Live do Cozinha de Pedra, 18:28–19:15 e 20:23–21:21](https://www.instagram.com/cozinhadepedra/reel/CDfKkCrFkzv/) · [Reel, 00:35–00:49](https://www.instagram.com/cozinhadepedra/reel/B7ACPN-DY8r/) · [Fotos e legenda do preparo com ovo](https://www.instagram.com/cozinhadepedra/p/B8Kte42DbFb/)
 
+## Caldo de costela de Bogotá
+
+Para seis porções, o receituário do Instituto Distrital de Turismo usa **1,25 kg de costela bovina cortada**, **8 batatas médias**, **50 g de coentro** e **100 g de cebolinha grossa** (*cebolla larga*). Cozinhe a costela na pressão com água, os talos do coentro e a parte verde da cebolinha, dentro do limite de enchimento da panela. Quando a carne amaciar, retire os talos, ajuste o sal e cozinhe as batatas no caldo até ficarem macias. Sirva a costela no caldo e finalize com coentro e cebolinha picados. A ficha original também sugere caldo de costela em pó a gosto. [Bogotá, entre relatos y recetas](https://www.idt.gov.co/sites/default/files/BOGOTA-ENTRE-RELATOS-Y-RECETAS.pdf#page=26)
+
+A batata fornece boa parte dos carboidratos da sopa. Para uma versão com menos carboidratos, use pedaços de chuchu no lugar da batata e cozinhe até amaciar. O *Recetario Santafereño* traz uma versão de panela comum, com costela cozida em água até ficar macia antes de juntar as batatas. [Recetario Santafereño, Caldo de costilla](https://idartesencasa.gov.co/sites/default/files/libros_pdf/88.%20Recetario%20Santafereno.pdf)
+
 ## Sopa à moda italiana com linguiça e abobrinha
 
 A [receita publicada pelos autores do Senhor Tanquinho](https://www.senhortanquinho.com/sopas-caldos-low-carb/) rende oito porções. Doure **500 g de linguiça italiana** e **500 g de patinho ou músculo** numa panela grande. Junte **4 xícaras de caldo**, **500 g de abobrinha**, **5 tomates**, **1 pimentão verde**, **1 xícara de salsão** e **meia cebola**, picados. Cozinhe tampado em fervura branda até os legumes ficarem macios e a carne estar cozida. Finalize com ervas, sal e pimenta. A publicação sugere cerca de uma hora. Para reduzir o açúcar adicionado, confira o rótulo da linguiça. O teor por porção depende do caldo, da linguiça e dos legumes. [Anúncio da receita no Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/p/CAVe_btDb3Z/)

@@ -139,3 +139,7 @@ O [inventário da WAPF](raw/inventario-wapf-receitas.md) incorpora o guia de 201
 ## [2026-11-11] ingestão | Fontes citadas nos carrosséis de sono e tutano
 
 As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) localizam as fontes sobre adiponectina e o uso de caldo no esporte. A [nota de Bannai et al.](wiki/fontes/bannai-2012-glicina-restricao-sono.md) registra a amostra humana e o experimento separado sobre melatonina.
+
+## [2026-11-11] ingestão | Busca histórica fora da janela inicial
+
+O [inventário do Mark’s Daily Apple](raw/inventario-mark-receitas.md) registra a consulta individual de 150 endereços e a cobertura de 3.613 textos no corte. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) inclui a coluna de Sisson sobre indisposição.

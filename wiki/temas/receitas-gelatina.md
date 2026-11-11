@@ -32,6 +32,13 @@ Uma variação da live usa caldo neutro frio com limão espremido e gengibre em 
 
 Para uma mousse de limão, uma convidada sugere bater caldo neutro, suco de limão, creme de leite pasteurizado e eritritol, com baunilha opcional. Sirva gelado como bebida ou refrigere em taças. Para um recheio que mantenha o corte, ela acrescenta gelatina incolor. Comece pela proporção do rótulo, considerando que o caldo já dá corpo. Uma cobertura de frutas vermelhas sem açúcar adicionado reduz o açúcar em comparação com uma geleia comum. [Live do Cozinha de Pedra, 1:02:48–1:03:26 e 1:09:12–1:10:12](https://www.instagram.com/cozinhadepedra/reel/CKz54x8plal/)
 
+### Torta fria de limão com gordura do caldo
+
+Mandagará descreve uma base de farinha de amêndoas com a gordura separada do caldo e recheio de caldo gelificado com limão. A entrevista não fixa medidas. [Batata Assando, 51:44–52:06](../fontes/cozinha-de-pedra-caldo.md#entrevista-no-batata-assando)
+
+1. **Massa de teste.** Misture **2½ xícaras de farinha de amêndoas**, **¼ de xícara de gordura limpa do caldo neutro**, **1 ovo** e uma pitada de sal. Pressione no fundo de uma forma de 23 cm e asse a **175 °C** até dourar levemente, começando a verificar aos **8 minutos**. A proporção se baseia na massa de Maya Krampf. Usar a gordura do caldo no lugar da manteiga é uma adaptação da wiki. [Massa de amêndoas](https://www.wholesomeyum.com/recipes/almond-flour-pie-crust-recipe-paleo-low-carb-gluten-free/)
+2. **Cobertura de teste.** Derreta **250 mL de caldo neutro firme** e junte **1–2 colheres de sopa de suco de limão** e eritritol a gosto. Deixe amornar, espalhe sobre a massa fria e refrigere até firmar. O resultado é uma camada fina. Se precisar de mais firmeza, ajuste conforme a [ficha de gelatina de limão](#limonada-e-gelatina-de-limão).
+
 ### Cubos de caldo para bebida com tônica
 
 A autora cita trocar o gelo do gim-tônica por cubos de caldo neutro congelado. Para reduzir o açúcar adicionado, use tônica sem açúcar. Uma versão sem álcool usa a tônica, os cubos e limão. Sirva logo após misturar. [Live do Cozinha de Pedra, 46:43–48:00](https://www.instagram.com/cozinhadepedra/reel/CJZssQTp3Op/)

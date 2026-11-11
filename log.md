@@ -279,3 +279,7 @@ A [nota dos ensaios](wiki/fontes/gelatina-saciedade-ensaios.md) distingue difere
 ## [2026-11-11] ingestão | Podcasts curtos da WAPF e inventário em espanhol
 
 O [inventário de áudio](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventário-de-áudio) registra a transcrição integral dos 16 episódios curtos sinalizados e de um episódio adicional em inglês. A [série em espanhol](raw/inventario-wapf-receitas.md#série-em-espanhol) tem 189 itens inventariados e um episódio sobre caldo transcrito integralmente neste corte.
+
+## [2026-11-11] ingestão | Entrevista de Mandagará no Batata Assando
+
+A [nota do episódio](wiki/fontes/cozinha-de-pedra-caldo.md#entrevista-no-batata-assando) registra a transcrição integral, a descrição de fios escuros novos e os trechos culinários. A [página de canície](wiki/temas/cabelos-brancos.md) localiza a provável repetição do caso. As [receitas](wiki/temas/receitas-gelatina.md#torta-fria-de-limão-com-gordura-do-caldo) trazem a adaptação da torta de limão.

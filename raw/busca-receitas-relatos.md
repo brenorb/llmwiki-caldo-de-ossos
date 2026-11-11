@@ -53,6 +53,8 @@ Na verificação posterior, as faixas AAC de três lives foram comparadas aos bl
 
 Uma segunda passagem examinou blocos sem texto e finais com intervalo longo entre a última fala reconhecida e o fim da faixa. Recuperou fala em três gravações, sem alterar o total de 106 transcrições. Na live de **2h55min11s**, houve recuperação entre **50:00–55:59**, entre **2:12:00–2:13:59** e no encerramento, com texto até **2:55:09**. As outras duas recuperações foram **32:01–33:57** na conversa sobre pés de frango e **40:00–40:24** no encerramento de outro reel. As versões revisadas e as saídas originais estão no acervo local. [Live de 2h55](https://www.instagram.com/cozinhadepedra/reel/CI1wSgxpG6p/) · [Pés de frango](https://www.instagram.com/cozinhadepedra/reel/CIjmXYFJO1o/) · [Reel com encerramento recuperado](https://www.instagram.com/cozinhadepedra/reel/CRSYx-MJmLy/)
 
+Uma gravação complementar de **59 min 01 s** do Batata Assando com Mandagará foi recuperada pelo arquivo público de áudio da distribuição do episódio. Os **30 blocos** foram processados e o TXT automático termina com fala em **59:00**. [Episódio](https://podtail.com/podcast/podcast-batata-assando/caldo-de-ossos-o-que-e-como-fazer-e-por-que-tomar-/) · [Trechos verificados](../wiki/fontes/cozinha-de-pedra-caldo.md#entrevista-no-batata-assando)
+
 ## Destaques do Cozinha de Pedra
 
 A sessão autenticada exibiu **oito destaques e 248 cartões**. O total vem dos segmentos de progresso de cada sequência. A leitura visual foi confirmada para os 248 cartões dos oito destaques. A leitura visual de um cartão em vídeo confirma o que apareceu na tela. A fala exige verificação da trilha.

@@ -110,6 +110,7 @@
 - [Simental-Mendía et al. (2025) — Suplementos orais e artrose do joelho](wiki/fontes/simental-mendia-2025-artrose.md)
 - [Snitkjær et al. (2010) — O que muda ao reduzir caldo bovino](wiki/fontes/snitkjaer-2010.md)
 - [Souza, Mustafa e Oliveira (org., 2017) · Caldos de mocotó em receituário acreano](wiki/fontes/edufac-mocoto.md)
+- [Coreia do Sul · Receita e composição de seolleongtang](wiki/fontes/coreia-seolleongtang.md)
 - [TBCA · Caldo de mocotó sem sal, BRC0878F](wiki/fontes/tbca-mocoto.md)
 - [USDA/FSIS · Resfriar, guardar e reaquecer sobras](wiki/fontes/usda-sobras.md)
 - [USDA/FSIS — Ave crua e panela de cocção lenta](wiki/fontes/usda-preparo-aves-coccao-lenta.md)

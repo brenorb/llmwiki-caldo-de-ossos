@@ -31,6 +31,17 @@ A versão demonstrada no Cozinha de Pedra usa cerca de **1 kg de partes de frang
 3. Coe, prove e resfrie em porções pequenas. Para servir, aromatize uma porção com gengibre, anis-estrelado, canela e coentro em grão ou use alho-poró e manteiga. A versão com manteiga contém laticínios.
 4. O ácido é opcional para o sabor. Estudos sobre a extração de minerais dependem do pH, da matéria-prima e do método. [Receita e variações do Mark’s Daily Apple](../fontes/mark-sisson-caldo-gelatina.md) · [Medições de minerais](../fontes/hsu-2017-metais.md)
 
+## Seolleongtang, sopa coreana de ossos bovinos
+
+A receita publicada pelo Korea.net usa **1 kg de osso de joelho bovino**, **600 g de cartilagem**, **700 g de língua**, **200 g de peito**, **200 g de músculo** e **7 L de água para a cocção**, além da água do branqueamento. Separe cebola, alho, gengibre e cebolinha para aromatizar e servir. [Receita do Institute of Traditional Korean Food](https://www.korea.net/NewsFocus/Culture/view?articleId=130875)
+
+1. Branqueie os ossos, a cartilagem e a língua por cinco minutos. Descarte a água do branqueamento.
+2. Cubra os ossos e a cartilagem com a água de cocção. A ficha usa uma hora em fervura forte e cinco horas em fogo médio, retirando a espuma que sobe.
+3. Junte a língua, o peito e o músculo. Cozinhe por uma hora, adicione os aromáticos e cozinhe por mais uma hora. Termine com cerca de 30 minutos em fogo baixo, até a carne amaciar.
+4. Corte a carne cozida e sirva com o caldo quente, cebolinha, sal e pimenta a gosto. Se for desengordurar o caldo depois de frio, [resfrie-o em porções rasas](seguranca-conservacao.md).
+
+O arroz acompanha o prato tradicional. Para reduzir os carboidratos, sirva apenas o caldo com a carne e os temperos. A análise coreana de uma versão de restaurante reúne os ingredientes da porção, sem um resultado separado para o caldo coado. [Ficha de composição e variantes](../fontes/coreia-seolleongtang.md)
+
 ## Sopa cremosa de chuchu com caldo e torresmo
 
 Como ponto de partida da wiki para duas porções, use **1 chuchu médio** e **400 mL de caldo de ossos**. A live descreve o método sem dar medidas.

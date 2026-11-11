@@ -315,3 +315,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-preparo-po
 ## [2026-11-11] ingestão | Panna cotta de capim-limão e picolé de hibisco
 
 A [página de gelatinas](wiki/temas/receitas-gelatina.md#panna-cotta-de-coco-e-capim-limão) traz a proporção publicada de leite de coco e gelatina, além de uma [adaptação dos Gelasicles](wiki/temas/receitas-gelatina.md#picolé-de-hibisco-coco-e-framboesa) com menos açúcar.
+
+## [2026-11-11] ingestão | Seolleongtang e sua composição
+
+A [receita coreana](wiki/temas/receitas-caldo.md#seolleongtang-sopa-coreana-de-ossos-bovinos) inclui a opção de servir sem arroz. A [ficha de fonte](wiki/fontes/coreia-seolleongtang.md) registra minerais e aminoácidos para o prato de restaurante e o dado de folato de outra preparação, com massa de referência ausente.

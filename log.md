@@ -174,7 +174,7 @@ A [triagem histórica](raw/inventario-mark-receitas.md#receitas-e-alegações-na
 
 ## [2026-11-11] ingestão | Carrosséis de jejum, dor e flacidez
 
-A [trilha de acesso](raw/busca-receitas-relatos.md) registra a conferência visual de mais 24 carrosséis e as verificações de trilha. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) relaciona os relatos às publicações originais e identifica as imagens repetidas na série sobre jejum.
+A [trilha de acesso](raw/busca-receitas-relatos.md) registra a conferência visual de mais 25 carrosséis e as verificações de trilha. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) relaciona os relatos às publicações originais e identifica as imagens repetidas na série sobre jejum.
 
 ## [2026-11-11] ingestão | Ensaios de peptídeos e propriedades do fio
 

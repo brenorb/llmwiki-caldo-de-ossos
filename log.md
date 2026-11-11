@@ -471,3 +471,7 @@ Foram conferidos [221 registros em 14 publicações](raw/busca-receitas-relatos.
 ## [2026-11-11] ingestão | Entrevistas de Peak Human e The Bossticks
 
 A [triagem dos dois feeds](raw/mark-sisson-entrevistas.md#peak-human-e-the-bossticks) localizou seis episódios que creditam Sisson. As seis gravações foram transcritas integralmente, com quase 6h49min de áudio. O [quadro de relatos](wiki/temas/relatos-e-evidencia.md) registra o contexto das mudanças relatadas na entrevista sobre sintomas intestinais.
+
+## [2026-11-11] ingestão | Peptídeos no plasma após gelatina e hidrolisados
+
+A [nota de estudos](wiki/fontes/virgilio-iwasaki-peptideos.md) registra as formas de colágeno administradas, as medidas plasmáticas e os limites para avaliar a equivalência clínica alegada em comentários.

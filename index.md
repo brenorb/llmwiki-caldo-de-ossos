@@ -121,6 +121,7 @@
 - [Kuroda e Nozawa (2008) · Fundo de bonito seco, fadiga e disposição](wiki/fontes/kuroda-2008-bonito-fadiga.md)
 - [Proksch et al. (2026) · Peptídeos de colágeno e dermatite atópica](wiki/fontes/proksch-2026-colageno-dermatite.md)
 - [Thomas et al. (2024) · Peptídeos de colágeno e sono](wiki/fontes/thomas-2024-colageno-sono.md)
+- [Iwasaki e Virgilio · Peptídeos no plasma após gelatina e hidrolisados](wiki/fontes/virgilio-iwasaki-peptideos.md)
 - [Yamadera et al. (2007) — Glicina isolada e sono](wiki/fontes/yamadera-2007-glicina-sono.md)
 - [Yamamoto e Tomimori (1998) — Pressão e caldo de ossos de frango](wiki/fontes/yamamoto-tomimori-1998.md)
 - [Zeng e Zhang (2014) — Condições de extração em caldo de frango](wiki/fontes/zeng-zhang-2014.md)

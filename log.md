@@ -231,3 +231,7 @@ A [trilha de áudio](raw/busca-receitas-relatos.md#áudio-dos-reels) registra a 
 ## [2026-11-11] ingestão | Destaque Aprenda aqui e receitas de caldo neutro
 
 A [trilha de acesso](raw/busca-receitas-relatos.md#destaques-do-cozinha-de-pedra) registra os 52 cartões vistos e a pendência das trilhas. A [nota do destaque](wiki/fontes/cozinha-de-pedra-caldo.md#destaque-aprenda-aqui) localiza as receitas, e as [fichas](wiki/temas/receitas-gelatina.md#com-caldo-de-ossos-neutro) acrescentam flan de coco, picolé em camadas, café batido, caldo com canela e batida de morango.
+
+## [2026-11-11] ingestão | Receitas em passagens adicionais da WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md#passagens-adicionais-e-inventário-de-áudio) registra 214 passagens conferidas e a disponibilidade de transcrição nos podcasts selecionados. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) acrescenta sete preparos. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) registra menções a cálcio, B12 e ácido hialurônico e identifica o que as fontes mediram.

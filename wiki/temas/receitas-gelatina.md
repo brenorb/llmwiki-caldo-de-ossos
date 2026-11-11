@@ -30,6 +30,10 @@ Misture **200 mL de caldo neutro** aquecido, **1 colher de sopa de cacau 100%**,
 2. Leve ao fogo com caldo, especiarias e adoçante. Incorpore coco ralado, leite de coco e a água da receita e cozinhe em fogo brando até a castanha ficar macia.
 3. Retire do fogo enquanto a mistura ainda estiver fluida. Ela engrossa ao esfriar. O caju contribui com carboidratos, então avalie a porção conforme a sua meta. [Receita do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/p/CBxgKWiKPvU/)
 
+### Sacolé de iogurte, frutas vermelhas e caldo neutro
+
+Para um lote de teste, use **170 g de iogurte natural sem açúcar**, **60 g de morangos ou framboesas** e **80 g de caldo neutro já gelificado**. Bata o iogurte com a fruta, incorpore o caldo frio e bata brevemente. Distribua em formas pequenas para picolé ou saquinhos próprios para alimentos e congele. A live sugere gelo e não fornece proporções. As quantidades acima são uma adaptação da wiki. O iogurte e a fruta contribuem com carboidratos. [Live do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/reel/CUBazYUJ5BH/) · [Conservação](seguranca-conservacao.md)
+
 ## Com gelatina em pó
 
 ### Gelatina salgada de frango e ervas

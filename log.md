@@ -455,3 +455,7 @@ O [inventário](raw/inventario-wapf-receitas.md#publicações-dos-capítulos-loc
 ## [2026-11-11] revisão | Cobre extraído no ensaio com vinagre diluído
 
 A [nota de Hsu et al.](wiki/fontes/hsu-2017-metais.md) e a [tabela por preparo](wiki/temas/componentes-por-caldo.md) acrescentam a comparação relativa de cobre no braço de acidificação. A unidade é massa extraída por massa de osso.
+
+## [2026-11-11] revisão | Arquivo de novembro de 2012 e vídeos históricos do blog
+
+O [inventário de Mark’s Daily Apple](raw/inventario-mark-receitas.md#arquivo-mensal-de-2012-e-vídeos-incorporados) acrescenta o cruzamento do arquivo mensal com capturas do feed, a transcrição do vídeo de sprints e a fórmula escrita vinculada ao vídeo de bistecas de Justin. O corpo editorial próprio das edições 216 e 263 segue sem acesso.

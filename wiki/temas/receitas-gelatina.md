@@ -40,6 +40,14 @@ Misture **200 mL de caldo neutro** aquecido, **1 colher de sopa de cacau 100%**,
 
 Para um lote de teste, use **170 g de iogurte natural sem açúcar**, **60 g de morangos ou framboesas** e **80 g de caldo neutro já gelificado**. Bata o iogurte com a fruta, incorpore o caldo frio e bata brevemente. Distribua em formas pequenas para picolé ou saquinhos próprios para alimentos e congele. A live sugere gelo e não fornece proporções. As quantidades acima são uma adaptação da wiki. O iogurte e a fruta contribuem com carboidratos. [Live do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/reel/CUBazYUJ5BH/) · [Conservação](seguranca-conservacao.md)
 
+### Compota de frutas vermelhas com caldo
+
+A live cozinha **500 g de frutas vermelhas e 5 a 10 maçãs** com **600 mL de caldo neutro**, água e canela. A mistura é batida e recebe psyllium para engrossar. A maçã contribui com açúcares da fruta. Para uma versão com menos carboidratos, a wiki sugere cozinhar **150 g de amoras ou framboesas sem açúcar** com **100 mL de caldo neutro**, omitir a maçã e deixar reduzir até a textura de compota. Divida em quatro porções pequenas. Ajuste canela e adoçante a gosto e refrigere prontamente. [Live do Cozinha de Pedra, 1:13:18–1:16:17](https://www.instagram.com/cozinhadepedra/reel/CQ67B33JgFb/) · [Conservação](seguranca-conservacao.md)
+
+### Bebida de abacate, caldo e semente de abóbora
+
+A live combina caldo neutro, abacate e sementes de abóbora, com cacau e adoçante opcionais. Para testar um copo, bata **120 mL de caldo neutro frio**, **¼ de abacate pequeno** e **1 colher de sopa de sementes de abóbora**. Se quiser, acrescente **1 colher de chá de cacau 100%** e adoçante a gosto. As medidas são sugestões da wiki. Use mais caldo se preferir uma bebida menos espessa. [Live do Cozinha de Pedra, 52:38–54:00 e 1:21:35–1:21:59](https://www.instagram.com/cozinhadepedra/reel/CQo4wsTnPb3/)
+
 ## Com gelatina em pó
 
 ### Gelatina salgada de frango e ervas

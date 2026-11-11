@@ -83,3 +83,7 @@ Entraram a [sopa cremosa de chuchu](wiki/temas/receitas-caldo.md), a base bovina
 ## [2026-11-11] ingestão | Sopa italiana e caldo bovino na pressão
 
 A [página de receitas](wiki/temas/receitas-caldo.md) incorpora a sopa com linguiça e abobrinha anunciada no Instagram. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) registra o carrossel de caldo bovino na pressão.
+
+## [2026-11-11] ingestão | Compota, bebida de abacate e sopa de abóbora
+
+Duas lives acrescentaram [preparações com caldo neutro](wiki/temas/receitas-gelatina.md) e uma [sopa com ovo](wiki/temas/receitas-caldo.md). As medidas de teste e as adaptações de fruta e abóbora estão identificadas nas fichas.

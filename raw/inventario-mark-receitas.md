@@ -598,6 +598,35 @@ Os **16 caminhos ainda sem indicação de captura** neste corte eram:
 - `calories`, `weight-loss-sabotage`, `introducing-the-primal-leap`, `announcement-primal-fuel-now-available`, `primal-stuffed-chops` e `weekend-link-love-216`.
 - `healthy-tastes-great`, `healthy-tastes-great-7`, `healthy-tastes-great-11`, `healthy-tastes-great-16`, `healthy-tastes-great-18`, `healthy-tastes-great-21`, `healthy-tastes-great-26`, `healthy-tastes-great-30`, `healthy-tastes-great-33` e `healthy-tastes-great-34`.
 
+### Série Healthy Tastes Great! e registros de 2012
+
+O índice **CC-MAIN-2013-48** indicou **3.440 caminhos HTML de um segmento** no domínio. Cruzou 13 pendências, incluindo as duas páginas já classificadas como índice e vídeo. A leitura WARC recuperou **11 de 11 fichas** de Aaron. Dez ainda não tinham indicação e a nº 32 tinha um replay do Arquivo.pt indisponível. O que se contou foi a indicação editorial publicada pelo blog, com seu texto e endereço original. As fórmulas abaixo foram conferidas nas publicações externas. [Método de leitura por faixa de bytes](https://commoncrawl.org/cdxj-index)
+
+| Ficha | Publicação externa e uso do caldo |
+| --- | --- |
+| Endereço sem número | *Halibut in Artichoke and Tomato Broth*, de Giada De Laurentiis. A versão original arquivada usa **1½ xícara de caldo de frango com pouco sódio** no caldo de alcachofra e tomate. [Food Network](https://web.archive.org/web/20080509202040id_/http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_34628,00.html) |
+| Nº 18 | *Broccoli with Fennel and Red Bell Pepper* usa **⅔ de xícara de caldo de frango com pouco sal** para cozinhar os legumes. [Epicurious](https://www.epicurious.com/recipes/food/views/broccoli-with-fennel-and-red-bell-pepper-105809) |
+| Nº 26 | *Poached Eggs over Spinach & Mushrooms* usa **uma colher de sopa de caldo de frango ou de legumes** para refogar os cogumelos e a cebola. [WHFoods](https://web.archive.org/web/20091013011220id_/http://whfoods.org:80/genpage.php?tname=recipe&dbid=126) |
+| Nº 33 | *Ivory King Salmon with Chanterelle Mushrooms*, de Kevin Davis, reduz **16 onças fluidas de fundo de frango sem sal** em um molho de vinho e cantarelos. [The Seattle Times](https://web.archive.org/web/20090517001610id_/http://seattletimes.nwsource.com:80/pacificnw/2004/1024/taste.html) |
+| Nº 34 | Aaron atribui vitamina K e K2 à salada verde com tempeh grelhado, sem informar quantidades. A passagem se refere à salada. |
+
+As outras fichas indicam salada de cítricos (nº 7), omelete de claras (nº 11), dicas para grelhar bife de gado a pasto (nº 16), espirais de abobrinha (nº 21), salmão e legumes grelhados (nº 30) e salada de choy sum e tomate (nº 32). O catálogo registra os títulos indicados nessas fichas. [Receita externa do nº 32](https://teczcape.blogspot.com/2007/06/vegetables-bok-choyzen-choytagu-choy.html)
+
+O índice **CC-MAIN-2012** indicou **2.405 caminhos HTML de um segmento** no domínio e quatro dos endereços ainda sem indicação. A leitura ARC recuperou três corpos em quatro tentativas. *10 Sure Ways to Sabotage Your Weight Loss* e *Announcement: Primal Fuel Now Available!* ficaram sem termos pertinentes ao caldo. *Primal Stuffed Chops* é uma apresentação de Sisson para o vídeo inscrito pelo leitor Justin. A página não inclui a fórmula, e o vídeo apareceu como indisponível ao tentar recuperar a mídia com a skill fast-transcript. A captura direta de `calories` preserva uma tela de reestruturação do site. [Vídeo identificado no HTML de Primal Stuffed Chops](https://www.youtube.com/watch?v=G7rLZq0eSnU)
+
+O corte chegou a **5.441 de 5.447 caminhos**. Restavam duas páginas sem indicação de captura (`introducing-the-primal-leap`, `weekend-link-love-216`), três capturas sem texto editorial (`calories`, `most-popular-posts`, `marks-beach-sprints`) e a captura sem corpo de `weekend-link-love-263`. A coleção **CC-MAIN-2015-11** indicou **2.217 caminhos de um segmento**, incluindo os dois endereços já classificados como índice e vídeo. O índice de 2015 não informa status HTTP nem MIME nesses registros.
+
+### Versões de impressão e quatro lacunas restantes
+
+Uma busca pelos caminhos auxiliares do WordPress no índice **CC-MAIN-2014-52** encontrou duas versões de impressão. As duas preservam o texto editorial, a assinatura de Mark Sisson, a data e o endereço canônico da publicação. A captura de `calories/print/` de **2014-12-28 19:01:49 UTC** traz *It’s the Calories, not the Carbs!*, de 2007-06-19. A de `introducing-the-primal-leap/print/` de **2014-12-22 02:12:43 UTC** traz *Introducing The Primal Leap*, de 2010-08-17. Os dois corpos foram conferidos e ficaram sem termos pertinentes ao caldo. [Índice e leitura de registros do Common Crawl](https://commoncrawl.org/cdxj-index)
+
+A cobertura chegou a **5.443 de 5.447 caminhos**, ou **2.045 corpos deduplicados na segunda etapa**. Restaram:
+
+- `most-popular-posts`, índice de categoria sem corpo editorial. [Captura Wayback](https://web.archive.org/web/20230902202350id_/https://www.marksdailyapple.com/most-popular-posts/)
+- `marks-beach-sprints`, página com vídeo incorporado e convite à assinatura. [Captura Wayback](https://web.archive.org/web/20230930122716id_/https://www.marksdailyapple.com/marks-beach-sprints/)
+- `weekend-link-love-263`, captura com título e moldura da página. [Captura Wayback](https://web.archive.org/web/20190820123408id_/https://www.marksdailyapple.com/weekend-link-love-263/)
+- `weekend-link-love-216`, endereço ainda sem captura indicada nos índices consultados.
+
 ## Resultados do Arquivo.pt
 
 A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.

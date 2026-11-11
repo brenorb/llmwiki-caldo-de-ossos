@@ -411,3 +411,7 @@ A [ficha de sobremesa](wiki/temas/receitas-gelatina.md#panna-cotta-de-abóbora-e
 ## [2026-11-11] ingestão | Ensaios de fundo de bonito seco e fadiga
 
 A [nota de Kuroda e Nozawa](wiki/fontes/kuroda-2008-bonito-fadiga.md) documenta as mudanças em vigor e fadiga, o denominador da análise e a diferença entre o fundo japonês estudado e os caldos dos relatos.
+
+## [2026-11-11] ingestão | Healthy Tastes Great e textos recuperados em versões de impressão
+
+O [sitemap histórico de Mark’s Daily Apple](raw/inventario-mark-receitas.md#versões-de-impressão-e-quatro-lacunas-restantes) chegou a 5.443 de 5.447 caminhos com texto triado. As [quatro receitas externas](wiki/temas/receitas-mark-sisson.md#receitas-externas-indicadas-por-aaron-em-healthy-tastes-great) indicadas por Aaron foram conferidas nas fontes originais e receberam sugestões de adaptação.

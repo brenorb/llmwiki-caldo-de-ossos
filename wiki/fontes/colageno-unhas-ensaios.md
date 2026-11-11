@@ -13,6 +13,8 @@ As comparações abaixo tratam de desfechos distintos. Cor, umidade e rugosidade
 
 O estudo aberto de 24 semanas e o ensaio com placebo de 12 semanas usaram o mesmo nome comercial e a mesma dose, em populações distintas. O ensaio brasileiro de 12 semanas não confirma o aumento de crescimento observado no estudo aberto. O encerramento precoce e o tamanho da amostra deixam incerteza sobre efeitos menores, intervenções mais longas ou pessoas de outras idades.
 
+A dissertação situa o recrutamento entre agosto de 2023 e maio de 2024. A data de registro no ReBEC é 7 de agosto de 2024. O registro descreve duas semanas antes da intervenção para medir a velocidade inicial de crescimento, enquanto os métodos da dissertação descrevem uma semana. [Métodos da dissertação, pp. 36–39](https://repositorio.unesp.br/server/api/core/bitstreams/68b0c746-e377-48ae-a885-b03577ffff9d/content#page=36) · [Protocolo registrado](https://ensaiosclinicos.gov.br/rg/RBR-9n2854x)
+
 A busca também localizou publicações históricas sobre gelatina de [Tyson (1950)](https://pubmed.ncbi.nlm.nih.gov/15422181/), [Rosenberg e Oster (1955)](https://pubmed.ncbi.nlm.nih.gov/14352632/), [Rosenberg et al. (1957)](https://jamanetwork.com/journals/jamadermatology/article-abstract/525154), [Schwimmer e Mulinos (1957)](https://pubmed.ncbi.nlm.nih.gov/13435715/) e [Derzavis e Mulinos (1961)](https://pubmed.ncbi.nlm.nih.gov/13722103/). As fichas bibliográficas e a introdução de Rosenberg de 1957 confirmam a linha de pesquisa. O desenho e os resultados dos trabalhos históricos permanecem sem verificação integral.
 
 [Relatos do Cozinha de Pedra e de Sisson](../temas/relatos-e-evidencia.md) · [Matriz de alegações](../temas/alegacoes-saude.md)

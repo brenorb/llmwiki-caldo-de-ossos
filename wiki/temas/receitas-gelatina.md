@@ -101,7 +101,7 @@ A live combina caldo neutro, abacate e sementes de abóbora, com cacau e adoçan
 
 A live mostra caldo carbonara gelado, com bacon, parmesão e ovo, servido sobre pão de frigideira. Para testar a ideia com ingredientes já cozidos, misture **120 mL de caldo salgado concentrado**, **2 colheres de sopa de parmesão ralado** e **1 fatia de bacon bem cozida e picada**. Para incluir ovo, acrescente um ovo cozido picado. Resfrie em recipiente raso até firmar, mexa para espalhar e sirva com pepino ou pão low carb. As medidas e o uso do ovo já cozido são adaptações da wiki. [Live do Cozinha de Pedra, 33:30–34:29 e 36:27–36:55](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/) · [Conservação](seguranca-conservacao.md)
 
-## Com gelatina em pó
+## Gelatinas salgadas feitas com caldo
 
 ### Gelatina salgada de frango e ervas
 
@@ -110,6 +110,14 @@ Distribua **150 g de frango cozido desfiado** e ervas em quatro potes pequenos. 
 ### Žolce, gelatina salgada eslovena
 
 A Weston A. Price Foundation descreve este prato festivo de caldo de ossos suínos ou bovinos com presunto curado, carne, alho e louro. A versão tradicional cozinha lentamente por 8–9 horas. O caldo é resfriado até firmar, cortado em fatias e servido com vinagre. Confira o sal antes de temperar, pois o presunto pode salgar o caldo. [Receita e tradição eslovena](https://www.westonaprice.org/health-topics/food-features/soups-stews-and-one-pot-meals-of-slovenia/)
+
+### Potted head, gelatina salgada escocesa
+
+A ficha histórica usa **meia cabeça e um pé bovinos**, água para cobrir, louro, macis e cravo. Para reproduzir o método, peça ao açougueiro as peças já limpas e cortadas. Escalde, descarte a água e cubra com água fresca. Cozinhe em fervura branda por cerca de três horas. Retire a carne aproveitável e volte os ossos à panela com os aromáticos por mais duas a três horas. Coe, resfrie prontamente em porções rasas e leve à geladeira. [Receita histórica publicada pela WAPF](https://www.westonaprice.org/health-topics/traditional-diets/the-good-scots-diet/)
+
+Retire a gordura solidificada, aqueça o fundo com a carne picada por 15–20 minutos e tempere com mostarda, pimenta-do-reino e uma pitada de caiena. A ficha também sugere pimenta-da-jamaica ou noz-moscada na ausência de cravo. Distribua em moldes rasos, refrigere até firmar e sirva frio com salada. A gelatina vem dos próprios cortes. [Conservação e resfriamento](seguranca-conservacao.md)
+
+## Com gelatina em pó
 
 ### Gelatina de framboesa e coco
 
@@ -134,6 +142,12 @@ Para oito porções pequenas, use **2 xícaras americanas de leite de coco integ
 1. Hidrate a gelatina na água fria por cerca de cinco minutos. Aqueça o leite de coco com o capim-limão e as raspas em fogo baixo para aromatizar.
 2. Dissolva a gelatina hidratada no leite de coco quente. Coe para tirar os talos. Junte o limão e ajuste o dulçor.
 3. Divida em taças e leve à geladeira até firmar. A versão da WAPF indica pelo menos uma hora.
+
+### Mousse aerada de framboesa
+
+Use **240 mL de creme de leite fresco pasteurizado**, **120 mL de água**, **170 g de framboesas** e **1½ colher de sopa de gelatina incolor** para a textura de mousse sugerida por Anita Hirth. Para uma panna cotta mais firme, a receita usa **3 colheres de sopa**. O original leva **2–3 colheres de sopa de xarope de bordo**. A própria autora sugere omiti-lo, e a framboesa continua contribuindo com carboidratos. [Receita de Anita Hirth](https://www.westonaprice.org/whipped-raspberry-panna-cotta/)
+
+Hidrate a gelatina em água fria, aqueça em fogo baixo até dissolver e misture ao purê de framboesa. Deixe a mistura perder o calor sem firmar. Bata o creme frio até formar picos e incorpore o purê delicadamente. Distribua em taças e refrigere por pelo menos três horas.
 
 ### Balas de kombucha e gelatina
 

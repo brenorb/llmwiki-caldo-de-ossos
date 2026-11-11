@@ -355,3 +355,7 @@ A [comparação de estudos](wiki/fontes/colageno-unhas-ensaios.md) confronta o r
 ## [2026-11-11] ingestão | Aproveitamento de peixe e relatos nos áudios da WAPF
 
 O [inventário de áudio](raw/inventario-wapf-receitas.md#progresso-dos-lotes-ampliados) registra 45 transcrições locais em inglês e 14 em espanhol no corte. O [catálogo de preparos](wiki/temas/receitas-wapf-catalogo.md) incorpora a passagem de Flavia López sobre aproveitamento do peixe.
+
+## [2026-11-11] ingestão | Gelatina salgada escocesa e mousse aerada
+
+As [receitas com caldo](wiki/temas/receitas-gelatina.md#potted-head-gelatina-salgada-escocesa) incluem o preparo histórico escocês. A [mousse de framboesa](wiki/temas/receitas-gelatina.md#mousse-aerada-de-framboesa) registra a proporção com menos gelatina e a opção sem xarope de bordo descritas pela autora.

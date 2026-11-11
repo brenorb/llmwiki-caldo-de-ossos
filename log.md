@@ -155,3 +155,7 @@ A [nota do ConsumerLab](wiki/fontes/consumerlab-2025-caldos-comerciais.md) regis
 ## [2026-11-11] revisão | Transcrição dos reels sem limite de duração
 
 O [registro de acesso](raw/busca-receitas-relatos.md#áudio-dos-reels) documenta o resultado dos 122 reels e as tentativas de recuperação de mídia. As 105 transcrições automáticas foram preservadas no acervo local, com um índice por reel.
+
+## [2026-11-11] ingestão | OCR dos anexos da WAPF
+
+O [inventário da WAPF](raw/inventario-wapf-receitas.md#ocr-das-páginas-sem-texto-ou-com-extração-esparsa) registra a extração e o OCR dos anexos oficiais. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) inclui fundos e pratos em gelatina do livro de 1895 e receitas recuperadas das edições digitais. A [comparação de evidência](wiki/temas/relatos-e-evidencia.md) registra os relatos e os ensaios encontrados.

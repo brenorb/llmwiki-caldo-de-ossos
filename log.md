@@ -467,3 +467,7 @@ O [inventário de áudios](raw/inventario-wapf-receitas.md#caldo-em-recomendaç�
 ## [2026-11-11] ingestão | Comentários sobre bebidas e tipos de colágeno do Cozinha de Pedra
 
 Foram conferidos [221 registros em 14 publicações](raw/busca-receitas-relatos.md#comentários-sobre-bebidas-cortes-e-formas-de-colágeno). A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-bebidas-cortes-e-formas-de-colágeno) distingue os relatos culinários das afirmações sobre absorção e pele.
+
+## [2026-11-11] ingestão | Entrevistas de Peak Human e The Bossticks
+
+A [triagem dos dois feeds](raw/mark-sisson-entrevistas.md#peak-human-e-the-bossticks) localizou seis episódios que creditam Sisson. As seis gravações foram transcritas integralmente, com quase 6h49min de áudio. O [quadro de relatos](wiki/temas/relatos-e-evidencia.md) registra o contexto das mudanças relatadas na entrevista sobre sintomas intestinais.

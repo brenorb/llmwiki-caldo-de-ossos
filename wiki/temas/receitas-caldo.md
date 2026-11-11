@@ -29,6 +29,14 @@ A [página de preparo](preparo.md) já reunia técnicas e referências para cald
 3. Coe, prove e resfrie em porções pequenas. Para servir, aromatize uma porção com gengibre, anis-estrelado, canela e coentro em grão ou use alho-poró e manteiga. A versão com manteiga contém laticínios.
 4. O ácido é opcional para o sabor. Estudos sobre a extração de minerais dependem do pH, da matéria-prima e do método. [Receita e variações do Mark’s Daily Apple](../fontes/mark-sisson-caldo-gelatina.md) · [Medições de minerais](../fontes/hsu-2017-metais.md)
 
+## Sopa cremosa de chuchu com caldo e torresmo
+
+Como ponto de partida da wiki para duas porções, use **1 chuchu médio** e **400 mL de caldo de ossos**. A live descreve o método sem dar medidas.
+
+1. Descasque o chuchu, retire a semente, corte em cubos e cozinhe no caldo até ficar macio. Bata até ficar cremoso.
+2. Volte à panela e tempere a gosto com cúrcuma, gengibre, cominho e pimenta-do-reino. Sirva com carne moída refogada ou frango desfiado. Outra opção da live é quebrar um ovo no caldo e cozinhar até firmar.
+3. Finalize com torresmo triturado no lugar de croutons. Para limitar carboidratos, confira se o torresmo preparado leva farinha ou açúcar. [Live do Cozinha de Pedra, 1:06:48–1:09:24 e 1:10:50–1:11:01](https://www.instagram.com/cozinhadepedra/reel/CRM6gmfJsQM/)
+
 ## Mais caminhos
 
 | Preparo | Como usar e adaptar | Fonte |

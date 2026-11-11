@@ -6,6 +6,8 @@ As quantidades a seguir são pontos de partida culinários. As adaptações da w
 
 ## Com caldo de ossos neutro
 
+Para sobremesas, Bibiana Mandagará prefere caldo bovino de fêmur ou canela preparado sem sal nem temperos, por considerar o sabor mais discreto que o do mocotó ou do frango. Na live, ela sugere um pouco de essência de baunilha para aromatizar. Se a receita depender de gel firme, confira a consistência do caldo frio antes de misturá-lo. [Live do Cozinha de Pedra, 58:07–59:47](https://www.instagram.com/cozinhadepedra/reel/CRAWg20JoVU/)
+
 ### Gelatina ou mousse de coco
 
 **Para um lote de teste**, use 200 mL de caldo neutro que firme na geladeira, 1 colher de sopa de leite de coco em pó sem açúcar, 1 colher de sopa de coco ralado sem açúcar e eritritol a gosto. Uma colher de sopa de creme de leite pasteurizado é opcional.
@@ -75,6 +77,12 @@ Misture **200 mL de infusão de hibisco** e **200 mL de leite de coco integral s
 ### Picolé cremoso de coco e cacau
 
 Para uma adaptação da receita da WAPF, use **200 mL de leite de coco integral sem açúcar**, **200 mL de creme de coco sem açúcar**, **1 colher de sopa de gelatina incolor**, **1–2 colheres de sopa de cacau em pó sem açúcar** e adoçante a gosto. Hidrate a gelatina em parte do leite de coco frio. Aqueça o restante e misture a gelatina hidratada, o creme, o cacau e o adoçante. Deixe amornar, distribua em formas e congele. A receita publicada usa alfarroba e mel. O cacau muda o sabor e a troca do mel pode deixar o picolé mais firme quando congelado. [Healthy Fudgesicles](https://www.westonaprice.org/healthy-fudgesicles/)
+
+## Com derivados do caldo
+
+### Quindim com gordura do caldo e eritritol
+
+Mandagará relata ter adaptado o quindim do Senhor Tanquinho com a gordura separada do caldo e eritritol. A receita base usa gemas, coco ralado e óleo de coco. A versão de forno usa xilitol e apresenta eritritol como opção, enquanto a versão de micro-ondas já usa eritritol. A proporção de gordura empregada na adaptação ficou em aberto. [Live do Cozinha de Pedra, 1:04:04–1:04:10 e 1:05:15–1:05:20](https://www.instagram.com/cozinhadepedra/reel/CRM6gmfJsQM/) · [Receita base do Senhor Tanquinho](https://www.senhortanquinho.com/quindim-low-carb-receita/)
 
 ## Substituições que mudam os carboidratos e a textura
 

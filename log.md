@@ -75,3 +75,7 @@ As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) identificam a metan�
 ## [2026-11-11] ingestão | Relatos de fios escuros e ensaio citado sobre rugas
 
 A [página de cabelos brancos](wiki/temas/cabelos-brancos.md) registra o que foi mostrado na live e o vínculo com o caso já publicado. A [comparação por desfecho](wiki/temas/relatos-e-evidencia.md) identifica a formulação de peptídeos usada no estudo sobre rugas.
+
+## [2026-11-11] ingestão | Sopa de chuchu e quindim em lives do Cozinha de Pedra
+
+Entraram a [sopa cremosa de chuchu](wiki/temas/receitas-caldo.md), a base bovina neutra e a adaptação de [quindim com gordura do caldo](wiki/temas/receitas-gelatina.md). As fichas identificam as medidas sugeridas pela wiki e a proporção de gordura que a fonte não informou.

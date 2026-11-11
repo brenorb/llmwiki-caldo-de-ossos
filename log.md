@@ -131,3 +131,7 @@ As [notas do perfil](wiki/fontes/cozinha-de-pedra-caldo.md) localizam a foto cit
 ## [2026-11-11] ingestão | Pão de frigideira, fundo de camarão e pudim de coco
 
 As [receitas salgadas](wiki/temas/receitas-caldo.md) registram a divergência entre a pesagem e a recapitulação da gordura no pão. A [ficha do pudim](wiki/temas/receitas-gelatina.md) registra a substituição relatada pela participante e as proporções em aberto.
+
+## [2026-11-11] ingestão | Guia de compras de 2018 e receitas das edições digitais
+
+O [inventário da WAPF](raw/inventario-wapf-receitas.md) incorpora o guia de 2018 e registra a exigência de login no de 2019. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) ganhou dez fichas. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) identifica uma tabela de folato e cobre que se refere a uma mistura completa.

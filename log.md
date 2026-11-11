@@ -463,3 +463,7 @@ O [inventário de Mark’s Daily Apple](raw/inventario-mark-receitas.md#arquivo-
 ## [2026-11-11] revisão | Reprises e caldo comercial nas entrevistas da WAPF
 
 O [inventário de áudios](raw/inventario-wapf-receitas.md#caldo-em-recomendações-e-reprises) chegou a 65 episódios transcritos em inglês e 29 em espanhol. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) registra que a menção ao caldo comercial não informa teor de colágeno nem compara o produto a suplementos.
+
+## [2026-11-11] ingestão | Comentários sobre bebidas e tipos de colágeno do Cozinha de Pedra
+
+Foram conferidos [221 registros em 14 publicações](raw/busca-receitas-relatos.md#comentários-sobre-bebidas-cortes-e-formas-de-colágeno). A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-bebidas-cortes-e-formas-de-colágeno) distingue os relatos culinários das afirmações sobre absorção e pele.

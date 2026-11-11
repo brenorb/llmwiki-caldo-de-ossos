@@ -78,6 +78,29 @@ A leitura na sessão autenticada recuperou **198 comentários e respostas com id
 
 A [nota da fonte](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-receitas-gelificação-e-sintomas-intestinais) registra dúvidas de preparo, conservação e um relato de melhora percebida de sintomas intestinais.
 
+## Comentários sobre bebidas, cortes e formas de colágeno
+
+A sessão autenticada exibiu **221 comentários e respostas com identificador distinto** em mais 14 publicações. Em 11, a lista ainda mostrava carregamento. A página da live de sobremesas exibiu o aviso de que ainda não havia comentários.
+
+| Publicação | Registros exibidos | Estado da lista |
+| --- | ---: | --- |
+| [Chocolate quente com caldo](https://www.instagram.com/cozinhadepedra/reel/CGMvjwQBV6i/) | 16 | Carregamento continuou visível |
+| [Caputosso](https://www.instagram.com/cozinhadepedra/reel/CRMMSkEFE_J/) | 15 | Carregamento continuou visível |
+| [Compota](https://www.instagram.com/cozinhadepedra/reel/CQ67B33JgFb/) | 13 | Carregamento continuou visível |
+| [Caldo com abacate](https://www.instagram.com/cozinhadepedra/reel/CQo4wsTnPb3/) | 3 | Sem indicador de carregamento ao fim |
+| [Saborização do caldo](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/) | 16 | Carregamento continuou visível |
+| [Live de sobremesas](https://www.instagram.com/cozinhadepedra/reel/CUBazYUJ5BH/) | 0 | A interface informou que ainda não havia comentários |
+| [Live de perguntas e usos do caldo](https://www.instagram.com/cozinhadepedra/reel/CHJfIXuJrpw/) | 17 | Carregamento continuou visível |
+| [Brigadeiro](https://www.instagram.com/cozinhadepedra/p/CAUL4aajhr9/) | 23 | Sem indicador de carregamento ao fim |
+| [Live sobre sono](https://www.instagram.com/cozinhadepedra/reel/CGlcS7vJfcD/) | 6 | Carregamento continuou visível |
+| [Live sobre pele](https://www.instagram.com/cozinhadepedra/reel/CRAWg20JoVU/) | 29 | Carregamento continuou visível |
+| [Live sobre mousse e alimentação](https://www.instagram.com/cozinhadepedra/reel/CKz54x8plal/) | 16 | Carregamento continuou visível |
+| [Live sobre usos do concentrado](https://www.instagram.com/cozinhadepedra/reel/CRfGR5Wpu6_/) | 8 | Carregamento continuou visível |
+| [Carrossel de gelificação](https://www.instagram.com/cozinhadepedra/p/CKHlf8zMlq_/) | 34 | Carregamento continuou visível |
+| [Caldo bovino na pressão](https://www.instagram.com/cozinhadepedra/p/CJRt0ksM9oD/) | 25 | Carregamento continuou visível |
+
+Os [trechos pertinentes](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-bebidas-cortes-e-formas-de-colágeno) incluem usos culinários, relatos de consistência, dúvidas sobre gelatina comercial e comentários sobre a gordura separada do caldo.
+
 ## Busca complementar de estudos humanos
 
 Em 2026-11-11, uma consulta de título e resumo no PubMed combinou `"bone broth" OR "bone soup" OR "bone broths" OR "bone soups" OR "sagol" OR "gomtang" OR "tonkotsu"`. O índice retornou 58 registros. A triagem não identificou ensaio humano terapêutico adicional de caldo de ossos para digestão, sono, articulações ou pele. A busca por intervenção na API do ClinicalTrials.gov localizou o programa de dieta e peso já registrado, NCT05740670. Buscas por fundos de frango e bovino retornaram intervenções diferentes, como caldo de peito de frango, diagnóstico de alergia e preparo para colonoscopia. Uma consulta ao ANZCTR recuperou os registros já catalogados de absorção de aminoácidos e permeabilidade intestinal. [Matriz de estudos](../wiki/temas/alegacoes-saude.md) · [Achados observacionais e relatos de segurança](../wiki/fontes/huo-2023-pandita-2011-seguranca.md)

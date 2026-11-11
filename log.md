@@ -91,3 +91,7 @@ Duas lives acrescentaram [preparações com caldo neutro](wiki/temas/receitas-ge
 ## [2026-11-11] ingestão | Triagem textual do mapa completo da WAPF
 
 O [inventário da WAPF](raw/inventario-wapf-receitas.md) registra o texto das 6.376 URLs do sitemap e as 1.089 correspondências temáticas. O [catálogo](wiki/temas/receitas-wapf-catalogo.md) ganhou 14 entradas. A [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md) rastreia a estimativa de glicina durante a gestação à hipótese de composição usada no cálculo.
+
+## [2026-11-11] ingestão | Inventário WordPress do Mark’s Daily Apple de 2023
+
+As seis partes do mapa preservado enumeram 5.447 publicações. O [inventário histórico](raw/inventario-mark-receitas.md#sitemap-wordpress-de-dezembro-de-2023) rastreia as 3.398 com corpo triado e os candidatos que ainda requerem acesso.

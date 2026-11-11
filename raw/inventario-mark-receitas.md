@@ -302,6 +302,64 @@ Foram pesquisados título e corpo de cada entrada em inglês por termos de caldo
 
 O autor confirma que começou a publicar em 2006, que o site antigo saiu do ar em 2023 e que a restauração está em andamento. Duas capturas do site original no Arquivo.pt permitiram ler artigos de abril de 2010, anteriores ao início do feed do Goodreads. O mapa público da newsletter pessoal no Beehiiv tinha 36 publicações entre 40 URLs. As 36 páginas públicas foram abertas e triadas por termos relacionados ao tema. Os textos visíveis não trouxeram uma nova receita de caldo ou de gelatina culinária. A cobertura de newsletters arquivadas fora do mapa ou enviadas somente por e-mail permanece desconhecida. [Carta de relançamento](https://www.marksdailyapple.com/p/mda-start-here) · [Mapa da newsletter](https://marks-newsletter-4655f1.beehiiv.com/sitemap.xml) · [Artigos recuperados](../wiki/fontes/mark-sisson-caldo-gelatina.md)
 
+## Sitemap WordPress de dezembro de 2023
+
+A captura de 2 de dezembro de 2023 do índice oficial do WordPress lista seis mapas de publicações e cinco mapas de outros tipos. As seis partes recuperadas na mesma noite contêm **5.447 endereços distintos**. O índice também foi capturado em 15 de dezembro. A contagem representa as publicações listadas naquele sitemap, de modo que seu universo pode diferir das mais de 6 mil publicações que a Primal Kitchen atribui ao blog ao longo da sua existência. [Índice de 2 de dezembro](https://web.archive.org/web/20231202232436id_/https://www.marksdailyapple.com/sitemap_index.xml) · [Índice de 15 de dezembro](https://web.archive.org/web/20231215193613id_/https://www.marksdailyapple.com/sitemap_index.xml) · [Primal Kitchen](https://www.primalkitchen.com/pages/marks-daily-apple)
+
+| Parte | Endereços |
+| --- | ---: |
+| [Mapa 1](https://web.archive.org/web/20231202234602id_/https://www.marksdailyapple.com/post-sitemap.xml) | 998 |
+| [Mapa 2](https://web.archive.org/web/20231202233438id_/https://www.marksdailyapple.com/post-sitemap2.xml) | 1.000 |
+| [Mapa 3](https://web.archive.org/web/20231202232707id_/https://www.marksdailyapple.com/post-sitemap3.xml) | 999 |
+| [Mapa 4](https://web.archive.org/web/20231202234517id_/https://www.marksdailyapple.com/post-sitemap4.xml) | 830 |
+| [Mapa 5](https://web.archive.org/web/20231202234728id_/https://www.marksdailyapple.com/post-sitemap5.xml) | 767 |
+| [Mapa 6](https://web.archive.org/web/20231202233422id_/https://www.marksdailyapple.com/post-sitemap6.xml) | 853 |
+
+O cruzamento usou o caminho original apontado pelo próprio feed Goodreads e, para o Substack, o mesmo nome de caminho sem o prefixo `/p/`. O Goodreads continha 3.746 caminhos canônicos distintos associados aos 3.842 IDs. Dentro do sitemap histórico, **3.283** caminhos tinham uma entrada triada no feed e **155** tinham corpo triado no site atual, com **121** em comum. O Arquivo.pt ofereceu corpo triado para **106** caminhos do sitemap, dos quais **70** eram adicionais. Essa união cobria **3.387 de 5.447** publicações. Os 11 corpos consultados na Wayback Machine elevaram a cobertura a **3.398 de 5.447**, com **2.049** caminhos sem corpo triado no cruzamento. Mudanças de caminho ou de título podem ocultar correspondências. A data `lastmod` dos XMLs indica atualização. As datas de publicação abaixo vêm das próprias páginas.
+
+A triagem nos nomes dos 5.447 caminhos selecionou **138** candidatos por termos de caldo, fundo, sopa, gelatina, colágeno, glicina, partes animais, pigmentação e técnicas culinárias afins. **29** ficaram sem correspondência nos três inventários anteriores. A triagem por nome pode perder usos citados apenas no corpo.
+
+### Candidatos com corpo consultado na Wayback Machine
+
+| Publicação | Data original | Autoria indicada |
+| --- | --- | --- |
+| [How to Make a Rockin’ Chicken Stock](https://web.archive.org/web/20090428184241id_/http://www.marksdailyapple.com:80/homemade-chicken-stock/) | 2009-02-20 | Publicação do blog, sem assinatura individual identificada |
+| [Arctic Char Chowder](https://web.archive.org/web/20230930130854id_/https://www.marksdailyapple.com/arctic-char-chowder/) | 2009-12-19 | Equipe editorial |
+| [Kombu Egg Soup](https://web.archive.org/web/20230925061413id_/http://www.marksdailyapple.com/kombu-egg-soup/) | 2010-01-02 | Equipe editorial |
+| [Chicken and Shrimp Soup](https://web.archive.org/web/20231120055227id_/https://www.marksdailyapple.com/chicken-and-shrimp-soup/) | 2010-01-09 | Equipe editorial |
+| [The Perfect Pot of Primal Soup](https://web.archive.org/web/20230930002249id_/https://www.marksdailyapple.com/the-perfect-pot-of-primal-soup/) | 2010-09-18 | Equipe editorial |
+| [Beef Stew and Chicken Soup in 35 Minutes or Less](https://web.archive.org/web/20231002073110id_/https://www.marksdailyapple.com/beef-stew-and-chicken-soup-in-35-minutes-or-less/) | 2011-01-08 | Equipe editorial |
+| [Dear Mark: CoQ10, Gelatin, Fruit, and Eggs and LDL](https://web.archive.org/web/20230929235712id_/http://www.marksdailyapple.com/dear-mark-coq10-gelatin-fruit-and-eggs-and-ldl/) | 2011-10-31 | Mark Sisson |
+| [Tails, Tendons and Tripe: A Guide to Discovering the Odd Bits](https://web.archive.org/web/20230930094740id_/http://www.marksdailyapple.com/tails-tendons-and-tripe-a-guide-to-discovering-the-odd-bits/) | 2011-12-20 | Mark Sisson |
+| [Aromatic Beef Soup with Mushrooms and Chard](https://web.archive.org/web/20231205030627id_/https://www.marksdailyapple.com/aromatic-beef-soup-with-mushrooms-and-chard/) | 2012-01-14 | Equipe editorial |
+| [Fish Soup in Tomato-Saffron Broth with Broccoli, Cauliflower and Cabbage](https://web.archive.org/web/20230927052948id_/https://www.marksdailyapple.com/fish-soup-in-tomato-saffron-broth-with-broccoli-cauliflower-and-cabbage/) | 2012-02-11 | Equipe editorial |
+| [Two Bone Broth Latte Recipes: Ginger Turmeric and Garlic Herb](https://web.archive.org/web/20231002023252id_/https://www.marksdailyapple.com/bone-broth-latte-recipe/) | 2021-01-22 | Priscilla Chamessian |
+
+O replay de dezembro de 2023 para *Homemade Chicken Stock* devolveu uma página de erro. A captura de abril de 2009 preserva a receita publicada em fevereiro de 2009. [Replay de dezembro de 2023](https://web.archive.org/web/20231209221258id_/https://www.marksdailyapple.com/homemade-chicken-stock/)
+
+### Candidatos localizados pelo caminho
+
+Os 18 caminhos abaixo constam nos XMLs de 2023. Os links abrem a busca por capturas. O corpo de cada publicação ainda requer conferência.
+
+- [sticks-stones-may-break-your-bones](https://web.archive.org/web/*/https://www.marksdailyapple.com/sticks-stones-may-break-your-bones/)
+- [braised-wild-boar-with-sauerkraut-and-bacon](https://web.archive.org/web/*/https://www.marksdailyapple.com/braised-wild-boar-with-sauerkraut-and-bacon/)
+- [curry-chicken-and-sweet-potato-stew](https://web.archive.org/web/*/https://www.marksdailyapple.com/curry-chicken-and-sweet-potato-stew/)
+- [stifado-octopus-braised-in-red-wine](https://web.archive.org/web/*/https://www.marksdailyapple.com/stifado-octopus-braised-in-red-wine/)
+- [senegalese-chicken-stew-curried-chicken-salad](https://web.archive.org/web/*/https://www.marksdailyapple.com/senegalese-chicken-stew-curried-chicken-salad/)
+- [pork-beef-and-liver-terrine](https://web.archive.org/web/*/https://www.marksdailyapple.com/pork-beef-and-liver-terrine/)
+- [chilled-summer-soups](https://web.archive.org/web/*/https://www.marksdailyapple.com/chilled-summer-soups/)
+- [d-ribose-bean-sprouts-backyard-rabbits-the-protein-bone-loss-canard-and](https://web.archive.org/web/*/https://www.marksdailyapple.com/d-ribose-bean-sprouts-backyard-rabbits-the-protein-bone-loss-canard-and/)
+- [savory-goat-stew](https://web.archive.org/web/*/https://www.marksdailyapple.com/savory-goat-stew/)
+- [tender-braised-brisket-with-carmelized-onions-and-tomatoes](https://web.archive.org/web/*/https://www.marksdailyapple.com/tender-braised-brisket-with-carmelized-onions-and-tomatoes/)
+- [braised-beef-short-rib-and-sweet-potato-squash-bake](https://web.archive.org/web/*/https://www.marksdailyapple.com/braised-beef-short-rib-and-sweet-potato-squash-bake/)
+- [ginger-soup-with-scallops-and-shrimp](https://web.archive.org/web/*/https://www.marksdailyapple.com/ginger-soup-with-scallops-and-shrimp/)
+- [beef-with-prunes-stew](https://web.archive.org/web/*/https://www.marksdailyapple.com/beef-with-prunes-stew/)
+- [calorie-restriction-bone-loss](https://web.archive.org/web/*/https://www.marksdailyapple.com/calorie-restriction-bone-loss/)
+- [10-minute-seaweed-soup](https://web.archive.org/web/*/https://www.marksdailyapple.com/10-minute-seaweed-soup/)
+- [green-smoothie-collagen-peptides](https://web.archive.org/web/*/https://www.marksdailyapple.com/green-smoothie-collagen-peptides/)
+- [collagen-benefits](https://web.archive.org/web/*/https://www.marksdailyapple.com/collagen-benefits/)
+- [how-to-use-collagen-powder](https://web.archive.org/web/*/https://www.marksdailyapple.com/how-to-use-collagen-powder/)
+
 ## Resultados do Arquivo.pt
 
 A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.

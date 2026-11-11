@@ -101,6 +101,18 @@ O capítulo de North Atlanta da Weston A. Price Foundation publicou duas fichas 
 - **Abacate e limão.** Bata **240 mL de fundo de carne ou caldo de ossos**, **½ abacate** sem casca e sem caroço e **½ colher de chá de suco de limão** até ficar cremoso. Ajuste sal e pimenta e finalize com especiarias a gosto. No encontro, a versão usou fundo de frango. [Ficha original](https://chapters.westonaprice.org/northatlantaga/2024/01/avocado-broth-latte/)
 - **Manjericão, coco e cítricos.** Bata **240–355 mL de fundo de carne ou caldo de ossos**, **60 mL de leite de coco**, **¼ de xícara de manjericão fresco picado**, **1 colher de chá de suco de limão-siciliano** e **1 colher de chá de suco de limão-taiti**. Tempere com sal e pimenta. No encontro, a versão usou caldo bovino. Para uma versão sem açúcar adicionado, use leite de coco sem açúcar e confira os ingredientes do caldo pronto. [Ficha original](https://chapters.westonaprice.org/northatlantaga/2024/01/basil-citrus-broth-latte/)
 
+## Caldo de carcaça e sopa de Leah McCullough
+
+As notas da entrevista *Fibro Hope* remetem ao livro de McCullough. O receituário detalha o aproveitamento da carcaça e do caldo. As medidas abaixo vêm do livro, com sal ajustado a gosto e conservação conforme a orientação sanitária da wiki. [Entrevista da WAPF](https://www.westonaprice.org/podcast/66-fibro-hope/) · [Receituário, p. 173–178 impressas](https://unconventionaltraditional.com/wp-content/uploads/2016/01/Freedom-from-Fibromyalgia-2nd-Edition.pdf#page=189)
+
+| Preparo | Ingredientes e método | Opção com menos carboidratos |
+| --- | --- | --- |
+| Caldo de carcaça | Use **1 carcaça de frango com pele e cartilagem**, **cerca de 4,7 L de água**, **1 colher de sopa de vinagre de maçã ou vinho branco seco**, **2 cenouras**, **1 talo de salsão**, **1 cebola**, pimenta em grão e um par de pés de frango opcional. Cozinhe em fogo brando. A autora relata preferir **3 h** e acrescenta salsa nos últimos **10 min**. Coe e refrigere prontamente em porções rasas. | Dispensa grãos e farinha. Cenoura e cebola contribuem com carboidratos. |
+| Xícara de caldo com gelatina | Dissolva **1 colher de chá de gelatina bovina incolor** em **cerca de 237 mL de caldo de frango** e aqueça com **1 colher de chá de manteiga**. Use o modo de hidratação da embalagem. | Escolha caldo comercial sem açúcar ou amido adicionado. Prove antes de acrescentar sal. |
+| Sopa de frango e legumes | Refogue **1 cebola**, **2 cenouras** e **2 talos de salsão** em gordura de frango, banha ou óleo de coco, com salsa. Acrescente **240 mL de vinho branco** e reduza quase por completo. Junte **cerca de 3,8 L de caldo**, **1 xícara de frango cozido em pedaços** e **2 dentes de alho**. Aqueça e ajuste o sal e a pimenta. | O livro sugere servir sem arroz nem feijão para reduzir amido. Para omitir o vinho, solte o fundo da panela com um pouco do próprio caldo. |
+
+[Caldo de carcaça, p. 173–176](https://unconventionaltraditional.com/wp-content/uploads/2016/01/Freedom-from-Fibromyalgia-2nd-Edition.pdf#page=189) · [Caldo rápido e sopa, p. 177–178](https://unconventionaltraditional.com/wp-content/uploads/2016/01/Freedom-from-Fibromyalgia-2nd-Edition.pdf#page=193) · [Conservação](seguranca-conservacao.md)
+
 ## Mais caminhos
 
 | Preparo | Como usar e adaptar | Fonte |

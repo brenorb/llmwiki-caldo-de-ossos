@@ -655,3 +655,7 @@ O [inventário](raw/inventario-wapf-receitas.md#quatro-faixas-e-conferência-de-
 ## [2026-11-11] revisão | Catálogo e duas entrevistas do Revolution Health Radio
 
 O [inventário](raw/mark-sisson-entrevistas.md#revolution-health-radio-com-chris-kresser) registra as 392 entradas do arquivo oficial e as duas gravações integrais. A comparação de uma barra com caldo foi localizada na edição de áudio de 2016.
+
+## [2026-11-11] revisão | Áudio integral no Meat Mafia e no Gabby Reece Show
+
+O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-meat-mafia-podcast) cobre seis faixas de dois catálogos, incluindo duas edições derivadas. O áudio confirma o tempo de cocção citado por Sisson para fundo de carcaça e o contexto das duas falas sobre uso pessoal de colágeno.

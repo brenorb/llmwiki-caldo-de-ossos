@@ -619,3 +619,7 @@ O [inventário](raw/mark-sisson-entrevistas.md#the-joe-rogan-experience) registr
 ## [2026-11-11] revisão | Comentários de mais 21 publicações do Cozinha de Pedra
 
 O [registro](raw/busca-receitas-relatos.md#comentários-sobre-preparo-vinagre-e-fissuras-nas-mãos) acrescenta 311 entradas e confirma o estado da live de fundo de peixe. A [matriz](wiki/temas/relatos-e-evidencia.md) registra o depoimento de fissuras nas mãos e o contexto dos ensaios recuperados.
+
+## [2026-11-11] ingestão | Caldo de frango, estrogonofe e frango com tomate seco da Primal Kitchen
+
+A [página de receitas](wiki/temas/receitas-caldo.md#caldo-de-frango-com-ervas-e-dois-pratos-da-primal-kitchen) registra a base, a caneca com ervas e dois pratos com caldo. A [ficha do chili](wiki/temas/receitas-caldo.md#chili-bovino-sem-feijão-com-gelatina-opcional) também distingue as medidas da versão em vídeo.

@@ -663,3 +663,7 @@ O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-meat-mafia-pod
 ## [2026-11-11] revisão | Comentários sobre dor e tempo de consumo
 
 A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-dor-e-tempo-de-consumo) registra 161 comentários e respostas em 13 reels adicionais e a revisão de outros 23. A [matriz de evidência](wiki/temas/relatos-e-evidencia.md) inclui experiências distintas após dois meses de uso e a comparação do comentário que cita doença celíaca com a diretriz de tratamento.
+
+## [2026-11-11] revisão | Doze áudios da WAPF e caldo em pão salgado
+
+O [inventário](raw/inventario-wapf-receitas.md#doze-áudios-adicionais-e-uso-de-caldo-em-pão-salgado) registra as novas faixas e os recortes de confirmação. O [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md#pão-salgado-com-parte-da-água-substituída-por-caldo) registra a ideia de Flor Juárez e uma adaptação de pão de amêndoas. A [matriz](wiki/temas/relatos-e-evidencia.md) contextualiza os relatos sobre alergias e candidíase.

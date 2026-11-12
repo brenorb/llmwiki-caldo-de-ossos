@@ -231,6 +231,12 @@ Em outros textos sobre cozinhas tradicionais, a WAPF descreve o *arajiru* japon�
 
 No episódio *Don’t Throw Away the Bones!*, a WAPF menciona as tábuas culinárias da Babilônia. A equipe Yale–Harvard reconstruiu três ensopados de uma das tábuas, dois de cordeiro e um vegetariano com pão de cerveja. O catálogo da tábua YBC 4644 descreve bases de água e gordura e dá a tradução de um preparo de pombo. Esses registros permitem identificar preparos de época e deixam a composição de cada caldo em aberto. [Episódio, 00:09:21–00:09:46](https://www.westonaprice.org/podcast/dont-throw-away-the-bones/) · [Equipe Yale–Harvard](https://macmillan.yale.edu/stories/what-did-ancient-babylonians-eat-yale-harvard-team-tested-their-recipes) · [Catálogo da tábua](https://cdli.earth/cdli-tablet/724)
 
+### Pão salgado com parte da água substituída por caldo
+
+Flor Juárez sugere aproveitar sobras de caldo de ossos no líquido de um pão salgado com orégano ou queijo. A conversa trata de pães convencionais e deixa em aberto a proporção de caldo. Em massas de trigo, a farinha continua sendo a principal fonte de carboidratos. [Sabias Tradiciones 169, 00:20:31–00:20:59](https://sabiastradiciones.libsyn.com/169-introduccin-a-la-produccin-de-pan-con-flor-jurez-de-somosalvajes)
+
+**Adaptação low carb proposta pela wiki.** Para seis pãezinhos, use **140 g de farinha de amêndoas**, **50 g de psyllium moído**, **2 colheres de chá de fermento químico**, **3 claras**, **2 colheres de chá de vinagre de maçã** e sal. Na receita publicada, os **240 mL de água** entram ferventes. Para experimentar o caldo, aqueça **180 mL de água e 60 mL de caldo coado sem sal** até ferver. Misture os secos, incorpore claras e vinagre e bata brevemente ao juntar o líquido quente. Molde seis pãezinhos e asse a **175 °C por 50–60 min**. Orégano é opcional. A troca de líquido não foi testada pela wiki e pode alterar o ponto da massa. [Receita-base com água](https://www.dietdoctor.com/recipes/the-keto-bread)
+
 ## Receitas de outras subcategorias de *Recipe of the Week*
 
 A revisão das 47 páginas com termos de busca que ainda não estavam ligadas na wiki encontrou 32 receitas com caldo ou gelatina no preparo, inclusive opções e receitas que geram o próprio caldo. Veja também os [usos secundários e falsos positivos](../../raw/inventario-wapf-receitas.md).

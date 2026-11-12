@@ -555,3 +555,7 @@ O [inventário](raw/inventario-wapf-receitas.md#retomada-das-duas-séries) regis
 ## [2026-11-11] ingestão | Áudios restantes de The Genius Life e The School of Greatness
 
 O [inventário das entrevistas](raw/mark-sisson-entrevistas.md#the-school-of-greatness-the-dan-buettner-podcast-e-the-genius-life) registra as cinco faixas recuperadas, com 5 h 48 min 34 s de mídia, os trechos reaproveitados e as novas passagens sobre caldo e suplementação.
+
+## [2026-11-11] ingestão | Sopas e gelatina nas prévias de dois livros de Sisson
+
+As [fichas de Sisson](wiki/temas/receitas-mark-sisson.md) registram cinco sopas e ensopados de *Two Meals a Day Cookbook*, além do camarão com caldo e do iogurte de coco com gelatina do livro de panela elétrica. O [inventário](raw/inventario-mark-receitas.md#prévias-públicas-dos-livros) localiza as páginas e a lacuna do fundo de frango ou boi na p. 32.

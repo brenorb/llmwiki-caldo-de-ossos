@@ -469,6 +469,19 @@ O inventário por GUID chegou a **98 de 237** áudios das páginas curtas em ing
 | [190 · Bucking the system](https://wisetraditions.libsyn.com/190-bucking-the-system) | 31 min 28 s | Entre 00:28:07 e 00:29:25, Sally Fallon Morell fala de exposições ambientais e atribui à glicina do caldo um efeito de desintoxicação. A passagem não apresenta uma medição de exposição ou eliminação após ingestão de caldo. |
 | [162 · El impacto de las emociones en nuestra salud](https://sabiastradiciones.libsyn.com/162-el-impacto-de-las-emociones-en-nuestra-salud-con-el-juan-ignacio-zagari) | 46 min 31 s | A triagem da transcrição não encontrou passagens substantivas de caldo, gelatina, colágeno ou glicina. |
 
+#### Seis faixas adicionais das duas séries
+
+O inventário por GUID chegou a **101 de 237** áudios das páginas curtas em inglês e **54 de 189** em espanhol. Restavam **136** e **135**.
+
+| Episódio | Duração da faixa | Passagem pertinente |
+| --- | --- | --- |
+| [187 · Home birth](https://wisetraditions.libsyn.com/187-home-birth-a-safe-beautiful-option) | 29 min 47 s | As ocorrências de gelatina e tutano são de anúncios de cápsulas. |
+| [188 · Primal posture](https://wisetraditions.libsyn.com/188-primal-posture) | 36 min 07 s | As menções a gelatina, colágeno e tutano são de publicidade de suplementos. |
+| [189 · Secrets of The Biggest Little Farm](https://wisetraditions.libsyn.com/189-secrets-of-the-biggest-little-farm) | 32 min 39 s | Gelatina e tutano aparecem em publicidade de cápsulas. |
+| [155 · Los múltiples beneficios que nos brinda un huerto](https://sabiastradiciones.libsyn.com/155-los-mtiples-beneficios-que-nos-brinda-un-huerto-adems-de-alimentos-sanos-con-tati) | 54 min 54 s | A triagem automática não recuperou menção temática. Alguns trechos da conversa com convidados brasileiros têm reconhecimento irregular. |
+| [160 · Qué considerar al iniciar un huerto](https://sabiastradiciones.libsyn.com/160-qu-considerar-al-iniciar-un-huerto-con-tatiana-cavaana-y-joo-rockett-de-escuela-rama-e-instituto-de-permacultura-de-la-pampa) | 51 min 46 s | A triagem da transcrição não encontrou passagens substantivas de caldo, gelatina, colágeno ou glicina. |
+| [161 · Cuidados y mantenimiento de nuestro huerto](https://sabiastradiciones.libsyn.com/160-cuidados-y-mantenimiento-de-nuestro-huerto-con-tatiana) | 52 min 23 s | A triagem da transcrição não encontrou menções temáticas. O número 161 vem do título no RSS. |
+
 ## Publicações dos capítulos locais
 
 O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.376 URLs do sitemap principal. A consulta de 2026-11-11 verificou o relato de uma reunião do capítulo de North Atlanta, as duas fichas de bebidas em imagem e uma apresentação de três páginas. A apresentação diferencia fundo de carne e caldo de ossos por proporções indicativas e por tempo. Nas faixas culinárias, cita 1½–3 h para fundo de aves, 4–6 h para fundo de boi, bisão ou porco, 6–24 h para caldo de ossos de frango e 24–72 h para bovino. O documento não informa a base das proporções, o volume de água ou resultados de testes próprios. As alegações de recuperação da barreira intestinal e maior teor de eletrólitos aparecem no material didático, sem medições comparativas ou ensaio clínico nele. A consulta é pontual e ainda não cobre todos os sites dos capítulos. [Reunião de 31 de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/) · [Apresentação em PDF](https://chapters.westonaprice.org/northatlantaga/files/2024/04/Meat-Stock-vs.-Bone-Broth.pdf) · [Bebidas e medidas](../wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)

@@ -715,3 +715,7 @@ A [tabela da grade](raw/cozinha-comentarios-demais-publicacoes.md) registra 367 
 ## [2026-11-11] revisão | Boundless Life, Jorge Cruise e áudio integral do The Alchemist’s Library
 
 O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#boundless-life-com-ben-greenfield) registra oito faixas integrais, confere glicogênio na entrevista de 2016 e identifica as falas de Sisson sobre colágeno e eletrólitos.
+
+## [2026-11-11] revisão | Mais seis gravações da Weston A. Price Foundation
+
+O [inventário](raw/inventario-wapf-receitas.md#seis-faixas-adicionais-das-duas-séries) registra durações, menções publicitárias e o reconhecimento irregular em uma conversa com convidados brasileiros.

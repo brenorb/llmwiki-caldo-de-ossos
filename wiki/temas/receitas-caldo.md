@@ -156,6 +156,12 @@ Na entrevista da WAPF, Eng descreve o phở de rabada que aparece na capa de seu
 
 As trocas de acompanhamentos e a retirada do açúcar no curry são adaptações da wiki. A cebola, a chalota e os vegetais contribuem com carboidratos. [Caderno de receitas](https://melissaknorris.com/wp-content/uploads/2025/10/One-Pot_Wonders_for_Homesteaders-1.pdf) · [Conservação](seguranca-conservacao.md)
 
+## Sopa de abóbora com caldo e curry
+
+A receita de Mandy Blume usa **480 mL de caldo de frango ou peru**, uma abóbora assada, maçã, cebola, alho, curry e manteiga de amêndoa ou de caju opcional. Na versão de forno, a autora assa primeiro a abóbora e depois volta ao forno com os ingredientes antes de bater. A maçã contribui com açúcares e a abóbora também entra na conta de carboidratos. [Real Food Recovery](https://www.realfoodrecovery.org/pumpkin-soup-with-bone-broth/)
+
+Para uma versão sem maçã, aqueça **425 g de purê de abóbora sem açúcar** com **480 mL de caldo**. Junte cebola e alho previamente refogados e curry a gosto. Bata até ficar cremoso e finalize com coentro ou hortelã. Para reduzir ainda mais os carboidratos, teste substituir parte do purê por couve-flor cozida. O preparo na panela e as trocas são adaptações da wiki. [Conservação](seguranca-conservacao.md)
+
 ## Mais caminhos
 
 | Preparo | Como usar e adaptar | Fonte |

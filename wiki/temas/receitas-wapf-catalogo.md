@@ -86,6 +86,21 @@ Na seção *Fish Stock* de [Broth Is Beautiful](https://www.westonaprice.org/hea
 | [Sopa de folhas da primavera](https://chapters.westonaprice.org/bellinghamwa/files/2023/03/Soup_Spring-Greens-Soup.pdf) | Cerca de 480 mL de caldo de base não especificada com folhas, cogumelos e 3 xícaras de ervilhas cozidas, batidos em sopa. | Ervilhas são a principal fonte de amido. | Troque parte ou todas as ervilhas por couve-flor. |
 | [Chili branco de frango com tomatillo](https://chapters.westonaprice.org/bellinghamwa/files/2019/06/Soup_White-Chili-with-Chicken.jpeg) | Outra ficha usa duas latas de caldo de frango de 14 oz, feijão branco, 2 xícaras de frango cozido e pimentas verdes ou tomatillo. Cozinha cerca de 1 h em fogo baixo. | Feijão branco e tomatillo. | Troque o feijão por abobrinha ou cogumelos. |
 
+## Receitas de sites indicados pelos capítulos
+
+| Preparo e autoria | Uso do caldo | Ingredientes que contribuem com carboidratos | Variação |
+| --- | --- | --- | --- |
+| [Sopa de abóbora com caldo, Mandy Blume](https://www.realfoodrecovery.org/pumpkin-soup-with-bone-broth/) | 480 mL de caldo de frango ou peru com abóbora assada e curry. | Abóbora e maçã. | Omita a maçã. [Ficha adaptada](receitas-caldo.md#sopa-de-abóbora-com-caldo-e-curry) |
+| [Fundo de pato assado, Mandy Blume](https://www.realfoodrecovery.org/jurassic-world-roasted-duck/) | Reaproveita ossos, carne e sucos do pato assado com salsão, água e vinagre. A autora usa cerca de 24 h na panela lenta. | Salsão e temperos do assado. | Coe e resfrie em porções rasas. |
+| [Caldo de frango, Carolyn Biggerstaff](https://www.realfoodhouston.com/wp-files/2012/05/17/bone-broth-from-pastured-chicken/) | Adapta o fundo de *Nourishing Traditions* e descreve cerca de 9 h de cocção e banho de gelo após coar. | Os legumes da base contribuem com carboidratos. | Resfrie prontamente e use o [prazo de conservação da wiki](seguranca-conservacao.md). |
+| [Frango, quiabo e leite de coco, Carolyn Biggerstaff](https://www.realfoodhouston.com/wp-files/2013/09/30/pastured-chicken-and-okra-with-coconut-milk-and-indian-spices/) | Cerca de 950 mL de caldo de frango com quiabo, coco e especiarias. A autora também descreve um preparo com sobras cozidas de frango. | Quiabo, aromáticos e leite de coco conforme o produto. | Use leite de coco sem açúcar. |
+| [Fundo curto de frango, Dawn Donalson](https://nourishingmodernfamilies.com/chicken-meat-stock-recipe/) | Frango inteiro com miúdos, cerca de 1,9–2,8 L de água, cenoura e cebola, por aproximadamente 2 h em fogo baixo ou no forno. | Cenoura e cebola. | Cozinhe a ave sem lavá-la na pia e siga o [resfriamento e prazo da wiki](seguranca-conservacao.md). |
+| [Fundo de ossos, guia da Willamette Farm and Food Coalition](https://eugenewestonaprice.org/wp-content/uploads/2020/10/Locally-Grown-Directory-2020-200325223553.pdf) | A p. 11 impressa usa cerca de 0,9–1,36 kg de ossos, água para cobrir, aromáticos e um pouco de vinagre por 8–12 h. O capítulo de Eugene hospeda o guia. | Depende dos aromáticos. | Use em sopas, ensopados e braseados. |
+| [Fundo de coxa de pato, encontro em Eugene](https://eugenewestonaprice.org/2014/02/01/potlucks-in-review-food-feature/) | Coxas de pato cobertas com água, sal e vinagre em cocção lenta. O encontro não informa medidas ou tempo. | A descrição dispensa açúcar e farinha. | Use como base coada. |
+| [Caldo de ossos, portal Weston Price Netherlands](https://westonprice.nl/bottenbouillon-oeroud-en-ongelooflijk-voedzaam/) | Cerca de 1–1,5 kg de ossos com tutano e cartilagem, 2–3 L de água e 2 colheres de sopa de vinagre. A autora sugere 6–12 h para frango e 12–24 h para boi. | Depende dos vegetais acrescentados. | Registre os cortes e a redução do seu preparo para comparar lotes. |
+
+As fichas têm autoria própria. Os sites vinculados no diretório incluem páginas de capítulos e publicações independentes de pessoas ou entidades da rede. [Diretório de capítulos](https://www.westonaprice.org/find-local-chapter/)
+
 ## Gelatina
 
 | Receita original | Base de caldo ou gelatina | Ingredientes que influenciam os carboidratos | Opção com menos carboidratos |

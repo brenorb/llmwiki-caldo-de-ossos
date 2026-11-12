@@ -627,3 +627,7 @@ A [página de receitas](wiki/temas/receitas-caldo.md#caldo-de-frango-com-ervas-e
 ## [2026-11-11] revisão | Nove áudios da WAPF e a alegação sobre caldo com kefir
 
 O [inventário](raw/inventario-wapf-receitas.md#nove-áudios-e-a-conversa-sobre-caldo-com-kefir) chega a 82 áudios em inglês e 40 em espanhol. A [nota da fonte](wiki/fontes/weston-price-caldo-gelatina.md) registra o que foi testado com kefir.
+
+## [2026-11-11] ingestão | Receitas de caldo nos sites indicados por capítulos
+
+O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-sites-indicados-pelos-capítulos) registra a autoria do fundo de pato, do frango com quiabo e dos demais preparos. A [sopa de abóbora](wiki/temas/receitas-caldo.md#sopa-de-abóbora-com-caldo-e-curry) ganhou uma opção sem maçã.

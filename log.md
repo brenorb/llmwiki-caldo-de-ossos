@@ -567,3 +567,7 @@ O [registro da sessão](raw/busca-receitas-relatos.md#comentários-sobre-conserv
 ## [2026-11-11] ingestão | Cebola dourada na gordura do caldo
 
 A [ficha culinária](wiki/temas/receitas-caldo.md#cebola-dourada-na-gordura-do-caldo) incorpora a técnica do reel e sugere medidas para duas porções. O eritritol aparece como opção da autora.
+
+## [2026-11-11] revisão | Sete áudios adicionais da WAPF e a alegação sobre caldo com limão
+
+O [inventário](raw/inventario-wapf-receitas.md#sete-áudios-adicionais-conferidos) chega a 74 transcrições locais em inglês e 35 em espanhol. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) localiza o relato de Fallon Morell e os ensaios de pão com limão ou vinagre, que mediram desfechos diferentes de absorção proteica.

@@ -385,6 +385,20 @@ A conferência dos arquivos por GUID passou a **70 de 237** transcrições locai
 | [233 · Vitamin A-mazing](https://wisetraditions.libsyn.com/233-vitamin-a-mazing) | 32 min 36 s | As menções de gelatina são de anúncios de cápsulas. Não apareceu receita de caldo ou quantificação de nutrientes no caldo. |
 | [159 · El alto costo social y ecológico de consumir ultraprocesados](https://sabiastradiciones.libsyn.com/159-ultraprocesados-2-con-galia-kleiman) | 48 min 37 s | A apresentação cita a marca de caldo da convidada (00:01:20). Entre 00:28:16 e 00:29:10, a conversa menciona temperos em caldos instantâneos e extrato de levedura, sem análise de produto ou medida de glutamato. |
 
+#### Sete áudios adicionais conferidos
+
+O inventário por GUID chegou a **74 de 237** transcrições locais das páginas curtas em inglês e **35 de 189** em espanhol. Restavam **163** e **154**. As quatro faixas em inglês e as três em espanhol abaixo são as adições deste corte.
+
+| Episódio | Duração conferida | Passagem pertinente |
+| --- | --- | --- |
+| [221 · Best of 2019](https://wisetraditions.libsyn.com/221-best-of-2019) | 32 min 35 s | As ocorrências de gelatina são de anúncios de cápsulas. |
+| [225 · Wise principles for every diet](https://wisetraditions.libsyn.com/225-wise-principles-for-every-diet) | 29 min 56 s | De 00:07:15 a 00:07:46 e a 00:09:53, Sally Fallon Morell relata mais energia, menos problemas digestivos e sono melhor após várias mudanças na dieta, entre elas aumentar o consumo de caldo. |
+| [226 · The problem of cancer, parte 1](https://wisetraditions.libsyn.com/226-the-problem-of-cancer-part-1) | 34 min 35 s | As ocorrências de gelatina são de anúncios de cápsulas. |
+| [227 · The problem of cancer, parte 2](https://wisetraditions.libsyn.com/227-the-problem-of-cancer-part-2) | 34 min 34 s | Entre 00:16:05 e 00:16:49, o convidado usa a formação de gelatina como analogia. O trecho não descreve uma intervenção alimentar em câncer. |
+| [158 · Qué son los productos ultraprocesados](https://sabiastradiciones.libsyn.com/158-son-los-ultraprocesados-alimentos-o-productos-comestibles-con-galia-kleiman) | 37 min 07 s | A 00:04:43, a convidada cita caldo de carne, ossos e legumes cozido por horas como exemplo de processamento culinário, sem dar proporções. |
+| [178 · Vinagre, un tesoro culinario milenario](https://sabiastradiciones.libsyn.com/178-el-vinagre-alimento-milenario-multiusos-que-aporta-grandes-beneficios-a-tu-salud-con-flor-jurez-de-somosalvajes) | 49 min 36 s | Entre 00:16:58 e 00:17:40, a convidada sugere caldo com limão junto à refeição e propõe melhora da absorção proteica, sem apresentar teste dessa preparação. |
+| [179 · Cuánto saben los profesionales de la salud sobre el origen de nuestros alimentos](https://sabiastradiciones.libsyn.com/179-los-problemas-no-incluir-alimentos-en-formacin-mdica-con-el-dr-diego-martnez-conde) | 52 min 07 s | A triagem não encontrou menção temática substantiva. |
+
 ## Publicações dos capítulos locais
 
 O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.376 URLs do sitemap principal. A consulta de 2026-11-11 verificou o relato de uma reunião do capítulo de North Atlanta, as duas fichas de bebidas em imagem e uma apresentação de três páginas. A apresentação diferencia fundo de carne e caldo de ossos por proporções indicativas e por tempo. Nas faixas culinárias, cita 1½–3 h para fundo de aves, 4–6 h para fundo de boi, bisão ou porco, 6–24 h para caldo de ossos de frango e 24–72 h para bovino. O documento não informa a base das proporções, o volume de água ou resultados de testes próprios. As alegações de recuperação da barreira intestinal e maior teor de eletrólitos aparecem no material didático, sem medições comparativas ou ensaio clínico nele. A consulta é pontual e ainda não cobre todos os sites dos capítulos. [Reunião de 31 de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/) · [Apresentação em PDF](https://chapters.westonaprice.org/northatlantaga/files/2024/04/Meat-Stock-vs.-Bone-Broth.pdf) · [Bebidas e medidas](../wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)

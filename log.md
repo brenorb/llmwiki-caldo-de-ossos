@@ -595,3 +595,7 @@ O [inventário](raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-n
 ## [2026-11-11] ingestão | Chili sem feijão da Primal Kitchen
 
 A [ficha](wiki/temas/receitas-caldo.md#chili-bovino-sem-feijão-com-gelatina-opcional) registra a versão com carne moída e o espessamento opcional com gelatina. O [inventário de vídeo](raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-no-youtube) foi atualizado após a deduplicação da busca temática.
+
+## [2026-11-11] revisão | Diretório e acervos dos capítulos da WAPF
+
+O [inventário dos capítulos](raw/inventario-wapf-receitas.md#diretório-e-cobertura-dos-microsites) enumera os 55 caminhos visitados e as contagens por site. O [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md#receitas-de-marin-county-e-bellingham) inclui as sete fichas com caldo do acervo de Bellingham.

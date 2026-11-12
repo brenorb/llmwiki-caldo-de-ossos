@@ -405,6 +405,72 @@ O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.37
 
 O sitemap de North Atlanta e a API pública do WordPress coincidiram nos **53 posts e sete páginas**. A busca no título e corpo por *broth*, *stock*, *gelatin* e *collagen* sinalizou seis posts e duas páginas, conferidos em seguida. A sopa de cogumelos usa fundo de frango. O relato de novembro de 2024 cita caldo de frango entre os pratos servidos, sem receita. A ficha de molho de iogurte remete ao tema da reunião, mas o molho não leva caldo. As duas páginas sinalizadas são listas de reuniões e receitas. A contagem cobre páginas e posts do capítulo, com leitura separada das imagens que continham as duas receitas localizadas. O [diretório da fundação](https://www.westonaprice.org/find-local-chapter/) remete a uma listagem separada de capítulos. [Sitemap de North Atlanta](https://chapters.westonaprice.org/northatlantaga/wp-sitemap.xml) · [Sopa de cogumelos](https://chapters.westonaprice.org/northatlantaga/2025/08/mushroom-soup/) · [Reunião de novembro](https://chapters.westonaprice.org/northatlantaga/2024/10/november-2024-meeting/)
 
+### Diretório e cobertura dos microsites
+
+Foram consultadas as **66 seções** dos dois diretórios oficiais. O diretório dos EUA retornou **416 registros** em 49 seções e o internacional, **53** em 17 seções. A extração encontrou endereços explícitos de **40 microsites** no domínio dos capítulos, incluindo North Atlanta. A extração também encontrou 29 links externos e 29 links de redes ou listas. Em 387 registros não havia URL explícita desse tipo. A triagem dos 55 caminhos abaixo se restringe ao domínio dos capítulos. A cobertura se refere às listagens que a WAPF exibiu nesta consulta. [Diretório dos EUA](https://secure.westonaprice.org/cvweb_weston/cgi-bin/utilities.dll/openpage?wrp=chapter_dir.htm) · [Diretório internacional](https://secure.westonaprice.org/cvweb_weston/cgi-bin/utilities.dll/openpage?wrp=chapter_dir_inter.htm)
+
+O lote adicional visitou **55 caminhos**, 39 indicados no diretório e 16 descobertos por indexação. Cinquenta e três deram acesso ao acervo pelo WordPress. Em 48, a leitura também pôde ser cruzada com um sitemap. Entre **608 registros enumerados**, 555 páginas e 53 posts, **594** forneceram texto extraível. A triagem desses 594 registros sinalizou **56 URLs de 28 microsites**, incluindo referências de passagem, por termos de caldo, fundo, gelatina, colágeno, aspic, tutano, bouillon e consommé. Os 55 caminhos e as contagens aparecem abaixo. Páginas e posts são os itens enumerados. A coluna com texto conta os corpos extraíveis. As 14 URLs sem texto nessa extração também foram abertas diretamente. Não houve nova correspondência temática no HTML. A abertura direta não identifica conteúdo dentro de imagens.
+
+| Microsite | Páginas | Posts | Com texto | Sinalizados | Cobertura |
+| --- | ---: | ---: | ---: | ---: | --- |
+| [adaok](https://chapters.westonaprice.org/adaok/) | 5 | 1 | 6 | 0 | API e sitemap |
+| [alexandriava](https://chapters.westonaprice.org/alexandriava/) | 6 | 1 | 7 | 1 | API e sitemap |
+| [auroraco](https://chapters.westonaprice.org/auroraco/) | 3 | 1 | 4 | 0 | API e sitemap |
+| [bellinghamwa](https://chapters.westonaprice.org/bellinghamwa/) | 4 | 0 | 4 | 0 | API e sitemap |
+| [bendor](https://chapters.westonaprice.org/bendor/) | 5 | 8 | 13 | 2 | API e sitemap |
+| [boulderco](https://chapters.westonaprice.org/boulderco/) | 12 | 0 | 12 | 1 | API e sitemap |
+| [bozemanmt](https://chapters.westonaprice.org/bozemanmt/) | 7 | 1 | 8 | 0 | API e sitemap |
+| [browardfl](https://chapters.westonaprice.org/browardfl/) | 5 | 1 | 6 | 0 | API e sitemap |
+| [buckscountypa](https://chapters.westonaprice.org/buckscountypa/) | 4 | 0 | 4 | 0 | API e sitemap |
+| [budapesthungary](https://chapters.westonaprice.org/budapesthungary/) | 7 | 1 | 8 | 0 | API e sitemap |
+| [capayvalleyca](https://chapters.westonaprice.org/capayvalleyca/) | 4 | 1 | 5 | 1 | API e sitemap |
+| [cliftonparkny](https://chapters.westonaprice.org/cliftonparkny/) | 5 | 1 | 6 | 1 | API e sitemap |
+| [concordca](https://chapters.westonaprice.org/concordca/) | 0 | 0 | 0 | 0 | Redireciona para [Contra Costa Tri-Valley](https://chapters.westonaprice.org/contracostatrivalleyca/) |
+| [contracostatrivalleyca](https://chapters.westonaprice.org/contracostatrivalleyca/) | 71 | 1 | 71 | 2 | API e sitemap |
+| [custerwa](https://chapters.westonaprice.org/custerwa/) | 2 | 1 | 3 | 0 | API e sitemap |
+| [edmontonab](https://chapters.westonaprice.org/edmontonab/) | 5 | 1 | 6 | 0 | API e sitemap |
+| [fairfaxva](https://chapters.westonaprice.org/fairfaxva/) | 3 | 1 | 4 | 1 | API e sitemap |
+| [floydva](https://chapters.westonaprice.org/floydva/) | 20 | 0 | 20 | 1 | API e sitemap |
+| [fortcollinsco](https://chapters.westonaprice.org/fortcollinsco/) | 8 | 1 | 8 | 1 | API e sitemap |
+| [goldcountrychapterca](https://chapters.westonaprice.org/goldcountrychapterca/) | 8 | 1 | 9 | 1 | API e sitemap |
+| [jupiterfl](https://chapters.westonaprice.org/jupiterfl/) | 14 | 1 | 14 | 1 | API |
+| [lagunaniguelca](https://chapters.westonaprice.org/lagunaniguelca/) | 4 | 1 | 5 | 0 | API e sitemap |
+| [linnbentoncounties](https://chapters.westonaprice.org/linnbentoncounties/) | 4 | 2 | 5 | 1 | API e sitemap |
+| [linthicummd](https://chapters.westonaprice.org/linthicummd/) | 5 | 1 | 5 | 0 | API |
+| [luzernecountypa](https://chapters.westonaprice.org/luzernecountypa/) | 5 | 1 | 6 | 0 | API e sitemap |
+| [marincountyca](https://chapters.westonaprice.org/marincountyca/) | 139 | 0 | 136 | 21 | API e sitemap |
+| [marshallva](https://chapters.westonaprice.org/marshallva/) | 3 | 1 | 4 | 0 | API e sitemap |
+| [matsuvalleyak](https://chapters.westonaprice.org/matsuvalleyak/) | 16 | 1 | 17 | 2 | API e sitemap |
+| [metromanila](https://chapters.westonaprice.org/metromanila/) | 5 | 1 | 6 | 1 | API |
+| [napaca](https://chapters.westonaprice.org/napaca/) | 14 | 2 | 16 | 2 | API e sitemap |
+| [newyorkny](https://chapters.westonaprice.org/newyorkny/) | 5 | 1 | 6 | 2 | API e sitemap |
+| [northgeorgiamountainsga](https://chapters.westonaprice.org/northgeorgiamountainsga/) | 3 | 1 | 3 | 0 | API e sitemap |
+| [northgraftoncountynh](https://chapters.westonaprice.org/northgraftoncountynh/) | 6 | 1 | 7 | 0 | API e sitemap |
+| [nwcookcounty](https://chapters.westonaprice.org/nwcookcounty/) | 20 | 2 | 22 | 1 | API e sitemap |
+| [pittsburghpa](https://chapters.westonaprice.org/pittsburghpa/) | 15 | 0 | 15 | 1 | API e sitemap |
+| [plymouthsiouxcountyia](https://chapters.westonaprice.org/plymouthsiouxcountyia/) | 4 | 1 | 5 | 0 | API e sitemap |
+| [princetonnj](https://chapters.westonaprice.org/princetonnj/) | 2 | 1 | 3 | 1 | API e sitemap |
+| [queenannescountymd](https://chapters.westonaprice.org/queenannescountymd/) | 6 | 1 | 7 | 1 | API e sitemap |
+| [rocklandcountyny](https://chapters.westonaprice.org/rocklandcountyny/) | 4 | 1 | 5 | 0 | API e sitemap |
+| [rocklandny](https://chapters.westonaprice.org/rocklandny/) | 4 | 1 | 4 | 0 | API e sitemap |
+| [sandiegoca](https://chapters.westonaprice.org/sandiegoca/) | 6 | 1 | 7 | 1 | API |
+| [sandiegonorthcoca](https://chapters.westonaprice.org/sandiegonorthcoca/) | 4 | 1 | 5 | 1 | API e sitemap |
+| [sandpointid](https://chapters.westonaprice.org/sandpointid/) | 5 | 1 | 6 | 0 | API e sitemap |
+| [sanfranciscoca](https://chapters.westonaprice.org/sanfranciscoca/) | 16 | 0 | 15 | 1 | API e sitemap |
+| [sanmateoca](https://chapters.westonaprice.org/sanmateoca/) | 5 | 0 | 5 | 0 | API e sitemap |
+| [santabarbaraca](https://chapters.westonaprice.org/santabarbaraca/) | 6 | 1 | 7 | 2 | API |
+| [sarasotafl](https://chapters.westonaprice.org/sarasotafl/) | 4 | 1 | 5 | 1 | API e sitemap |
+| [sfeastbayca](https://chapters.westonaprice.org/sfeastbayca/) | 5 | 0 | 4 | 0 | API e sitemap |
+| [sonomacountycal](https://chapters.westonaprice.org/sonomacountycal/) | 10 | 0 | 10 | 1 | API e sitemap |
+| [talbotcountymd](https://chapters.westonaprice.org/talbotcountymd/) | 3 | 1 | 4 | 0 | API e sitemap |
+| [treasurecoastfl](https://chapters.westonaprice.org/treasurecoastfl/) | 4 | 1 | 4 | 0 | API e sitemap |
+| [vancouverbc](https://chapters.westonaprice.org/vancouverbc/) | 15 | 1 | 15 | 3 | API e sitemap |
+| [westchesterny](https://chapters.westonaprice.org/westchesterny/) | 4 | 1 | 5 | 0 | API e sitemap |
+| [westfordma](https://chapters.westonaprice.org/westfordma/) | 6 | 1 | 7 | 0 | API e sitemap |
+| [yanktonsd](https://chapters.westonaprice.org/yanktonsd/) | 0 | 0 | 0 | 0 | HTTP 200 sem corpo editorial utilizável |
+
+Em Bellingham, foram recuperados **46 de 46 anexos**. Quarenta e um PDFs tinham texto extraível. Os três PDFs escaneados e as duas imagens JPEG foram conferidos visualmente. Sete fichas usam caldo, uma como opção. O catálogo registra os pratos e as substituições culinárias. [Capítulo de Bellingham](https://chapters.westonaprice.org/bellinghamwa/) · [Receitas dos capítulos](../wiki/temas/receitas-wapf-catalogo.md#receitas-de-marin-county-e-bellingham)
+
 ## PDFs e edições digitais
 
 O endpoint de anexos do WordPress com o filtro `mime_type=application/pdf` respondeu em seis páginas. O cabeçalho indicou 519 registros, e o corpo das respostas expôs 504 IDs e URLs distintas. A diferença de 15 não pôde ser esclarecida pelas respostas. A lista registra metadados e localizadores, sem pressupor que os arquivos estejam disponíveis ou sejam pertinentes. [API de anexos PDF](https://www.westonaprice.org/wp-json/wp/v2/media?mime_type=application%2Fpdf)

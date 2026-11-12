@@ -353,6 +353,12 @@ O guia inclui fundos de frango, bovino e de peixe entre as opções para dar sab
 
 A equipe editorial sugere colocar na panela elétrica de cocção lenta **1,8 kg de carne bovina para assar**, **1 cebola grande**, **3 dentes de alho**, um ramo de alecrim, cenouras picadas, **1 lata de caldo bovino** e **1 lata de extrato de tomate**. A publicação indica um programa de **6 ou 8 h** e deixa em aberto o volume das latas e a potência de cocção. [Budget Eating Recipes, seção Pot Roast](https://web.archive.org/web/20231203131210id_/https://www.marksdailyapple.com/budget-eating-recipes/)
 
+## Café com peptídeos de baunilha
+
+A receita do Mark’s Daily Apple usa **150–240 mL de café pronto** e **1 medida de peptídeos de colágeno de baunilha da Primal Kitchen**. Coloque cerca de um quarto do café na caneca e misture o pó até dissolver. Complete com o café restante e mexa. O texto sugere a versão de chocolate do produto para um mocha. O vídeo mostra Sisson preparando a bebida na mesma ordem. [Receita Vanilla Collagen Fuel Coffee](https://www.goodreads.com/author_blog_posts/15543855-7-healthy-coffee-ideas-for-every-primal-taste) · [Demonstração, 01:26–01:57](https://www.youtube.com/watch?v=5jQtaZj9RL8&t=86s)
+
+Para uma versão sem açúcar adicionado, use café sem adoçar, peptídeos sem açúcar adicionado e baunilha a gosto. A quantidade de pó por medida depende do produto. A bebida usa peptídeos solúveis e pode ser servida quente. Para uma sobremesa que firme ao esfriar, siga a [ficha com gelatina e café](receitas-gelatina.md).
+
 ## Latte de chá Earl Grey, rosa e peptídeos de colágeno
 
 Na receita do convidado Simon Cheng, aqueça **120 mL de água** e bata com **120 mL de bebida de macadâmia ou de outra castanha**, **1 sachê de cristais solúveis de chá Earl Grey**, **1 sachê de peptídeos de colágeno**, **1 colher de chá de mel** e um pouco de água de rosas própria para alimentos. Sirva com pétalas de rosa comestíveis. O texto especifica marcas dos sachês e deixa o peso em aberto. [A Definitive Guide to Tea, seção Frothy Rose Earl Grey Latte](https://web.archive.org/web/20231003141743id_/https://www.marksdailyapple.com/health-benefits-of-tea/)

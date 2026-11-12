@@ -683,3 +683,7 @@ O [inventário de áudio](raw/inventario-wapf-receitas.md#caldo-de-frango-com-li
 ## [2026-11-11] ingestão | Marshmallows com gelatina e alternativa com adoçantes
 
 A [ficha](wiki/temas/receitas-gelatina.md#marshmallow-de-gelatina-com-e-sem-açúcar) compara a calda demonstrada pela Primal Kitchen com a temperatura da ficha escrita e reúne uma formulação low carb publicada, com os dois adoçantes especificados pela autora.
+
+## [2026-11-11] ingestão | Café com peptídeos demonstrado por Sisson
+
+A [ficha](wiki/temas/receitas-mark-sisson.md#café-com-peptídeos-de-baunilha) cruza o modo de misturar do vídeo com a quantidade de café da versão escrita.

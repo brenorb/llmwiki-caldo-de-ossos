@@ -124,6 +124,8 @@ O [inventário dos catálogos e áudios](../../raw/mark-sisson-entrevistas.md#ca
 
 Em vídeos oficiais, Sisson diz gostar de caldo e preferir suplemento no calor ou quando caldo não faz parte da rotina. Em outra demonstração, dissolve peptídeos de baunilha em uma pequena parte do café e completa a xícara. O vídeo de produtos sugere misturar peptídeos sem sabor a sopa ou caldo. A [triagem dos canais](../../raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-no-youtube) localiza essas falas.
 
+Em um vídeo sobre fibras, Sisson propõe que bactérias intestinais gerem ácidos graxos de cadeia curta a partir de peptídeos de colágeno. Dois estudos de fermentação em reatores observaram mudanças com hidrolisados específicos, com diferenças entre formulações. Eles deixam em aberto o efeito de caldo ingerido por pessoas e a equivalência com fibras. [Vídeo, 01:12–01:27 e 02:02](https://www.youtube.com/watch?v=OAX9nsroKh4&t=72s) · [Larder e Cunha](larder-2021-cunha-2026-fermentacao.md)
+
 O [caderno de receitas de coco dos leitores](mark-sisson-caderno-coco.md) reúne seis preparos com caldo ou fundo de frango encontrados nas 84 páginas do livreto do concurso de 2010.
 
 ## Livros em coautoria

@@ -635,3 +635,7 @@ O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-sites-indicados-p
 ## [2026-11-11] revisão | Acervos dos endereços externos do diretório da WAPF
 
 O [inventário](raw/inventario-wapf-receitas.md#sites-externos-indicados-no-diretório) enumera os 28 endereços, os estados de acesso e os totais de cada acervo. O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-sites-indicados-pelos-capítulos) acrescenta a ficha de Dina Falconi, o fundo usado em sopa de brócolis e outras receitas autorais.
+
+## [2026-11-11] revisão | Fermentação de hidrolisados de colágeno e a hipótese de Sisson
+
+A [nota de Larder e Cunha](wiki/fontes/larder-2021-cunha-2026-fermentacao.md) registra produtos, modelos e concentrações. A [matriz clínica](wiki/temas/alegacoes-saude.md) mantém em aberto o efeito da ingestão de caldo e a equivalência com fibras.

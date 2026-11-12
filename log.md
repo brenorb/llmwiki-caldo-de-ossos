@@ -623,3 +623,7 @@ O [registro](raw/busca-receitas-relatos.md#comentários-sobre-preparo-vinagre-e-
 ## [2026-11-11] ingestão | Caldo de frango, estrogonofe e frango com tomate seco da Primal Kitchen
 
 A [página de receitas](wiki/temas/receitas-caldo.md#caldo-de-frango-com-ervas-e-dois-pratos-da-primal-kitchen) registra a base, a caneca com ervas e dois pratos com caldo. A [ficha do chili](wiki/temas/receitas-caldo.md#chili-bovino-sem-feijão-com-gelatina-opcional) também distingue as medidas da versão em vídeo.
+
+## [2026-11-11] revisão | Nove áudios da WAPF e a alegação sobre caldo com kefir
+
+O [inventário](raw/inventario-wapf-receitas.md#nove-áudios-e-a-conversa-sobre-caldo-com-kefir) chega a 82 áudios em inglês e 40 em espanhol. A [nota da fonte](wiki/fontes/weston-price-caldo-gelatina.md) registra o que foi testado com kefir.

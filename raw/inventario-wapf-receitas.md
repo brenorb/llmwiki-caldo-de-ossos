@@ -410,6 +410,23 @@ A contagem por GUID chegou a **77 de 237** transcrições das páginas curtas em
 | [220 · Save your local farm](https://wisetraditions.libsyn.com/220-save-your-local-farm) | 24 min 04 s | A menção a gelatina é de um anúncio de cápsulas. |
 | [177 · El potencial de la industria restaurantera](https://sabiastradiciones.libsyn.com/177-el-potencial-de-la-industria-restaurantera-para-cambiar-el-sistema-alimentario-con-pablo-usobiaga-de-arca-tierra-y-baldo) | 58 min 45 s | Entre 00:07:45 e 00:08:40, o convidado descreve transformar aparas de peixe, incluindo cabeças e ossos, em molho. O trecho trata do reaproveitamento e não dá ficha de caldo. |
 
+#### Nove áudios e a conversa sobre caldo com kefir
+
+A contagem por GUID chegou a **82 de 237** transcrições locais das páginas curtas em inglês e **40 de 189** em espanhol. Restavam **155** e **149**, respectivamente.
+
+| Episódio | Duração conferida | Passagem pertinente |
+| --- | --- | --- |
+| [210: Wheat you can eat](https://wisetraditions.libsyn.com/210-wheat-you-can-eat) | 32 min 48 s | A ocorrência de gelatina é de um anúncio de cápsulas. |
+| [212: A place for wonder](https://wisetraditions.libsyn.com/212-a-place-for-wonder) | 33 min 26 s | A ocorrência de gelatina é de um anúncio de cápsulas. |
+| [215: Kefir: a unique probiotic drink](https://wisetraditions.libsyn.com/215-kefir-a-unique-probiotic-drink) | 27 min 55 s | Entre 00:10:58 e 00:11:20, a conversa propõe consumir caldo junto com kefir e atribui ao caldo um efeito na barreira intestinal, sem apresentar ensaio da combinação. |
+| [216: How to nourish deeply](https://wisetraditions.libsyn.com/216-how-to-nourish-deeply) | 38 min 36 s | A 00:04:46, a convidada recorda ter provado caldo em uma refeição. O trecho não identifica a composição. |
+| [217: Our children can heal](https://wisetraditions.libsyn.com/217-our-children-can-heal) | 31 min 33 s | A ocorrência de gelatina é de um anúncio de cápsulas. |
+| [172: Esfuerzos para revalorizar la agricultura campesina, con Lucio Usobiaga de Arca Tierra](https://sabiastradiciones.libsyn.com/172-rescate-de-saberes-campesinos-mercado-consciente-y-buena-alimentacin-con-lucio-usobiaga-de-arca-tierra) | 48 min 40 s | A triagem não encontrou menção substantiva a caldo, gelatina, colágeno ou glicina. |
+| [173: Endodoncias, ¿promesa de la odontología o una bomba de tiempo en tu boca?, con la Dra. Mercedes Ramos Vertiz](https://sabiastradiciones.libsyn.com/173-tratamiento-dental-comn-pero-posiblemente-txico-con-la-dra-mercedes-ramos-verti) | 57 min 34 s | A triagem não encontrou menção substantiva a caldo, gelatina, colágeno ou glicina. |
+| [175: Reflexiones sobre el sistema alimentario actual, con Pablo Usobiaga de Baldío y Arca Tierra](https://sabiastradiciones.libsyn.com/175-reflexiones-sobre-el-sistema-alimentario-actual-con-pablo-usobiaga) | 53 min 42 s | A triagem não encontrou menção substantiva a caldo, gelatina, colágeno ou glicina. |
+| [176: ¿Sabes qué sistema de producción de alimentos apoyas cuando comes en un restaurante?, con Pablo Usobiaga de Arca Tierra y Baldío](https://sabiastradiciones.libsyn.com/176-lo-que-la-industria-de-restaurantes-practica-usualmente-y-por-qu-es-tan-problemtico-con-pablo-usobiaga-de-arca-tierra-y-baldo) | 51 min 57 s | A triagem não encontrou menção substantiva a caldo, gelatina, colágeno ou glicina. |
+
+
 ## Publicações dos capítulos locais
 
 O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.376 URLs do sitemap principal. A consulta de 2026-11-11 verificou o relato de uma reunião do capítulo de North Atlanta, as duas fichas de bebidas em imagem e uma apresentação de três páginas. A apresentação diferencia fundo de carne e caldo de ossos por proporções indicativas e por tempo. Nas faixas culinárias, cita 1½–3 h para fundo de aves, 4–6 h para fundo de boi, bisão ou porco, 6–24 h para caldo de ossos de frango e 24–72 h para bovino. O documento não informa a base das proporções, o volume de água ou resultados de testes próprios. As alegações de recuperação da barreira intestinal e maior teor de eletrólitos aparecem no material didático, sem medições comparativas ou ensaio clínico nele. A consulta é pontual e ainda não cobre todos os sites dos capítulos. [Reunião de 31 de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/) · [Apresentação em PDF](https://chapters.westonaprice.org/northatlantaga/files/2024/04/Meat-Stock-vs.-Bone-Broth.pdf) · [Bebidas e medidas](../wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)

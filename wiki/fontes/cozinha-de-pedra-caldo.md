@@ -83,6 +83,12 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 
 - Em um post sobre introdução alimentar, a autora propõe benefícios para crescimento, barreira intestinal, alergias e estrias. Comentários descrevem usar caldo em sopa e gelatina e relatam aceitação percebida. A publicação e os comentários não trazem medidas de crescimento, avaliação de alergia ou seguimento clínico. [Publicação sobre alimentação infantil](https://www.instagram.com/cozinhadepedra/p/CU5L54UMNbn/) · [Comparação com a evidência](../temas/relatos-e-evidencia.md)
 
+## Comentários sobre dor, fisioterapia e coagem
+
+- Uma pessoa relata desaparecimento de dores após quatro meses de consumo diário, incluindo caldo puro, em café ou em doce. Outra relata estar havia dois meses sem dores no pescoço e na lombar e menciona acompanhamento com fisioterapeuta. Os comentários não permitem comparar doses, tratamentos ou a evolução da dor. [Relato de quatro meses](https://www.instagram.com/cozinhadepedra/reel/CJT_zFTlXxo/) · [Relato com fisioterapia](https://www.instagram.com/cozinhadepedra/reel/CI1wSgxpG6p/)
+- Uma pessoa elogia a alegação de melhora do sono, sem descrever duração, qualidade inicial ou mudança mensurada. Outra pergunta se há horário ideal para absorção. [Comentário sobre sono](https://www.instagram.com/cozinhadepedra/reel/B7Zq5vijHvG/) · [Pergunta sobre horário](https://www.instagram.com/cozinhadepedra/reel/CHtiB70pLxZ/)
+- Houve perguntas sobre bater pés de frango ou ossos cozidos no liquidificador para engrossar a sopa ou obter mais colágeno. A orientação culinária da wiki é coar o fundo e retirar ossos e fragmentos antes de bater as partes comestíveis. [Pergunta sobre pés](https://www.instagram.com/cozinhadepedra/reel/CGP23OcB8AD/) · [Pergunta sobre ossos](https://www.instagram.com/cozinhadepedra/reel/CGbKKlwJj9O/) · [Cocção e coagem](../temas/seguranca-conservacao.md)
+
 ## Comentários sobre dor e tempo de consumo
 
 - Uma pessoa relata menos dor no joelho e na coluna após cerca de dois meses de consumo. Outra relata não perceber benefício após o mesmo tempo e diz pretender continuar. Nenhum dos comentários informa a quantidade de caldo ou mede a dor com uma escala. [Relato de melhora](https://www.instagram.com/cozinhadepedra/reel/CRkZEPxpnjQ/) · [Relato sem benefício percebido](https://www.instagram.com/cozinhadepedra/reel/CJwjc5llBLR/)

@@ -11,7 +11,7 @@ Consulta em 2026-11-11. Escopo temático de caldos de ossos, fundos relacionados
 
 ## Cobertura dos comentários do Instagram
 
-As tabelas a seguir totalizam **93 publicações distintas das 395 inventariadas** e **1.857 comentários ou respostas exibidos**. As contagens usam identificadores ou entradas com controle *Responder*, conforme o modo de exibição. As tabelas registram listas com carregamento ou respostas ainda recolhidas. Há **302 publicações da grade** sem conferência de comentários registrada aqui.
+As tabelas a seguir totalizam **159 publicações distintas das 395 inventariadas** e **2.360 comentários ou respostas exibidos**. As contagens usam identificadores ou entradas com controle *Responder*, conforme o modo de exibição. As tabelas registram listas com carregamento ou respostas ainda recolhidas. Há **236 publicações da grade** sem conferência de comentários registrada aqui.
 
 ## Comentários sobre cabelo e colágeno
 
@@ -186,6 +186,81 @@ A leitura na página individual revisitou 23 reels já inventariados e conferiu 
 | [CJh1jGGFSu5](https://www.instagram.com/cozinhadepedra/reel/CJh1jGGFSu5/) | 13 | 3 | Indicador visível |
 
 As duas leituras trouxeram relatos de experiências diferentes após cerca de dois meses de consumo e perguntas sobre cortes, tempo de panela e uso da gordura. [Nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-dor-e-tempo-de-consumo)
+
+## Comentários dos reels restantes
+
+As **66 listas restantes** do inventário de reels exibiram **503 comentários e respostas distintos**. Com esta rodada, os **122 reels** têm uma primeira conferência de comentários registrada. A consulta contou identificadores da página individual e expandiu respostas em três reels. A coluna de carregamento descreve o indicador no momento da consulta. Grupos recolhidos e carregamento visível indicam cobertura parcial.
+
+| Publicação | Entradas exibidas | Grupos recolhidos ao fim | Carregamento adicional |
+| --- | ---: | ---: | --- |
+| [CJZssQTp3Op](https://www.instagram.com/cozinhadepedra/reel/CJZssQTp3Op/) | 14 | 1 | Indicador visível |
+| [CJT_zFTlXxo](https://www.instagram.com/cozinhadepedra/reel/CJT_zFTlXxo/) | 5 | 1 | Indicador ausente |
+| [CJHpwAGJc7Z](https://www.instagram.com/cozinhadepedra/reel/CJHpwAGJc7Z/) | 4 | 4 | Indicador ausente |
+| [CJFYjIol3sh](https://www.instagram.com/cozinhadepedra/reel/CJFYjIol3sh/) | 9 | 2 | Indicador ausente |
+| [CI1wSgxpG6p](https://www.instagram.com/cozinhadepedra/reel/CI1wSgxpG6p/) | 11 | 0 | Indicador visível |
+| [CItohv_JPKW](https://www.instagram.com/cozinhadepedra/reel/CItohv_JPKW/) | 6 | 5 | Indicador ausente |
+| [CIjmXYFJO1o](https://www.instagram.com/cozinhadepedra/reel/CIjmXYFJO1o/) | 6 | 0 | Indicador ausente |
+| [CIRh7SyJ8KA](https://www.instagram.com/cozinhadepedra/reel/CIRh7SyJ8KA/) | 8 | 5 | Indicador ausente |
+| [CH_jQqxJIn3](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/) | 9 | 2 | Indicador ausente |
+| [CHtiB70pLxZ](https://www.instagram.com/cozinhadepedra/reel/CHtiB70pLxZ/) | 13 | 10 | Indicador visível |
+| [CGf9ynjpZ5W](https://www.instagram.com/cozinhadepedra/reel/CGf9ynjpZ5W/) | 9 | 2 | Indicador ausente |
+| [CGfNf8kJuH3](https://www.instagram.com/cozinhadepedra/reel/CGfNf8kJuH3/) | 15 | 5 | Indicador visível |
+| [CGdoKgqpR_3](https://www.instagram.com/cozinhadepedra/reel/CGdoKgqpR_3/) | 14 | 0 | Indicador visível |
+| [CGbR4_Lp6la](https://www.instagram.com/cozinhadepedra/reel/CGbR4_Lp6la/) | 5 | 2 | Indicador ausente |
+| [CGbKKlwJj9O](https://www.instagram.com/cozinhadepedra/reel/CGbKKlwJj9O/) | 16 | 0 | Indicador visível |
+| [CGR5MOnhl_l](https://www.instagram.com/cozinhadepedra/reel/CGR5MOnhl_l/) | 15 | 8 | Indicador visível |
+| [CGQ8Y7uphj9](https://www.instagram.com/cozinhadepedra/reel/CGQ8Y7uphj9/) | 6 | 2 | Indicador ausente |
+| [CGQSNTQhmi_](https://www.instagram.com/cozinhadepedra/reel/CGQSNTQhmi_/) | 10 | 5 | Indicador visível |
+| [CGP23OcB8AD](https://www.instagram.com/cozinhadepedra/reel/CGP23OcB8AD/) | 13 | 0 | Indicador visível |
+| [CGNR8JLhRbN](https://www.instagram.com/cozinhadepedra/reel/CGNR8JLhRbN/) | 9 | 7 | Indicador visível |
+| [CGLccTQlcgt](https://www.instagram.com/cozinhadepedra/reel/CGLccTQlcgt/) | 13 | 4 | Indicador visível |
+| [CGG75HTF7nD](https://www.instagram.com/cozinhadepedra/reel/CGG75HTF7nD/) | 3 | 2 | Indicador ausente |
+| [CGBYkMuJ05v](https://www.instagram.com/cozinhadepedra/reel/CGBYkMuJ05v/) | 10 | 5 | Indicador visível |
+| [CF1B9GIlxat](https://www.instagram.com/cozinhadepedra/reel/CF1B9GIlxat/) | 13 | 1 | Indicador ausente |
+| [CFvXJM4pv7X](https://www.instagram.com/cozinhadepedra/reel/CFvXJM4pv7X/) | 8 | 2 | Indicador ausente |
+| [CFdVMJdJDh3](https://www.instagram.com/cozinhadepedra/reel/CFdVMJdJDh3/) | 12 | 8 | Indicador visível |
+| [CE5S_MtpCNd](https://www.instagram.com/cozinhadepedra/reel/CE5S_MtpCNd/) | 10 | 9 | Indicador visível |
+| [CEnQkHrpZ5y](https://www.instagram.com/cozinhadepedra/reel/CEnQkHrpZ5y/) | 4 | 4 | Indicador ausente |
+| [CEWYhRNjDvR](https://www.instagram.com/cozinhadepedra/reel/CEWYhRNjDvR/) | 10 | 7 | Indicador visível |
+| [CEDOWF8ltc_](https://www.instagram.com/cozinhadepedra/reel/CEDOWF8ltc_/) | 5 | 3 | Indicador ausente |
+| [CEC5xQvjMYs](https://www.instagram.com/cozinhadepedra/reel/CEC5xQvjMYs/) | 9 | 5 | Indicador visível |
+| [CEAv4Vcleag](https://www.instagram.com/cozinhadepedra/reel/CEAv4Vcleag/) | 7 | 5 | Indicador visível |
+| [CEAUBSaDEbC](https://www.instagram.com/cozinhadepedra/reel/CEAUBSaDEbC/) | 2 | 1 | Indicador ausente |
+| [CD1eaKHDyko](https://www.instagram.com/cozinhadepedra/reel/CD1eaKHDyko/) | 6 | 2 | Indicador ausente |
+| [CDxMxI0liDy](https://www.instagram.com/cozinhadepedra/reel/CDxMxI0liDy/) | 3 | 2 | Indicador ausente |
+| [CDfKkCrFkzv](https://www.instagram.com/cozinhadepedra/reel/CDfKkCrFkzv/) | 8 | 6 | Indicador visível |
+| [CDNIVkpF3hG](https://www.instagram.com/cozinhadepedra/reel/CDNIVkpF3hG/) | 12 | 10 | Indicador visível |
+| [CDGBQu3Dbf8](https://www.instagram.com/cozinhadepedra/reel/CDGBQu3Dbf8/) | 14 | 11 | Indicador visível |
+| [CC7HbTcFQ73](https://www.instagram.com/cozinhadepedra/reel/CC7HbTcFQ73/) | 5 | 4 | Indicador ausente |
+| [CCpFFLcFVpG](https://www.instagram.com/cozinhadepedra/reel/CCpFFLcFVpG/) | 5 | 3 | Indicador ausente |
+| [CBGxDXDjEqw](https://www.instagram.com/cozinhadepedra/reel/CBGxDXDjEqw/) | 15 | 6 | Indicador visível |
+| [CAbY-OPlY1K](https://www.instagram.com/cozinhadepedra/reel/CAbY-OPlY1K/) | 10 | 7 | Indicador visível |
+| [B_QaG_3DjC8](https://www.instagram.com/cozinhadepedra/reel/B_QaG_3DjC8/) | 6 | 4 | Indicador ausente |
+| [B-9VomRhwOf](https://www.instagram.com/cozinhadepedra/reel/B-9VomRhwOf/) | 1 | 0 | Indicador ausente |
+| [B-7m81Ej-YG](https://www.instagram.com/cozinhadepedra/reel/B-7m81Ej-YG/) | 5 | 1 | Indicador ausente |
+| [B-P2J9KjrSL](https://www.instagram.com/cozinhadepedra/reel/B-P2J9KjrSL/) | 1 | 0 | Indicador ausente |
+| [B8h2aBXDMhB](https://www.instagram.com/cozinhadepedra/reel/B8h2aBXDMhB/) | 15 | 1 | Indicador visível |
+| [B8fi8lkDUYj](https://www.instagram.com/cozinhadepedra/reel/B8fi8lkDUYj/) | 5 | 2 | Indicador ausente |
+| [B8beeYQj0Tb](https://www.instagram.com/cozinhadepedra/reel/B8beeYQj0Tb/) | 13 | 7 | Indicador visível |
+| [B7Zq5vijHvG](https://www.instagram.com/cozinhadepedra/reel/B7Zq5vijHvG/) | 6 | 5 | Indicador visível |
+| [B7XBjHqjf_K](https://www.instagram.com/cozinhadepedra/reel/B7XBjHqjf_K/) | 4 | 3 | Indicador ausente |
+| [B7UxzMWjhys](https://www.instagram.com/cozinhadepedra/reel/B7UxzMWjhys/) | 2 | 0 | Indicador ausente |
+| [B7SFIkujrng](https://www.instagram.com/cozinhadepedra/reel/B7SFIkujrng/) | 2 | 1 | Indicador ausente |
+| [B7NKAdqjtvm](https://www.instagram.com/cozinhadepedra/reel/B7NKAdqjtvm/) | 5 | 4 | Indicador ausente |
+| [B7Jwsf2jhjQ](https://www.instagram.com/cozinhadepedra/reel/B7Jwsf2jhjQ/) | 9 | 2 | Indicador ausente |
+| [B7EchQ-jMS8](https://www.instagram.com/cozinhadepedra/reel/B7EchQ-jMS8/) | 5 | 1 | Indicador ausente |
+| [B7CEAxXDUD7](https://www.instagram.com/cozinhadepedra/reel/B7CEAxXDUD7/) | 3 | 1 | Indicador ausente |
+| [B7ACPN-DY8r](https://www.instagram.com/cozinhadepedra/reel/B7ACPN-DY8r/) | 3 | 0 | Indicador ausente |
+| [B69h_XQD3Fr](https://www.instagram.com/cozinhadepedra/reel/B69h_XQD3Fr/) | 3 | 2 | Indicador ausente |
+| [B66z6oLj6wJ](https://www.instagram.com/cozinhadepedra/reel/B66z6oLj6wJ/) | 9 | 5 | Indicador ausente |
+| [B64L4wfjInT](https://www.instagram.com/cozinhadepedra/reel/B64L4wfjInT/) | 7 | 4 | Indicador ausente |
+| [B61OMRUDZge](https://www.instagram.com/cozinhadepedra/reel/B61OMRUDZge/) | 7 | 6 | Indicador visível |
+| [B6yknlxjM09](https://www.instagram.com/cozinhadepedra/reel/B6yknlxjM09/) | 4 | 4 | Indicador ausente |
+| [B4iN9SsDSFr](https://www.instagram.com/cozinhadepedra/reel/B4iN9SsDSFr/) | 1 | 0 | Indicador ausente |
+| [B4VgzBHDQ5v](https://www.instagram.com/cozinhadepedra/reel/B4VgzBHDQ5v/) | 3 | 2 | Indicador ausente |
+| [B3vKHD_jbZz](https://www.instagram.com/cozinhadepedra/reel/B3vKHD_jbZz/) | 3 | 3 | Indicador ausente |
+
+A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-dor-fisioterapia-e-coagem) registra os relatos e as perguntas de preparo pertinentes.
 
 ## Busca complementar de estudos humanos
 

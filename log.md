@@ -671,3 +671,7 @@ O [inventário](raw/inventario-wapf-receitas.md#doze-áudios-adicionais-e-uso-de
 ## [2026-11-11] ingestão | Fundo de carcaça descrito por Sisson
 
 A [ficha de caldo de frango](wiki/temas/receitas-caldo.md#frango-na-pressão-ou-no-fogão) liga o método de duas horas à gravação em que Sisson menciona o aproveitamento de carcaças e de outras sobras.
+
+## [2026-11-11] revisão | Primeira leitura dos comentários dos 122 reels
+
+O [inventário de acesso](raw/busca-receitas-relatos.md#comentários-dos-reels-restantes) registra 503 comentários e respostas em 66 reels adicionais, com indicação de grupos recolhidos e carregamento. A [matriz](wiki/temas/relatos-e-evidencia.md) incorpora relatos sobre dor e o contexto de fisioterapia.

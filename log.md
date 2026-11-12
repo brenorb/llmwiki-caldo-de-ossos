@@ -631,3 +631,7 @@ O [inventário](raw/inventario-wapf-receitas.md#nove-áudios-e-a-conversa-sobre-
 ## [2026-11-11] ingestão | Receitas de caldo nos sites indicados por capítulos
 
 O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-sites-indicados-pelos-capítulos) registra a autoria do fundo de pato, do frango com quiabo e dos demais preparos. A [sopa de abóbora](wiki/temas/receitas-caldo.md#sopa-de-abóbora-com-caldo-e-curry) ganhou uma opção sem maçã.
+
+## [2026-11-11] revisão | Acervos dos endereços externos do diretório da WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md#sites-externos-indicados-no-diretório) enumera os 28 endereços, os estados de acesso e os totais de cada acervo. O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-sites-indicados-pelos-capítulos) acrescenta a ficha de Dina Falconi, o fundo usado em sopa de brócolis e outras receitas autorais.

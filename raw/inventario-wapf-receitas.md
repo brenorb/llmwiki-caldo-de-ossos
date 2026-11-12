@@ -499,6 +499,45 @@ O lote adicional visitou **55 caminhos**, 39 indicados no diretório e 16 descob
 
 Em Bellingham, foram recuperados **46 de 46 anexos**. Quarenta e um PDFs tinham texto extraível. Os três PDFs escaneados e as duas imagens JPEG foram conferidos visualmente. Sete fichas usam caldo, uma como opção. O catálogo registra os pratos e as substituições culinárias. [Capítulo de Bellingham](https://chapters.westonaprice.org/bellinghamwa/) · [Receitas dos capítulos](../wiki/temas/receitas-wapf-catalogo.md#receitas-de-marin-county-e-bellingham)
 
+### Sites externos indicados no diretório
+
+As 29 ocorrências de links externos correspondiam a **28 endereços distintos**. A mesma URL de Wellington aparecia em duas linhas da Nova Zelândia. Dos 28 endereços, **22 retornaram HTTP 200**, um retornou 404, um retornou 500 e quatro ficaram sem resposta HTTP. Princeton e Bellingham redirecionaram a microsites já conferidos. O endereço antigo de Madison ficou sem resposta e a busca recuperou o microsite histórico alternativo.
+
+A triagem cobriu **2.530 URLs enumeradas** nos acervos, com **2.476 corpos textuais** e **264 sinalizações** por termos de caldo, fundo, gelatina, colágeno e variantes em inglês, francês e neerlandês. Os números são deduplicados dentro de cada acervo. Podem incluir republicações entre sites. Para o capítulo de Limburg e o portal neerlandês, a busca consultou páginas indexadas, sem uma enumeração completa. Em Eugene, a API e o sitemap coincidiram em 874 posts e 153 páginas. Uma página adicional foi encontrada por navegação. [Receitas e autoria dos preparos](../wiki/temas/receitas-wapf-catalogo.md#receitas-de-sites-indicados-pelos-capítulos)
+
+| Origem do endereço | Tipo de destino | Resposta do link | URLs no acervo | Com texto | Sinalizadas |
+| --- | --- | --- | ---: | ---: | ---: |
+| [CO · Loma-Mack](https://Www.RootsFromEden.com) | fornecedor | 200 | — | — | — |
+| [CO · Western Slope](https://dawndonalson.gapscoach.com/) | editorial de líder e serviços | 200 | 143 | 133 | 9 |
+| [CT · Hartford County](https://www.realfoodnourishment.com/wapf-hartfordct-chapter) | indisponível | 404 | — | — | — |
+| [CT · Southington - Central CT](https://www.RootWisdomHealth.com/resources) | serviços com blog | 200 | 8 | 8 | 0 |
+| [FL · St. Petersburg](https://www.realfoodrecovery.org/wapf/) | página de capítulo e editorial de terceiro | 200 | 145 | 137 | 23 |
+| [GA · Oconee County](https://www.yournextlevelwellness.com/weston-a-price) | página de capítulo e serviços | 200 | 12 | 12 | 1 |
+| [MI · Detroit Metro](http://htnetwork.org) | rede do capítulo | 200 | 22 | 21 | 0 |
+| [MN · Duluth/North Shore*](http://raw-milk-mn.com/) | guia de fornecedor/contato | 200 | — | — | — |
+| [NJ · Cape May County](https://subscribepage.io/wapfcapemay) | contato do capítulo | 200 | — | — | — |
+| [NJ · Princeton](http://www.wapfnj.org) | alias hospedado já conferido | 200 | — | — | — |
+| [NY · Ulster County/Hudson Valley](http://botanicalartspress.com) | editora e acervo autoral | 200 | 216 | 216 | 8 |
+| [OR · Eugene](http://www.eugenewestonaprice.org/) | editorial do capítulo | 200 | 1028 | 1025 | 117 |
+| [OR · Eugene](http://www.krautpounder.com) | fornecedor histórico | 200 | — | — | — |
+| [TN · Brentwood/Franklin](http://www.tennesseansforrawmilk.com) | ativismo e fornecedores | 200 | — | — | — |
+| [TX · Houston-NW](http://wapf-houston.org) | editorial do capítulo | 200 | 249 | 249 | 12 |
+| [TX · Houston-NW](https://www.realfoodhouston.com) | editorial pessoal de co-líder | 200 | 293 | 293 | 41 |
+| [TX · San Antonio](https://wapf-sanantonio.com/) | agenda e contato do capítulo | 200 | 1 | 0 | 0 |
+| [WA · Bellingham](http://bellinghamrealfood.com) | alias hospedado já conferido | 200 | — | — | — |
+| [WI · Green Bay](https://www.gbwapf.com) | editorial do capítulo | 200 | 8 | 8 | 1 |
+| [WI · Madison & Surrounding Areas](https://www.WAPFMADison.org) | indisponível, microsite alternativo | Sem resposta HTTP | 7 | 7 | 2 |
+| [Australia · QLD: Gold Coast](https://www.wisefood.com.au) | serviços de líder e artigos | 200 | 21 | 16 | 1 |
+| [Canada · AB - Grande Prairie](https://www.grandeprairiewapf.org/) | editorial do capítulo | 200 | 43 | 43 | 6 |
+| [Canada · AB - Olds](https://foodgenie.ca) | indisponível | 500 | — | — | — |
+| [France · Provence Cote d'Azur](http://Beatrice-levinson-gaps.com) | serviços de líder e artigos | 200 | 115 | 115 | 32 |
+| [Netherlands · Limburg](http://limburg.westonprice.nl/) | editorial do capítulo, URL legada sem resposta | Sem resposta HTTP | 0 | 0 | 0 |
+| [Netherlands · Limburg](http://westonprice.nl/waar-vind-ik-goed-eten/) | portal editorial independente, URL legada sem resposta | Sem resposta HTTP | 0 | 0 | 0 |
+| [NewZealand · NZ Resource List / NewZealand · Wellington](http://www.wapfwellington.org.nz) | editorial do capítulo | 200 | 219 | 193 | 11 |
+| [UnitedKingdom · Kent](http://chapters.westonsprice.org/maidstonekentuk/a) | indisponível | Sem resposta HTTP | — | — | — |
+
+Os dados descrevem o que foi possível recuperar das páginas públicas. Anexos fora dos inventários, mídia sem texto e material não indexado ainda podem conter menções.
+
 ## PDFs e edições digitais
 
 O endpoint de anexos do WordPress com o filtro `mime_type=application/pdf` respondeu em seis páginas. O cabeçalho indicou 519 registros, e o corpo das respostas expôs 504 IDs e URLs distintas. A diferença de 15 não pôde ser esclarecida pelas respostas. A lista registra metadados e localizadores, sem pressupor que os arquivos estejam disponíveis ou sejam pertinentes. [API de anexos PDF](https://www.westonaprice.org/wp-json/wp/v2/media?mime_type=application%2Fpdf)

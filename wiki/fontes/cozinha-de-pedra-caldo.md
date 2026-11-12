@@ -83,6 +83,12 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 
 - Em um post sobre introdução alimentar, a autora propõe benefícios para crescimento, barreira intestinal, alergias e estrias. Comentários descrevem usar caldo em sopa e gelatina e relatam aceitação percebida. A publicação e os comentários não trazem medidas de crescimento, avaliação de alergia ou seguimento clínico. [Publicação sobre alimentação infantil](https://www.instagram.com/cozinhadepedra/p/CU5L54UMNbn/) · [Comparação com a evidência](../temas/relatos-e-evidencia.md)
 
+## Comentários sobre dor e tempo de consumo
+
+- Uma pessoa relata menos dor no joelho e na coluna após cerca de dois meses de consumo. Outra relata não perceber benefício após o mesmo tempo e diz pretender continuar. Nenhum dos comentários informa a quantidade de caldo ou mede a dor com uma escala. [Relato de melhora](https://www.instagram.com/cozinhadepedra/reel/CRkZEPxpnjQ/) · [Relato sem benefício percebido](https://www.instagram.com/cozinhadepedra/reel/CJwjc5llBLR/)
+- Outro comentário cita doença celíaca e melhora inespecífica no joelho e nas juntas. A mensagem não detalha a dieta, os exames ou quais sintomas mudaram. [Live de saborização](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/) · [Comparação com a diretriz](../temas/relatos-e-evidencia.md)
+- Uma pessoa descreve separar a carne do ossobuco para outro prato e guardar os ossos para o caldo, sem fornecer proporções. Outra pergunta se 3 h na pressão equivaleriam a 6 h de cozimento. Um comentário em outro reel descreve usar a gordura para hidratar o cabelo, sem mencionar mudança de cor. [Preparo e pergunta sobre tempo](https://www.instagram.com/cozinhadepedra/reel/CT0oIa7p0vR/) · [Uso tópico](https://www.instagram.com/cozinhadepedra/reel/CKZd-NIFD1J/) · [Medições por preparo](../temas/componentes-por-caldo.md)
+
 ## Comentários sobre preparo, vinagre e fissuras nas mãos
 
 - Uma pessoa diz ter usado cerca de 1 kg de pés de frango e duas carcaças por seis horas e obtido pouco caldo. Outra pergunta se é possível acrescentar cabeças e cascas de camarão ao fundo de peixe. No post sobre separar o caldo, perguntam se a etapa se refere a dividir em porções ou retirar a gordura. São dúvidas e experiências sem rendimento medido ou formulação completa. [Live sobre tutano](https://www.instagram.com/cozinhadepedra/reel/CRSTr0opA0x/) · [Etapa de separação](https://www.instagram.com/cozinhadepedra/p/CRRsbzFMJKr/)

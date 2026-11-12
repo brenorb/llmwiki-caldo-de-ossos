@@ -11,7 +11,7 @@ Consulta em 2026-11-11. Escopo temático de caldos de ossos, fundos relacionados
 
 ## Cobertura dos comentários do Instagram
 
-As tabelas a seguir totalizam **80 publicações distintas das 395 inventariadas** e **1.696 comentários ou respostas exibidos**. As contagens usam identificadores ou entradas com controle *Responder*, conforme o modo de exibição. As tabelas registram listas com carregamento ou respostas ainda recolhidas. Há **315 publicações da grade** sem conferência de comentários registrada aqui.
+As tabelas a seguir totalizam **93 publicações distintas das 395 inventariadas** e **1.857 comentários ou respostas exibidos**. As contagens usam identificadores ou entradas com controle *Responder*, conforme o modo de exibição. As tabelas registram listas com carregamento ou respostas ainda recolhidas. Há **302 publicações da grade** sem conferência de comentários registrada aqui.
 
 ## Comentários sobre cabelo e colágeno
 
@@ -164,6 +164,28 @@ A sessão autenticada exibiu **311 entradas** em mais 21 publicações, incluind
 | [CLuEqPCslFn](https://www.instagram.com/cozinhadepedra/p/CLuEqPCslFn/) | 19 | 0 | Indicador visível |
 
 A consulta à publicação `CP8PuTAMf03` não exibiu entradas nem confirmou lista vazia. Ela fica fora da contagem. A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-preparo-vinagre-e-fissuras-nas-mãos) registra as perguntas e o depoimento encontrados.
+
+## Comentários sobre dor e tempo de consumo
+
+A leitura na página individual revisitou 23 reels já inventariados e conferiu **161 comentários e respostas em 13 reels adicionais**. A tabela conta identificadores distintos apenas nas publicações que entram no total pela primeira vez. Listas com grupos recolhidos ou indicador de carregamento visível têm cobertura parcial.
+
+| Publicação | Entradas exibidas | Grupos recolhidos ao fim | Carregamento adicional |
+| --- | ---: | ---: | --- |
+| [CLkM4JxFbIQ](https://www.instagram.com/cozinhadepedra/reel/CLkM4JxFbIQ/) | 15 | 2 | Indicador visível |
+| [CLX3O49JHkb](https://www.instagram.com/cozinhadepedra/reel/CLX3O49JHkb/) | 5 | 0 | Indicador ausente |
+| [CKuaAZGJGw3](https://www.instagram.com/cozinhadepedra/reel/CKuaAZGJGw3/) | 7 | 6 | Indicador visível |
+| [CKZd-NIFD1J](https://www.instagram.com/cozinhadepedra/reel/CKZd-NIFD1J/) | 18 | 0 | Indicador visível |
+| [CKPv9IAJU7z](https://www.instagram.com/cozinhadepedra/reel/CKPv9IAJU7z/) | 9 | 4 | Indicador ausente |
+| [CKKgTR8FXQG](https://www.instagram.com/cozinhadepedra/reel/CKKgTR8FXQG/) | 15 | 3 | Indicador visível |
+| [CKIft6KFdQU](https://www.instagram.com/cozinhadepedra/reel/CKIft6KFdQU/) | 2 | 1 | Indicador ausente |
+| [CJ3vEjtl9j6](https://www.instagram.com/cozinhadepedra/reel/CJ3vEjtl9j6/) | 15 | 4 | Indicador visível |
+| [CJ1arn7l0Xw](https://www.instagram.com/cozinhadepedra/reel/CJ1arn7l0Xw/) | 9 | 2 | Indicador ausente |
+| [CJwjc5llBLR](https://www.instagram.com/cozinhadepedra/reel/CJwjc5llBLR/) | 41 | 2 | Indicador visível |
+| [CJruzpZpvYF](https://www.instagram.com/cozinhadepedra/reel/CJruzpZpvYF/) | 4 | 0 | Indicador ausente |
+| [CJms9p5F4yM](https://www.instagram.com/cozinhadepedra/reel/CJms9p5F4yM/) | 8 | 6 | Indicador visível |
+| [CJh1jGGFSu5](https://www.instagram.com/cozinhadepedra/reel/CJh1jGGFSu5/) | 13 | 3 | Indicador visível |
+
+As duas leituras trouxeram relatos de experiências diferentes após cerca de dois meses de consumo e perguntas sobre cortes, tempo de panela e uso da gordura. [Nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-dor-e-tempo-de-consumo)
 
 ## Busca complementar de estudos humanos
 

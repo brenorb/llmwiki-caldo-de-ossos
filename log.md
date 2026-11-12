@@ -659,3 +659,7 @@ O [inventário](raw/mark-sisson-entrevistas.md#revolution-health-radio-com-chris
 ## [2026-11-11] revisão | Áudio integral no Meat Mafia e no Gabby Reece Show
 
 O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-meat-mafia-podcast) cobre seis faixas de dois catálogos, incluindo duas edições derivadas. O áudio confirma o tempo de cocção citado por Sisson para fundo de carcaça e o contexto das duas falas sobre uso pessoal de colágeno.
+
+## [2026-11-11] revisão | Comentários sobre dor e tempo de consumo
+
+A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-dor-e-tempo-de-consumo) registra 161 comentários e respostas em 13 reels adicionais e a revisão de outros 23. A [matriz de evidência](wiki/temas/relatos-e-evidencia.md) inclui experiências distintas após dois meses de uso e a comparação do comentário que cita doença celíaca com a diretriz de tratamento.

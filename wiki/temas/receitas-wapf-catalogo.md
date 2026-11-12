@@ -61,6 +61,8 @@ A coluna de adaptações é da wiki. A quantidade de carboidratos depende do ren
 | [Broccoli Brie Soup](https://www.westonaprice.org/broccoli-brie-soup/) | Fundo de frango com brócolis e brie | Cebola, creme e brie; sem farinha ou açúcar adicionado | Triture o brócolis para dar corpo e escolha creme e queijo pasteurizados. |
 | [Broth, Stew, and Sauce Recipes for Good Health](https://www.westonaprice.org/broth-stew-and-sauce-recipes-for-good-health/) | Fundo de galinha e pés; sopa ao curry; molho de tomate; sopa de jarrete; redução de amora | Abóboras, concentrado de tomate, ervilha partida ou amora, conforme a receita | Abobrinha pode substituir parte da abóbora; couve-flor ou repolho podem substituir as ervilhas em outro ensopado. |
 
+Na seção *Fish Stock* de [Broth Is Beautiful](https://www.westonaprice.org/health-topics/food-features/broth-is-beautiful/), a lista usa cerca de **2,84 L de água** e **60 mL de vinagre**. A tradução *El caldo es maravilloso* mantém o vinagre nas instruções e omite sua quantidade na lista. As duas edições indicam **4–24 h** na ficha de peixe e cerca de **2 h** no comentário geral do artigo. Os tempos pertencem a passagens diferentes. [Tradução em espanhol](https://www.westonaprice.org/el-caldo-es-maravilloso/)
+
 ## Receitas do capítulo de North Atlanta
 
 | Preparo | Uso do caldo | Ingredientes que contribuem com carboidratos | Variação |
@@ -69,7 +71,13 @@ A coluna de adaptações é da wiki. A quantidade de carboidratos depende do ren
 | [Caldo batido com abacate](https://chapters.westonaprice.org/northatlantaga/2024/01/avocado-broth-latte/) | Cerca de 240 mL de caldo morno com meio abacate e suco de limão. | Abacate e limão. | Use o fundo de frango da demonstração ou caldo bovino sem açúcar adicionado. |
 | [Caldo batido com manjericão e cítricos](https://chapters.westonaprice.org/northatlantaga/2024/01/basil-citrus-broth-latte/) | Caldo morno com leite de coco, manjericão e dois tipos de limão. | Leite de coco e sucos de limão. | Use leite de coco sem açúcar. [Medidas e preparo das duas bebidas](receitas-caldo.md#bebidas-salgadas-batidas-com-caldo) |
 
-Na seção *Fish Stock* de [Broth Is Beautiful](https://www.westonaprice.org/health-topics/food-features/broth-is-beautiful/), a lista usa cerca de **2,84 L de água** e **60 mL de vinagre**. A tradução *El caldo es maravilloso* mantém o vinagre nas instruções e omite sua quantidade na lista. As duas edições indicam **4–24 h** na ficha de peixe e cerca de **2 h** no comentário geral do artigo. Os tempos pertencem a passagens diferentes. [Tradução em espanhol](https://www.westonaprice.org/el-caldo-es-maravilloso/)
+## Receitas de Marin County e Bellingham
+
+| Preparo | Uso do caldo | Ingredientes que contribuem com carboidratos | Variação |
+| --- | --- | --- | --- |
+| [Caldo batido com abacate e coentro](https://chapters.westonaprice.org/marincountyca/events/february-20-2016-all-about-bone-broth/) | O caldo bovino ou de frango é batido até espumar. | Abacate e molho de pimenta conforme o rótulo. A receita dispensa açúcar adicionado. | Ajuste o sal depois de bater. [Medidas e preparo](receitas-caldo.md#bebidas-salgadas-batidas-com-caldo) |
+| [Caldo batido com hortaliças ou com coco](https://chapters.westonaprice.org/marincountyca/resources/bone-broth/) | A página sugere couve-flor, manjericão e alcachofra com caldo. Outra combinação leva gengibre, curry e creme de coco. | Hortaliças, creme de coco e eventuais temperos prontos. | Escolha creme de coco sem açúcar. |
+| [Chili de frango com feijão branco e folhas](https://chapters.westonaprice.org/bellinghamwa/files/2019/06/Soup_White-Bean-Chicken-Chili-w-3.pdf) | Cerca de 950 mL de caldo de frango em sopa com frango cozido, pimentão e tomate. | Feijão branco na sopa e pão de milho no acompanhamento. | Use cogumelos ou abobrinha no lugar do feijão. [Ficha na wiki](receitas-caldo.md#chili-de-frango-com-caldo-e-folhas) |
 
 ## Gelatina
 

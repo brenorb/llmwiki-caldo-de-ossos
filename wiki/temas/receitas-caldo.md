@@ -107,6 +107,16 @@ O capítulo de North Atlanta da Weston A. Price Foundation publicou duas fichas 
 - **Abacate e limão.** Bata **240 mL de fundo de carne ou caldo de ossos**, **½ abacate** sem casca e sem caroço e **½ colher de chá de suco de limão** até ficar cremoso. Ajuste sal e pimenta e finalize com especiarias a gosto. No encontro, a versão usou fundo de frango. [Ficha original](https://chapters.westonaprice.org/northatlantaga/2024/01/avocado-broth-latte/)
 - **Manjericão, coco e cítricos.** Bata **240–355 mL de fundo de carne ou caldo de ossos**, **60 mL de leite de coco**, **¼ de xícara de manjericão fresco picado**, **1 colher de chá de suco de limão-siciliano** e **1 colher de chá de suco de limão-taiti**. Tempere com sal e pimenta. No encontro, a versão usou caldo bovino. Para uma versão sem açúcar adicionado, use leite de coco sem açúcar e confira os ingredientes do caldo pronto. [Ficha original](https://chapters.westonaprice.org/northatlantaga/2024/01/basil-citrus-broth-latte/)
 
+- **Abacate e coentro.** Bata **cerca de 296 mL de caldo bovino ou de frango morno**, **½ abacate** e **½ xícara de coentro** até formar espuma. Ajuste o sal e acrescente molho de pimenta se quiser. A receita de Meredith Cochran usa o caldo aquecido e não acrescenta açúcar. [Demonstração do capítulo de Marin County](https://chapters.westonaprice.org/marincountyca/events/february-20-2016-all-about-bone-broth/)
+
+O capítulo de Marin também sugere bater caldo com couve-flor, manjericão e alcachofra e finalizar com azeite, limão ou bacon. Outra combinação usa gengibre, curry e creme de coco. A página não fornece medidas. Escolha creme de coco sem açúcar e confira os ingredientes de molhos ou misturas prontas. [Combinações culinárias de Marin County](https://chapters.westonaprice.org/marincountyca/resources/bone-broth/)
+
+## Chili de frango com caldo e folhas
+
+Use **cerca de 950 mL de caldo de frango**, **2 xícaras de frango cozido em cubos**, **1 pimentão verde**, **1 pimentão vermelho**, **1 cebola média**, alho, **1 lata de tomate triturado de cerca de 400 g** e duas porções generosas de folhas verdes. O original inclui **duas latas de feijão branco**, escorrido e lavado. Tempere com cominho, orégano e pimenta. [Receita do capítulo de Bellingham](https://chapters.westonaprice.org/bellinghamwa/files/2019/06/Soup_White-Bean-Chicken-Chili-w-3.pdf)
+
+Refogue alho, cebola e pimentões. Junte caldo, tomate, frango, feijão e temperos. Cozinhe em fogo brando para reunir os sabores e acrescente as folhas no fim. Para uma versão com menos amido, troque o feijão por cogumelos ou abobrinha em cubos e sirva sem o pão de milho indicado na ficha. A troca é uma adaptação da wiki. [Conservação](seguranca-conservacao.md)
+
 ## Caldo de carcaça e sopa de Leah McCullough
 
 As notas da entrevista *Fibro Hope* remetem ao livro de McCullough. O receituário detalha o aproveitamento da carcaça e do caldo. As medidas abaixo vêm do livro, com sal ajustado a gosto e conservação conforme a orientação sanitária da wiki. [Entrevista da WAPF](https://www.westonaprice.org/podcast/66-fibro-hope/) · [Receituário, p. 173–178 impressas](https://unconventionaltraditional.com/wp-content/uploads/2016/01/Freedom-from-Fibromyalgia-2nd-Edition.pdf#page=189)

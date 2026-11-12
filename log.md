@@ -583,3 +583,7 @@ A [nota de Sisson](wiki/fontes/mark-sisson-caldo-gelatina.md#entrevistas) regist
 ## [2026-11-11] ingestão | Três entrevistas integrais no catálogo de Dave Asprey
 
 O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-human-upgrade-com-dave-asprey) registra o catálogo de 1.624 itens, as três transcrições e a passagem sobre o uso pessoal de colágeno.
+
+## [2026-11-11] ingestão | Caldo com abacate e chili de capítulos locais da WAPF
+
+O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-marin-county-e-bellingham) localiza as bebidas e combinações de Marin County e o chili de Bellingham. As fichas registram as medidas recuperadas e a troca do feijão por hortaliças.

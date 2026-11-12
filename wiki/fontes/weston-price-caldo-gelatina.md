@@ -23,6 +23,8 @@ Uma convidada de *A Fat-Fueled Family* descreve fazer ensopado de paleta suína 
 
 Mary Bryant Shrader descreve cobrir carcaça e aparas de legumes com água e cozinhar em fogo brando por cerca de seis horas. Sugere acrescentar pés de frango ou usar mais carcaças. Na mesma entrevista, atribui menor gelificação de alguns produtos de prateleira ao tratamento térmico e à possível diluição. A entrevista não mede a composição dos caldos comparados. [Entrevista](https://www.westonaprice.org/podcast/why-cooking-traditional-foods-from-scratch-is-worth-it-with-mary-bryant-shrader/) · [Gelificação](../temas/colageno-gelatina.md)
 
+Na demonstração de Marin County, Meredith Cochran descreve assar os ossos e cozinhar com água suficiente para cobrir, aromáticos e um pouco de vinagre por 24–36 h em fogo brando. A ficha da bebida usa caldo batido com abacate e coentro. O relato do encontro também atribui efeitos digestivos, articulares e estéticos ao caldo, sem apresentar ensaio ou análise da bebida. [Demonstração de Marin County](https://chapters.westonaprice.org/marincountyca/events/february-20-2016-all-about-bone-broth/) · [Bebidas e medidas](../temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)
+
 ## Afirmações de saúde
 
 - **Cartas de leitores.** Em 2006, uma carta descreve melhora percebida de edema e sintomas de joelho após caldo concentrado de pés de galinha, em contexto de cirurgia anterior. Em 2003, outras cartas atribuem ao caldo melhora digestiva e consolidação de fratura. Os relatos não apresentam comparador e têm informações limitadas sobre intervenções simultâneas. [Cartas de 2006](https://www.westonaprice.org/letters-fall-2006/) · [Cartas de 2003](https://www.westonaprice.org/letters-summer-2003/)

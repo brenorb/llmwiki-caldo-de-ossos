@@ -571,3 +571,7 @@ A [ficha culinária](wiki/temas/receitas-caldo.md#cebola-dourada-na-gordura-do-c
 ## [2026-11-11] revisão | Sete áudios adicionais da WAPF e a alegação sobre caldo com limão
 
 O [inventário](raw/inventario-wapf-receitas.md#sete-áudios-adicionais-conferidos) chega a 74 transcrições locais em inglês e 35 em espanhol. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md) localiza o relato de Fallon Morell e os ensaios de pão com limão ou vinagre, que mediram desfechos diferentes de absorção proteica.
+
+## [2026-11-11] revisão | Caldo na introdução alimentar e prevenção de alergia
+
+A [matriz de relatos](wiki/temas/relatos-e-evidencia.md) registra as alegações do post e a aceitação percebida nos comentários. Foram conferidos os ensaios de introdução de amendoim e ovo, cujos desfechos são específicos de cada alimento.

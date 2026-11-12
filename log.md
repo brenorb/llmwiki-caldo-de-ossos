@@ -599,3 +599,7 @@ A [ficha](wiki/temas/receitas-caldo.md#chili-bovino-sem-feijão-com-gelatina-opc
 ## [2026-11-11] revisão | Diretório e acervos dos capítulos da WAPF
 
 O [inventário dos capítulos](raw/inventario-wapf-receitas.md#diretório-e-cobertura-dos-microsites) enumera os 55 caminhos visitados e as contagens por site. O [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md#receitas-de-marin-county-e-bellingham) inclui as sete fichas com caldo do acervo de Bellingham.
+
+## [2026-11-11] revisão | Mais quatro áudios da WAPF sobre ingredientes e aproveitamento
+
+O [inventário](raw/inventario-wapf-receitas.md#quatro-áudios-sobre-ingredientes-e-aproveitamento) registra as novas faixas, chegando a 77 transcrições locais em inglês e 36 em espanhol.

@@ -399,6 +399,17 @@ O inventário por GUID chegou a **74 de 237** transcrições locais das páginas
 | [178 · Vinagre, un tesoro culinario milenario](https://sabiastradiciones.libsyn.com/178-el-vinagre-alimento-milenario-multiusos-que-aporta-grandes-beneficios-a-tu-salud-con-flor-jurez-de-somosalvajes) | 49 min 36 s | Entre 00:16:58 e 00:17:40, a convidada sugere caldo com limão junto à refeição e propõe melhora da absorção proteica, sem apresentar teste dessa preparação. |
 | [179 · Cuánto saben los profesionales de la salud sobre el origen de nuestros alimentos](https://sabiastradiciones.libsyn.com/179-los-problemas-no-incluir-alimentos-en-formacin-mdica-con-el-dr-diego-martnez-conde) | 52 min 07 s | A triagem não encontrou menção temática substantiva. |
 
+#### Quatro áudios sobre ingredientes e aproveitamento
+
+A contagem por GUID chegou a **77 de 237** transcrições das páginas curtas em inglês e **36 de 189** em espanhol. Restavam **160** e **153**. Os três episódios em inglês e um em espanhol neste corte foram processados até o fim do arquivo.
+
+| Episódio | Duração conferida | Passagem pertinente |
+| --- | --- | --- |
+| [218 · Say cheese!](https://wisetraditions.libsyn.com/218-say-cheese) | 26 min 12 s | A triagem não encontrou menção substantiva a caldo, gelatina, colágeno ou glicina. |
+| [219 · We were meant to eat fat](https://www.westonaprice.org/podcast/219-we-were-meant-to-eat-fat/) | 32 min 26 s | Entre 00:27:13 e 00:27:31, o convidado sugere usar ossos com tutano e atribui riqueza de nutrientes ao caldo. O trecho não apresenta medida de composição. |
+| [220 · Save your local farm](https://wisetraditions.libsyn.com/220-save-your-local-farm) | 24 min 04 s | A menção a gelatina é de um anúncio de cápsulas. |
+| [177 · El potencial de la industria restaurantera](https://sabiastradiciones.libsyn.com/177-el-potencial-de-la-industria-restaurantera-para-cambiar-el-sistema-alimentario-con-pablo-usobiaga-de-arca-tierra-y-baldo) | 58 min 45 s | Entre 00:07:45 e 00:08:40, o convidado descreve transformar aparas de peixe, incluindo cabeças e ossos, em molho. O trecho trata do reaproveitamento e não dá ficha de caldo. |
+
 ## Publicações dos capítulos locais
 
 O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.376 URLs do sitemap principal. A consulta de 2026-11-11 verificou o relato de uma reunião do capítulo de North Atlanta, as duas fichas de bebidas em imagem e uma apresentação de três páginas. A apresentação diferencia fundo de carne e caldo de ossos por proporções indicativas e por tempo. Nas faixas culinárias, cita 1½–3 h para fundo de aves, 4–6 h para fundo de boi, bisão ou porco, 6–24 h para caldo de ossos de frango e 24–72 h para bovino. O documento não informa a base das proporções, o volume de água ou resultados de testes próprios. As alegações de recuperação da barreira intestinal e maior teor de eletrólitos aparecem no material didático, sem medições comparativas ou ensaio clínico nele. A consulta é pontual e ainda não cobre todos os sites dos capítulos. [Reunião de 31 de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/) · [Apresentação em PDF](https://chapters.westonaprice.org/northatlantaga/files/2024/04/Meat-Stock-vs.-Bone-Broth.pdf) · [Bebidas e medidas](../wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)

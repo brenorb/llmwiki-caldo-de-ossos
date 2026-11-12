@@ -11,7 +11,7 @@ Consulta em 2026-11-11. Escopo temático de caldos de ossos, fundos relacionados
 
 ## Cobertura dos comentários do Instagram
 
-As tabelas a seguir totalizam **38 publicações distintas das 395 inventariadas** e **1.039 comentários ou respostas exibidos**, contados por identificador dentro de cada publicação. A cobertura é da interface consultada. Há listas que permaneceram em carregamento e **357 publicações da grade** ainda sem conferência de comentários registrada aqui.
+As tabelas a seguir totalizam **59 publicações distintas das 395 inventariadas** e **1.385 comentários ou respostas exibidos**. A contagem dos primeiros lotes usou os identificadores dos comentários. O lote mais recente contou as entradas com controle *Responder* e registrou as listas com carregamento ou respostas ainda recolhidas. Há **336 publicações da grade** sem conferência de comentários registrada aqui.
 
 ## Comentários sobre cabelo e colágeno
 
@@ -104,6 +104,36 @@ A sessão autenticada exibiu **221 comentários e respostas com identificador di
 | [Caldo bovino na pressão](https://www.instagram.com/cozinhadepedra/p/CJRt0ksM9oD/) | 25 | Carregamento continuou visível |
 
 Os [trechos pertinentes](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-bebidas-cortes-e-formas-de-colágeno) incluem usos culinários, relatos de consistência, dúvidas sobre gelatina comercial e comentários sobre a gordura separada do caldo.
+
+## Comentários sobre conservação, gordura e expectativas de melhora
+
+A sessão autenticada exibiu **346 comentários ou respostas em 21 outras publicações**. A coluna de respostas recolhidas conta grupos com controle *Ver respostas* ao fim da consulta. Em duas listas também permanecia o controle para carregar mais comentários principais.
+
+| Publicação | Entradas exibidas | Grupos de respostas recolhidas | Mais comentários principais |
+| --- | ---: | ---: | --- |
+| [Aula gratuita](https://www.instagram.com/cozinhadepedra/p/CqqCTsNOpkk/) | 33 | 5 | Controle ausente |
+| [Bastidores do curso](https://www.instagram.com/cozinhadepedra/p/CW-_WEMLDt6/) | 33 | 2 | Controle visível |
+| [Cebola na gordura do caldo](https://www.instagram.com/cozinhadepedra/reel/CWtM_Ndlp8u/) | 20 | 0 | Controle ausente |
+| [Live de perguntas](https://www.instagram.com/cozinhadepedra/reel/CVJaSKVp-6U/) | 10 | 0 | Controle ausente |
+| [Pergunta aos seguidores](https://www.instagram.com/cozinhadepedra/p/CVB9e2aM9xI/) | 30 | 0 | Controle ausente |
+| [Usos do caldo na alimentação infantil](https://www.instagram.com/cozinhadepedra/p/CU5L54UMNbn/) | 26 | 13 | Controle ausente |
+| [Compra de ossos](https://www.instagram.com/cozinhadepedra/reel/CU0qMuylgzQ/) | 26 | 5 | Controle ausente |
+| [Entrevista sobre alimentação](https://www.instagram.com/cozinhadepedra/reel/CUquPfkJqZm/) | 13 | 3 | Controle ausente |
+| [Live sobre calorias](https://www.instagram.com/cozinhadepedra/reel/CTvby8sJRIQ/) | 2 | 2 | Controle ausente |
+| [Live CTdWxwPpb6R](https://www.instagram.com/cozinhadepedra/reel/CTdWxwPpb6R/) | 2 | 2 | Controle ausente |
+| [Live sobre preparo](https://www.instagram.com/cozinhadepedra/reel/CTLSgHipRt3/) | 9 | 4 | Controle ausente |
+| [Live CSnOevopj_r](https://www.instagram.com/cozinhadepedra/reel/CSnOevopj_r/) | 2 | 0 | Controle ausente |
+| [Live CSVPh-fJNZH](https://www.instagram.com/cozinhadepedra/reel/CSVPh-fJNZH/) | 14 | 4 | Controle ausente |
+| [Live sobre usos do caldo](https://www.instagram.com/cozinhadepedra/reel/CSIZSf4JtF9/) | 10 | 1 | Controle ausente |
+| [Live CSDKU-opun_](https://www.instagram.com/cozinhadepedra/reel/CSDKU-opun_/) | 6 | 2 | Controle ausente |
+| [Publicação CR9VCY-scSO](https://www.instagram.com/cozinhadepedra/p/CR9VCY-scSO/) | 26 | 1 | Controle ausente |
+| [Publicação sobre ossos e tutano](https://www.instagram.com/cozinhadepedra/p/CR4NZI5syET/) | 49 | 15 | Controle visível |
+| [Live de perguntas sobre caldo](https://www.instagram.com/cozinhadepedra/reel/CR2as2IpHH9/) | 18 | 3 | Controle ausente |
+| [Publicação com dúvidas sobre receita](https://www.instagram.com/cozinhadepedra/p/CR2GxTYMBIf/) | 7 | 2 | Controle ausente |
+| [Reel CRxKYlapEI3](https://www.instagram.com/cozinhadepedra/reel/CRxKYlapEI3/) | 1 | 0 | Controle ausente |
+| [Live com dúvidas sobre tempo de cocção](https://www.instagram.com/cozinhadepedra/reel/CRkZEPxpnjQ/) | 9 | 3 | Controle ausente |
+
+A consulta à [live sobre fundo de peixe](https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/) ficou fora da contagem. A interface não mostrou entradas nem confirmou que a lista estava vazia. A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-conservação-gordura-e-expectativas-de-melhora) descreve as passagens pertinentes.
 
 ## Busca complementar de estudos humanos
 

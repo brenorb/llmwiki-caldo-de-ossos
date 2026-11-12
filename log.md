@@ -559,3 +559,7 @@ O [inventário das entrevistas](raw/mark-sisson-entrevistas.md#the-school-of-gre
 ## [2026-11-11] ingestão | Sopas e gelatina nas prévias de dois livros de Sisson
 
 As [fichas de Sisson](wiki/temas/receitas-mark-sisson.md) registram cinco sopas e ensopados de *Two Meals a Day Cookbook*, além do camarão com caldo e do iogurte de coco com gelatina do livro de panela elétrica. O [inventário](raw/inventario-mark-receitas.md#prévias-públicas-dos-livros) localiza as páginas e a lacuna do fundo de frango ou boi na p. 32.
+
+## [2026-11-11] revisão | Comentários de 21 outras publicações do Cozinha de Pedra
+
+O [registro da sessão](raw/busca-receitas-relatos.md#comentários-sobre-conservação-gordura-e-expectativas-de-melhora) acrescenta 346 entradas e discrimina as listas que exibiam respostas recolhidas. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-conservação-gordura-e-expectativas-de-melhora) registra as dúvidas culinárias e distingue pedidos de melhora de desfechos relatados.

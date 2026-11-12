@@ -603,3 +603,7 @@ O [inventário dos capítulos](raw/inventario-wapf-receitas.md#diretório-e-cobe
 ## [2026-11-11] revisão | Mais quatro áudios da WAPF sobre ingredientes e aproveitamento
 
 O [inventário](raw/inventario-wapf-receitas.md#quatro-áudios-sobre-ingredientes-e-aproveitamento) registra as novas faixas, chegando a 77 transcrições locais em inglês e 36 em espanhol.
+
+## [2026-11-11] revisão | Mais nove vídeos com Mark Sisson
+
+O [inventário de vídeo](raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-no-youtube) localiza a demonstração de pré-treino, as falas sobre suplemento e os seis vídeos adicionais sem termos detectados.

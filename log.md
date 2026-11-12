@@ -719,3 +719,7 @@ O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#boundless-life-com
 ## [2026-11-11] revisão | Mais seis gravações da Weston A. Price Foundation
 
 O [inventário](raw/inventario-wapf-receitas.md#seis-faixas-adicionais-das-duas-séries) registra durações, menções publicitárias e o reconhecimento irregular em uma conversa com convidados brasileiros.
+
+## [2026-11-11] revisão | Relato digestivo e hipótese de Sisson sobre butirato
+
+A [entrevista com Ben Pakulski](raw/mark-sisson-entrevistas.md#muscle-intelligence-com-ben-pakulski) foi transcrita por completo e os trechos com reconhecimento falho foram reprocessados. O inventário liga a hipótese sobre butirato aos estudos em simuladores intestinais.

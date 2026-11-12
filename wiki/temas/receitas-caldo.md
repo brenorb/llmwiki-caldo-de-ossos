@@ -78,6 +78,12 @@ Para uma versão com menos amido, omita o arroz e troque a batata por chuchu ou 
 
 A [receita publicada pelos autores do Senhor Tanquinho](https://www.senhortanquinho.com/sopas-caldos-low-carb/) rende oito porções. Doure **500 g de linguiça italiana** e **500 g de patinho ou músculo** numa panela grande. Junte **4 xícaras de caldo**, **500 g de abobrinha**, **5 tomates**, **1 pimentão verde**, **1 xícara de salsão** e **meia cebola**, picados. Cozinhe tampado em fervura branda até os legumes ficarem macios e a carne estar cozida. Finalize com ervas, sal e pimenta. A publicação sugere cerca de uma hora. Para reduzir o açúcar adicionado, confira o rótulo da linguiça. O teor por porção depende do caldo, da linguiça e dos legumes. [Anúncio da receita no Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/p/CAVe_btDb3Z/)
 
+## Cebola dourada na gordura do caldo
+
+Para **duas porções**, fatie **1 cebola média** e aqueça **1 colher de sopa de gordura separada de um caldo bovino**. Junte a cebola e uma pitada de sal. Cozinhe em fogo baixo e mexa até dourar. Se começar a grudar, acrescente um pouco de água e tampe brevemente para amolecer. Sirva com carne, ovos ou legumes. [Reel do Cozinha de Pedra, 00:00–00:35](https://www.instagram.com/cozinhadepedra/reel/CWtM_Ndlp8u/)
+
+O vídeo sugere eritritol como opcional. A cebola já fica doce com o cozimento e contribui com carboidratos mesmo sem adoçante. As medidas são uma adaptação da wiki. Se usar gordura de caldo guardado, siga o prazo de refrigeração do preparo. [Conservação](seguranca-conservacao.md)
+
 ## Pão de frigideira com gordura do caldo
 
 Na demonstração, Mandagará pesa **15 g da gordura separada do caldo**. Ao recapitular, cita **12 g** para a mesma colher de sobremesa. Os outros ingredientes são **1 ovo**, **cerca de 25 g de muçarela ralada**, **60 g de farinha de amêndoas**, **1 colher de chá de fermento químico** e uma pitada de sal. Alho desidratado ou orégano são opcionais. [Live do Cozinha de Pedra, 05:14–12:28, 14:06–14:23 e 27:45–28:08](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/)

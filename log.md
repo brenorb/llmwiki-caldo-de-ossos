@@ -563,3 +563,7 @@ As [fichas de Sisson](wiki/temas/receitas-mark-sisson.md) registram cinco sopas 
 ## [2026-11-11] revisão | Comentários de 21 outras publicações do Cozinha de Pedra
 
 O [registro da sessão](raw/busca-receitas-relatos.md#comentários-sobre-conservação-gordura-e-expectativas-de-melhora) acrescenta 346 entradas e discrimina as listas que exibiam respostas recolhidas. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-conservação-gordura-e-expectativas-de-melhora) registra as dúvidas culinárias e distingue pedidos de melhora de desfechos relatados.
+
+## [2026-11-11] ingestão | Cebola dourada na gordura do caldo
+
+A [ficha culinária](wiki/temas/receitas-caldo.md#cebola-dourada-na-gordura-do-caldo) incorpora a técnica do reel e sugere medidas para duas porções. O eritritol aparece como opção da autora.

@@ -675,3 +675,7 @@ A [ficha de caldo de frango](wiki/temas/receitas-caldo.md#frango-na-pressão-ou-
 ## [2026-11-11] revisão | Primeira leitura dos comentários dos 122 reels
 
 O [inventário de acesso](raw/busca-receitas-relatos.md#comentários-dos-reels-restantes) registra 503 comentários e respostas em 66 reels adicionais, com indicação de grupos recolhidos e carregamento. A [matriz](wiki/temas/relatos-e-evidencia.md) incorpora relatos sobre dor e o contexto de fisioterapia.
+
+## [2026-11-11] revisão | Caldo de frango com limão e chucrute na WAPF
+
+O [inventário de áudio](raw/inventario-wapf-receitas.md#caldo-de-frango-com-limão-e-chucrute) registra o novo corte de cobertura. A [ficha de caldo](wiki/temas/receitas-caldo.md#caldo-de-frango-com-limão-e-chucrute) documenta a ideia de Flor Juárez e propõe medidas para uma porção.

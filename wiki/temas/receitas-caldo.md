@@ -94,6 +94,10 @@ Na demonstração, Mandagará pesa **15 g da gordura separada do caldo**. Ao rec
 2. Ponha a massa numa frigideira pequena, tampe e leve ao fogo baixo. A autora estima **10–15 minutos** e vira o pão para dourar o outro lado. Cozinhe até firmar também no centro.
 3. Para bases finas de minipizza, a autora acrescenta mais água e relata obter cerca de quatro discos. Ela também cita parmesão e provolone como substitutos da muçarela. O pão pode acompanhar a [pasta fria de caldo, bacon e parmesão](receitas-gelatina.md#pasta-fria-de-caldo-bacon-e-parmesão). [Live do Cozinha de Pedra, 06:58–07:14, 15:28–18:44 e 29:14–29:28](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/)
 
+## Caldo de frango com limão e chucrute
+
+Para uma porção, aqueça **240 mL de caldo de ossos de frango** e sirva numa tigela. Misture **1 colher de chá de suco de limão** e **1–2 colheres de sopa de chucrute**. Prove antes de salgar, porque o fermentado pode ser salgado. Use chucrute sem açúcar adicionado para uma porção com menos carboidratos. Flor Juárez descreve a combinação em áudio. As quantidades e a adição na tigela são sugestões da wiki. [Sabias Tradiciones 163, 00:19:07–00:19:22](https://sabiastradiciones.libsyn.com/ep-163-chucrut-la-puerta-de-entrada-a-los-fermentos-con-flor)
+
 ## Sopa de três cogumelos com caldo de frango
 
 Refogue **1 cebola grande** e **3 chalotas** em **3 colheres de sopa de manteiga** e **1 colher de sopa de azeite** até amaciar. Junte **450 g de cremini**, **225 g de shiitake** e **115 g de champignon**, fatiados, e refogue por cerca de **3 minutos**. Acrescente **2–3 dentes de alho**, tomilho, endro e páprica defumada. [Receita do capítulo de North Atlanta](https://chapters.westonaprice.org/northatlantaga/2025/08/mushroom-soup/)

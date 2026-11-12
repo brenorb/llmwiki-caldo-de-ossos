@@ -446,6 +446,19 @@ A contagem por GUID passou a **91 de 237** áudios das páginas curtas em inglê
 | [169 · No todos los panes son iguales](https://sabiastradiciones.libsyn.com/169-introduccin-a-la-produccin-de-pan-con-flor-jurez-de-somosalvajes) | 46 min 17 s | Entre 00:20:31 e 00:20:59, Flor Juárez sugere substituir parte da água por caldo de ossos em pão salgado e cita orégano e queijo. A passagem não fornece proporção ou receita completa. [Adaptação de pão de amêndoas](../wiki/temas/receitas-wapf-catalogo.md#pão-salgado-com-parte-da-água-substituída-por-caldo) |
 | [Anuncio Importante](https://sabiastradiciones.libsyn.com/anuncio-importante) | 37 s | Aviso sem passagem temática. |
 
+#### Caldo de frango com limão e chucrute
+
+A contagem por GUID chegou a **96 de 237** áudios das páginas curtas em inglês e **50 de 189** em espanhol. Restavam **141** e **139**. Esta rodada examinou sete faixas em inglês, incluindo duas já computadas no corte anterior, e três em espanhol.
+
+| Episódio | Duração da faixa | Passagem pertinente |
+| --- | --- | --- |
+| [199](https://wisetraditions.libsyn.com/199-harmonious-living), [198](https://wisetraditions.libsyn.com/198-the-buzz-on-bees-honey), [196](https://wisetraditions.libsyn.com/196-hold-hands-with-the-earth) e [194](https://wisetraditions.libsyn.com/194-thyroid-help) | 32 min 21 s, 32 min 24 s, 36 min 39 s e 36 min 26 s | As ocorrências de tutano e gelatina são de publicidade de suplementos. |
+| [195 · Feet first](https://wisetraditions.libsyn.com/195-feet-first) | 31 min 51 s | O caldo é citado entre os alimentos servidos num anúncio de conferência, a 00:15:56. |
+| [193 · RFK Jr. speaks out](https://wisetraditions.libsyn.com/193-rfk-jr-speaks-out) | 20 min 54 s | Entre 00:13:29 e 00:13:50, uma vinheta remete a receitas de caldo no site da WAPF. |
+| [192 · Cancer: what next?](https://wisetraditions.libsyn.com/192-cancer-what-next) | 38 min 32 s | As menções a gelatina, colágeno e tutano ocorrem em anúncios de suplementos. |
+| [165](https://sabiastradiciones.libsyn.com/165-bisontes-parte-2-con-gerardo-ruiz-smith) e [164](https://sabiastradiciones.libsyn.com/164-con-gerardo-ruiz-smith) | 38 min 28 s e 55 min 48 s | A triagem não encontrou passagens substantivas sobre caldo, gelatina, colágeno ou glicina. |
+| [163 · Chucrut, la puerta de entrada a los fermentos](https://sabiastradiciones.libsyn.com/ep-163-chucrut-la-puerta-de-entrada-a-los-fermentos-con-flor) | 48 min 45 s | A 00:19:07, Flor Juárez sugere acrescentar chucrute a caldo de ossos de frango com limão. É uma ideia de preparo, sem proporções ou análise nutricional. [Medidas de teste da wiki](../wiki/temas/receitas-caldo.md#caldo-de-frango-com-limão-e-chucrute) |
+
 ## Publicações dos capítulos locais
 
 O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.376 URLs do sitemap principal. A consulta de 2026-11-11 verificou o relato de uma reunião do capítulo de North Atlanta, as duas fichas de bebidas em imagem e uma apresentação de três páginas. A apresentação diferencia fundo de carne e caldo de ossos por proporções indicativas e por tempo. Nas faixas culinárias, cita 1½–3 h para fundo de aves, 4–6 h para fundo de boi, bisão ou porco, 6–24 h para caldo de ossos de frango e 24–72 h para bovino. O documento não informa a base das proporções, o volume de água ou resultados de testes próprios. As alegações de recuperação da barreira intestinal e maior teor de eletrólitos aparecem no material didático, sem medições comparativas ou ensaio clínico nele. A consulta é pontual e ainda não cobre todos os sites dos capítulos. [Reunião de 31 de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/) · [Apresentação em PDF](https://chapters.westonaprice.org/northatlantaga/files/2024/04/Meat-Stock-vs.-Bone-Broth.pdf) · [Bebidas e medidas](../wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)

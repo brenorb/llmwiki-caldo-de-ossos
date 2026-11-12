@@ -667,3 +667,7 @@ A [trilha de acesso](raw/busca-receitas-relatos.md#comentários-sobre-dor-e-temp
 ## [2026-11-11] revisão | Doze áudios da WAPF e caldo em pão salgado
 
 O [inventário](raw/inventario-wapf-receitas.md#doze-áudios-adicionais-e-uso-de-caldo-em-pão-salgado) registra as novas faixas e os recortes de confirmação. O [catálogo culinário](wiki/temas/receitas-wapf-catalogo.md#pão-salgado-com-parte-da-água-substituída-por-caldo) registra a ideia de Flor Juárez e uma adaptação de pão de amêndoas. A [matriz](wiki/temas/relatos-e-evidencia.md) contextualiza os relatos sobre alergias e candidíase.
+
+## [2026-11-11] ingestão | Fundo de carcaça descrito por Sisson
+
+A [ficha de caldo de frango](wiki/temas/receitas-caldo.md#frango-na-pressão-ou-no-fogão) liga o método de duas horas à gravação em que Sisson menciona o aproveitamento de carcaças e de outras sobras.

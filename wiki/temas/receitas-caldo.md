@@ -13,6 +13,8 @@ A [página de preparo](preparo.md) já reunia técnicas e referências para cald
 
 A versão demonstrada no Cozinha de Pedra usa cerca de **1 kg de partes de frango para 1 L de água**, combinando sobras assadas com pescoço ou pés quando disponíveis. É a proporção usada na panela da autora. Ajuste ao volume necessário para cobrir e à marca máxima do seu equipamento. [Live, 01:41–06:02](https://www.instagram.com/cozinhadepedra/reel/CGbKKlwJj9O/)
 
+Em entrevista, Sisson descreve o costume de ferver a carcaça de frango por cerca de **2 h** e usar o caldo em sopa ou servi-lo puro. Também menciona reaproveitar partes de bovino, porco e cordeiro para fazer fundos. As quantidades da ficha acima vêm da adaptação da receita do blog. [The Meat Mafia #176, 1h01min33s–1h02min05s](https://themeatmafia.com/176) · [Inventário de entrevistas](../../raw/mark-sisson-entrevistas.md#the-meat-mafia-podcast)
+
 ## Pés de frango para uma base que firma ao gelar
 
 **Use cerca de 900 g de pés limpos, próprios para consumo, e água suficiente para cobrir.** Para um caldo neutro, reserve louro, pimenta e sal para o prato final. Em uma versão salgada, adicione esses temperos à panela.

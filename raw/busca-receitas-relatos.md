@@ -11,7 +11,7 @@ Consulta em 2026-11-11. Escopo temático de caldos de ossos, fundos relacionados
 
 ## Cobertura dos comentários do Instagram
 
-As tabelas a seguir totalizam **59 publicações distintas das 395 inventariadas** e **1.385 comentários ou respostas exibidos**. A contagem dos primeiros lotes usou os identificadores dos comentários. O lote mais recente contou as entradas com controle *Responder* e registrou as listas com carregamento ou respostas ainda recolhidas. Há **336 publicações da grade** sem conferência de comentários registrada aqui.
+As tabelas a seguir totalizam **80 publicações distintas das 395 inventariadas** e **1.696 comentários ou respostas exibidos**. As contagens usam identificadores ou entradas com controle *Responder*, conforme o modo de exibição. As tabelas registram listas com carregamento ou respostas ainda recolhidas. Há **315 publicações da grade** sem conferência de comentários registrada aqui.
 
 ## Comentários sobre cabelo e colágeno
 
@@ -134,6 +134,36 @@ A sessão autenticada exibiu **346 comentários ou respostas em 21 outras public
 | [Live com dúvidas sobre tempo de cocção](https://www.instagram.com/cozinhadepedra/reel/CRkZEPxpnjQ/) | 9 | 3 | Controle ausente |
 
 A consulta à [live sobre fundo de peixe](https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/) ficou fora da contagem. A interface não mostrou entradas nem confirmou que a lista estava vazia. A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-conservação-gordura-e-expectativas-de-melhora) descreve as passagens pertinentes.
+
+## Comentários sobre preparo, vinagre e fissuras nas mãos
+
+A sessão autenticada exibiu **311 entradas** em mais 21 publicações, incluindo a live de peixe que a interface confirmou estar sem comentários. Sete listas foram contadas pelo controle *Responder* no painel da grade. As demais foram consultadas na página individual, contando identificadores distintos quando havia entradas.
+
+| Publicação | Entradas exibidas | Grupos recolhidos ao fim | Carregamento adicional |
+| --- | ---: | ---: | --- |
+| [DQJmXxrjXg_](https://www.instagram.com/cozinhadepedra/reel/DQJmXxrjXg_/) | 5 | 3 | Indicador ausente |
+| [CU776fmM9Jj](https://www.instagram.com/cozinhadepedra/p/CU776fmM9Jj/) | 11 | 0 | Indicador ausente |
+| [CUpbuyjgx4b](https://www.instagram.com/cozinhadepedra/p/CUpbuyjgx4b/) | 19 | 10 | Indicador visível |
+| [CUlYbyDJ5Aj](https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/) | 0 | 0 | Lista vazia confirmada |
+| [CRSYx-MJmLy](https://www.instagram.com/cozinhadepedra/reel/CRSYx-MJmLy/) | 15 | 2 | Indicador visível |
+| [CRSTr0opA0x](https://www.instagram.com/cozinhadepedra/reel/CRSTr0opA0x/) | 20 | 0 | Indicador ausente |
+| [CRRsbzFMJKr](https://www.instagram.com/cozinhadepedra/p/CRRsbzFMJKr/) | 31 | 9 | Indicador visível |
+| [CRM6gmfJsQM](https://www.instagram.com/cozinhadepedra/reel/CRM6gmfJsQM/) | 10 | 1 | Indicador ausente |
+| [CQ_bAI0MGYN](https://www.instagram.com/cozinhadepedra/p/CQ_bAI0MGYN/) | 24 | 0 | Indicador visível |
+| [CQZT3Aisxpg](https://www.instagram.com/cozinhadepedra/p/CQZT3Aisxpg/) | 15 | 0 | Indicador visível |
+| [CQW68bqpaz-](https://www.instagram.com/cozinhadepedra/reel/CQW68bqpaz-/) | 10 | 0 | Indicador visível |
+| [CQWziXFJw2x](https://www.instagram.com/cozinhadepedra/reel/CQWziXFJw2x/) | 3 | 0 | Indicador ausente |
+| [CQTJ7o2MlQK](https://www.instagram.com/cozinhadepedra/p/CQTJ7o2MlQK/) | 7 | 0 | Indicador visível |
+| [CQPAPayMgKZ](https://www.instagram.com/cozinhadepedra/p/CQPAPayMgKZ/) | 21 | 0 | Indicador visível |
+| [CQKSlJ0J5-j](https://www.instagram.com/cozinhadepedra/reel/CQKSlJ0J5-j/) | 15 | 0 | Indicador visível |
+| [CQEtcBCp7JV](https://www.instagram.com/cozinhadepedra/reel/CQEtcBCp7JV/) | 20 | 0 | Indicador visível |
+| [CP63LKpsc9n](https://www.instagram.com/cozinhadepedra/p/CP63LKpsc9n/) | 16 | 0 | Indicador visível |
+| [CP626fJplxC](https://www.instagram.com/cozinhadepedra/reel/CP626fJplxC/) | 18 | 0 | Indicador visível |
+| [CP1OWgysC84](https://www.instagram.com/cozinhadepedra/p/CP1OWgysC84/) | 17 | 0 | Indicador visível |
+| [CMuRgcRseg8](https://www.instagram.com/cozinhadepedra/p/CMuRgcRseg8/) | 15 | 0 | Indicador visível |
+| [CLuEqPCslFn](https://www.instagram.com/cozinhadepedra/p/CLuEqPCslFn/) | 19 | 0 | Indicador visível |
+
+A consulta à publicação `CP8PuTAMf03` não exibiu entradas nem confirmou lista vazia. Ela fica fora da contagem. A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-preparo-vinagre-e-fissuras-nas-mãos) registra as perguntas e o depoimento encontrados.
 
 ## Busca complementar de estudos humanos
 

@@ -615,3 +615,7 @@ O [inventário](raw/mark-sisson-entrevistas.md#the-human-upgrade-com-dave-asprey
 ## [2026-11-11] revisão | Duas entrevistas integrais de Sisson com Joe Rogan
 
 O [inventário](raw/mark-sisson-entrevistas.md#the-joe-rogan-experience) registra as duas faixas identificadas no catálogo e a fala de 2016 sobre colágeno e soro do leite em uma barra.
+
+## [2026-11-11] revisão | Comentários de mais 21 publicações do Cozinha de Pedra
+
+O [registro](raw/busca-receitas-relatos.md#comentários-sobre-preparo-vinagre-e-fissuras-nas-mãos) acrescenta 311 entradas e confirma o estado da live de fundo de peixe. A [matriz](wiki/temas/relatos-e-evidencia.md) registra o depoimento de fissuras nas mãos e o contexto dos ensaios recuperados.

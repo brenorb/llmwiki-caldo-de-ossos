@@ -83,6 +83,12 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 
 - Em um post sobre introdução alimentar, a autora propõe benefícios para crescimento, barreira intestinal, alergias e estrias. Comentários descrevem usar caldo em sopa e gelatina e relatam aceitação percebida. A publicação e os comentários não trazem medidas de crescimento, avaliação de alergia ou seguimento clínico. [Publicação sobre alimentação infantil](https://www.instagram.com/cozinhadepedra/p/CU5L54UMNbn/) · [Comparação com a evidência](../temas/relatos-e-evidencia.md)
 
+## Comentários sobre preparo, vinagre e fissuras nas mãos
+
+- Uma pessoa diz ter usado cerca de 1 kg de pés de frango e duas carcaças por seis horas e obtido pouco caldo. Outra pergunta se é possível acrescentar cabeças e cascas de camarão ao fundo de peixe. No post sobre separar o caldo, perguntam se a etapa se refere a dividir em porções ou retirar a gordura. São dúvidas e experiências sem rendimento medido ou formulação completa. [Live sobre tutano](https://www.instagram.com/cozinhadepedra/reel/CRSTr0opA0x/) · [Etapa de separação](https://www.instagram.com/cozinhadepedra/p/CRRsbzFMJKr/)
+- Um comentário pergunta quanto vinagre usar por litro. Em resposta a outra pessoa, o perfil diz que o vinagre é opcional. Esse conselho descreve a prática culinária da autora. Em condições experimentais, a acidez influenciou a extração de certos minerais. [Live e respostas](https://www.instagram.com/cozinhadepedra/reel/CP626fJplxC/) · [Hsu et al.](hsu-2017-metais.md)
+- Uma pessoa associa a ingestão de caldo à melhora rápida e à menor recorrência de fissuras nas palmas das mãos, que atribui à lavagem frequente. O comentário não informa diagnóstico, medidas da lesão, quantidade de caldo ou outros cuidados de pele. [Relato no reel](https://www.instagram.com/cozinhadepedra/reel/CQKSlJ0J5-j/) · [Comparação com estudos](../temas/relatos-e-evidencia.md)
+
 ## Entrevista e transmissões
 
 - Na entrevista, Mandagará descreve a base neutra sem sal nem temperos, uma versão batida com ervas frescas e outra com cúrcuma e gengibre. Ela relata usar aproximadamente 1 kg de ossos para 1 L de água e 8 horas na panela de pressão elétrica na sua produção. Esses tempos e proporções descrevem o método da autora. A firmeza do gel depende do preparo e da temperatura. [Entrevista, seções sobre receitas e modos de preparo](https://www.senhortanquinho.com/podcast-095-tudo-sobre-caldo-de-ossos-com-a-nutri-isabela-e-especialista-bibiana-mandagara/) · [Preparo na wiki](../temas/receitas-caldo.md)

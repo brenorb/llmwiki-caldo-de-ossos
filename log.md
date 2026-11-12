@@ -691,3 +691,7 @@ A [ficha](wiki/temas/receitas-mark-sisson.md#café-com-peptídeos-de-baunilha) c
 ## [2026-11-11] revisão | Primeira conferência dos comentários da grade inteira
 
 A [tabela de 236 publicações](raw/cozinha-comentarios-demais-publicacoes.md) registra os comentários que completam a primeira passagem pelos 395 links da grade. A nota do perfil e a matriz incluem os novos relatos de dor, exercícios e sintomas intestinais.
+
+## [2026-11-11] revisão | Fontes de colágeno citadas no The Alchemist’s Library
+
+O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-alchemists-library) registra a passagem em que Sisson cita fundos, peles e gelatina e descreve o próprio uso de peptídeos com eletrólitos.

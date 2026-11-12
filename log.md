@@ -711,3 +711,7 @@ O [inventário](raw/mark-sisson-entrevistas.md#the-model-health-show) registra o
 ## [2026-11-11] revisão | Respostas adicionais em 42 publicações do Cozinha de Pedra
 
 A [tabela da grade](raw/cozinha-comentarios-demais-publicacoes.md) registra 367 novas entradas. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#respostas-adicionais-sobre-preparo-e-uso-tópico-de-tutano) documenta dúvidas culinárias e um relato de aparência do cabelo após aplicação tópica.
+
+## [2026-11-11] revisão | Boundless Life, Jorge Cruise e áudio integral do The Alchemist’s Library
+
+O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#boundless-life-com-ben-greenfield) registra oito faixas integrais, confere glicogênio na entrevista de 2016 e identifica as falas de Sisson sobre colágeno e eletrólitos.

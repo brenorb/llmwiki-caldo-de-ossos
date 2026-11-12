@@ -168,7 +168,7 @@ A busca por Sisson nos títulos e nas descrições dos **408 itens** do RSS (13/
 
 ### The Alchemist’s Library
 
-A busca por Sisson nos títulos e nas descrições dos **210 itens** do RSS (29/04/2022 a 20/10/2026) identificou uma entrevista, publicada em **07/06/2024**. O arquivo indicado pelo RSS retornou HTTP 403. O vídeo publicado pelo apresentador tem **1h23min45s**. A conferência inicial da faixa cobriu **58:20–1h14min27s**. [Feed oficial](https://rss.buzzsprout.com/1966570.rss) · [Vídeo de Ryan Ayala](https://www.youtube.com/watch?v=JYbqZsAqQuM&t=4260s)
+A busca por Sisson nos títulos e nas descrições dos **210 itens** do RSS (29/04/2022 a 20/10/2026) identificou uma entrevista, publicada em **07/06/2024**. O arquivo indicado pelo RSS retornou HTTP 403. A faixa de **1h23min45s** do vídeo publicado pelo apresentador foi transcrita na íntegra. A passagem sobre colágeno foi conferida também em dois recortes do vídeo. [Feed oficial](https://rss.buzzsprout.com/1966570.rss) · [Vídeo de Ryan Ayala](https://www.youtube.com/watch?v=JYbqZsAqQuM&t=4260s)
 
 Entre **1h11min00s e 1h13min10s**, Sisson cita caldo de ossos, fundos de galinha e de carne bovina, pele de frango e peixe e gelatina de sobremesa como fontes alimentares de colágeno. Relata usar **20 g/dia** de colágeno em pó e misturá-lo com eletrólitos na sua bebida pré-treino. Quando descreve adicionar o produto à água gaseificada fria, refere-se aos eletrólitos. [Passagem no vídeo](https://www.youtube.com/watch?v=JYbqZsAqQuM&t=4260s)
 
@@ -183,3 +183,25 @@ A busca por Sisson nos títulos e nas descrições dos **1.051 itens** do RSS (0
 | [#668, 13/03/2023](https://themodelhealthshow.com/mark-sisson/) | **1h13min49s**. A transcrição ficou sem menções detectadas aos quatro termos. |
 | [#868, 10/02/2025](https://themodelhealthshow.com/mark-sisson-2/) | **1h19min37s**. A transcrição ficou sem menções detectadas aos quatro termos. |
 | [#1038, 28/09/2026](https://themodelhealthshow.com/mark-sisson-3/) | **1h04min09s**. O relato sobre o uso de suplemento de colágeno está descrito na tabela de entrevistas acima. |
+
+
+### Boundless Life com Ben Greenfield
+
+A busca por Sisson nos títulos e nas descrições dos **1.837 itens** do RSS da Omny (27/09/2009 a 07/11/2026) identificou quatro entrevistas. Os quatro áudios foram transcritos na íntegra e somam **4h32min11s**. A leitura não detectou menções pertinentes a caldo, gelatina, colágeno ou glicina nas falas de Sisson. Em **04:13** no episódio de 2016, a transcrição automática confundiu *glycogen* com *glycine*. A transcrição do apresentador confirma glicogênio. [Feed oficial](https://www.omnycontent.com/d/playlist/e58478bf-2dc2-4cb0-b7e9-afb301219b9a/3e7cc436-2b1b-42c0-9170-afc701069980/5ba357f9-00a2-4cfb-ad41-afc7010699a1/podcast.rss)
+
+| Episódio | Duração decodificada |
+| --- | --- |
+| [Primal Endurance, 06/02/2016](https://bengreenfieldlife.com/transcripts/transcript-primal-endurance/) | **1h06min53s** |
+| [The Keto Reset Diet, 06/01/2018](https://bengreenfieldlife.com/transcripts/transcript-the-keto-reset-diet-mark-sisson/) | **1h19min07s** |
+| [Why Running Isn't the Best Way to Get Fit, 01/02/2025](https://bengreenfieldlife.com/podcast/mark-sisson-podcast/) | **1h04min09s** |
+| [Is VO₂ Max Overrated?, 14/05/2026](https://bengreenfieldlife.com/podcast/mark-sisson-peluva/) | **1h02min02s** |
+
+### Jorge Cruise Podcast
+
+A busca por Sisson nos títulos e nas descrições dos **185 itens** do RSS (19/09/2019 a 06/11/2026) identificou três entrevistas. Os três áudios foram transcritos na íntegra e somam **3h06min47s**. Os links levam aos arquivos indicados pelo editor no feed. [Feed oficial](https://anchor.fm/s/2163d294/podcast/rss)
+
+| Episódio | Passagem conferida |
+| --- | --- |
+| [#28, 02/05/2020](https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-4-15/73328485-44100-2-115802b1b5658d27.mp3) | **54min20s**. Entre **07:25 e 07:54**, Sisson propõe classificar colágeno como quarto macronutriente. Entre **40:30 e 40:47**, afirma que colágeno serviria de substrato às bactérias intestinais para a produção de ácidos graxos de cadeia curta, hipótese também apresentada em *The Genius Life* #190. A bebida de colágeno com sabor de frutas vermelhas mencionada a **07:04** é da rotina de Cruise. |
+| [#59, 19/06/2020](https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-5-19/83689470-44100-2-37a31a8f4d996.mp3) | **56min21s**. Entre **39:22 e 39:42**, Sisson diz que às vezes toma uma bebida com colágeno e eletrólitos antes de atividade longa ao sol. A conversa não especifica as proporções da bebida. |
+| [#125, 14/04/2021](https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-3-14/b2185b31-35a6-fbe1-47ee-4053ecd36de5.mp3) | **1h16min07s**. Entre **1h09min48s e 1h10min32s**, Sisson diz que procura ingerir **20–30 g/dia** de colágeno pensando no tecido conjuntivo. A pergunta que cita caldo de ossos, em **1h09min09s**, é de Cruise. |

@@ -651,3 +651,7 @@ A [ficha](wiki/temas/receitas-gelatina.md#panquecas-de-ovos-com-gelatina-e-pept�
 ## [2026-11-11] revisão | Quatro áudios adicionais e confirmação da fala final
 
 O [inventário](raw/inventario-wapf-receitas.md#quatro-faixas-e-conferência-de-encerramento) registra o novo corte e a retranscrição do fim do episódio 170 em espanhol.
+
+## [2026-11-11] revisão | Catálogo e duas entrevistas do Revolution Health Radio
+
+O [inventário](raw/mark-sisson-entrevistas.md#revolution-health-radio-com-chris-kresser) registra as 392 entradas do arquivo oficial e as duas gravações integrais. A comparação de uma barra com caldo foi localizada na edição de áudio de 2016.

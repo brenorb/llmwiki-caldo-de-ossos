@@ -679,6 +679,20 @@ Seis outras transcrições integrais com participação de Sisson ficaram sem me
 
 A busca nos canais também encontrou uma versão em vídeo do chili sem feijão da Primal Kitchen com acém. A ficha atual da marca usa carne moída, caldo bovino e gelatina opcional. [Receita e atribuição](../wiki/temas/receitas-caldo.md#chili-bovino-sem-feijão-com-gelatina-opcional)
 
+### Verificação das descrições e das mídias sinalizadas
+
+As descrições individuais foram recuperadas para **138 de 138 candidatos temáticos**, 35 de Mark’s Daily Apple e 103 de Primal Kitchen. Os termos aparecem literalmente em quatro descrições do primeiro canal e em 53 do segundo. Seis vídeos da Primal Kitchen mencionam caldo na descrição. Todos os seis foram conferidos em áudio ou por quadros e descrição oficial no caso da montagem de sopa de abóbora. O acervo local tem **45 arquivos de transcrição**, 36 do conjunto temático. Há **51 IDs** com registro explícito de verificação, incluindo resultados anteriores e conferência por descrição ou quadro. As demais mídias ainda requerem verificação.
+
+| Vídeo | Participação e passagem conferida |
+| --- | --- |
+| [Collagen Keto Lattés](https://www.youtube.com/watch?v=4lG_1ZQHyc8&t=12s) | Sisson aparece de **00:00 a 00:18** e descreve café de prensa francesa com colágeno, creme e, às vezes, uma pitada de açúcar. O vídeo está acessível por playlist oficial. |
+| [Collagen Quench](https://www.youtube.com/watch?v=6cbHuDBqV_c&t=88s) | Sisson discute glicina de **00:27 a 00:48**. De **01:28 a 02:03**, descreve misturar peptídeos e eletrólitos e declara **10 g de colágeno tipos I e III** no produto mostrado. O dado é comercial. |
+| [How Do You Get Enough Fiber on Keto?](https://www.youtube.com/watch?v=OAX9nsroKh4&t=72s) | A **01:12–01:27** e **02:02**, Sisson sugere que bactérias intestinais fermentem peptídeos de colágeno e gerem ácidos graxos de cadeia curta. [Estudos em simuladores](../wiki/fontes/larder-2021-cunha-2026-fermentacao.md) |
+| [Keto Meal Prep](https://www.youtube.com/watch?v=py5K7xfGDRw&t=30s) | Lindsay Taylor usa **60 mL de caldo de ossos bovino** para soltar o fundo da panela após cozinhar a carne moída e reduz o líquido por cerca de **3 min**. |
+| [Tetrazzini de peru](https://www.youtube.com/watch?v=I9yQcdTIfwI&t=153s) | Lindsay Taylor se apresenta em **00:01**. A **02:33–02:43**, usa **60 mL de caldo** para deglacear os cogumelos antes de juntar Alfredo. A conferência final usou a faixa original em inglês. |
+
+O [fundo de carcaça de peru](../wiki/temas/receitas-caldo.md#caldo-de-carcaça-de-peru) está na ficha com crédito editorial conjunto de Primal Kitchen e Mark’s Daily Apple.
+
 ## Resultados do Arquivo.pt
 
 A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.

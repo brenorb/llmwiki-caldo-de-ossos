@@ -639,3 +639,7 @@ O [inventário](raw/inventario-wapf-receitas.md#sites-externos-indicados-no-dire
 ## [2026-11-11] revisão | Fermentação de hidrolisados de colágeno e a hipótese de Sisson
 
 A [nota de Larder e Cunha](wiki/fontes/larder-2021-cunha-2026-fermentacao.md) registra produtos, modelos e concentrações. A [matriz clínica](wiki/temas/alegacoes-saude.md) mantém em aberto o efeito da ingestão de caldo e a equivalência com fibras.
+
+## [2026-11-11] revisão | Descrições dos vídeos temáticos de Sisson e da Primal Kitchen
+
+O [inventário de vídeo](raw/inventario-mark-receitas.md#verificação-das-descrições-e-das-mídias-sinalizadas) registra as 138 descrições, as novas falas de Sisson e a autoria das demonstrações. O [caldo de peru](wiki/temas/receitas-caldo.md#caldo-de-carcaça-de-peru) reúne os três modos de cocção da ficha editorial.

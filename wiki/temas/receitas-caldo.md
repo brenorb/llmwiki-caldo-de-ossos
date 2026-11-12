@@ -132,6 +132,18 @@ Para engrossar, reduza destampado ou retire **120 mL do líquido**, espere amorn
 
 As versões com menos amido são adaptações da wiki. As fichas são publicações da marca, com autoria editorial da Primal Kitchen.
 
+## Caldo de carcaça de peru
+
+Use uma **carcaça de peru assado**, com a pele e as aparas de carne, e pescoço ou moela se disponíveis. A ficha usa tomilho, sálvia, alecrim, **½ cebola**, **1 cenoura**, **2 talos de salsão**, **15 mL de vinagre de maçã**, pimenta em grão e sal. Use água até cobrir, respeitando o limite da panela. [Receita de Primal Kitchen e Mark’s Daily Apple](https://www.primalkitchen.com/blogs/recipes/turkey-bone-broth)
+
+| Equipamento | Tempo publicado |
+| --- | --- |
+| Panela de pressão elétrica | 1–2 h em pressão alta. A ficha prevê 30 min de liberação natural. Siga o manual para a abertura. |
+| Panela lenta | 8–10 h no ajuste baixo ou 4 h no alto. |
+| Fogão | 1–2 h em fervura branda, com a panela tampada. |
+
+Coe e resfrie prontamente em porções rasas. A ficha lista **8–10 porções** e informa **8,5 g de carboidratos por xícara** por cálculo de receita. Os aromáticos e o rendimento do lote influenciam a composição da porção. [Ficha e tabela](https://www.primalkitchen.com/blogs/recipes/turkey-bone-broth) · [Conservação](seguranca-conservacao.md)
+
 ## Caldo de carcaça e sopa de Leah McCullough
 
 As notas da entrevista *Fibro Hope* remetem ao livro de McCullough. O receituário detalha o aproveitamento da carcaça e do caldo. As medidas abaixo vêm do livro, com sal ajustado a gosto e conservação conforme a orientação sanitária da wiki. [Entrevista da WAPF](https://www.westonaprice.org/podcast/66-fibro-hope/) · [Receituário, p. 173–178 impressas](https://unconventionaltraditional.com/wp-content/uploads/2016/01/Freedom-from-Fibromyalgia-2nd-Edition.pdf#page=189)

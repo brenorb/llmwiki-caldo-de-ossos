@@ -83,6 +83,11 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 
 - Em um post sobre introdução alimentar, a autora propõe benefícios para crescimento, barreira intestinal, alergias e estrias. Comentários descrevem usar caldo em sopa e gelatina e relatam aceitação percebida. A publicação e os comentários não trazem medidas de crescimento, avaliação de alergia ou seguimento clínico. [Publicação sobre alimentação infantil](https://www.instagram.com/cozinhadepedra/p/CU5L54UMNbn/) · [Comparação com a evidência](../temas/relatos-e-evidencia.md)
 
+## Respostas adicionais sobre preparo e uso tópico de tutano
+
+- Uma pessoa descreve usar o gel do caldo como base de sopa com legumes. Outras perguntam sobre diluição, limite de enchimento da panela e uso de pés de frango com aromáticos. São descrições e dúvidas culinárias, sem medição de composição. [Sopa com gel do caldo](https://www.instagram.com/cozinhadepedra/p/CE6WmWnotx7/) · [Diluição](https://www.instagram.com/cozinhadepedra/p/B_eu0SWIXQC/) · [Panela e aromáticos](https://www.instagram.com/cozinhadepedra/p/CGmfjSBqXLo/)
+- Em uma publicação sobre tutano, uma pessoa descreve cabelo mais hidratado e brilhante após uso tópico em fios danificados por descoloração e alisamento. O comentário descreve aparência e textura e não informa mudança de cor. [Publicação sobre tutano](https://www.instagram.com/cozinhadepedra/p/CC7rIPljWto/) · [Comparação com estudo de outros óleos](../temas/relatos-e-evidencia.md)
+
 ## Comentários das demais publicações da grade
 
 - Em uma publicação, uma pessoa descreve melhora percebida no intestino e no joelho em menos de duas semanas. O percentual que cita é uma estimativa própria, sem escala clínica. Em outra, uma pessoa relata conseguir fazer exercícios sem piora da dor nos joelhos. Nenhuma das mensagens informa a quantidade de caldo, medidas clínicas seriadas ou outros cuidados em curso. [Relato sobre intestino e joelho](https://www.instagram.com/cozinhadepedra/p/CGYiEAcMJzf/) · [Relato sobre exercícios](https://www.instagram.com/cozinhadepedra/p/CEteZC3o8og/)

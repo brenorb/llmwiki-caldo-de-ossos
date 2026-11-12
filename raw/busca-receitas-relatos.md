@@ -11,7 +11,7 @@ Consulta em 2026-11-11. Escopo temático de caldos de ossos, fundos relacionados
 
 ## Cobertura dos comentários do Instagram
 
-As **395 publicações distintas da grade** têm uma primeira conferência dos comentários, com **3.617 comentários e respostas exibidos**. As tabelas abaixo registram 159 publicações e 2.360 entradas. A tabela complementar registra as outras 236 publicações e 1.257 entradas. As contagens usam identificadores ou entradas com controle *Responder*, conforme o modo de exibição. Parte das listas ainda apresenta respostas recolhidas ou carregamento adicional. [Tabela das outras 236 publicações](cozinha-comentarios-demais-publicacoes.md)
+As **395 publicações distintas da grade** têm uma primeira conferência dos comentários, com **3.984 comentários e respostas exibidos** no inventário cumulativo. As tabelas abaixo registram 159 publicações e 2.360 entradas. A tabela complementar registra as outras 236 publicações e 1.624 entradas. As contagens usam identificadores ou entradas com controle *Responder*, conforme o modo de exibição. Parte das listas ainda apresenta respostas recolhidas ou carregamento adicional. [Tabela das outras 236 publicações](cozinha-comentarios-demais-publicacoes.md)
 
 ## Comentários sobre cabelo e colágeno
 

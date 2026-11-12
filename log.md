@@ -707,3 +707,7 @@ O [inventário](raw/inventario-wapf-receitas.md#glicina-e-a-alegação-de-desint
 ## [2026-11-11] revisão | Quatro entrevistas no The Model Health Show
 
 O [inventário](raw/mark-sisson-entrevistas.md#the-model-health-show) registra os áudios integrais, as compilações conferidas e o contexto das menções a colágeno.
+
+## [2026-11-11] revisão | Respostas adicionais em 42 publicações do Cozinha de Pedra
+
+A [tabela da grade](raw/cozinha-comentarios-demais-publicacoes.md) registra 367 novas entradas. A [nota do perfil](wiki/fontes/cozinha-de-pedra-caldo.md#respostas-adicionais-sobre-preparo-e-uso-tópico-de-tutano) documenta dúvidas culinárias e um relato de aparência do cabelo após aplicação tópica.

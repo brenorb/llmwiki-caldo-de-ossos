@@ -703,3 +703,7 @@ O [inventário dos canais](raw/inventario-mark-receitas.md#verificação-das-des
 ## [2026-11-11] revisão | Três áudios da WAPF e alegação sobre glicina
 
 O [inventário](raw/inventario-wapf-receitas.md#glicina-e-a-alegação-de-desintoxicação) registra três faixas e localiza a alegação de Sally Fallon Morell. A [matriz de saúde](wiki/temas/alegacoes-saude.md) relaciona a afirmação aos estudos de composição e ao desfecho que precisaria ser medido.
+
+## [2026-11-11] revisão | Quatro entrevistas no The Model Health Show
+
+O [inventário](raw/mark-sisson-entrevistas.md#the-model-health-show) registra os áudios integrais, as compilações conferidas e o contexto das menções a colágeno.

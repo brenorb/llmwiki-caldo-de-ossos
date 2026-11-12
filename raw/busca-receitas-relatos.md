@@ -11,7 +11,7 @@ Consulta em 2026-11-11. Escopo temático de caldos de ossos, fundos relacionados
 
 ## Cobertura dos comentários do Instagram
 
-As tabelas a seguir totalizam **159 publicações distintas das 395 inventariadas** e **2.360 comentários ou respostas exibidos**. As contagens usam identificadores ou entradas com controle *Responder*, conforme o modo de exibição. As tabelas registram listas com carregamento ou respostas ainda recolhidas. Há **236 publicações da grade** sem conferência de comentários registrada aqui.
+As **395 publicações distintas da grade** têm uma primeira conferência dos comentários, com **3.617 comentários e respostas exibidos**. As tabelas abaixo registram 159 publicações e 2.360 entradas. A tabela complementar registra as outras 236 publicações e 1.257 entradas. As contagens usam identificadores ou entradas com controle *Responder*, conforme o modo de exibição. Parte das listas ainda apresenta respostas recolhidas ou carregamento adicional. [Tabela das outras 236 publicações](cozinha-comentarios-demais-publicacoes.md)
 
 ## Comentários sobre cabelo e colágeno
 
@@ -163,7 +163,7 @@ A sessão autenticada exibiu **311 entradas** em mais 21 publicações, incluind
 | [CMuRgcRseg8](https://www.instagram.com/cozinhadepedra/p/CMuRgcRseg8/) | 15 | 0 | Indicador visível |
 | [CLuEqPCslFn](https://www.instagram.com/cozinhadepedra/p/CLuEqPCslFn/) | 19 | 0 | Indicador visível |
 
-A consulta à publicação `CP8PuTAMf03` não exibiu entradas nem confirmou lista vazia. Ela fica fora da contagem. A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-preparo-vinagre-e-fissuras-nas-mãos) registra as perguntas e o depoimento encontrados.
+A consulta à publicação `CP8PuTAMf03` não exibiu entradas nem confirmou lista vazia. Ela ficou fora da contagem desta rodada e foi recuperada na [consulta posterior](cozinha-comentarios-demais-publicacoes.md). A [nota do perfil](../wiki/fontes/cozinha-de-pedra-caldo.md#comentários-sobre-preparo-vinagre-e-fissuras-nas-mãos) registra as perguntas e o depoimento encontrados.
 
 ## Comentários sobre dor e tempo de consumo
 

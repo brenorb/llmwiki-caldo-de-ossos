@@ -83,6 +83,11 @@ Bibiana Mandagara publica receitas, técnicas domésticas, alegações de saúde
 
 - Em um post sobre introdução alimentar, a autora propõe benefícios para crescimento, barreira intestinal, alergias e estrias. Comentários descrevem usar caldo em sopa e gelatina e relatam aceitação percebida. A publicação e os comentários não trazem medidas de crescimento, avaliação de alergia ou seguimento clínico. [Publicação sobre alimentação infantil](https://www.instagram.com/cozinhadepedra/p/CU5L54UMNbn/) · [Comparação com a evidência](../temas/relatos-e-evidencia.md)
 
+## Comentários das demais publicações da grade
+
+- Em uma publicação, uma pessoa descreve melhora percebida no intestino e no joelho em menos de duas semanas. O percentual que cita é uma estimativa própria, sem escala clínica. Em outra, uma pessoa relata conseguir fazer exercícios sem piora da dor nos joelhos. Nenhuma das mensagens informa a quantidade de caldo, medidas clínicas seriadas ou outros cuidados em curso. [Relato sobre intestino e joelho](https://www.instagram.com/cozinhadepedra/p/CGYiEAcMJzf/) · [Relato sobre exercícios](https://www.instagram.com/cozinhadepedra/p/CEteZC3o8og/)
+- Um comentário relata menos dor e pergunta se **200 mL por dia** seria muito. O volume consta da pergunta e não de um teste de dose. Em outra publicação, uma pessoa relata que a avó deixou de sentir dor nos joelhos após duas semanas. O depoimento de terceira pessoa não apresenta diagnóstico, quantidade de caldo ou medição da dor. [Pergunta sobre 200 mL](https://www.instagram.com/cozinhadepedra/p/CAZ9HAUoj5a/) · [Relato de terceira pessoa](https://www.instagram.com/cozinhadepedra/p/B_Ho2SlIHZT/) · [Relatos e estudos](../temas/relatos-e-evidencia.md)
+
 ## Comentários sobre dor, fisioterapia e coagem
 
 - Uma pessoa relata desaparecimento de dores após quatro meses de consumo diário, incluindo caldo puro, em café ou em doce. Outra relata estar havia dois meses sem dores no pescoço e na lombar e menciona acompanhamento com fisioterapeuta. Os comentários não permitem comparar doses, tratamentos ou a evolução da dor. [Relato de quatro meses](https://www.instagram.com/cozinhadepedra/reel/CJT_zFTlXxo/) · [Relato com fisioterapia](https://www.instagram.com/cozinhadepedra/reel/CI1wSgxpG6p/)

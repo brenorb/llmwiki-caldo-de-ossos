@@ -687,3 +687,7 @@ A [ficha](wiki/temas/receitas-gelatina.md#marshmallow-de-gelatina-com-e-sem-aç�
 ## [2026-11-11] ingestão | Café com peptídeos demonstrado por Sisson
 
 A [ficha](wiki/temas/receitas-mark-sisson.md#café-com-peptídeos-de-baunilha) cruza o modo de misturar do vídeo com a quantidade de café da versão escrita.
+
+## [2026-11-11] revisão | Primeira conferência dos comentários da grade inteira
+
+A [tabela de 236 publicações](raw/cozinha-comentarios-demais-publicacoes.md) registra os comentários que completam a primeira passagem pelos 395 links da grade. A nota do perfil e a matriz incluem os novos relatos de dor, exercícios e sintomas intestinais.

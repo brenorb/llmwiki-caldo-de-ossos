@@ -203,6 +203,16 @@ A receita *Gelasicles* usa **1 xícara de chá forte ou suco**, **1 xícara de l
 
 Hidrate a gelatina em parte do chá frio e dissolva no restante do chá quente. Bata com o leite de coco e as frutas, ajuste o dulçor, distribua em formas e congele. O picolé pode ficar mais duro com a retirada da rapadura. Deixe a forma alguns minutos fora do congelador antes de desenformar. Os carboidratos da framboesa e do leite de coco continuam na porção.
 
+### Panquecas de ovos com gelatina e peptídeos
+
+Para **três panquecas**, o vídeo de Bella usa **3 ovos**, **1 colher de sopa de gelatina incolor em pó** e **2½ colheres de sopa de peptídeos de colágeno sem sabor**. A demonstração dobra a receita para seis. [Vídeo original, 00:53–03:20](https://www.youtube.com/watch?v=zVUHEV3GRdY&t=53s)
+
+1. Separe as claras das gemas. Bata as claras e polvilhe a gelatina aos poucos enquanto bate, até formar picos firmes.
+2. Bata as gemas à parte e misture os peptídeos. Incorpore as claras delicadamente, em partes, para manter o ar.
+3. Divida em três porções em frigideira untada. O vídeo cozinha em fogo baixo a médio, tampado, por cerca de **8 min** de um lado e **5 min** do outro. Ajuste o tempo ao tamanho das panquecas e cozinhe até o centro firmar. [Vídeo, 03:25–05:05](https://www.youtube.com/watch?v=zVUHEV3GRdY&t=205s) · [Temperatura de referência para pratos com ovos](https://ask.fsis.usda.gov/article/By-what-methods-can-you-cook-eggs-safely)
+
+O capítulo de Wellington reproduz uma fórmula com **7 ovos**, **4 colheres de sopa de colágeno** e **2 de gelatina**, sem instruções ou rendimento. A ficha acima segue as medidas e o método da demonstração original. A massa dispensa farinha e açúcar adicionado. Se quiser uma versão doce, experimente canela e um adoçante culinário a gosto. [Compilação de Wellington](https://wapfwellington.blogspot.com/2026/05/carnivore-bread.html)
+
 ## Com derivados do caldo
 
 ### Quindim com gordura do caldo e eritritol

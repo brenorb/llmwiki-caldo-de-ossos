@@ -643,3 +643,7 @@ A [nota de Larder e Cunha](wiki/fontes/larder-2021-cunha-2026-fermentacao.md) re
 ## [2026-11-11] revisão | Descrições dos vídeos temáticos de Sisson e da Primal Kitchen
 
 O [inventário de vídeo](raw/inventario-mark-receitas.md#verificação-das-descrições-e-das-mídias-sinalizadas) registra as 138 descrições, as novas falas de Sisson e a autoria das demonstrações. O [caldo de peru](wiki/temas/receitas-caldo.md#caldo-de-carcaça-de-peru) reúne os três modos de cocção da ficha editorial.
+
+## [2026-11-11] ingestão | Panquecas com gelatina e peptídeos indicadas por Wellington
+
+A [ficha](wiki/temas/receitas-gelatina.md#panquecas-de-ovos-com-gelatina-e-peptídeos) coteja a fórmula compilada com a demonstração integral da autora. O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-sites-indicados-pelos-capítulos) explicita também a proporção de partes animais por litro de água em Falconi.

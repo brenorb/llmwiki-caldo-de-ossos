@@ -575,3 +575,7 @@ O [inventário](raw/inventario-wapf-receitas.md#sete-áudios-adicionais-conferid
 ## [2026-11-11] revisão | Caldo na introdução alimentar e prevenção de alergia
 
 A [matriz de relatos](wiki/temas/relatos-e-evidencia.md) registra as alegações do post e a aceitação percebida nos comentários. Foram conferidos os ensaios de introdução de amendoim e ovo, cujos desfechos são específicos de cada alimento.
+
+## [2026-11-11] revisão | Comparação comercial de Sisson com uma xícara de caldo
+
+A [nota de Sisson](wiki/fontes/mark-sisson-caldo-gelatina.md#entrevistas) registra os 9 g declarados para a barra e a faixa de colágeno estimada em dez caldos comerciais de outro levantamento.

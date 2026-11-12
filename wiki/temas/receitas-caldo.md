@@ -117,6 +117,12 @@ Use **cerca de 950 mL de caldo de frango**, **2 xícaras de frango cozido em cub
 
 Refogue alho, cebola e pimentões. Junte caldo, tomate, frango, feijão e temperos. Cozinhe em fogo brando para reunir os sabores e acrescente as folhas no fim. Para uma versão com menos amido, troque o feijão por cogumelos ou abobrinha em cubos e sirva sem o pão de milho indicado na ficha. A troca é uma adaptação da wiki. [Conservação](seguranca-conservacao.md)
 
+## Chili bovino sem feijão com gelatina opcional
+
+Para as **12 porções** da ficha da Primal Kitchen, use **cerca de 1,36 kg de carne bovina moída**, **946 mL de caldo bovino**, **240 mL de ketchup sem açúcar adicionado**, **1 cebola**, **2 pimentões**, jalapeño, alho e cebola em pó, páprica e pimenta em pó. Aqueça óleo de abacate em panela grande, doure a carne com a cebola e os pimentões, incorpore os temperos e acrescente caldo e ketchup. A ficha também sugere chocolate amargo opcional. Cozinhe tampado em fogo brando por cerca de **2 h**, mexendo de vez em quando. [Receita publicada pela Primal Kitchen](https://www.primalkitchen.com/blogs/recipes/keto-chili-recipe-without-beans)
+
+Para engrossar, reduza destampado ou retire **120 mL do líquido**, espere amornar e polvilhe **1–2 colheres de chá de gelatina incolor**. Após cerca de **5 min**, misture de volta e cozinhe por mais **10 min**. A lista de ingredientes prevê até **1 colher de sopa de gelatina** no total. A marca informa **9 g de carboidratos por porção**, calculados para sua ficha. Para servir com menos carboidratos, deixe de fora batata, chips ou outros acompanhamentos ricos em amido. O vídeo da marca mostra uma versão com acém em cubos. [Ficha com carne moída e técnica de gelificação](https://www.primalkitchen.com/blogs/recipes/keto-chili-recipe-without-beans) · [Versão em vídeo](https://www.youtube.com/watch?v=FiyzGYeu9R4)
+
 ## Caldo de carcaça e sopa de Leah McCullough
 
 As notas da entrevista *Fibro Hope* remetem ao livro de McCullough. O receituário detalha o aproveitamento da carcaça e do caldo. As medidas abaixo vêm do livro, com sal ajustado a gosto e conservação conforme a orientação sanitária da wiki. [Entrevista da WAPF](https://www.westonaprice.org/podcast/66-fibro-hope/) · [Receituário, p. 173–178 impressas](https://unconventionaltraditional.com/wp-content/uploads/2016/01/Freedom-from-Fibromyalgia-2nd-Edition.pdf#page=189)

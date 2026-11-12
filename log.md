@@ -591,3 +591,7 @@ O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-marin-county-e-be
 ## [2026-11-11] revisão | Catálogos de vídeo de Mark’s Daily Apple e Primal Kitchen
 
 O [inventário](raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-no-youtube) registra 904 IDs alcançados pelas abas e playlists, com os denominadores da triagem e quatro novos vídeos conferidos.
+
+## [2026-11-11] ingestão | Chili sem feijão da Primal Kitchen
+
+A [ficha](wiki/temas/receitas-caldo.md#chili-bovino-sem-feijão-com-gelatina-opcional) registra a versão com carne moída e o espessamento opcional com gelatina. O [inventário de vídeo](raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-no-youtube) foi atualizado após a deduplicação da busca temática.

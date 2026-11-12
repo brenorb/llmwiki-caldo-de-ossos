@@ -579,3 +579,7 @@ A [matriz de relatos](wiki/temas/relatos-e-evidencia.md) registra as alegações
 ## [2026-11-11] revisão | Comparação comercial de Sisson com uma xícara de caldo
 
 A [nota de Sisson](wiki/fontes/mark-sisson-caldo-gelatina.md#entrevistas) registra os 9 g declarados para a barra e a faixa de colágeno estimada em dez caldos comerciais de outro levantamento.
+
+## [2026-11-11] ingestão | Três entrevistas integrais no catálogo de Dave Asprey
+
+O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-human-upgrade-com-dave-asprey) registra o catálogo de 1.624 itens, as três transcrições e a passagem sobre o uso pessoal de colágeno.

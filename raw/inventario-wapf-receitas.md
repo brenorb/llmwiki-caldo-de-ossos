@@ -459,6 +459,16 @@ A contagem por GUID chegou a **96 de 237** áudios das páginas curtas em inglê
 | [165](https://sabiastradiciones.libsyn.com/165-bisontes-parte-2-con-gerardo-ruiz-smith) e [164](https://sabiastradiciones.libsyn.com/164-con-gerardo-ruiz-smith) | 38 min 28 s e 55 min 48 s | A triagem não encontrou passagens substantivas sobre caldo, gelatina, colágeno ou glicina. |
 | [163 · Chucrut, la puerta de entrada a los fermentos](https://sabiastradiciones.libsyn.com/ep-163-chucrut-la-puerta-de-entrada-a-los-fermentos-con-flor) | 48 min 45 s | A 00:19:07, Flor Juárez sugere acrescentar chucrute a caldo de ossos de frango com limão. É uma ideia de preparo, sem proporções ou análise nutricional. [Medidas de teste da wiki](../wiki/temas/receitas-caldo.md#caldo-de-frango-com-limão-e-chucrute) |
 
+#### Glicina e a alegação de desintoxicação
+
+O inventário por GUID chegou a **98 de 237** áudios das páginas curtas em inglês e **51 de 189** em espanhol. Restavam **139** e **138**.
+
+| Episódio | Duração da faixa | Passagem pertinente |
+| --- | --- | --- |
+| [191 · Cancer: how did we get here?](https://wisetraditions.libsyn.com/191-cancer-how-did-we-get-here) | 35 min 21 s | As ocorrências de gelatina, colágeno e tutano são de publicidade de suplementos. |
+| [190 · Bucking the system](https://wisetraditions.libsyn.com/190-bucking-the-system) | 31 min 28 s | Entre 00:28:07 e 00:29:25, Sally Fallon Morell fala de exposições ambientais e atribui à glicina do caldo um efeito de desintoxicação. A passagem não apresenta uma medição de exposição ou eliminação após ingestão de caldo. |
+| [162 · El impacto de las emociones en nuestra salud](https://sabiastradiciones.libsyn.com/162-el-impacto-de-las-emociones-en-nuestra-salud-con-el-juan-ignacio-zagari) | 46 min 31 s | A triagem da transcrição não encontrou passagens substantivas de caldo, gelatina, colágeno ou glicina. |
+
 ## Publicações dos capítulos locais
 
 O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.376 URLs do sitemap principal. A consulta de 2026-11-11 verificou o relato de uma reunião do capítulo de North Atlanta, as duas fichas de bebidas em imagem e uma apresentação de três páginas. A apresentação diferencia fundo de carne e caldo de ossos por proporções indicativas e por tempo. Nas faixas culinárias, cita 1½–3 h para fundo de aves, 4–6 h para fundo de boi, bisão ou porco, 6–24 h para caldo de ossos de frango e 24–72 h para bovino. O documento não informa a base das proporções, o volume de água ou resultados de testes próprios. As alegações de recuperação da barreira intestinal e maior teor de eletrólitos aparecem no material didático, sem medições comparativas ou ensaio clínico nele. A consulta é pontual e ainda não cobre todos os sites dos capítulos. [Reunião de 31 de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/) · [Apresentação em PDF](https://chapters.westonaprice.org/northatlantaga/files/2024/04/Meat-Stock-vs.-Bone-Broth.pdf) · [Bebidas e medidas](../wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)

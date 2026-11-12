@@ -94,6 +94,12 @@ Na demonstração, Mandagará pesa **15 g da gordura separada do caldo**. Ao rec
 2. Ponha a massa numa frigideira pequena, tampe e leve ao fogo baixo. A autora estima **10–15 minutos** e vira o pão para dourar o outro lado. Cozinhe até firmar também no centro.
 3. Para bases finas de minipizza, a autora acrescenta mais água e relata obter cerca de quatro discos. Ela também cita parmesão e provolone como substitutos da muçarela. O pão pode acompanhar a [pasta fria de caldo, bacon e parmesão](receitas-gelatina.md#pasta-fria-de-caldo-bacon-e-parmesão). [Live do Cozinha de Pedra, 06:58–07:14, 15:28–18:44 e 29:14–29:28](https://www.instagram.com/cozinhadepedra/reel/CH_jQqxJIn3/)
 
+## Sopa de legumes com gel do caldo
+
+Uma pessoa no Cozinha de Pedra descreve dissolver o caldo gelificado e usá-lo em sopa com legumes. Para duas tigelas, comece com **240 mL de caldo gelificado** e **240 mL de água**. Aqueça até o gel se dissolver. Junte **1 talo de salsão fatiado** e **1 xícara de couve-flor em floretes pequenos** e cozinhe em fogo brando até começarem a amaciar. Acrescente **½ abobrinha em cubos** e cozinhe mais **3–5 min**. Prove antes de salgar. Se o caldo tiver sido muito reduzido, dilua aos poucos até acertar o sabor.
+
+A combinação de legumes, as medidas e o tempo são sugestões da wiki. Couve-flor, salsão e abobrinha mantêm a sopa com menos amido do que uma versão com batata ou macarrão. Use o gel do próprio caldo, sem precisar acrescentar gelatina em pó. [Comentário do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/p/CE6WmWnotx7/) · [Conservação](seguranca-conservacao.md)
+
 ## Caldo de frango com limão e chucrute
 
 Para uma porção, aqueça **240 mL de caldo de ossos de frango** e sirva numa tigela. Misture **1 colher de chá de suco de limão** e **1–2 colheres de sopa de chucrute**. Prove antes de salgar, porque o fermentado pode ser salgado. Use chucrute sem açúcar adicionado para uma porção com menos carboidratos. Flor Juárez descreve a combinação em áudio. As quantidades e a adição na tigela são sugestões da wiki. [Sabias Tradiciones 163, 00:19:07–00:19:22](https://sabiastradiciones.libsyn.com/ep-163-chucrut-la-puerta-de-entrada-a-los-fermentos-con-flor)

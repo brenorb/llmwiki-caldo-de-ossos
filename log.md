@@ -723,3 +723,7 @@ O [inventário](raw/inventario-wapf-receitas.md#seis-faixas-adicionais-das-duas-
 ## [2026-11-11] revisão | Relato digestivo e hipótese de Sisson sobre butirato
 
 A [entrevista com Ben Pakulski](raw/mark-sisson-entrevistas.md#muscle-intelligence-com-ben-pakulski) foi transcrita por completo e os trechos com reconhecimento falho foram reprocessados. O inventário liga a hipótese sobre butirato aos estudos em simuladores intestinais.
+
+## [2026-11-11] ingestão | Sopa de legumes feita com caldo gelificado
+
+A [ficha](wiki/temas/receitas-caldo.md#sopa-de-legumes-com-gel-do-caldo) dá medidas para duas tigelas e sugere legumes de baixo amido para a ideia registrada nos comentários do Cozinha de Pedra.

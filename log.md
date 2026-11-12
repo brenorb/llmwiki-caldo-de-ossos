@@ -679,3 +679,7 @@ O [inventário de acesso](raw/busca-receitas-relatos.md#comentários-dos-reels-r
 ## [2026-11-11] revisão | Caldo de frango com limão e chucrute na WAPF
 
 O [inventário de áudio](raw/inventario-wapf-receitas.md#caldo-de-frango-com-limão-e-chucrute) registra o novo corte de cobertura. A [ficha de caldo](wiki/temas/receitas-caldo.md#caldo-de-frango-com-limão-e-chucrute) documenta a ideia de Flor Juárez e propõe medidas para uma porção.
+
+## [2026-11-11] ingestão | Marshmallows com gelatina e alternativa com adoçantes
+
+A [ficha](wiki/temas/receitas-gelatina.md#marshmallow-de-gelatina-com-e-sem-açúcar) compara a calda demonstrada pela Primal Kitchen com a temperatura da ficha escrita e reúne uma formulação low carb publicada, com os dois adoçantes especificados pela autora.

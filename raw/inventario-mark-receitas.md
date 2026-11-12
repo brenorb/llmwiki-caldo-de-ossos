@@ -691,6 +691,8 @@ As descrições individuais foram recuperadas para **138 de 138 candidatos temá
 | [Keto Meal Prep](https://www.youtube.com/watch?v=py5K7xfGDRw&t=30s) | Lindsay Taylor usa **60 mL de caldo de ossos bovino** para soltar o fundo da panela após cozinhar a carne moída e reduz o líquido por cerca de **3 min**. |
 | [Tetrazzini de peru](https://www.youtube.com/watch?v=I9yQcdTIfwI&t=153s) | Lindsay Taylor se apresenta em **00:01**. A **02:33–02:43**, usa **60 mL de caldo** para deglacear os cogumelos antes de juntar Alfredo. A conferência final usou a faixa original em inglês. |
 
+O vídeo de [marshmallow da Primal Kitchen](https://www.youtube.com/watch?v=5Aj37Hxto3k&t=15s) mostra a calda em fervura e informa uma temperatura diferente da ficha escrita. A [receita na wiki](../wiki/temas/receitas-gelatina.md#marshmallow-de-gelatina-com-e-sem-açúcar) registra a divergência e uma fórmula publicada com adoçantes.
+
 O [fundo de carcaça de peru](../wiki/temas/receitas-caldo.md#caldo-de-carcaça-de-peru) está na ficha com crédito editorial conjunto de Primal Kitchen e Mark’s Daily Apple.
 
 ## Resultados do Arquivo.pt

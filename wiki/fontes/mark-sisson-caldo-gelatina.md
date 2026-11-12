@@ -120,6 +120,8 @@ Em 2025, a ConsumerLab estimou **cerca de 1–6 g de colágeno por xícara de 23
 
 O [inventário dos catálogos e áudios](../../raw/mark-sisson-entrevistas.md#catálogos-oficiais-e-áudios) inclui os feeds de Primal Blueprint e Primal Kitchen. No vídeo *Talking Collagen*, Sisson descreve seu consumo de caldo quente no inverno e fala de suplemento ao relatar tendinose. [Vídeo, 05:12–09:25](https://www.youtube.com/watch?v=bCrE39DozW8&t=312s)
 
+Em vídeos oficiais, Sisson diz gostar de caldo e preferir suplemento no calor ou quando caldo não faz parte da rotina. Em outra demonstração, dissolve peptídeos de baunilha em uma pequena parte do café e completa a xícara. O vídeo de produtos sugere misturar peptídeos sem sabor a sopa ou caldo. A [triagem dos canais](../../raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-no-youtube) localiza essas falas.
+
 O [caderno de receitas de coco dos leitores](mark-sisson-caderno-coco.md) reúne seis preparos com caldo ou fundo de frango encontrados nas 84 páginas do livreto do concurso de 2010.
 
 ## Livros em coautoria

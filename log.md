@@ -587,3 +587,7 @@ O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-human-upgrade-
 ## [2026-11-11] ingestão | Caldo com abacate e chili de capítulos locais da WAPF
 
 O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-marin-county-e-bellingham) localiza as bebidas e combinações de Marin County e o chili de Bellingham. As fichas registram as medidas recuperadas e a troca do feijão por hortaliças.
+
+## [2026-11-11] revisão | Catálogos de vídeo de Mark’s Daily Apple e Primal Kitchen
+
+O [inventário](raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-no-youtube) registra 904 IDs alcançados pelas abas e playlists, com os denominadores da triagem e quatro novos vídeos conferidos.

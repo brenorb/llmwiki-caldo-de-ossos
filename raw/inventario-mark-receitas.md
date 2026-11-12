@@ -661,6 +661,17 @@ O replay de 2019 do **nº 263** preserva o identificador WordPress **45611** e o
 
 A recuperação do vídeo de sprints e da fórmula escrita associada a Justin mantém o total em **5.443 caminhos com corpo editorial**. A página de sprints continua classificada como página de vídeo. A página de *Primal Stuffed Chops* já tinha sido contada pelo texto de apresentação.
 
+## Catálogos dos canais oficiais no YouTube
+
+Foram percorridas as abas de vídeos e Shorts e a lista de uploads dos canais **Mark’s Daily Apple** e **Primal Kitchen**. As abas retornaram 194 IDs no primeiro canal (179 vídeos e 15 Shorts) e 671 no segundo (323 vídeos e 348 Shorts). As 24 playlists públicas acrescentaram 14 IDs atribuídos aos próprios canais que não apareciam nas abas, dez vídeos de terceiros e 15 IDs privados ou sem atribuição confirmada. O inventário deduplicado reuniu **904 IDs**. A busca nos títulos, descrições disponíveis e resultados de pesquisa interna sinalizou **35 candidatos** de Mark’s Daily Apple e **101** de Primal Kitchen. O inventário descreve os metadados acessíveis. A confirmação de quem fala e do que foi dito depende da mídia. [Mark’s Daily Apple](https://www.youtube.com/channel/UCoRWj9kt6kmLFaSFvEhRQEw) · [Primal Kitchen](https://www.youtube.com/channel/UCuoCqAR9yuRMTSA8obY2gdw)
+
+| Vídeo | Trecho e achado |
+| --- | --- |
+| [Why Mark Supplements Collagen](https://www.youtube.com/watch?v=DKCn7PAnVqE&t=34s) | A **00:34–00:55**, relata uso de 20–40 g/dia de suplemento e melhora percebida no Aquiles. A **01:02–01:19**, diz que gosta de caldo de ossos e descreve preferir outra forma de consumo no verão. |
+| [Eat More Collagen](https://www.youtube.com/watch?v=vgr1yLjYFHM&t=20s) | A **00:20–01:57**, promove barra e pó de colágeno. A **02:01–02:16**, sugere misturar a versão sem sabor a sopa, caldo ou suco. |
+| [How to Make Collagen Coffee](https://www.youtube.com/watch?v=5jQtaZj9RL8&t=86s) | A **01:26–01:57**, usa uma medida de produto de baunilha, mistura em um pouco de café e completa com o restante. A bebida do vídeo usa café e peptídeos comerciais. |
+| [The Only Supplements Mark Sisson Takes](https://www.youtube.com/watch?v=t1nnXxpATNU&t=7s) | A **00:07–00:28**, propõe classificar colágeno como quarto macronutriente e diz usar suplemento por não tomar caldo regularmente. A classificação é proposta pessoal. |
+
 ## Resultados do Arquivo.pt
 
 A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 endereços originais. A consulta por `gelatin` devolveu 65 capturas de 47 endereços. A união, filtrada por caminhos de publicação, produziu 134 candidatos, com 22 correspondências por título ou endereço ao feed. Das 134 capturas tentadas, 130 responderam. Foi possível extrair o corpo de 126 páginas, e 28 continham ao menos um termo da triagem no corpo. Das 126, 91 tinham data editorial anterior a 18 de maio de 2012. Entre essas 91, 17 continham termos. Quatro capturas falharam na rede e quatro devolveram páginas sem corpo editorial extraível. A anotação registra o resultado da triagem automatizada. A [nota de fonte](../wiki/fontes/mark-sisson-caldo-gelatina.md) resume os textos centrais conferidos manualmente.

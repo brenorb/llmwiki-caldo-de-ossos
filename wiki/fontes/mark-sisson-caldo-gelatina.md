@@ -118,6 +118,8 @@ Em *The Genius Life* #453, Sisson volta a citar caldo de carcaça e gelatina com
 
 Em 2025, a ConsumerLab estimou **cerca de 1–6 g de colágeno por xícara de 237 mL** em dez caldos comerciais dos EUA, a partir da hidroxiprolina. Os 9 g declarados para a barra superam a faixa publicada para esse conjunto específico. O laboratório não analisou a barra nem o caldo citado por Sisson. A comparação numérica não avalia equivalência nutricional ou clínica. [Resultados e método](consumerlab-2025-caldos-comerciais.md)
 
+No áudio de Dave Asprey #314, Sisson diz que não tinha acesso regular a caldo de ossos e relata usar uma mistura de colágeno dos tipos I e II. Na entrevista #82 de Steven Gundry, descreve fundo de carcaça e gelatina entre as opções culinárias e cita 15–25 g/dia de suplemento na própria rotina. As doses são autodeclaradas. [Áudios de Asprey e Gundry](../../raw/mark-sisson-entrevistas.md#the-human-upgrade-com-dave-asprey)
+
 O [inventário dos catálogos e áudios](../../raw/mark-sisson-entrevistas.md#catálogos-oficiais-e-áudios) inclui os feeds de Primal Blueprint e Primal Kitchen. No vídeo *Talking Collagen*, Sisson descreve seu consumo de caldo quente no inverno e fala de suplemento ao relatar tendinose. [Vídeo, 05:12–09:25](https://www.youtube.com/watch?v=bCrE39DozW8&t=312s)
 
 Em vídeos oficiais, Sisson diz gostar de caldo e preferir suplemento no calor ou quando caldo não faz parte da rotina. Em outra demonstração, dissolve peptídeos de baunilha em uma pequena parte do café e completa a xícara. O vídeo de produtos sugere misturar peptídeos sem sabor a sopa ou caldo. A [triagem dos canais](../../raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-no-youtube) localiza essas falas.

@@ -607,3 +607,7 @@ O [inventário](raw/inventario-wapf-receitas.md#quatro-áudios-sobre-ingrediente
 ## [2026-11-11] revisão | Mais nove vídeos com Mark Sisson
 
 O [inventário de vídeo](raw/inventario-mark-receitas.md#catálogos-dos-canais-oficiais-no-youtube) localiza a demonstração de pré-treino, as falas sobre suplemento e os seis vídeos adicionais sem termos detectados.
+
+## [2026-11-11] ingestão | Última faixa de Asprey e duas entrevistas de Gundry
+
+O [inventário](raw/mark-sisson-entrevistas.md#the-human-upgrade-com-dave-asprey) registra a revisão integral dos quatro episódios identificados com Asprey e dos dois com Gundry. As falas sobre caldo, gelatina e suplemento têm localizadores da edição de áudio.

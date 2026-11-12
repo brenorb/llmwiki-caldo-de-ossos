@@ -4,8 +4,8 @@ Em 2026-11-11, foram buscadas transcrições em inglês que contivessem o nome d
 
 | Entrevista ou publicação | Localização e declaração |
 | --- | --- |
-| [Get Primal on Your Cardio, Dave Asprey #314](https://daveasprey.com/mark-sisson-314/1000/) | A partir de 31 min, Sisson menciona ossos e caldo como fontes alimentares e narra o alívio da dor no tendão de Aquiles após suplementação. O apresentador também descreve experiências próprias, com intervenções distintas. |
-| [The Dr. Gundry Podcast](https://drgundry.com/mark-sisson-transcript/) | De 56 a 59 min, Sisson descreve o aproveitamento da carcaça para fundo, menciona gelatina comercial com menos açúcar e defende a hipótese de que a redução do consumo de colágeno contribua para lesões tendíneas. Também informa uso pessoal de suplemento e identifica que a sua empresa o comercializa. |
+| [Get Primal on Your Cardio, Dave Asprey #314](https://daveasprey.com/mark-sisson-314/1000/) | Entre **35:01 e 36:35** no áudio do RSS, Sisson menciona ossos e caldo como fontes alimentares, relata alívio da dor no Aquiles após suplementação e diz usar uma mistura de colágeno dos tipos I e II quase diariamente, além das barras. Diz que não tinha acesso regular a caldo de ossos. A experiência com dieta muito rica em gordura e a menção a uma panela de ossos são de Asprey. |
+| [The Dr. Gundry Podcast](https://drgundry.com/mark-sisson-transcript/) | Entre **58:32 e 1h01min14s** no áudio do RSS, Sisson descreve o aproveitamento da carcaça para fundo, menciona gelatina comercial com menos açúcar e propõe que a redução do consumo de colágeno contribua para lesões tendíneas. Relata uso pessoal de **15–25 g/dia** de colágeno e identifica que a sua empresa o comercializa. O mesmo trecho aparece entre 56 e 59 min na transcrição do apresentador. |
 | [Live Fit, Ignite Change](https://livefitignitechange.com/sisson/) | De 30 a 32 min, Sisson lembra o consumo de sobremesa de gelatina e afirma que toma caldo ocasionalmente, preferindo suplemento na rotina descrita. O site identifica a transcrição como majoritariamente gerada por IA. |
 | [The Meat Mafia Podcast #176](https://themeatmafia.com/176/transcript) | De 1 h 01 a 1 h 04, Sisson descreve reaproveitar carcaças e partes restantes para caldos e afirma, como hipótese pessoal, que a redução de fontes de colágeno contribuiria para lesões esportivas. O anúncio de caldo a partir de 43 min é dos apresentadores. |
 | [Entrevista com NutraIngredients](https://www.nutraingredients.com/Article/2018/04/04/Primal-Kitchen-co-founder-Collagen-is-a-critical-component-people-have-been-omitting-from-their-diet/) | Sisson elogia o caldo e diz que buscou um produto à base de colágeno que fosse fácil de consumir diariamente. O contexto é a divulgação de suplementos da Primal Kitchen. |
@@ -109,10 +109,20 @@ Nos **606 itens** de *The Genius Life* (04/04/2018 a 11/11/2026), cinco entrevis
 
 ### The Human Upgrade com Dave Asprey
 
-A busca por Sisson nos títulos e nas descrições dos **1.624 itens** do RSS (29/08/2011 a 10/11/2026) identificou quatro entrevistas. A primeira rodada transcreveu integralmente **#101, #435 e #1287**, que somam **3h26min12s**. A faixa de #314, citada acima pela transcrição do apresentador, está em revisão. Os tempos correspondem à edição de áudio do RSS. [Feed oficial](https://rss.art19.com/human-upgrade)
+A busca por Sisson nos títulos e nas descrições dos **1.624 itens** do RSS (29/08/2011 a 10/11/2026) identificou quatro entrevistas. Foram transcritos integralmente os quatro áudios, que somam **4h36min23s**. Os tempos correspondem à edição de áudio do RSS. [Feed oficial](https://rss.art19.com/human-upgrade)
 
 | Episódio | Passagem conferida |
 | --- | --- |
 | [Bulletproof Radio #101, 05/03/2014](https://daveasprey.com/101-mark-sisson-on-the-primal-blueprint-podcast/1000/) | **1h01min50s**. A transcrição ficou sem menções detectadas a caldo, gelatina, colágeno ou glicina. |
+| [Bulletproof Radio #314, 31/05/2016](https://daveasprey.com/mark-sisson-314/) | **1h10min11s**. O trecho sobre fontes alimentares e o relato de tendinose estão descritos na tabela de entrevistas acima. A ficha do apresentador situa a abertura do tópico em 31:07, e o áudio do RSS a situa em 33:40. |
 | [Bulletproof Radio #435, 03/10/2017](https://daveasprey.com/metabolic-flexibility-fasting-sleep-fresh-look-keto-revolution-435/) | **57min32s**. A transcrição ficou sem menções detectadas aos quatro termos. |
 | [The Human Upgrade #1287, 03/06/2025](https://daveasprey.com/1287-mark-sisson-walking/) | **1h26min50s**. A **1h20min22s**, Sisson cita o colágeno entre os poucos suplementos que usa. A menção a colágeno da carne em **12:53** é de Asprey. A transcrição publicada pelo apresentador traz #1288 no nome do arquivo, enquanto a ficha e o RSS identificam #1287. [Transcrição do apresentador](https://daveasprey.com/wp-content/uploads/2025/06/EP_1288_MARK_SISSON_AUDIO.html) |
+
+### The Dr. Gundry Podcast
+
+A busca por Sisson nos títulos e nas descrições dos **658 itens** do RSS (28/08/2018 a 10/11/2026) identificou duas entrevistas. Os dois áudios foram transcritos na íntegra e somam **2h03min56s**. [Feed oficial](https://rss.art19.com/the-dr-gundry-pod)
+
+| Episódio | Passagem conferida |
+| --- | --- |
+| [The Dr. Gundry Podcast #82, 02/03/2020](https://drgundry.com/mark-sisson/) | **1h13min04s**. O trecho sobre o fundo de carcaça, a gelatina e o uso pessoal de colágeno está descrito na tabela de entrevistas acima. |
+| [The Dr. Gundry Podcast #421, 22/09/2026](https://drgundry.com/mark-sisson-born-to-walk/) | **50min52s**. A transcrição da faixa do RSS ficou sem menções detectadas a caldo, gelatina, colágeno ou glicina. Sisson cita cartilagem em **42:04** ao descrever a mecânica do corpo na marcha. |

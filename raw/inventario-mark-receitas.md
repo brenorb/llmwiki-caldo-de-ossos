@@ -693,6 +693,10 @@ As descrições individuais foram recuperadas para **138 de 138 candidatos temá
 
 O vídeo de [marshmallow da Primal Kitchen](https://www.youtube.com/watch?v=5Aj37Hxto3k&t=15s) mostra a calda em fervura e informa uma temperatura diferente da ficha escrita. A [receita na wiki](../wiki/temas/receitas-gelatina.md#marshmallow-de-gelatina-com-e-sem-açúcar) registra a divergência e uma fórmula publicada com adoçantes.
 
+Em uma segunda rodada, o acervo chegou a **75 extrações de áudio**, das quais **66** pertencem aos 138 candidatos temáticos. O inventário local passou a **97 IDs** com verificação por mídia, créditos ou descrição oficial. A captura de **29 de setembro de 2023** do Common Crawl preserva a assinatura de **Mark Sisson** no artigo de 2017 que contém a ficha de café com colágeno. O vídeo *Why Primal Kitchen?* confirma que Sisson cita barras e shakes comerciais a **00:33**, sem fornecer receita. O clipe de café com gemas mostra outra bebida. [Café republicado](https://www.goodreads.com/author/show/617812.Mark_Sisson/blog?page=175) · [Why Primal Kitchen?](https://www.youtube.com/watch?v=NUlas5HIx70&t=33s) · [Café com gemas](https://www.youtube.com/watch?v=rpln51ScuyI)
+
+As novas fichas da marca incluem [creme de caju para café e bolinhas de macadâmia com chai](../wiki/temas/aplicacoes-culinarias.md#creme-de-caju-para-café-e-bolinhas-de-macadâmia-com-chai). Ambas usam peptídeos. As receitas são da Primal Kitchen.
+
 O [fundo de carcaça de peru](../wiki/temas/receitas-caldo.md#caldo-de-carcaça-de-peru) está na ficha com crédito editorial conjunto de Primal Kitchen e Mark’s Daily Apple.
 
 ## Resultados do Arquivo.pt

@@ -695,3 +695,7 @@ A [tabela de 236 publicações](raw/cozinha-comentarios-demais-publicacoes.md) r
 ## [2026-11-11] revisão | Fontes de colágeno citadas no The Alchemist’s Library
 
 O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-alchemists-library) registra a passagem em que Sisson cita fundos, peles e gelatina e descreve o próprio uso de peptídeos com eletrólitos.
+
+## [2026-11-11] revisão | Mais vídeos da Primal Kitchen e dois usos de peptídeos
+
+O [inventário dos canais](raw/inventario-mark-receitas.md#verificação-das-descrições-e-das-mídias-sinalizadas) registra o avanço de cobertura e a assinatura de Sisson na captura original do artigo de café. As [aplicações culinárias](wiki/temas/aplicacoes-culinarias.md#creme-de-caju-para-café-e-bolinhas-de-macadâmia-com-chai) incluem creme de caju e bolinhas de macadâmia com chai.

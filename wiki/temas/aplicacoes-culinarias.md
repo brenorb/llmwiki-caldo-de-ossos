@@ -16,4 +16,11 @@ Uma base sem sal adicionado pode servir a várias preparações. Use um [fundo c
 
 Um concentrado com metade do volume final tem aproximadamente o dobro da concentração dos solutos não voláteis que permanecem na panela. Exemplo: reduzindo 1 L a 500 mL, 125 mL de concentrado mais 125 mL de água reconstituem 250 mL na concentração original desses solutos. Aromas, gordura retirada e perdas durante o preparo podem alterar o resultado. Identifique porções congeladas com o tipo de caldo, data e fator de redução. Veja [composição e variabilidade](composicao.md) e [conservação](seguranca-conservacao.md).
 
+## Creme de caju para café e bolinhas de macadâmia com chai
+
+São dois usos de peptídeos em receitas da Primal Kitchen. A textura do creme vem da castanha batida. A das bolinhas vem das macadâmias processadas e resfriadas.
+
+- **Creme de caju para café.** Deixe **½ xícara de castanha de caju crua** de molho na geladeira de um dia para o outro. Escorra e enxágue. Bata por cerca de **2 min** com **360 mL de água nova**, **1 medida de peptídeos sem sabor**, **1 colher de sopa de mel** e uma pitada de sal. A marca indica **6 porções**. Para reduzir o açúcar adicionado, dispense o mel ou use adoçante a gosto. Os carboidratos da castanha permanecem. [Ficha](https://www.primalkitchen.com/blogs/recipes/creamy-cashew-collagen-creamer) · [Demonstração](https://www.youtube.com/watch?v=MuouvRsTH0s&t=34s)
+- **Bolinhas de macadâmia com chai.** Pulse **1½ xícara de macadâmias cruas sem sal**, **1 medida da mistura de chai com peptídeos** e uma pitada de sal até obter uma massa grossa. Forme **10–12 bolinhas** e congele por **30 min**. Passe em adoçante de fruto-do-monge em pó misturado com canela, cravo, gengibre e pimenta-do-reino. Confira o rótulo da mistura de chai e do adoçante para ajustar os carboidratos. [Demonstração, 00:05–01:24](https://www.youtube.com/watch?v=5PzFeC12aXQ&t=5s)
+
 Veja também as [receitas com gelatina e caldo neutro](receitas-gelatina.md).

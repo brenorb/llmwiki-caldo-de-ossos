@@ -611,3 +611,7 @@ O [inventário de vídeo](raw/inventario-mark-receitas.md#catálogos-dos-canais-
 ## [2026-11-11] ingestão | Última faixa de Asprey e duas entrevistas de Gundry
 
 O [inventário](raw/mark-sisson-entrevistas.md#the-human-upgrade-com-dave-asprey) registra a revisão integral dos quatro episódios identificados com Asprey e dos dois com Gundry. As falas sobre caldo, gelatina e suplemento têm localizadores da edição de áudio.
+
+## [2026-11-11] revisão | Duas entrevistas integrais de Sisson com Joe Rogan
+
+O [inventário](raw/mark-sisson-entrevistas.md#the-joe-rogan-experience) registra as duas faixas identificadas no catálogo e a fala de 2016 sobre colágeno e soro do leite em uma barra.

@@ -126,3 +126,12 @@ A busca por Sisson nos títulos e nas descrições dos **658 itens** do RSS (28/
 | --- | --- |
 | [The Dr. Gundry Podcast #82, 02/03/2020](https://drgundry.com/mark-sisson/) | **1h13min04s**. O trecho sobre o fundo de carcaça, a gelatina e o uso pessoal de colágeno está descrito na tabela de entrevistas acima. |
 | [The Dr. Gundry Podcast #421, 22/09/2026](https://drgundry.com/mark-sisson-born-to-walk/) | **50min52s**. A transcrição da faixa do RSS ficou sem menções detectadas a caldo, gelatina, colágeno ou glicina. Sisson cita cartilagem em **42:04** ao descrever a mecânica do corpo na marcha. |
+
+### The Joe Rogan Experience
+
+A busca por Sisson nos títulos e nas descrições dos **2.780 itens** do RSS (24/12/2009 a 11/11/2026) identificou duas entrevistas. Os dois áudios foram transcritos na íntegra e somam **5h35min17s**. As marcas abaixo seguem a faixa do RSS, que inclui inserções diferentes da edição em vídeo. [Feed oficial](https://feeds.megaphone.fm/GLT1412515089)
+
+| Episódio | Passagem conferida |
+| --- | --- |
+| [The Joe Rogan Experience #752, 26/01/2016](https://www.youtube.com/watch?v=Nwd6InD2nDk&t=6705s) | **2h41min11s**. A **1h53min16s** no áudio do RSS, Sisson diz que uma barra recém-lançada continha colágeno e proteína isolada do soro do leite de vacas alimentadas com capim. A fala ocorre em torno de **1h51min45s** no vídeo. Sisson não especifica a quantidade de colágeno nessa passagem. |
+| [The Joe Rogan Experience #1624, 26/03/2021](https://podcasts.apple.com/ie/podcast/1624-mark-sisson/id360084272?i=1000644539341) | **2h54min06s**. A transcrição ficou sem menções detectadas a caldo, gelatina, colágeno ou glicina. |

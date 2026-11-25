@@ -877,3 +877,8 @@ A [ficha de panela lenta](wiki/temas/receitas-caldo.md#frango-na-panela-lenta-e-
 ## [2026-11-25] revisão | Mais 20 corpos editoriais e torta com gelatina
 
 O [segundo corte de 20 receitas](raw/wapf-leitura-receitas-mais20-2026-11-25.json) é disjunto do primeiro. O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-outras-subcategorias-de-recipe-of-the-week) incorpora a torta de banana antes citada só em raw e o serviço de patê no caldo, com adaptações de carboidratos identificadas como não testadas. A leitura editorial continua separada de imagens, comentários e mídias.
+
+
+## [2026-11-25] revisão | Mais 40 textos do canal e prévia visual do livro
+
+Os cortes de [27](raw/youtube-mda-leitura-27-2026-11-25.json) e [13](raw/youtube-mda-leitura-13-2026-11-25.json) chegam a 78 textos novos lidos, com disjunção dos lotes conferida. A [prévia visual de 2010](wiki/temas/receitas-mark-sisson.md#página-parcial-na-divulgação-de-2010) localiza caldo de frango em uma receita parcialmente visível, sem equivaler à íntegra do livro. Atribuições individuais e limites de reconhecimento permanecem no inventário.

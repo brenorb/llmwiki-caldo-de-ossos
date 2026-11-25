@@ -49,6 +49,10 @@ A orientação geral do livro de Sisson e Jennifer Meier, no trecho digital PT32
 
 Na ficha *Sausage Stew*, p. **111–113**, o livro descreve um fundo rápido como alternativa para o ensopado de linguiça. Ferva a água, acrescente **um pé de porco partido ou um jarrete suíno** e **15 mL de vinagre de maçã**, baixe o fogo e deixe **45–60 min destampado**. Use esse líquido no ensopado no lugar do caldo bovino ou de frango. O ensopado rende **6–8 porções**. O rendimento do fundo fica em aberto. [Prévia, título e localização da ficha](https://books.google.com.br/books?id=poS2EAAAQBAJ&jscmd=SearchWithinVolume2&q=sausage+stew) · [Prévia, preparo e rendimento em PT186–190](https://books.google.com.br/books?id=poS2EAAAQBAJ&jscmd=SearchWithinVolume2&q=pig+foot)
 
+### Página parcial na divulgação de 2010
+
+O vídeo de divulgação de *The Primal Blueprint Cookbook*, de Sisson e Jennifer Meier, mostra **Transylvanian Stockpot** com **3 cups de caldo de frango** e **seis porções**, a **00:34,5**. A parte inferior da página está fora da imagem; ingredientes, preparo e carboidratos completos permanecem sem confirmação. A página de *Cauliflower Rice* menciona servir com caldo ou molho, sem tipo ou quantidade. É outra edição/contexto de acesso, separado das prévias de 2018 acima. [Vídeo primário](https://www.youtube.com/watch?v=cHep3Ths5AE&t=34s) · [Método e limites](../../raw/inventario-mark-receitas.md#terceiro-lote-amplo-27-textos-e-uma-revisão-visual-separada)
+
 ## Sopas de Primal Blueprint Quick & Easy Meals
 
 A prévia digital de Mark Sisson e Jennifer Meier confirma as quantidades de fundo de frango em três sopas. As xícaras da edição foram convertidas para mililitros. A prévia disponibiliza trechos dos métodos. [Catálogo da edição digital](https://play.google.com/store/books/details/Jennifer_Meier_Primal_Blueprint_Quick_and_Easy_Mea?id=Gm2_EQAAQBAJ)

@@ -832,3 +832,8 @@ O [corte por ID](raw/youtube-mda-leitura-24-2026-11-25.json) preserva a leitura 
 ## [2026-11-25] ingestão | Mais 18 faixas e revisão espanhola integral
 
 O [corte de áudio](raw/wapf-corte-audio-2026-11-25-18-guids.json) chega a 127/237 EN e 64/189 ES, preservando a diferença entre transcrição integral e leitura contextual. O [inventário](raw/inventario-wapf-receitas.md#corte-congelado-de-dezoito-guids-em-25-de-novembro) localiza relatos e usos culinários; a [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md#relatos-e-recomendações-no-novo-corte-de-áudio) incorpora os episódios 27, 52, 131 e 142. A [comparação CDC/NHS](wiki/fontes/cdc-nhs-gestacao.md) contextualiza as afirmações sobre pré-natal. A revisão Ultra integral ES187/188 está concluída e documentada no [suplemento](raw/wapf-episodios-suplementares-2026-11-25.json), com limitações preservadas.
+
+
+## [2026-11-25] revisão | Anúncio de barras e nove encerramentos de receitas
+
+O [registro de 11 vídeos](raw/youtube-encerramentos-11-2026-11-25.tsv) confirma a atribuição de Sisson no anúncio de 8,5 g de colágeno por barra e preserva a distinção frente aos 15 g de proteína do rótulo. Os nove encerramentos não revelaram medidas omitidas além da cobertura de coco sem dose já mencionada no texto do pudim. O [catálogo](wiki/temas/receitas-peptideos.md) incorpora essa cobertura e explica por que último início de segmento não mede fala cortada.

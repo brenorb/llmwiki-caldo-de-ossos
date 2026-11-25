@@ -3,6 +3,7 @@
 Caldo de ossos é uma família de preparações aquosas com ossos e quantidades variáveis de carne, cartilagem, pele e outros ingredientes. Na prática culinária, a fronteira com fundos de carne e de aves é fluida. Ao comparar receitas ou estudos, identifique a matéria-prima, o método, o volume final e a porção.
 
 - **Para cozinhar:** [receitas de caldo](wiki/temas/receitas-caldo.md), [gelatinas e adaptações low carb](wiki/temas/receitas-gelatina.md), [ingredientes](wiki/temas/ingredientes.md), [preparo](wiki/temas/preparo.md), [aplicações culinárias](wiki/temas/aplicacoes-culinarias.md).
+- **Para ampliar o repertório:** [Mark’s Daily Apple](wiki/temas/receitas-mark-sisson.md), [catálogo WAPF com adaptações](wiki/temas/receitas-wapf-catalogo.md), [receitas com peptídeos](wiki/temas/receitas-peptideos.md) e [manteigas, cremes e sorvetes de tutano](wiki/temas/receitas-tutano.md).
 - **Para guardar e reaquecer:** [segurança e conservação](wiki/temas/seguranca-conservacao.md).
 - **Para interpretar rótulos e estudos:** [composição](wiki/temas/composicao.md), [colágeno e gelatina](wiki/temas/colageno-gelatina.md), [alegações de saúde](wiki/temas/alegacoes-saude.md).
 - **Para conferir quantidades por preparo:** [tabela de componentes](wiki/temas/componentes-por-caldo.md).

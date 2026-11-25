@@ -59,3 +59,8 @@ A [busca de dietoterapia chinesa](../raw/busca-medicina-chinesa.md) indica o alc
 O [estudo de costela agridoce de Hoh et al.](fontes/hoh-1934-costela-agridoce.md) informa as massas de cálcio e fósforo no líquido e na carne. O [carrossel do Cozinha de Pedra](fontes/cozinha-de-pedra-caldo.md) cita essa preparação no contexto do uso de vinagre. O [resumo de Rosen et al.](fontes/rosen-1994-calcio-caldo.md) documenta a comparação de pH e cálcio em preparos de 24 h.
 
 O [relatório público do ConsumerLab](fontes/consumerlab-2025-caldos-comerciais.md) estima colágeno por hidroxiprolina em dez produtos comerciais. A [tabela de composição](temas/componentes-por-caldo.md) preserva a porção e o método.
+
+
+## Relato de caldo após exposição ao frio
+
+A história do episódio 185 da WAPF é um depoimento de terceira pessoa sobre um conjunto de práticas. O [ensaio de ducha fria](fontes/buijze-2016-ducha-fria.md) é evidência indireta para discutir a exposição ao frio. A [matriz por desfecho](temas/relatos-e-evidencia.md) preserva a população, a intervenção e o desfecho estudados.

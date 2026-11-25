@@ -737,3 +737,8 @@ A [ficha de chili branco](wiki/temas/receitas-caldo.md#chili-branco-de-frango-na
 ## [2026-11-25] revisão | Acesso público ao Cozinha de Pedra após a pausa
 
 A [reconsulta](raw/busca-receitas-relatos.md#reconsulta-pública-em-25-de-novembro-de-2026) confirmou a legenda acessível, a exigência de login ao carregar comentários e a persistência do erro no vídeo inicial da gelatina de coco.
+
+
+## [2026-11-25] revisão | Seis faixas preservadas da WAPF e relato sobre frio
+
+O [inventário de áudio](raw/inventario-wapf-receitas.md#retomada-de-áudio-em-25-de-novembro-de-2026) registra a cobertura e a revisão pendente do reconhecimento em espanhol. A [matriz](wiki/temas/relatos-e-evidencia.md) contextualiza a história sobre crianças, chá e caldo e o [ensaio de ducha fria](wiki/fontes/buijze-2016-ducha-fria.md) acompanha a correção publicada.

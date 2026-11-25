@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-25",
+  "scope": "Conferência de três referências principais e uma referência adicional da cadeia Sulfur Deficiency/WAPF, mais páginas institucionais TH/TYR.",
+  "access_scope": {
+    "main_studies": "Três resumos completos e metadados, sem texto integral.",
+    "additional_study": "Cho (1999): resumo para identificar o objeto da referência 7.",
+    "institutional_pages": "MedlinePlus TH e TYR, leitura integral.",
+    "wapf_page": "Passagem e bibliografia localizadas, não nova certificação de leitura do corpo inteiro por este registro."
+  },
+  "archive": "Cópias e manifesto de 17 arquivos no acervo separado; nomes abaixo são localizadores de auditoria, não arquivos públicos neste repo.",
+  "physical_verification": "Root conferiu os 17 arquivos do manifesto por bytes/SHA256.",
+  "access_records": [
+    {
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A4122+AND+SRC%3AMED&format=json&resultType=core",
+      "accessed_utc": "2026-11-25T23:05:58.599098+00:00",
+      "status": 200,
+      "resolved_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A4122+AND+SRC%3AMED&format=json&resultType=core",
+      "content_type": "application/json;charset=UTF-8",
+      "file": "raw/katz-1976-europepmc.json",
+      "bytes": 5111,
+      "sha256": "f00a5c29179c7d5f8574880cd047309eae91d073264a8313e5ee7f324c8cea64"
+    },
+    {
+      "url": "https://api.crossref.org/works/10.1016%2F0005-2744%2876%2990032-2",
+      "accessed_utc": "2026-11-25T23:05:58.599775+00:00",
+      "status": 200,
+      "resolved_url": "https://api.crossref.org/works/10.1016%2F0005-2744%2876%2990032-2",
+      "content_type": "application/json",
+      "file": "raw/katz-1976-crossref.json",
+      "bytes": 7187,
+      "sha256": "d28401b10f6f1d59f9a4f9d1dd3ba0c1548056a28f15ec0caf3198d1dbc1cd6e"
+    },
+    {
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19610593+AND+SRC%3AMED&format=json&resultType=core",
+      "accessed_utc": "2026-11-25T23:05:58.600019+00:00",
+      "status": 200,
+      "resolved_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19610593+AND+SRC%3AMED&format=json&resultType=core",
+      "content_type": "application/json;charset=UTF-8",
+      "file": "raw/chu-2009-europepmc.json",
+      "bytes": 5972,
+      "sha256": "a3316d574688ad0a4a9c71bdd9d6a1f8a3048b50cd5ba32aeda3e79c16dec1ae"
+    },
+    {
+      "url": "https://api.crossref.org/works/10.1021%2Fjf9005824",
+      "accessed_utc": "2026-11-25T23:05:58.600175+00:00",
+      "status": 200,
+      "resolved_url": "https://api.crossref.org/works/10.1021%2Fjf9005824",
+      "content_type": "application/json",
+      "file": "raw/chu-2009-crossref.json",
+      "bytes": 10666,
+      "sha256": "ba8bc9050bfb7d96e343e8a9831fc8aa3aad400873e60deddad0da2517515409"
+    },
+    {
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A8128228+AND+SRC%3AMED&format=json&resultType=core",
+      "accessed_utc": "2026-11-25T23:05:58.600290+00:00",
+      "status": 200,
+      "resolved_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A8128228+AND+SRC%3AMED&format=json&resultType=core",
+      "content_type": "application/json;charset=UTF-8",
+      "file": "raw/schallreuter-1994-europepmc.json",
+      "bytes": 6331,
+      "sha256": "28456da8a2eb52fa71a203ce65adf29798b16bf60a35b6b463e5e2d9d10ad240"
+    },
+    {
+      "url": "https://api.crossref.org/works/10.1126%2Fscience.8128228",
+      "accessed_utc": "2026-11-25T23:05:59.271649+00:00",
+      "status": 200,
+      "resolved_url": "https://api.crossref.org/works/10.1126%2Fscience.8128228",
+      "content_type": "application/json",
+      "file": "raw/schallreuter-1994-crossref.json",
+      "bytes": 9881,
+      "sha256": "e4fcceefbb739d1efb89fdd8a600e73057435ff35054921843992b69e4f2ef45"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/0005274476900322",
+      "accessed_utc": "2026-11-25T23:05:59.273084+00:00",
+      "status": 403
+    },
+    {
+      "url": "https://pubs.acs.org/doi/abs/10.1021/jf9005824",
+      "accessed_utc": "2026-11-25T23:05:59.537132+00:00",
+      "status": 403
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/science.8128228",
+      "accessed_utc": "2026-11-25T23:05:59.726717+00:00",
+      "status": 403
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/gene/th/",
+      "accessed_utc": "2026-11-25T23:05:59.782465+00:00",
+      "status": 200,
+      "resolved_url": "https://medlineplus.gov/genetics/gene/th/",
+      "content_type": "text/html",
+      "file": "raw/medlineplus-th.html",
+      "bytes": 31581,
+      "sha256": "b9929c93f7649d8d3546e9dd813ef6d15c4a006f629b9f14f4c2cf7b9c15ed66"
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/gene/tyr/",
+      "accessed_utc": "2026-11-25T23:05:59.993541+00:00",
+      "status": 200,
+      "resolved_url": "https://medlineplus.gov/genetics/gene/tyr/",
+      "content_type": "text/html",
+      "file": "raw/medlineplus-tyr.html",
+      "bytes": 29715,
+      "sha256": "9c7d19c3ab1b76205ef6feec7715606bd727ac6421a4a678f7771b60e657b4fe"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/abcs-of-nutrition/sulfur-deficiency/",
+      "accessed_utc": "2026-11-25T23:07:09.118682+00:00",
+      "status": 200,
+      "resolved_url": "https://www.westonaprice.org/health-topics/abcs-of-nutrition/sulfur-deficiency/",
+      "content_type": "text/html; charset=UTF-8",
+      "file": "raw/wapf-sulfur-deficiency.html",
+      "bytes": 540795,
+      "sha256": "c1d53b9c21e668560ac837b9e0e0caf19f736966d5ccfa852a45c8eb6b18c241"
+    },
+    {
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A10333495+AND+SRC%3AMED&format=json&resultType=core",
+      "accessed_utc": "2026-11-25T23:07:09.119420+00:00",
+      "status": 200,
+      "resolved_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A10333495+AND+SRC%3AMED&format=json&resultType=core",
+      "content_type": "application/json;charset=UTF-8",
+      "file": "raw/cho-1999-europepmc.json",
+      "bytes": 6832,
+      "sha256": "53c706ad2e7999aad0751dbce2a5c38f923918449bfe5deb66acb22baa4f49d2"
+    },
+    {
+      "url": "https://api.elsevier.com/content/article/PII:0005274476900322?httpAccept=text/xml",
+      "accessed_utc": "2026-11-25T23:07:09.119584+00:00",
+      "status": 200,
+      "resolved_url": "https://api.elsevier.com/content/article/PII:0005274476900322?httpAccept=text/xml",
+      "content_type": "text/xml;charset=UTF-8",
+      "file": "raw/katz-1976-api.xml",
+      "bytes": 1854,
+      "sha256": "10f3cba113d7d7e8d781c4733ba59a3c0ae62c736f673b4b7f91f4cf99b54095"
+    },
+    {
+      "url": "https://pubs.acs.org/doi/pdf/10.1021/jf9005824",
+      "accessed_utc": "2026-11-25T23:07:09.119713+00:00",
+      "status": 403
+    },
+    {
+      "url": "https://www.science.org/doi/pdf/10.1126/science.8128228",
+      "accessed_utc": "2026-11-25T23:07:09.119823+00:00",
+      "status": 403
+    }
+  ],
+  "archive_manifest": [
+    {
+      "arquivo": "acessos-complementares.json",
+      "bytes": "1892",
+      "sha256": "5d115ae5505232a255582f2199f467f75882337acd97ddd48672a6e7e4f4f163"
+    },
+    {
+      "arquivo": "acessos.json",
+      "bytes": "4299",
+      "sha256": "2024de2ce8fa574abd7d189e6acea8be956a6d7877d336263d47e274ef102a9c"
+    },
+    {
+      "arquivo": "buscas-e-acesso-web.json",
+      "bytes": "2849",
+      "sha256": "f68e3287bf25fa19cf6b39471f43355ad53219c27483cd360598d48e5b9c1295"
+    },
+    {
+      "arquivo": "obter-complementos.py",
+      "bytes": "1910",
+      "sha256": "abbbb86948b3f70810d64074f93a97dae41958aae93ed317977047522d23947c"
+    },
+    {
+      "arquivo": "obter-registros.py",
+      "bytes": "2298",
+      "sha256": "823d20470d36e0d9f4926e2f27ebb4b0a7e25cfdcdf9eadc4e357226bfae7449"
+    },
+    {
+      "arquivo": "parecer.md",
+      "bytes": "7859",
+      "sha256": "e4ecc98c95aada698b7687068c9a62acd05dac7395f38d656562f2247b43214d"
+    },
+    {
+      "arquivo": "raw/cho-1999-europepmc.json",
+      "bytes": "6832",
+      "sha256": "53c706ad2e7999aad0751dbce2a5c38f923918449bfe5deb66acb22baa4f49d2"
+    },
+    {
+      "arquivo": "raw/chu-2009-crossref.json",
+      "bytes": "10666",
+      "sha256": "ba8bc9050bfb7d96e343e8a9831fc8aa3aad400873e60deddad0da2517515409"
+    },
+    {
+      "arquivo": "raw/chu-2009-europepmc.json",
+      "bytes": "5972",
+      "sha256": "a3316d574688ad0a4a9c71bdd9d6a1f8a3048b50cd5ba32aeda3e79c16dec1ae"
+    },
+    {
+      "arquivo": "raw/katz-1976-api.xml",
+      "bytes": "1854",
+      "sha256": "10f3cba113d7d7e8d781c4733ba59a3c0ae62c736f673b4b7f91f4cf99b54095"
+    },
+    {
+      "arquivo": "raw/katz-1976-crossref.json",
+      "bytes": "7187",
+      "sha256": "d28401b10f6f1d59f9a4f9d1dd3ba0c1548056a28f15ec0caf3198d1dbc1cd6e"
+    },
+    {
+      "arquivo": "raw/katz-1976-europepmc.json",
+      "bytes": "5111",
+      "sha256": "f00a5c29179c7d5f8574880cd047309eae91d073264a8313e5ee7f324c8cea64"
+    },
+    {
+      "arquivo": "raw/medlineplus-th.html",
+      "bytes": "31581",
+      "sha256": "b9929c93f7649d8d3546e9dd813ef6d15c4a006f629b9f14f4c2cf7b9c15ed66"
+    },
+    {
+      "arquivo": "raw/medlineplus-tyr.html",
+      "bytes": "29715",
+      "sha256": "9c7d19c3ab1b76205ef6feec7715606bd727ac6421a4a678f7771b60e657b4fe"
+    },
+    {
+      "arquivo": "raw/schallreuter-1994-crossref.json",
+      "bytes": "9881",
+      "sha256": "e4fcceefbb739d1efb89fdd8a600e73057435ff35054921843992b69e4f2ef45"
+    },
+    {
+      "arquivo": "raw/schallreuter-1994-europepmc.json",
+      "bytes": "6331",
+      "sha256": "28456da8a2eb52fa71a203ce65adf29798b16bf60a35b6b463e5e2d9d10ad240"
+    },
+    {
+      "arquivo": "raw/wapf-sulfur-deficiency.html",
+      "bytes": "540795",
+      "sha256": "c1d53b9c21e668560ac837b9e0e0caf19f736966d5ccfa852a45c8eb6b18c241"
+    }
+  ],
+  "searches": {
+    "data": "2026-11-25",
+    "ferramenta": "web.run, sem navegador interativo",
+    "consultas_representativas_executadas": [
+      "\"Activation of tyrosine hydroxylase by polyanions and salts\"",
+      "\"Effects of Selected Organo-sulfur Compounds on Melanin Formation\"",
+      "\"Regulation of melanin biosynthesis in the human epidermis by tetrahydrobiopterin\"",
+      "\"jf9005824\" pdf",
+      "\"Regulation of melanin biosynthesis in the human epidermis by tetrahydrobiopterin\" filetype:pdf",
+      "\"Effects of Selected Organo-sulfur\" site:edu.tw",
+      "\"Effects of Selected Organo-sulfur Compounds\" \"Chia Nan\" repository",
+      "\"Regulation of Melanin Biosynthesis\" site:bradscholars.brad.ac.uk",
+      "\"Activation of tyrosine hydroxylase by polyanions\" site:sciencedirect.com/science/article/abs/pii/",
+      "\"Activation of tyrosine hydroxylase by polyanions and salts\" correction retraction",
+      "\"Effects of selected organo-sulfur compounds on melanin formation\" correction retraction",
+      "\"Regulation of melanin biosynthesis in the human epidermis by tetrahydrobiopterin\" erratum retraction",
+      "\"8128228\" \"retraction\"",
+      "\"8128228\" site:science.org retraction correction erratum",
+      "\"Sulfur Deficiency\" Seneff chondroitin 18",
+      "site:medlineplus.gov/genetics/gene/th/ tyrosine hydroxylase catecholamines",
+      "site:medlineplus.gov/genetics/gene/tyr/ tyrosinase melanin"
+    ],
+    "observacoes": [
+      "Resultados secundários serviram somente para descoberta de localizadores; resultados científicos provêm dos resumos originais republicados por indexadores institucionais e das páginas editoriais.",
+      "Nenhuma cópia integral dos três estudos foi localizada em repositório legítimo acessível.",
+      "Este registro não representa uma busca sistemática universal de condroitina e pigmentação."
+    ],
+    "acs_financiamento": {
+      "url": "https://pubs.acs.org/doi/abs/10.1021/jf9005824",
+      "acesso": "texto da página oficial indexado pelo mecanismo de busca, lido com web.run; abertura direta403",
+      "instituicao": "National Science Council of the Republic of China",
+      "grant": "NSC 96-2313-B-041-001-MY3",
+      "indice_pagina": "Available to Purchase",
+      "partes_lidas": "metadados editoriais, autores, resumo completo e financiamento; sem métodos/tabelas"
+    },
+    "localizador_wapf": {
+      "url": "https://www.westonaprice.org/health-topics/abcs-of-nutrition/sulfur-deficiency/",
+      "secao": "parágrafo que contém Furthermore, it has been shown",
+      "sobrescritos": [
+        "7 para supressão de melanina",
+        "18 para aumento por condroitina",
+        "33 para papel de BH4"
+      ],
+      "bibliografia": [
+        "7=Cho1999",
+        "10=Chu2009",
+        "18=Katz1976",
+        "33=Schallreuter1994"
+      ],
+      "nota": "conferência localizada, não nova leitura integral do ensaio WAPF"
+    }
+  },
+  "editorial_integrity": "Nenhuma correção/retração específica localizada nos registros EuropePMC/Crossref e consultas descritas; verificação limitada, não garantia de ausência definitiva.",
+  "synthesis": "wiki/fontes/seneff-2011-cadeia-melanina.md",
+  "limits": "Métodos, amostras, controles, tabelas e declarações de conflitos inacessíveis não foram inferidos; referências citadas não foram todas lidas."
+}

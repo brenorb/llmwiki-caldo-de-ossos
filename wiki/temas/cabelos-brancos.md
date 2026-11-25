@@ -20,6 +20,10 @@ As quantidades se referem às amostras e porções indicadas. Dada a pequena qua
 
 Nos comentários do Cozinha de Pedra, uma pessoa sugeriu ácido fólico e a autora respondeu que investigaria a hipótese. A indicação a Peter Liu não identificava o vídeo. Em um texto de 2020, Liu divulga comparações fotográficas e uma fórmula comercial com **metilfolato, vitamina B6 e vitamina B12**. Em outro, mostra um depoimento de uso do suplemento. Essas publicações não apresentam grupo comparador nem dados que permitam atribuir o resultado a uma vitamina. As exposições descritas são suplementos. [Conversa no perfil](../fontes/cozinha-de-pedra-caldo.md#comentários-sobre-cabelo-e-colágeno) · [Publicação de Liu de 2020](https://www.peterliu.com.br/site/blog/7/2020/07/formula-do-rejuvenescimento-e-renovacao-celular---acido-folico-e-metilfolato/) · [Publicação de 2022](https://www.peterliu.com.br/site/blog/61/2022/09/metilfolato%3A-como-ele-ajuda-a-reverter-cabelos-brancos-e-prevenir-o-envelhecimento-precoce/)
 
+## Condroitina e referências sobre melanina
+
+A [conferência das referências citadas pela WAPF](../fontes/seneff-2011-cadeia-melanina.md) distingue enzimas, resultados experimentais e desfechos clínicos. Os resumos consultados não descrevem tratamento com caldo, B9 ou condroitina oral para recuperar a cor dos cabelos. Os originais integrais permanecem indisponíveis.
+
 ## O que já foi observado em humanos
 
 - **Repigmentação de segmentos novos.** No estudo de 397 fios de 14 pessoas, alguns fios voltaram a crescer com pigmento. A parte branca já formada ficou registrada no mesmo fio. Em casos selecionados, a mudança coincidiu com variações autorrelatadas de estresse. O estudo não administrou caldo, cobre ou outro tratamento. [Rosenberg et al.](../fontes/rosenberg-2021-repigmentacao.md)

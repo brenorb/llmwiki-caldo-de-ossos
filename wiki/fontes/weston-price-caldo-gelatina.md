@@ -167,3 +167,8 @@ O [registro por página](../../raw/wapf-health-leitura-50-2026-11-25.tsv) compro
 - [Support for Pediatric Cancer](https://www.westonaprice.org/health-topics/modern-diseases/support-pediatric-cancer/) reproduz via *Life Extension, 2005* narrativa de medula de bezerro, sem amostra/dose/desenho detalhados. Não foi caldo como intervenção; as sugestões alimentares do artigo não demonstram efeito oncológico.
 
 Os [métodos culinários incorporados](../temas/receitas-wapf-catalogo.md#complementos-de-artigos-reconsultados-integralmente) têm medidas, adaptações e lacunas próprias. Nenhuma das afirmações acima foi elevada a benefício comprovado.
+
+
+## Condroitina e a cadeia de referências de Sulfur Deficiency
+
+A [conferência bibliográfica](seneff-2011-cadeia-melanina.md) preserva a alegação, o objeto real da referência 18 e a divergência entre sobrescrito 7 e item 10. Resumos e metadados sustentam a distinção de objetos; o texto integral dos três estudos principais não foi obtido. Essa cadeia não foi usada como comprovação clínica de repigmentação pelo caldo.

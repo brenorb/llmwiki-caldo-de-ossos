@@ -96,3 +96,5 @@ Em [EN165](../raw/wapf-revisao-en165-2026-11-25.json), a comparação de um reco
 O [registro de Oyster Nutrition](../raw/oyster-nutrition-acesso-2026-11-25.json) sustenta uma [nota de relato comercial](fontes/oyster-nutrition-2025-relato.md), classificada separadamente dos ensaios e do caldo.
 
 A [reconsulta de 50 artigos health](../raw/wapf-health-leitura-50-2026-11-25.tsv) tem hashes físicos e faixas completas por URL. É prova de corpo editorial lido, sem validar aconselhamento clínico/sanitário ou conferir leitura a referências externas. Os complementos culinários e resumos secundários permanecem classificados separadamente.
+
+A [cadeia condroitina/melanina](fontes/seneff-2011-cadeia-melanina.md) é conferência de resumos/metadados e nomenclatura institucional. A distinção entre objeto, enzima e desfecho é explícita; acesso parcial não foi apresentado como leitura de métodos completos ou prova clínica. [Registro](../raw/condroitina-melanina-acesso-2026-11-25.json)

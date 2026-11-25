@@ -23,3 +23,7 @@ A [nota institucional](../wiki/fontes/cdc-nhs-gestacao.md) contextualiza afirma�
 
 
 A [nova versão integral de ES145](wapf-revisao-ultra-quatro-2026-11-25.json), lida por inteiro em 25/11/2026, registra B6/B12/B9 a 18:17–18:33 e mais fala sobre marcadores a 24:42–26:28. A referência continua sendo homocisteína, sem folato medido no caldo ou repigmentação. O erro B2C da versão anterior e um novo artefato de repetição permanecem registrados, sem correção silenciosa ou alegação de transcrição perfeita.
+
+### [2026-11-25] Referências de condroitina e melanina
+
+A [conferência da cadeia citada por Seneff](../wiki/fontes/seneff-2011-cadeia-melanina.md) e seu [registro de acesso](condroitina-melanina-acesso-2026-11-25.json) identificam enzimas e objetos distintos. Os resumos não foram tratados como ensaios de B9/caldo para repigmentação, e o acesso integral aos três estudos principais permanece pendente.

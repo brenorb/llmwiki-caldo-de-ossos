@@ -957,3 +957,8 @@ A [nota de Oyster Nutrition](wiki/fontes/oyster-nutrition-2025-relato.md), com [
 ## [2026-11-25] revisão | Cinquenta artigos health reconsultados integralmente
 
 O [registro de 50 páginas](raw/wapf-health-leitura-50-2026-11-25.tsv) e o [resumo](raw/wapf-health-leitura-50-2026-11-25.json) preservam 5.074 linhas e 1.161.584 caracteres lidos, com hashes e faixas conferidos. Os [complementos de receitas](wiki/temas/receitas-wapf-catalogo.md#complementos-de-artigos-reconsultados-integralmente) incluem medidas e lacunas; a [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#reconsulta-integral-de-50-artigos-health) distingue resumos históricos e alegações de ensaios do caldo. A reconsulta não significa 50 achados inéditos ou leitura do site inteiro.
+
+
+## [2026-11-25] revisão | Condroitina, melanina e referências incompatíveis
+
+A [nota comparativa](wiki/fontes/seneff-2011-cadeia-melanina.md) identifica os objetos de três estudos principais e uma referência adicional, com acesso explícito aos resumos. O [registro](raw/condroitina-melanina-acesso-2026-11-25.json) preserva tentativas, hashes físicos, checagem editorial limitada e lacunas de métodos/financiamento. A síntese foi ligada à página de canície e à matriz de evidência, sem converter mecanismos em dose ou resultado clínico do caldo.

@@ -969,3 +969,9 @@ O [registro posterior](youtube-mda-drew-2026-11-25.json) acrescenta **48min09,86
 ### Retomada da execução após interrupção confirmada
 
 Depois desses cortes, a observação da execução antiga deixou de existir e o PID também estava ausente. A checagem não encontrou filho ativo para a mídia em curso e confirmou o lock disponível. A rotina retomável foi reiniciada com **41 itens pendentes**, preservando estados, mídias, logs e resultados concluídos; a gravação em curso voltou ao processamento integral. A nova sessão retornou a contagem da fila e continua sem timeout por mídia. Isso não é um corte de novas leituras nem conclusão dos 41 itens.
+
+## Nove textos posteriores ao corte de118
+
+O [registro novo](youtube-mda-pos118-9-2026-11-25.json) reúne nove IDs exatos, lidos em três faixas exclusivas: **5.640 linhas/548.615 caracteres**,39 partes contíguas, anúncios e encerramentos incluídos. O root conferiu18 hashes físicos de TXT original/congelado, faixas1–fim e os hashes dos oito registros públicos anteriores. Os nove IDs são disjuntos dos118 anteriores: **127 textos incrementais comprovados**, sem confundir essa soma com todo o acervo histórico.
+
+O único núcleo pertinente é o [relato de Al Danenberg](../wiki/fontes/mark-sisson-caldo-gelatina.md#al-danenberg-rabada-caldo-e-alternativa-com-peptídeos), entrevistado por Elle Russ. Não há receita medida ou efeito isolado do caldo. Os outros oito TXT são negativos para os temas neste corte; publicidade de osso/medula e café como exemplo criticado não viraram receitas de caldo. Créditos/contexto sustentam atribuição, sem diarização ou audição humana; últimos timestamps são inícios de segmentos, sem garantir cada palavra final. A fila ASR posterior continua separada da leitura aqui comprovada.

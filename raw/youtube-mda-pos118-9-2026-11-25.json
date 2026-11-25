@@ -1,0 +1,1092 @@
+{
+  "date": "2026-11-25",
+  "scope": "Nove textos ASR adicionais integralmente lidos após o corte 118; correspondência exata com corte-fixo-9.json; nenhum ID de lote posterior.",
+  "method": "Três leitores com faixas exclusivas; leitura sequencial de todas as linhas, incluindo anúncios, apartes, promoções e finais. Consolidação valida hashes físicos, faixas contíguas e inventário.",
+  "previous_frozen_fully_read": 118,
+  "new_transcripts_fully_read": 9,
+  "combined_new_transcripts_fully_read": 127,
+  "count_statement": "118 + 9 = 127 textos incrementais comprovados; não é o corpus histórico total.",
+  "lines_total": 5640,
+  "characters_total": 548615,
+  "read_parts_total": 39,
+  "ids": [
+    "l3-tAStLJyg",
+    "6EwbDMf6gfE",
+    "D3Nwk_ldse0",
+    "8pI3jrNPclw",
+    "14C6Cs3V0Po",
+    "VCZUzij78W0",
+    "sqwIYC8Q-C0",
+    "6lOp0HPPegQ",
+    "jBmtSzRv5sE"
+  ],
+  "cut_manifest": {
+    "name": "corte-fixo-9.json",
+    "sha256": "98896dd4f870944abc2b4416caa660ec9768d47fbd4f645f6f8ce4cf12429a7e"
+  },
+  "source_ledgers": [
+    {
+      "name": "ledger-primeiros-3.json",
+      "sha256": "6c5df5559ae4b24cd4147c395c2895316cf2831ff9606ca782ad86186d23ab00"
+    },
+    {
+      "name": "ledger-faixa-meio-3.json",
+      "sha256": "05e850acb1305dff8ee434b7445caaea0005d9aac6fb4ba779c96f1ed6f79ae4"
+    },
+    {
+      "name": "ledger-faixa-fim-3.json",
+      "sha256": "5d316df751df37faefc5d7ddd2ce2c3047db252cb3205d57b298ee0c3187d105"
+    }
+  ],
+  "prior_raw_inventory": [
+    {
+      "name": "youtube-mda-leitura-13-2026-11-25.json",
+      "sha256": "649b31d4cd9f5c98b9988b047553cf39a83175e88f2be24aaec3a39d2d5cf42d",
+      "fully_read_text_count": 13,
+      "ids": [
+        "aVW1vXEvPeY",
+        "YRddIb6qWZk",
+        "hAhCweMfrF8",
+        "xK-eaiF7cIY",
+        "Hl7XQllTLZU",
+        "D36N4MDxkjY",
+        "sCAyFZpsNXk",
+        "vrY5_t-x4B0",
+        "PJZDRdwaKUg",
+        "NA6b7ExQYFo",
+        "1A0msu0FDl8",
+        "UayvOd0xlAU",
+        "OMe9zAqxwX0"
+      ]
+    },
+    {
+      "name": "youtube-mda-leitura-14-2026-11-25.json",
+      "sha256": "694993e85e458fcc2f97bf40ff6e735b23c77afd20d004b16e9c57d931213bf3",
+      "fully_read_text_count": 14,
+      "ids": [
+        "PE5OzCyrKgA",
+        "MbWv6DLatto",
+        "dV128EwP8s4",
+        "FxQXRGmJdvk",
+        "3pE00qEyibU",
+        "NJg5t_Oi-BM",
+        "Falc3P_8Gzg",
+        "PxGdKAWQcw0",
+        "6j6ms3NtvjI",
+        "eQmr00vQ5gI",
+        "osTO5dAZj3Y",
+        "9kPoLeiKt3c",
+        "If-eKAahxu8",
+        "B4ZYkTPdWMA"
+      ]
+    },
+    {
+      "name": "youtube-mda-leitura-24-2026-11-25.json",
+      "sha256": "f0cd703fd0b62d8152629c5e2e3a322acd67002702d9f61f45040b55e618de24",
+      "fully_read_text_count": 24,
+      "ids": [
+        "II7uGNiXq2k",
+        "-74LKg1-p5c",
+        "jZIQMe7KyAE",
+        "mhU4aK5MEJk",
+        "vF8YUqHMFtk",
+        "TRUGjM8j6a8",
+        "0fpdmkIr8hY",
+        "0Xz20vedDvc",
+        "n_DdvxWFDxU",
+        "GDHzUovkwxQ",
+        "Ag6cXv569N0",
+        "jQnOBS4mKLg",
+        "LeMwUx_2HZg",
+        "F6vYPQciO2g",
+        "SOGodhBRxHA",
+        "Vemc4DrA-88",
+        "aQbI7tFlY5s",
+        "oU188so9cjc",
+        "4ucSmGtdKZE",
+        "gXMyl7kw1gY",
+        "k-i1F52g5L0",
+        "jj_kGB7396w",
+        "ufZF3jt95go",
+        "LsrvhpXTjxA"
+      ]
+    },
+    {
+      "name": "youtube-mda-leitura-26-2026-11-25.json",
+      "sha256": "410efc143b583c30e08f455e3d46924ef22974482e6a30e40ea9000b6f0bccfa",
+      "fully_read_text_count": 26,
+      "ids": [
+        "_bA0KsvpZaU",
+        "_vLXc-DCrqU",
+        "egyyMBhoC00",
+        "xK1tY13Eqek",
+        "KdEAOQYxccM",
+        "4bYxDcyoTpA",
+        "7KFlg5hLma8",
+        "2YogM9wXAJg",
+        "8nNP62RBm74",
+        "rlzQf9mZDKg",
+        "Tdg8pSgaeZ4",
+        "ximZfmqh2hI",
+        "76HjVOoUX6U",
+        "GrHG7m4m4-A",
+        "nXpO2_LG-zA",
+        "HNRiFnyqTxQ",
+        "RRDC8erSNqw",
+        "2ALvlfrSjJI",
+        "NTneiCjZYs4",
+        "gsUL3a1CxUQ",
+        "DOFd5v_wf6M",
+        "oTr7Xc2Jzik",
+        "QAxttAxwEBo",
+        "QkC3rJzh5CU",
+        "ifF85u3X-jQ",
+        "ZufVOE3Ghd0"
+      ]
+    },
+    {
+      "name": "youtube-mda-leitura-27-2026-11-25.json",
+      "sha256": "e6a7f094ebf67af1e83fdb348fc69cbba9497fc555636928274459c1300294e6",
+      "fully_read_text_count": 27,
+      "ids": [
+        "60JqWVwj4x8",
+        "MQX3Il2siXI",
+        "m2Gnxcktkeg",
+        "7F0-yWZ_Q1g",
+        "hdSeBtlM3zE",
+        "7etPgrbc25U",
+        "BnRzivtzXHw",
+        "GIxYjDc_MDY",
+        "Mpo61LLcfIM",
+        "tpQVHjHmus4",
+        "n34a7RLk1_o",
+        "JTMTZDDmUkM",
+        "bA6J7TVYDq8",
+        "ilPcvZqPYlE",
+        "qBBMzeFr38M",
+        "3ktRmhr2IWE",
+        "_YhXdMOWTQM",
+        "4HnT3YgOKcQ",
+        "NI_Xtk46gsI",
+        "PzHJTyaBz1g",
+        "slR0Nweib34",
+        "rjwnSuhLXx0",
+        "_xWx4X5IwZ8",
+        "2ZB5hDEHHGE",
+        "d7rIzLKYvXU",
+        "sP8FIf5-i3g",
+        "uvXR-4sNbM8"
+      ]
+    },
+    {
+      "name": "youtube-mda-leitura-4-2026-11-25.json",
+      "sha256": "0d098cf375e16dfd59f723f3f9c81db421951665e1dd2ec5534daa3325542883",
+      "fully_read_text_count": 4,
+      "ids": [
+        "-IPPwBc3GLw",
+        "82IhJWTAE2o",
+        "LM_Tkhh25Do",
+        "F3Q2uKcQOYo"
+      ]
+    },
+    {
+      "name": "youtube-mda-leitura-9-2026-11-25.json",
+      "sha256": "8be9002e360c59c1755b47d6207a0348027142cccc1eb0772ed7055ff7149894",
+      "fully_read_text_count": 9,
+      "ids": [
+        "lV6WCbO2abg",
+        "UJVQhVg6jIs",
+        "5iB0YXzVSPs",
+        "BsBlEkMX0iw",
+        "x3kGLJSRmBU",
+        "r9w-VCI3k0U",
+        "WU2Z4LGOMOk",
+        "w5vSZDxNCxQ",
+        "997Y9uMgIlo"
+      ]
+    },
+    {
+      "name": "youtube-mda-drew-2026-11-25.json",
+      "sha256": "4f12e7b5ee42f058ddbd45933061aa9202913627a962ab6ed0fbe984a82401cc",
+      "fully_read_text_count": 1,
+      "ids": [
+        "IU5rmyeycJo"
+      ]
+    }
+  ],
+  "checks": {
+    "fixed_cut_id_count": 9,
+    "fixed_cut_ids_exact_match": true,
+    "prior_raw_file_count": 8,
+    "prior_fully_read_row_count": 118,
+    "prior_fully_read_distinct_id_count": 118,
+    "new_distinct_id_count": 9,
+    "new_vs_prior_fully_read_intersection": [],
+    "new_vs_all_ids_in_prior_raw_intersection": [],
+    "prior_raw_hashes_match_fixed_cut": true,
+    "transcript_hashes_match_fixed_cut": true,
+    "new_read_ledger_ids_pairwise_disjoint": true,
+    "new_batch_scope_excludes_later_asr": true
+  },
+  "rows": [
+    {
+      "id": "l3-tAStLJyg",
+      "title": "Melinda Wittstock | Inspired Business and Serial Entrepreneurship",
+      "url": "https://www.youtube.com/watch?v=l3-tAStLJyg",
+      "upload_date": "20210308",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "channel": "Mark's Daily Apple",
+      "asr_model": "parakeet-v3-int8",
+      "asr_completed_log": true,
+      "full_text_read": true,
+      "read_status": "TXT_integral_lido",
+      "lines_total": 548,
+      "characters": 55803,
+      "text_coverage_percent": 100,
+      "transcript_sha256": "72ec3af5946564fe39898af248e185f9a186cbbe04e00913fda21ded1b665d2b",
+      "source_and_frozen_hash_match": true,
+      "state_sha256": "cf258be71200884082391251986e01a4c7fda9811a0ff92b5b7d17555b974074",
+      "log_sha256": "97643ef64ee0056bf2b703dbcb330814caacf9194bf67fc0dc7f061330298d42",
+      "metadata_sha256": "bf8a5150bd2dd83fc677521d2d9e512798ea54ecbb573b4bc2ce920227dbbf40",
+      "physical_hashes_match_fixed_cut": true,
+      "read_parts": [
+        {
+          "start_line_inclusive": 1,
+          "end_line_inclusive": 125,
+          "first_timestamp": "00:00:04",
+          "last_timestamp": "00:11:51",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "cc70fd0a9dda9ee8af9345d787a5bb092cebb13992a091a74dfb35a2c0cb49d6",
+          "checkpoint_next_line": 126,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 126,
+          "end_line_inclusive": 250,
+          "first_timestamp": "00:11:58",
+          "last_timestamp": "00:22:37",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "e997edbb2e784d87d84a8624228ad3aed67073301b0a12ff2e428353e2a32ec4",
+          "checkpoint_next_line": 251,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 251,
+          "end_line_inclusive": 375,
+          "first_timestamp": "00:22:43",
+          "last_timestamp": "00:33:23",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "cf321ab7bf80a0c6fbbcc9a2401874b11c16c799bb1e2405033cf6f61260e3b0",
+          "checkpoint_next_line": 376,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 376,
+          "end_line_inclusive": 500,
+          "first_timestamp": "00:33:28",
+          "last_timestamp": "00:45:04",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "262d69ba354d1973ef14eb32c6cae904b9882086cf8c35d17447cc371540dce3",
+          "checkpoint_next_line": 501,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 501,
+          "end_line_inclusive": 548,
+          "first_timestamp": "00:45:04",
+          "last_timestamp": "00:47:53",
+          "lines_read": 48,
+          "sha256_utf8_exact_range": "1f326d028ffd432d92f0990c60ccda9624eefb4bab8ab7d2a8e3cc7319e39973",
+          "checkpoint_next_line": 549,
+          "status": "TXT_lido_sem_truncamento"
+        }
+      ],
+      "checkpoint_next_line": 549,
+      "speaker_basis": "Créditos locais e contexto textual identificam Elle Russ e Melinda Wittstock; sem diarização acústica. Mark Sisson não identificado como falante direto no TXT.",
+      "topic": "Empreendedorismo, podcasting e confiança.",
+      "focus_result": {
+        "caldo_de_ossos": "não encontrado no TXT integral",
+        "colageno": "não encontrado no TXT integral",
+        "gelatina": "não encontrada no TXT integral",
+        "repigmentacao_capilar": "não encontrada no TXT integral",
+        "receita_de_caldo_com_medidas": "não encontrada no TXT integral"
+      },
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 2873,
+      "duration_decoded_seconds": 2902.361,
+      "seconds_after_last_segment_start": 29.361,
+      "timestamp_quality": {
+        "backward_steps": 6,
+        "largest_forward_gap_seconds": 42,
+        "gaps_over_45_seconds": []
+      },
+      "audio_listened": false,
+      "video_visually_reviewed": false
+    },
+    {
+      "id": "6EwbDMf6gfE",
+      "title": "Logan Ury | How to Not Die Alone",
+      "url": "https://www.youtube.com/watch?v=6EwbDMf6gfE",
+      "upload_date": "20210719",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "channel": "Mark's Daily Apple",
+      "asr_model": "parakeet-v3-int8",
+      "asr_completed_log": true,
+      "full_text_read": true,
+      "read_status": "TXT_integral_lido",
+      "lines_total": 677,
+      "characters": 63699,
+      "text_coverage_percent": 100,
+      "transcript_sha256": "90c6ca76f151bd5d8c160be5abbb481ef9f8b0ecab1f0a7899ed95da8283d4f7",
+      "source_and_frozen_hash_match": true,
+      "state_sha256": "098b4cdb0905ac33da9287a814141946cd442a250246f8cfbd1c23c92178e21f",
+      "log_sha256": "0172bdf98e2d75c3efaa22912c257d3b995ec6f14428c783d7136bdb01a0bd1b",
+      "metadata_sha256": "f687fe9b95b3074b4e09e6ab2d727fdf9887e1f6063117bdfebc6c020a855137",
+      "physical_hashes_match_fixed_cut": true,
+      "read_parts": [
+        {
+          "start_line_inclusive": 1,
+          "end_line_inclusive": 125,
+          "first_timestamp": "00:00:04",
+          "last_timestamp": "00:09:24",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "8935930cd4ba772dcafe8ec88e1bd1197f8230b43c883366ede494ad3e503630",
+          "checkpoint_next_line": 126,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 126,
+          "end_line_inclusive": 250,
+          "first_timestamp": "00:09:39",
+          "last_timestamp": "00:18:38",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "3b13307b63b6a933ff94dab03110f3743601fadfc5d4acdb32c4133e54b3faaf",
+          "checkpoint_next_line": 251,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 251,
+          "end_line_inclusive": 375,
+          "first_timestamp": "00:18:38",
+          "last_timestamp": "00:27:39",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "84f4fe87f964e321ed121dd5e5c09125f2eb9b89dd9f17b116540964aca59af4",
+          "checkpoint_next_line": 376,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 376,
+          "end_line_inclusive": 500,
+          "first_timestamp": "00:27:42",
+          "last_timestamp": "00:36:45",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "266bd9855d4e59130eff593c2bddbd8c6eae6b37985a06b3de9792e0e7eb4a68",
+          "checkpoint_next_line": 501,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 501,
+          "end_line_inclusive": 625,
+          "first_timestamp": "00:36:47",
+          "last_timestamp": "00:45:10",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "7c6c5845eeb203d958c808b2fa225bea283a5648d7cee5bfda44a6d0fffa6611",
+          "checkpoint_next_line": 626,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 626,
+          "end_line_inclusive": 677,
+          "first_timestamp": "00:45:09",
+          "last_timestamp": "00:48:26",
+          "lines_read": 52,
+          "sha256_utf8_exact_range": "54900490f946b6424cc9272a8d8697e7c52597d474b1532c1d29e8e151e23817",
+          "checkpoint_next_line": 678,
+          "status": "TXT_lido_sem_truncamento"
+        }
+      ],
+      "checkpoint_next_line": 678,
+      "speaker_basis": "Créditos locais e contexto textual identificam Elle Russ e Logan Ury; sem diarização acústica. Mark Sisson não identificado como falante direto no TXT.",
+      "topic": "Relacionamentos, namoro e decisões.",
+      "focus_result": {
+        "caldo_de_ossos": "não encontrado no TXT integral",
+        "colageno": "não encontrado no TXT integral",
+        "gelatina": "não encontrada no TXT integral",
+        "repigmentacao_capilar": "não encontrada no TXT integral",
+        "receita_de_caldo_com_medidas": "não encontrada no TXT integral"
+      },
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 2906,
+      "duration_decoded_seconds": 2936.981,
+      "seconds_after_last_segment_start": 30.981,
+      "timestamp_quality": {
+        "backward_steps": 7,
+        "largest_forward_gap_seconds": 23,
+        "gaps_over_45_seconds": []
+      },
+      "audio_listened": false,
+      "video_visually_reviewed": false
+    },
+    {
+      "id": "D3Nwk_ldse0",
+      "title": "Wade Lightheart & Matt Gallant",
+      "url": "https://www.youtube.com/watch?v=D3Nwk_ldse0",
+      "upload_date": "20210322",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "channel": "Mark's Daily Apple",
+      "asr_model": "parakeet-v3-int8",
+      "asr_completed_log": true,
+      "full_text_read": true,
+      "read_status": "TXT_integral_lido",
+      "lines_total": 631,
+      "characters": 59891,
+      "text_coverage_percent": 100,
+      "transcript_sha256": "baf56ba07af80989aad62be75ab8d8892b2635bff5a728f98288ea259e67a5b1",
+      "source_and_frozen_hash_match": true,
+      "state_sha256": "4c8bee81612a3150ddb9690a60e82d33908086a1b7cfa92218eb35e688081efc",
+      "log_sha256": "cd6eeec410151bd0af5507ef4ef2ca6e790330c3614cc2cefd0b0ecaf09c063a",
+      "metadata_sha256": "13c4f98cd8bde1a98f1cc4d3f70d1b4f99c9d38cd6b43ff177f5546211af912e",
+      "physical_hashes_match_fixed_cut": true,
+      "read_parts": [
+        {
+          "start_line_inclusive": 1,
+          "end_line_inclusive": 125,
+          "first_timestamp": "00:00:04",
+          "last_timestamp": "00:08:28",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "433440a43236f9e831a5f0a7c2cd3bd2e911571f3cb4f48c197f62ee0d5ab690",
+          "checkpoint_next_line": 126,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 126,
+          "end_line_inclusive": 250,
+          "first_timestamp": "00:08:38",
+          "last_timestamp": "00:19:42",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "f7379e6876b3873e1f2c9bbf880cdc0f12eb88ae0baff15eb791ed3e2b31b59f",
+          "checkpoint_next_line": 251,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 251,
+          "end_line_inclusive": 375,
+          "first_timestamp": "00:19:48",
+          "last_timestamp": "00:28:58",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "a7856088e69df1b6ae181ee5796ef11fd212f9e1cac0d75243bcba408c88a510",
+          "checkpoint_next_line": 376,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 376,
+          "end_line_inclusive": 500,
+          "first_timestamp": "00:29:06",
+          "last_timestamp": "00:40:26",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "1422db1c033c6386f82032db608d7760fee692ab857ba972609f6a5e75e1eada",
+          "checkpoint_next_line": 501,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 501,
+          "end_line_inclusive": 625,
+          "first_timestamp": "00:40:31",
+          "last_timestamp": "00:49:26",
+          "lines_read": 125,
+          "sha256_utf8_exact_range": "96aa0c12247a1b04ef59200ca7fb0882a3e32353c790d463460fb512df3000a2",
+          "checkpoint_next_line": 626,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 626,
+          "end_line_inclusive": 631,
+          "first_timestamp": "00:49:27",
+          "last_timestamp": "00:49:33",
+          "lines_read": 6,
+          "sha256_utf8_exact_range": "10088ddef7d44233804029057fa9d544316d8b735c4ec841be30a75afb3c8a87",
+          "checkpoint_next_line": 632,
+          "status": "TXT_lido_sem_truncamento"
+        }
+      ],
+      "checkpoint_next_line": 632,
+      "speaker_basis": "Créditos locais e contexto textual identificam Elle Russ e Wade Lightheart e Matt Gallant; sem diarização acústica. Mark Sisson não identificado como falante direto no TXT.",
+      "topic": "Entrevista promocional sobre magnésio, enzimas, probióticos e nootrópicos.",
+      "focus_result": {
+        "caldo_de_ossos": "não encontrado no TXT integral",
+        "colageno": "não encontrado no TXT integral",
+        "gelatina": "não encontrada no TXT integral",
+        "repigmentacao_capilar": "não encontrada no TXT integral",
+        "receita_de_caldo_com_medidas": "não encontrada no TXT integral"
+      },
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 2973,
+      "duration_decoded_seconds": 3003.201,
+      "seconds_after_last_segment_start": 30.201,
+      "timestamp_quality": {
+        "backward_steps": 4,
+        "largest_forward_gap_seconds": 25,
+        "gaps_over_45_seconds": []
+      },
+      "audio_listened": false,
+      "video_visually_reviewed": false
+    },
+    {
+      "id": "8pI3jrNPclw",
+      "title": "Al Danenberg | Unconventional Cancer Protocols",
+      "url": "https://www.youtube.com/watch?v=8pI3jrNPclw",
+      "upload_date": "20210315",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "channel": "Mark's Daily Apple",
+      "asr_model": "parakeet-v3-int8",
+      "asr_completed_log": true,
+      "full_text_read": true,
+      "read_status": "TXT_integral_lido",
+      "lines_total": 623,
+      "characters": 52834,
+      "text_coverage_percent": 100,
+      "transcript_sha256": "6d28e5c4c28fc65ab19b0987dd95fd9b5afd73f390d693674ef649d6da3a19fb",
+      "source_and_frozen_hash_match": true,
+      "state_sha256": "2196aca7bc227f39e622fe903391daf4fd53e238e8c7146b86281c29c2c0a51d",
+      "log_sha256": "9d5b66530ef8b555c36200d3830c52eab65abd1522af8f249ba4e68d5d48ab70",
+      "metadata_sha256": "c881d1c635b40d4172772ddbce4678654b0442f6de663de1521b9d3269f6be0a",
+      "physical_hashes_match_fixed_cut": true,
+      "read_parts": [
+        {
+          "start_line_inclusive": 1,
+          "end_line_inclusive": 160,
+          "first_timestamp": "00:00:04",
+          "last_timestamp": "00:13:05",
+          "lines_read": 160,
+          "sha256_utf8_exact_range": "3e7e8b2c30dc30dac7ffed3587875ec1284b2d4e015c892fa1ad289ed9172e17",
+          "checkpoint_next_line": 161,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 161,
+          "end_line_inclusive": 320,
+          "first_timestamp": "00:13:07",
+          "last_timestamp": "00:24:01",
+          "lines_read": 160,
+          "sha256_utf8_exact_range": "403b45526928e00c98197ec07eda525f46e63006f9c3f970889310f5edd30bc1",
+          "checkpoint_next_line": 321,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 321,
+          "end_line_inclusive": 480,
+          "first_timestamp": "00:24:09",
+          "last_timestamp": "00:36:33",
+          "lines_read": 160,
+          "sha256_utf8_exact_range": "afae714f6b0c6e40ebb392d3c7933911198b18e06d762075af4970d72ca2b186",
+          "checkpoint_next_line": 481,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 481,
+          "end_line_inclusive": 623,
+          "first_timestamp": "00:36:33",
+          "last_timestamp": "00:49:45",
+          "lines_read": 143,
+          "sha256_utf8_exact_range": "03e2358e5bef9a0e3bedd38b408c7fccfd5744f57d49ab5ed06cc9d32ca399d7",
+          "checkpoint_next_line": 624,
+          "status": "TXT_lido_sem_truncamento"
+        }
+      ],
+      "checkpoint_next_line": 624,
+      "speaker_basis": "Créditos locais e contexto textual identificam Elle Russ e Al Danenberg; sem diarização acústica. Mark Sisson não identificado como falante direto no TXT.",
+      "topic": "Relato pessoal sobre práticas alimentares; único achado pertinente a caldo e colágeno neste lote.",
+      "focus_result": {
+        "caldo_de_ossos": "positivo, relato pessoal; ver achado único de Al",
+        "colageno": "positivo, relato pessoal; ver achado único de Al",
+        "gelatina": "não encontrada no TXT integral",
+        "repigmentacao_capilar": "não encontrada no TXT integral",
+        "receita_de_caldo_com_medidas": "não encontrada no TXT integral"
+      },
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 2985,
+      "duration_decoded_seconds": 3015.221,
+      "seconds_after_last_segment_start": 30.221,
+      "timestamp_quality": {
+        "backward_steps": 4,
+        "largest_forward_gap_seconds": 54,
+        "gaps_over_45_seconds": [
+          {
+            "line_before": 270,
+            "start_before": "00:19:58",
+            "start_after": "00:20:48",
+            "gap_seconds": 50
+          },
+          {
+            "line_before": 377,
+            "start_before": "00:28:31",
+            "start_after": "00:29:25",
+            "gap_seconds": 54
+          }
+        ]
+      },
+      "audio_listened": false,
+      "video_visually_reviewed": false
+    },
+    {
+      "id": "14C6Cs3V0Po",
+      "title": "Bret Lockett | Life After Professional Football",
+      "url": "https://www.youtube.com/watch?v=14C6Cs3V0Po",
+      "upload_date": "20201221",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "channel": "Mark's Daily Apple",
+      "asr_model": "parakeet-v3-int8",
+      "asr_completed_log": true,
+      "full_text_read": true,
+      "read_status": "TXT_integral_lido",
+      "lines_total": 586,
+      "characters": 64384,
+      "text_coverage_percent": 100,
+      "transcript_sha256": "f9ae800f5a04d52d9179eaa0e62f167aef4d08aa75183aa61b66102b42980b9a",
+      "source_and_frozen_hash_match": true,
+      "state_sha256": "33c74d90acffca5dab96df9679772045253b33116491717ca45c0e388e95c5f5",
+      "log_sha256": "0366bec08d4c59283e8c40e10b9002d1f9a61973ccba207d4a3f008b05f784d1",
+      "metadata_sha256": "8335b8e6b0ccf507e13fd3e6c89e2d485be856db656eaa71ef56594529e0a7b0",
+      "physical_hashes_match_fixed_cut": true,
+      "read_parts": [
+        {
+          "start_line_inclusive": 1,
+          "end_line_inclusive": 150,
+          "first_timestamp": "00:00:06",
+          "last_timestamp": "00:13:20",
+          "lines_read": 150,
+          "sha256_utf8_exact_range": "b7a89edb9200c2044e03e7b571b727daffc4fb36723277b9fb4c1c8bc0673c7f",
+          "checkpoint_next_line": 151,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 151,
+          "end_line_inclusive": 300,
+          "first_timestamp": "00:13:29",
+          "last_timestamp": "00:25:22",
+          "lines_read": 150,
+          "sha256_utf8_exact_range": "adf8035aba4a4dddbb2c3ac82e4646d531d651b70c5b7ca903f58b919916ef9a",
+          "checkpoint_next_line": 301,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 301,
+          "end_line_inclusive": 450,
+          "first_timestamp": "00:25:26",
+          "last_timestamp": "00:39:43",
+          "lines_read": 150,
+          "sha256_utf8_exact_range": "693a3d22ae88fc36463c4c97c6ea5da0398da5053d57ea65e60368dbbaaac85c",
+          "checkpoint_next_line": 451,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 451,
+          "end_line_inclusive": 586,
+          "first_timestamp": "00:39:47",
+          "last_timestamp": "00:49:51",
+          "lines_read": 136,
+          "sha256_utf8_exact_range": "a1661894d935c96e16a28e5c0cdca4fe4af92abb91b7b428d63cd21c4bb07956",
+          "checkpoint_next_line": 587,
+          "status": "TXT_lido_sem_truncamento"
+        }
+      ],
+      "checkpoint_next_line": 587,
+      "speaker_basis": "Créditos locais e contexto textual identificam Elle Russ e Bret Lockett; sem diarização acústica. Mark Sisson não identificado como falante direto no TXT.",
+      "topic": "NFL, carreira, empreendedorismo e confiança.",
+      "focus_result": {
+        "caldo_de_ossos": "não encontrado no TXT integral",
+        "colageno": "não encontrado no TXT integral",
+        "gelatina": "não encontrada no TXT integral",
+        "repigmentacao_capilar": "não encontrada no TXT integral",
+        "receita_de_caldo_com_medidas": "não encontrada no TXT integral"
+      },
+      "first_segment_start_seconds": 6,
+      "last_segment_start_seconds": 2991,
+      "duration_decoded_seconds": 3020.141,
+      "seconds_after_last_segment_start": 29.141,
+      "timestamp_quality": {
+        "backward_steps": 5,
+        "largest_forward_gap_seconds": 52,
+        "gaps_over_45_seconds": [
+          {
+            "line_before": 128,
+            "start_before": "00:10:39",
+            "start_after": "00:11:31",
+            "gap_seconds": 52
+          },
+          {
+            "line_before": 168,
+            "start_before": "00:14:58",
+            "start_after": "00:15:46",
+            "gap_seconds": 48
+          }
+        ]
+      },
+      "audio_listened": false,
+      "video_visually_reviewed": false
+    },
+    {
+      "id": "VCZUzij78W0",
+      "title": "Drew Manning | Fit2Fat2Forty",
+      "url": "https://www.youtube.com/watch?v=VCZUzij78W0",
+      "upload_date": "20210301",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "channel": "Mark's Daily Apple",
+      "asr_model": "parakeet-v3-int8",
+      "asr_completed_log": true,
+      "full_text_read": true,
+      "read_status": "TXT_integral_lido",
+      "lines_total": 718,
+      "characters": 67166,
+      "text_coverage_percent": 100,
+      "transcript_sha256": "6fdf2263813449251cac1b111c8c75309af8c6d02c024b40109994c565d02457",
+      "source_and_frozen_hash_match": true,
+      "state_sha256": "71763bc81c0dea3a7f02fd80a81e69c6da7f2fe10b2399fcb14d77a24a44180f",
+      "log_sha256": "def9d31c9256904f873077673edcf3f0b7a60ab06feae45a877ab2452ba3920b",
+      "metadata_sha256": "eaa07b5386b9947717f0648af2402dc6b3b1867dfd342bc7118a60e0f0e27823",
+      "physical_hashes_match_fixed_cut": true,
+      "read_parts": [
+        {
+          "start_line_inclusive": 1,
+          "end_line_inclusive": 150,
+          "first_timestamp": "00:00:04",
+          "last_timestamp": "00:10:21",
+          "lines_read": 150,
+          "sha256_utf8_exact_range": "35d8538df66a11d9adb321436f4d3c8736b8a146d9804e71d8783ef7fb7e2aac",
+          "checkpoint_next_line": 151,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 151,
+          "end_line_inclusive": 300,
+          "first_timestamp": "00:10:24",
+          "last_timestamp": "00:20:44",
+          "lines_read": 150,
+          "sha256_utf8_exact_range": "73b029efc536847b26352963cfe2e8d7a60b1355a210bf67e8eb2e04a721ae92",
+          "checkpoint_next_line": 301,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 301,
+          "end_line_inclusive": 450,
+          "first_timestamp": "00:20:45",
+          "last_timestamp": "00:32:10",
+          "lines_read": 150,
+          "sha256_utf8_exact_range": "59d1e9ff132c9933dad6eb81f6bf1ca4a6bb8368ae70afc3dd6715ea66ba87a8",
+          "checkpoint_next_line": 451,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 451,
+          "end_line_inclusive": 600,
+          "first_timestamp": "00:32:12",
+          "last_timestamp": "00:42:22",
+          "lines_read": 150,
+          "sha256_utf8_exact_range": "505d9bcac6e4031a5587c89a3db373bc338febb8ce3cada2734d70c63da2b1d9",
+          "checkpoint_next_line": 601,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 601,
+          "end_line_inclusive": 718,
+          "first_timestamp": "00:42:28",
+          "last_timestamp": "00:49:50",
+          "lines_read": 118,
+          "sha256_utf8_exact_range": "42e62a3beb7768295666caf02728e93208c83faa7e713ef73e7de0a61808394d",
+          "checkpoint_next_line": 719,
+          "status": "TXT_lido_sem_truncamento"
+        }
+      ],
+      "checkpoint_next_line": 719,
+      "speaker_basis": "Créditos locais e contexto textual identificam Elle Russ e Drew Manning; sem diarização acústica. Mark Sisson não identificado como falante direto no TXT.",
+      "topic": "Ganho/perda voluntários de peso, dietas, marcadores e alimentação emocional.",
+      "focus_result": {
+        "caldo_de_ossos": "não encontrado no TXT integral",
+        "colageno": "não encontrado no TXT integral",
+        "gelatina": "não encontrada no TXT integral",
+        "repigmentacao_capilar": "não encontrada no TXT integral",
+        "receita_de_caldo_com_medidas": "não encontrada no TXT integral"
+      },
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 2990,
+      "duration_decoded_seconds": 3025.021,
+      "seconds_after_last_segment_start": 35.021,
+      "timestamp_quality": {
+        "backward_steps": 7,
+        "largest_forward_gap_seconds": 43,
+        "gaps_over_45_seconds": []
+      },
+      "audio_listened": false,
+      "video_visually_reviewed": false
+    },
+    {
+      "id": "sqwIYC8Q-C0",
+      "title": "Diane Forster | Intentional Living and Re-Invention",
+      "url": "https://www.youtube.com/watch?v=sqwIYC8Q-C0",
+      "upload_date": "20210215",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "channel": "Mark's Daily Apple",
+      "asr_model": "parakeet-v3-int8",
+      "asr_completed_log": true,
+      "full_text_read": true,
+      "read_status": "TXT_integral_lido",
+      "lines_total": 640,
+      "characters": 57258,
+      "text_coverage_percent": 100,
+      "transcript_sha256": "01d3416161ad174065c5dc1689a59b621e5c507f623e8fc88b70ec3173e83be0",
+      "source_and_frozen_hash_match": true,
+      "state_sha256": "8abbcc5eb5d534ab0ae77159a9b1d0c4b227b5f245a92578c714309d5cd2f1fd",
+      "log_sha256": "bad09dd00bc7ebe3b96e30af8e2e29765fc1d9988e911a93c51f7777685822f4",
+      "metadata_sha256": "512af7611c55e9eb2f7ea16d05cb94371b0514a984a2ba683fcfa741ce9095e9",
+      "physical_hashes_match_fixed_cut": true,
+      "read_parts": [
+        {
+          "start_line_inclusive": 1,
+          "end_line_inclusive": 220,
+          "first_timestamp": "00:00:04",
+          "last_timestamp": "00:18:50",
+          "lines_read": 220,
+          "sha256_utf8_exact_range": "7a6f0d83d90235a77aed36b878dfcb4e42065b66591ac8b626e3aae83288ae76",
+          "checkpoint_next_line": 221,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 221,
+          "end_line_inclusive": 440,
+          "first_timestamp": "00:18:56",
+          "last_timestamp": "00:35:43",
+          "lines_read": 220,
+          "sha256_utf8_exact_range": "fb088814c7b2f40a5529c7e676e401f75c89f4264673e7fda94d828fd93f74a6",
+          "checkpoint_next_line": 441,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 441,
+          "end_line_inclusive": 640,
+          "first_timestamp": "00:35:47",
+          "last_timestamp": "00:50:06",
+          "lines_read": 200,
+          "sha256_utf8_exact_range": "9acd708cd8162b9c3be440e7b2a4b50c81f24e4adaf17df6a82a136e4b5f91ca",
+          "checkpoint_next_line": 641,
+          "status": "TXT_lido_sem_truncamento"
+        }
+      ],
+      "checkpoint_next_line": 641,
+      "speaker_basis": "Créditos locais e contexto textual identificam Elle Russ e Diane Forster; sem diarização acústica. Mark Sisson não identificado como falante direto no TXT.",
+      "topic": "Reinvenção, coaching, perdão e manifestação.",
+      "focus_result": {
+        "caldo_de_ossos": "não encontrado no TXT integral",
+        "colageno": "não encontrado no TXT integral",
+        "gelatina": "não encontrada no TXT integral",
+        "repigmentacao_capilar": "não encontrada no TXT integral",
+        "receita_de_caldo_com_medidas": "não encontrada no TXT integral"
+      },
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3006,
+      "duration_decoded_seconds": 3037.641,
+      "seconds_after_last_segment_start": 31.641,
+      "timestamp_quality": {
+        "backward_steps": 5,
+        "largest_forward_gap_seconds": 49,
+        "gaps_over_45_seconds": [
+          {
+            "line_before": 342,
+            "start_before": "00:29:17",
+            "start_after": "00:30:06",
+            "gap_seconds": 49
+          }
+        ]
+      },
+      "audio_listened": false,
+      "video_visually_reviewed": false
+    },
+    {
+      "id": "6lOp0HPPegQ",
+      "title": "Brad Kearns | Two Meals A Day",
+      "url": "https://www.youtube.com/watch?v=6lOp0HPPegQ",
+      "upload_date": "20210430",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "channel": "Mark's Daily Apple",
+      "asr_model": "parakeet-v3-int8",
+      "asr_completed_log": true,
+      "full_text_read": true,
+      "read_status": "TXT_integral_lido",
+      "lines_total": 616,
+      "characters": 65024,
+      "text_coverage_percent": 100,
+      "transcript_sha256": "13695b75d0c5cf5703a0863996c8982412478bd547fb9bf3b3f814c6d04fd9ef",
+      "source_and_frozen_hash_match": true,
+      "state_sha256": "7be5b323ad5731ca2f7d6b0d7ef65e1117aa6c604f6b472de7cb7b416c509b00",
+      "log_sha256": "3aa377c07c783ab04ccdc62bbb2dab9ffb60b3e74f15721ef80a83d895956e25",
+      "metadata_sha256": "e3096f18187264167db91debff9b74a2d5753e83cc0e66331c5e7d6addb5a11b",
+      "physical_hashes_match_fixed_cut": true,
+      "read_parts": [
+        {
+          "start_line_inclusive": 1,
+          "end_line_inclusive": 210,
+          "first_timestamp": "00:00:04",
+          "last_timestamp": "00:16:52",
+          "lines_read": 210,
+          "sha256_utf8_exact_range": "f9e4d5d00c22945c57404c1d65102ec1282099cef4d58988901949d7b0026b47",
+          "checkpoint_next_line": 211,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 211,
+          "end_line_inclusive": 420,
+          "first_timestamp": "00:17:01",
+          "last_timestamp": "00:36:33",
+          "lines_read": 210,
+          "sha256_utf8_exact_range": "89d87f7072d456811b350cd8efb55f40110dba357026558e5bc3575001f8b803",
+          "checkpoint_next_line": 421,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 421,
+          "end_line_inclusive": 616,
+          "first_timestamp": "00:36:33",
+          "last_timestamp": "00:51:11",
+          "lines_read": 196,
+          "sha256_utf8_exact_range": "235c1862d0e7f1bb0c565af621a48d08f54f3d54f27aa0d7c24cab4ab5afa0e1",
+          "checkpoint_next_line": 617,
+          "status": "TXT_lido_sem_truncamento"
+        }
+      ],
+      "checkpoint_next_line": 617,
+      "speaker_basis": "Créditos locais e contexto textual identificam Elle Russ e Brad Kearns; sem diarização acústica. Mark Sisson não identificado como falante direto no TXT.",
+      "topic": "Two Meals a Day, janela alimentar, treino, café e sono.",
+      "focus_result": {
+        "caldo_de_ossos": "não encontrado no TXT integral",
+        "colageno": "não encontrado no TXT integral",
+        "gelatina": "não encontrada no TXT integral",
+        "repigmentacao_capilar": "não encontrada no TXT integral",
+        "receita_de_caldo_com_medidas": "não encontrada no TXT integral"
+      },
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3071,
+      "duration_decoded_seconds": 3100.861,
+      "seconds_after_last_segment_start": 29.861,
+      "timestamp_quality": {
+        "backward_steps": 5,
+        "largest_forward_gap_seconds": 24,
+        "gaps_over_45_seconds": []
+      },
+      "audio_listened": false,
+      "video_visually_reviewed": false
+    },
+    {
+      "id": "jBmtSzRv5sE",
+      "title": "Getting Over Yourself with Brad Kearns",
+      "url": "https://www.youtube.com/watch?v=jBmtSzRv5sE",
+      "upload_date": "20200914",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "channel": "Mark's Daily Apple",
+      "asr_model": "parakeet-v3-int8",
+      "asr_completed_log": true,
+      "full_text_read": true,
+      "read_status": "TXT_integral_lido",
+      "lines_total": 601,
+      "characters": 62556,
+      "text_coverage_percent": 100,
+      "transcript_sha256": "35c32e1e8562d45fe8fb18a2ed541a788d342bdb5545433a4f126156258ed717",
+      "source_and_frozen_hash_match": true,
+      "state_sha256": "e191713ece2f6ededdbb75381e97615d63071326d3a408db1f2dbea412d42cad",
+      "log_sha256": "6534ca53d237ce501637c57bb9a9651b0bc0580510b1974e4729181c62fdd6e4",
+      "metadata_sha256": "d9b2aaf07d63328ff59bc767e4161920d5a654613f1491e1e58cb0989528bd80",
+      "physical_hashes_match_fixed_cut": true,
+      "read_parts": [
+        {
+          "start_line_inclusive": 1,
+          "end_line_inclusive": 210,
+          "first_timestamp": "00:00:04",
+          "last_timestamp": "00:19:15",
+          "lines_read": 210,
+          "sha256_utf8_exact_range": "2a372350e7bce8cb55a512a48b5cc751963c80272b5f52826db878da272c6677",
+          "checkpoint_next_line": 211,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 211,
+          "end_line_inclusive": 420,
+          "first_timestamp": "00:19:16",
+          "last_timestamp": "00:35:57",
+          "lines_read": 210,
+          "sha256_utf8_exact_range": "e3545e49e63ea5ba0d72ffee81f62284b3698a4d4eac009491bd7d6ed3c3837e",
+          "checkpoint_next_line": 421,
+          "status": "TXT_lido_sem_truncamento"
+        },
+        {
+          "start_line_inclusive": 421,
+          "end_line_inclusive": 601,
+          "first_timestamp": "00:36:11",
+          "last_timestamp": "00:51:28",
+          "lines_read": 181,
+          "sha256_utf8_exact_range": "acb0d14d0f3beecf797a03fa88cf3d05e8d9dd8b8de7e1456b7a71eb52cb78ed",
+          "checkpoint_next_line": 602,
+          "status": "TXT_lido_sem_truncamento"
+        }
+      ],
+      "checkpoint_next_line": 602,
+      "speaker_basis": "Créditos locais e contexto textual identificam Elle Russ e Brad Kearns; sem diarização acústica. Mark Sisson não identificado como falante direto no TXT.",
+      "topic": "Microtreinos, frio, sprints e promoção de suplemento de órgãos.",
+      "focus_result": {
+        "caldo_de_ossos": "não encontrado no TXT integral",
+        "colageno": "não encontrado no TXT integral",
+        "gelatina": "não encontrada no TXT integral",
+        "repigmentacao_capilar": "não encontrada no TXT integral",
+        "receita_de_caldo_com_medidas": "não encontrada no TXT integral"
+      },
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3088,
+      "duration_decoded_seconds": 3116.521,
+      "seconds_after_last_segment_start": 28.521,
+      "timestamp_quality": {
+        "backward_steps": 7,
+        "largest_forward_gap_seconds": 56,
+        "gaps_over_45_seconds": [
+          {
+            "line_before": 249,
+            "start_before": "00:20:47",
+            "start_after": "00:21:43",
+            "gap_seconds": 56
+          },
+          {
+            "line_before": 428,
+            "start_before": "00:37:08",
+            "start_after": "00:37:59",
+            "gap_seconds": 51
+          }
+        ]
+      },
+      "audio_listened": false,
+      "video_visually_reviewed": false
+    }
+  ],
+  "single_relevant_finding": {
+    "id": "8pI3jrNPclw",
+    "speaker": "Al Danenberg, entrevistado por Elle Russ; atribuição contextual apoiada por créditos locais.",
+    "timestamp_start": "00:28:31",
+    "timestamp_end": "00:30:18",
+    "lines": [
+      377,
+      386,
+      387,
+      388,
+      389,
+      390
+    ],
+    "summary": "Al relata consumir material colagenoso e vísceras/medula dessecadas; exemplifica refeição colagenosa com rabada e caldo de rabada. Quando não a come, diz tomar peptídeos de colágeno para equilibrar aminoácidos da carne muscular. A frequência diária refere-se à prática alimentar/suplementação, sem comprovar caldo diário.",
+    "recipe_or_dose": "Não apresenta quantidade de caldo ou colágeno, pesos, proporção água/ossos, ingredientes completos, temperatura, tempo ou rendimento. Não é receita reproduzível.",
+    "not_found": "Não relata gelatina culinária, cabelo grisalho ou repigmentação.",
+    "causality": "Prática pessoal em abordagem multimodal; não isola efeito do caldo/colágeno. A fala não deve ser atribuída a Mark Sisson nem usada como demonstração de eficácia clínica."
+  },
+  "quality_limits": [
+    "Leitura integral sequencial dos nove TXT existentes, incluindo anúncios, promoções, apartes e finais; não equivale a audição integral da mídia.",
+    "Sem áudio ouvido, inspeção visual ou nova ASR nesta etapa; próximos lotes de ASR não entram no registro.",
+    "ASR sem diarização; identificação de interlocutores por créditos locais/contexto. Canal, coautoria e menções a Mark Sisson não comprovam voz direta de Sisson.",
+    "Erros de nomes, números, repetições e fronteiras de chunks permanecem possíveis; achados negativos são negativos no TXT, não prova de ausência na mídia.",
+    "Último timestamp é início de segmento: a diferença até duração decodificada não prova silêncio nem determina duração de conteúdo faltante.",
+    "Alegações clínicas/nutricionais dos entrevistados não foram validadas; relato pessoal não demonstra causalidade.",
+    "Os 127 correspondem a textos incrementais comprovados nesta sequência de auditoria; não representam o corpus histórico total."
+  ]
+}

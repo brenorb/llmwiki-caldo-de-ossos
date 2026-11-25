@@ -114,3 +114,5 @@ A [atualização de pigmentação](../raw/pigmentacao-atualizacao-2026-11-25.jso
 O [terceiro lote positivo health](../raw/wapf-health-lote3-50-2026-11-25.tsv) tem100 hashes físicos e faixas1–fim conferidos. Receitas já catalogadas ganharam medidas/lacunas, sem serem contadas novamente. Relatos, tradições alimentares e nomes terapêuticos permanecem separados de testes clínicos.
 
 O [registro de cinco anexos WAPF](../raw/wapf-anexos-health-2026-11-25/registro-anexos.json) conserva URLs/hashes e cobertura por slide/nota/página.607 slides textuais não equivalem a607 imagens integralmente lidas;32 ampliados e13 gráficos recuperados têm prova separada. Localizadores culinários não viram receitas completas ou validação clínica.
+
+Os [nove textos MDA posteriores aos118](../raw/youtube-mda-pos118-9-2026-11-25.json) têm identidades disjuntas, faixas completas e hashes conferidos. O relato de rabada/peptídeos é de Al Danenberg com Elle Russ, sem receita/dose/efeito isolado; não é fala de Sisson ou evidência oncológica.127 é soma incremental desses cortes, não todo o histórico.

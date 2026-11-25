@@ -186,3 +186,11 @@ A leitura do [lote de 26](../../raw/youtube-mda-leitura-26-2026-11-25.json) e do
 Em [The Benefits of Regenerative Agriculture](https://www.youtube.com/watch?v=r9w-VCI3k0U), Elle Russ entrevista Eric Perner, da Rep Provisions. Em 01:27–01:53 ela descreve pops comerciais com caldo; em 35:15–36:37 discutem caixas para sopas/ensopados. A única quantidade culinária relatada é **uma xícara em Instant Pot**, sem fórmula completa. Não há ingredientes dos pops, análise do caldo ou ensaio clínico. Essa entrevista não foi atribuída a Sisson. O [corte de nove](../../raw/youtube-mda-leitura-9-2026-11-25.json) preserva atribuições, hashes e limites visuais.
 
 A leitura de [Drew Manning](../../raw/youtube-mda-drew-2026-11-25.json) é corte posterior separado, chegando a 118 textos novos lidos. Ideias de tutano/manteiga na entrevista de Ashleigh permanecem distintas de caldo; para fórmulas com medidas, veja as [receitas de tutano](../temas/receitas-tutano.md).
+
+## Al Danenberg: rabada, caldo e alternativa com peptídeos
+
+Na [entrevista de Al Danenberg com Elle Russ](https://www.youtube.com/watch?v=8pI3jrNPclw), **28:31–30:18**, o convidado relata material colagenoso na dieta e cita rabada com caldo de rabada. Diz usar peptídeos quando não come uma refeição desse tipo, para equilibrar aminoácidos da carne muscular. É a justificativa do convidado, sem dose de caldo/colágeno, fórmula ou comparação. A prática diária descrita não comprova ingestão diária de caldo. Vísceras/medula dessecadas são mencionadas separadamente.
+
+O episódio tem câncer no título, mas a conversa não isola o caldo como tratamento. O convidado não identifica um componente responsável pelo resultado e não se declara curado/em remissão. **A passagem não demonstra benefício oncológico ou repigmentação.** Ela não foi atribuída a Sisson nem transformada em receita.
+
+O [lote de nove TXT integralmente lidos](../../raw/youtube-mda-pos118-9-2026-11-25.json) preserva negativos, atribuição por créditos/contexto, hashes e limitações. É leitura textual com reconhecimento automático, sem audição ou inspeção visual integral das mídias.

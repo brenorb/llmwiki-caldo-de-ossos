@@ -226,3 +226,5 @@
 - [Terceiro lote health: cinquenta corpos WAPF completos e cobertura](raw/wapf-health-lote3-50-2026-11-25.json)
 
 - [Cinco anexos WAPF: apresentações de2018, folheto, métodos e limites](wiki/fontes/wapf-anexos-2018.md)
+
+- [Nove TXT MDA adicionais: cobertura integral, atribuições e limites](raw/youtube-mda-pos118-9-2026-11-25.json)

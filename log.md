@@ -998,3 +998,7 @@ Unidos três pareceres e conferidos50 índices,100 hashes físicos e4.188 linhas
 ## [2026-11-25] ingestão | Cinco anexos WAPF e recuperação de gráficos
 
 A [nota de fonte](wiki/fontes/wapf-anexos-2018.md) incorpora607 slides/589 notas disponíveis, com panorama de todos,32 ampliações e duas páginas PDF. Foram conferidos hashes originais/comprovantes;13 gráficos principais foram recuperados e examinados, sem doses ou receitas de caldo ocultas. O catálogo recebeu quatro métodos com lacunas explícitas. O [pacote público](raw/wapf-anexos-health-2026-11-25/README.md) contém apenas metadados/localizadores, sem transcrições extensas ou caminhos privados.
+
+## [2026-11-25] revisão | Mais nove entrevistas MDA integralmente lidas
+
+O [registro de nove IDs](raw/youtube-mda-pos118-9-2026-11-25.json) comprova5.640 linhas/39 partes integrais, sem sobreposição com118 anteriores. O único núcleo de caldo/colágeno foi incorporado com voz atribuída a Al Danenberg, sem dose/receita ou validação oncológica. Foram conferidos hashes físicos/faixas e mantidos negativos, limites ASR e separação da fila posterior.

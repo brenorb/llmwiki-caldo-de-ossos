@@ -30,7 +30,18 @@ A passagem de *Wise Traditions* 174, **13:03–15:06**, levou à leitura integra
 
 A consulta no Europe PMC `glyphosate AND ("bone broth" OR "bone stock")` retornou **zero registros**. Buscas web complementares por `glyphosate glycine bone broth protection trial`, `"bone broth" "glyphosate" "clinical trial"` e variantes de suplementação não localizaram ensaio de proteção pelo caldo. A consulta no ClinicalTrials.gov foi pelo índice web, sem busca completa da API. O resultado descreve essa estratégia e não prova ausência universal de estudos. XML integral do artigo, suplemento, figura, resposta e retornos da busca foram preservados no acervo local.
 
-## Fontes consultadas e hashes das cópias locais
+## Dieta GAPS, caldo e relato de TEA em 25 de novembro
+
+As consultas `"GAPS diet" autism trial study` e `"bone broth" autism clinical trial` localizaram um piloto de dieta e suplementos. Foram lidos o artigo integral de Ābele et al., métodos, figuras 1–7 e agradecimentos, e as recomendações 1.3.2 e 1.7.9–1.7.11 da NICE CG170. O pôster de 2019 e o resumo de congresso de 2020 remetem ao mesmo projeto e não foram contados como ensaios independentes. [Artigo e limites](../wiki/fontes/abele-2021-scd-gaps-autismo.md) · [Diretriz](../wiki/fontes/nice-cg170-autismo-dietas.md)
+
+O HTML da diretriz retornou 403 no leitor web. O PDF oficial abriu por requisição direta e suas páginas pertinentes foram conferidas visualmente. O PDF do artigo foi obtido pelo endereço `citation_pdf_url` da página editorial e suas figuras foram conferidas. Cópias integrais, texto extraído e imagens de trabalho permanecem no acervo local.
+
+| Documento | SHA-256 da cópia consultada |
+| --- | --- |
+| [Ābele et al., PDF original](https://reference-global.com/download/article/10.2478/prolas-2021-0062.pdf) | `fe80287604160f4d0ca191988e9613b80e6326f4c8002c59e87b27681d3a29ad` |
+| [NICE CG170, PDF oficial](https://www.nice.org.uk/guidance/cg170/resources/autism-spectrum-disorder-in-under-19s-support-and-management-pdf-35109745515205) | `0c44796b0344054d4eadfb78c5d9189fa1007315a2f9c5ca2523c522df9ed6bf` |
+
+## Fontes consultadas e hashes das cópias locais em 11 de novembro
 
 Arquivos recuperados em 2026-11-11. Os PDFs estão sob CC BY, conforme avisos nas publicações. Para as demais fontes, as notas fornecem links e detalhes de acesso.
 

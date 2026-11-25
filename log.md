@@ -813,3 +813,7 @@ O [inventário por ID](raw/youtube-cobertura-2026-11-25.tsv) e o [método de con
 ## [2026-11-25] revisão | Novas alegações na síntese de saúde
 
 A [síntese de saúde](wiki/temas/alegacoes-saude.md) incorpora as alegações sobre glifosato, sarampo e desenvolvimento infantil já documentadas nas notas e na matriz de relatos. A revisão distingue prevenção de incorporação e eliminação de contaminantes e mantém separados estudos de caldo, modelos celulares e orientações institucionais.
+
+## [2026-11-25] ingestão | Relato infantil, piloto SCD/GAPS e diretriz NICE
+
+A [matriz](wiki/temas/relatos-e-evidencia.md) contextualiza o relato do episódio 131 com o [piloto multicomponente](wiki/fontes/abele-2021-scd-gaps-autismo.md) e a [NICE CG170](wiki/fontes/nice-cg170-autismo-dietas.md). A nota distingue comparações pré–pós e entre grupos e preserva as limitações para atribuir qualquer resultado ao caldo. O [registro de acesso](raw/busca-saude.md#dieta-gaps-caldo-e-relato-de-tea-em-25-de-novembro) informa versões e hashes.

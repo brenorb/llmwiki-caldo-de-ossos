@@ -40,6 +40,9 @@
 
 ## Notas de fonte
 
+- [Ābele et al. (2021) · Piloto de dieta SCD/GAPS e suplementos](wiki/fontes/abele-2021-scd-gaps-autismo.md)
+- [NICE CG170 · Dietas de exclusão e características centrais do autismo](wiki/fontes/nice-cg170-autismo-dietas.md)
+
 - [Primal Kitchen · Fontes e cobertura de receitas com peptídeos](wiki/fontes/primal-kitchen-receitas-peptideos.md)
 
 - [Antoniou et al. (2019) · Glifosato e substituição da glicina](wiki/fontes/antoniou-2019-glifosato-glicina.md)

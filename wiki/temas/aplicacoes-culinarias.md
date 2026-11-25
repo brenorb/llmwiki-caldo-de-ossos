@@ -23,4 +23,16 @@ São dois usos de peptídeos em receitas da Primal Kitchen. A textura do creme v
 - **Creme de caju para café.** Deixe **½ xícara de castanha de caju crua** de molho na geladeira de um dia para o outro. Escorra e enxágue. Bata por cerca de **2 min** com **360 mL de água nova**, **1 medida de peptídeos sem sabor**, **1 colher de sopa de mel** e uma pitada de sal. A marca indica **6 porções**. Para reduzir o açúcar adicionado, dispense o mel ou use adoçante a gosto. Os carboidratos da castanha permanecem. [Ficha](https://www.primalkitchen.com/blogs/recipes/creamy-cashew-collagen-creamer) · [Demonstração](https://www.youtube.com/watch?v=MuouvRsTH0s&t=34s)
 - **Bolinhas de macadâmia com chai.** Pulse **1½ xícara de macadâmias cruas sem sal**, **1 medida da mistura de chai com peptídeos** e uma pitada de sal até obter uma massa grossa. Forme **10–12 bolinhas** e congele por **30 min**. Passe em adoçante de fruto-do-monge em pó misturado com canela, cravo, gengibre e pimenta-do-reino. Confira o rótulo da mistura de chai e do adoçante para ajustar os carboidratos. [Demonstração, 00:05–01:24](https://www.youtube.com/watch?v=5PzFeC12aXQ&t=5s)
 
+## Waffle de abobrinha com peptídeos
+
+Misture **1 ovo**, **½ xícara de muçarela**, **2 colheres de sopa de farinha de amêndoas**, **1 medida de peptídeos**, **1 xícara de abobrinha em fios** e **⅛ de colher de chá de ervas italianas**. Coloque na máquina de waffle aquecida e untada e cozinhe por **4–5 min**, até firmar e dourar. Sirva com **¼ de xícara de marinara** e, se quiser, almôndega e parmesão. A Primal Kitchen estima **23 g de carboidratos** na porção completa com uma almôndega e as coberturas. [Ficha da marca](https://www.primalkitchen.com/blogs/recipes/paleo-spaghetti-waffles-chaffles)
+
+A fala do vídeo usa **¼ de xícara de muçarela**, enquanto a ficha escrita usa **½ xícara**. O apresentador atribui aos peptídeos a absorção de parte da água dos fios de abobrinha. Confira os carboidratos do molho e da almôndega ao ajustar a porção. A receita contém laticínios. [Demonstração, 00:23–02:14](https://www.youtube.com/watch?v=NPs9tuWPMoA&t=23s)
+
+## Bebida de cacau, abacate e peptídeos
+
+Na fórmula da Primal Kitchen, bata **240–300 mL de leite de coco integral**, **½ abacate congelado**, **2 colheres de sopa de pasta de amêndoas**, **2 de cacau**, **2 medidas de peptídeos**, **1 colher de sopa de óleo de coco** e **½ xícara de gelo**. Hidrate antes **½ colher de sopa de chia** em **2 colheres de sopa de água por 10 min** e incorpore. Ajuste com um pouco de água se necessário. Escolha leite de coco e pasta sem açúcar adicionado. A composição por porção depende dos produtos e do rendimento servido. [Keto Cacao Smoothie](https://www.primalkitchen.com/blogs/recipes/keto-collagen-smoothies)
+
+A mesma página oferece três variações. A verde combina abacate e espinafre e leva mel, que pode ser omitido. O *Rocket Fuel* inclui cerejas ou framboesas. A de coco, cacau e maca oferece framboesas ou xarope de bordo opcional. Para reduzir açúcares, omita o mel e o xarope, medindo a fruta por porção. Essas omissões são adaptações da wiki. [Quatro combinações publicadas](https://www.primalkitchen.com/blogs/recipes/keto-collagen-smoothies) · [Vídeo](https://www.youtube.com/watch?v=E5ZO1KEHI-4)
+
 Veja também as [receitas com gelatina e caldo neutro](receitas-gelatina.md).

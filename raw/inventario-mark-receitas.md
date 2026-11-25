@@ -842,3 +842,6 @@ A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 en
 ## Retomada em 25 de novembro de 2026
 
 A conferência direta das fichas da Primal Kitchen acrescentou chili branco na pressão, com caldo de frango e gelatina bovina opcional, e uma travessa de abóbora e linguiça umedecida com caldo. As medidas, os carboidratos declarados pela marca e as adaptações estão na [página de receitas](../wiki/temas/receitas-caldo.md#chili-branco-de-frango-na-pressão-com-gelatina-opcional). A consulta complementa o acervo inventariado em 11 de novembro. Os denominadores históricos dos canais e sites acima conservam a data de seu levantamento.
+
+
+A revisão de mídias acrescentou a conferência de **108 IDs** no inventário de trabalho. A mesa-redonda de Sisson, Kearns, Taylor e McAndrew, de **55 min 21 s**, teve os 58 blocos transcritos e ficou sem termo temático na triagem. O vídeo de waffle de abobrinha e a ficha escrita divergem na quantidade de queijo. As [fichas de waffle e bebida de cacau](../wiki/temas/aplicacoes-culinarias.md#waffle-de-abobrinha-com-peptídeos) conservam essa diferença e os ajustes de carboidratos. [Mesa-redonda](https://www.youtube.com/watch?v=cIPGHM1hIQU)

@@ -742,3 +742,8 @@ A [reconsulta](raw/busca-receitas-relatos.md#reconsulta-pública-em-25-de-novemb
 ## [2026-11-25] revisão | Seis faixas preservadas da WAPF e relato sobre frio
 
 O [inventário de áudio](raw/inventario-wapf-receitas.md#retomada-de-áudio-em-25-de-novembro-de-2026) registra a cobertura e a revisão pendente do reconhecimento em espanhol. A [matriz](wiki/temas/relatos-e-evidencia.md) contextualiza a história sobre crianças, chá e caldo e o [ensaio de ducha fria](wiki/fontes/buijze-2016-ducha-fria.md) acompanha a correção publicada.
+
+
+## [2026-11-25] ingestão | Waffle de abobrinha e bebida de cacau com peptídeos
+
+As [aplicações culinárias](wiki/temas/aplicacoes-culinarias.md#waffle-de-abobrinha-com-peptídeos) comparam o queijo da demonstração com a ficha escrita e registram quatro combinações de smoothie com seus ingredientes que acrescentam açúcar. O inventário dos canais inclui a mesa-redonda integral.

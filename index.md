@@ -48,6 +48,8 @@
 
 ## Notas de fonte
 
+- [Oyster Nutrition (2025) · Relato comercial de extrato e cabelo](wiki/fontes/oyster-nutrition-2025-relato.md)
+
 - [IUBMB e NCI · Nomenclatura de proteases e glucosamina](wiki/fontes/nomenclatura-gelatina-glucosamina.md)
 
 - [Davis (1939) · Auto-seleção alimentar e bone jelly](wiki/fontes/davis-1939-auto-selecao.md)

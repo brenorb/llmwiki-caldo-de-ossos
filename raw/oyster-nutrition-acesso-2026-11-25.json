@@ -1,0 +1,39 @@
+{
+  "url": "https://www.westonaprice.org/health-topics/oyster-nutrition/",
+  "id": 47279,
+  "author": "Stephen Kavanagh",
+  "displayed_date": "May 9, 2025",
+  "meta": {
+    "article:modified_time": "2026-01-21T19:39:49+00:00"
+  },
+  "html_sha256": "c1e2d011602573dd5f894a335417fd0c71687da9e41afd180106f07feb6966fa",
+  "text_sha256": "7a019a96bcf853e7dfbcbe462d8cd2d7aab1caf4727550b26ef3136f8759d961",
+  "characters": 48063,
+  "lines": 166,
+  "ranges_read": [
+    [
+      1,
+      166
+    ]
+  ],
+  "read_at_utc": "2026-11-25T22:57:10.940243+00:00",
+  "date": "2026-11-25",
+  "access_status": "200",
+  "method": "Corpo editorial completo lido pelo subagente no lote positivo50; root conferiu as passagens, autoria/interesse comercial e hashes físicos.",
+  "specific_locations": {
+    "case": [
+      64,
+      65
+    ],
+    "broth_ingredient": [
+      74,
+      74
+    ],
+    "sidebar_claim": [
+      106,
+      107
+    ]
+  },
+  "not_read": "Comentários, imagens, áudio e destinos de referências não incluídos.",
+  "synthesis": "wiki/fontes/oyster-nutrition-2025-relato.md"
+}

@@ -947,3 +947,8 @@ A [revisão do mesmo GUID](raw/wapf-revisao-es144-2026-11-25.json) registra 352 
 ## [2026-11-25] revisão | Fala recuperada em EN165
 
 A [conferência localizada](raw/wapf-revisao-en165-2026-11-25.json) registra 24 linhas novas lidas e 4/4 blocos. O recorte explica o salto contextual e recupera fala ausente do TXT integral, sem novo achado sobre caldo. Os originais permanecem intactos e a revisão não altera a contagem por GUID; hashes físicos foram conferidos.
+
+
+## [2026-11-25] ingestão | Relato comercial de extrato e cabelo
+
+A [nota de Oyster Nutrition](wiki/fontes/oyster-nutrition-2025-relato.md), com [registro por hash e faixas](raw/oyster-nutrition-acesso-2026-11-25.json), foi ligada à página de canície e à matriz de relatos, preservando objeto e limites.

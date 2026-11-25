@@ -276,6 +276,15 @@ A revisão das 47 páginas com termos de busca que ainda não estavam ligadas na
 | [Tender Tongue Stew](https://www.westonaprice.org/tender-tongue-stew/) | Caldo caseiro bovino ou de frango na cocção da língua. | Cenoura e acompanhamentos. | Use mais salsão, cogumelos ou abobrinha. |
 | [Warm Hearty Meatball Sub](https://www.westonaprice.org/warm-hearty-meatball-sub/) | Gelatina dissolvida é misturada à massa de almôndegas. | Pão do sanduíche. | Sirva as almôndegas com molho de tomate sem açúcar e abobrinha. |
 
+### Outras duas fichas com colágeno em pó
+
+| Receita original | Objeto e encaminhamento |
+| --- | --- |
+| [Beef Bars](https://www.westonaprice.org/beef-bars/) | [Medidas, preparo e limites](receitas-peptideos.md#barras-bovinas-com-colágeno-em-pó). |
+| [Vanilla Ice Cream](https://www.westonaprice.org/vanilla-ice-cream/) | [Medidas e adaptação do adoçante](receitas-peptideos.md#sorvete-de-baunilha-com-colágeno-opcional). |
+
+As duas já figuravam no inventário de 47 páginas, separadas pelo uso de suplemento. Acrescentá-las ao catálogo não altera os 73 endereços das duas categorias iniciais.
+
 ## Receitas confirmadas nas edições digitais de *Wise Traditions*
 
 | Receita | Base | Ingredientes que influenciam os carboidratos | Opção com menos carboidratos |

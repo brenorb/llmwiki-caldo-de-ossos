@@ -837,3 +837,8 @@ O [corte de áudio](raw/wapf-corte-audio-2026-11-25-18-guids.json) chega a 127/2
 ## [2026-11-25] revisão | Anúncio de barras e nove encerramentos de receitas
 
 O [registro de 11 vídeos](raw/youtube-encerramentos-11-2026-11-25.tsv) confirma a atribuição de Sisson no anúncio de 8,5 g de colágeno por barra e preserva a distinção frente aos 15 g de proteína do rótulo. Os nove encerramentos não revelaram medidas omitidas além da cobertura de coco sem dose já mencionada no texto do pudim. O [catálogo](wiki/temas/receitas-peptideos.md) incorpora essa cobertura e explica por que último início de segmento não mede fala cortada.
+
+
+## [2026-11-25] ingestão | Barras bovinas e sorvete com colágeno
+
+As [duas fichas da WAPF](wiki/temas/receitas-peptideos.md#duas-receitas-adicionais-publicadas-pela-wapf) acrescentam as receitas antes separadas por usarem colágeno em pó. As medidas originais, o rendimento não informado das barras, as alternativas de adoçante e a diferença entre colágeno e gelatina aparecem no catálogo. A [nota de fonte](wiki/fontes/wapf-receitas-colageno.md) e o [registro de acesso](raw/wapf-receitas-colageno-2026-11-25.json) preservam objeto e versões, sem ampliar os denominadores históricos.

@@ -1,6 +1,6 @@
 # Receitas com peptídeos de colágeno
 
-Estas receitas da **Primal Kitchen** usam suplementos de peptídeos. A publicação no canal da empresa não estabelece autoria pessoal de Mark Sisson. As medidas abaixo preservam as fontes; as sugestões para reduzir carboidratos são **adaptações da wiki, ainda não testadas**.
+O catálogo reúne **23 fichas e quatro cocktails da Primal Kitchen**, mais **duas receitas publicadas pela WAPF**. Usam suplemento de peptídeos, obrigatório ou opcional conforme a ficha. A publicação no canal da Primal Kitchen não estabelece autoria pessoal de Mark Sisson. As medidas abaixo preservam as fontes; as sugestões para reduzir carboidratos são **adaptações da wiki, ainda não testadas**.
 
 Peptídeos hidrolisados não gelificam como gelatina culinária. Nestas fórmulas, a espuma, a gordura, as frutas ou o congelamento dão estrutura. Não substitua gelatina por igual quantidade de peptídeos esperando obter o mesmo gel. [Diferenças e aplicações](aplicacoes-culinarias.md) · [Receitas que usam gelatina](receitas-gelatina.md)
 
@@ -91,6 +91,24 @@ As medidas seguintes foram conferidas nas transcrições integrais e nas descri�
 | [Bolinhas de macadâmia e amendoim](https://www.youtube.com/watch?v=81SYaiYKQFs) | Processe **1½ xícara de macadâmias cruas sem sal**, **1 medida de Peanut Butter Collagen Drink Mix** e sal até formar massa, antes de virar manteiga. Modele **12 bolinhas**, congele por **30 min** e passe em monkfruit em pó. Se a massa não firmar para modelar, a fonte indica gelar antes por **30 min**. | A marca estima **7,25 g de carboidratos totais e 6 g líquidos por bolinha**. São estimativas da descrição, sem recálculo da wiki. A quantidade de adoçante aderida à superfície e seu agente de volume influenciam o resultado. |
 | [Bolinhas de macadâmia e cúrcuma](https://www.youtube.com/watch?v=hFoa9I3MG18) | Mesmo método e **1½ xícara de macadâmias**, usando **1 medida de Golden Turmeric Collagen Drink Mix**, sal e monkfruit em pó. A fonte indica **12 unidades**, congelamento de **30 min** e oferece Chocolate Coconut Collagen como variante. | A descrição declara os mesmos **7,25 g totais e 6 g líquidos por unidade**. O nome keto da publicação não determina a compatibilidade de qualquer porção ou mistura substituta. |
 | [Picolés de café e coco](https://www.youtube.com/watch?v=G909lb-l4iw) | Dissolva **2 colheres de sopa mais 1 colher de chá de espresso solúvel** em **400 mL de leite de coco integral**. Incorpore **2 medidas de peptídeos** e **10 gotas de stevia**. Distribua em **8–10 formas** e congele por **pelo menos 3 h, até solidificar**. | A descrição associa o espresso a **7 g** e as duas medidas de peptídeos a **12 g**; são equivalências históricas da fonte. A fala arredonda o espresso para **2–3 colheres de sopa**. A marca declara **24 g de carboidratos no lote inteiro**. Confira açúcar do leite e a potência da stevia. |
+
+## Duas receitas adicionais publicadas pela WAPF
+
+### Barras bovinas com colágeno em pó
+
+[Mai Meyers, Beef Bars, 06/09/2024](https://www.westonaprice.org/beef-bars/). Use **2 lb de carne bovina moída (cerca de 907 g)**, **2 sticks americanos de manteiga (cerca de 227 g)**, **6 colheres de sopa de pó de vísceras ou de colágeno**, **2 colheres de chá de sal** e **2 de caiena opcional**. A alternativa de colágeno está expressa na fonte; não equivale nutricionalmente ao pó de vísceras.
+
+Cozinhe a carne, espalhe em camada fina e leve ao forno a **225°F (cerca de 107°C) por aproximadamente 3 h**, até ficar crocante. Misture com manteiga derretida e os demais ingredientes em recipiente de cerca de **28 × 23 cm**. Gele por algumas horas até firmar e corte. Não há número de barras ou massa de colágeno informado.
+
+A fórmula dispensa açúcar e farinha, mas contém manteiga. Para escolher ingredientes com menos carboidratos, confira o pó usado; não foi calculado o total por barra. O prazo de semanas citado pela autora não vem acompanhado de teste de estabilidade. Trate a preparação doméstica como perecível e congele porções. [Cuidados de manipulação](seguranca-conservacao.md)
+
+### Sorvete de baunilha com colágeno opcional
+
+[Sally Fallon Morell, Vanilla Ice Cream, 30/08/2021](https://www.westonaprice.org/vanilla-ice-cream/). A fonte rende cerca de **1½ quart**. Bata **3 gemas** e incorpore **3 xícaras de creme de leite**, **½ xícara de maple syrup (ou ⅓, opção da autora)**, **1 colher de sopa de baunilha**, **1 de araruta**, **½ scoop de colágeno opcional** e **½ xícara de nozes crocantes picadas, opcionais**. Processe na sorveteira conforme o aparelho e congele em recipiente raso coberto.
+
+**Adaptação da wiki, não testada:** use creme e gemas pasteurizados, troque maple por adoçante culinário conforme o produto e experimente omitir a araruta. A redução de açúcar e amido pode alterar maciez e cristais de gelo. O creme ainda fornece lactose. A fonte não define gramas por scoop; colágeno hidrolisado não substitui gelatina para firmar. Nos comentários, o moderador registra em **09/05/2023** a correção do link que antes levava a gelatina.
+
+As duas fichas usam laticínios; não são opções sem leite. Elas são fontes culinárias, sem teste clínico do preparo. [Nota de acesso e produto](../fontes/wapf-receitas-colageno.md)
 
 ## O que foi efetivamente conferido
 

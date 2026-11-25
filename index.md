@@ -13,7 +13,7 @@
 - [Catálogo de 73 itens das categorias culinárias da Weston A. Price Foundation](wiki/temas/receitas-wapf-catalogo.md)
 - [Receitas de caldo de frango, pés de frango, bovino e outras variações](wiki/temas/receitas-caldo.md)
 - [Gelatinas, mousses e adaptações com menos carboidratos](wiki/temas/receitas-gelatina.md)
-- [23 fichas com peptídeos e quatro cocktails, com comparação de carboidratos e adaptações](wiki/temas/receitas-peptideos.md)
+- [23 fichas e quatro cocktails da Primal Kitchen, mais duas receitas da WAPF com colágeno](wiki/temas/receitas-peptideos.md)
 - [Ossos, articulações, carne, cartilagem, água, aromáticos e sal](wiki/temas/ingredientes.md)
 - [Fogo brando, pressão, caldo claro, escuro e emulsificado](wiki/temas/preparo.md)
 - [Sopas, grãos, molhos, redução e reaproveitamento culinário](wiki/temas/aplicacoes-culinarias.md)
@@ -44,6 +44,7 @@
 - [NICE CG170 · Dietas de exclusão e características centrais do autismo](wiki/fontes/nice-cg170-autismo-dietas.md)
 
 - [Primal Kitchen · Fontes e cobertura de receitas com peptídeos](wiki/fontes/primal-kitchen-receitas-peptideos.md)
+- [WAPF · Receitas com colágeno em pó](wiki/fontes/wapf-receitas-colageno.md)
 
 - [Antoniou et al. (2019) · Glifosato e substituição da glicina](wiki/fontes/antoniou-2019-glifosato-glicina.md)
 

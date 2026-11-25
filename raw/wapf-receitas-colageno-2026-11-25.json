@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-25",
+  "method": "Páginas primárias lidas no leitor web; HTML preservado separadamente no acervo. Ingredientes, preparo e comentários exibidos foram consultados.",
+  "recipes_added": [
+    "https://www.westonaprice.org/beef-bars/",
+    "https://www.westonaprice.org/vanilla-ice-cream/"
+  ],
+  "access": [
+    {
+      "url": "https://www.westonaprice.org/beef-bars/",
+      "http": "200",
+      "exit": 0,
+      "bytes": 437180,
+      "sha256": "1738cfe8a7a3cf3287743f1b2cab01a0f81a5b3105f7774f23b7f5230ec44072"
+    },
+    {
+      "url": "https://www.westonaprice.org/vanilla-ice-cream/",
+      "http": "200",
+      "exit": 0,
+      "bytes": 494622,
+      "sha256": "601884a75d3a422a484713fdf0047c62e9520ff302b654042d653ceb1b902ce1"
+    },
+    {
+      "url": "https://www.westonaprice.org/bone-marrow-ice-cream-savory-or-sweet/",
+      "http": "200",
+      "exit": 0,
+      "bytes": 465748,
+      "sha256": "12956e968f44258a43936a161a1be6ab79f0712478b8811fe485b4766a60da60"
+    }
+  ],
+  "linked_product": {
+    "url": "https://www.perfectsupplements.com/Perfect-Hydrolyzed-Collagen-p/ps-collagen.htm",
+    "sections_read": "Identificação comercial e distinção entre hidrolisado e gelatina; laudos não validados."
+  },
+  "related_page": "A página de sorvete de tutano foi lida e preservada, mas não é receita com caldo, gelatina ou suplemento de colágeno. Continua identificada como menção incidental ao colágeno do tutano, sem transferência de composição para caldo."
+}

@@ -801,3 +801,7 @@ O [catálogo](wiki/temas/receitas-peptideos.md#mais-nove-fichas-com-fala-e-descr
 ## [2026-11-25] ingestão | Quatro episódios posteriores ao inventário inicial
 
 O [suplemento](raw/inventario-wapf-receitas.md#episódios-posteriores-à-base-de-11-de-novembro) registra duas transcrições editoriais novas em inglês e dois áudios em espanhol processados integralmente. A revisão do reconhecimento em espanhol permanece explícita e os denominadores da base são preservados.
+
+## [2026-11-25] revisão | Creme de coco e leite de coco nas barras de abóbora
+
+A [ficha das barras](wiki/temas/aplicacoes-culinarias.md#barras-de-abóbora-com-peptídeos) distingue o creme da cartela do leite na receita escrita e localiza a diferença de adoçante. A revisão mais densa das imagens permitiu conferir essas cartelas específicas.

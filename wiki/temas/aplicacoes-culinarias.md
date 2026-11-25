@@ -41,7 +41,7 @@ A Primal Kitchen propõe **14 porções**, com **8 g de carboidratos por unidade
 
 Misture **425 g de purê de abóbora**, **180 mL de leite de coco sem açúcar**, **½ xícara de adoçante**, **4 ovos**, **3 colheres de sopa de farinha de coco**, **1 colher de chá de baunilha**, **½ colher de sopa de especiarias para abóbora**, **1 medida de peptídeos de baunilha**, **1 colher de chá de canela** e **¼ de colher de chá de sal**. Asse sobre a base por **40–45 min** e esfrie. Bata a parte sólida fria de **1 lata de creme de coco** com **2 medidas da mistura de chai com peptídeos** para cobrir. [Ficha da marca](https://www.primalkitchen.com/blogs/recipes/keto-pumpkin-pie-bars)
 
-O vídeo mostra **¼ de xícara de adoçante no recheio** e **45 min de forno**. A ficha escrita usa **½ xícara** e **40–45 min**. Os produtos adoçantes variam em concentração e composição. Confira seus rótulos antes de medir. Os ovos dão estrutura ao recheio e os peptídeos não equivalem à gelatina culinária. A demonstração não é apresentada por Sisson. [Vídeo](https://www.youtube.com/watch?v=5FANatZxNFk)
+O vídeo mostra **¾ de xícara de creme de coco**, enquanto a ficha escrita usa **leite de coco** no mesmo volume. A cartela também usa **¼ de xícara de adoçante**, contra **½ xícara** na ficha, e **45 min de forno**, contra **40–45 min**. Os adoçantes variam em concentração e composição; confira os rótulos antes de medir. Os ovos dão estrutura e os peptídeos não equivalem à gelatina culinária. A demonstração não é apresentada por Sisson. [Creme de coco, 00:33](https://www.youtube.com/watch?v=5FANatZxNFk&t=33s) · [Adoçante, 00:41](https://www.youtube.com/watch?v=5FANatZxNFk&t=41s)
 
 ## Café frio com creme de abóbora e peptídeos
 

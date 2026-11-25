@@ -1,0 +1,144 @@
+{
+  "episode": 147,
+  "guid": "25f66125-ade9-4963-bdd8-d0d4b98f9791",
+  "read_date": "2026-11-25",
+  "duration_seconds": 3282.212562,
+  "new_model": "parakeet-ultra",
+  "new_device": "mps",
+  "asr_timeout": null,
+  "workers": 1,
+  "original_preserved": true,
+  "original": {
+    "sha256": "4118fc95146ce07e3b61ab8f721af8c5fb4d587a90ef4b8bd7874ad938246a6a",
+    "lines": 293,
+    "timestamp_lines": 293,
+    "first_seconds": 1,
+    "last_seconds": 3273,
+    "max_timestamp_start_gap_seconds": 289,
+    "backstep_count": 0
+  },
+  "ultra": {
+    "sha256": "fbc022ac0ecad1b64773fe4a0cda198f7083ec6365e1ac0b5538e081d816f44c",
+    "lines": 424,
+    "timestamp_lines": 424,
+    "first_seconds": 1,
+    "last_seconds": 3273,
+    "max_timestamp_start_gap_seconds": 39,
+    "backstep_count": 0
+  },
+  "read_ranges": [
+    [
+      1,
+      110
+    ],
+    [
+      111,
+      220
+    ],
+    [
+      221,
+      330
+    ],
+    [
+      331,
+      424
+    ]
+  ],
+  "read_status": "complete",
+  "findings": [
+    {
+      "time": "00:48:31–00:49:00",
+      "theme": "Homocisteína e vitaminas; B6/B9/B12 explicitamente em00:48:57, já reconhecidos pelo V3; sem caldo/repigmentação"
+    },
+    {
+      "time": "00:24:38–00:24:53",
+      "theme": "Alega que manteiga ajuda pele/rugas; sem medida, dose ou comparação; não constitui relato de repigmentação"
+    },
+    {
+      "time": "00:48:17–00:48:31",
+      "theme": "Pele seca/cabelo debilitado no discurso sobre nutrição/colesterol; sem pigmentação"
+    }
+  ],
+  "remaining_errors": [
+    "Alternância breve para inglês em19:05/19:16: or, in, and those.",
+    "Nomes/entidades/referências ainda corruptos (estatinas06:35, convidados, documentário32:22, sites e nomes no encerramento).",
+    "Pequenas repetições de borda17:36–17:42,25:22–25:34 e51:08; não corrigidas manualmente."
+  ],
+  "limitations": [
+    "Leitura integral do texto novo, não escuta humana integral do áudio.",
+    "Contagem e espaçamento das marcas não provam reconhecimento sem omissões ou factualidade das alegações.",
+    "Ausência de termos limita-se ao texto ASR. Sem novo GUID ou mudança do denominador11/11."
+  ],
+  "divergence_resolution": [
+    {
+      "interval": "33:45–37:15",
+      "result": "Ambos os recortes recuperam crítica às pirâmides/cereais/obesidade e funções do colesterol ausente do Ultra integral; portanto há perda de reconhecimento no Ultra integral. O recorte Ultra ainda não contém toda a história sobre óleos no bloco correspondente aproximadamente36:33–37:04 que o V3 contém. Sem escuta humana não se decide cada palavra."
+    },
+    {
+      "interval": "41:25–42:20",
+      "result": "Ambos os recortes reconhecem as frases sobre cenoura/goma, topping e tomate ausentes do Ultra integral; confirma perda contextual do Ultra integral, não simples diferença de segmentação. V3 curto inclui repetição/retrocesso de marca00:31→00:30."
+    }
+  ],
+  "status": "full_new_text_read_with_localized_recognition_loss",
+  "source": "https://sabiastradiciones.libsyn.com/147-cuidado-con-los-medicamentos-para-bajar-el-colesterol-con-la-dra-nayra-txasko",
+  "quality_status": "paired_short_rechecks_completed_with_residual_discordance",
+  "targeted_rechecks": [
+    {
+      "sha256": "20dc400fba9bb247e69e5f1269f572988064742ccd024187858196e845aec281",
+      "total_lines": 22,
+      "read_line_ranges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "read_date": "2026-11-25",
+      "source_start_seconds": 2025,
+      "model": "parakeet-ultra",
+      "source_end_seconds": 2235
+    },
+    {
+      "sha256": "6aae20d72e424634c27f0588af4af60ef601efeaede31ef5d0ff5bf4846ba8cd",
+      "total_lines": 12,
+      "read_line_ranges": [
+        [
+          1,
+          12
+        ]
+      ],
+      "read_date": "2026-11-25",
+      "source_start_seconds": 2025,
+      "model": "parakeet-v3-int8",
+      "source_end_seconds": 2235
+    },
+    {
+      "sha256": "50fdcddb405eebafe707110116097f86ce90d759c4f5df9b54233bce02944478",
+      "total_lines": 15,
+      "read_line_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "read_date": "2026-11-25",
+      "source_start_seconds": 2485,
+      "model": "parakeet-v3-int8",
+      "source_end_seconds": 2540
+    },
+    {
+      "sha256": "02b3e0aa3baa1c28423a14e248f899ceb11762f79279cfaef7f050fd2965d471",
+      "total_lines": 7,
+      "read_line_ranges": [
+        [
+          1,
+          7
+        ]
+      ],
+      "read_date": "2026-11-25",
+      "source_start_seconds": 2485,
+      "model": "parakeet-ultra",
+      "source_end_seconds": 2540
+    }
+  ],
+  "new_guids": 0
+}

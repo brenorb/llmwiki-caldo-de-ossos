@@ -897,3 +897,8 @@ A pista visual do livro levou à [ficha completa de Julia Mueller](wiki/temas/re
 ## [2026-11-25] revisão | Leitura editorial das 464 receitas concluída
 
 A [auditoria por página](raw/wapf-leitura-editorial-464-2026-11-25.tsv) e seu [resumo](raw/wapf-leitura-editorial-464-2026-11-25.json) confirmam a leitura de 462 corpos da API e duas fichas diretamente no site. Foram conferidos os hashes e a cobertura das 9.044 linhas dos textos da API. O [fechamento](raw/inventario-wapf-receitas.md#fechamento-da-leitura-editorial-das-464-receitas) mantém explícitas a incorporação de achados ainda em curso e a cobertura separada de imagens, comentários e vídeos; não declara o site ou o projeto inteiramente lidos.
+
+
+## [2026-11-25] revisão | ES147 integral e quatro recortes comparativos
+
+O [registro por versão](raw/wapf-revisao-es147-2026-11-25.json) preserva 424 linhas novas lidas e 56 linhas de recortes em dois modelos. O [inventário](raw/inventario-wapf-receitas.md#es147-revisão-integral-e-divergências-entre-versões) documenta conteúdo recuperado e uma divergência restante, sem equiparar maior contagem de marcas a reconhecimento completo. B9 continua sem dado sobre caldo ou pigmentação e o GUID não foi duplicado.

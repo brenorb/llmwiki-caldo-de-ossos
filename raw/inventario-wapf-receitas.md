@@ -608,7 +608,7 @@ Depois da triagem contextual, foram lidas **18/18 transcrições automáticas, 6
 | EN69 e EN97 | O relato de psoríase não contém caldo; o bálsamo de sebo é tópico. Nenhum foi confundido com vitiligo, caldo ingerido ou repigmentação. |
 | EN47, EN166 e EN142 | Menções a proteoglicanos ou vitaminas em outros contextos não medem nutrientes do caldo. No 142, a chamada sobre vitamina K refere-se a óleo de emu. |
 
-A leitura encontrou trechos que exigem conferência adicional do reconhecimento: **EN142 01:58–03:56**, **EN168 02:27–03:56** e enunciados muito longos em **ES147**. As marcas são inícios de segmentos, portanto esses intervalos não provam silêncio ou omissão por si sós. As rechecagens posteriores de **EN142 01:45–04:10 (145 s)** e **EN168 02:15–04:10 (115 s)** recuperaram fala omitida na saída anterior: introdução, publicidade e eventos no 142 e discussão de dieta no 168. As 19 e 11 linhas novas foram lidas integralmente, sem nova passagem temática. O [registro da leitura](wapf-leitura-integral-18-2026-11-25.json) preserva hashes e tempos originais dos recortes. Permanecem os originais e a pendência de qualidade de ES147; não houve estimativa de acurácia palavra por palavra. Não apareceu nova medição percentual de componentes, quantidade de folato no caldo ou repigmentação no texto lido.
+A leitura encontrou trechos que exigem conferência adicional do reconhecimento: **EN142 01:58–03:56**, **EN168 02:27–03:56** e enunciados muito longos em **ES147**. As marcas são inícios de segmentos, portanto esses intervalos não provam silêncio ou omissão por si sós. As rechecagens posteriores de **EN142 01:45–04:10 (145 s)** e **EN168 02:15–04:10 (115 s)** recuperaram fala omitida na saída anterior: introdução, publicidade e eventos no 142 e discussão de dieta no 168. As 19 e 11 linhas novas foram lidas integralmente, sem nova passagem temática. O [registro da leitura](wapf-leitura-integral-18-2026-11-25.json) preserva hashes e tempos originais dos recortes. Permanecem os originais; ES147 recebeu a revisão específica descrita abaixo, com divergência residual. Não houve estimativa de acurácia palavra por palavra. Não apareceu nova medição percentual de componentes, quantidade de folato no caldo ou repigmentação no texto lido.
 
 #### Nova leitura integral das versões espanholas 151, 153, 154 e 145
 
@@ -621,7 +621,20 @@ As quatro faixas foram reprocessadas por inteiro com Ultra e as **1.449 linhas n
 | 154 | 298 → 438 | 120 → 39 s; reparo V3 intermediário: 34 s | Legibilidade melhora, mas nem toda métrica de segmentação melhora frente ao reparo anterior. Persistem nomes e erros semânticos. Sem nova passagem temática. |
 | 145 | 300 → 351 | 143 → 50 s | A nova versão registra B6/B12/B9 na discussão de homocisteína e recupera fala em 24:42–26:28. Introduz também repetição espúria de uma palavra em 23:36, preservada como erro, sem ser aceita como fala. |
 
-A versão 145 resolve a leitura textual antes corrompida como B2C, sem concluir que B9 no caldo tenha sido medida ou que o episódio fale de repigmentação. A repetição nova não foi apagada, e nenhuma versão foi declarada perfeita. A avaliação é qualitativa, sem referência humana independente, WER ou escuta integral humana. O modelo padrão não foi alterado. A faixa ES147 foi encaminhada separadamente à revisão de qualidade e ainda não integra este corte de quatro.
+A versão 145 resolve a leitura textual antes corrompida como B2C, sem concluir que B9 no caldo tenha sido medida ou que o episódio fale de repigmentação. A repetição nova não foi apagada, e nenhuma versão foi declarada perfeita. A avaliação é qualitativa, sem referência humana independente, WER ou escuta integral humana. O modelo padrão não foi alterado. A faixa ES147 tem revisão separada abaixo e não integra esse corte de quatro.
+
+#### ES147: revisão integral e divergências entre versões
+
+O [registro específico](wapf-revisao-es147-2026-11-25.json) preserva a leitura integral das **424 linhas Ultra**, frente às 293 V3 originais, e dos quatro recortes comparativos. O maior intervalo entre inícios caiu de **289 para 39 s**, mas isso não garantiu reconhecimento sem perda.
+
+| Recorte do áudio original | Conferência textual |
+| --- | --- |
+| **33:45–37:15**, versões novas V3 e Ultra | Ambos recuperam discussão de pirâmides alimentares, cereais, obesidade e funções do colesterol que faltava no Ultra integral. O Ultra curto ainda difere do V3 curto na história sobre óleos em aproximadamente **36:33–37:04**. |
+| **41:25–42:20**, versões novas V3 e Ultra | Ambos recuperam frases sobre alimentos e coberturas ausentes do Ultra integral. O recorte V3 tem repetição e pequeno retrocesso de timestamp. |
+
+Foram lidas **56 linhas dos recortes**, mantendo também o V3 e o Ultra integrais. A convergência dos passes curtos localiza conteúdo reconhecido neles que não estava no passe longo; não resolve cada palavra por votação nem substitui referência humana. As afirmações da convidada sobre nutrição e colesterol não foram validadas clinicamente por esta revisão.
+
+B6/B9/B12 aparecem em **48:57**, no contexto de homocisteína; a referência a cabelo fraco/fino em **48:17** não trata de repigmentação. Não foi localizada nova receita ou composição de caldo no texto lido. Este é o mesmo GUID já contado, sem aumento de cobertura por episódio e sem alteração do modelo padrão.
 
 ### Episódios posteriores à base de 11 de novembro
 

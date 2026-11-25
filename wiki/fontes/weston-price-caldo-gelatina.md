@@ -128,3 +128,6 @@ Na leitura integral, o episódio 142 (**24:00–24:53**) apresenta cartas e foto
 A conferência de dois intervalos pouco claros recuperou fala antes omitida nas transcrições de EN142 e EN168. Os recortes novos foram lidos por inteiro e não acrescentaram passagem temática. A correção demonstra por que leitura de todo o TXT e processamento de toda a faixa não garantem reconhecimento de toda a fala. [Recortes, hashes e limites](../../raw/inventario-wapf-receitas.md#leitura-integral-posterior-das-dezoito-transcrições)
 
 A [revisão integral Ultra de ES151/153/154/145](../../raw/inventario-wapf-receitas.md#nova-leitura-integral-das-versões-espanholas-151-153-154-e-145) não encontrou nova medição de composição do caldo ou repigmentação. A melhora qualitativa do espanhol não foi tratada como medida de acurácia; nomes, termos e um artefato repetitivo novo foram preservados nos limites de acesso textual.
+
+
+A [conferência de ES147](../../raw/inventario-wapf-receitas.md#es147-revisão-integral-e-divergências-entre-versões) recuperou em recortes curtos trechos ausentes da versão automática integral, mesmo com mais timestamps nessa versão. As comparações preservam a divergência residual. A menção a B9 continua no contexto de homocisteína, sem medição no caldo ou repigmentação.

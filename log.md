@@ -797,3 +797,7 @@ O [novo catálogo](wiki/temas/receitas-peptideos.md) apresenta bebidas, cookie, 
 ## [2026-11-25] ingestão | Mais nove fichas a partir das demonstrações faladas
 
 O [catálogo](wiki/temas/receitas-peptideos.md#mais-nove-fichas-com-fala-e-descrição) chega a 23 fichas e quatro cocktails. As nove adições registram variantes de bebidas de abacate, pudim de chia, chaffles, bolinhas, limonada e picolés, com divergências entre fala e descrição e os carboidratos declarados pela marca onde disponíveis.
+
+## [2026-11-25] ingestão | Quatro episódios posteriores ao inventário inicial
+
+O [suplemento](raw/inventario-wapf-receitas.md#episódios-posteriores-à-base-de-11-de-novembro) registra duas transcrições editoriais novas em inglês e dois áudios em espanhol processados integralmente. A revisão do reconhecimento em espanhol permanece explícita e os denominadores da base são preservados.

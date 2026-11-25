@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-25",
+  "baseline_date": "2026-11-11",
+  "baseline_rss_items": {
+    "en": 608,
+    "es": 189
+  },
+  "current_rss_items": {
+    "en": 610,
+    "es": 191
+  },
+  "episodes": [
+    {
+      "language": "en",
+      "episode": 606,
+      "guid": "a69fabbc-3430-4c64-9914-f10cf0b3ac95",
+      "title": "606: Fix Your Airway, Transform Your Health With Dr. Hilary Fritsch",
+      "page": "https://www.westonaprice.org/podcast/fix-your-airway-transform-your-health-with-dr-hilary-fritsch/",
+      "media": "https://traffic.libsyn.com/secure/wisetraditions/Audio_-_FINAL_-_WT_606_Dr._Hilary_Fritsch.mp3?dest-id=323969",
+      "rss_duration": "50:55",
+      "transcript_heading": true,
+      "coverage": "published transcript read"
+    },
+    {
+      "language": "en",
+      "episode": 605,
+      "guid": "43cae84b-dfb0-45d3-837e-8207edc29e27",
+      "title": "605: Who Controls Your Baby's First Food? With Dr. Melonie Schoenherr",
+      "page": "https://www.westonaprice.org/podcast/who-controls-your-babys-first-food-with-dr-melonie-schoenherr/",
+      "media": "https://traffic.libsyn.com/secure/wisetraditions/Audio_-_FINAL_-_WT_605_Dr._Melonie_Schoenherr.mp3?dest-id=323969",
+      "rss_duration": "54:30",
+      "transcript_heading": true,
+      "coverage": "published transcript read"
+    },
+    {
+      "language": "es",
+      "episode": 188,
+      "guid": "74422aa4-2760-4ba8-a721-006607537a1b",
+      "title": "188: Cómo conocer el idioma del cuerpo a través de las cinco leyes biológicas, con la Dra. Verónica Sieira",
+      "page": "https://sabiastradiciones.libsyn.com/188-cmo-conocer-el-idioma-del-cuerpo-a-travs-de-las-cinco-leyes-biolgicas-con-la-dra-vernica-sieira",
+      "media": "https://traffic.libsyn.com/secure/sabiastradiciones/Ep._188-Entrevista_Veronica_Sieira_FINAL.mp3?dest-id=863873",
+      "rss_duration": "44:12",
+      "transcript_heading": false,
+      "coverage": "whole audio transcribed; recognition review in progress"
+    },
+    {
+      "language": "es",
+      "episode": 187,
+      "guid": "9aa6f160-7431-4191-aae4-5218c53acc4e",
+      "title": "187: Un enfoque innovador para comprender la salud, el cuerpo y los síntomas, con la Dra. Veronica Sieira",
+      "page": "https://sabiastradiciones.libsyn.com/187-no-estamos-enfermos-estamos-reparando-con-la-dra-veronica-sieira",
+      "media": "https://traffic.libsyn.com/secure/sabiastradiciones/Ep._187_-_Veronica_Sieira_FINAL_2.mp3?dest-id=863873",
+      "rss_duration": "50:47",
+      "transcript_heading": false,
+      "coverage": "whole audio transcribed; recognition review in progress"
+    }
+  ]
+}

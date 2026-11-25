@@ -536,6 +536,19 @@ O corte seguinte, confirmado por GUID, chegou a **112 de 237** áudios das pági
 | [149 · Recomendaciones para criar tus primeras gallinas ponedoras](https://sabiastradiciones.libsyn.com/149-recomendaciones-para-criar-tus-primeras-gallinas-ponedoras-con-ana-luz-muoz-de-tierra-de-todos) | 40:15 · 39:56 | Reaproveitamento da galinha em caldo a 29:30–29:47, sem ficha com medidas. |
 | [148 · La importancia de entender que el alimento es mucho más que comida](https://sabiastradiciones.libsyn.com/148-la-importancia-de-entender-que-el-alimento-es-mucho-ms-que-comida-con-alex-von-foerster-de-alimento-y-conciencia) | 50:22 · 50:13 | Sem menção temática na triagem automática. |
 
+### Episódios posteriores à base de 11 de novembro
+
+A reconsulta dos RSS em **25 de novembro** encontrou **610 itens em inglês**, contra 608 na base, e **191 em espanhol**, contra 189. Os quatro GUIDs novos são um suplemento. Eles não alteram retroativamente os denominadores das filas de 237 e 189 acima. O [manifesto suplementar](wapf-episodios-suplementares-2026-11-25.json) preserva páginas, enclosures e durações declaradas pelos feeds.
+
+| Episódio novo | Duração declarada | Cobertura e resultado |
+| --- | --- | --- |
+| [605 · Who Controls Your Baby's First Food?](https://www.westonaprice.org/podcast/who-controls-your-babys-first-food-with-dr-melonie-schoenherr/) | 54:30 | Transcrição editorial extraída e lida até a despedida. O trecho de caldo e tutano está identificado na reconsulta das páginas e na [nota de introdução alimentar](../wiki/fontes/nhs-introducao-alimentar.md). |
+| [606 · Fix Your Airway, Transform Your Health](https://www.westonaprice.org/podcast/fix-your-airway-transform-your-health-with-dr-hilary-fritsch/) | 50:55 | Transcrição editorial extraída e lida até a despedida. Sem correspondência temática no texto do diálogo. |
+| [187 · Un enfoque innovador para comprender la salud, el cuerpo y los síntomas](https://sabiastradiciones.libsyn.com/187-no-estamos-enfermos-estamos-reparando-con-la-dra-veronica-sieira) | 50:47 | Áudio inteiro transcrito, com primeira e última marca em 00:00:01 e 00:50:23. A leitura não encontrou menção temática, mas o reconhecimento mistura idiomas. Recortes foram reprocessados e a revisão integral por outro modelo está em andamento. |
+| [188 · Cómo conocer el idioma del cuerpo a través de las cinco leyes biológicas](https://sabiastradiciones.libsyn.com/188-cmo-conocer-el-idioma-del-cuerpo-a-travs-de-las-cinco-leyes-biolgicas-con-la-dra-vernica-sieira) | 44:12 | Áudio inteiro transcrito, com marcas em 00:00:01–00:44:01. Mesma limitação de idioma, sem menção temática identificada no texto. Recortes e revisão integral alternativa preservam a primeira versão. |
+
+As transcrições publicadas dos dois episódios em inglês dão cobertura textual. Não foi feita uma comparação palavra por palavra com as suas faixas de áudio. Os dois episódios em espanhol acrescentam **1h34min59s** de mídia processada, com a revisão do reconhecimento ainda pendente neste corte.
+
 ## Reconsulta dos mapas em 25 de novembro de 2026
 
 Os **15 mapas** passaram de **6.376 para 6.387 URLs distintas**. O confronto com a captura de 11 de novembro identificou **11 endereços novos**, **34 com `lastmod` diferente** e nenhum removido. Os **45 endereços** foram abertos, todos com HTTP 200, e seus textos extraídos foram triados por termos temáticos. Dez tiveram correspondências, incluindo índices que repetem conteúdo já inventariado. O [manifesto público](wapf-atualizacao-2026-11-25.json) enumera cada endereço, suas datas, o estado de acesso e o hash do texto extraído. O método não compara novamente todos os 6.387 corpos e não prova que o conteúdo dos outros endereços permaneceu igual. [Índice atual dos mapas](https://www.westonaprice.org/sitemap_index.xml)

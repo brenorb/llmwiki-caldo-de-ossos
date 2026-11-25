@@ -208,3 +208,9 @@ O [registro dos 12 TXT](../../raw/wapf-leitura-integral-12-2026-11-25.json) pres
 | [EN156 · Diversify Your Diet, 11:14–11:30](https://wisetraditions.libsyn.com/156-diversify-your-diet), linhas108–110 | Chris Masterjohn diz que caldo/stock não é boa fonte de cálcio e distingue ossos comestíveis. O alvo diário citado antes refere-se à dieta total, sem medir caldo. A [síntese de composição](../temas/composicao.md) conserva análises laboratoriais com amostras e unidades próprias. |
 
 O texto automático não garante reconhecimento integral da fala. Os demais itens têm negativos e menções bibliográficas/comerciais discriminados no ledger; a leitura não valida alegações clínicas ou os estudos citados pelos participantes.
+
+## Terceiro lote health e complementos culinários
+
+Os [50 corpos adicionais](../../raw/wapf-health-lote3-50-2026-11-25.tsv) foram lidos integralmente; a [seleção e cobertura](../../raw/wapf-health-lote3-50-2026-11-25.json) distinguem cinco canônicas por idioma e limites de mídias/referências. As [medidas de nove preparos e um caldo-base](../temas/receitas-wapf-catalogo.md#medidas-conferidas-no-terceiro-lote-health) complementam receitas já catalogadas.
+
+Em *Cold, Flu and Fever*, identificado no TSV, caldo faz parte de recomendações alimentares, sem experimento do ingrediente isolado. Em *Soup-stenance*, a prática de repor uma panela durante12 dias é relato sem temperatura/controle definidos, não protocolo sanitário adotado. *Electromagnetic Radiation Protection from the Kitchen* fornece fórmulas culinárias, mas o título não demonstra proteção contra radiação. As fontes sobre Nicoya descrevem dieta e entrevistas; frequência cultural e longevidade não isolam o efeito da sopa. Relatos clínicos e textos opinativos continuam classificados como tal.

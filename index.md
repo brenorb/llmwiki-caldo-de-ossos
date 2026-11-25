@@ -222,3 +222,5 @@
 
 - [Lee2025: condroitina em células, acesso ao resumo](wiki/fontes/lee-2025-condroitina-melanina.md)
 - [NCT07839494: plano de ensaio sobre cabelos grisalhos, sem resultados](wiki/fontes/nct07839494-registro-pigmentacao.md)
+
+- [Terceiro lote health: cinquenta corpos WAPF completos e cobertura](raw/wapf-health-lote3-50-2026-11-25.json)

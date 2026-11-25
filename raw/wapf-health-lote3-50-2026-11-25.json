@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-25",
+  "census_date": "2026-11-11",
+  "scope": "Terceiro lote fixo de 50 positivos health, batch_index 0–49; seleção pela URL histórica normalizada, sem substituir canônicas ou iniciar outro lote.",
+  "editorial_available_bodies_fully_read": 50,
+  "unique_requested_urls": 50,
+  "unique_current_canonicals": 50,
+  "http_200": 50,
+  "lines": 4188,
+  "characters": 1132968,
+  "partitions": {
+    "00-19": 20,
+    "20-34": 15,
+    "35-49": 15
+  },
+  "physical_html_txt_hashes_checked": 100,
+  "physical_hashes_match_recovery": true,
+  "all_indices_exactly_0_through_49": true,
+  "all_text_line_ranges_cover_1_to_end_without_gaps_or_overlap": true,
+  "reader_checkpoint_parts": 120,
+  "physical_verification": "Consolidação recalculou os 100 SHA-256 físicos de HTML/TXT, as contagens e a cobertura integral dos 50 TXT. Também recalculou os hashes de cada checkpoint da faixa 00–19; as outras faixas preservam intervalos e checkpoints sem hashes por parte.",
+  "canonical_differences": [
+    {
+      "index": 8,
+      "requested": "https://www.westonaprice.org/health-topics/characteristics-traditional-diets-german-translation/",
+      "canonical": "https://www.westonaprice.org/de/health-topics/characteristics-traditional-diets-german-translation/"
+    },
+    {
+      "index": 9,
+      "requested": "https://www.westonaprice.org/health-topics/characteristics-traditional-diets-spanish-translation/",
+      "canonical": "https://www.westonaprice.org/es/health-topics/characteristics-traditional-diets-spanish-translation/"
+    },
+    {
+      "index": 31,
+      "requested": "https://www.westonaprice.org/health-topics/de-behandeling-van-diabetes/",
+      "canonical": "https://www.westonaprice.org/nl/health-topics/de-behandeling-van-diabetes/"
+    },
+    {
+      "index": 36,
+      "requested": "https://www.westonaprice.org/health-topics/dietary-guidelines-spanish-translation/",
+      "canonical": "https://www.westonaprice.org/es/health-topics/dietary-guidelines-spanish-translation/"
+    },
+    {
+      "index": 43,
+      "requested": "https://www.westonaprice.org/health-topics/educating-rida-french-translation/",
+      "canonical": "https://www.westonaprice.org/fr/health-topics/educating-rida-french-translation/"
+    }
+  ],
+  "page_title_missing_catalogue_title_used_indices": [
+    39
+  ],
+  "ordering_limit": "URL do catálogo preservada como chave de seleção. Não se verificou a ordem global do catálogo pelas canônicas atuais nem o conteúdo visual completo das páginas.",
+  "disjunction_against_previous_positive_batches": [
+    {
+      "public_table": "wapf-health-leitura-50-2026-11-25.tsv",
+      "sha256": "43a98ff1eff3bc484b1df6e4994d6c01b36a0667a555aa475ebd7fa3deb28064",
+      "rows": 50,
+      "requested_url_overlap": 0,
+      "available_identity_overlap": 0,
+      "identity_fields_available_in_prior_table": [
+        "url"
+      ]
+    },
+    {
+      "public_table": "wapf-health-mais50-2026-11-25.tsv",
+      "sha256": "f04ac928de9221c7a8f2bb878e1efd40e94db907052c3e24affd5cebfa28b660",
+      "rows": 50,
+      "requested_url_overlap": 0,
+      "available_identity_overlap": 0,
+      "identity_fields_available_in_prior_table": [
+        "requested_url",
+        "final_url",
+        "canonical_url"
+      ]
+    }
+  ],
+  "previous_batches_overlap_each_other_requested_urls": 0,
+  "previous_batches_overlap_each_other_available_identities": 0,
+  "url_normalization_for_comparison": "Esquema/host em minúsculas, caminho sem barra final, fragmento e query removidos; prefixos de idioma preservados. Além da seleção, comparada união das identidades disponíveis nos TSVs. O primeiro TSV anterior não contém canônicas/finais e não se presume essa informação.",
+  "not_covered": "Imagens, alt fora do TXT, tabelas em imagem, comentários, áudio/vídeo, anexos e referências externas. Bibliografia visível lida não é leitura dos originais. HTML foi conferido por hash, sem leitura visual integral. Corpos curtos e índices continuam com seu tipo documental.",
+  "novelty": "Nova prova de leitura dos corpos, não 50 novas receitas/benefícios. Nove preparos nomeados já constam do catálogo atual; o caldo base Bone Broth 101 é complemento de fonte já catalogada. Medidas e lacunas são complementos editoriais, sem ineditismo presumido.",
+  "not_whole_site": true,
+  "table_sha256": "fef2ff6e22d18897f2d9bcd4ae06fb57bd1ac334d27c56dae7ea47ddd2b77bcb",
+  "merged_ledger_sha256": "69c7b6c9f4665418ddafc56716cfe1394a776bcafb9d613c571b2f7a3954d38b",
+  "catalogue_sha256": "86f0948fd7b321701c2c4e89765d74363a205ae2a277ff333077f05189e19a82",
+  "source_ledgers_sha256": {
+    "ledger-faixa-00-19.jsonl": "6f32869499a94d278e5e90f2a3a90f74009aa44007d5145240eb8351c5c0bbf7",
+    "ledger-faixa-20-34.jsonl": "2b480bb5430b6f8b72103c02ff36813208800fc6af18ecfffe9f99f79e2a688c",
+    "ledger-faixa-35-49.jsonl": "bc550ec1cb0022488c900b2045ecb8df518d6f6735fdabd5aea257ead4cf41c8"
+  }
+}

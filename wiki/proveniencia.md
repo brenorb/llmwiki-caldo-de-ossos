@@ -110,3 +110,5 @@ A [fatia negativa 50–99](../raw/wapf-health-negativos-50-100-2026-11-25.tsv) p
 Os [12 textos WAPF adicionais](../raw/wapf-leitura-integral-12-2026-11-25.json) têm hashes físicos e faixas inclusivas conferidos, disjuntos dos cortes de18 e seis. Conclusão ASR, leitura textual e qualidade continuam etapas distintas; ES141/142 não sustentam negativa forte de toda a gravação. O relato infantil multicomponente permanece anedótico e anônimo.
 
 A [atualização de pigmentação](../raw/pigmentacao-atualizacao-2026-11-25.json) distingue resumo pré-clínico de condroitina e registro prospectivo sem resultados. Formulações comerciais incompletas e acesso parcial não viraram doses ou eficácia clínica do caldo.
+
+O [terceiro lote positivo health](../raw/wapf-health-lote3-50-2026-11-25.tsv) tem100 hashes físicos e faixas1–fim conferidos. Receitas já catalogadas ganharam medidas/lacunas, sem serem contadas novamente. Relatos, tradições alimentares e nomes terapêuticos permanecem separados de testes clínicos.

@@ -990,3 +990,7 @@ O [corte dos12](raw/wapf-leitura-integral-12-2026-11-25.json) acrescenta4.021 li
 ## [2026-11-25] revisão | Modelos de condroitina e registro prospectivo de pigmentação
 
 A [atualização dirigida](raw/pigmentacao-atualizacao-2026-11-25.json) registra fontes oficiais, hashes dos dois registros e tentativas de acesso ao artigo coreano. Acesso ao resumo permaneceu explícito; o ensaio prospectivo sem resultados não foi usado como prova de cobre isolado ou caldo. Síntese de canície, índice e proveniência atualizados.
+
+## [2026-11-25] revisão | Terceiro lote health e medidas de receitas existentes
+
+Unidos três pareceres e conferidos50 índices,100 hashes físicos e4.188 linhas no [registro](raw/wapf-health-lote3-50-2026-11-25.json). O catálogo recebeu medidas/tempos/rendimentos e lacunas dos preparos já presentes, distinguindo ingredientes com amido, adaptações e alegações não validadas. As cinco diferenças de canônica e a ausência de leitura de mídia/referências externas permanecem explícitas.

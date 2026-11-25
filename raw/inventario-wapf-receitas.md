@@ -865,7 +865,7 @@ A contagem de **conclusão ASR** congelada passa de 127/237 a 131/237 EN e de 64
 | ES143, **16:23–17:35** | Vitamina K em contexto dental, sem caldo ou medição na bebida. |
 | EN165, EN163 e ES144 | Sem nova passagem temática localizada no texto inteiro; ausência limitada pelo reconhecimento, especialmente no 144. |
 
-**ES144 tem mistura extensa de idiomas**; a revisão alternativa integral está em curso, preservando V3. EN165 22:09–23:36 tem salto contextual a conferir. Os demais intervalos longos e erros estão localizados no ledger, sem presumir silêncio/omissão pelo tempo entre inícios. Nenhum dos seis textos trouxe medição percentual de componentes, B9 no caldo ou relato de repigmentação; esse resultado não cobre palavras perdidas pelo ASR.
+**ES144 tem mistura extensa de idiomas na versão V3**; a revisão alternativa integral foi concluída e está descrita abaixo, preservando V3. EN165 22:09–23:36 tem salto contextual a conferir. Os demais intervalos longos e erros estão localizados no ledger, sem presumir silêncio/omissão pelo tempo entre inícios. Nenhum dos seis textos trouxe medição percentual de componentes, B9 no caldo ou relato de repigmentação; esse resultado não cobre palavras perdidas pelo ASR.
 
 ### Auditoria da cobertura de artigos fora das receitas
 
@@ -878,3 +878,11 @@ No feed health há **1.415 páginas**,393 com termos e 1.022 sem eles. A triagem
 ### Aproveitamento de tutano incorporado separadamente
 
 Sete fontes já lidas passaram ao [caderno de tutano](../wiki/temas/receitas-tutano.md), com [hashes e autoria](wapf-receitas-tutano-2026-11-25.json). São manteigas, cremes, variantes de sorvete e smoothie, sem recontagem de leitura ou equiparação ao caldo líquido. As adaptações para reduzir carboidratos estão identificadas, junto das divergências de ovos, unidades e ingredientes crus.
+
+### ES144: alternativa integral e quatro recortes comparativos
+
+O [registro por versão](wapf-revisao-es144-2026-11-25.json) preserva a mídia de **50min03s**, a versão V3 de 273 linhas e uma alternativa Ultra de **352 linhas, todas lidas**, com **26/26 blocos** e aviso final até 49:54. Não houve limite de duração, mudança do padrão ou duplicação do GUID. Mídia e V3 foram novamente hashados e permaneceram iguais.
+
+O espanhol ficou qualitativamente mais legível, inclusive em 34:01–35:24 e 43:41–45:14, antes com poucos fragmentos. O intervalo 35:24–37:22 já continha um parágrafo V3 extenso, portanto menor distância entre marcas não prova recuperação de fala omitida. A alternativa não foi declarada perfeita nem avaliada por referência humana/WER.
+
+Quatro recortes comparativos (31:40–34:40 e 36:25–37:45, cada um em V3/Ultra) tiveram **75 linhas integralmente lidas e 18/18 blocos**. Apoiam uma negação em 31:41–31:59 e a expressão de controles biológicos em 37:11–37:23 contra erros da alternativa integral, sem apagar variantes. Permanecem incertas a frase terra/água em **34:14–34:28** e a identificação de planta em **36:41–36:53**. Nenhuma versão nova acrescentou caldo, composição, B9 ou repigmentação localizados no texto. Hashes físicos de saídas, logs e derivados com os tempos originais foram conferidos.

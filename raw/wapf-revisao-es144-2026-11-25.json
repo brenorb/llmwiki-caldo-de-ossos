@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-25",
+  "episode": 144,
+  "language": "es",
+  "guid": "4f5690bb-fbfb-4f94-b7ec-fec8e32a552b",
+  "revision_not_new_episode": true,
+  "asr_alternative": "parakeet-ultra",
+  "device": "mps",
+  "no_asr_duration_timeout": true,
+  "original": {
+    "sha256": "5d53991d062d3faa19d1eed50b2a6bf888538d6544ef6fdda6699d31de9302e0",
+    "lines": 273,
+    "first": "00:00:00",
+    "last": "00:49:54",
+    "ranges_read_previously": [
+      [
+        1,
+        140
+      ],
+      [
+        141,
+        273
+      ]
+    ],
+    "timestamp_gaps_over55s": [
+      {
+        "from_line": 203,
+        "to_line": 204,
+        "start": "00:34:01",
+        "end": "00:35:24",
+        "seconds": 83
+      },
+      {
+        "from_line": 204,
+        "to_line": 205,
+        "start": "00:35:24",
+        "end": "00:37:22",
+        "seconds": 118
+      },
+      {
+        "from_line": 233,
+        "to_line": 234,
+        "start": "00:43:41",
+        "end": "00:45:14",
+        "seconds": 93
+      }
+    ],
+    "characters": 40441,
+    "timestamp_lines": 273,
+    "largest_interval_seconds": 118,
+    "largest_interval": {
+      "start": "00:35:24",
+      "end": "00:37:22"
+    },
+    "chunk_count": 26,
+    "all_chunks_confirmed": true,
+    "log_sha256": "396f0625b23aa556dd0d54af2282d712d40f0bc503a0f2c7d4cc04aa03f0108f"
+  },
+  "alternative": {
+    "sha256": "0f2dacfed485d40915df4c4564b3a3d17f6f42449b2331ad25e466c16fd21081",
+    "lines": 352,
+    "first": "00:00:00",
+    "last": "00:49:54",
+    "read_at_utc": "2026-11-25T22:48:36.003685+00:00",
+    "characters": 49037,
+    "timestamp_lines": 352,
+    "largest_interval_seconds": 33,
+    "largest_interval": {
+      "start": "00:44:47",
+      "end": "00:45:20"
+    },
+    "chunk_count": 26,
+    "all_chunks_confirmed": true,
+    "log_sha256": "cd5a5083682a04a2cdb37ddbb2aa437530a0b6fc70bbf1a066df3a67ec5ad3f6",
+    "timestamp_gaps_over55s": []
+  },
+  "alternative_read_ranges": [
+    [
+      1,
+      120
+    ],
+    [
+      121,
+      240
+    ],
+    [
+      241,
+      352
+    ]
+  ],
+  "source_media_sha256": "68d070ec72ce19a2d0c185f4b15261dd68219f3f1bfe7bcb41c2a6afd0ec9d4b",
+  "localized_reads": [
+    {
+      "interval": "31m40-34m40",
+      "source_start_seconds": 1900,
+      "duration_seconds": 180,
+      "model": "parakeet-v3-int8",
+      "chunk_seconds": 32,
+      "returncode": 0,
+      "sha256": "d618d831fe8a82065a97d83b956f0f65171ab487c115d1318685986f9dfd221a",
+      "source_times_sha256": "6d6a9b52bc96dc143956ae500343a650b0ddfa41968c367c5103f8c00ac9b317",
+      "finished_at_utc": "2026-11-25T22:49:04.083516+00:00",
+      "lines": 26,
+      "ranges_read": [
+        [
+          1,
+          26
+        ]
+      ],
+      "chunk_count": 6,
+      "all_chunks_confirmed": true,
+      "log_sha256": "979da75049bdfa6206de6b3ff3dbd37967f99d0adcfa4f6c95fea3bc4580427d",
+      "notes": "Preserva a negação no sirve e o sentido de decomposição/umidade. Frase de 34:14 sobre terra/água ainda estranha; pequeno retrocesso 33:41→33:40 e parágrafo longo 32:40–33:17."
+    },
+    {
+      "interval": "31m40-34m40",
+      "source_start_seconds": 1900,
+      "duration_seconds": 180,
+      "model": "parakeet-ultra",
+      "chunk_seconds": 32,
+      "returncode": 0,
+      "sha256": "f646fa25ce6a6efe2425bff5b6a0808217e7c8fea40bb675752ea21f1b190221",
+      "source_times_sha256": "d474301649235aa8c5a69d7fc3463838cdddf5dd96ae1a304098c224809c98a3",
+      "finished_at_utc": "2026-11-25T22:49:37.793194+00:00",
+      "lines": 31,
+      "ranges_read": [
+        [
+          1,
+          31
+        ]
+      ],
+      "chunk_count": 6,
+      "all_chunks_confirmed": true,
+      "log_sha256": "dc0622d28d63ddcafb8bb8df25106117cba8b2dc72bfcb91a33a16c0c3a78e64",
+      "notes": "Também traz no sirve, apoiando a negação contra nos sirve na saída Ultra integral 31:55, sem servir como transcrição humana de referência. Frase de 34:14 continua instável; repetições nas fronteiras 33:10 e 33:41→33:40."
+    },
+    {
+      "interval": "36m25-37m45",
+      "source_start_seconds": 2185,
+      "duration_seconds": 80,
+      "model": "parakeet-v3-int8",
+      "chunk_seconds": 32,
+      "returncode": 0,
+      "sha256": "45df29187ff21dccc0f67471b6120bb0b672bb7689e1f82fe1a766679d6915a6",
+      "source_times_sha256": "05f8ac7b283fe85a397f019ec8c84664782ecabe0e9eea34b11a5a43ebc163fe",
+      "finished_at_utc": "2026-11-25T22:49:47.625442+00:00",
+      "lines": 9,
+      "ranges_read": [
+        [
+          1,
+          9
+        ]
+      ],
+      "chunk_count": 3,
+      "all_chunks_confirmed": true,
+      "log_sha256": "c2938c52da1e4204ee332511c38e93efd760298e68b55ddf6d2b83a585a115b1",
+      "notes": "Controles biológicos e plantas silvestres são legíveis; nome de planta em 36:41 sai la banda, sem resolução. Pequenas repetições/fronteiras."
+    },
+    {
+      "interval": "36m25-37m45",
+      "source_start_seconds": 2185,
+      "duration_seconds": 80,
+      "model": "parakeet-ultra",
+      "chunk_seconds": 32,
+      "returncode": 0,
+      "sha256": "dfe8dc14565937fcd4dd28936d7eb5e89ae42e8cfdf982d58539b79edc4dd42d",
+      "source_times_sha256": "914a1b36735c31b9f965dc9a9beda8e7095eb0d011bf1d139e961f268175cc1d",
+      "finished_at_utc": "2026-11-25T22:50:05.508413+00:00",
+      "lines": 9,
+      "ranges_read": [
+        [
+          1,
+          9
+        ]
+      ],
+      "chunk_count": 3,
+      "all_chunks_confirmed": true,
+      "log_sha256": "319e99bd0114a4524da8ca3dba57b63653993bbcdd9d51ce7536d5f32a05d369",
+      "notes": "Mantém conteúdo sobre controles biológicos e recupera biológicos em vez de arqueológicos do integral 37:19. Nome de planta 36:41 também la banda; não resolvido. Outro termo 36:38 sai contenidos em vez de controles."
+    }
+  ],
+  "findings": [
+    {
+      "start": "00:06:37",
+      "end": "00:07:33",
+      "result": "Visão de pragas como processos de estabilização agora legível em espanhol; sem caldo."
+    },
+    {
+      "start": "00:17:58",
+      "end": "00:19:29",
+      "result": "Relação solo/árvore, poda e bioindicadores agora legível, em vez da mistura extensa de idiomas."
+    },
+    {
+      "start": "00:21:43",
+      "end": "00:26:43",
+      "result": "Polinizadores, insumos agrícolas e publicidade agora mais legíveis; sem composição de caldo."
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:31:30",
+      "result": "Discussão de funções ecológicas, custos e solo legível; sem caldo."
+    },
+    {
+      "start": "00:34:01",
+      "end": "00:35:24",
+      "result": "Conteúdo de água, decomposição, pergunta e resposta sobre controle biológico aparece em várias linhas; V3 tem somente fragmento seguido de intervalo de 83s."
+    },
+    {
+      "start": "00:35:24",
+      "end": "00:37:22",
+      "result": "Ultra distribui em várias linhas o conteúdo que o V3 concentrou em um grande parágrafo. O intervalo de 118s do V3 não demonstra por si omissão."
+    },
+    {
+      "start": "00:43:41",
+      "end": "00:45:20",
+      "result": "Discussão de umidade, matéria orgânica, sementes e manejo do jardim recuperada em várias linhas, antes muito reduzida/gibberish no V3."
+    },
+    {
+      "start": "00:46:21",
+      "end": "00:47:22",
+      "result": "Cozinhar o próprio alimento, plantar árvores/sementes e interação com sistemas vivos; nenhuma receita ou indicação de caldo."
+    }
+  ],
+  "unresolved": [
+    {
+      "start": "00:34:14",
+      "end": "00:34:28",
+      "issue": "Frase sobre movimento de terra/água segue semanticamente instável nos dois recortes; não completada por inferência."
+    },
+    {
+      "start": "00:36:41",
+      "end": "00:36:53",
+      "issue": "Nome de planta reconhecido como la banda nas duas alternativas curtas; identificação não resolvida."
+    }
+  ],
+  "localized_differences": [
+    {
+      "start": "00:31:41",
+      "end": "00:31:59",
+      "issue": "Recortes V3/Ultra apoiam negação no sirve; Ultra integral 31:55 traz nos sirve. Mantidas todas as variantes."
+    },
+    {
+      "start": "00:37:11",
+      "end": "00:37:23",
+      "issue": "Recortes V3/Ultra trazem controles biológicos, enquanto Ultra integral 37:19 tem arqueológicos. Mantidas variantes; sem referência humana de acurácia."
+    }
+  ],
+  "conclusion": "Espanhol muito mais legível do que V3, leitura integral concluída e encerramento conferido; sem menção temática nova de caldo, composição, repigmentação ou teor de B9 no texto. Permanecem erros/termos e pequenas repetições: não é reconhecimento integral perfeito.",
+  "originals_unchanged_final": true,
+  "completed_at_utc": "2026-11-25T22:51:05.372657+00:00",
+  "source": "https://sabiastradiciones.libsyn.com/144-cunto-dependemos-de-los-seres-que-no-vemos-en-nuestros-ecosistemas-con-raimundo-labbe-de-yo-regenero",
+  "duration_seconds": 3002.839819,
+  "duration_display": "00:50:03",
+  "method": "Leitura integral das 352 linhas Ultra e dos quatro textos curtos (tempos convertidos por offset para a gravação original). V3 integral de 273 linhas já lido no corte anterior. Não houve escuta humana integral ou cálculo independente de acurácia. Nenhum padrão/global ou fila foi alterado; revisão do mesmo GUID não aumenta contadores.",
+  "root_physical_verification": "Mídia, V3, Ultra, log Ultra e quatro recortes TXT/log/tempos originais conferidos por SHA256."
+}

@@ -937,3 +937,8 @@ A [auditoria por URL](raw/wapf-auditoria-artigos-887-2026-11-25.tsv) diferencia 
 ## [2026-11-25] ingestão | Outras possibilidades culinárias com tutano
 
 O [novo caderno](wiki/temas/receitas-tutano.md) incorpora sete fontes da leitura editorial já concluída: manteigas, cremes assados, variantes de sorvete e smoothie, com medidas e alternativas de carboidratos. O [registro](raw/wapf-receitas-tutano-2026-11-25.json) separa tutano, caldo e gelatina; não repete alegações clínicas como resultados e preserva divergências sobre ovos/unidades. Adaptações da wiki permanecem não testadas.
+
+
+## [2026-11-25] revisão | ES144 inteiro, com incertezas preservadas
+
+A [revisão do mesmo GUID](raw/wapf-revisao-es144-2026-11-25.json) registra 352 linhas Ultra e 75 linhas curtas lidas integralmente. Os 26 blocos da faixa inteira e 18 dos recortes terminaram, sem limite de duração. A [nota de cobertura](raw/inventario-wapf-receitas.md#es144-alternativa-integral-e-quatro-recortes-comparativos) distingue melhora de legibilidade, erros da alternativa e duas incertezas restantes, sem duplicar episódios ou afirmar transcrição perfeita. V3 e mídia permanecem inalterados.

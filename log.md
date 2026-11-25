@@ -822,3 +822,8 @@ A [matriz](wiki/temas/relatos-e-evidencia.md) contextualiza o relato do episódi
 ## [2026-11-25] revisão | Cartelas dos 34 vídeos sem fala reconhecida
 
 O [inventário visual por ID](raw/youtube-revisao-visual-34-2026-11-25.tsv) registra 1.289 quadros a 1 fps e 120 adicionais em quatro intervalos rápidos. A [nota de fonte](wiki/fontes/primal-kitchen-receitas-peptideos.md) e o [catálogo](wiki/temas/receitas-peptideos.md#o-que-foi-efetivamente-conferido) distinguem a amostragem densa da reprodução contínua e preservam a atribuição das medidas às fichas escritas.
+
+
+## [2026-11-25] ingestão | 24 textos integrais do canal e menções a caldo em cubos
+
+O [corte por ID](raw/youtube-mda-leitura-24-2026-11-25.json) preserva a leitura dos 24 textos, a cobertura dos blocos e a pendência audiovisual. O [inventário](raw/inventario-mark-receitas.md#primeiro-lote-amplo-de-marks-daily-apple-lido), a [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) e a [matriz](wiki/temas/relatos-e-evidencia.md) incorporam as três passagens temáticas e a retriagem de bouillon, mantendo suplemento, cubos de caldo e caldo de ossos distintos.

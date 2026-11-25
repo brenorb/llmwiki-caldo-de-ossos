@@ -179,7 +179,7 @@ A busca por Sisson nos títulos e nas descrições dos **1.051 itens** do RSS (0
 
 | Episódio | Passagem conferida |
 | --- | --- |
-| [#257, 05/12/2017](https://themodelhealthshow.com/keto-reset-diet/) | **1h18min47s**. A transcrição ficou sem menções detectadas aos quatro termos. |
+| [#257, 05/12/2017](https://themodelhealthshow.com/keto-reset-diet/) | **1h18min47s**. Entre **1h15min43s e 1h15min49s**, Sisson sugere pôr um cubo de caldo em água morna e beber ocasionalmente, no contexto de eletrólitos durante a adaptação à dieta cetogênica. A transcrição publicada pelo programa identifica nominalmente **Mark Sisson** nesse parágrafo. O tipo de caldo em cubos não é especificado. |
 | [#668, 13/03/2023](https://themodelhealthshow.com/mark-sisson/) | **1h13min49s**. A transcrição ficou sem menções detectadas aos quatro termos. |
 | [#868, 10/02/2025](https://themodelhealthshow.com/mark-sisson-2/) | **1h19min37s**. A transcrição ficou sem menções detectadas aos quatro termos. |
 | [#1038, 28/09/2026](https://themodelhealthshow.com/mark-sisson-3/) | **1h04min09s**. O relato sobre o uso de suplemento de colágeno está descrito na tabela de entrevistas acima. |

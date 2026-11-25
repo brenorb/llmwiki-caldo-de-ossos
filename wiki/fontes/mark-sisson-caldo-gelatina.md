@@ -128,6 +128,8 @@ Em um vídeo sobre fibras, Sisson propõe que bactérias intestinais gerem ácid
 
 As compilações **#240 e #261 de Muscle Intelligence** reaproveitam a entrevista #238. A conferência integral das duas faixas, de **2h01min26s** no total, confirmou a repetição do relato sobre Aquiles e digestão e da hipótese sobre fermentação. O #261 também repete as lembranças de caldo e gelatina. São novas edições da mesma conversa. Elas não constituem relatos independentes nem novas avaliações clínicas. [Tempos, atribuições e cobertura](../../raw/mark-sisson-entrevistas.md#muscle-intelligence-com-ben-pakulski)
 
+A leitura integral dos textos do [primeiro lote amplo de 24 vídeos](../../raw/inventario-mark-receitas.md#primeiro-lote-amplo-de-marks-daily-apple-lido) recuperou menções incidentais. Sisson declara consumir 20–30 g/dia de suplemento no vídeo sobre dieta carnívora e 20 g/dia no vídeo sobre jejum. São quantidades autodeclaradas de **suplemento**, sem medição de colágeno no caldo. No vídeo sobre eletrólitos e no Model Health Show #257, ele menciona caldo em cubos com água morna; o tipo de caldo não é especificado. A comparação com caldo de ossos exige manter essa diferença de objeto. [Carnívora, 02:00–03:34](https://www.youtube.com/watch?v=ufZF3jt95go&t=120s) · [Jejum, 00:08–00:23](https://www.youtube.com/watch?v=LsrvhpXTjxA&t=8s) · [Eletrólitos, 01:54–02:01](https://www.youtube.com/watch?v=n_DdvxWFDxU&t=114s)
+
 O [caderno de receitas de coco dos leitores](mark-sisson-caderno-coco.md) reúne seis preparos com caldo ou fundo de frango encontrados nas 84 páginas do livreto do concurso de 2010.
 
 ## Livros em coautoria

@@ -1,0 +1,312 @@
+{
+  "data": "2026-11-25",
+  "catalogo_base": "2026-11-11",
+  "segundos_decodificados": 4167.721229000001,
+  "metodo": "Leitura integral dos 24 textos ASR e conferência dos blocos concluídos. Não equivale a leitura audiovisual integral. Atribuição dos três trechos temáticos confirmada por quadros do canal e contexto.",
+  "videos": [
+    {
+      "id": "II7uGNiXq2k",
+      "title": "Why Did Mark Go Keto?",
+      "duration_decoded": 60.141,
+      "full_text_read": true,
+      "asr_blocks_announced": 2,
+      "asr_blocks_completed": 2,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=II7uGNiXq2k"
+    },
+    {
+      "id": "-74LKg1-p5c",
+      "title": "Mark Sisson's Chipotle Mayo Recipe",
+      "duration_decoded": 62.661,
+      "full_text_read": true,
+      "asr_blocks_announced": 2,
+      "asr_blocks_completed": 2,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=-74LKg1-p5c"
+    },
+    {
+      "id": "jZIQMe7KyAE",
+      "title": "What's With Mark And Salads",
+      "duration_decoded": 63.521,
+      "full_text_read": true,
+      "asr_blocks_announced": 2,
+      "asr_blocks_completed": 2,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=jZIQMe7KyAE"
+    },
+    {
+      "id": "mhU4aK5MEJk",
+      "title": "Mark Sisson's On-The-Go Road Warrior Workout",
+      "duration_decoded": 78.06381,
+      "full_text_read": true,
+      "asr_blocks_announced": 2,
+      "asr_blocks_completed": 2,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=mhU4aK5MEJk"
+    },
+    {
+      "id": "vF8YUqHMFtk",
+      "title": "Mark Sisson's Primal Curry Chicken Salad Recipe",
+      "duration_decoded": 79.261,
+      "full_text_read": true,
+      "asr_blocks_announced": 2,
+      "asr_blocks_completed": 2,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=vF8YUqHMFtk"
+    },
+    {
+      "id": "TRUGjM8j6a8",
+      "title": "Mark's Ab Workout",
+      "duration_decoded": 121.761,
+      "full_text_read": true,
+      "asr_blocks_announced": 3,
+      "asr_blocks_completed": 3,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=TRUGjM8j6a8"
+    },
+    {
+      "id": "0fpdmkIr8hY",
+      "title": "Mark's Favorite Exercise: Trap Bar Deadlift",
+      "duration_decoded": 134.881,
+      "full_text_read": true,
+      "asr_blocks_announced": 4,
+      "asr_blocks_completed": 4,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=0fpdmkIr8hY"
+    },
+    {
+      "id": "0Xz20vedDvc",
+      "title": "What Are Some Signs You Need to Adjust Calories or Amount of Protein? #ListenToTheSisson",
+      "duration_decoded": 157.681,
+      "full_text_read": true,
+      "asr_blocks_announced": 4,
+      "asr_blocks_completed": 4,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=0Xz20vedDvc"
+    },
+    {
+      "id": "n_DdvxWFDxU",
+      "title": "Do I Need to Supplement with Electrolytes on Keto? #ListenToTheSisson",
+      "duration_decoded": 159.101,
+      "full_text_read": true,
+      "asr_blocks_announced": 4,
+      "asr_blocks_completed": 4,
+      "long_timestamp_gaps": [],
+      "visual_review": "quadro em01:54 conferido para atribuição, restante não inspecionado visualmente",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=n_DdvxWFDxU"
+    },
+    {
+      "id": "GDHzUovkwxQ",
+      "title": "PB Law #9: Avoid Stupid Mistakes",
+      "duration_decoded": 178.961,
+      "full_text_read": true,
+      "asr_blocks_announced": 5,
+      "asr_blocks_completed": 5,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "série do canal; confirmação visual individual pendente",
+      "url": "https://www.youtube.com/watch?v=GDHzUovkwxQ"
+    },
+    {
+      "id": "Ag6cXv569N0",
+      "title": "How Do I Add More Healthy Fats? #ListenToTheSisson",
+      "duration_decoded": 188.461,
+      "full_text_read": true,
+      "asr_blocks_announced": 5,
+      "asr_blocks_completed": 5,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=Ag6cXv569N0"
+    },
+    {
+      "id": "jQnOBS4mKLg",
+      "title": "PB Law #2: Avoid Poisonous Things",
+      "duration_decoded": 190.261,
+      "full_text_read": true,
+      "asr_blocks_announced": 5,
+      "asr_blocks_completed": 5,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "série do canal; confirmação visual individual pendente",
+      "url": "https://www.youtube.com/watch?v=jQnOBS4mKLg"
+    },
+    {
+      "id": "LeMwUx_2HZg",
+      "title": "What Are Your Top 3 Productivity Tips? #ListenToTheSisson",
+      "duration_decoded": 195.861,
+      "full_text_read": true,
+      "asr_blocks_announced": 5,
+      "asr_blocks_completed": 5,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=LeMwUx_2HZg"
+    },
+    {
+      "id": "F6vYPQciO2g",
+      "title": "PB Law #8: Get Plenty of Sunlight",
+      "duration_decoded": 202.021,
+      "full_text_read": true,
+      "asr_blocks_announced": 5,
+      "asr_blocks_completed": 5,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "série do canal; confirmação visual individual pendente",
+      "url": "https://www.youtube.com/watch?v=F6vYPQciO2g"
+    },
+    {
+      "id": "SOGodhBRxHA",
+      "title": "What Mark Currently Eats, Exercise, and What's Changed",
+      "duration_decoded": 207.741,
+      "full_text_read": true,
+      "asr_blocks_announced": 5,
+      "asr_blocks_completed": 5,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=SOGodhBRxHA"
+    },
+    {
+      "id": "Vemc4DrA-88",
+      "title": "PB Law #6: Get Plenty of Sleep",
+      "duration_decoded": 207.515448,
+      "full_text_read": true,
+      "asr_blocks_announced": 5,
+      "asr_blocks_completed": 5,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "série do canal; confirmação visual individual pendente",
+      "url": "https://www.youtube.com/watch?v=Vemc4DrA-88"
+    },
+    {
+      "id": "aQbI7tFlY5s",
+      "title": "What If I'm Not Hungry on Keto...Like...Ever? #ListenToTheSisson",
+      "duration_decoded": 215.961,
+      "full_text_read": true,
+      "asr_blocks_announced": 5,
+      "asr_blocks_completed": 5,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=aQbI7tFlY5s"
+    },
+    {
+      "id": "oU188so9cjc",
+      "title": "PB Law #3:  Move Frequently",
+      "duration_decoded": 220.741,
+      "full_text_read": true,
+      "asr_blocks_announced": 6,
+      "asr_blocks_completed": 6,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "série do canal; confirmação visual individual pendente",
+      "url": "https://www.youtube.com/watch?v=oU188so9cjc"
+    },
+    {
+      "id": "4ucSmGtdKZE",
+      "title": "Has Mark Gone Full Keto?",
+      "duration_decoded": 216.720971,
+      "full_text_read": true,
+      "asr_blocks_announced": 6,
+      "asr_blocks_completed": 6,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=4ucSmGtdKZE"
+    },
+    {
+      "id": "gXMyl7kw1gY",
+      "title": "Mark's Sprinting Workout",
+      "duration_decoded": 234.901,
+      "full_text_read": true,
+      "asr_blocks_announced": 6,
+      "asr_blocks_completed": 6,
+      "long_timestamp_gaps": [
+        {
+          "start": 111,
+          "end": 177,
+          "review": "Montagem de sprints conferida em72quadros a1fps e recorteASR contínuo, sem nova fala detectada."
+        }
+      ],
+      "visual_review": "Intervalo01:49–03:01 conferido a1fps, restante não inspecionado nesta rodada.",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=gXMyl7kw1gY"
+    },
+    {
+      "id": "k-i1F52g5L0",
+      "title": "Do You Have to Limit Protein on Keto? #ListenToTheSisson",
+      "duration_decoded": 236.881,
+      "full_text_read": true,
+      "asr_blocks_announced": 6,
+      "asr_blocks_completed": 6,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=k-i1F52g5L0"
+    },
+    {
+      "id": "jj_kGB7396w",
+      "title": "What Has Mark Learned From Keto? #ListenToTheSisson",
+      "duration_decoded": 240.721,
+      "full_text_read": true,
+      "asr_blocks_announced": 6,
+      "asr_blocks_completed": 6,
+      "long_timestamp_gaps": [],
+      "visual_review": "não inspecionado nesta rodada",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=jj_kGB7396w"
+    },
+    {
+      "id": "ufZF3jt95go",
+      "title": "What Are Your Current Thoughts on the Carnivore Diet? #ListenToTheSisson",
+      "duration_decoded": 248.521,
+      "full_text_read": true,
+      "asr_blocks_announced": 6,
+      "asr_blocks_completed": 6,
+      "long_timestamp_gaps": [],
+      "visual_review": "quadro temático conferido, Sisson presente, restante não inspecionado visualmente",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=ufZF3jt95go"
+    },
+    {
+      "id": "LsrvhpXTjxA",
+      "title": "Do Supplements Break a Fast? #ListenToTheSisson",
+      "duration_decoded": 265.381,
+      "full_text_read": true,
+      "asr_blocks_announced": 7,
+      "asr_blocks_completed": 7,
+      "long_timestamp_gaps": [],
+      "visual_review": "quadro temático conferido, Sisson presente, restante não inspecionado visualmente",
+      "speaker_basis": "crédito no título/hashtag do canal e leitura do monólogo",
+      "url": "https://www.youtube.com/watch?v=LsrvhpXTjxA"
+    }
+  ],
+  "conferencia_intervalo_sprints": {
+    "id": "gXMyl7kw1gY",
+    "intervalo_segundos": [
+      109,
+      181
+    ],
+    "quadros_1_fps": 72,
+    "resultado": "Montagem de aquecimento e sprints na imagem; ASR contínuo recupera fala nas bordas e nenhuma adicional no miolo.",
+    "limite": "Não equivale a escuta humana ou leitura de todos os frames."
+  }
+}

@@ -155,3 +155,15 @@ Em [A Wise Diet, 25:37–26:35](https://wisetraditions.libsyn.com/162-a-wise-die
 As [receitas de tutano](../temas/receitas-tutano.md) aproveitam sete fontes do mesmo catálogo de 464 páginas. As introduções não foram usadas como demonstração clínica; o [registro de fontes](../../raw/wapf-receitas-tutano-2026-11-25.json) distingue o tecido comestível de caldo/gelatina e conserva divergências de fórmula.
 
 A [conferência de EN165](../../raw/wapf-revisao-en165-2026-11-25.json) recuperou fala ausente do TXT integral, sem nova passagem temática. Isso reforça que a conclusão de blocos e a leitura de todas as linhas não bastam para declarar cada palavra da gravação reconhecida.
+
+
+## Reconsulta integral de 50 artigos health
+
+O [registro por página](../../raw/wapf-health-leitura-50-2026-11-25.tsv) comprova os corpos completos reconsultados, incluindo referências visíveis. Não confere leitura aos destinos, imagens ou comentários. A [seleção e seus limites](../../raw/wapf-health-leitura-50-2026-11-25.json) distinguem esse lote do site inteiro.
+
+- [Toxicity and Chronic Illness](https://www.westonaprice.org/health-topics/environmental-toxins/toxicity-and-chronic-illness/) afirma que colágeno é 50% glicina, sem base analítica/denominador indicado. Não é percentual medido de caldo.
+- [Mercury](https://www.westonaprice.org/health-topics/environmental-toxins/mercury-the-quintessential-antinutrient/) propõe limite de 3–4 h de cocção em um contexto clínico, remetendo a livro de Cutler, 1999. A página não apresenta teste culinário ou dosagem que valide esse limite como protocolo.
+- [Caustic Commentary 2006](https://www.westonaprice.org/health-topics/caustic-commentary/caustic-commentary-winter-2006/) resume um seminário sobre aroma, ossos e tutano; o original não foi conferido neste lote. [Caustic Commentary 2011](https://www.westonaprice.org/health-topics/caustic-commentary/caustic-commentary-winter-2011/) relata teste sensorial de 34 voluntários, sem concentrações. É pista secundária sobre agradabilidade, sem comprovação clínica de caldo.
+- [Support for Pediatric Cancer](https://www.westonaprice.org/health-topics/modern-diseases/support-pediatric-cancer/) reproduz via *Life Extension, 2005* narrativa de medula de bezerro, sem amostra/dose/desenho detalhados. Não foi caldo como intervenção; as sugestões alimentares do artigo não demonstram efeito oncológico.
+
+Os [métodos culinários incorporados](../temas/receitas-wapf-catalogo.md#complementos-de-artigos-reconsultados-integralmente) têm medidas, adaptações e lacunas próprias. Nenhuma das afirmações acima foi elevada a benefício comprovado.

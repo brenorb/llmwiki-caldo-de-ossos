@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-25",
+  "catalogue_baseline": "2026-11-11",
+  "scope": "Primeiros 50 por URL entre 60 artigos health positivos da fila contextual de 105, excluídos 17 testemunhos narrativos e provas integrais conhecidas.",
+  "full_available_bodies_read": 50,
+  "unique_urls": 50,
+  "http_200": 50,
+  "lines": 5074,
+  "characters": 1161584,
+  "audit": "Hashes físicos de HTML/TXT e faixas 1–fim conferidos, sem duplicação de URL/índice.",
+  "limits": "Só entry-content atual; comentários, imagens, tabelas em imagem, mídia e referências externas não incluídos. Contagem de imagens é de todo o HTML, não só do corpo.",
+  "novelty_warning": "É nova prova por página de reconsulta integral; não significa 50 receitas/benefícios inéditos nem que antes ninguém tenha lido esses corpos.",
+  "source_ledger_sha256": "8551a8e6f5fb753f10515663f74766e90bcca554513a6d57cb6145f802f43726",
+  "catalogue_sha256": "42b24117aa4b21a2ae02a351f54353e2f78e6bd05c48b4c5ad4ff7492bcc47de",
+  "table_sha256": "43a98ff1eff3bc484b1df6e4994d6c01b36a0667a555aa475ebd7fa3deb28064",
+  "not_whole_site": true,
+  "broader_health_census": {
+    "total": 1415,
+    "term_positive": 393,
+    "term_negative": 1022
+  },
+  "not_recounted": "As 464 páginas de receitas, 207 corpos MDA, 17 testemunhos narrativos e 50 negativos em trabalho separado não foram somados como novos corpos deste lote.",
+  "specific_incorporation": "Oyster Nutrition recebeu nota própria; complementos culinários e ressalvas estão ligados no inventário."
+}

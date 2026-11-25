@@ -952,3 +952,8 @@ A [conferência localizada](raw/wapf-revisao-en165-2026-11-25.json) registra 24 
 ## [2026-11-25] ingestão | Relato comercial de extrato e cabelo
 
 A [nota de Oyster Nutrition](wiki/fontes/oyster-nutrition-2025-relato.md), com [registro por hash e faixas](raw/oyster-nutrition-acesso-2026-11-25.json), foi ligada à página de canície e à matriz de relatos, preservando objeto e limites.
+
+
+## [2026-11-25] revisão | Cinquenta artigos health reconsultados integralmente
+
+O [registro de 50 páginas](raw/wapf-health-leitura-50-2026-11-25.tsv) e o [resumo](raw/wapf-health-leitura-50-2026-11-25.json) preservam 5.074 linhas e 1.161.584 caracteres lidos, com hashes e faixas conferidos. Os [complementos de receitas](wiki/temas/receitas-wapf-catalogo.md#complementos-de-artigos-reconsultados-integralmente) incluem medidas e lacunas; a [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#reconsulta-integral-de-50-artigos-health) distingue resumos históricos e alegações de ensaios do caldo. A reconsulta não significa 50 achados inéditos ou leitura do site inteiro.

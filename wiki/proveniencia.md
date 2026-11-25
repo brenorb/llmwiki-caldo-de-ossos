@@ -94,3 +94,5 @@ A [revisão ES144](../raw/wapf-revisao-es144-2026-11-25.json) mantém original e
 Em [EN165](../raw/wapf-revisao-en165-2026-11-25.json), a comparação de um recorte com a saída integral confirmou fala ausente do texto anterior. A versão complementar permanece separada; o episódio não é contado novamente.
 
 O [registro de Oyster Nutrition](../raw/oyster-nutrition-acesso-2026-11-25.json) sustenta uma [nota de relato comercial](fontes/oyster-nutrition-2025-relato.md), classificada separadamente dos ensaios e do caldo.
+
+A [reconsulta de 50 artigos health](../raw/wapf-health-leitura-50-2026-11-25.tsv) tem hashes físicos e faixas completas por URL. É prova de corpo editorial lido, sem validar aconselhamento clínico/sanitário ou conferir leitura a referências externas. Os complementos culinários e resumos secundários permanecem classificados separadamente.

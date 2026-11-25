@@ -747,3 +747,8 @@ O [inventário de áudio](raw/inventario-wapf-receitas.md#retomada-de-áudio-em-
 ## [2026-11-25] ingestão | Waffle de abobrinha e bebida de cacau com peptídeos
 
 As [aplicações culinárias](wiki/temas/aplicacoes-culinarias.md#waffle-de-abobrinha-com-peptídeos) comparam o queijo da demonstração com a ficha escrita e registram quatro combinações de smoothie com seus ingredientes que acrescentam açúcar. O inventário dos canais inclui a mesa-redonda integral.
+
+
+## [2026-11-25] revisão | Duas faixas concluídas após a retomada
+
+O [inventário](raw/inventario-wapf-receitas.md#primeiras-faixas-concluídas-na-fila-retomada) registra as primeiras duas faixas concluídas e um relato de melhora durante mudanças alimentares que incluíram caldo.

@@ -495,6 +495,15 @@ A auditoria dos arquivos preservados acrescentou seis faixas ao corte publicado.
 | [154 · Sello de Garantía Agroecológica](https://sabiastradiciones.libsyn.com/154-el-sello-de-garanta-agroecolgica-un-modelo-participativo-de-certificacin-de-alimentos-con-claudia-garca) | 1 h 01 min 06 s | A busca no texto automático não recuperou termo temático. Há trechos com mistura de idiomas e intervalos longos entre marcas. Uma nova passagem por blocos menores está em andamento. |
 | [153 · Sistemas participativos de garantía](https://sabiastradiciones.libsyn.com/153-descentralizar-procesos-de-certificacin-mediante-sistemas-participativos-de-garanta-con-claudia-garca) | 53 min 57 s | A faixa foi processada até o fim, com reconhecimento irregular em partes. A busca negativa no texto permanece provisória até a revisão por blocos menores. |
 
+#### Primeiras faixas concluídas na fila retomada
+
+O corte de 25 de novembro chegou a **106 de 237** áudios das páginas curtas em inglês e **57 de 189** em espanhol. Restavam **131** e **132**, com as ressalvas de reconhecimento descritas no corte anterior.
+
+| Episódio | Duração da faixa | Passagem pertinente |
+| --- | --- | --- |
+| [180 · Joel Salatin tells all](https://wisetraditions.libsyn.com/180-joel-salatin-tells-all) | 36 min 54 s | Entre 00:27:12 e 00:28:08, Joel Salatin reconta a recuperação percebida de Sina McCullough durante mudanças que incluíram caldo e alimentação tradicional. Faltam dose e avaliação clínica na entrevista. |
+| [152 · El rol de la inflamación y la alimentación](https://sabiastradiciones.libsyn.com/152-el-rol-de-la-inflamacin-y-la-alimentacin-para-mantener-salud-con-la-dra-nayra-txasko) | 55 min 56 s | A busca no texto automático não encontrou menção a caldo, gelatina, colágeno, glicina, tutano ou ossos. A faixa foi processada até o fim, com última marca de fala em 00:55:47. |
+
 ## Publicações dos capítulos locais
 
 O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.376 URLs do sitemap principal. A consulta de 2026-11-11 verificou o relato de uma reunião do capítulo de North Atlanta, as duas fichas de bebidas em imagem e uma apresentação de três páginas. A apresentação diferencia fundo de carne e caldo de ossos por proporções indicativas e por tempo. Nas faixas culinárias, cita 1½–3 h para fundo de aves, 4–6 h para fundo de boi, bisão ou porco, 6–24 h para caldo de ossos de frango e 24–72 h para bovino. O documento não informa a base das proporções, o volume de água ou resultados de testes próprios. As alegações de recuperação da barreira intestinal e maior teor de eletrólitos aparecem no material didático, sem medições comparativas ou ensaio clínico nele. A consulta é pontual e ainda não cobre todos os sites dos capítulos. [Reunião de 31 de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/) · [Apresentação em PDF](https://chapters.westonaprice.org/northatlantaga/files/2024/04/Meat-Stock-vs.-Bone-Broth.pdf) · [Bebidas e medidas](../wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)

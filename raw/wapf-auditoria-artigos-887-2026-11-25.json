@@ -43,6 +43,6 @@
   },
   "method": "Auditoria de registros locais; não houve leitura nova de corpos nesta etapa. Campos de links/fila/termos não certificam íntegra.",
   "historical_full_body_claim": "17 testemunhos narrativos preservados; não foi localizado hash/faixa individual nos registros inspecionados. Outros originais podem ter consulta integral seletiva; não inferir pendência por subtração.",
-  "tsv_sha256": "56ceee230ab70ab030e797ba26545a1b6367ed6847abb364b8577635ec26b586",
+  "tsv_sha256": "88824f859dd715abb60c443ccede312954574d7d5fe31ac1fefc7c7395a5cb4c",
   "scope_warning": "887 candidatos sinalizados fora de Recipe of the Week/Letters não equivalem a todos os artigos WAPF ou a887 páginas definitivamente não lidas. Podcasts, índices e galerias permanecem identificados."
 }

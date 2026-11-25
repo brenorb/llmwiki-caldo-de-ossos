@@ -10,7 +10,7 @@
     "retomar_audio": 107
   },
   "audited": "Hashes físicos de207HTML e207TXT, identidade por índice/URL e cobertura1–N sem lacunas/duplicatas.",
-  "tsv_sha256": "85c982d217903790117f722b97339f7bb4b5d3de35d7c1af0ed6b9eff3f2729f",
+  "tsv_sha256": "91939039eff9c5f14b2114141f58d055699dc18c0ca8cc654b6511334e591371",
   "not_covered": "Imagens, comentários, áudios/vídeos, destinos externos e equivalência às versões históricas.",
   "short_or_redirecting_indices": [
     2,

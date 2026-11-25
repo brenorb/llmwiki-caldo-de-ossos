@@ -179,3 +179,10 @@ As [receitas de caldo](../temas/receitas-caldo.md) aproveitam o material culiná
 Em [Autumn Smith | Healing With Paleo, 21:23–21:37](https://www.youtube.com/watch?v=F3Q2uKcQOYo&t=1283s), Autumn descreve pó de proteína de caldo nas barras Paleovalley e anuncia processamento só com água. A entrevistadora é Elle Russ; não é fala de Sisson. A origem anunciada como 100% grass-fed/finished não é fração analítica de colágeno. Não há receita, dose ou análise independente, e a conversa sobre vitamina C e órgãos é de outros produtos. O [registro por vídeo](../../raw/youtube-mda-leitura-4-2026-11-25.json) preserva contexto comercial e conferência visual de autoria.
 
 A leitura do [lote de 26](../../raw/youtube-mda-leitura-26-2026-11-25.json) e do [lote de quatro](../../raw/youtube-mda-leitura-4-2026-11-25.json) chega a 108 novos textos, com revisões visuais contadas separadamente. A cartela sobre tecidos conjuntivos em *Postbiotics* é alegação editorial sem dose ou ensaio de caldo identificado; a cartela sobre vitaminas bacterianas não mede K2 ou B no caldo.
+
+
+## Produtos e usos na entrevista de Eric Perner
+
+Em [The Benefits of Regenerative Agriculture](https://www.youtube.com/watch?v=r9w-VCI3k0U), Elle Russ entrevista Eric Perner, da Rep Provisions. Em 01:27–01:53 ela descreve pops comerciais com caldo; em 35:15–36:37 discutem caixas para sopas/ensopados. A única quantidade culinária relatada é **uma xícara em Instant Pot**, sem fórmula completa. Não há ingredientes dos pops, análise do caldo ou ensaio clínico. Essa entrevista não foi atribuída a Sisson. O [corte de nove](../../raw/youtube-mda-leitura-9-2026-11-25.json) preserva atribuições, hashes e limites visuais.
+
+A leitura de [Drew Manning](../../raw/youtube-mda-drew-2026-11-25.json) é corte posterior separado, chegando a 118 textos novos lidos. Ideias de tutano/manteiga na entrevista de Ashleigh permanecem distintas de caldo; para fórmulas com medidas, veja as [receitas de tutano](../temas/receitas-tutano.md).

@@ -40,6 +40,7 @@
 - [Cobertura da pesquisa de receitas e relatos](raw/busca-receitas-relatos.md)
 - [Auditoria por página da leitura editorial de 464 receitas WAPF](raw/wapf-leitura-editorial-464-2026-11-25.tsv)
 - [Inventário de entrevistas de Mark Sisson, com tempos e limites](raw/mark-sisson-entrevistas.md)
+- [Canal MDA: lotes de leitura e revisões visuais separadas](raw/inventario-mark-receitas.md#sétimo-lote-amplo-nove-textos-e-três-revisões-visuais)
 - [Leitura editorial de receitas da WAPF: método e cobertura](raw/inventario-wapf-receitas.md#leitura-editorial-integral-de-receitas)
 
 - [Leitura auditada dos 207 corpos atuais de MDA e seus limites históricos](raw/mda-leitura-editorial-207-2026-11-25.tsv)

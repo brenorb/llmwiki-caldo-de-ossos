@@ -100,3 +100,5 @@ A [reconsulta de 50 artigos health](../raw/wapf-health-leitura-50-2026-11-25.tsv
 A [cadeia condroitina/melanina](fontes/seneff-2011-cadeia-melanina.md) é conferência de resumos/metadados e nomenclatura institucional. A distinção entre objeto, enzima e desfecho é explícita; acesso parcial não foi apresentado como leitura de métodos completos ou prova clínica. [Registro](../raw/condroitina-melanina-acesso-2026-11-25.json)
 
 O [lote de cinquenta endereços antes negativos](../raw/wapf-health-negativos-50-2026-11-25.tsv) preserva 43 textos, dois índices e cinco landings. Texto disponível integral não implica artigo histórico/anexo lido; sem corpos antigos não se atribui automaticamente a diferença à triagem. Percentuais de estruturas celulares não foram transferidos ao caldo.
+
+Os cortes de [nove textos](../raw/youtube-mda-leitura-9-2026-11-25.json) e [Drew](../raw/youtube-mda-drew-2026-11-25.json) preservam identidade por ID, atribuições e metadados físicos. Quadros de vídeos vazios e revisões de intervalos não aumentam a contagem dos 118 textos lidos. Produtos comerciais e ideias sem fórmula não foram transformados em receitas medidas.

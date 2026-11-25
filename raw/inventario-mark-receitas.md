@@ -953,3 +953,19 @@ O [inventário por URL](mda-leitura-editorial-207-2026-11-25.tsv) e o [resumo au
 Os 125 erros 429 do inventário antigo não representam falha presente: os 207 arquivos existem e foram lidos. Isso não demonstra identidade com as versões históricas. **The Tech I DO Use** e **Protein Intake Vs. Intermittent Fasting** são introduções curtas sem resposta às perguntas; **Is Keto Dead?** remete a vídeo; o índice 203 remete a outro guia ampliado. Imagens, comentários, mídias e destinos permanecem fora dessa declaração de leitura. O manifesto do relançamento diz que o acervo antigo tinha mais de6.000 posts/páginas e está em republicação:207 não representa todo o histórico MDA.
 
 As cinco candidatas culinárias conferidas incluem quatro fontes com fichas já existentes (sopa de Priscilla, cardápio semanal, chili de acampamento e guia de gelatina). A revisão explicita autoria, limites de desidratação e o [uso opcional de peptídeos na aveia](../wiki/temas/receitas-peptideos.md#aveia-com-peptídeos-uso-opcional-do-marks-daily-apple). Não foram contadas como cinco novas receitas. A [comparação editorial](../wiki/fontes/mark-sisson-caldo-gelatina.md#comparação-de-estimativas-e-experiências-nas-páginas-atuais) conserva estimativas incompatíveis, humor explícito e relatos sem converter suplementos ou alimentos separados em composição de caldo.
+
+### Sétimo lote amplo: nove textos e três revisões visuais
+
+O [corte de nove](youtube-mda-leitura-9-2026-11-25.json) acrescenta **6h12min13s de mídia** e chega a **117 textos novos integralmente lidos**, sem sobreposição com os 108 anteriores. Foram conferidos os hashes físicos de TXT, metadados/logs e a conclusão dos blocos por ID. Atribuições individuais permanecem separadas do crédito do canal.
+
+A entrevista de Elle Russ com Eric Perner traz pops comerciais com caldo e caixas para sopas/ensopados, sem ingredientes complementares ou fórmulas completas. Elle relata **uma xícara em Instant Pot, 36:06–36:20**, sem quantidade de carne, legumes, pressão/tempo ou rendimento. O conteúdo é comercial e culinário; não mede composição ou efeito clínico. Em Ashleigh VanHouten, tutano com manteiga/sobre bife é ideia sem proporções; pudim de sangue/chocolate não tem caldo ou gelatina declarados e não foi convertido em receita de gelatina. Folato mencionado no programa refere-se ao fígado.
+
+Três TXT vazios receberam revisão visual separada: **546 quadros a 1 fps em 35 mosaicos, mais três próximos ao fim**. Mostram exercícios e cartelas, sem preparo alimentar identificado na amostragem. Há ainda atualização de **60 quadros** no intervalo 02:07–03:07 de Jogging 2.0, já contado no lote anterior: a montagem visível ajuda a contextualizar as marcas, sem excluir voz sobreposta. Não houve escuta humana ou reprodução contínua; rótulos pequenos de fundo não foram todos lidos. São revisões, não novos textos transcritos ou atribuição automática a Sisson.
+
+### Drew Manning em corte separado
+
+O [registro posterior](youtube-mda-drew-2026-11-25.json) acrescenta **48min09,86s**, leitura completa e **68/68 blocos**, chegando a **118 textos novos lidos**. Elle Russ entrevista Drew; não é fala de Sisson. Nenhuma passagem explícita de caldo/gelatina foi localizada no texto. Gummy bears citados em 12:29 têm composição não especificada; não se inferiu gelatina. O vídeo não teve revisão visual nesta etapa.
+
+### Retomada da execução após interrupção confirmada
+
+Depois desses cortes, a observação da execução antiga deixou de existir e o PID também estava ausente. A checagem não encontrou filho ativo para a mídia em curso e confirmou o lock disponível. A rotina retomável foi reiniciada com **41 itens pendentes**, preservando estados, mídias, logs e resultados concluídos; a gravação em curso voltou ao processamento integral. A nova sessão retornou a contagem da fila e continua sem timeout por mídia. Isso não é um corte de novas leituras nem conclusão dos 41 itens.

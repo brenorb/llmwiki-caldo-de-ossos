@@ -967,3 +967,8 @@ A [nota comparativa](wiki/fontes/seneff-2011-cadeia-melanina.md) identifica os o
 ## [2026-11-25] revisão | Cinquenta endereços antes negativos, sem substituir landings
 
 O [registro por endereço](raw/wapf-health-negativos-50-2026-11-25.tsv) e o [resumo](raw/wapf-health-negativos-50-2026-11-25.json) preservam 43 textos, dois índices e cinco landings/placeholders. Foram conferidas todas as faixas e hashes de 3.267 linhas/1.012.496 caracteres. Anexos e imagens continuam identificados como não lidos; os corpos antigos indisponíveis impedem decidir entre mudança editorial e falha da triagem. A nota da WAPF distingue as menções atuais e percentuais de outros objetos da composição de caldo.
+
+
+## [2026-11-25] revisão | Dez textos MDA e revisões visuais separadas
+
+O [lote de nove](raw/youtube-mda-leitura-9-2026-11-25.json) e o [corte Drew](raw/youtube-mda-drew-2026-11-25.json) chegam a 118 textos novos integralmente lidos, com disjunção e hashes conferidos. A [passagem comercial de Eric Perner](wiki/fontes/mark-sisson-caldo-gelatina.md#produtos-e-usos-na-entrevista-de-eric-perner) foi incorporada sem inventar fórmula dos pops ou atribuir fala a Sisson. Três vídeos vazios e um intervalo anterior têm revisão por amostragem identificada. A fila foi retomada depois de parada confirmada, preservando artefatos, sem timeout por gravação ou recontagem de textos.

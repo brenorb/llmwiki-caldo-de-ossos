@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-25",
+  "decoded_total_seconds": 2889.861,
+  "rows": [
+    {
+      "id": "IU5rmyeycJo",
+      "title": "Drew Manning on Intentionally Getting FAT - AGAIN!",
+      "url": "https://www.youtube.com/watch?v=IU5rmyeycJo",
+      "date": "20200824",
+      "duration_decoded": 2889.861,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 68,
+      "asr_blocks_completed": 68,
+      "transcript_sha256": "e68b63af1bc77275c6e9b29d957cd127613e680af1c73211e2b2bfe8b658ed0b",
+      "speaker_basis": "Ficha primária e abertura identificam Elle Russ entrevistando Drew Manning; Drew dirige-se a Elle no início e fim. Sisson é citado em terceira pessoa, não participante identificado.",
+      "last_segment_start_seconds": 2860,
+      "seconds_after_last_segment_start": 29.860999999999876,
+      "timestamp_gaps_over_45_seconds": [],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Conversa sobre experiências pessoais de peso, corrida e programas comerciais; nenhuma passagem explícita de caldo, bouillon, gelatina, colágeno ou glicina recuperada no TXT integral. Gummy bears em12:29 são alimentos de composição não especificada consumidos durante corrida; não inferir gelatina ou origem animal. Alegações clínicas e histórias pessoais fora do escopo não foram incorporadas. Ausência no TXT não prova ausência na mídia.",
+      "log_sha256": "fd17ac915cff6fd1063e3a583b6d8e561940a667c39eb3c75dbb7ab6fea1b1c1",
+      "metadata_sha256": "c8de32e0ae9f96325b7577ee1f8621e558fe59cbcc0b343a6824a2de2323e6a7"
+    }
+  ],
+  "previous_frozen_fully_read": 117,
+  "new_transcripts_fully_read": 1,
+  "combined_new_transcripts_fully_read": 118,
+  "scope": "Corte separado posterior aos nove; leitura integral e 68/68 blocos, sem atribuir fala da entrevista a Sisson."
+}

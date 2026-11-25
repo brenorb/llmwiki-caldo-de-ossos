@@ -1,0 +1,397 @@
+{
+  "date": "2026-11-25",
+  "previous_frozen_fully_read": 108,
+  "new_transcripts_fully_read": 9,
+  "combined_new_transcripts_fully_read": 117,
+  "decoded_total_seconds": 22333.029,
+  "method": "Leitura integral dos9TXT novos e conferência dos blocos finais por ID, com atribuições baseadas em fontes primárias e quadros especificados. Nenhum ASR integral repetido.",
+  "limit": "Não é escuta humana nem reprodução audiovisual integral. Distância entre inícios de segmentos não delimita fala omitida. Quadros pontuais e1fps têm limites especificados por ID.",
+  "rows": [
+    {
+      "id": "lV6WCbO2abg",
+      "title": "Luis Villasenor on Strength Training On A Ketogenic Diet",
+      "url": "https://www.youtube.com/watch?v=lV6WCbO2abg",
+      "date": "20190207",
+      "duration_decoded": 1587.121,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 37,
+      "asr_blocks_completed": 37,
+      "transcript_sha256": "9c55a9fe4e65fdf7abe8a362221d4fd4ff5597a23781066f57b0fbc2c0ce9bd1",
+      "speaker_basis": "Ficha primária identifica Brad Kearns entrevistando Luis Villasenor; apresentação nominal no início. Mark mencionado em terceira pessoa.",
+      "last_segment_start_seconds": 1583,
+      "seconds_after_last_segment_start": 4.121000000000095,
+      "timestamp_gaps_over_45_seconds": [],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Discussão de treino e dieta cetogênica. Em08:56–09:26 há referência a comer o animal inteiro, incluindo sangue, vísceras e ossos, no contexto de sódio/minerais. Não descreve caldo, receita ou análise; não foi convertida em composição de caldo. Nenhuma menção de broth, bouillon, gelatina ou colágeno recuperada.",
+      "transcript_bytes": 31122,
+      "metadata_sha256": "df310d011a3f61e79b32640cb080bd8463f8c29d5ee0fff099c0a5ce8c0ce6c5",
+      "metadata_bytes": 54443,
+      "log_sha256": "ae9c3af793eedd74a025e0c08fd91eebf19c6ed3e621e87edbd6f89dea4dc2ef",
+      "log_bytes": 5996
+    },
+    {
+      "id": "UJVQhVg6jIs",
+      "title": "Danielle Schaaf | Reclaiming Your Self-Worth",
+      "url": "https://www.youtube.com/watch?v=UJVQhVg6jIs",
+      "date": "20210816",
+      "duration_decoded": 1935.541,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 45,
+      "asr_blocks_completed": 45,
+      "transcript_sha256": "618cc68eba08baca37954a325ea8e096cb1e2745ab0121d9243542f99dc622c5",
+      "speaker_basis": "Ficha primária identifica Elle Russ e Danielle Schaaf; apresentação nominal no início. Não atribuída a Sisson.",
+      "last_segment_start_seconds": 1906,
+      "seconds_after_last_segment_start": 29.54099999999994,
+      "timestamp_gaps_over_45_seconds": [],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Conversa de autoconfiança e relacionamentos, sem passagem temática recuperada. Nenhuma história pessoal foi extraída para a síntese nutricional.",
+      "transcript_bytes": 40535,
+      "metadata_sha256": "209f9ee01268f31a6da56c4a4714da60e43c554b6f06a7ca4e0646093e1587e4",
+      "metadata_bytes": 510473,
+      "log_sha256": "ae65efdba61b2ffdcd43aec9eb786086cdfbdc6bda5c099c0fe9763daf90dcff",
+      "log_bytes": 6950
+    },
+    {
+      "id": "5iB0YXzVSPs",
+      "title": "Stephen Cabral | Total Toxic Load and What to Do About It",
+      "url": "https://www.youtube.com/watch?v=5iB0YXzVSPs",
+      "date": "20201228",
+      "duration_decoded": 2436.821,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 57,
+      "asr_blocks_completed": 57,
+      "transcript_sha256": "d3605a4c471b985d9cc862d4da1a4a43e6c3a726cfa6caec65b04a46d2a8d08d",
+      "speaker_basis": "Ficha primária identifica Elle Russ entrevistando Stephen Cabral, com apresentação nominal inicial. Não atribuída a Sisson.",
+      "last_segment_start_seconds": 2407,
+      "seconds_after_last_segment_start": 29.820999999999913,
+      "timestamp_gaps_over_45_seconds": [],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Conversa sobre saúde e desintoxicação; nenhuma passagem sobre caldo, bouillon, gelatina, colágeno ou glicina recuperada na leitura integral do TXT. Glutamina é citada em27:14 e é termo diferente de glicina. Não foram incorporadas as afirmações clínicas fora do escopo. Ausência no TXT não prova ausência na mídia.",
+      "transcript_bytes": 54453,
+      "metadata_sha256": "b12bbae58eb7506e220ad0547d62ec386eb9e4593dfc48c199519979f6a4c10a",
+      "metadata_bytes": 513162,
+      "log_sha256": "71b0ee1c3201fbd41949aae055489da16b8743e9e85ee6604544b8db7181b777",
+      "log_bytes": 8062
+    },
+    {
+      "id": "BsBlEkMX0iw",
+      "title": "Ede Fox | Leading the Way with the Carnivore Diet",
+      "url": "https://www.youtube.com/watch?v=BsBlEkMX0iw",
+      "date": "20201026",
+      "duration_decoded": 2467.161,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 58,
+      "asr_blocks_completed": 58,
+      "transcript_sha256": "7330a07482bb4b54059be0f19ec5dda3a1f4e07b300d8ae7181840a3bba2ceac",
+      "speaker_basis": "Ficha primária identifica Elle Russ entrevistando Ede Fox, com apresentação nominal inicial. Não atribuída a Sisson.",
+      "last_segment_start_seconds": 2438,
+      "seconds_after_last_segment_start": 29.161000000000058,
+      "timestamp_gaps_over_45_seconds": [
+        [
+          599,
+          652
+        ]
+      ],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Relato e promoção de dieta carnívora; nenhuma passagem de caldo, bouillon, gelatina, colágeno ou glicina recuperada na leitura integral do TXT. Recomendações de sal/eletrólitos não mencionam caldo e não constituem análise do caldo. Alegações clínicas fora do escopo não foram incorporadas. Ausência no TXT não prova ausência na mídia.",
+      "timestamp_gap_interpretation": "09:59 inicia parágrafo longo contínuo, até pergunta final respondida em10:52; a distância entre inícios de segmentos não demonstra trecho omitido.",
+      "transcript_bytes": 48307,
+      "metadata_sha256": "bc57cd7c07b1615bec6ee5c749262b05eb2058bacd5523ab98deb4dc0a14ff59",
+      "metadata_bytes": 513552,
+      "log_sha256": "9a92128e4dcec09dc65370df75ff847bacfa7c0dc02f064f19ccee8dbc5a1a73",
+      "log_bytes": 8099
+    },
+    {
+      "id": "x3kGLJSRmBU",
+      "title": "Selina Gray | Creating Wealth from the Inside Out",
+      "url": "https://www.youtube.com/watch?v=x3kGLJSRmBU",
+      "date": "20201102",
+      "duration_decoded": 2652.821,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 62,
+      "asr_blocks_completed": 62,
+      "transcript_sha256": "c0287fbef154c8e9ec6b294587560eddc868e984e2af12c8c5cc21a0b3c33587",
+      "speaker_basis": "Ficha primária identifica Elle Russ entrevistando Selina Gray, com apresentação nominal inicial e nome soletrado. Não atribuída a Sisson.",
+      "last_segment_start_seconds": 2623,
+      "seconds_after_last_segment_start": 29.820999999999913,
+      "timestamp_gaps_over_45_seconds": [],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Conversa sobre relação com dinheiro, empreendedorismo e coaching; nenhuma passagem de caldo, bouillon, gelatina, colágeno ou glicina recuperada na leitura integral do TXT. Take stock em07:27 significa avaliar a situação, não caldo. Ausência no TXT não prova ausência na mídia.",
+      "transcript_bytes": 55171,
+      "metadata_sha256": "87b26d92a135f6b420c1cb5d17cfa121ad279247e7b2ab32efefeab97c38740a",
+      "metadata_bytes": 512002,
+      "log_sha256": "323c15d39357fe88fa5d396dc151104d80c1047fc4cb080b4055eafcfe7be374",
+      "log_bytes": 8245
+    },
+    {
+      "id": "r9w-VCI3k0U",
+      "title": "The Benefits of Regenerative Agriculture | Eric Perner",
+      "url": "https://www.youtube.com/watch?v=r9w-VCI3k0U",
+      "date": "20201019",
+      "duration_decoded": 2698.581,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 63,
+      "asr_blocks_completed": 63,
+      "transcript_sha256": "2b49a5ea33d6f8942dece9497297feebdea0428c3b7c38620d7e76c1595bb57c",
+      "speaker_basis": "Ficha primária identifica Elle Russ entrevistando Eric Perner; abertura nominal e Eric dirige-se a Elle em44:14. Mark Sisson mencionado em terceira pessoa, não é participante identificado.",
+      "last_segment_start_seconds": 2667,
+      "seconds_after_last_segment_start": 31.58100000000013,
+      "timestamp_gaps_over_45_seconds": [
+        [
+          640,
+          688
+        ],
+        [
+          1723,
+          1770
+        ]
+      ],
+      "visual_review": "Três quadros inspecionados:00:35 Elle Russ;35:24 Eric Perner;36:14 Elle Russ, todos com nomes na tela. Recortes00:25–00:45 e35:18–36:22 preservados; sem escuta humana/revisão visual integral.",
+      "passages": [
+        {
+          "interval": "00:29–00:41",
+          "speaker": "Elle Russ",
+          "summary": "Elogia caldo de ossos bovinos da Rep Provisions e diz beber frio. Preferência pessoal em entrevista comercial; sem composição."
+        },
+        {
+          "interval": "01:27–01:53",
+          "speaker": "Elle Russ",
+          "summary": "Descreve produto comercial de pequenos pops/picolés com caldo de ossos. Não fornece ingredientes complementares, quantidades ou modo de preparo; não é receita nova completa."
+        },
+        {
+          "interval": "06:04–06:14",
+          "speaker": "Eric Perner",
+          "summary": "Relaciona caldo a utilizar o animal inteiro e apresenta broth pops para crianças. Afirmação promocional de nutrição sem ensaio/composição."
+        },
+        {
+          "interval": "35:15–36:03",
+          "speaker": "Eric Perner",
+          "summary": "Anuncia caldo de ossos de frango e caixas com caldo, proteínas e especiarias para sopas/ensopados; receitas/cartões são mencionados, mas fórmulas não são lidas."
+        },
+        {
+          "interval": "36:06–36:20",
+          "speaker": "Elle Russ",
+          "summary": "Relata usar caldo de ossos em ensopado com carne moída, incluindo uma xícara em Instant Pot para uma refeição. Não informa quantidade de carne, legumes, temperos, água, tempo/pressão ou rendimento; anotação de uso, não receita completa."
+        },
+        {
+          "interval": "36:21–36:37",
+          "speaker": "Eric Perner",
+          "summary": "Esclarece que a caixa contém caldo, especiarias e proteínas; comprador adicionaria vegetais ou o que desejar. Sem quantidades."
+        }
+      ],
+      "note": "Fonte culinária/comercial, sem ensaio, composição percentual, tipo de colágeno ou benefício clínico demonstrado. A expressão ASR pork gel cubes em19:48 pode ser deformação de pork jowl; não classificar como gelatina/caldo sem conferência própria. Alegações ambientais e clínicas fora do escopo não foram incorporadas. Ausência no TXT não prova ausência na mídia.",
+      "transcript_bytes": 52942,
+      "metadata_sha256": "14acf9a27f7711f7c062eeba8cc4769a96a31731d049c544b2ce4caffd55cf48",
+      "metadata_bytes": 512660,
+      "log_sha256": "f01bdc8c9da3977d02f1dfe92a96ec89e5d314d5547ff0f8e928b82987275185",
+      "log_bytes": 8240
+    },
+    {
+      "id": "WU2Z4LGOMOk",
+      "title": "Shawn Wells | World's Greatest Formulator",
+      "url": "https://www.youtube.com/watch?v=WU2Z4LGOMOk",
+      "date": "20210524",
+      "duration_decoded": 2834.781,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 66,
+      "asr_blocks_completed": 66,
+      "transcript_sha256": "052da74c313ad24953b730972a86cc9ac7fa97dba95c5cc34339d31959b80397",
+      "speaker_basis": "Ficha primária identifica Elle Russ entrevistando Shawn Wells, com apresentação nominal inicial e interlocução final. Sisson é citado em terceira pessoa, não participante identificado.",
+      "last_segment_start_seconds": 2802,
+      "seconds_after_last_segment_start": 32.78099999999995,
+      "timestamp_gaps_over_45_seconds": [
+        [
+          2490,
+          2540
+        ]
+      ],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Conversa sobre livro, rotinas, energia e suplementos; nenhuma passagem sobre caldo, bouillon, gelatina, colágeno ou glicina recuperada no TXT integral. Glycation em39:00 é glicação, não glicina. Não foram incorporadas alegações clínicas/suplementos fora do escopo, nem história pessoal irrelevante. Ausência no TXT não prova ausência na mídia.",
+      "timestamp_gap_interpretation": "41:30 inicia parágrafo longo de resposta sobre conferências e convivência; a distância entre inícios até42:20 não demonstra trecho omitido.",
+      "transcript_bytes": 55013,
+      "metadata_sha256": "b20f7e83a55b2d5857f84314b8c7105e7c20b328ab154f03a23a1c9c4a83effe",
+      "metadata_bytes": 513303,
+      "log_sha256": "238b59c5a6f16f77db8f55191f1ad2f8fe39474268689e2624abbb2530c1f108",
+      "log_bytes": 8305
+    },
+    {
+      "id": "w5vSZDxNCxQ",
+      "title": "Eating Nose-to-Tail with Ashleigh VanHouten",
+      "url": "https://www.youtube.com/watch?v=w5vSZDxNCxQ",
+      "date": "20200908",
+      "duration_decoded": 2848.461,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 67,
+      "asr_blocks_completed": 67,
+      "transcript_sha256": "cc815be31f2517924f3de37478b8357a5f3ac6dff2f20b077117effb751e8fbf",
+      "speaker_basis": "Ficha primária e abertura identificam Elle Russ entrevistando Ashleigh VanHouten. Livro da apresentadora é Confident as F*ck. Não é fala de Sisson; Mark é mencionado em terceira pessoa.",
+      "last_segment_start_seconds": 2816,
+      "seconds_after_last_segment_start": 32.460999999999785,
+      "timestamp_gaps_over_45_seconds": [],
+      "visual_review": "Quadros35:37 e35:42 exibem Elle Russ com nome na tela. A câmera permanece em Elle durante a interjeição breve, portanto não confirma visualmente essa outra voz; sequência do diálogo e ficha primária sustentam contexto da entrevista.",
+      "passages": [
+        {
+          "interval": "16:13–16:42",
+          "speaker": "Elle Russ",
+          "summary": "Relata cozinhar ossos com tutano e melhora com experimentação; nenhum método ou quantidade completos."
+        },
+        {
+          "interval": "35:37–36:23",
+          "speaker": "Elle Russ; interjeição breve da entrevistada pela sequência do diálogo, sem confirmação por câmera",
+          "summary": "Conversam sobre misturar tutano com manteiga e raspar tutano para pôr sobre bife. Ideias culinárias sem proporções, temperaturas ou tempos. Tutano e manteiga não equivalem a caldo."
+        },
+        {
+          "interval": "38:37–39:49",
+          "speaker": "Ashleigh VanHouten",
+          "summary": "Menciona pudim de chocolate com sangue inspirado em prática italiana. Sangue e chocolate são citados; sem fórmula ou quantidade, sem gelatina/caldo declarados. Não catalogar como receita de gelatina."
+        }
+      ],
+      "note": "Entrevista culinária/promocional sobre It Takes Guts e miúdos; nenhuma passagem de caldo/bouillon, gelatina, colágeno ou glicina recuperada no TXT integral. Folato em22:26 refere-se a fígado, não caldo. Alegações de equivalência de órgão consumido a benefício no mesmo órgão humano não foram incorporadas como evidência clínica. Ausência no TXT não prova ausência na mídia.",
+      "transcript_bytes": 62117,
+      "metadata_sha256": "582e35c8e20436f0c4fba00f5347287562909fa366bbed2192a6818fbc5c4412",
+      "metadata_bytes": 512584,
+      "log_sha256": "7f1d4afa36bfbb94343d1cba165d7c6513f2253f49ea9f1980eccb984c0faba2",
+      "log_bytes": 8616
+    },
+    {
+      "id": "997Y9uMgIlo",
+      "title": "Caroline Leaf | Cleaning Up Your Mental Mess",
+      "url": "https://www.youtube.com/watch?v=997Y9uMgIlo",
+      "date": "20210405",
+      "duration_decoded": 2871.741,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 67,
+      "asr_blocks_completed": 67,
+      "transcript_sha256": "07872f98a7cc580b30270f607de448916bdfdf2d989675108d4999d54122ae3d",
+      "speaker_basis": "Ficha primária identifica Elle Russ entrevistando Caroline Leaf, com apresentação nominal inicial e entrevistada dirigindo-se a Elle em18:21. Não é fala de Sisson.",
+      "last_segment_start_seconds": 2842,
+      "seconds_after_last_segment_start": 29.740999999999985,
+      "timestamp_gaps_over_45_seconds": [
+        [
+          1757,
+          1806
+        ]
+      ],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Conversa sobre livro e programa de gestão de pensamentos; nenhuma passagem de caldo, bouillon, gelatina, colágeno ou glicina recuperada no TXT integral. Menções genéricas a alimentação, proteínas e biomarcadores não analisam caldo. Afirmações clínicas/neurocientíficas fora do escopo não foram incorporadas. Ausência no TXT não prova ausência na mídia.",
+      "timestamp_gap_interpretation": "29:17 inicia parágrafo longo sobre escrita de pensamentos; a distância até30:06 não demonstra trecho omitido.",
+      "transcript_bytes": 64773,
+      "metadata_sha256": "8db69cb0e235fdd371443df4e6acc73bc1fab9bfb75a7a0fbc54602cc7b3f768",
+      "metadata_bytes": 512698,
+      "log_sha256": "59c510f169ca76c730bc4e9b4f429f35d9d64fcdd23a54b6b04c50d1e56774f1",
+      "log_bytes": 8968
+    }
+  ],
+  "new_visual_only_count": 3,
+  "new_visual_only_reviews": [
+    {
+      "id": "7MGcUe0ouw0",
+      "title": "How To Work Up To Your First Pull-Up",
+      "url": "https://www.youtube.com/watch?v=7MGcUe0ouw0",
+      "audio_duration_seconds": 98.581,
+      "video_duration_seconds": 98.556,
+      "asr_chunks_started": [
+        "3"
+      ],
+      "asr_chunks_finished": [
+        "3"
+      ],
+      "whole_asr_empty": true,
+      "visual_method": "Quadros a 1 fps ao longo do vídeo; todos os mosaicos inspecionados e um quadro adicional a duração visual menos 0,08 s. Não é reprodução contínua nem escuta humana.",
+      "regular_frame_count": 99,
+      "sheets_reviewed": 7,
+      "near_end_seconds": 98.476,
+      "findings": "Demonstração de progressões para primeira barra: hangs, negativas, remadas e elástico. Cartelas de exercício. Potes/garrafas em prateleira do fundo não tiveram rótulos legíveis conferidos; não inferir produtos ou ingredientes.",
+      "attribution": "Canal editorial MDA; demonstradores sem confirmação nominal nesta revisão. Não atribuir fala a Mark Sisson.",
+      "topic_result": "Nenhuma passagem temática ou preparo alimentar identificado nas cartelas e quadros consultados; ASR vazio não prova ausência absoluta de fala.",
+      "limits": "Amostragem visual a 1 fps pode perder eventos breves. Não houve escuta humana; não conclui ausência absoluta de narração, música ou ingrediente apenas pelo TXT vazio.",
+      "video_sha256": "9b8f22a588ad20b24588748f4fd2f4a6f2e3a3946c0b35e7da703c67789fc85a"
+    },
+    {
+      "id": "JK_jt7Yy4BY",
+      "title": "9 Worthy Alternatives to the Back Squat",
+      "url": "https://www.youtube.com/watch?v=JK_jt7Yy4BY",
+      "audio_duration_seconds": 207.101,
+      "video_duration_seconds": 207.081,
+      "asr_chunks_started": [
+        "5"
+      ],
+      "asr_chunks_finished": [
+        "5"
+      ],
+      "whole_asr_empty": true,
+      "visual_method": "Quadros a 1 fps ao longo do vídeo; todos os mosaicos inspecionados e um quadro adicional a duração visual menos 0,08 s. Não é reprodução contínua nem escuta humana.",
+      "regular_frame_count": 207,
+      "sheets_reviewed": 13,
+      "near_end_seconds": 207.00099999999998,
+      "findings": "Demonstrações externas de agachamentos e avanços com halteres, kettlebell, elásticos e saco de peso. Cartelas de técnica e promoção genérica Primal Kitchen no encerramento.",
+      "attribution": "Canal editorial MDA; demonstradores sem confirmação nominal nesta revisão. Não atribuir fala a Mark Sisson.",
+      "topic_result": "Nenhuma passagem temática ou preparo alimentar identificado nas cartelas e quadros consultados; ASR vazio não prova ausência absoluta de fala.",
+      "limits": "Amostragem visual a 1 fps pode perder eventos breves. Não houve escuta humana; não conclui ausência absoluta de narração, música ou ingrediente apenas pelo TXT vazio.",
+      "video_sha256": "bfbf732816bc5e2ce9f2487f0da11933537f1ea96294f6016ca94d9d5d3961a3"
+    },
+    {
+      "id": "9SiY6i4B1JU",
+      "title": "15 Alternatives to Burpees",
+      "url": "https://www.youtube.com/watch?v=9SiY6i4B1JU",
+      "audio_duration_seconds": 239.901,
+      "video_duration_seconds": 239.864,
+      "asr_chunks_started": [
+        "6"
+      ],
+      "asr_chunks_finished": [
+        "6"
+      ],
+      "whole_asr_empty": true,
+      "visual_method": "Quadros a 1 fps ao longo do vídeo; todos os mosaicos inspecionados e um quadro adicional a duração visual menos 0,08 s. Não é reprodução contínua nem escuta humana.",
+      "regular_frame_count": 240,
+      "sheets_reviewed": 15,
+      "near_end_seconds": 239.784,
+      "findings": "Demonstrações de alternativas a burpees, externas e em garagem: squat thrusts, murpees, saltos, kettlebell, sandbag e outros exercícios; cartelas de técnica e promoção genérica Primal Kitchen no encerramento.",
+      "attribution": "Canal editorial MDA; demonstradores sem confirmação nominal nesta revisão. Não atribuir fala a Mark Sisson.",
+      "topic_result": "Nenhuma passagem temática ou preparo alimentar identificado nas cartelas e quadros consultados; ASR vazio não prova ausência absoluta de fala.",
+      "limits": "Amostragem visual a 1 fps pode perder eventos breves. Não houve escuta humana; não conclui ausência absoluta de narração, música ou ingrediente apenas pelo TXT vazio.",
+      "video_sha256": "dba6956187bc9c6839babee01ace8afde7f1f03e108899633afe6c7574693618"
+    }
+  ],
+  "prior_id_gap_visual_update": {
+    "id": "7KFlg5hLma8",
+    "url": "https://www.youtube.com/watch?v=7KFlg5hLma8",
+    "interval_seconds": [
+      127,
+      187
+    ],
+    "asr_segment_distance_seconds": [
+      129,
+      185
+    ],
+    "method": "Recorte visual02:07–03:07,60quadros a1fps em4mosaicos, todos inspecionados. Não repetiu ASR nem houve escuta humana.",
+    "result": "Brad em close até cerca02:09; em seguida demonstrações de exercícios com cartelas three-step alternate leg jumps, hamstring kickouts, box/stump jumps, lunge walks e hover lunges. Retorna em praia por volta03:05. Nenhum preparo alimentar/cartela temática identificado na amostragem.",
+    "limit": "Explica a distância entre segmentos como montagem de ação visível, mas sem escuta não exclui voz sobreposta. Amostragem1fps não é reprodução contínua.",
+    "video_sha256": "eed16a394161bb52d7659daf0edc9b2207cd3142c254305907df85efccb66abe"
+  },
+  "source_layout": {
+    "whole_transcripts": "transcricoes/<ID>.txt",
+    "asr_logs": "transcricoes/<ID>.log",
+    "primary_metadata": "media/<ID>.info.json",
+    "review_records": [
+      "leitura-lote-13-2.json",
+      "leitura-lote-14-1.json",
+      "leitura-lote-15-2.json",
+      "leitura-lote-16-eric-perner.json",
+      "leitura-lote-17-shawn-wells.json",
+      "leitura-lote-18-ashleigh.json",
+      "leitura-lote-19-caroline-leaf.json"
+    ],
+    "visual_record": "fitness-vazios/conferencia-3.json"
+  }
+}

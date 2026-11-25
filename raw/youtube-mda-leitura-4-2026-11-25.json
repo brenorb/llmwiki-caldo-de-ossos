@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-25",
+  "previous_frozen_fully_read": 104,
+  "new_transcripts_fully_read": 4,
+  "combined_new_transcripts_fully_read": 108,
+  "decoded_total_seconds": 3559.644,
+  "method": "Leitura integral dos4TXT; blocos anunciados e concluídos conferidos. Revisão da abertura acelerada e quadro nominal da passagem comercial especificados por ID. Sem repetição de ASR.",
+  "limit": "Não é escuta humana nem reprodução audiovisual integral. Timestamps de início não comprovam fala omitida e sua distância ao fim não mede uma lacuna.",
+  "rows": [
+    {
+      "id": "-IPPwBc3GLw",
+      "title": "Brad Kearns Morning Routine For Flexibility, Mobility, and Core Strength",
+      "url": "https://www.youtube.com/watch?v=-IPPwBc3GLw",
+      "date": "20201105",
+      "duration_decoded": 601.621,
+      "full_text_read": true,
+      "asr_blocks_announced": 14,
+      "asr_blocks_completed": 14,
+      "speaker_basis": "Brad Kearns é identificado no título/descrição oficial e, no segundo, na apresentação nominal inicial. Não atribuída a Sisson.",
+      "first_segment_start_seconds": 53,
+      "last_segment_start_seconds": 598,
+      "seconds_after_last_segment_start": 3.620999999999981,
+      "timestamp_gaps_over_45_seconds": [
+        [
+          123,
+          177
+        ],
+        [
+          421,
+          475
+        ]
+      ],
+      "visual_review": "Abertura00:00–00:56 conferida por56quadros a1fps; cartelas de time-lapse e explicação a00:53; restante não revisto.",
+      "note": "Nenhuma passagem de caldo, bouillon, gelatina, colágeno ou glicina recuperada na leitura integral do TXT. Segmentar texto não delimita duração da fala. Não comprova ausência nas imagens ou áudio não reconhecido.",
+      "transcript_sha256": "1f6f6aab2004dd6c1b866dcb73fcd80e4f0c4a21df4db9a74606ea37804ccd7c",
+      "transcript_bytes": 7136,
+      "asr_model": "parakeet-v3-int8",
+      "intro_visual_review": {
+        "date": "2026-11-25",
+        "id": "-IPPwBc3GLw",
+        "url": "https://www.youtube.com/watch?v=-IPPwBc3GLw",
+        "interval_seconds": [
+          0,
+          56
+        ],
+        "method": "56quadros a1fps em4mosaicos, todos examinados. Áudio integral previamente processado; sem repetição de ASR.",
+        "findings": "A abertura mostra Brad fazendo exercícios em aceleração. Cartelas identificam a rotina como time-lapsed e anunciam explicação completa a00:53; ele passa a falar sentado ao final do recorte. O primeiro segmento reconhecido começa em00:53 e descreve a versão abreviada recém-demonstrada.",
+        "limits": "Amostragem de imagem, sem escuta humana e sem prova de ausência de eventual voz emoff. Não é corte de transcrição confirmado."
+      }
+    },
+    {
+      "id": "82IhJWTAE2o",
+      "title": "Single Leg Balance and Stability Drills | Medium-Advanced Difficulty",
+      "url": "https://www.youtube.com/watch?v=82IhJWTAE2o",
+      "date": "20220103",
+      "duration_decoded": 601.781,
+      "full_text_read": true,
+      "asr_blocks_announced": 14,
+      "asr_blocks_completed": 14,
+      "speaker_basis": "Brad Kearns é identificado no título/descrição oficial e, no segundo, na apresentação nominal inicial. Não atribuída a Sisson.",
+      "first_segment_start_seconds": 0,
+      "last_segment_start_seconds": 597,
+      "seconds_after_last_segment_start": 4.780999999999949,
+      "timestamp_gaps_over_45_seconds": [
+        [
+          429,
+          480
+        ]
+      ],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Nenhuma passagem de caldo, bouillon, gelatina, colágeno ou glicina recuperada na leitura integral do TXT. Segmentar texto não delimita duração da fala. Não comprova ausência nas imagens ou áudio não reconhecido.",
+      "transcript_sha256": "9ae4c8a7e314e0b30e5621eae7eebcb562a1d9cf456885f43c205e5aac180de9",
+      "transcript_bytes": 9713,
+      "asr_model": "parakeet-v3-int8"
+    },
+    {
+      "id": "LM_Tkhh25Do",
+      "title": "No-Equipment Arm Microworkout",
+      "url": "https://www.youtube.com/watch?v=LM_Tkhh25Do",
+      "date": "20200417",
+      "duration_decoded": 769.681,
+      "full_text_read": true,
+      "asr_blocks_announced": 18,
+      "asr_blocks_completed": 18,
+      "speaker_basis": "A fala inicial se identifica como Brian; não atribuída a Sisson. Sobrenome não inferido do ASR.",
+      "last_segment_start_seconds": 749,
+      "seconds_after_last_segment_start": 20.68100000000004,
+      "timestamp_gaps_over_45_seconds": [
+        [
+          219,
+          269
+        ],
+        [
+          542,
+          624
+        ]
+      ],
+      "visual_review": "não realizada nesta rodada",
+      "note": "Nenhuma passagem de caldo, bouillon, gelatina, colágeno ou glicina recuperada. Leite/água em recipientes e frascos de molho são citados como pesos para exercício, não como receita ou consumo. Não comprova ausência no áudio não reconhecido ou imagem.",
+      "transcript_sha256": "59eab49f1432d7734c43727469fbc855e864582f6bbe2b6c972b985c1b5ad72f",
+      "transcript_bytes": 6054,
+      "asr_model": "parakeet-v3-int8"
+    },
+    {
+      "id": "F3Q2uKcQOYo",
+      "title": "Autumn Smith | Healing With Paleo",
+      "url": "https://www.youtube.com/watch?v=F3Q2uKcQOYo",
+      "date": "20210503",
+      "duration_decoded": 1586.561,
+      "full_text_read": true,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": 37,
+      "asr_blocks_completed": 37,
+      "transcript_sha256": "e2cf2072c59884c45cf11be5048a7a98e6bbacd4b14839db367119421701d563",
+      "speaker_basis": "Ficha primária identifica Elle Russ e Autumn Fladmo Smith. Abertura apresenta Autumn; quadro oficial em21:25 mostra as duas com nomes. Autumn fala no trecho21:23–21:37. Mark é mencionado em terceira pessoa.",
+      "last_segment_start_seconds": 1556,
+      "seconds_after_last_segment_start": 30.560999999999922,
+      "timestamp_gaps_over_45_seconds": [
+        [
+          727,
+          778
+        ]
+      ],
+      "visual_review": "Trecho primário21:18–21:40 recuperado como recorte22s; quadro21:25 inspecionado, sem reprodução audiovisual integral.",
+      "passages": [
+        {
+          "start_seconds": 325,
+          "end_seconds": 338,
+          "speaker": "Elle Russ",
+          "object": "Apresenta barras e pó de proteína de caldo da Paleovalley; endosso pessoal comercial, sem medida."
+        },
+        {
+          "start_seconds": 1175,
+          "end_seconds": 1181,
+          "speaker": "Elle Russ",
+          "object": "Retoma a existência das barras e do pó de proteína de caldo."
+        },
+        {
+          "start_seconds": 1283,
+          "end_seconds": 1297,
+          "speaker": "Autumn Smith",
+          "object": "Descreve ingrediente das barras como pó de proteína de caldo, anuncia origem100%grass-fed/grass-finished e processamento só com água. É declaração da cofundadora; sem dose, receita, composição analítica ou colágeno tipado."
+        }
+      ],
+      "commercial_context": "Em04:54 a apresentadora declara que a empresa patrocina seu outro podcast, Kick Ass Life. O programa apresenta produtos e endossos; não é estudo clínico.",
+      "limits": "O100%se refere à origem pecuária anunciada, não a fração de colágeno. Barras e pó são objetos diferentes de caldo líquido. A conversa sobre vitaminaC e complexo de órgãos trata de outros produtos, não componentes medidos no pó de caldo. Sem escuta humana ou análise laboratorial independente.",
+      "transcript_bytes": 35094
+    }
+  ]
+}

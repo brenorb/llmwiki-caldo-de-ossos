@@ -912,3 +912,8 @@ O [catálogo ampliado](wiki/temas/receitas-wapf-catalogo.md#achados-da-leitura-d
 ## [2026-11-25] revisão | Ressalvas culinárias, nomenclatura e relato de pós-parto
 
 A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#ressalvas-encontradas-nas-fichas-culinárias) separa relatos, alegações comerciais e comparações não verificadas. A [tabela culinária](wiki/temas/receitas-wapf-catalogo.md#medidas-incompletas-ou-divergentes-na-fonte) conserva unidades ausentes e contradições. Foram conferidos verbetes da [IUBMB e do NCI](wiki/fontes/nomenclatura-gelatina-glucosamina.md), sem extrapolação clínica; o relato de pós-parto integra a página de medicina chinesa e a matriz de evidência. O [registro de acesso](raw/wapf-ressalvas-receitas-2026-11-25.json) não aumenta a contagem de páginas da WAPF lidas.
+
+
+## [2026-11-25] revisão | Mais trinta textos de MDA e atribuições conferidas
+
+Os cortes de [26](raw/youtube-mda-leitura-26-2026-11-25.json) e [quatro](raw/youtube-mda-leitura-4-2026-11-25.json) chegam a 108 novos textos lidos, com hashes físicos e disjunção conferidos. Dois editoriais visuais e a abertura acelerada de Brad têm métodos/limites próprios. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md#produtos-de-caldo-em-entrevista-de-outra-apresentadora) preserva a passagem comercial de Autumn Smith, distinguindo autoria, origem pecuária, pó, barras e caldo líquido.

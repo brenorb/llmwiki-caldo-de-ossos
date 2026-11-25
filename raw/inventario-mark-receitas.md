@@ -933,3 +933,15 @@ No [trailer de Food Lies](https://www.youtube.com/watch?v=NA6b7ExQYFo&t=135s), a
 ### Variante completa localizada a partir da prévia do Stockpot
 
 A busca pelo nome *Transylvanian Stockpot* encontrou a [ficha primária de Julia Mueller](https://www.theroastedroot.net/paleo-transylvanian-stockpot/), que declara inspiração no livro de Sisson. A [versão utilizável na wiki](../wiki/temas/receitas-mark-sisson.md#sopa-de-repolho-e-linguiça-versão-de-julia-mueller) foi lida integralmente e distingue suas medidas da página parcial do vídeo. Agregadores com fórmulas e erros de digitação apareceram na busca, mas não foram usados para completar o livro. O [registro de acesso](mueller-stockpot-acesso-2026-11-25.json) preserva autoria, revisão e o denominador da estimativa nutricional.
+
+### Quinto lote amplo: 26 textos e dois editoriais visuais
+
+O [corte de 26 textos](youtube-mda-leitura-26-2026-11-25.json) acrescenta **4h29min46,77s de áudio decodificado**, chegando a **104 textos novos lidos**. Os hashes físicos de TXT, logs e metadados e a disjunção contra os 78 anteriores foram conferidos. CJ Hunt foi processado inteiro num teste isolado Phonon, com 169/169 blocos; os outros 25 usaram V3. O modelo padrão não foi alterado. A entrevista é de Elle Russ com CJ Hunt, sem atribuição das falas a Sisson. Nenhum dos 26 textos acrescentou passagem temática localizada; isso não prova ausência no áudio ou nas imagens.
+
+Dois editoriais com TXT vazio foram examinados separadamente em **251 quadros a 1 fps**, mais dois próximos ao fim e dois de conferência. *What Is Monk Fruit?* mostra usos genéricos de adoçantes, sem receita de gelatina identificada. *What Are Postbiotics?* atribui função prebiótica a tecidos conjuntivos animais numa cartela, sem especificar caldo ou ensaio; vitaminas K2/B aparecem como produtos bacterianos, sem medição no caldo. São dois vídeos visuais fora dos 104 TXT, distintos da prévia de livro já registrada. Amostragem não é reprodução contínua ou escuta humana.
+
+### Sexto lote amplo: quatro textos e uma passagem comercial
+
+O [corte de quatro textos](youtube-mda-leitura-4-2026-11-25.json) acrescenta **59min19,64s**, chegando a **108 textos novos lidos**, sem sobreposição ou recontagem das revisões visuais. Os quatro hashes e a conclusão dos blocos foram conferidos. A abertura acelerada de Brad Kearns foi conciliada com a cartela que anuncia explicação a 00:53, onde começa o ASR; não foi presumida ausência de voz em off. Em outro treino, recipientes de comida/bebida servem como pesos, sem uso culinário.
+
+Na entrevista com Autumn Smith, Elle Russ apresenta produtos Paleovalley. Autumn descreve em **21:23–21:37** pó de proteína de caldo como ingrediente de barras e processamento só com água. O quadro nominal de 21:25 foi conferido, sem atribuir a fala a Sisson. **100% grass-fed/finished é origem pecuária anunciada**, não percentual de colágeno. Barras, pó e caldo líquido são objetos distintos; vitamina C e órgãos discutidos no programa são outros produtos. A passagem é comercial, sem receita, dose ou análise laboratorial independente.

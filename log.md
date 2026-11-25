@@ -982,3 +982,7 @@ O [lote de 50](raw/wapf-health-mais50-2026-11-25.tsv) e o [resumo](raw/wapf-heal
 ## [2026-11-25] revisão | Segundo lote de endereços negativos health
 
 O [registro 50–99](raw/wapf-health-negativos-50-100-2026-11-25.tsv) e o [resumo](raw/wapf-health-negativos-50-100-2026-11-25.json) comprovam a fatia seguinte sem sobreposição ou substituição. Foram conferidos 49 textos e um landing, 2.092 linhas e 673.277 caracteres, com hashes físicos e faixas completas. Traduções e recomendações não foram promovidas a novos ensaios; imagens, áudio e PDFs continuam fora desta cobertura.
+
+## [2026-11-25] ingestão | Doze textos WAPF e relato infantil multicomponente
+
+O [corte dos12](raw/wapf-leitura-integral-12-2026-11-25.json) acrescenta4.021 linhas integralmente lidas, com hashes físicos de36 artefatos conferidos e208 blocos documentados. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#mais-doze-textos-de-áudio-e-suas-limitações) distingue usos culinários, alvo dietético de cálcio e relato de eczema sem efeito isolado. ES141/142 conservam baixa inteligibilidade; contagens de processamento não foram promovidas a contagem de leitura.

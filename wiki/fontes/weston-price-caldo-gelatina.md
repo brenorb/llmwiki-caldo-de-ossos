@@ -196,3 +196,15 @@ Os conselhos de Cowan sobre gota, intestino, varizes, febre ou exposição ambie
 ## Outros cinquenta endereços antes negativos
 
 A [fatia seguinte](../../raw/wapf-health-negativos-50-100-2026-11-25.tsv) inclui 49 textos e um landing, com [limites por arquivo](../../raw/wapf-health-negativos-50-100-2026-11-25.json). Traduções russa/chinesa repetem a narrativa histórica da dieta suíça com vários alimentos; não são novas intervenções independentes. [Are Anti Nutrients Harmful?](https://www.westonaprice.org/health-topics/are-anti-nutrients-harmful/) recomenda início de GAPS com caldo de carne curto, sem medidas ou resultado isolado. Essa recomendação não virou receita quantificada ou tratamento validado na wiki. Vitaminas/medicina chinesa em outros textos referem-se a objetos distintos do caldo.
+
+## Mais doze textos de áudio e suas limitações
+
+O [registro dos 12 TXT](../../raw/wapf-leitura-integral-12-2026-11-25.json) preserva identificação, hashes, blocos, leitura integral e qualidade separadamente. ES141/142 permanecem com trechos pouco inteligíveis; seus negativos textuais são frágeis.
+
+| Fonte e localizador | O que a passagem permite registrar |
+|---|---|
+| [EN159 · Walking on the Wild Side, 19:19–21:27](https://wisetraditions.libsyn.com/159-walking-on-the-wild-side), linhas260–282 | Monica Ford atribui melhora do eczema de um bebê de três meses, em cerca de um mês, à combinação de amamentação, salmoura de chucrute e caldo. Sem dose, exames, comparador ou efeito isolado; identidade familiar omitida. É relato de terceiro, sem repigmentação. Não constitui protocolo de alimentação infantil; a [orientação do NHS](nhs-introducao-alimentar.md) situa introdução alimentar por volta dos seis meses. |
+| [EN9 · Start Here, 21:27–22:45](https://wisetraditions.libsyn.com/wisdom-from-the-past-for-health-today) , linhas321–338 | Sally Fallon Morell apresenta caldo como princípio difundido pela WAPF, faz alegações sobre colágeno/cartilagem/pele/intestino e cita reduções, sopas e ensopados. Sem teor, dose, receita completa ou estudo identificado. Em14:44–15:23 distingue princípios de Price de acréscimos da fundação. |
+| [EN156 · Diversify Your Diet, 11:14–11:30](https://wisetraditions.libsyn.com/156-diversify-your-diet), linhas108–110 | Chris Masterjohn diz que caldo/stock não é boa fonte de cálcio e distingue ossos comestíveis. O alvo diário citado antes refere-se à dieta total, sem medir caldo. A [síntese de composição](../temas/composicao.md) conserva análises laboratoriais com amostras e unidades próprias. |
+
+O texto automático não garante reconhecimento integral da fala. Os demais itens têm negativos e menções bibliográficas/comerciais discriminados no ledger; a leitura não valida alegações clínicas ou os estudos citados pelos participantes.

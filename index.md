@@ -217,3 +217,5 @@
 - [registro composicao](raw/registro-composicao.md)
 - [seguranca acessos](raw/seguranca-acessos.md)
 - [tbca acesso](raw/tbca-acesso.md)
+
+- [Doze textos WAPF adicionais: leitura integral e limites de ASR](raw/wapf-leitura-integral-12-2026-11-25.json)

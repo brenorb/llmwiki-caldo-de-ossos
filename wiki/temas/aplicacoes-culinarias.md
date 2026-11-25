@@ -35,4 +35,12 @@ Na fórmula da Primal Kitchen, bata **240–300 mL de leite de coco integral**, 
 
 A mesma página oferece três variações. A verde combina abacate e espinafre e leva mel, que pode ser omitido. O *Rocket Fuel* inclui cerejas ou framboesas. A de coco, cacau e maca oferece framboesas ou xarope de bordo opcional. Para reduzir açúcares, omita o mel e o xarope, medindo a fruta por porção. Essas omissões são adaptações da wiki. [Quatro combinações publicadas](https://www.primalkitchen.com/blogs/recipes/keto-collagen-smoothies) · [Vídeo](https://www.youtube.com/watch?v=E5ZO1KEHI-4)
 
+## Barras de abóbora com peptídeos
+
+A Primal Kitchen propõe **14 porções**, com **8 g de carboidratos por unidade** estimados pela marca. A base leva **1½ xícara de farinha de amêndoas**, **¼ de xícara de pecãs**, **4 colheres de sopa de manteiga ou óleo de coco**, **2 de adoçante de fruto-do-monge**, **¼ de colher de chá de canela** e sal. Pressione em forma de **23 × 23 cm** forrada e asse a **175 °C por 9–10 min**.
+
+Misture **425 g de purê de abóbora**, **180 mL de leite de coco sem açúcar**, **½ xícara de adoçante**, **4 ovos**, **3 colheres de sopa de farinha de coco**, **1 colher de chá de baunilha**, **½ colher de sopa de especiarias para abóbora**, **1 medida de peptídeos de baunilha**, **1 colher de chá de canela** e **¼ de colher de chá de sal**. Asse sobre a base por **40–45 min** e esfrie. Bata a parte sólida fria de **1 lata de creme de coco** com **2 medidas da mistura de chai com peptídeos** para cobrir. [Ficha da marca](https://www.primalkitchen.com/blogs/recipes/keto-pumpkin-pie-bars)
+
+O vídeo mostra **¼ de xícara de adoçante no recheio** e **45 min de forno**. A ficha escrita usa **½ xícara** e **40–45 min**. Os produtos adoçantes variam em concentração e composição. Confira seus rótulos antes de medir. Os ovos dão estrutura ao recheio e os peptídeos não equivalem à gelatina culinária. A demonstração não é apresentada por Sisson. [Vídeo](https://www.youtube.com/watch?v=5FANatZxNFk)
+
 Veja também as [receitas com gelatina e caldo neutro](receitas-gelatina.md).

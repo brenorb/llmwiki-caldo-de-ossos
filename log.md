@@ -757,3 +757,7 @@ O [inventário](raw/inventario-wapf-receitas.md#primeiras-faixas-concluídas-na-
 ## [2026-11-25] revisão | Episódio 179 na fila em inglês
 
 O [inventário](raw/inventario-wapf-receitas.md#episódio-179-na-continuação-em-inglês) registra a faixa integral e localiza as menções temáticas nos anúncios de suplementos.
+
+## [2026-11-25] ingestão | Barras de abóbora e revisão visual de vídeos sem fala
+
+A [receita de barras](wiki/temas/aplicacoes-culinarias.md#barras-de-abóbora-com-peptídeos) registra as medidas, os carboidratos estimados pela marca e a divergência de adoçante na demonstração. O [inventário](raw/inventario-mark-receitas.md#retomada-em-25-de-novembro-de-2026) distingue TXT disponível e verificação de mídia e incorpora sete leituras visuais.

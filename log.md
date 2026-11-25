@@ -809,3 +809,7 @@ A [ficha das barras](wiki/temas/aplicacoes-culinarias.md#barras-de-abóbora-com-
 ## [2026-11-25] revisão | Inventário dos 904 vídeos e fila ampla de Mark's Daily Apple
 
 O [inventário por ID](raw/youtube-cobertura-2026-11-25.tsv) e o [método de conciliação](raw/inventario-mark-receitas.md#ampliação-para-menções-incidentais-no-canal-marks-daily-apple) expõem a cobertura e as remissões. A fila ampla passa a processar também vídeos sem termos temáticos nos títulos ou descrições, mantendo as etapas de extração e leitura distintas.
+
+## [2026-11-25] revisão | Novas alegações na síntese de saúde
+
+A [síntese de saúde](wiki/temas/alegacoes-saude.md) incorpora as alegações sobre glifosato, sarampo e desenvolvimento infantil já documentadas nas notas e na matriz de relatos. A revisão distingue prevenção de incorporação e eliminação de contaminantes e mantém separados estudos de caldo, modelos celulares e orientações institucionais.

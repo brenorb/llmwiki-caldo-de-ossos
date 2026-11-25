@@ -769,3 +769,7 @@ A [auditoria](raw/busca-receitas-relatos.md#duração-e-cobertura-das-lives) con
 ## [2026-11-25] revisão | Mais duas faixas integrais na fila da WAPF
 
 O [inventário](raw/inventario-wapf-receitas.md#episódio-177-e-faixa-151-em-espanhol) registra o episódio 177 e a faixa 151 em espanhol, incluindo a limitação da triagem por texto quando o reconhecimento mistura idiomas.
+
+## [2026-11-25] revisão | Reprocessamento integral de duas faixas em espanhol
+
+O [inventário](raw/inventario-wapf-receitas.md#episódio-176-e-revisão-das-faixas-espanholas-153-e-154) incorpora o episódio 176 e a nova passagem pelas faixas espanholas 153 e 154, sem duplicar a contagem de episódios. A revisão registra melhora no reconhecimento e suas limitações persistentes.

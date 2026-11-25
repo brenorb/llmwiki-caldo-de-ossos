@@ -857,3 +857,8 @@ A leitura posterior completou [18 textos e 6.115 linhas](raw/wapf-leitura-integr
 ## [2026-11-25] revisão | Fala recuperada em dois intervalos da WAPF
 
 Os recortes de EN142 e EN168 recuperaram fala omitida no reconhecimento anterior, sem nova passagem temática. Foram lidas as 30 linhas novas, preservando tempos originais e os textos anteriores. O [registro de leitura](raw/wapf-leitura-integral-18-2026-11-25.json) incorpora os 260 segundos reprocessados sem duplicar episódios ou o total das transcrições originais.
+
+
+## [2026-11-25] revisão | Mais 14 textos integrais de Mark's Daily Apple
+
+O [segundo corte por ID](raw/youtube-mda-leitura-14-2026-11-25.json) acrescenta 1h50min57,85s e chega a 38 textos novos lidos, sem duplicação com os 24 anteriores. O [inventário](raw/inventario-mark-receitas.md#segundo-lote-amplo-de-marks-daily-apple-lido) e a nota de fonte registram a declaração pessoal de suplemento e a conferência da cauda de slackline, sem converter o último timestamp em fim da fala ou dose do suplemento em concentração do caldo.

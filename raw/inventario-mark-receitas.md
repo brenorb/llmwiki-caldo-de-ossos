@@ -892,3 +892,12 @@ O último timestamp de ASR é **início do segmento, não fim da fala**. Subtra�
 No anúncio [f9XvKvOO8IM](https://www.youtube.com/watch?v=f9XvKvOO8IM), **Sisson fala à câmera**: a **00:05** anuncia **8,5 g de colágeno bovino por barra** e a **00:12** compara com uma xícara de caldo sem caracterizá-lo. A embalagem final informa **15 g de proteína**, medida diferente de colágeno. São alegações comerciais de uma versão histórica, sem receita ou análise do caldo. Não foram igualadas aos 7,5 g de outras embalagens nem aos 9 g declarados em outra entrevista.
 
 O vídeo [FIQ3vANHEFc](https://www.youtube.com/watch?v=FIQ3vANHEFc) é publicidade marcada #AD e mostra pudim de chia com Chocolate Coconut Collagen Fuel, framboesas e chocolate, sem cartelas quantitativas. O texto reconhecido era de música; TXT não vazio não significava uma receita narrada. Não foi criada uma ficha com medidas inferidas da imagem.
+
+
+### Segundo lote amplo de Mark's Daily Apple lido
+
+Mais **14 textos ASR foram lidos integralmente**, correspondendo a **1h50min57,85s de áudio decodificado**. O [registro por ID](youtube-mda-leitura-14-2026-11-25.json) foi cruzado com o primeiro lote e não tem sobreposição; são **38 textos novos lidos** entre os dois cortes, sem contar a duplicação já excluída. As extrações posteriores da fila ainda exigem leitura antes de entrar nessa contagem.
+
+Em [How Mark’s Fitness Routine Has Evolved, 05/09/2019, 07:17–07:25](https://www.youtube.com/watch?v=9kPoLeiKt3c&t=437s), Sisson declara consumir **20–40 g/dia de suplemento de colágeno** ao discutir tecido conjuntivo e envelhecimento. O quadro oficial em 07:22 confirma Sisson. Não fornece dose de caldo, receita ou avaliação clínica. Em *Grocery Haul*, a menção de sopa com camarão em 03:00–03:07 não especifica caldo ou proporções. O vídeo de estação de trabalho intercala outras vozes; suas linhas não foram atribuídas automaticamente a Sisson.
+
+A cauda de [Slacklining Basics with Mark Sisson](https://www.youtube.com/watch?v=3pE00qEyibU&t=252s), **04:12–05:30,14**, foi conferida em **78 quadros a 1 fps**, ASR contínuo do recorte e detector de silêncio a −60 dB com duração mínima de 1 s. A imagem mostra demonstração, cartelas e tela preta. O reconhecimento recupera o encerramento da frase inicial, sem fala adicional reconhecida. Os **36,77 s finais** ficaram abaixo do limiar medido. Não foi feita escuta humana; amostragem de imagem e limiar de amplitude têm limites. A distância entre o último início de segmento e o fim não foi tratada como corte confirmado.

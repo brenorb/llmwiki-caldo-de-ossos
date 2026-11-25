@@ -108,3 +108,5 @@ O [segundo lote positivo health](../raw/wapf-health-mais50-2026-11-25.tsv) une d
 A [fatia negativa 50–99](../raw/wapf-health-negativos-50-100-2026-11-25.tsv) preserva 49 textos, um landing e limites de anexos/versões. Traduções não foram tratadas como intervenções independentes; recomendações de dieta ou testemunhos não medem o efeito isolado do caldo.
 
 Os [12 textos WAPF adicionais](../raw/wapf-leitura-integral-12-2026-11-25.json) têm hashes físicos e faixas inclusivas conferidos, disjuntos dos cortes de18 e seis. Conclusão ASR, leitura textual e qualidade continuam etapas distintas; ES141/142 não sustentam negativa forte de toda a gravação. O relato infantil multicomponente permanece anedótico e anônimo.
+
+A [atualização de pigmentação](../raw/pigmentacao-atualizacao-2026-11-25.json) distingue resumo pré-clínico de condroitina e registro prospectivo sem resultados. Formulações comerciais incompletas e acesso parcial não viraram doses ou eficácia clínica do caldo.

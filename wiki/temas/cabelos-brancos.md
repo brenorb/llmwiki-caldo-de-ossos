@@ -44,3 +44,7 @@ Dois ensaios de 2026 relataram efeitos de peptídeos de colágeno específicos s
 A [medicina chinesa tradicional](medicina-chinesa.md) também tem uma correspondência entre o Rim e a aparência do cabelo. As fontes de dietoterapia consultadas não testam se caldo devolve pigmento aos fios.
 
 Mark Sisson citou o estudo de Fatemi Naieni et al. ao discutir cobre e canície precoce. O estudo mediu cobre no soro. A coluna descreveu o material de análise como cabelo. [Coluna arquivada e conferência](../fontes/mark-sisson-caldo-gelatina.md)
+
+## Atualização de modelos e registros
+
+O [estudo celular de Lee et al.](../fontes/lee-2025-condroitina-melanina.md), consultado apenas pelo resumo, examina condroitina em modelos de pele, sem tratamento oral ou desfecho capilar humano. O [NCT07839494](../fontes/nct07839494-registro-pigmentacao.md) prevê avaliar produtos comerciais e percentual de cabelos grisalhos, mas ainda não apresenta resultados. Não foi tratado como ensaio de cobre isolado, caldo ou B9. [Estratégia, exclusões e acesso](../../raw/pigmentacao-atualizacao-2026-11-25.json)

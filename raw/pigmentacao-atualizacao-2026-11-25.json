@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-25",
+  "queries": [
+    "\"chondroitin sulfate\" hair repigmentation clinical trial",
+    "\"chondroitin\" \"melanogenesis\" oral",
+    "site.clinicaltrials.gov chondroitin hair pigmentation",
+    "\"10.15230/SCSK.2025.51.3.217\" pdf",
+    "\"JAKO202530354057802\""
+  ],
+  "scope": "Atualização dirigida; não busca exaustiva universal. Resultados de busca não equivalem a leitura integral dos estudos.",
+  "accesses": [
+    {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT07839494",
+      "file": "NCT07839494.json",
+      "http_status": "200",
+      "final_url": "https://clinicaltrials.gov/api/v2/studies/NCT07839494",
+      "retrieved_at_utc": "2026-11-25T23:31:03.258604+00:00",
+      "exit_code": 0,
+      "error": "",
+      "bytes": 21563,
+      "sha256": "c8af9b2228c82017312c64448751400dbbe49ebeb71160047342f880cb9d64b3"
+    },
+    {
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT06010745",
+      "file": "NCT06010745.json",
+      "http_status": "200",
+      "final_url": "https://clinicaltrials.gov/api/v2/studies/NCT06010745",
+      "retrieved_at_utc": "2026-11-25T23:31:03.271053+00:00",
+      "exit_code": 0,
+      "error": "",
+      "bytes": 16835,
+      "sha256": "2dc9e2ae862da7583e52e46928de10b6d6ab79f5396fbf4eb63bd6cef5421f29"
+    },
+    {
+      "url": "https://koreascience.kr/article/JAKO202530354057802.page",
+      "file": "lee-2025-koreascience.html",
+      "http_status": "000",
+      "final_url": "https://koreascience.kr/article/JAKO202530354057802.page",
+      "retrieved_at_utc": "2026-11-25T23:31:37.859101+00:00",
+      "exit_code": 28,
+      "error": "curl: (28) Connection timed out after 35003 milliseconds"
+    }
+  ],
+  "lee_2025": {
+    "doi": "10.15230/SCSK.2025.51.3.217",
+    "primary_url": "https://koreascience.kr/article/JAKO202530354057802.page",
+    "crosscheck": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003252075",
+    "read": "Resumo inglês completo, metadados, agradecimento e lista bibliográfica visíveis no índice da página oficial; originais bibliográficos não lidos.",
+    "not_read": "Métodos/resultados/tabelas/declarações do artigo integral; PDF não recuperado nas tentativas web e DOI; HTML direto expirou após35s. Não se conclui indisponibilidade universal.",
+    "funding_visible": "National Research Foundation of Korea, MSIT, RS-2023-00212674",
+    "correction_check": "Sem sinal de correção/retração nas duas páginas consultadas; não busca exaustiva."
+  },
+  "registries": [
+    {
+      "id": "NCT07839494",
+      "source": "https://clinicaltrials.gov/study/NCT07839494",
+      "last_update": "2026-10-15",
+      "hasResults": false,
+      "read_modules": [
+        "identificationModule",
+        "statusModule",
+        "sponsorCollaboratorsModule",
+        "descriptionModule",
+        "designModule",
+        "armsInterventionsModule",
+        "outcomesModule",
+        "eligibilityModule"
+      ],
+      "not_used": "Contatos pessoais/localizações não transcritos; registro público não equivale a resultados ou protocolo completo anexado.",
+      "disposition": "Registro relevante, sem resultados; composição dos produtos não detalhada."
+    },
+    {
+      "id": "NCT06010745",
+      "source": "https://clinicaltrials.gov/study/NCT06010745",
+      "last_update": "2023-08-25",
+      "hasResults": false,
+      "read_modules": [
+        "identificationModule",
+        "statusModule",
+        "sponsorCollaboratorsModule",
+        "descriptionModule",
+        "designModule",
+        "armsInterventionsModule",
+        "outcomesModule",
+        "eligibilityModule"
+      ],
+      "not_used": "Contatos pessoais/localizações não transcritos; registro público não equivale a resultados ou protocolo completo anexado.",
+      "disposition": "Excluído da hipótese de condroitina: biotina/silício, desfecho primário crescimento/densidade, não reversão de canície."
+    }
+  ]
+}

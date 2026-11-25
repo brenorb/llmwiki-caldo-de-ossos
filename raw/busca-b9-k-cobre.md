@@ -27,3 +27,7 @@ A [nova versão integral de ES145](wapf-revisao-ultra-quatro-2026-11-25.json), l
 ### [2026-11-25] Referências de condroitina e melanina
 
 A [conferência da cadeia citada por Seneff](../wiki/fontes/seneff-2011-cadeia-melanina.md) e seu [registro de acesso](condroitina-melanina-acesso-2026-11-25.json) identificam enzimas e objetos distintos. Os resumos não foram tratados como ensaios de B9/caldo para repigmentação, e o acesso integral aos três estudos principais permanece pendente.
+
+## Atualização dirigida de25/11/2026
+
+O [registro da busca](pigmentacao-atualizacao-2026-11-25.json) conserva termos, acessos oficiais e limites. Inclui [Lee2025, resumo pré-clínico](../wiki/fontes/lee-2025-condroitina-melanina.md) e [NCT07839494, sem resultados](../wiki/fontes/nct07839494-registro-pigmentacao.md). NCT06010745 foi excluído da hipótese de condroitina: o registro descreve biotina/silício e crescimento/densidade, com situação desconhecida após última atualização de2023. Não se confundiu biotina(B7) com folato(B9), nem nomes comerciais com formulações verificadas.

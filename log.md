@@ -986,3 +986,7 @@ O [registro 50–99](raw/wapf-health-negativos-50-100-2026-11-25.tsv) e o [resum
 ## [2026-11-25] ingestão | Doze textos WAPF e relato infantil multicomponente
 
 O [corte dos12](raw/wapf-leitura-integral-12-2026-11-25.json) acrescenta4.021 linhas integralmente lidas, com hashes físicos de36 artefatos conferidos e208 blocos documentados. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#mais-doze-textos-de-áudio-e-suas-limitações) distingue usos culinários, alvo dietético de cálcio e relato de eczema sem efeito isolado. ES141/142 conservam baixa inteligibilidade; contagens de processamento não foram promovidas a contagem de leitura.
+
+## [2026-11-25] revisão | Modelos de condroitina e registro prospectivo de pigmentação
+
+A [atualização dirigida](raw/pigmentacao-atualizacao-2026-11-25.json) registra fontes oficiais, hashes dos dois registros e tentativas de acesso ao artigo coreano. Acesso ao resumo permaneceu explícito; o ensaio prospectivo sem resultados não foi usado como prova de cobre isolado ou caldo. Síntese de canície, índice e proveniência atualizados.

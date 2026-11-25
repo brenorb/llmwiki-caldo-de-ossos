@@ -219,3 +219,6 @@
 - [tbca acesso](raw/tbca-acesso.md)
 
 - [Doze textos WAPF adicionais: leitura integral e limites de ASR](raw/wapf-leitura-integral-12-2026-11-25.json)
+
+- [Lee2025: condroitina em células, acesso ao resumo](wiki/fontes/lee-2025-condroitina-melanina.md)
+- [NCT07839494: plano de ensaio sobre cabelos grisalhos, sem resultados](wiki/fontes/nct07839494-registro-pigmentacao.md)

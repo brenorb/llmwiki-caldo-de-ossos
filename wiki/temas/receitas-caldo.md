@@ -129,6 +129,18 @@ Use **cerca de 950 mL de caldo de frango**, **2 xícaras de frango cozido em cub
 
 Refogue alho, cebola e pimentões. Junte caldo, tomate, frango, feijão e temperos. Cozinhe em fogo brando para reunir os sabores e acrescente as folhas no fim. Para uma versão com menos amido, troque o feijão por cogumelos ou abobrinha em cubos e sirva sem o pão de milho indicado na ficha. A troca é uma adaptação da wiki. [Conservação](seguranca-conservacao.md)
 
+## Chili branco de frango na pressão com gelatina opcional
+
+Para **6 porções**, a Primal Kitchen combina **360 mL de caldo de ossos de frango**, **680 g de sobrecoxa**, **2 latas de feijão branco**, **1 xícara de pimentas verdes picadas**, **1 cebola**, **2 colheres de sopa de alho**, óleo de abacate, limão, cominho, coentro, orégano e pimentas. A ficha acrescenta uma pequena quantidade de gelatina bovina em pó antes da cocção, se desejado, sem fixar a medida. Cozinhe por **20 min em alta pressão**, aguarde **10 min de liberação natural** e siga o manual para abrir. Desfie o frango e incorpore o molho de coentro e limão. A marca informa **29,2 g de carboidratos por porção**, estimados para a receita original. [Ficha da Primal Kitchen, consultada em 2026-11-25](https://www.primalkitchen.com/blogs/recipes/instant-pot-white-chicken-chili)
+
+Para reduzir o amido, uma adaptação da wiki é omitir o feijão e os chips e acrescentar abobrinha picada depois de abrir a panela, cozinhando até amaciar. Confira o açúcar adicionado no molho. A troca altera rendimento, textura e composição e ainda não foi testada pela wiki. [Conservação e reaquecimento](seguranca-conservacao.md)
+
+## Travessa de abóbora e linguiça umedecida com caldo
+
+A ficha da Primal Kitchen usa **cerca de 900 g de abóbora-manteiga**, **450 g de linguiça de frango**, pão sem glúten em cubos, cebola, alho, sálvia, ghee e **240 mL de caldo de ossos**, preferencialmente de frango ou peru. Torre o pão a **220 °C por 10 min**. Asse a abóbora com óleo, sal e pimenta a **220 °C por 25 min**. Refogue cebola, alho e sálvia no ghee e cozinhe a linguiça. Misture na travessa com a abóbora e o pão, distribua o caldo e um pouco de ghee derretido e asse a **175 °C por 30 min**. A marca estima **41,8 g de carboidratos por porção**, para seis porções. [Squash and Sage Sausage Stuffing, consultada em 2026-11-25](https://www.primalkitchen.com/blogs/recipes/spicy-squash-and-sausage-stuffing)
+
+Pão e abóbora fornecem amido. Para experimentar uma versão com menos carboidratos, dispense o pão e substitua parte da abóbora por couve-flor previamente assada. Adicione o caldo aos poucos para umedecer sem encharcar. Essas trocas são sugestões da wiki e ainda não foram testadas. Use linguiça sem açúcar adicionado e cozinhe a de frango até **74 °C** no centro. [Referência de cocção](seguranca-conservacao.md)
+
 ## Chili bovino sem feijão com gelatina opcional
 
 Para as **12 porções** da ficha da Primal Kitchen, use **cerca de 1,36 kg de carne bovina moída**, **946 mL de caldo bovino**, **240 mL de ketchup sem açúcar adicionado**, **1 cebola**, **2 pimentões**, jalapeño, alho e cebola em pó, páprica e pimenta em pó. Aqueça óleo de abacate em panela grande, doure a carne com a cebola e os pimentões, incorpore os temperos e acrescente caldo e ketchup. A ficha também sugere chocolate amargo opcional. Cozinhe tampado em fogo brando por cerca de **2 h**, mexendo de vez em quando. [Receita publicada pela Primal Kitchen](https://www.primalkitchen.com/blogs/recipes/keto-chili-recipe-without-beans)

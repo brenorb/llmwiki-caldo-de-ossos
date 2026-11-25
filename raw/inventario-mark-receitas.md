@@ -837,3 +837,8 @@ A consulta paginada por `"bone broth"` devolveu 171 capturas distintas de 145 en
 - [Cooking with Edible Animal Fats](https://arquivo.pt/noFrame/replay/20191010140348/https://marksdailyapple.com/yet-another-primal-primer-animal-fats) · corpo triado, sem termo
 - [Yoga Good for Beating Symptoms of Breast Cancer](https://arquivo.pt/noFrame/replay/20160517174100/https://marksdailyapple.com/yoga-reduce-cancer-symptom) · corpo triado, sem termo
 - [Zero Carb Diet](https://arquivo.pt/noFrame/replay/20160517174321/https://marksdailyapple.com/zero-carb-diet) · corpo triado, sem termo
+
+
+## Retomada em 25 de novembro de 2026
+
+A conferência direta das fichas da Primal Kitchen acrescentou chili branco na pressão, com caldo de frango e gelatina bovina opcional, e uma travessa de abóbora e linguiça umedecida com caldo. As medidas, os carboidratos declarados pela marca e as adaptações estão na [página de receitas](../wiki/temas/receitas-caldo.md#chili-branco-de-frango-na-pressão-com-gelatina-opcional). A consulta complementa o acervo inventariado em 11 de novembro. Os denominadores históricos dos canais e sites acima conservam a data de seu levantamento.

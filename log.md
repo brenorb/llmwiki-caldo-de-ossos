@@ -727,3 +727,8 @@ A [entrevista com Ben Pakulski](raw/mark-sisson-entrevistas.md#muscle-intelligen
 ## [2026-11-11] ingestão | Sopa de legumes feita com caldo gelificado
 
 A [ficha](wiki/temas/receitas-caldo.md#sopa-de-legumes-com-gel-do-caldo) dá medidas para duas tigelas e sugere legumes de baixo amido para a ideia registrada nos comentários do Cozinha de Pedra.
+
+
+## [2026-11-25] ingestão | Chili branco e travessa com caldo da Primal Kitchen
+
+A [ficha de chili branco](wiki/temas/receitas-caldo.md#chili-branco-de-frango-na-pressão-com-gelatina-opcional) registra gelatina opcional antes da pressão. A [travessa de abóbora e linguiça](wiki/temas/receitas-caldo.md#travessa-de-abóbora-e-linguiça-umedecida-com-caldo) usa caldo para umedecer o pão. As fichas identificam carboidratos da versão publicada e adaptações ainda sem teste culinário.

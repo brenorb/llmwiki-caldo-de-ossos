@@ -92,6 +92,19 @@ A [incorporação de 16 URLs da leitura editorial](../temas/receitas-wapf-catalo
 
 No episódio 180, Joel Salatin reconta uma melhora geral percebida por Sina McCullough durante mudanças alimentares que incluíram caldo. A passagem não informa diagnóstico clínico detalhado, quantidade ingerida ou resultado atribuível ao caldo. [Episódio 180, 00:27:12–00:28:08](https://wisetraditions.libsyn.com/180-joel-salatin-tells-all)
 
+## Ressalvas encontradas nas fichas culinárias
+
+| Página | Como interpretar o corpo editorial |
+| --- | --- |
+| [Postpartum Recovery Soup](https://www.westonaprice.org/postpartum-recovery-soup/) | O conselho da acupunturista e os resultados percebidos pela autora são [relato pessoal](../temas/medicina-chinesa.md#relato-pessoal-de-pós-parto-publicado-pela-wapf), sem isolar o caldo de outros alimentos/práticas. |
+| [Fish Stock](https://www.westonaprice.org/fish-stock/) | A introdução reproduz uma narrativa histórica sobre médicos chineses e tireoide e atribui iodo/hormônio tireoidiano ao fundo. A ficha não apresenta análise do líquido ou ensaio clínico dessa receita. Compare com as [medições de iodo em preparos definidos](../temas/componentes-por-caldo.md), sem transportar seus valores para este fundo. |
+| [Shrimp Shell Broth](https://www.westonaprice.org/shrimp-shell-broth/) | A autora chama glucosamina de proteína e afirma superioridade nutricional ao caldo de ossos. O próprio moderador declara que **não verificou a comparação**. Glucosamina é um aminoaçúcar; não há dosagem no caldo da ficha. [Nomenclatura institucional](nomenclatura-gelatina-glucosamina.md) |
+| [Gelatin](https://www.westonaprice.org/gelatin/) | O texto técnico é atribuído à Perfect Supplements e oferece desconto comercial. Atribui bromelina conjuntamente a abacaxi, kiwi e gengibre. A [nomenclatura institucional](nomenclatura-gelatina-glucosamina.md) distingue bromelina, actinidina e zingibaína; a wiki não reproduz a equivalência. Isso não invalida por si só a função culinária da gelatina. |
+| [Collagen Broth from Chicken Feet](https://www.westonaprice.org/collagen-broth-from-chicken-feet/) | A nota editorial reconhece que o caldo não é fonte rica em minerais; não fornece análise quantitativa dessa receita. |
+| [Hidden Liver Recipes](https://www.westonaprice.org/hidden-liver-recipes/) | A lista atribui *Crockpot Brisket Tacos* a Sally Fallon Morell, mas a [ficha própria](https://www.westonaprice.org/crockpot-brisket-tacos/) credita Amanda Love. Para autoria, a wiki segue a ficha. |
+
+Essas ressalvas vêm da leitura dos corpos editoriais, não da verificação integral dos comentários, das imagens ou das referências vinculadas. [Registro de acesso e correções](../../raw/wapf-ressalvas-receitas-2026-11-25.json)
+
 ## Verificação de referências históricas
 
 - A [crítica de Daniel](https://www.westonaprice.org/health-topics/bone-broth-and-lead-contamination-a-very-flawed-study-in-medical-hypotheses/) cita o estudo de McCance, Sheldon e Widdowson de 1934. Na Tabela 2, o cálcio médio foi de 5,2 mg/100 mL nos seis caldos de cozinha, 28,6 mg/100 mL nos dois de laboratório e 10,2 mg/100 mL nos dois comerciais. Os dois valores de referência para leite de vaca na tabela, um da literatura e um da análise dos autores, eram de cerca de 120 mg/100 mL. Os valores dependem dessas preparações e amostras. [Artigo de 1934](https://pubmed.ncbi.nlm.nih.gov/21031965/) · [Digitalização, Tabela 2](https://raw-feeding-prey-model.fr/wp-content/uploads/2017/03/Bouillon-dos.pdf)

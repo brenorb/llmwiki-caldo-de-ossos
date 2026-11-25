@@ -847,3 +847,7 @@ Dois cadernos de aulas de cozinha fornecem fichas com caldos de carcaça de peix
 ### Incorporação culinária posterior de 16 URLs
 
 O [registro por fonte](wapf-incorporacao-16-receitas-2026-11-25.json) liga 16 URLs já lidas ao [catálogo ampliado](../wiki/temas/receitas-wapf-catalogo.md#achados-da-leitura-das-464-páginas). Inclui métodos com medidas, variantes doces, souse e usos secundários em molhos/acompanhamentos. Coração e língua geram caldo sem osso; caldo vegetal permanece alternativa identificada. O texto preserva as duas xícaras literais de gelatina do cheesecake e as quantidades ausentes, sem corrigir por suposição. São incorporação e revisão, não acréscimo ao denominador de leitura.
+
+### Ressalvas incorporadas da leitura editorial
+
+O [registro de 15 corpos e cinco verbetes institucionais](wapf-ressalvas-receitas-2026-11-25.json) documenta divergências de unidades/autoria, a ressalva explícita sobre a comparação do caldo de camarão, o texto comercial de gelatina e os relatos históricos/pessoais. Os detalhes estão no [catálogo](../wiki/temas/receitas-wapf-catalogo.md#medidas-incompletas-ou-divergentes-na-fonte) e na [nota da WAPF](../wiki/fontes/weston-price-caldo-gelatina.md#ressalvas-encontradas-nas-fichas-culinárias). As falas de saúde da receita de pós-parto foram ligadas à matriz de evidência, sem inferir eficácia a partir da medição de minerais.

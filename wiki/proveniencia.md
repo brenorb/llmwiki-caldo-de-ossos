@@ -78,3 +78,5 @@ Na [revisão editorial das receitas da WAPF](../raw/inventario-wapf-receitas.md#
 ## Relato de caldo após exposição ao frio
 
 A história do episódio 185 da WAPF é um depoimento de terceira pessoa sobre um conjunto de práticas. O [ensaio de ducha fria](fontes/buijze-2016-ducha-fria.md) é evidência indireta para discutir a exposição ao frio. A [matriz por desfecho](temas/relatos-e-evidencia.md) preserva a população, a intervenção e o desfecho estudados.
+
+As [correções das receitas](fontes/weston-price-caldo-gelatina.md#ressalvas-encontradas-nas-fichas-culinárias) distinguem relato pessoal, comparação não verificada e erro de nomenclatura. Os [verbetes institucionais](fontes/nomenclatura-gelatina-glucosamina.md) sustentam apenas a identificação química, sem dosagem no caldo ou conclusão clínica.

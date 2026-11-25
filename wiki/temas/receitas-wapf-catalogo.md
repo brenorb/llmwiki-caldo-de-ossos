@@ -306,6 +306,19 @@ As fichas abaixo foram conferidas no corpo editorial completo, inclusive quando 
 | [Honey Marshmallows](https://www.westonaprice.org/honey-marshmallows/) | Variante distinta de *Homemade Marshmallows*: **4 colheres de sopa de gelatina**, **1 xícara de água dividida ao meio**, **1 xícara de mel**, 1 colher de sopa de baunilha e 2 xícaras de coco ralado. Hidrate a gelatina numa metade da água; aqueça mel e a outra metade a **240°F (116°C)**. Bata a calda com a gelatina até sustentar a forma, cerca de 8 min na batedeira da autora. Espalhe entre camadas de coco e deixe firmar 2–5 h. | O mel fornece açúcar e estrutura. Para low carb, siga a [fórmula própria com adoçantes](receitas-gelatina.md#marshmallow-de-gelatina-com-e-sem-açúcar), sem presumir troca direta por estévia. |
 | [Blueberry Cheesecake Jello](https://www.westonaprice.org/blueberry-cheesecake-jello/), Spencer Clanin | **16 oz de queijo de cabra, 8 oz de cream cheese, 1 pint de creme, 1 quart de iogurte grego**, cerca de ½ xícara de mel, baunilha; compota de 1 quart de mirtilos com limão e açúcar. A fonte escreve literalmente **2 xícaras de gelatina** para forma de 9×13 polegadas, avisa que fica muito firme e permite usar menos. Hidrate/dissolva; distribua ¾ da mistura de gelatina no creme e ¼ na compota e gele. Água de hidratação sem quantidade. | Mel, açúcar, fruta e lactose contribuem. Reduza fruta, omita o açúcar e ajuste adoçante; use laticínios pasteurizados. Não há teste da adaptação. A dose alta de gelatina foi preservada como divergência da fonte; para começar, prefira uma [ficha com proporção definida](receitas-gelatina.md#cubos-cremosos-de-iogurte-e-cottage). |
 
+### Medidas incompletas ou divergentes na fonte
+
+| Ficha | Limite para reproduzir a fórmula |
+| --- | --- |
+| [Seaweed Vegetable Soup](https://www.westonaprice.org/seaweed-vegetable-soup/) | A lista escreve **¼ de Seaweed Soup Mix sem unidade**. Não foi convertido em colher ou xícara. A apresentação informa patrocínio da marca em 2021. |
+| [Sugar Free Gelatin Jellybeans](https://www.westonaprice.org/sugar-free-gelatin-jellybeans/) | São duas latas de creme de coco de **5 oz cada** e uma lata de leite de coco **sem tamanho informado**, com **8 colheres de sopa de gelatina**. Não há volume total fixo verificável. |
+| [Whipped Raspberry Panna Cotta](https://www.westonaprice.org/whipped-raspberry-panna-cotta/) | A fonte usa **3 colheres de sopa**, não de chá, de gelatina; permite metade para mousse. A [ficha da wiki](receitas-gelatina.md#mousse-aerada-de-framboesa) segue essa variante. |
+| [High Protein Gummies](https://www.westonaprice.org/high-protein-gummies/) | **1 xícara de gelatina** é a medida literal; a água de hidratação/dissolução não tem volume. O autor descreve a fórmula como aproximada. |
+| [Raw Liver Honey Gummy](https://www.westonaprice.org/raw-liver-honey-gummy/) | A lista dá **½ xícara de mel e 1 de fígado**, mas outra linha diz cerca de **1:1**. O autor declara não ter medido e desconhecer a validade. A wiki não escolheu uma proporção nem adotou o prazo especulativo. |
+| [Freestyle Split Pea and Pork Hock Stew](https://www.westonaprice.org/freestyle-split-pea-and-pork-hock-stew/) | Lista **6–8 xícaras de caldo**; o método acrescenta volumes em etapas e depois pede completar o líquido a **6 xícaras**. Não foi transformado em soma fixa. |
+| [Beef Broth](https://www.westonaprice.org/beef-broth-2/) | Lista **3–4 folhas de louro**, mas o método pede **duas**. |
+| [Chicken and Vegetable Soup](https://www.westonaprice.org/chicken-and-vegetable-soup/) | O preparo menciona cenouras ausentes da lista, sem quantidade. |
+
 ### Outros usos do líquido e acompanhamentos
 
 | Fonte | Uso realmente descrito | Opção com menos carboidratos |

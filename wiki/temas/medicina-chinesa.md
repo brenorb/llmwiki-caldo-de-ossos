@@ -27,6 +27,10 @@ O guia alimentar chinês de osteoporose de 2026 inclui exemplos de sopas por pad
 
 Em uma live do Cozinha de Pedra, um convidado incluiu o caldo no que chamou de “umidade benéfica”, em uma explicação própria de medicina chinesa. A fonte registra a interpretação do convidado. [Nota da live](../fontes/cozinha-de-pedra-caldo.md)
 
+### Relato pessoal de pós-parto publicado pela WAPF
+
+Na [Postpartum Recovery Soup](https://www.westonaprice.org/postpartum-recovery-soup/), a autora conta que uma acupunturista chinesa recomendou sopa de pés suínos com vinagre, gengibre e açúcar durante seis semanas. Ela atribui ao conselho, junto de outros alimentos como fígado, ter tido energia, boa produção de leite e ausência de depressão pós-parto. É um **relato pessoal de um conjunto de práticas**, sem comparador ou avaliação clínica descrita. O [estudo de Chan](../fontes/chan-2000-sopa-pos-parto.md) mede minerais em preparos domésticos semelhantes; não verifica esses benefícios. A [linha culinária](receitas-wapf-catalogo.md#sopas-caldos-e-fundos) identifica açúcar e acompanhamentos da receita, sem transformar o consumo recomendado em prescrição.
+
 ## Na cozinha
 
 ### Costela suína com rabanete branco e gengibre

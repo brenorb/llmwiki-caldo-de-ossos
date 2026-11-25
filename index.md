@@ -203,3 +203,5 @@
 - [tbca acesso](raw/tbca-acesso.md)
 
 A [leitura editorial das 464 páginas da WAPF](raw/wapf-leitura-editorial-464-2026-11-25.tsv) também alimenta as [novas fichas e usos culinários](wiki/temas/receitas-wapf-catalogo.md#achados-da-leitura-das-464-páginas), incluindo o [souse salgado](wiki/temas/receitas-gelatina.md#souse-de-ossos-bovinos-e-aparas).
+
+As [ressalvas das fichas da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#ressalvas-encontradas-nas-fichas-culinárias) preservam divergências e relatos; a [nota de nomenclatura](wiki/fontes/nomenclatura-gelatina-glucosamina.md) confere nomes de proteases e a classe química da glucosamina.

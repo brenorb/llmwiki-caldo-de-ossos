@@ -235,6 +235,8 @@ Mandagará relata ter adaptado o quindim do Senhor Tanquinho com a gordura separ
 
 Em uma live, a autora relata que gengibre cru dificulta a gelificação e sugere aquecê-lo antes. A protease do gengibre hidrolisa gelatina em laboratório. Para aromatizar um caldo que já firme quando frio, teste uma pequena porção com uma infusão feita em fervura e coada. A firmeza também depende de quanto líquido foi acrescentado. [Live do Cozinha de Pedra, 21:43–22:20](https://www.instagram.com/cozinhadepedra/reel/CQW68bqpaz-/) · [Estudo de hidrólise](https://pmc.ncbi.nlm.nih.gov/articles/PMC9370692/)
 
+Kiwi, gengibre e abacaxi têm proteases com nomes distintos: actinidina, zingibaína e bromelina, respectivamente. A [nota de nomenclatura](../fontes/nomenclatura-gelatina-glucosamina.md) corrige uma equivalência encontrada no artigo técnico da WAPF; não fornece um protocolo universal de aquecimento.
+
 ## Substituições que mudam os carboidratos e a textura
 
 | Ideia | Onde entram carboidratos | Como adaptar |

@@ -907,3 +907,8 @@ O [registro por versão](raw/wapf-revisao-es147-2026-11-25.json) preserva 424 li
 ## [2026-11-25] ingestão | Dezesseis fontes culinárias incorporadas após leitura completa
 
 O [catálogo ampliado](wiki/temas/receitas-wapf-catalogo.md#achados-da-leitura-das-464-páginas) e a [ficha de souse](wiki/temas/receitas-gelatina.md#souse-de-ossos-bovinos-e-aparas) acrescentam quantidades, métodos e adaptações, preservando bases sem osso, alternativas vegetais e usos secundários. O [registro de 16 URLs](raw/wapf-incorporacao-16-receitas-2026-11-25.json) mantém autoria e hashes da leitura já concluída, sem inflar os 464 itens. A introdução do catálogo foi corrigida para explicitar que as 73 páginas iniciais estão dentro das 464, não somadas a elas.
+
+
+## [2026-11-25] revisão | Ressalvas culinárias, nomenclatura e relato de pós-parto
+
+A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#ressalvas-encontradas-nas-fichas-culinárias) separa relatos, alegações comerciais e comparações não verificadas. A [tabela culinária](wiki/temas/receitas-wapf-catalogo.md#medidas-incompletas-ou-divergentes-na-fonte) conserva unidades ausentes e contradições. Foram conferidos verbetes da [IUBMB e do NCI](wiki/fontes/nomenclatura-gelatina-glucosamina.md), sem extrapolação clínica; o relato de pós-parto integra a página de medicina chinesa e a matriz de evidência. O [registro de acesso](raw/wapf-ressalvas-receitas-2026-11-25.json) não aumenta a contagem de páginas da WAPF lidas.

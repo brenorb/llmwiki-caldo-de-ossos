@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-25",
+  "scope": "Ressalvas e divergências de corpos já lidos, sem aumentar o denominador de 464.",
+  "editorial_sources": [
+    {
+      "id": 26959,
+      "url": "https://www.westonaprice.org/postpartum-recovery-soup/",
+      "title": "Postpartum Recovery Soup",
+      "date": "2018-02-01T12:56:08",
+      "modified": "2023-11-30T18:54:38",
+      "author_id": 326,
+      "html_sha256": "252599a80fc8807de3b44be455284724e98782802681106afc793b9472355d51",
+      "text_sha256": "42def27d5709d20074691bf112e799368508210e9677ae81c3bf071d82cebab9",
+      "lines": 18
+    },
+    {
+      "id": 37155,
+      "url": "https://www.westonaprice.org/whipped-raspberry-panna-cotta/",
+      "title": "Whipped Raspberry Panna Cotta⁣",
+      "date": "2021-06-14T16:00:10",
+      "modified": "2023-11-30T18:15:37",
+      "author_id": 408,
+      "html_sha256": "f7e3a825d50f622e33b365f558cc5c66b3eb10bec2338e6328740c98b69cbc57",
+      "text_sha256": "f19078523ba0d485b403a0516276d036d2defffda1d74a4ae5dda3d55e795a1e",
+      "lines": 19
+    },
+    {
+      "id": 37730,
+      "url": "https://www.westonaprice.org/sugar-free-gelatin-jellybeans/",
+      "title": "Sugar Free Gelatin Jellybeans",
+      "date": "2021-08-16T16:01:01",
+      "modified": "2023-11-30T18:14:51",
+      "author_id": 316,
+      "html_sha256": "6a93ba98c6c3b247a9f343b5f134e46611785dd4c7efa604d51444b97bad4cb3",
+      "text_sha256": "96819887a70acfe9038c5f61a7a4fb54836416959736da88ab948225e943275f",
+      "lines": 15
+    },
+    {
+      "id": 38488,
+      "url": "https://www.westonaprice.org/seaweed-vegetable-soup/",
+      "title": "Seaweed Vegetable Soup",
+      "date": "2021-10-23T11:17:38",
+      "modified": "2023-11-30T18:52:23",
+      "author_id": 418,
+      "html_sha256": "ebd53d8894a05bada54838ec9880fa2192552dd764b3b125076a5471558382b1",
+      "text_sha256": "9511394240b82a2e9861964583f92188bfc65e62f38c9a4e9024db4b949958f1",
+      "lines": 23
+    },
+    {
+      "id": 39289,
+      "url": "https://www.westonaprice.org/freestyle-split-pea-and-pork-hock-stew/",
+      "title": "Freestyle Split Pea and Pork Hock Stew",
+      "date": "2022-01-13T16:20:30",
+      "modified": "2023-11-30T18:52:17",
+      "author_id": 400,
+      "html_sha256": "bb346ab321dca2b41baa6f1a1ad6653e6dba94aa099054b23143c223bd39539a",
+      "text_sha256": "7abc39d7898ec417f204a062d4f8f1dde7aa98a5b97f6b6403c16aa8eb8b3551",
+      "lines": 40
+    },
+    {
+      "id": 39676,
+      "url": "https://www.westonaprice.org/shrimp-shell-broth/",
+      "title": "Shrimp Shell Broth",
+      "date": "2022-02-19T15:34:54",
+      "modified": "2023-11-30T18:52:11",
+      "author_id": 395,
+      "html_sha256": "d25ef7a2df50251958a9097445d2a06ad88b4548c98197972399053136a956b4",
+      "text_sha256": "00cd3f8799cf3e4c6b43abf89c6678efff12ed6423fd1e9795b62d5d0d3d8552",
+      "lines": 14
+    },
+    {
+      "id": 42673,
+      "url": "https://www.westonaprice.org/gelatin/",
+      "title": "Gelatin",
+      "date": "2022-12-28T01:08:38",
+      "modified": "2025-09-05T07:59:49",
+      "author_id": 398,
+      "html_sha256": "ab9a6710cd6f56330ae30ba08c50a92c893061cf762c402608afa6ec12da44cf",
+      "text_sha256": "fc59ff3b2daeaa4f480b7e5563315c9bf2bcf6bcd4ddde185c0e6f38979c83ef",
+      "lines": 24
+    },
+    {
+      "id": 42782,
+      "url": "https://www.westonaprice.org/crockpot-brisket-tacos/",
+      "title": "Crockpot Brisket Tacos",
+      "date": "2023-01-24T12:00:19",
+      "modified": "2023-11-30T18:25:27",
+      "author_id": 444,
+      "html_sha256": "f9e57cee2d183a0393d909e4e69b4cd42fb967068ddc3d6d2e59a2785d179614",
+      "text_sha256": "397991e212e50c982b4d3355a945aca7bf47086de1787132643adbb3799b5233",
+      "lines": 24
+    },
+    {
+      "id": 46202,
+      "url": "https://www.westonaprice.org/high-protein-gummies/",
+      "title": "High Protein Gummies",
+      "date": "2024-09-12T20:19:37",
+      "modified": "2025-09-05T07:34:40",
+      "author_id": 455,
+      "html_sha256": "82bdfd872822e0568f12e8f1e9538a5193405d4fb0c199083bf5a0525c27cdef",
+      "text_sha256": "b7e5338b7faea9effb680ae9ba54cf6e38bc4107f02fe5360ac7efd44ffb3698",
+      "lines": 20
+    },
+    {
+      "id": 46243,
+      "url": "https://www.westonaprice.org/collagen-broth-from-chicken-feet/",
+      "title": "Collagen Broth from Chicken Feet",
+      "date": "2024-09-21T18:52:33",
+      "modified": "2025-09-05T07:34:11",
+      "author_id": 395,
+      "html_sha256": "f0abc0aba79bcb6461e25806437b1a6de59c5974c5f49edf0a27397feba84648",
+      "text_sha256": "4c759eb96662e0ed0282721aa54f1f89e4ca5a0f1185a43b27cafc1b04d7b534",
+      "lines": 13
+    },
+    {
+      "id": 46366,
+      "url": "https://www.westonaprice.org/fish-stock/",
+      "title": "Fish Stock",
+      "date": "2024-11-02T10:35:57",
+      "modified": "2026-08-09T15:00:47",
+      "author_id": 318,
+      "html_sha256": "2d1c75b25abb18be03c95149d7ae6031bf1aa2b4cb5b964a78e91f8a43fe0886",
+      "text_sha256": "5811aaddf7697e2105eef4b59aa180b193b3797cc5b5c53ed735ccb199958120",
+      "lines": 21
+    },
+    {
+      "id": 47047,
+      "url": "https://www.westonaprice.org/raw-liver-honey-gummy/",
+      "title": "Raw Liver Honey Gummy",
+      "date": "2025-03-07T12:50:17",
+      "modified": "2026-03-02T18:51:42",
+      "author_id": 455,
+      "html_sha256": "fa7f47f8cc1bc6d4dc9f93e815e325ab006a102cc59cb4ffbf74d6c7db520e86",
+      "text_sha256": "81d3dd60a11b70bc200e4e45ca7cc7b0cb2420deb1bd94cfe077fec3c1bfb072",
+      "lines": 21
+    },
+    {
+      "id": 47090,
+      "url": "https://www.westonaprice.org/hidden-liver-recipes/",
+      "title": "Hidden Liver Recipes",
+      "date": "2025-03-23T17:40:37",
+      "modified": "2025-09-05T07:04:11",
+      "author_id": 398,
+      "html_sha256": "804f9be5e3a92c2852a9a61429a1711aa9c433b0edf5ab9426c42388883bdf39",
+      "text_sha256": "2d606ac1b8705b9dae719caae7cbc5d9b006cc4f8dd3812a97ad10a9aa3a9726",
+      "lines": 8
+    },
+    {
+      "id": 48262,
+      "url": "https://www.westonaprice.org/beef-broth-2/",
+      "title": "Beef Broth",
+      "date": "2026-01-14T22:42:22",
+      "modified": "2026-01-18T16:22:00",
+      "author_id": 318,
+      "html_sha256": "e73936b5edf60b6d8fcefaaeee62812875c39a627ebf9732255df0b23efd6552",
+      "text_sha256": "5601b34ee1ddad704ccd867b0e83868a57e9cc532fa7aa582a88f6c8b0d54ece",
+      "lines": 35
+    },
+    {
+      "id": 50004,
+      "url": "https://www.westonaprice.org/chicken-and-vegetable-soup/",
+      "title": "Chicken and Vegetable Soup",
+      "date": "2026-10-22T14:30:28",
+      "modified": "2026-10-22T14:30:35",
+      "author_id": 398,
+      "html_sha256": "5959976cc7bfbc76c5873783eff61a374b3a92904956a246e858f6a5ba086fbc",
+      "text_sha256": "999587a97c1a22dfd41c181147cb1d22e6575f10835fe0109e9e400d4eecaa57",
+      "lines": 21
+    }
+  ],
+  "institutional_sources": [
+    {
+      "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/glucosamine-sulfate-chondroitin-sulfate-tablet",
+      "access": "Página textual completa lida via web; consulta de nomenclatura, sem ensaio clínico ou protocolo de aquecimento."
+    },
+    {
+      "url": "https://iubmb.qmul.ac.uk/enzyme/EC3/4/22/14.html",
+      "access": "Página textual completa lida via web; consulta de nomenclatura, sem ensaio clínico ou protocolo de aquecimento."
+    },
+    {
+      "url": "https://iubmb.qmul.ac.uk/enzyme/EC3/4/22/67.html",
+      "access": "Página textual completa lida via web; consulta de nomenclatura, sem ensaio clínico ou protocolo de aquecimento."
+    },
+    {
+      "url": "https://iubmb.qmul.ac.uk/enzyme/EC3/4/22/32.html",
+      "access": "Página textual completa lida via web; consulta de nomenclatura, sem ensaio clínico ou protocolo de aquecimento."
+    },
+    {
+      "url": "https://iubmb.qmul.ac.uk/enzyme/EC3/4/22/33.html",
+      "access": "Página textual completa lida via web; consulta de nomenclatura, sem ensaio clínico ou protocolo de aquecimento."
+    }
+  ],
+  "synthesis": [
+    "wiki/fontes/weston-price-caldo-gelatina.md#ressalvas-encontradas-nas-fichas-culinárias",
+    "wiki/fontes/nomenclatura-gelatina-glucosamina.md",
+    "wiki/temas/medicina-chinesa.md#relato-pessoal-de-pós-parto-publicado-pela-wapf",
+    "wiki/temas/receitas-wapf-catalogo.md#medidas-incompletas-ou-divergentes-na-fonte"
+  ],
+  "limits": "A leitura não valida relatos, recomendações clínicas, protocolos de conservação ou alegações comerciais das fontes."
+}

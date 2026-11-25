@@ -793,3 +793,7 @@ O [inventário](raw/inventario-wapf-receitas.md#seis-faixas-e-confronto-da-hipó
 ## [2026-11-25] ingestão | 14 receitas com peptídeos e quatro cocktails
 
 O [novo catálogo](wiki/temas/receitas-peptideos.md) apresenta bebidas, cookie, seis congelados e quatro cocktails com medidas, fontes e tabelas de ingredientes que contribuem com carboidratos. As adaptações ainda não testadas e as divergências entre ficha e vídeo aparecem no próprio catálogo. A [nota de fontes](wiki/fontes/primal-kitchen-receitas-peptideos.md) e o [inventário](raw/inventario-mark-receitas.md#retomada-em-25-de-novembro-de-2026) preservam os limites da leitura visual.
+
+## [2026-11-25] ingestão | Mais nove fichas a partir das demonstrações faladas
+
+O [catálogo](wiki/temas/receitas-peptideos.md#mais-nove-fichas-com-fala-e-descrição) chega a 23 fichas e quatro cocktails. As nove adições registram variantes de bebidas de abacate, pudim de chia, chaffles, bolinhas, limonada e picolés, com divergências entre fala e descrição e os carboidratos declarados pela marca onde disponíveis.

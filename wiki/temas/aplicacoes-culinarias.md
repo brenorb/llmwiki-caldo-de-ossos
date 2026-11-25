@@ -51,4 +51,4 @@ A marca apresenta a receita como keto e primal. Confira os carboidratos do produ
 
 Veja também as [receitas com gelatina e caldo neutro](receitas-gelatina.md).
 
-Para outras bebidas, cookie e sorvetes, consulte as [14 receitas com peptídeos e quatro cocktails](receitas-peptideos.md), com medidas e opções para reduzir carboidratos.
+Para outras bebidas, cookie e sorvetes, consulte as [23 fichas com peptídeos e quatro cocktails](receitas-peptideos.md), com medidas e opções para reduzir carboidratos.

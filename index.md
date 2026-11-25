@@ -13,7 +13,7 @@
 - [Catálogo de 73 itens das categorias culinárias da Weston A. Price Foundation](wiki/temas/receitas-wapf-catalogo.md)
 - [Receitas de caldo de frango, pés de frango, bovino e outras variações](wiki/temas/receitas-caldo.md)
 - [Gelatinas, mousses e adaptações com menos carboidratos](wiki/temas/receitas-gelatina.md)
-- [14 receitas com peptídeos e quatro cocktails, com comparação de carboidratos e adaptações](wiki/temas/receitas-peptideos.md)
+- [23 fichas com peptídeos e quatro cocktails, com comparação de carboidratos e adaptações](wiki/temas/receitas-peptideos.md)
 - [Ossos, articulações, carne, cartilagem, água, aromáticos e sal](wiki/temas/ingredientes.md)
 - [Fogo brando, pressão, caldo claro, escuro e emulsificado](wiki/temas/preparo.md)
 - [Sopas, grãos, molhos, redução e reaproveitamento culinário](wiki/temas/aplicacoes-culinarias.md)

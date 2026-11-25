@@ -1,0 +1,1283 @@
+{
+  "schema_version": "1.0.0",
+  "record_id": "wapf-five-attachments-2026-11-25",
+  "prepared_at_utc": "2026-11-25T23:44:29.387396+00:00",
+  "audit_date": "2026-11-25",
+  "scope": {
+    "sources": 5,
+    "presentation_slides": 607,
+    "available_notes_read": 589,
+    "pdf_pages_read": 2,
+    "slides_overviewed": 607,
+    "slides_individually_expanded": 32,
+    "emf_main_graphs_recovered_read": 13,
+    "culinary_items": 32,
+    "measure_locator_records": 21,
+    "core_broth_method_item_ids": [
+      "CUL-015",
+      "CUL-016",
+      "CUL-017",
+      "CUL-018"
+    ],
+    "new_sources_read_in_publication_step": 0
+  },
+  "method": {
+    "reader": "agent",
+    "selection": "Cinco URLs exatas; acervo/manifestos consultados antes de baixar; sem substituir versões.",
+    "text": "Texto extraído e todas as notas disponíveis lidos sequencialmente, incluindo ocultos e slides sem termos. Extração isolada não conta como leitura.",
+    "note_indexing": "Ordinal físico do slide, associado por relações OOXML; nome notesSlideN.xml não basta.",
+    "visual": "Panorama de607 slides em miniaturas320x240;32 slides ampliados;2 páginas PDF lidas visualmente. Não equivale a ler cada palavra dos recortes de jornais/estudos.",
+    "conversion": "LibreOffice headless, perfil isolado/macros desativadas/atualização0; PDF inclui ocultos. Conversões PPTX temporárias removidas.",
+    "emf": "sips falhou; artifact-tool2.8.194 já instalado recuperou13 gráficos, conferidos individualmente em1440x1080. Originais/renders anteriores preservados.",
+    "ole_motion": "Nenhum OLE, macro ou vínculo externo executado/atualizado. Renderização estática; ausência de recursos no PPT convertido não prova ausência no binário.",
+    "culinary": "Publica apenas títulos/localizadores e hashes; medidas completas ficam privadas.21 registros incluem quantidades/tempos/rendimentos ou ausência explícita, não21 números distintos.",
+    "private_measure_table_key": "quantidades-culinarias.tsv",
+    "private_row_hash_method": "SHA256 de UTF-8(JSON da linha TSV parseada como objeto, ensure_ascii=false, sort_keys=true, separators=(comma,colon))); número da linha de dados inicia1 e exclui cabeçalho.",
+    "clinical": "Estudos citados não foram lidos independentemente; alegações/depoimentos não viraram eficácia clínica nem orientação infantil.",
+    "nutrition": "Macros e classificação low carb não quantificadas; não inferir doses ou rendimento por fotografias.",
+    "privacy": "Sem transcrições extensas, caminhos absolutos ou nomes de pacientes; comprovantes privados somente por chave relativa/hash."
+  },
+  "sources": [
+    {
+      "id": "WAPF-ANX-I",
+      "title": "Nourishing Traditional Diets — Part I",
+      "url": "https://www.westonaprice.org/wp-content/uploads/SeminarFinalPartI2018.pptx",
+      "original_file": "SeminarFinalPartI2018.pptx",
+      "sha256": "9497506aee74734310ae7ed8b8bbd4785cd4e50f2213deb34ac3186aeb684dae",
+      "bytes": 42118004,
+      "retrieved_at_utc": "2026-11-25T23:25:51.729836+00:00",
+      "http_status": 200,
+      "format": "pptx",
+      "unit": "slide",
+      "units": 219,
+      "notes_available": 219,
+      "notes_read": 219,
+      "notes_absent_ordinals": [],
+      "hidden_ordinals": [
+        55,
+        56,
+        57,
+        59,
+        62,
+        63,
+        73,
+        97,
+        119,
+        120,
+        124,
+        136,
+        143,
+        170,
+        171,
+        173,
+        174,
+        188,
+        189,
+        190,
+        199,
+        200
+      ],
+      "text_read_ranges": [
+        [
+          1,
+          219
+        ]
+      ],
+      "text_basis": "original OOXML",
+      "visual_overview_ranges": [
+        [
+          1,
+          219
+        ]
+      ],
+      "visual_expanded_ordinals": [
+        109,
+        112,
+        126,
+        172,
+        176,
+        177,
+        178,
+        179,
+        185,
+        186,
+        198,
+        199,
+        200,
+        201
+      ],
+      "emf_initial_blank_ordinals": [
+        172,
+        176,
+        177,
+        178,
+        179,
+        185,
+        186
+      ],
+      "emf_main_graphs_recovered_read": [
+        172,
+        176,
+        177,
+        178,
+        179,
+        185,
+        186
+      ],
+      "emf_main_graphs_unresolved": [],
+      "emf_invalid_auxiliary_parts": 2,
+      "ole_count": 2,
+      "ole_ordinals": [
+        176
+      ],
+      "ole_executed": false,
+      "external_workbook_relations_unopened": 1,
+      "transition_ordinals": [
+        86,
+        102,
+        147,
+        148,
+        149,
+        150,
+        151,
+        168,
+        169
+      ],
+      "motion_inventory_basis": "OOXML original: sem nós p:timing ou áudio/vídeo empacotado",
+      "private_manifest_key": "SeminarFinalPartI2018.manifest.json",
+      "specific_limits": [
+        "Texto fora do quadro emI:112/200;2 partes auxiliares EMF deI:176 têm área inválida;1 relação externa não seguida."
+      ]
+    },
+    {
+      "id": "WAPF-ANX-II",
+      "title": "Nourishing Traditional Diets — Part II",
+      "url": "https://www.westonaprice.org/wp-content/uploads/SeminarFinalPartII2018.pptx",
+      "original_file": "SeminarFinalPartII2018.pptx",
+      "sha256": "b7e4bc366cd5ae8f38dc250729c715bc0872e1f392ce8bbcd6210273c065ee86",
+      "bytes": 22408134,
+      "retrieved_at_utc": "2026-11-25T23:25:53.640353+00:00",
+      "http_status": 200,
+      "format": "pptx",
+      "unit": "slide",
+      "units": 229,
+      "notes_available": 211,
+      "notes_read": 211,
+      "notes_absent_ordinals": [
+        64,
+        67,
+        68,
+        71,
+        72,
+        75,
+        76,
+        84,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        99,
+        103,
+        105,
+        107
+      ],
+      "hidden_ordinals": [
+        2,
+        14,
+        26,
+        35,
+        36,
+        37,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "text_read_ranges": [
+        [
+          1,
+          229
+        ]
+      ],
+      "text_basis": "original OOXML",
+      "visual_overview_ranges": [
+        [
+          1,
+          229
+        ]
+      ],
+      "visual_expanded_ordinals": [
+        10,
+        16,
+        40,
+        41,
+        53,
+        54,
+        112,
+        127,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171
+      ],
+      "emf_initial_blank_ordinals": [
+        10,
+        16,
+        40,
+        41,
+        112,
+        127
+      ],
+      "emf_main_graphs_recovered_read": [
+        10,
+        16,
+        40,
+        41,
+        112,
+        127
+      ],
+      "emf_main_graphs_unresolved": [],
+      "emf_invalid_auxiliary_parts": 0,
+      "ole_count": 0,
+      "ole_ordinals": [],
+      "ole_executed": false,
+      "external_workbook_relations_unopened": 0,
+      "transition_ordinals": [
+        32,
+        57
+      ],
+      "motion_inventory_basis": "OOXML original: sem nós p:timing ou áudio/vídeo empacotado",
+      "private_manifest_key": "SeminarFinalPartII2018.manifest.json",
+      "specific_limits": []
+    },
+    {
+      "id": "WAPF-ANX-O",
+      "title": "The Oiling of America",
+      "url": "https://www.westonaprice.org/wp-content/uploads/OilingofAmerica2018.ppt",
+      "original_file": "OilingofAmerica2018.ppt",
+      "sha256": "5b3d166e356f6046c4f07afea0f5099c9a502d7d21dd7a29f4274f296fb7d820",
+      "bytes": 7479296,
+      "retrieved_at_utc": "2026-11-25T23:25:55.297093+00:00",
+      "http_status": 200,
+      "format": "ppt",
+      "unit": "slide",
+      "units": 76,
+      "notes_available": 76,
+      "notes_read": 76,
+      "notes_absent_ordinals": [],
+      "hidden_ordinals": [
+        52
+      ],
+      "text_read_ranges": [
+        [
+          1,
+          76
+        ]
+      ],
+      "text_basis": "LibreOffice conversion of original binary PPT; may lose legacy features",
+      "visual_overview_ranges": [
+        [
+          1,
+          76
+        ]
+      ],
+      "visual_expanded_ordinals": [
+        68
+      ],
+      "emf_initial_blank_ordinals": [],
+      "emf_main_graphs_recovered_read": [],
+      "emf_main_graphs_unresolved": [],
+      "emf_invalid_auxiliary_parts": 0,
+      "ole_count": 1,
+      "ole_ordinals": [
+        41
+      ],
+      "ole_executed": false,
+      "external_workbook_relations_unopened": 0,
+      "transition_ordinals": [
+        1,
+        2
+      ],
+      "motion_inventory_basis": "PPT legado convertido: ausência na conversão não prova ausência no binário",
+      "private_manifest_key": "OilingofAmerica2018.manifest.json",
+      "specific_limits": [
+        "Conversão de PPT legado pode perder recursos do binário."
+      ]
+    },
+    {
+      "id": "WAPF-ANX-M",
+      "title": "A Campaign for Real Milk",
+      "url": "https://www.westonaprice.org/wp-content/uploads/CampaignforRealMilk2018.ppt",
+      "original_file": "CampaignforRealMilk2018.ppt",
+      "sha256": "6be6be49edffec7c9172383dbed01349437f2cc3705874b972ab7e641e0caf34",
+      "bytes": 8503808,
+      "retrieved_at_utc": "2026-11-25T23:25:56.284861+00:00",
+      "http_status": 200,
+      "format": "ppt",
+      "unit": "slide",
+      "units": 83,
+      "notes_available": 83,
+      "notes_read": 83,
+      "notes_absent_ordinals": [],
+      "hidden_ordinals": [],
+      "text_read_ranges": [
+        [
+          1,
+          83
+        ]
+      ],
+      "text_basis": "LibreOffice conversion of original binary PPT; may lose legacy features",
+      "visual_overview_ranges": [
+        [
+          1,
+          83
+        ]
+      ],
+      "visual_expanded_ordinals": [
+        51,
+        79
+      ],
+      "emf_initial_blank_ordinals": [],
+      "emf_main_graphs_recovered_read": [],
+      "emf_main_graphs_unresolved": [],
+      "emf_invalid_auxiliary_parts": 0,
+      "ole_count": 1,
+      "ole_ordinals": [
+        80
+      ],
+      "ole_executed": false,
+      "external_workbook_relations_unopened": 0,
+      "transition_ordinals": [],
+      "motion_inventory_basis": "PPT legado convertido: ausência na conversão não prova ausência no binário",
+      "private_manifest_key": "CampaignforRealMilk2018.manifest.json",
+      "specific_limits": [
+        "Conversão de PPT legado pode perder recursos do binário."
+      ]
+    },
+    {
+      "id": "WAPF-ANX-F",
+      "title": "After Raw Breast Milk, What’s Best?",
+      "url": "https://www.westonaprice.org/wp-content/uploads/Formula-Flyer.pdf",
+      "original_file": "Formula-Flyer.pdf",
+      "sha256": "01746bb7a2db54edd9e2b1d2b381f78abe66d17c433beb467804da1bab048343",
+      "bytes": 988702,
+      "retrieved_at_utc": "2026-11-25T23:25:57.288707+00:00",
+      "http_status": 200,
+      "format": "pdf",
+      "unit": "page",
+      "units": 2,
+      "notes_available": 0,
+      "notes_read": 0,
+      "notes_absent_ordinals": [],
+      "hidden_ordinals": [],
+      "text_read_ranges": [
+        [
+          1,
+          2
+        ]
+      ],
+      "text_basis": "PDF original, extração de texto e leitura das páginas",
+      "visual_overview_ranges": [
+        [
+          1,
+          2
+        ]
+      ],
+      "visual_expanded_ordinals": [
+        1,
+        2
+      ],
+      "emf_initial_blank_ordinals": [],
+      "emf_main_graphs_recovered_read": [],
+      "emf_main_graphs_unresolved": [],
+      "emf_invalid_auxiliary_parts": 0,
+      "ole_count": 0,
+      "ole_ordinals": [],
+      "ole_executed": false,
+      "external_workbook_relations_unopened": 0,
+      "transition_ordinals": [],
+      "motion_inventory_basis": "Não aplicável",
+      "private_manifest_key": "Formula-Flyer.manifest.json",
+      "specific_limits": [
+        "Folheto promocional; sem fórmula quantitativa, sem orientação clínica adotada."
+      ]
+    }
+  ],
+  "culinary_items": [
+    {
+      "id": "CUL-001",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "title": "Molho de salada",
+      "measure_ids": [
+        "MED-001"
+      ]
+    },
+    {
+      "id": "CUL-002",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        14
+      ],
+      "title": "Ranch",
+      "measure_ids": []
+    },
+    {
+      "id": "CUL-003",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        45
+      ],
+      "title": "Ovas sobre torrada",
+      "measure_ids": []
+    },
+    {
+      "id": "CUL-004",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        118,
+        119
+      ],
+      "title": "Sorvete",
+      "measure_ids": [
+        "MED-002"
+      ]
+    },
+    {
+      "id": "CUL-005",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        146
+      ],
+      "title": "Bebida cítrica gaseificada",
+      "measure_ids": [
+        "MED-003"
+      ]
+    },
+    {
+      "id": "CUL-006",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        148
+      ],
+      "title": "Ovos/bacon/fruta; ovos/batata; smoothie",
+      "measure_ids": []
+    },
+    {
+      "id": "CUL-007",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        149,
+        150,
+        151
+      ],
+      "title": "Mingau de aveia",
+      "measure_ids": [
+        "MED-004"
+      ]
+    },
+    {
+      "id": "CUL-008",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        152,
+        153,
+        154,
+        155
+      ],
+      "title": "Panquecas fermentadas",
+      "measure_ids": [
+        "MED-005"
+      ]
+    },
+    {
+      "id": "CUL-009",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        156,
+        157
+      ],
+      "title": "Panquecas crocantes com coberturas",
+      "measure_ids": [
+        "MED-006"
+      ]
+    },
+    {
+      "id": "CUL-010",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        158
+      ],
+      "title": "Massa de iogurte",
+      "measure_ids": [
+        "MED-007"
+      ]
+    },
+    {
+      "id": "CUL-011",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        159
+      ],
+      "title": "Quiche",
+      "measure_ids": [
+        "MED-007"
+      ]
+    },
+    {
+      "id": "CUL-012",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        160
+      ],
+      "title": "Empanadas/samosas",
+      "measure_ids": [
+        "MED-007"
+      ]
+    },
+    {
+      "id": "CUL-013",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        161,
+        162
+      ],
+      "title": "Castanhas crocantes",
+      "measure_ids": [
+        "MED-008"
+      ]
+    },
+    {
+      "id": "CUL-014",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        163
+      ],
+      "title": "Biscoitos",
+      "measure_ids": []
+    },
+    {
+      "id": "CUL-015",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        164,
+        165,
+        166,
+        167
+      ],
+      "title": "Caldo de frango",
+      "measure_ids": [
+        "MED-009"
+      ]
+    },
+    {
+      "id": "CUL-016",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        168,
+        169
+      ],
+      "title": "Caldo de peixe",
+      "measure_ids": [
+        "MED-010"
+      ]
+    },
+    {
+      "id": "CUL-017",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        170
+      ],
+      "title": "Caldo bovino",
+      "measure_ids": [
+        "MED-011"
+      ]
+    },
+    {
+      "id": "CUL-018",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        171
+      ],
+      "title": "Molho reduzido de caldo",
+      "measure_ids": [
+        "MED-012"
+      ]
+    },
+    {
+      "id": "CUL-019",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        177,
+        178
+      ],
+      "title": "Saladas",
+      "measure_ids": []
+    },
+    {
+      "id": "CUL-020",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        181
+      ],
+      "title": "Espinafre",
+      "measure_ids": []
+    },
+    {
+      "id": "CUL-021",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        182,
+        183
+      ],
+      "title": "Brócolis",
+      "measure_ids": [
+        "MED-013"
+      ]
+    },
+    {
+      "id": "CUL-022",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        184
+      ],
+      "title": "Vegetais mistos",
+      "measure_ids": []
+    },
+    {
+      "id": "CUL-023",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        185,
+        186,
+        187
+      ],
+      "title": "Sopa de lentilha",
+      "measure_ids": []
+    },
+    {
+      "id": "CUL-024",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        197,
+        198
+      ],
+      "title": "Soro e queijo de iogurte",
+      "measure_ids": [
+        "MED-014"
+      ]
+    },
+    {
+      "id": "CUL-025",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        199
+      ],
+      "title": "Chucrute",
+      "measure_ids": [
+        "MED-015"
+      ]
+    },
+    {
+      "id": "CUL-026",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        200
+      ],
+      "title": "Pepinos fermentados",
+      "measure_ids": [
+        "MED-016"
+      ]
+    },
+    {
+      "id": "CUL-027",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        201
+      ],
+      "title": "Calda fermentada de frutas vermelhas",
+      "measure_ids": [
+        "MED-017"
+      ]
+    },
+    {
+      "id": "CUL-028",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        202
+      ],
+      "title": "Chutney de pêssego",
+      "measure_ids": [
+        "MED-018"
+      ]
+    },
+    {
+      "id": "CUL-029",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        204,
+        205
+      ],
+      "title": "Ketchup fermentado",
+      "measure_ids": [
+        "MED-019"
+      ]
+    },
+    {
+      "id": "CUL-030",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        205
+      ],
+      "title": "Maionese e mostarda",
+      "measure_ids": [
+        "MED-019"
+      ]
+    },
+    {
+      "id": "CUL-031",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        207
+      ],
+      "title": "Ginger ale fermentado",
+      "measure_ids": [
+        "MED-020"
+      ]
+    },
+    {
+      "id": "CUL-032",
+      "source_id": "WAPF-ANX-II",
+      "slide_ordinals": [
+        208
+      ],
+      "title": "Kvass de beterraba",
+      "measure_ids": [
+        "MED-021"
+      ]
+    }
+  ],
+  "measure_locators": [
+    {
+      "id": "MED-001",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-001"
+      ],
+      "slide_ordinals": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "note_slide_ordinals": [
+        6,
+        9,
+        11
+      ],
+      "private_row_1based": 1,
+      "private_row_sha256": "e1d02cafc10579ba9f4ad501c99f0027f0daefc9314f463d5c8d195e92a2db74"
+    },
+    {
+      "id": "MED-002",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-004"
+      ],
+      "slide_ordinals": [
+        118,
+        119
+      ],
+      "note_slide_ordinals": [
+        118,
+        119
+      ],
+      "private_row_1based": 2,
+      "private_row_sha256": "a45630413d1ea42b36224d5578837800dc0491a8598278a202b95546783c486c"
+    },
+    {
+      "id": "MED-003",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-005"
+      ],
+      "slide_ordinals": [
+        146
+      ],
+      "note_slide_ordinals": [
+        146
+      ],
+      "private_row_1based": 3,
+      "private_row_sha256": "b536fbe0fe9b53b0de5e5acb399f00802b5dbfc98b2e0e872ae96cd7b2a055d3"
+    },
+    {
+      "id": "MED-004",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-007"
+      ],
+      "slide_ordinals": [
+        149,
+        150,
+        151
+      ],
+      "note_slide_ordinals": [
+        149,
+        150,
+        151
+      ],
+      "private_row_1based": 4,
+      "private_row_sha256": "16559ff60ee93e9f3b14c82ac95646088e4137c20f224c48b477737130c7d8d7"
+    },
+    {
+      "id": "MED-005",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-008"
+      ],
+      "slide_ordinals": [
+        152,
+        153,
+        154,
+        155
+      ],
+      "note_slide_ordinals": [
+        152,
+        153,
+        154,
+        155
+      ],
+      "private_row_1based": 5,
+      "private_row_sha256": "2ca77a5ae9c6b3149e63c5ab4170f3cc5a71b676e128db229df30ca5ec289146"
+    },
+    {
+      "id": "MED-006",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-009"
+      ],
+      "slide_ordinals": [
+        156,
+        157
+      ],
+      "note_slide_ordinals": [
+        156,
+        157
+      ],
+      "private_row_1based": 6,
+      "private_row_sha256": "3a9530f69c1dd5c02559874e56aee191f324c67eb59abd2101b66b839dd537cc"
+    },
+    {
+      "id": "MED-007",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-010",
+        "CUL-011",
+        "CUL-012"
+      ],
+      "slide_ordinals": [
+        158,
+        159,
+        160
+      ],
+      "note_slide_ordinals": [
+        158,
+        159,
+        160
+      ],
+      "private_row_1based": 7,
+      "private_row_sha256": "d359ebafe95ba52bbbe793d3114392c1ac150fc1ef6c831af2200570b8392657"
+    },
+    {
+      "id": "MED-008",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-013"
+      ],
+      "slide_ordinals": [
+        161,
+        162
+      ],
+      "note_slide_ordinals": [
+        161,
+        162
+      ],
+      "private_row_1based": 8,
+      "private_row_sha256": "617c5db80608e966f14d9c92aacb7eb80655ad095380e357de8a7eb00000d875"
+    },
+    {
+      "id": "MED-009",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-015"
+      ],
+      "slide_ordinals": [
+        164,
+        165,
+        166,
+        167
+      ],
+      "note_slide_ordinals": [
+        165,
+        166
+      ],
+      "private_row_1based": 9,
+      "private_row_sha256": "014d3d8a4ba9f77061a297b65e3c8bcc352ac379cde5ef27a0d149d64135ab02"
+    },
+    {
+      "id": "MED-010",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-016"
+      ],
+      "slide_ordinals": [
+        168,
+        169
+      ],
+      "note_slide_ordinals": [
+        168,
+        169
+      ],
+      "private_row_1based": 10,
+      "private_row_sha256": "0a721c70b428d75f96763a6605f74650e4c03f64273728831b01e8b156e8303c"
+    },
+    {
+      "id": "MED-011",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-017"
+      ],
+      "slide_ordinals": [
+        170
+      ],
+      "note_slide_ordinals": [
+        170
+      ],
+      "private_row_1based": 11,
+      "private_row_sha256": "b17bd7084cede235cf000e94fd31027034c6a25918ed8570eb19b1cd86194964"
+    },
+    {
+      "id": "MED-012",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-018"
+      ],
+      "slide_ordinals": [
+        171
+      ],
+      "note_slide_ordinals": [
+        171
+      ],
+      "private_row_1based": 12,
+      "private_row_sha256": "8334b26f87484b93845b2dc4832d90ec7e74c688c86e5e95e88af65bfad5f218"
+    },
+    {
+      "id": "MED-013",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-021"
+      ],
+      "slide_ordinals": [
+        182,
+        183
+      ],
+      "note_slide_ordinals": [
+        182,
+        183
+      ],
+      "private_row_1based": 13,
+      "private_row_sha256": "efb2c762545df54fb4058c039f1bdc91c8d9e5db2026d558c9ccdfd3eec62866"
+    },
+    {
+      "id": "MED-014",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-024"
+      ],
+      "slide_ordinals": [
+        197,
+        198
+      ],
+      "note_slide_ordinals": [
+        197,
+        198
+      ],
+      "private_row_1based": 14,
+      "private_row_sha256": "f1d16d8694fb4b7c7efdbf3f08cabd7002bd80a5e32ca11fbda8049c2024063f"
+    },
+    {
+      "id": "MED-015",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-025"
+      ],
+      "slide_ordinals": [
+        199
+      ],
+      "note_slide_ordinals": [
+        199
+      ],
+      "private_row_1based": 15,
+      "private_row_sha256": "01666abbbd3e03ca0074f872cfddd7efbb7a4d604ebda2ea35672ae4d652907f"
+    },
+    {
+      "id": "MED-016",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-026"
+      ],
+      "slide_ordinals": [
+        200
+      ],
+      "note_slide_ordinals": [
+        200
+      ],
+      "private_row_1based": 16,
+      "private_row_sha256": "0f188f47557b5cb1dbbdc5b380fcdbdc7a1d115286b58d2da1eed42f569bd323"
+    },
+    {
+      "id": "MED-017",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-027"
+      ],
+      "slide_ordinals": [
+        201
+      ],
+      "note_slide_ordinals": [
+        201
+      ],
+      "private_row_1based": 17,
+      "private_row_sha256": "79f3b79fa549e6539afd6b0be42d0c07117067c51a3b8560e77ca342020b4c99"
+    },
+    {
+      "id": "MED-018",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-028"
+      ],
+      "slide_ordinals": [
+        202
+      ],
+      "note_slide_ordinals": [
+        202
+      ],
+      "private_row_1based": 18,
+      "private_row_sha256": "b7a282c2d8305933bde02793fffdd6e13b261181ef2fe8475f55b8e070df0c6a"
+    },
+    {
+      "id": "MED-019",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-029",
+        "CUL-030"
+      ],
+      "slide_ordinals": [
+        204,
+        205
+      ],
+      "note_slide_ordinals": [
+        204,
+        205
+      ],
+      "private_row_1based": 19,
+      "private_row_sha256": "375c7c29f9509e361e8a8fae0c1082e470a514b0ff16f8b71e220cc248f28622"
+    },
+    {
+      "id": "MED-020",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-031"
+      ],
+      "slide_ordinals": [
+        207
+      ],
+      "note_slide_ordinals": [
+        207
+      ],
+      "private_row_1based": 20,
+      "private_row_sha256": "1aee94e73197021a5b7f96735604a54030e7716954fd895c6c255848722e5b66"
+    },
+    {
+      "id": "MED-021",
+      "source_id": "WAPF-ANX-II",
+      "item_ids": [
+        "CUL-032"
+      ],
+      "slide_ordinals": [
+        208
+      ],
+      "note_slide_ordinals": [
+        208
+      ],
+      "private_row_1based": 21,
+      "private_row_sha256": "a7fd2008e9c05e2f1460043a23228a0148327c82988eb6179191f8216d18eda8"
+    }
+  ],
+  "private_evidence_proofs": [
+    {
+      "artifact_key": "slide-read-ledger.jsonl",
+      "sha256": "7052f6ef1694d2c4019eaffd53a1529b1613ad2aa18218397e0c601d12251c6e",
+      "bytes": 307112,
+      "private": true
+    },
+    {
+      "artifact_key": "page-read-ledger.jsonl",
+      "sha256": "3ee84b604ab9e9969c691f5bb09a8d55330fcb20f2d2ac5b5d6c026eb638297a",
+      "bytes": 438,
+      "private": true
+    },
+    {
+      "artifact_key": "recuperacao-emf/visual-read-ledger.jsonl",
+      "sha256": "7e69ca0557d2fc6268d0f6fa77ea9d78685de94491d77845f262f5b110fe2ea7",
+      "bytes": 6508,
+      "private": true
+    },
+    {
+      "artifact_key": "indice-culinario.tsv",
+      "sha256": "3ccf8b895609ad1a69ec11a22e48d84e83c0971a691add0b7a595e6008a9ac03",
+      "bytes": 3700,
+      "private": true
+    },
+    {
+      "artifact_key": "quantidades-culinarias.tsv",
+      "sha256": "942395898ee0c2a82636d3723014fa3176ea16de514c71f6a5d0d1e9b3693d8f",
+      "bytes": 3948,
+      "private": true
+    },
+    {
+      "artifact_key": "access-retry.json",
+      "sha256": "628cc079372bb878ec06e136265313b1ee508fa9c5854312eec1cd27b8267f56",
+      "bytes": 5553,
+      "private": true
+    },
+    {
+      "artifact_key": "conversion.json",
+      "sha256": "8386adefb69fd39ed8f5389e35603d1e7fe22a6d464a70f5c4f2a0e63529517e",
+      "bytes": 7664,
+      "private": true
+    },
+    {
+      "artifact_key": "derivados/inventory.json",
+      "sha256": "95077f0b04b5bc744382d646744ce0804ee95ce526bcc28b304b3b607f3cccc5",
+      "bytes": 72664,
+      "private": true
+    },
+    {
+      "artifact_key": "recuperacao-emf/artifact-render-log.json",
+      "sha256": "4d84661390ebe64d90f848a88af696106896c4ebd6c64b152378a1fd3b0b1c1a",
+      "bytes": 3952,
+      "private": true
+    },
+    {
+      "artifact_key": "recuperacao-emf/emf-records-text.json",
+      "sha256": "f8000022bde0249e294a4608b8f346aeedf2f3534bbde386bad22e79a4162c64",
+      "bytes": 10765,
+      "private": true
+    },
+    {
+      "artifact_key": "SeminarFinalPartI2018.manifest.json",
+      "sha256": "4de1a94d09863d899171325d8e034071254bf6b758da26dda321d8c247b0ecab",
+      "bytes": 5693,
+      "private": true
+    },
+    {
+      "artifact_key": "SeminarFinalPartII2018.manifest.json",
+      "sha256": "9e148f0fd37e317644768a13f9b283997daec802a5419f1f4766427b1a5b5191",
+      "bytes": 5654,
+      "private": true
+    },
+    {
+      "artifact_key": "OilingofAmerica2018.manifest.json",
+      "sha256": "834ab01486db764daa287b4a1a109f73c605dda3e38195fdf2858cc5f76692fe",
+      "bytes": 3250,
+      "private": true
+    },
+    {
+      "artifact_key": "CampaignforRealMilk2018.manifest.json",
+      "sha256": "0f20dc4fa4c6f8711a837223549e0eb4ede101c2812c6643ee4ea4019cf47996",
+      "bytes": 3268,
+      "private": true
+    },
+    {
+      "artifact_key": "Formula-Flyer.manifest.json",
+      "sha256": "2a317d3604e6f38ad1a6f95c1af2d986bdedc9db476e119eebd8b505d1f1b2c0",
+      "bytes": 1495,
+      "private": true
+    }
+  ],
+  "limits": [
+    "Panorama não é leitura integral de cada imagem/reprodução; referências fotografadas/citadas não receberam leitura primária.",
+    "Os13 gráficos recuperados tratam de gorduras/óleos/ovos e argumentos dietéticos/agregados; não ocultavam receitas/composição/ensaios de caldo.",
+    "Acesso a OLE/planilhas-fonte/estudos originais e fidelidade pixel a pixel no PowerPoint não foram verificados."
+  ]
+}

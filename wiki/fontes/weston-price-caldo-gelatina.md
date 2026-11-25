@@ -214,3 +214,7 @@ O texto automático não garante reconhecimento integral da fala. Os demais iten
 Os [50 corpos adicionais](../../raw/wapf-health-lote3-50-2026-11-25.tsv) foram lidos integralmente; a [seleção e cobertura](../../raw/wapf-health-lote3-50-2026-11-25.json) distinguem cinco canônicas por idioma e limites de mídias/referências. As [medidas de nove preparos e um caldo-base](../temas/receitas-wapf-catalogo.md#medidas-conferidas-no-terceiro-lote-health) complementam receitas já catalogadas.
 
 Em *Cold, Flu and Fever*, identificado no TSV, caldo faz parte de recomendações alimentares, sem experimento do ingrediente isolado. Em *Soup-stenance*, a prática de repor uma panela durante12 dias é relato sem temperatura/controle definidos, não protocolo sanitário adotado. *Electromagnetic Radiation Protection from the Kitchen* fornece fórmulas culinárias, mas o título não demonstra proteção contra radiação. As fontes sobre Nicoya descrevem dieta e entrevistas; frequência cultural e longevidade não isolam o efeito da sopa. Relatos clínicos e textos opinativos continuam classificados como tal.
+
+## Anexos das páginas de princípios
+
+A [nota de cinco anexos](wapf-anexos-2018.md) registra textos/notas, cobertura visual e limites de objetos/referências. Métodos culinários e alegações terapêuticas continuam distintos; as tabelas de outros alimentos não foram transferidas à composição do caldo.

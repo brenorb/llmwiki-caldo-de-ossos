@@ -1,0 +1,531 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:wapf:five-attachments:public-record:1.0.0",
+  "title": "Registro público compacto de cinco anexos WAPF",
+  "description": "Cobertura documental,32 títulos/localizadores e21 comprovantes de linhas privadas de medidas; sem transcrição de receitas.",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "record_id": {
+      "type": "string"
+    },
+    "prepared_at_utc": {
+      "type": "string"
+    },
+    "audit_date": {
+      "type": "string"
+    },
+    "scope": {
+      "type": "object",
+      "properties": {
+        "sources": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "presentation_slides": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "available_notes_read": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "pdf_pages_read": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "slides_overviewed": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "slides_individually_expanded": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "emf_main_graphs_recovered_read": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "culinary_items": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "measure_locator_records": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "core_broth_method_item_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "new_sources_read_in_publication_step": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "required": [
+        "sources",
+        "presentation_slides",
+        "available_notes_read",
+        "pdf_pages_read",
+        "slides_overviewed",
+        "slides_individually_expanded",
+        "emf_main_graphs_recovered_read",
+        "culinary_items",
+        "measure_locator_records",
+        "core_broth_method_item_ids",
+        "new_sources_read_in_publication_step"
+      ],
+      "additionalProperties": false
+    },
+    "method": {
+      "type": "object",
+      "properties": {
+        "reader": {
+          "type": "string"
+        },
+        "selection": {
+          "type": "string"
+        },
+        "text": {
+          "type": "string"
+        },
+        "note_indexing": {
+          "type": "string"
+        },
+        "visual": {
+          "type": "string"
+        },
+        "conversion": {
+          "type": "string"
+        },
+        "emf": {
+          "type": "string"
+        },
+        "ole_motion": {
+          "type": "string"
+        },
+        "culinary": {
+          "type": "string"
+        },
+        "private_measure_table_key": {
+          "type": "string"
+        },
+        "private_row_hash_method": {
+          "type": "string"
+        },
+        "clinical": {
+          "type": "string"
+        },
+        "nutrition": {
+          "type": "string"
+        },
+        "privacy": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "reader",
+        "selection",
+        "text",
+        "note_indexing",
+        "visual",
+        "conversion",
+        "emf",
+        "ole_motion",
+        "culinary",
+        "private_measure_table_key",
+        "private_row_hash_method",
+        "clinical",
+        "nutrition",
+        "privacy"
+      ],
+      "additionalProperties": false
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      },
+      "minItems": 5,
+      "maxItems": 5
+    },
+    "culinary_items": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/culinary_item"
+      },
+      "minItems": 32,
+      "maxItems": 32
+    },
+    "measure_locators": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/measure_locator"
+      },
+      "minItems": 21,
+      "maxItems": 21
+    },
+    "private_evidence_proofs": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/private_proof"
+      },
+      "minItems": 15,
+      "maxItems": 15
+    },
+    "limits": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "record_id",
+    "prepared_at_utc",
+    "audit_date",
+    "scope",
+    "method",
+    "sources",
+    "culinary_items",
+    "measure_locators",
+    "private_evidence_proofs",
+    "limits"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "source": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "enum": [
+            "WAPF-ANX-I",
+            "WAPF-ANX-II",
+            "WAPF-ANX-O",
+            "WAPF-ANX-M",
+            "WAPF-ANX-F"
+          ]
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://www\\.westonaprice\\.org/wp-content/uploads/"
+        },
+        "original_file": {
+          "type": "string"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "bytes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "retrieved_at_utc": {
+          "type": "string"
+        },
+        "http_status": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "format": {
+          "type": "string",
+          "enum": [
+            "pptx",
+            "ppt",
+            "pdf"
+          ]
+        },
+        "unit": {
+          "type": "string",
+          "enum": [
+            "slide",
+            "page"
+          ]
+        },
+        "units": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "notes_available": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "notes_read": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "notes_absent_ordinals": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true
+        },
+        "hidden_ordinals": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true
+        },
+        "text_read_ranges": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        },
+        "text_basis": {
+          "type": "string"
+        },
+        "visual_overview_ranges": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        },
+        "visual_expanded_ordinals": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true
+        },
+        "emf_initial_blank_ordinals": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true
+        },
+        "emf_main_graphs_recovered_read": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 0
+          }
+        },
+        "emf_main_graphs_unresolved": {
+          "type": "array"
+        },
+        "emf_invalid_auxiliary_parts": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "ole_count": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "ole_ordinals": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true
+        },
+        "ole_executed": {
+          "type": "boolean"
+        },
+        "external_workbook_relations_unopened": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "transition_ordinals": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true
+        },
+        "motion_inventory_basis": {
+          "type": "string"
+        },
+        "private_manifest_key": {
+          "type": "string"
+        },
+        "specific_limits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "url",
+        "original_file",
+        "sha256",
+        "bytes",
+        "retrieved_at_utc",
+        "http_status",
+        "format",
+        "unit",
+        "units",
+        "notes_available",
+        "notes_read",
+        "notes_absent_ordinals",
+        "hidden_ordinals",
+        "text_read_ranges",
+        "text_basis",
+        "visual_overview_ranges",
+        "visual_expanded_ordinals",
+        "emf_initial_blank_ordinals",
+        "emf_main_graphs_recovered_read",
+        "emf_main_graphs_unresolved",
+        "emf_invalid_auxiliary_parts",
+        "ole_count",
+        "ole_ordinals",
+        "ole_executed",
+        "external_workbook_relations_unopened",
+        "transition_ordinals",
+        "motion_inventory_basis",
+        "private_manifest_key",
+        "specific_limits"
+      ],
+      "additionalProperties": false
+    },
+    "culinary_item": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^CUL-[0-9]{3}$"
+        },
+        "source_id": {
+          "type": "string"
+        },
+        "slide_ordinals": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true
+        },
+        "title": {
+          "type": "string"
+        },
+        "measure_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "id",
+        "source_id",
+        "slide_ordinals",
+        "title",
+        "measure_ids"
+      ],
+      "additionalProperties": false
+    },
+    "measure_locator": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^MED-[0-9]{3}$"
+        },
+        "source_id": {
+          "type": "string"
+        },
+        "item_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "slide_ordinals": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true
+        },
+        "note_slide_ordinals": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true
+        },
+        "private_row_1based": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "private_row_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      },
+      "required": [
+        "id",
+        "source_id",
+        "item_ids",
+        "slide_ordinals",
+        "note_slide_ordinals",
+        "private_row_1based",
+        "private_row_sha256"
+      ],
+      "additionalProperties": false
+    },
+    "private_proof": {
+      "type": "object",
+      "properties": {
+        "artifact_key": {
+          "type": "string"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "bytes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "private": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "artifact_key",
+        "sha256",
+        "bytes",
+        "private"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

@@ -490,3 +490,16 @@ São complementos de **nove preparos já catalogados**, mais a base de *Soup-ste
 | [Simple Elderberry Jelly](https://www.westonaprice.org/health-topics/eat-yout-yard-out/) | **1 xícara de xarope de sabugueiro; 1½ colher de chá de gelatina hidratada em 2 colheres de sopa retiradas desse xarope**. Aquecer restante, misturar e refrigerar cerca de 4h. | Açúcar do xarope não informado; não rotular low carb. Fonte imprime **110°F(34°C)**, equivalência inconsistente, preservada. Outra gelatina pode usar infusão de hibisco/adoçante; não reproduz o xarope. Não é conserva estável à temperatura ambiente. |
 
 Siga a [orientação de conservação](seguranca-conservacao.md) da wiki. Alegações clínicas dos artigos não validam receitas como tratamentos; as [análises de composição](composicao.md) dependem de amostras e unidades identificadas.
+
+## Métodos nas notas do seminário de 2018
+
+A [parteII do seminário](https://www.westonaprice.org/wp-content/uploads/SeminarFinalPartII2018.pptx) tem quatro métodos tópicos, sem formulação completa. Os números abaixo usam **ordinais físicos dos slides e suas notas**, não nomes internos dos arquivos. [Leitura e limites](../fontes/wapf-anexos-2018.md)
+
+| Método/localizador | O que está definido | Lacunas e recorte low carb |
+|---|---|---|
+| Frango,164–167;notas165–166 | Frango inteiro/partes/ossos, pés/cabeças opcionais, cebola/cenoura/aipo; aproximadamente **½ xícara de vinagre**, água para cobrir; escumar e cozinhar brando **2–24h**, coar. | Sem massa, razão água/ossos ou rendimento. Cenoura/cebola contribuem carboidratos; sem macros. Preferir ficha completa já catalogada para dosar vinagre. |
+| Peixe,168–169 | Cabeça/carcaça, aproveitando também o corpo. | Sem medidas, tempo ou rendimento. Não inferir doses dos aromáticos/gordura/vinho na fotografia. |
+| Bovino,170 | Dourar ossos carnudos; pés bovinos ou suínos opcionais. | Sem massa, temperatura, duração ou proporção. Método sem açúcar/farinha obrigatórios, sem macros calculados. |
+| Redução,171 | Começar com vários quarts de caldo e reduzir até engrossar; vinho/conhaque/ervas/manteiga/creme opcionais. | Sem fator final ou tempo. A redução concentra também ingredientes dissolvidos; não determina teor de gelatina/minerais por porção. Para menos carboidratos, evitar vinho adoçado e creme com açúcar; não exige farinha. |
+
+As notas são descrição culinária, sem validar alegações de digestão ou desintoxicação. Para resfriamento/armazenamento use a [orientação de segurança](seguranca-conservacao.md) da wiki.

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "file_name": "README.md",
+      "bytes": 3531,
+      "sha256": "302da81d2f252be6e5d1c550d05a2e85abafc453a93827621e451510ac84a0b2"
+    },
+    {
+      "file_name": "anexos.tsv",
+      "bytes": 2315,
+      "sha256": "29b3d72ea20f4258e33d964cd1bc9ca1bbe43f847f5eacf99082c78c13327866"
+    },
+    {
+      "file_name": "comprovantes-privados.tsv",
+      "bytes": 1609,
+      "sha256": "487bf2ce85362e7fbbc2491fae98fceb15b1b7cdca7c1b86b7a98f30c18f32ff"
+    },
+    {
+      "file_name": "itens-culinarios.tsv",
+      "bytes": 1954,
+      "sha256": "d412928ef4ee93bdbb9f6c9248bfd6f5235177ed444161a9b7640f16cbe2582d"
+    },
+    {
+      "file_name": "medidas-localizadores.tsv",
+      "bytes": 2705,
+      "sha256": "a0dcd4bbaba70dc3f01ebd3d99ce7e002c3466a31b339bd25f3d63ecab3f7f77"
+    },
+    {
+      "file_name": "registro-anexos.json",
+      "bytes": 30168,
+      "sha256": "8df10b95eb0edce90ef2487305290cd5ef3c41642765226269e395e1ee2226f6"
+    },
+    {
+      "file_name": "registro-anexos.schema.json",
+      "bytes": 12002,
+      "sha256": "9c07ff1ab61c05ea43bf9293b31c88844178b68d98b2b72746a17ca4bd8c4210"
+    }
+  ]
+}

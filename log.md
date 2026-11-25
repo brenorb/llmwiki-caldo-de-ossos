@@ -994,3 +994,7 @@ A [atualização dirigida](raw/pigmentacao-atualizacao-2026-11-25.json) registra
 ## [2026-11-25] revisão | Terceiro lote health e medidas de receitas existentes
 
 Unidos três pareceres e conferidos50 índices,100 hashes físicos e4.188 linhas no [registro](raw/wapf-health-lote3-50-2026-11-25.json). O catálogo recebeu medidas/tempos/rendimentos e lacunas dos preparos já presentes, distinguindo ingredientes com amido, adaptações e alegações não validadas. As cinco diferenças de canônica e a ausência de leitura de mídia/referências externas permanecem explícitas.
+
+## [2026-11-25] ingestão | Cinco anexos WAPF e recuperação de gráficos
+
+A [nota de fonte](wiki/fontes/wapf-anexos-2018.md) incorpora607 slides/589 notas disponíveis, com panorama de todos,32 ampliações e duas páginas PDF. Foram conferidos hashes originais/comprovantes;13 gráficos principais foram recuperados e examinados, sem doses ou receitas de caldo ocultas. O catálogo recebeu quatro métodos com lacunas explícitas. O [pacote público](raw/wapf-anexos-health-2026-11-25/README.md) contém apenas metadados/localizadores, sem transcrições extensas ou caminhos privados.

@@ -112,3 +112,5 @@ Os [12 textos WAPF adicionais](../raw/wapf-leitura-integral-12-2026-11-25.json) 
 A [atualização de pigmentação](../raw/pigmentacao-atualizacao-2026-11-25.json) distingue resumo pré-clínico de condroitina e registro prospectivo sem resultados. Formulações comerciais incompletas e acesso parcial não viraram doses ou eficácia clínica do caldo.
 
 O [terceiro lote positivo health](../raw/wapf-health-lote3-50-2026-11-25.tsv) tem100 hashes físicos e faixas1–fim conferidos. Receitas já catalogadas ganharam medidas/lacunas, sem serem contadas novamente. Relatos, tradições alimentares e nomes terapêuticos permanecem separados de testes clínicos.
+
+O [registro de cinco anexos WAPF](../raw/wapf-anexos-health-2026-11-25/registro-anexos.json) conserva URLs/hashes e cobertura por slide/nota/página.607 slides textuais não equivalem a607 imagens integralmente lidas;32 ampliados e13 gráficos recuperados têm prova separada. Localizadores culinários não viram receitas completas ou validação clínica.

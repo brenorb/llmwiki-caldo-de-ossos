@@ -1,0 +1,634 @@
+{
+  "date": "2026-11-25",
+  "baseline_maps": 15,
+  "current_maps": 15,
+  "baseline_urls": 6376,
+  "current_urls": 6387,
+  "added": [
+    {
+      "url": "https://www.westonaprice.org/brians-fire-cider/",
+      "lastmod": "2026-11-12T02:37:15+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/natural-body-care/",
+      "lastmod": "2026-11-17T13:53:45+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/natural-body-care-recipe-of-the-week/",
+      "lastmod": "2026-11-17T13:53:45+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/elementos-clave-para-una-restauracion-agroecosistemica-efectiva-con-raimundo-labbe/",
+      "lastmod": "2026-11-14T14:51:07+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/caustic-commentary-fall-2026/",
+      "lastmod": "2026-11-23T20:17:31+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/homemade-toothpaste/",
+      "lastmod": "2026-11-17T13:53:45+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/letters-fall-2026/",
+      "lastmod": "2026-11-23T19:56:22+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/measles-information-alert/",
+      "lastmod": "2026-11-19T17:11:53+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/natl-alert-include-custom-slaughter-pilot-program-in-senate-farm-bill-local-meat/",
+      "lastmod": "2026-11-18T14:30:10+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast/fix-your-airway-transform-your-health-with-dr-hilary-fritsch/",
+      "lastmod": "2026-11-23T08:00:18+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast/who-controls-your-babys-first-food-with-dr-melonie-schoenherr/",
+      "lastmod": "2026-11-23T20:59:11+00:00"
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "url": "https://www.westonaprice.org/about-us/board-of-directors/",
+      "old": "2026-11-04T15:23:37+00:00",
+      "new": "2026-11-17T20:57:37+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/about-us/contact-us/",
+      "old": "2020-01-23T19:26:19+00:00",
+      "new": "2026-11-17T20:37:22+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/baby-formula-video-by-sarah-pope/",
+      "old": "2011-06-09T19:42:42+00:00",
+      "new": "2026-11-19T14:55:17+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/blog/",
+      "old": "2026-11-09T18:30:48+00:00",
+      "new": "2026-11-23T19:56:22+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/action-alerts/",
+      "old": "2026-11-02T15:24:02+00:00",
+      "new": "2026-11-19T17:11:53+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/action-alerts/2011-action-alerts/",
+      "old": "2025-03-11T18:07:10+00:00",
+      "new": "2026-11-19T14:55:17+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/action-alerts/2026-action-alerts/",
+      "old": "2026-11-02T15:24:02+00:00",
+      "new": "2026-11-19T17:11:53+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/get-involved/",
+      "old": "2026-07-27T16:15:16+00:00",
+      "new": "2026-11-23T19:56:22+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/get-involved/letters/",
+      "old": "2026-07-27T16:15:16+00:00",
+      "new": "2026-11-23T19:56:22+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/get-involved/local-chapters/",
+      "old": "2026-04-23T13:56:23+00:00",
+      "new": "2026-11-18T15:20:22+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/",
+      "old": "2026-10-28T19:11:41+00:00",
+      "new": "2026-11-17T13:53:45+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/beverages/",
+      "old": "2026-07-24T20:07:26+00:00",
+      "new": "2026-11-12T02:37:15+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/chapter-resources/",
+      "old": "2026-04-23T13:56:23+00:00",
+      "new": "2026-11-16T20:25:31+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/digital-journal/",
+      "old": "2026-08-19T17:47:27+00:00",
+      "new": "2026-11-17T18:45:17+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/caustic-commentary/",
+      "old": "2026-09-02T18:13:45+00:00",
+      "new": "2026-11-23T20:17:31+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/cod-liver-oil-basics/",
+      "old": "2026-02-26T15:09:53+00:00",
+      "new": "2026-11-24T15:09:48+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/cod-liver-oil/",
+      "old": "2026-02-26T15:09:53+00:00",
+      "new": "2026-11-24T15:09:48+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/faq/",
+      "old": "2026-01-15T18:04:02+00:00",
+      "new": "2026-11-19T17:18:01+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/farm-and-ranch/",
+      "old": "2026-10-26T17:21:04+00:00",
+      "new": "2026-11-16T15:44:28+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/poultry/",
+      "old": "2025-05-20T18:16:55+00:00",
+      "new": "2026-11-16T15:44:28+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/vaccinations/",
+      "old": "2026-08-22T19:24:39+00:00",
+      "new": "2026-11-16T21:58:09+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/",
+      "old": "2026-11-03T20:46:39+00:00",
+      "new": "2026-11-24T15:09:48+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/advice-for-livestock-producers/",
+      "old": "2025-05-20T18:16:55+00:00",
+      "new": "2026-11-16T15:44:28+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/cod-liver-oil/cod-liver-oil-basics-and-recommendations/",
+      "old": "2026-02-26T15:09:53+00:00",
+      "new": "2026-11-24T15:09:48+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/faq-fats-and-oils/",
+      "old": "2017-07-04T14:55:03+00:00",
+      "new": "2026-11-19T17:18:01+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/vaccines-in-food/",
+      "old": "2026-08-22T19:24:39+00:00",
+      "new": "2026-11-16T21:58:09+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast-category/alternative-health-practices/",
+      "old": "2026-09-09T08:26:53+00:00",
+      "new": "2026-10-20T07:48:00+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast-category/health-concerns/",
+      "old": "2026-09-29T18:52:28+00:00",
+      "new": "2026-11-16T15:16:07+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast-category/parenting/",
+      "old": "2026-07-17T18:28:16+00:00",
+      "new": "2026-11-23T20:59:11+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast-category/podcast/",
+      "old": "2026-09-29T18:52:28+00:00",
+      "new": "2026-11-23T20:59:11+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast/",
+      "old": "2026-09-29T18:52:28+00:00",
+      "new": "2026-11-23T20:59:11+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast/the-truth-about-fluoride-in-your-water-with-michael-connett/",
+      "old": "2026-10-12T07:00:58+00:00",
+      "new": "2026-11-16T15:16:07+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/start-a-chapter-2/",
+      "old": "2026-03-31T18:16:35+00:00",
+      "new": "2026-11-18T15:20:22+00:00"
+    },
+    {
+      "url": "https://www.westonaprice.org/tradiciones-sabias-podcast/",
+      "old": "2026-11-09T18:16:08+00:00",
+      "new": "2026-11-14T15:00:41+00:00"
+    }
+  ],
+  "pages_checked": [
+    {
+      "url": "https://www.westonaprice.org/brians-fire-cider/",
+      "status": "200",
+      "title": "Brian's Fire Cider - The Weston A. Price Foundation",
+      "chars": 1341,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "960c69b955c3bc1cd5d23d7d3ead68b6fa8fefdd286379c02b20a58b34dbb0a7"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/natural-body-care/",
+      "status": "200",
+      "title": "Natural Body Care Archives - The Weston A. Price Foundation",
+      "chars": 224,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "687e211af45e85e81fdbb2039d218f085f5c66e03370071461cfe9152d79e019"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/natural-body-care-recipe-of-the-week/",
+      "status": "200",
+      "title": "Natural Body Care Archives - The Weston A. Price Foundation",
+      "chars": 224,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "687e211af45e85e81fdbb2039d218f085f5c66e03370071461cfe9152d79e019"
+    },
+    {
+      "url": "https://www.westonaprice.org/elementos-clave-para-una-restauracion-agroecosistemica-efectiva-con-raimundo-labbe/",
+      "status": "200",
+      "title": "Elementos clave para una restauración agroecosistémica efectiva, con Raimundo Labbe - The Weston A. Price Foundation",
+      "chars": 1026,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "cbe1509b912f25769cfe04d2717cbaf5e533c606bfe04a87738f176bf4aff67c"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/caustic-commentary-fall-2026/",
+      "status": "200",
+      "title": "Caustic Commentary, Fall 2026 - The Weston A. Price Foundation",
+      "chars": 11393,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "217907f98bbde01a55e49d4fe347007fc8cc1f40d8047710bd9049ddbbaed73d"
+    },
+    {
+      "url": "https://www.westonaprice.org/homemade-toothpaste/",
+      "status": "200",
+      "title": "Homemade Toothpaste - The Weston A. Price Foundation",
+      "chars": 876,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "55b5cedd4e808f18fca492aef70860d6ff6f51c779c7c0e13c80cb250d94d71e"
+    },
+    {
+      "url": "https://www.westonaprice.org/letters-fall-2026/",
+      "status": "200",
+      "title": "Letters, Fall 2026 - The Weston A. Price Foundation",
+      "chars": 22451,
+      "field": "entry-content",
+      "topic_matches": 1,
+      "text_sha256": "2f16aab81ad5e22eec45120d6fac759056ef56536bfc4895de5bec948d2eb479"
+    },
+    {
+      "url": "https://www.westonaprice.org/measles-information-alert/",
+      "status": "200",
+      "title": "MEASLES INFORMATION ALERT - The Weston A. Price Foundation",
+      "chars": 3850,
+      "field": "entry-content",
+      "topic_matches": 4,
+      "text_sha256": "156dc6a9a0c54525aaaf9162f98996ea454523afa357d438ff8a8d0ec9853053"
+    },
+    {
+      "url": "https://www.westonaprice.org/natl-alert-include-custom-slaughter-pilot-program-in-senate-farm-bill-local-meat/",
+      "status": "200",
+      "title": "Nat'l Alert - Include Custom Slaughter Pilot Program in Senate Farm Bill [Local Meat] - The Weston A. Price Foundation",
+      "chars": 4076,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "90ccb01dbc693e4df868ac0d5ae851a8c0bc4f02c1a71b731697e4fd76a933e7"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast/fix-your-airway-transform-your-health-with-dr-hilary-fritsch/",
+      "status": "200",
+      "title": "Fix Your Airway, Transform Your Health With Dr. Hilary Fritsch",
+      "chars": 46349,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "a59b837410177a6d8ea58a33eee73e8f534beb47de4b938c4a254cb81cfb2550"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast/who-controls-your-babys-first-food-with-dr-melonie-schoenherr/",
+      "status": "200",
+      "title": "Who Controls Your Baby's First Food? With Dr. Melonie Schoenherr",
+      "chars": 47594,
+      "field": "entry-content",
+      "topic_matches": 2,
+      "text_sha256": "e56e5d7f92c6e269995c6aaf63d17fcc2c910f86f46aad3db41e406e372fe053"
+    },
+    {
+      "url": "https://www.westonaprice.org/about-us/board-of-directors/",
+      "status": "200",
+      "title": "Board of Directors - The Weston A. Price Foundation",
+      "chars": 45339,
+      "field": "entry-content",
+      "topic_matches": 2,
+      "text_sha256": "f5e0d837fe17c167857d644d198afae0ddc29c45e6381090ddaa62432857c5dd"
+    },
+    {
+      "url": "https://www.westonaprice.org/about-us/contact-us/",
+      "status": "200",
+      "title": "Contact Us - The Weston A. Price Foundation",
+      "chars": 417,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "05b752ad2da0692767bf6626feffdbb919c0e2fcf90421ae4f1d82c91b1d2b1a"
+    },
+    {
+      "url": "https://www.westonaprice.org/baby-formula-video-by-sarah-pope/",
+      "status": "200",
+      "title": "Baby Formula Video by Sarah Pope - The Weston A. Price Foundation",
+      "chars": 10739,
+      "field": "entry-content",
+      "topic_matches": 7,
+      "text_sha256": "23e8329c69e4cdfc9d7008fec0cc5b68c0a91cbca15a31d0687fc6174d91be30"
+    },
+    {
+      "url": "https://www.westonaprice.org/blog/",
+      "status": "200",
+      "title": "Blog - The Weston A. Price Foundation",
+      "chars": 19764,
+      "field": "entry-content",
+      "topic_matches": 8,
+      "text_sha256": "94dbc37eabf6f5e87f3465d513eb5c9c0b8315ee4bf738f65e36bb576337a576"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/action-alerts/",
+      "status": "200",
+      "title": "Action Alerts Archives - The Weston A. Price Foundation",
+      "chars": 108705,
+      "field": "main",
+      "topic_matches": 1,
+      "text_sha256": "480d8b5b9060a009ced7dab98f4546eff5cc5e765b6a009f0b7f70beda88b562"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/action-alerts/2011-action-alerts/",
+      "status": "200",
+      "title": "2011 Action Alerts Archives - The Weston A. Price Foundation",
+      "chars": 15436,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "58dc2ce5bfe7b9de5592de922aa5041c8e2157c4291e3a07934f298e82a3afa7"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/action-alerts/2026-action-alerts/",
+      "status": "200",
+      "title": "2026 Action Alerts Archives - The Weston A. Price Foundation",
+      "chars": 19431,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "5772cffb543eb13c9abb7eed1dd589fb3d48a2b3033301b923c842e5eedb625d"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/get-involved/",
+      "status": "200",
+      "title": "Get Involved Archives - The Weston A. Price Foundation",
+      "chars": 3102,
+      "field": "article",
+      "topic_matches": 0,
+      "text_sha256": "94a6a5002a5ed6f3d438fa288e39f2270dc636b0756f3a4499d0b699a354858e"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/get-involved/letters/",
+      "status": "200",
+      "title": "Letters Archives - The Weston A. Price Foundation",
+      "chars": 2472,
+      "field": "article",
+      "topic_matches": 0,
+      "text_sha256": "12cee2bc6d3f0086958afbbb63e5cc0fc9f2dae92459f7895cd5ab5940ce9acc"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/get-involved/local-chapters/",
+      "status": "200",
+      "title": "Local Chapters Archives - The Weston A. Price Foundation",
+      "chars": 949,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "348cad8545f39d03902b557514652716c44c16f2ef83b6c2aae83242878f0022"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/",
+      "status": "200",
+      "title": "Recipe of the Week Archives - The Weston A. Price Foundation",
+      "chars": 18914,
+      "field": "entry-content",
+      "topic_matches": 28,
+      "text_sha256": "1c5203a3a28dcbd417bbfc75457a9ae7bf49536aa9929a5ead29cd9797a6c98e"
+    },
+    {
+      "url": "https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/beverages/",
+      "status": "200",
+      "title": "Beverages Archives - The Weston A. Price Foundation",
+      "chars": 4299,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "1e51fd4983aff7a6fa10894b23cf6156d66be586d8b13465dbe204ad5c9787f2"
+    },
+    {
+      "url": "https://www.westonaprice.org/chapter-resources/",
+      "status": "200",
+      "title": "Resources for Chapters - The Weston A. Price Foundation",
+      "chars": 7598,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "93c68837c7b569b16060a7522a0c00f1a52216029100b0b4704375f2c4486f14"
+    },
+    {
+      "url": "https://www.westonaprice.org/digital-journal/",
+      "status": "200",
+      "title": "Digital Journal Archive - The Weston A. Price Foundation",
+      "chars": 2002,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "2ca1f949bfc6c033ab709ceea65d5c764d474686b28d672c63c3dc670deb114f"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/caustic-commentary/",
+      "status": "200",
+      "title": "Caustic Commentary Archives - The Weston A. Price Foundation",
+      "chars": 7652,
+      "field": "main",
+      "topic_matches": 0,
+      "text_sha256": "c054a9c5d9f0b6f9f06a7d399ae5cd8a39b397984b18cc2a8b5500faf154a7df"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/cod-liver-oil-basics/",
+      "status": "200",
+      "title": "Cod Liver Oil Basics Archives - The Weston A. Price Foundation",
+      "chars": 1189,
+      "field": "main",
+      "topic_matches": 0,
+      "text_sha256": "015fe306956894620be4828126e124e8769740159fda776dc3834ed8300c26d0"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/cod-liver-oil/",
+      "status": "200",
+      "title": "Cod Liver Oil Archives - The Weston A. Price Foundation",
+      "chars": 3251,
+      "field": "main",
+      "topic_matches": 0,
+      "text_sha256": "227f356146b5129f89f7b704dbe2bd89acfed03548b7cfd2852b8f3e4892a7b2"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/faq/",
+      "status": "200",
+      "title": "Sally Says Archives - The Weston A. Price Foundation",
+      "chars": 1090,
+      "field": "main",
+      "topic_matches": 0,
+      "text_sha256": "c3242851b34ab5226a700d7f494ba65f8e49d14971538b1f192a7025b523e43a"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/farm-and-ranch/",
+      "status": "200",
+      "title": "Farm & Ranch Archives - The Weston A. Price Foundation",
+      "chars": 7392,
+      "field": "main",
+      "topic_matches": 0,
+      "text_sha256": "bae4595dc6a42e88e11af2c4e3eb7d270b34d57ba3d1a353d1ce10cab77abab0"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/poultry/",
+      "status": "200",
+      "title": "Poultry Archives - The Weston A. Price Foundation",
+      "chars": 1158,
+      "field": "main",
+      "topic_matches": 0,
+      "text_sha256": "1ccfbd03413f02c028ad3b888225271b9ec68e0dd3949ca9e87328cdc8615c6e"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics-category/vaccinations/",
+      "status": "200",
+      "title": "Vaccinations - The Weston A. Price Foundation",
+      "chars": 15780,
+      "field": "main",
+      "topic_matches": 0,
+      "text_sha256": "7790f3a38a733e566e900b5a6907d0dda437e37a07d05d564443dcc312340c88"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/",
+      "status": "200",
+      "title": "Health Topics Archive - The Weston A. Price Foundation",
+      "chars": 5323,
+      "field": "main",
+      "topic_matches": 0,
+      "text_sha256": "b4b2aca60ed5ad09fcc95d4b8f70daa50e43cc0899ae7bfc8d86c692e9dd2b30"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/advice-for-livestock-producers/",
+      "status": "200",
+      "title": "Advice for Livestock Producers - The Weston A. Price Foundation",
+      "chars": 3551,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "4172bb054a949a2844bf1006aaef950d160546f97a40aa877e66b21aa74403ee"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/cod-liver-oil/cod-liver-oil-basics-and-recommendations/",
+      "status": "200",
+      "title": "Cod Liver Oil Basics and Recommendations - The Weston A. Price Foundation",
+      "chars": 15847,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "2ea86e66c7a8454268aceed29723f1f0b19187d8d2e91e30b1b7ba4c2a6b3725"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/faq-fats-and-oils/",
+      "status": "200",
+      "title": "FAQ-Fats and Oils - The Weston A. Price Foundation",
+      "chars": 21574,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "5b67ef634a3e31331bc309f6e9d0eef95e4e84999352fa1d1a1b8c93d585da04"
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/vaccines-in-food/",
+      "status": "200",
+      "title": "Vaccines In Food - Weston A. Price Foundation",
+      "chars": 24292,
+      "field": "entry-content",
+      "topic_matches": 1,
+      "text_sha256": "f54f9ca1a06c8324b02b0741fb6b0267cca253ade6ca7cae648baba3feba2477"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast-category/alternative-health-practices/",
+      "status": "200",
+      "title": "Alternative Health Practices Archives - The Weston A. Price Foundation",
+      "chars": 18558,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "7b2e09b4878ad66d33449c10834801a44a56fa27d9f4527ca22716f2da521480"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast-category/health-concerns/",
+      "status": "200",
+      "title": "Health Concerns Archives - The Weston A. Price Foundation",
+      "chars": 18919,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "86623c893fda360a8778d3d24eb3aedc4c4ed605d5824c815fccd36a7f7cafef"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast-category/parenting/",
+      "status": "200",
+      "title": "Pregnancy, Birth and How to Feed Children Archives - The Weston A. Price Foundation",
+      "chars": 5963,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "09c38c59eea01e77239fd119e790e71d632da751d52dec15f11a3982cbf25814"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast-category/podcast/",
+      "status": "200",
+      "title": "Podcast Archives - The Weston A. Price Foundation",
+      "chars": 19071,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "deee1cd6a0bd91f9317a32732fc84a8fbffb8a4a69f90119f313999f9ffebbe8"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast/",
+      "status": "200",
+      "title": "Podcasts Archive - The Weston A. Price Foundation",
+      "chars": 18359,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "c07b0217da575ddc0c84d5c9a00a98c1e35f424de1f058e6b7a99f6fc2f4bb30"
+    },
+    {
+      "url": "https://www.westonaprice.org/podcast/the-truth-about-fluoride-in-your-water-with-michael-connett/",
+      "status": "200",
+      "title": "The Truth About Fluoride In Your Water With Michael Connett",
+      "chars": 45027,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "5d9b78dbf38739e885c4c39d3fd6f09c39977bbfd23055719e134d0909eeeb32"
+    },
+    {
+      "url": "https://www.westonaprice.org/start-a-chapter-2/",
+      "status": "200",
+      "title": "Start a Chapter - The Weston A. Price Foundation",
+      "chars": 2888,
+      "field": "entry-content",
+      "topic_matches": 0,
+      "text_sha256": "6129ebf83ddced84911cfa79ccfa040b18e65fa7e155b9fe51fff8ceeb830ff9"
+    },
+    {
+      "url": "https://www.westonaprice.org/tradiciones-sabias-podcast/",
+      "status": "200",
+      "title": "Tradiciones Sabias Podcast - The Weston A. Price Foundation",
+      "chars": 110706,
+      "field": "entry-content",
+      "topic_matches": 8,
+      "text_sha256": "6958e12b602b5fbce502890aaf002ad0b20198418bfa5a4d6108aac90a667475"
+    }
+  ],
+  "method": "Comparison of sitemap loc/lastmod, followed by extraction and topical screening of every added or lastmod-changed URL. Does not establish that all other bodies remained unchanged."
+}

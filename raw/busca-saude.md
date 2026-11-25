@@ -20,6 +20,10 @@ Consulta exploratória em 2026-11-11, com busca web, páginas da PubMed/PMC, edi
 
 Voltar a [Alegações de saúde](../wiki/temas/alegacoes-saude.md).
 
+## Contexto de novas afirmações da WAPF em 25 de novembro
+
+A reconsulta de páginas novas ou com data alterada encontrou afirmações sobre caldo numa dieta durante sarampo e na alimentação de bebês. Foram lidas as páginas institucionais da [OMS sobre sarampo](../wiki/fontes/oms-sarampo.md) e do [NHS sobre introdução alimentar](../wiki/fontes/nhs-introducao-alimentar.md), com registro de suas versões. São orientações e não ensaios que testem o efeito do caldo.
+
 ## Fontes consultadas e hashes das cópias locais
 
 Arquivos recuperados em 2026-11-11. Os PDFs estão sob CC BY, conforme avisos nas publicações. Para as demais fontes, as notas fornecem links e detalhes de acesso.

@@ -781,3 +781,7 @@ O [inventário](raw/mark-sisson-entrevistas.md#muscle-intelligence-com-ben-pakul
 ## [2026-11-25] ingestão | Café frio com creme de abóbora
 
 A [ficha culinária](wiki/temas/aplicacoes-culinarias.md#café-frio-com-creme-de-abóbora-e-peptídeos) registra as medidas e as lacunas de rendimento da demonstração. O [inventário](raw/inventario-mark-receitas.md#retomada-em-25-de-novembro-de-2026) registra o término da rodada de transcrição e mantém separadas as pendências de leitura visual e de conciliação.
+
+## [2026-11-25] ingestão | Atualização dos mapas e novas afirmações da WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md#reconsulta-dos-mapas-em-25-de-novembro-de-2026) e o [manifesto de 45 páginas](raw/wapf-atualizacao-2026-11-25.json) documentam a atualização dos mapas para 6.387 URLs. A [matriz](wiki/temas/relatos-e-evidencia.md) incorpora a carta sobre gestação, o alerta de sarampo e a entrevista sobre alimentação infantil, com as notas da [OMS](wiki/fontes/oms-sarampo.md) e do [NHS](wiki/fontes/nhs-introducao-alimentar.md). As notas distinguem recomendações e depoimentos de testes clínicos do caldo.

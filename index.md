@@ -39,6 +39,9 @@
 
 ## Notas de fonte
 
+- [OMS · Sarampo e limites das alegações sobre caldo](wiki/fontes/oms-sarampo.md)
+- [NHS · Introdução alimentar e alegações sobre caldo para bebês](wiki/fontes/nhs-introducao-alimentar.md)
+
 - [Buijze et al. (2016) · Ducha fria e afastamento por doença](wiki/fontes/buijze-2016-ducha-fria.md)
 
 - [MEXT e Chung et al. · Iodo em fundos e água de cocção](wiki/fontes/mext-chung-iodo-fundos.md)

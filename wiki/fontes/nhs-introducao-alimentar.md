@@ -1,0 +1,7 @@
+# NHS · Introdução de alimentos e alegações sobre caldo para bebês
+
+Página *Your baby's first solid foods*, revista em **19/02/2026**, consultada integralmente em **25/11/2026**. É orientação institucional para introdução alimentar, sem ensaio de caldo ou tutano. [Página do NHS](https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/)
+
+O NHS situa a introdução de alimentos por volta dos seis meses, junto do leite materno ou fórmula infantil. Os três sinais de prontidão são sustentar cabeça e posição sentada, coordenar olhos, mãos e boca e engolir o alimento. A erupção de dentes não aparece nessa lista. A página inclui vegetais macios entre os primeiros alimentos e recomenda variedade e progressão de textura. Leite materno ou fórmula continuam como bebida principal no primeiro ano. Não se recomenda acrescentar sal ou açúcar à comida ou água de cozimento.
+
+No episódio 605 da WAPF, Melonie Schoenherr associa caldo e tutano a alimentos para o cérebro e afirma que a ausência de dentes indicaria falta de enzimas para vegetais. A entrevista não mede enzimas, composição da receita ou desenvolvimento infantil. A orientação do NHS oferece contexto para a introdução de vegetais e não confirma benefício cerebral específico do caldo. [Entrevista, seção Prioritizing Brain-Building Ancestral Fats](https://www.westonaprice.org/podcast/who-controls-your-babys-first-food-with-dr-melonie-schoenherr/) · [Comparação por desfecho](../temas/relatos-e-evidencia.md)

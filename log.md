@@ -1002,3 +1002,7 @@ A [nota de fonte](wiki/fontes/wapf-anexos-2018.md) incorpora607 slides/589 notas
 ## [2026-11-25] revisão | Mais nove entrevistas MDA integralmente lidas
 
 O [registro de nove IDs](raw/youtube-mda-pos118-9-2026-11-25.json) comprova5.640 linhas/39 partes integrais, sem sobreposição com118 anteriores. O único núcleo de caldo/colágeno foi incorporado com voz atribuída a Al Danenberg, sem dose/receita ou validação oncológica. Foram conferidos hashes físicos/faixas e mantidos negativos, limites ASR e separação da fila posterior.
+
+## [2026-11-25] manutenção | Retomada ES após parada confirmada
+
+A [observação de processos/checkpoints](raw/wapf-retomada-es-2026-11-25.json) distingue interrupção de conclusão:92/189 GUIDs ES tinham checkpoint. Foi retomada a fila existente, sem worker duplicado ou limite de duração por mídia, preservando versões/logs. A contagem não foi apresentada como leitura integral.

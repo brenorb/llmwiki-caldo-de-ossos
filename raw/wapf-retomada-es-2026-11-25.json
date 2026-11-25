@@ -1,0 +1,18 @@
+{
+  "observed_at_utc": "2026-11-25T23:58:16.755228+00:00",
+  "baseline_es_episodes": 189,
+  "es_guid_checkpoints_at_restart": 92,
+  "es_guid_checkpoints_now": 93,
+  "remaining_before_restart": 97,
+  "prior_processes_absent": [
+    50303,
+    51128
+  ],
+  "scoped_process_inventory": "Nenhum podcast-audit.py ou continue-podcast-audio.py remanescente encontrado; locks de continuação livres.",
+  "action": "Retomado script existente só ES, workers1, mesma fila184, checkpoints preservados, log acrescentado.",
+  "queue_basename": "spanish-audio-outstanding.txt",
+  "queue_sha256": "8217b99bad24b330681f06cf84de3e3058278a3c7474bc2596205f43ab7836b9",
+  "catalogue_sha256": "d16de80bc4063d0ae5f81eccd62d22568faaa96340e278cc6e3fb53f9104a3e6",
+  "duration_policy": "Sem timeout ou limite de duração na chamada ASR de cada mídia;100s no curl é prazo de download, não corte de gravação.",
+  "limitations": "Checkpoints são estado de processamento, não leitura integral, audição humana ou reconhecimento de todas as palavras."
+}

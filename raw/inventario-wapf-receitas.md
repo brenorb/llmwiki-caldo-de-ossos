@@ -946,3 +946,7 @@ Cinco canônicas diferem das URLs de seleção por prefixos de idioma; o item39 
 A [nota dos anexos](../wiki/fontes/wapf-anexos-2018.md) e o [registro por original](wapf-anexos-health-2026-11-25/anexos.tsv) complementam o lote de landings. Os quatro arquivos de apresentação somam607 slides/589 notas disponíveis lidos; houve panorama de todos e ampliação individual de32. O folheto de duas páginas teve leitura textual/visual. **Isso não é leitura integral de cada imagem ou estudo citado.**
 
 O root conferiu os cinco hashes originais,15 comprovantes privados e o manifesto do pacote público. Treze gráficos foram recuperados e lidos em renderizador alternativo; quatro objetos incorporados/vínculos externos não foram executados. Os32 títulos culinários e21 localizadores de medidas preservam o inventário sem publicar transcrições extensas; quatro métodos tópicos foram incorporados com suas ausências explícitas. O corte anterior mantém seus limites históricos, agora complementados por este registro.
+
+### Retomada da fila espanhola após parada confirmada
+
+O [registro de retomada](wapf-retomada-es-2026-11-25.json) preserva o estado de92/189 GUIDs com checkpoint. Os processos conhecidos estavam ausentes, a busca restrita não encontrou worker remanescente e os locks estavam livres. A mesma fila foi retomada com um worker, preservando checkpoints e acrescentando ao log. Não há limite de duração por gravação na chamada ASR; conclusão de processamento não certifica leitura ou acurácia integral.

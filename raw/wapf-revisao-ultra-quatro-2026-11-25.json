@@ -1,0 +1,286 @@
+{
+  "date": "2026-11-25",
+  "method": "Leitura integral das novas saídasUltra; comparação qualitativa e de marcas com versõesV3 preservadas, sem referência humana independente/WER.",
+  "items": [
+    {
+      "episode": 151,
+      "guid": "e27d610f-1396-47c9-b7a7-645caa452cfb",
+      "status": "complete",
+      "read_line_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          280
+        ],
+        [
+          281,
+          319
+        ]
+      ],
+      "new_findings": [],
+      "remaining_errors": [
+        "Nomes próprios/URLs e formas comoVA/VA/bebé em37:50–37:57 (ondas solares) permanecem corrompidos; repetições em fronteiras. Nenhum caldo, composição ou repigmentação identificado na leitura integral."
+      ],
+      "total_lines": 319,
+      "sha256": "328269ae5385102207bae1d1a02a630d3b735920566cd428fdfb07ef7e113147",
+      "comparison": [
+        {
+          "version": "original_v3",
+          "total_lines": 216,
+          "first": "00:00:00",
+          "last": "00:44:23",
+          "max_gap_seconds": 151,
+          "backward_steps": 0,
+          "sha256": "5b8e1d03c6c67dd853102199fa6f566f7d323c902ce7714526108653174b17c7"
+        },
+        {
+          "version": "ultra",
+          "total_lines": 319,
+          "first": "00:00:00",
+          "last": "00:44:23",
+          "max_gap_seconds": 41,
+          "backward_steps": 1,
+          "sha256": "328269ae5385102207bae1d1a02a630d3b735920566cd428fdfb07ef7e113147"
+        }
+      ],
+      "qualitative_assessment": "Muito mais legível e contínuo em espanhol que oV3, que misturava idiomas; melhora qualitativa não é WER nem prova de reconhecimento perfeito.",
+      "closing_read": true,
+      "first": "00:00:00",
+      "last": "00:44:23",
+      "read_completed_date": "2026-11-25",
+      "matched_comparisons": [
+        {
+          "source_interval": "31:28–34:38",
+          "original_v3_lines": [
+            145,
+            158
+          ],
+          "ultra_result": "Substitui frases híbridas/corrompidas por espanhol coerente sobre sal, alimentação e luz; sem caldo. A partir de33:43 oV3 tinha salto de151s e oUltra registra falas intermediárias, sem demonstrar transcrição perfeita."
+        }
+      ],
+      "source": "https://sabiastradiciones.libsyn.com/151-aciertos-y-desaciertos-de-la-nueva-pirmide-alimenticia-con-hilda-labrada-gore",
+      "duration_seconds": 2671.660063,
+      "duration_display": "00:44:32"
+    },
+    {
+      "episode": 153,
+      "guid": "40852d43-dd43-4531-b498-5ae9634e70c9",
+      "status": "complete",
+      "read_line_ranges": [
+        [
+          1,
+          85
+        ],
+        [
+          86,
+          170
+        ],
+        [
+          171,
+          255
+        ],
+        [
+          256,
+          341
+        ]
+      ],
+      "new_findings": [],
+      "remaining_errors": [
+        "Nomes/URLs e palavras técnicas:veeduría por vezes vira bebeduría; IFOAM apareceIFOAMP; em12:38–12:49 o valor monetário tem expressão contraditória1500mil, não usar sem escuta direta. Espanhol geral contínuo; sem caldo, composição ou repigmentação."
+      ],
+      "total_lines": 341,
+      "sha256": "ad9e97b9a9d94b04af661506de94530f85dbde82979effa96eb8264fdf14e4bb",
+      "comparison": [
+        {
+          "version": "original_v3",
+          "total_lines": 267,
+          "first": "00:00:03",
+          "last": "00:53:48",
+          "max_gap_seconds": 93,
+          "backward_steps": 0,
+          "sha256": "0b032b7dcfc551ee0618772690384960db21d4b400d7e0d92321c5950c7ebf8a"
+        },
+        {
+          "version": "v3_chunk32",
+          "total_lines": 281,
+          "first": "00:00:03",
+          "last": "00:53:48",
+          "max_gap_seconds": 75,
+          "backward_steps": 1,
+          "sha256": "0739d604853a24a5f661a8ea729cb327b70e3899c253ef621b039648d212fd05"
+        },
+        {
+          "version": "ultra",
+          "total_lines": 341,
+          "first": "00:00:03",
+          "last": "00:53:48",
+          "max_gap_seconds": 43,
+          "backward_steps": 0,
+          "sha256": "ad9e97b9a9d94b04af661506de94530f85dbde82979effa96eb8264fdf14e4bb"
+        }
+      ],
+      "qualitative_assessment": "Muito mais legível e contínuo em espanhol que oV3, que misturava idiomas; melhora qualitativa não é WER nem prova de reconhecimento perfeito.",
+      "closing_read": true,
+      "first": "00:00:03",
+      "last": "00:53:48",
+      "read_completed_date": "2026-11-25",
+      "matched_comparisons": [
+        {
+          "source_interval": "22:13–25:54",
+          "original_v3_lines": [
+            127,
+            135
+          ],
+          "v3_chunk32_lines": [
+            124,
+            137
+          ],
+          "ultra_result": "Discussão de organização/soberania/coletivo; Ultra legível em espanhol onde original e reparoV3 alternavam idiomas. Nenhum caldo."
+        }
+      ],
+      "source": "https://sabiastradiciones.libsyn.com/153-descentralizar-procesos-de-certificacin-mediante-sistemas-participativos-de-garanta-con-claudia-garca",
+      "duration_seconds": 3236.720688,
+      "duration_display": "00:53:57"
+    },
+    {
+      "episode": 154,
+      "guid": "d3c1b761-9496-47f0-b5d5-a637b98ff2a3",
+      "status": "complete",
+      "read_line_ranges": [
+        [
+          1,
+          120
+        ],
+        [
+          121,
+          240
+        ],
+        [
+          241,
+          360
+        ],
+        [
+          361,
+          438
+        ]
+      ],
+      "new_findings": [],
+      "remaining_errors": [
+        "Palavra inglesa isoladaThey em09:51 com retorno a09:50; termosveeduría/veedor por vezes viram bebeduría/bebedor e erros de nomes/URLs. Em01:25 aparece desconhecem em vez deconhecem, sentido inadequado no contexto. Não há nova passagem de caldo/composição/repigmentação."
+      ],
+      "comparison": [
+        {
+          "version": "original_v3",
+          "total_lines": 298,
+          "first": "00:00:03",
+          "last": "01:00:57",
+          "max_gap_seconds": 120,
+          "backward_steps": 0,
+          "sha256": "6865031f169592f06bc77b73b58d4e8d6d416bfed1445e013f2da5229c087b96"
+        },
+        {
+          "version": "v3_chunk32",
+          "total_lines": 423,
+          "first": "00:00:03",
+          "last": "01:01:00",
+          "max_gap_seconds": 34,
+          "backward_steps": 4,
+          "sha256": "00d373a123de8c1c970fa916d4aff296a012381d60e46bd661b4a30268198e95"
+        },
+        {
+          "version": "ultra",
+          "total_lines": 438,
+          "first": "00:00:03",
+          "last": "01:00:57",
+          "max_gap_seconds": 39,
+          "backward_steps": 1,
+          "sha256": "8d5e6b64ffc062730893f1c7bfc2224c6731da2933144e61046fee4969f7e58c"
+        }
+      ],
+      "closing_read": true,
+      "qualitative_assessment": "Espanhol contínuo, substancialmente mais legível que original e reparoV3; ainda há erros semânticos e termos corrompidos. Sem referência humana independente/WER.",
+      "total_lines": 438,
+      "sha256": "8d5e6b64ffc062730893f1c7bfc2224c6731da2933144e61046fee4969f7e58c",
+      "first": "00:00:03",
+      "last": "01:00:57",
+      "read_completed_date": "2026-11-25",
+      "source": "https://sabiastradiciones.libsyn.com/154-el-sello-de-garanta-agroecolgica-un-modelo-participativo-de-certificacin-de-alimentos-con-claudia-garca",
+      "duration_seconds": 3665.709021,
+      "duration_display": "01:01:06"
+    },
+    {
+      "episode": 145,
+      "guid": "21359c5c-061e-4ee8-9327-5b0de84d47f9",
+      "status": "complete",
+      "read_line_ranges": [
+        [
+          1,
+          120
+        ],
+        [
+          121,
+          240
+        ],
+        [
+          241,
+          351
+        ]
+      ],
+      "new_findings": [
+        {
+          "time": "18:17–18:33",
+          "finding": "Ultra reconheceB6/B12/B9 no contexto de homocisteína, onde V3 traziaB2C para a segunda vitamina; preservadas as duas leituras, sem correção por mera inferência. Não há caldo nem repigmentação."
+        },
+        {
+          "time": "24:42–26:28",
+          "finding": "Nova saída recupera fala de marcadores, homocisteína e vitaminas que estava ausente entre24:31–26:34 no textoV3. Não é medição de caldo."
+        }
+      ],
+      "remaining_errors": [
+        "Novo artefato em23:36 repeteUniversidad dezenas de vezes na mesma linha, antes do parágrafo normal de doações também a23:36. OriginalV3 não tem essa repetição; não foi apagada ou tratada como fala válida.",
+        "Nomes/URLs e nomenclatura bioquímica/unidades seguem sujeitas a erro; a abertura mantém correção editorialmg/dL versusmg/L."
+      ],
+      "source": "https://sabiastradiciones.libsyn.com/145-por-qu-le-tememos-tanto-al-colesterol-si-es-fundamental-para-la-vida-con-la-dra-nayra-txasko",
+      "duration_seconds": 2974.598458,
+      "duration_display": "00:49:35",
+      "comparison": [
+        {
+          "version": "original_v3",
+          "total_lines": 300,
+          "first": "00:00:03",
+          "last": "00:48:50",
+          "max_gap_seconds": 143,
+          "backward_steps": 0,
+          "sha256": "fd8f2108bb80f448e7943fde6b733c8d633117f721693e4d92cc24f8f87f7c12"
+        },
+        {
+          "version": "ultra",
+          "total_lines": 351,
+          "first": "00:00:03",
+          "last": "00:48:50",
+          "max_gap_seconds": 50,
+          "backward_steps": 0,
+          "sha256": "9285d63c6b1d80b67fab35448c85cbe9c288b40d39a466f0fee9c6e5416099a8"
+        }
+      ],
+      "closing_read": true,
+      "qualitative_assessment": "Espanhol muito mais contínuo e legível no geral; há novo artefato repetitivo grave em23:36. Não é uma saída sem erros nem uma mediçãoWER.",
+      "total_lines": 351,
+      "sha256": "9285d63c6b1d80b67fab35448c85cbe9c288b40d39a466f0fee9c6e5416099a8",
+      "first": "00:00:03",
+      "last": "00:48:50",
+      "read_completed_date": "2026-11-25"
+    }
+  ],
+  "entire_new_texts_read": 4,
+  "total_new_text_lines": 1449,
+  "default_model_changed": false,
+  "originals_preserved": true,
+  "no_human_reference_or_WER": true,
+  "version_note": "Novas versões de quatro GUIDs já contados; não acrescentam episódios à cobertura. Mantêm os textos V3 e os cortes anteriores.",
+  "new_audio_count": 0,
+  "reprocessed_duration_seconds": 12548.68823
+}

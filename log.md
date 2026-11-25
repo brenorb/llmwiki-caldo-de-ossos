@@ -882,3 +882,8 @@ O [segundo corte de 20 receitas](raw/wapf-leitura-receitas-mais20-2026-11-25.jso
 ## [2026-11-25] revisão | Mais 40 textos do canal e prévia visual do livro
 
 Os cortes de [27](raw/youtube-mda-leitura-27-2026-11-25.json) e [13](raw/youtube-mda-leitura-13-2026-11-25.json) chegam a 78 textos novos lidos, com disjunção dos lotes conferida. A [prévia visual de 2010](wiki/temas/receitas-mark-sisson.md#página-parcial-na-divulgação-de-2010) localiza caldo de frango em uma receita parcialmente visível, sem equivaler à íntegra do livro. Atribuições individuais e limites de reconhecimento permanecem no inventário.
+
+
+## [2026-11-25] revisão | Quatro versões espanholas reprocessadas e lidas integralmente
+
+O [comparativo por GUID](raw/wapf-revisao-ultra-quatro-2026-11-25.json) registra 1.449 linhas novas lidas, preservando as versões V3. O [inventário](raw/inventario-wapf-receitas.md#nova-leitura-integral-das-versões-espanholas-151-153-154-e-145) apresenta melhora qualitativa e falhas restantes, inclusive um novo artefato de repetição. A menção a B9 continua sem dado de composição ou repigmentação do caldo e os episódios não foram contados novamente.

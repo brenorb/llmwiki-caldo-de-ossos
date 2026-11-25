@@ -596,6 +596,19 @@ Depois da triagem contextual, foram lidas **18/18 transcrições automáticas, 6
 
 A leitura encontrou trechos que exigem conferência adicional do reconhecimento: **EN142 01:58–03:56**, **EN168 02:27–03:56** e enunciados muito longos em **ES147**. As marcas são inícios de segmentos, portanto esses intervalos não provam silêncio ou omissão por si sós. As rechecagens posteriores de **EN142 01:45–04:10 (145 s)** e **EN168 02:15–04:10 (115 s)** recuperaram fala omitida na saída anterior: introdução, publicidade e eventos no 142 e discussão de dieta no 168. As 19 e 11 linhas novas foram lidas integralmente, sem nova passagem temática. O [registro da leitura](wapf-leitura-integral-18-2026-11-25.json) preserva hashes e tempos originais dos recortes. Permanecem os originais e a pendência de qualidade de ES147; não houve estimativa de acurácia palavra por palavra. Não apareceu nova medição percentual de componentes, quantidade de folato no caldo ou repigmentação no texto lido.
 
+#### Nova leitura integral das versões espanholas 151, 153, 154 e 145
+
+As quatro faixas foram reprocessadas por inteiro com Ultra e as **1.449 linhas novas foram lidas integralmente**, incluindo encerramentos. São versões dos mesmos GUIDs, sem aumento dos denominadores ou do número de episódios cobertos. As versões V3 foram preservadas. O [registro comparativo](wapf-revisao-ultra-quatro-2026-11-25.json) informa hashes e intervalos lidos.
+
+| ES | Linhas V3 original → Ultra | Maior intervalo entre inícios de segmento | Leitura e limites |
+| --- | ---: | --- | --- |
+| 151 | 216 → 319 | 151 → 41 s | Espanhol mais contínuo; ainda há erros de nomes/URLs e repetição de fronteira. Sem nova passagem temática. |
+| 153 | 267 → 341 | 93 → 43 s; reparo V3 intermediário: 75 s | Persistem termos deformados e uma expressão monetária incoerente a 12:38–12:49, sem uso como dado. Sem nova passagem temática. |
+| 154 | 298 → 438 | 120 → 39 s; reparo V3 intermediário: 34 s | Legibilidade melhora, mas nem toda métrica de segmentação melhora frente ao reparo anterior. Persistem nomes e erros semânticos. Sem nova passagem temática. |
+| 145 | 300 → 351 | 143 → 50 s | A nova versão registra B6/B12/B9 na discussão de homocisteína e recupera fala em 24:42–26:28. Introduz também repetição espúria de uma palavra em 23:36, preservada como erro, sem ser aceita como fala. |
+
+A versão 145 resolve a leitura textual antes corrompida como B2C, sem concluir que B9 no caldo tenha sido medida ou que o episódio fale de repigmentação. A repetição nova não foi apagada, e nenhuma versão foi declarada perfeita. A avaliação é qualitativa, sem referência humana independente, WER ou escuta integral humana. O modelo padrão não foi alterado. A faixa ES147 foi encaminhada separadamente à revisão de qualidade e ainda não integra este corte de quatro.
+
 ### Episódios posteriores à base de 11 de novembro
 
 A reconsulta dos RSS em **25 de novembro** encontrou **610 itens em inglês**, contra 608 na base, e **191 em espanhol**, contra 189. Os quatro GUIDs novos são um suplemento. Eles não alteram retroativamente os denominadores das filas de 237 e 189 acima. O [manifesto suplementar](wapf-episodios-suplementares-2026-11-25.json) preserva páginas, enclosures e durações declaradas pelos feeds.

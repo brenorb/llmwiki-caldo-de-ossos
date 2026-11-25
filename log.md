@@ -805,3 +805,7 @@ O [suplemento](raw/inventario-wapf-receitas.md#episódios-posteriores-à-base-de
 ## [2026-11-25] revisão | Creme de coco e leite de coco nas barras de abóbora
 
 A [ficha das barras](wiki/temas/aplicacoes-culinarias.md#barras-de-abóbora-com-peptídeos) distingue o creme da cartela do leite na receita escrita e localiza a diferença de adoçante. A revisão mais densa das imagens permitiu conferir essas cartelas específicas.
+
+## [2026-11-25] revisão | Inventário dos 904 vídeos e fila ampla de Mark's Daily Apple
+
+O [inventário por ID](raw/youtube-cobertura-2026-11-25.tsv) e o [método de conciliação](raw/inventario-mark-receitas.md#ampliação-para-menções-incidentais-no-canal-marks-daily-apple) expõem a cobertura e as remissões. A fila ampla passa a processar também vídeos sem termos temáticos nos títulos ou descrições, mantendo as etapas de extração e leitura distintas.

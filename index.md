@@ -39,6 +39,8 @@
 
 ## Notas de fonte
 
+- [Antoniou et al. (2019) · Glifosato e substituição da glicina](wiki/fontes/antoniou-2019-glifosato-glicina.md)
+
 - [OMS · Sarampo e limites das alegações sobre caldo](wiki/fontes/oms-sarampo.md)
 - [NHS · Introdução alimentar e alegações sobre caldo para bebês](wiki/fontes/nhs-introducao-alimentar.md)
 

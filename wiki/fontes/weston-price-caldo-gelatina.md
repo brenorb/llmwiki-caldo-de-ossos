@@ -99,6 +99,8 @@ No episódio 180, Joel Salatin reconta uma melhora geral percebida por Sina McCu
 
 ## Textos consultados na reconsulta de novembro
 
+No episódio 174, Sally Fallon Morell propõe proteção contra glifosato pelo consumo de caldo e glicina. O [experimento de Antoniou et al.](antoniou-2019-glifosato-glicina.md) e a contestação de Seneff foram conferidos separadamente da alegação alimentar. A entrevista não apresenta teste do caldo. [Áudio, 13:03–15:06](https://wisetraditions.libsyn.com/174-toxins-that-assail-us)
+
 A carta *The Fertility Crisis: A Reframe*, em *Letters Fall 2026*, inclui caldo entre várias características da alimentação de mulheres atendidas pela autora. Não informa o tamanho da amostra nem mede efeito do caldo sobre concepção ou gestação. O novo alerta de sarampo recomenda uma dieta com caldo e faz uma afirmação sobre gravidade em pessoas bem nutridas, sem testá-la. A entrevista 605 cita caldo e tutano na alimentação infantil, sem avaliar enzimas ou desenvolvimento. A [matriz de relatos e evidência](../temas/relatos-e-evidencia.md) distingue essas afirmações das orientações oficiais consultadas. [Carta](https://www.westonaprice.org/letters-fall-2026/) · [Alerta](https://www.westonaprice.org/measles-information-alert/) · [Entrevista 605](https://www.westonaprice.org/podcast/who-controls-your-babys-first-food-with-dr-melonie-schoenherr/)
 
 A reconsulta dos 15 mapas e dos 45 endereços novos ou com data de alteração está documentada no [inventário de 25 de novembro](../../raw/inventario-wapf-receitas.md#reconsulta-dos-mapas-em-25-de-novembro-de-2026).

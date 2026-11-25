@@ -523,6 +523,19 @@ A conferência do episódio [176 · Junk light](https://wisetraditions.libsyn.co
 
 As faixas espanholas **153 e 154** foram reprocessadas integralmente em **108 e 123 blocos de até 32 s**, respectivamente. A última marca de fala chegou a **00:53:48** e **01:00:57**. No episódio 154, o maior intervalo entre inícios reconhecidos caiu de 120 para 34 s. A nova busca automática não localizou os termos de caldo, gelatina, colágeno, glicina, tutano, sopa ou ossos. Persistem palavras erradas e passagens com idiomas misturados, portanto esse resultado descreve a triagem do texto automático. As saídas originais foram preservadas e o reprocessamento não acrescenta episódios à contagem.
 
+#### Seis faixas e confronto da hipótese sobre glifosato
+
+O corte seguinte, confirmado por GUID, chegou a **112 de 237** áudios das páginas curtas em inglês e **61 de 189** em espanhol. Restavam **125** e **128**. As seis faixas abaixo foram processadas integralmente. As últimas marcas são inícios de enunciados reconhecidos, e não medições do fim da última palavra.
+
+| Episódio | Duração e última marca | Resultado pertinente |
+| --- | --- | --- |
+| [175 · Slow diet in a fast world](https://wisetraditions.libsyn.com/175-farm-to-table-on-slow-down-farmstead) | 33:42 · 33:36 | Caldo na apresentação de Tara Couture, a 01:01. |
+| [174 · Toxins that assail us](https://wisetraditions.libsyn.com/174-toxins-that-assail-us) | 35:45 · 35:38 | A 13:03–15:06, Sally Fallon Morell propõe proteção contra glifosato pelo caldo/glicina. A [nota científica](../wiki/fontes/antoniou-2019-glifosato-glicina.md) distingue a hipótese do experimento e da resposta de Seneff. |
+| [173 · Big fat lie](https://wisetraditions.libsyn.com/173-the-big-fat-lie) | 30:39 · 30:33 | Menção de gelatina em publicidade de cápsulas, a 02:40. |
+| [150 · Entender los contrastes entre un parto fisiológico y uno medicalizado](https://sabiastradiciones.libsyn.com/150-con-laia-casadevall) | 42:30 · 42:21 | Sem menção temática na triagem automática. |
+| [149 · Recomendaciones para criar tus primeras gallinas ponedoras](https://sabiastradiciones.libsyn.com/149-recomendaciones-para-criar-tus-primeras-gallinas-ponedoras-con-ana-luz-muoz-de-tierra-de-todos) | 40:15 · 39:56 | Reaproveitamento da galinha em caldo a 29:30–29:47, sem ficha com medidas. |
+| [148 · La importancia de entender que el alimento es mucho más que comida](https://sabiastradiciones.libsyn.com/148-la-importancia-de-entender-que-el-alimento-es-mucho-ms-que-comida-con-alex-von-foerster-de-alimento-y-conciencia) | 50:22 · 50:13 | Sem menção temática na triagem automática. |
+
 ## Reconsulta dos mapas em 25 de novembro de 2026
 
 Os **15 mapas** passaram de **6.376 para 6.387 URLs distintas**. O confronto com a captura de 11 de novembro identificou **11 endereços novos**, **34 com `lastmod` diferente** e nenhum removido. Os **45 endereços** foram abertos, todos com HTTP 200, e seus textos extraídos foram triados por termos temáticos. Dez tiveram correspondências, incluindo índices que repetem conteúdo já inventariado. O [manifesto público](wapf-atualizacao-2026-11-25.json) enumera cada endereço, suas datas, o estado de acesso e o hash do texto extraído. O método não compara novamente todos os 6.387 corpos e não prova que o conteúdo dos outros endereços permaneceu igual. [Índice atual dos mapas](https://www.westonaprice.org/sitemap_index.xml)

@@ -785,3 +785,7 @@ A [ficha culinária](wiki/temas/aplicacoes-culinarias.md#café-frio-com-creme-de
 ## [2026-11-25] ingestão | Atualização dos mapas e novas afirmações da WAPF
 
 O [inventário](raw/inventario-wapf-receitas.md#reconsulta-dos-mapas-em-25-de-novembro-de-2026) e o [manifesto de 45 páginas](raw/wapf-atualizacao-2026-11-25.json) documentam a atualização dos mapas para 6.387 URLs. A [matriz](wiki/temas/relatos-e-evidencia.md) incorpora a carta sobre gestação, o alerta de sarampo e a entrevista sobre alimentação infantil, com as notas da [OMS](wiki/fontes/oms-sarampo.md) e do [NHS](wiki/fontes/nhs-introducao-alimentar.md). As notas distinguem recomendações e depoimentos de testes clínicos do caldo.
+
+## [2026-11-25] ingestão | Hipótese de proteção contra glifosato e mais seis faixas
+
+O [inventário](raw/inventario-wapf-receitas.md#seis-faixas-e-confronto-da-hipótese-sobre-glifosato) incorpora seis áudios e localiza a hipótese de Sally Fallon Morell. A [nota de Antoniou et al.](wiki/fontes/antoniou-2019-glifosato-glicina.md), a [busca registrada](raw/busca-saude.md#glifosato-glicina-e-caldo-em-25-de-novembro) e a [matriz](wiki/temas/relatos-e-evidencia.md) separam mecanismo, contestação e proteção clínica ainda não testada pelas fontes localizadas.

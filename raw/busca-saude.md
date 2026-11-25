@@ -24,6 +24,12 @@ Voltar a [Alegações de saúde](../wiki/temas/alegacoes-saude.md).
 
 A reconsulta de páginas novas ou com data alterada encontrou afirmações sobre caldo numa dieta durante sarampo e na alimentação de bebês. Foram lidas as páginas institucionais da [OMS sobre sarampo](../wiki/fontes/oms-sarampo.md) e do [NHS sobre introdução alimentar](../wiki/fontes/nhs-introducao-alimentar.md), com registro de suas versões. São orientações e não ensaios que testem o efeito do caldo.
 
+## Glifosato, glicina e caldo em 25 de novembro
+
+A passagem de *Wise Traditions* 174, **13:03–15:06**, levou à leitura integral de Antoniou et al. (2019), de seu suplemento S1, da figura 3 e da resposta de Seneff. Também foi lido Sopko et al. (2021), sobre outro mecanismo. Os trabalhos localizados posteriormente sobre alterações proteômicas, metabolismo microbiano ou interação com proteínas não foram tratados como confirmação de substituição de glicina. [Nota de fonte](../wiki/fontes/antoniou-2019-glifosato-glicina.md)
+
+A consulta no Europe PMC `glyphosate AND ("bone broth" OR "bone stock")` retornou **zero registros**. Buscas web complementares por `glyphosate glycine bone broth protection trial`, `"bone broth" "glyphosate" "clinical trial"` e variantes de suplementação não localizaram ensaio de proteção pelo caldo. A consulta no ClinicalTrials.gov foi pelo índice web, sem busca completa da API. O resultado descreve essa estratégia e não prova ausência universal de estudos. XML integral do artigo, suplemento, figura, resposta e retornos da busca foram preservados no acervo local.
+
 ## Fontes consultadas e hashes das cópias locais
 
 Arquivos recuperados em 2026-11-11. Os PDFs estão sob CC BY, conforme avisos nas publicações. Para as demais fontes, as notas fornecem links e detalhes de acesso.

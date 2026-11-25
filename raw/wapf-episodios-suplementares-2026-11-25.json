@@ -41,7 +41,37 @@
       "media": "https://traffic.libsyn.com/secure/sabiastradiciones/Ep._188-Entrevista_Veronica_Sieira_FINAL.mp3?dest-id=863873",
       "rss_duration": "44:12",
       "transcript_heading": false,
-      "coverage": "whole audio transcribed; recognition review in progress"
+      "coverage": "whole audio transcribed twice; entire Ultra transcript read through closing disclaimer",
+      "duration_seconds": 2651.559063,
+      "first_timestamp": "00:00:01",
+      "last_timestamp": "00:44:01",
+      "whole_audio_transcribed": true,
+      "entire_ultra_transcript_read": true,
+      "thematic_result": "Nenhuma passagem de caldo, receita, composição ou repigmentação identificada na leitura integral da revisão Ultra.",
+      "recognition_reviews": [
+        {
+          "model": "parakeet-v3-int8",
+          "original_preserved": true,
+          "first_timestamp": "00:00:01",
+          "last_timestamp": "00:44:01",
+          "timestamp_lines": 213,
+          "max_timestamp_gap_seconds": 103,
+          "backward_timestamp_steps": 1,
+          "transcript_sha256": "7a3046bce22437a40ef1511838fcd3c27f60cc9107c9f879bea5220cadea9f94"
+        },
+        {
+          "model": "parakeet-ultra",
+          "original_preserved": true,
+          "first_timestamp": "00:00:01",
+          "last_timestamp": "00:44:01",
+          "timestamp_lines": 332,
+          "max_timestamp_gap_seconds": 39,
+          "backward_timestamp_steps": 0,
+          "transcript_sha256": "fb08391b7637520a766699e516497096d98af0c3bcd990890691e9053e3fbb15",
+          "device": "mps"
+        }
+      ],
+      "recognition_quality": "Ultra produziu espanhol substancialmente mais contínuo e legível nestes dois áudios. Persistem erros de nomes e pequenas repetições entre blocos. Contagem de marcas e intervalos não mede acurácia; não houve referência humana independente ou WER."
     },
     {
       "language": "es",
@@ -52,7 +82,38 @@
       "media": "https://traffic.libsyn.com/secure/sabiastradiciones/Ep._187_-_Veronica_Sieira_FINAL_2.mp3?dest-id=863873",
       "rss_duration": "50:47",
       "transcript_heading": false,
-      "coverage": "whole audio transcribed; recognition review in progress"
+      "coverage": "whole audio transcribed twice; entire Ultra transcript read through closing disclaimer",
+      "duration_seconds": 3046.631646,
+      "first_timestamp": "00:00:01",
+      "last_timestamp": "00:50:23",
+      "whole_audio_transcribed": true,
+      "entire_ultra_transcript_read": true,
+      "thematic_result": "Nenhuma passagem de caldo, receita, composição ou repigmentação identificada na leitura integral da revisão Ultra.",
+      "recognition_reviews": [
+        {
+          "model": "parakeet-v3-int8",
+          "original_preserved": true,
+          "first_timestamp": "00:00:01",
+          "last_timestamp": "00:50:23",
+          "timestamp_lines": 365,
+          "max_timestamp_gap_seconds": 63,
+          "backward_timestamp_steps": 2,
+          "transcript_sha256": "1fcd4c918bc02fb00e5ff8e5b7fb26a4fecf75fe47c4cd1c74c8c8a6aac7b2f9"
+        },
+        {
+          "model": "parakeet-ultra",
+          "original_preserved": true,
+          "first_timestamp": "00:00:01",
+          "last_timestamp": "00:50:23",
+          "timestamp_lines": 418,
+          "max_timestamp_gap_seconds": 29,
+          "backward_timestamp_steps": 3,
+          "transcript_sha256": "e05cb431c8f9b075a3419f52a89bb5fa35a6ccadeb1ef1872322b8c1167cc56c",
+          "device": "mps"
+        }
+      ],
+      "recognition_quality": "Ultra produziu espanhol substancialmente mais contínuo e legível nestes dois áudios. Persistem erros de nomes e pequenas repetições entre blocos. Contagem de marcas e intervalos não mede acurácia; não houve referência humana independente ou WER."
     }
-  ]
+  ],
+  "supplement_excluded_from_baseline_denominators": true
 }

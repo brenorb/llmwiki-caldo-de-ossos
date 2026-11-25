@@ -106,3 +106,17 @@ A carta *The Fertility Crisis: A Reframe*, em *Letters Fall 2026*, inclui caldo 
 A reconsulta dos 15 mapas e dos 45 endereços novos ou com data de alteração está documentada no [inventário de 25 de novembro](../../raw/inventario-wapf-receitas.md#reconsulta-dos-mapas-em-25-de-novembro-de-2026).
 
 Veja [receitas de caldo](../temas/receitas-caldo.md), [receitas com gelatina](../temas/receitas-gelatina.md), [comparação de evidência](../temas/relatos-e-evidencia.md) e [registro de busca](../../raw/busca-receitas-relatos.md).
+
+
+## Relatos e recomendações no novo corte de áudio
+
+O [corte de 18 GUIDs](../../raw/inventario-wapf-receitas.md#corte-congelado-de-dezoito-guids-em-25-de-novembro) acrescenta 10h57min06s de áudio integral transcrito à base de 11 de novembro. Foram lidos os contextos sinalizados e os encerramentos; isso não é leitura integral de todos os textos. O corte chega a 127/237 faixas em inglês e 64/189 em espanhol, sem incluir os episódios posteriores ao catálogo inicial.
+
+| Episódio e localização | O que a fonte permite registrar |
+| --- | --- |
+| [27, 27:37–28:30](https://wisetraditions.libsyn.com/27-take-charge-of-your-fertility) | Vicki Braun associa caldo, fermentados e gorduras à saúde intestinal no contexto de fertilidade. Não isola o caldo nem apresenta medidas de concepção ou receita completa. |
+| [52, 22:53–23:22](https://wisetraditions.libsyn.com/52-practical-tips-for-parents) | Kelly relata levar caldo descongelado e temperado a uma família no hospital após acidente de uma criança. É uso culinário e cuidado familiar; não relata resultado causado pelo caldo. |
+| [131, 03:12–06:36](https://wisetraditions.libsyn.com/131-from-picky-kid-to-healthy-eater) | Jennifer Scribner relata mudanças numa criança com suspeita de TEA durante dieta GAPS. O caldo de carne é inicialmente recusado. Não há comparação do ingrediente isolado. [Piloto multicomponente](abele-2021-scd-gaps-autismo.md) · [Diretriz NICE](nice-cg170-autismo-dietas.md) |
+| [142, 16:58–17:12 e 17:33–17:42](https://wisetraditions.libsyn.com/142-how-to-have-the-healthiest-babies-principle-11) | Sally Fallon Morell inclui caldo na dieta de pré-concepção e gestação e sugere gema em sopa ou molho, sem proporções. O contexto sobre folato, retinol e leite cru foi [comparado às orientações do CDC e NHS](cdc-nhs-gestacao.md). Não mede B9 no caldo ou repigmentação. |
+
+ES145 e ES147 mencionam B9 ao discutir homocisteína, sem relação com caldo ou pigmentação. A identificação de uma outra vitamina em ES145 permanece incerta no ASR. Os dois episódios suplementares ES187/188 tiveram nova transcrição integral Ultra e leitura de todas as linhas até os encerramentos, sem novas passagens temáticas. Isso melhora a legibilidade desses textos, sem demonstrar reconhecimento perfeito. [Versões e limites](../../raw/inventario-wapf-receitas.md#episódios-posteriores-à-base-de-11-de-novembro)

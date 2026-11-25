@@ -179,6 +179,7 @@
 - [Daulatabad et al. (2017) · Folato sérico e cabelos brancos precoces](wiki/fontes/daulatabad-2017-folato-canitie.md)
 - [Kim et al. (2013) · Menadiona e síntese de melanina em células cultivadas](wiki/fontes/kim-2013-menadiona-melanina.md)
 - [Referências oficiais sobre folato e vitamina K](wiki/fontes/referencias-folato-vitamina-k.md)
+- [CDC e NHS · B9 e cuidados alimentares na gestação](wiki/fontes/cdc-nhs-gestacao.md)
 - [Yadav et al. (2022) · Micronutrientes e cabelos brancos precoces em adolescentes](wiki/fontes/yadav-2022-folato-canitie.md)
 
 - [Kesterson (2018) · Vitamina K em caldo de ossos bovino](wiki/fontes/kesterson-2018-vitamina-k-caldo.md)

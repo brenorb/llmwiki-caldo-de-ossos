@@ -827,3 +827,8 @@ O [inventário visual por ID](raw/youtube-revisao-visual-34-2026-11-25.tsv) regi
 ## [2026-11-25] ingestão | 24 textos integrais do canal e menções a caldo em cubos
 
 O [corte por ID](raw/youtube-mda-leitura-24-2026-11-25.json) preserva a leitura dos 24 textos, a cobertura dos blocos e a pendência audiovisual. O [inventário](raw/inventario-mark-receitas.md#primeiro-lote-amplo-de-marks-daily-apple-lido), a [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) e a [matriz](wiki/temas/relatos-e-evidencia.md) incorporam as três passagens temáticas e a retriagem de bouillon, mantendo suplemento, cubos de caldo e caldo de ossos distintos.
+
+
+## [2026-11-25] ingestão | Mais 18 faixas e revisão espanhola integral
+
+O [corte de áudio](raw/wapf-corte-audio-2026-11-25-18-guids.json) chega a 127/237 EN e 64/189 ES, preservando a diferença entre transcrição integral e leitura contextual. O [inventário](raw/inventario-wapf-receitas.md#corte-congelado-de-dezoito-guids-em-25-de-novembro) localiza relatos e usos culinários; a [nota de fonte](wiki/fontes/weston-price-caldo-gelatina.md#relatos-e-recomendações-no-novo-corte-de-áudio) incorpora os episódios 27, 52, 131 e 142. A [comparação CDC/NHS](wiki/fontes/cdc-nhs-gestacao.md) contextualiza as afirmações sobre pré-natal. A revisão Ultra integral ES187/188 está concluída e documentada no [suplemento](raw/wapf-episodios-suplementares-2026-11-25.json), com limitações preservadas.

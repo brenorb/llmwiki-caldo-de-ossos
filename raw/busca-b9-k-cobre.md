@@ -13,3 +13,10 @@ Consulta complementar de 2026-11-11. As buscas combinaram `folate`, `folic acid`
 - A busca por ácido fólico em tratamentos combinados localizou [Sakhiya et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6892010/). Foram consultados o relato, as figuras e as declarações. O caso incluiu ácido fólico em uma formulação com vários ingredientes e tratamento tópico simultâneo.
 
 [Componentes por caldo](../wiki/temas/componentes-por-caldo.md) · [Cabelos brancos](../wiki/temas/cabelos-brancos.md)
+
+
+## Pré-natal e contexto do episódio 142 em 25 de novembro
+
+Consultadas as páginas primárias [CDC, Folic Acid: Facts for Clinicians](https://www.cdc.gov/folic-acid/hcp/clinical-overview/index.html), versão de 15/07/2026, e [NHS, Pregnancy vitamins and supplements](https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/), revisão de 03/06/2026, mais [Foods to avoid in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/). O leitor web expôs as seções sobre prevenção de defeitos do tubo neural, formas de folato, unidades de rótulo, suplementos com retinol, fígado e laticínios não pasteurizados. Foram lidas essas seções; não se trata de busca sistemática de toda a literatura obstétrica.
+
+A [nota institucional](../wiki/fontes/cdc-nhs-gestacao.md) contextualiza afirmações atribuídas a Sally Fallon Morell no [corte da entrevista 142](wapf-corte-audio-2026-11-25-18-guids.json). Os áudios ES145 e ES147 mencionam B9 na discussão de homocisteína, sem medir folato no caldo ou pigmentação. Os denominadores do catálogo inicial permanecem separados das atualizações.

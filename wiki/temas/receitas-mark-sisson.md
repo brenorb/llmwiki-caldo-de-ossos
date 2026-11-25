@@ -53,6 +53,18 @@ Na ficha *Sausage Stew*, p. **111–113**, o livro descreve um fundo rápido com
 
 O vídeo de divulgação de *The Primal Blueprint Cookbook*, de Sisson e Jennifer Meier, mostra **Transylvanian Stockpot** com **3 cups de caldo de frango** e **seis porções**, a **00:34,5**. A parte inferior da página está fora da imagem; ingredientes, preparo e carboidratos completos permanecem sem confirmação. A página de *Cauliflower Rice* menciona servir com caldo ou molho, sem tipo ou quantidade. É outra edição/contexto de acesso, separado das prévias de 2018 acima. [Vídeo primário](https://www.youtube.com/watch?v=cHep3Ths5AE&t=34s) · [Método e limites](../../raw/inventario-mark-receitas.md#terceiro-lote-amplo-27-textos-e-uma-revisão-visual-separada)
 
+### Sopa de repolho e linguiça, versão de Julia Mueller
+
+Mueller apresenta uma versão inspirada no *Transylvanian Stockpot*. A [ficha atual, revisão de 04/06/2025](https://www.theroastedroot.net/paleo-transylvanian-stockpot/), rende **4–6 porções**:
+
+- **1 colher de sopa de azeite; 1 cebola grande; 5 tiras de bacon; 3 dentes de alho; 1½ lb de linguiça italiana de peru (cerca de 680 g); 1 lata de tomate picado de 28 oz, escorrido; 32 oz de caldo de frango (aproximadamente 950 mL); 1 colher de chá de páprica; 1 pau pequeno de canela; 1 repolho verde; ½ colher de chá de sal; iogurte natural opcional.**
+
+Refogue cebola no azeite, junte bacon, depois alho e linguiça. Doure. Adicione páprica, tomate, caldo, canela e sal; ferva e junte repolho fatiado. Tampe e cozinhe em fogo baixo por **45–60 min**. Retire a canela e sirva, com iogurte opcional.
+
+A autora estima **24 g de carboidratos por ¼ do lote**, por cálculo automático. Essa referência não é por ⅙. Nas notas, ela atribui ao livro kielbasa, **⅓ de xícara de passas** e **uma xícara a menos de caldo**; a ficha acima é sua variante.
+
+**Para reduzir carboidratos:** confira açúcar nos embutidos e no caldo e mantenha a variante sem passas. Repolho, cebola e tomate ainda contribuem; não foi recalculada uma versão keto. Servir sem iogurte oferece a opção sem laticínios. [Conservação](seguranca-conservacao.md)
+
 ## Sopas de Primal Blueprint Quick & Easy Meals
 
 A prévia digital de Mark Sisson e Jennifer Meier confirma as quantidades de fundo de frango em três sopas. As xícaras da edição foram convertidas para mililitros. A prévia disponibiliza trechos dos métodos. [Catálogo da edição digital](https://play.google.com/store/books/details/Jennifer_Meier_Primal_Blueprint_Quick_and_Easy_Mea?id=Gm2_EQAAQBAJ)

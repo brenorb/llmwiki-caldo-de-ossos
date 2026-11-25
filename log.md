@@ -887,3 +887,8 @@ Os cortes de [27](raw/youtube-mda-leitura-27-2026-11-25.json) e [13](raw/youtube
 ## [2026-11-25] revisão | Quatro versões espanholas reprocessadas e lidas integralmente
 
 O [comparativo por GUID](raw/wapf-revisao-ultra-quatro-2026-11-25.json) registra 1.449 linhas novas lidas, preservando as versões V3. O [inventário](raw/inventario-wapf-receitas.md#nova-leitura-integral-das-versões-espanholas-151-153-154-e-145) apresenta melhora qualitativa e falhas restantes, inclusive um novo artefato de repetição. A menção a B9 continua sem dado de composição ou repigmentação do caldo e os episódios não foram contados novamente.
+
+
+## [2026-11-25] ingestão | Variante completa do Stockpot com autoria preservada
+
+A pista visual do livro levou à [ficha completa de Julia Mueller](wiki/temas/receitas-mark-sisson.md#sopa-de-repolho-e-linguiça-versão-de-julia-mueller). A receita registra medidas, preparo, diferenças entre versões e a porção do cálculo de carboidratos. O [registro de acesso](raw/mueller-stockpot-acesso-2026-11-25.json) distingue a variante da página parcial do livro e não utiliza agregadores para preencher suas lacunas.

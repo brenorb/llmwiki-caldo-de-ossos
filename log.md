@@ -847,3 +847,8 @@ As [duas fichas da WAPF](wiki/temas/receitas-peptideos.md#duas-receitas-adiciona
 ## [2026-11-25] revisão | Entrevista The Life Possible 82
 
 O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-life-possible-com-john-l-barnes) e o [registro da fonte](raw/sisson-life-possible-82-2026-11-25.json) preservam a leitura integral do texto editorial, a data absoluta de publicação, a duração e as falhas automáticas. A entrevista não acrescentou receita ou relato temático localizado no texto e permaneceu fora dos denominadores dos canais YouTube.
+
+
+## [2026-11-25] revisão | Leitura integral das 18 transcrições da WAPF
+
+A leitura posterior completou [18 textos e 6.115 linhas](raw/wapf-leitura-integral-18-2026-11-25.json), preservando os hashes e o corte contextual anterior. O [inventário](raw/inventario-wapf-receitas.md#leitura-integral-posterior-das-dezoito-transcrições), a nota da WAPF e a matriz incorporam os contextos de apoio testemunhal à dieta e de alimentação infantil. Intervalos de reconhecimento pouco claros seguem em rechecagem e os denominadores não foram alterados.

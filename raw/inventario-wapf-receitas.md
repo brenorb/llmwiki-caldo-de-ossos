@@ -569,6 +569,22 @@ No episódio 27, o caso de fertilidade e as recomendações envolvem várias mud
 
 O episódio 145 contém um enunciado automático de cerca de **143 s** e o erro vitamínico indicado na tabela. Os **90 s finais** foram reprocessados e confirmaram o aviso editorial até a marca **48:50**; a faixa dura **49:35**. As lacunas do reconhecimento não foram tratadas como prova de silêncio. A revisão de qualidade adicional permanece separada da contagem de GUIDs.
 
+#### Leitura integral posterior das dezoito transcrições
+
+Depois da triagem contextual, foram lidas **18/18 transcrições automáticas, 6.115 linhas**, em faixas sequenciais. O [registro por GUID](wapf-leitura-integral-18-2026-11-25.json) preserva todos os intervalos de linhas lidos, seus horários e hashes iguais aos do corte congelado anterior. Isso completa a leitura desses textos, sem acrescentar episódios ou alterar 127/237 EN e 64/189 ES. Não equivale a escuta humana integral ou a reconhecimento de todas as palavras da mídia.
+
+| Contexto adicional | Implicação para a interpretação |
+| --- | --- |
+| EN27, **17:18–18:14** | Outro relato de gestação após recomendações alimentares, sem efeito isolado do caldo. |
+| EN52, **13:25–14:24 e 19:53–21:59** | Kelly questiona pressão, privação e batalhas alimentares; é um contraste interno com as estratégias discutidas no 131. |
+| EN131, **16:57–18:24** | A convidada descreve sintomas durante mudança brusca de dieta infantil e os associa a baixa glicemia; propõe mel com gordura. São afirmações da fonte, sem avaliação comparativa, que não constituem protocolo clínico validado. |
+| EN142, **24:00–24:53** | Fallon diz desejar um estudo e apresenta cartas e fotos como apoio à eficácia alegada da dieta. O suporte descrito é testemunhal. |
+| ES145, **01:23–01:39** | O aviso inicial corrige uma unidade de colesterol para mg/dL. Não é dado de composição do caldo. |
+| EN69 e EN97 | O relato de psoríase não contém caldo; o bálsamo de sebo é tópico. Nenhum foi confundido com vitiligo, caldo ingerido ou repigmentação. |
+| EN47, EN166 e EN142 | Menções a proteoglicanos ou vitaminas em outros contextos não medem nutrientes do caldo. No 142, a chamada sobre vitamina K refere-se a óleo de emu. |
+
+A leitura encontrou trechos que exigem conferência adicional do reconhecimento: **EN142 01:58–03:56**, **EN168 02:27–03:56** e enunciados muito longos em **ES147**. As marcas são inícios de segmentos, portanto esses intervalos não provam silêncio ou omissão por si sós. As rechecagens preservam as versões anteriores e serão registradas separadamente. Não apareceu nova medição percentual de componentes, quantidade de folato no caldo ou repigmentação no texto lido.
+
 ### Episódios posteriores à base de 11 de novembro
 
 A reconsulta dos RSS em **25 de novembro** encontrou **610 itens em inglês**, contra 608 na base, e **191 em espanhol**, contra 189. Os quatro GUIDs novos são um suplemento. Eles não alteram retroativamente os denominadores das filas de 237 e 189 acima. O [manifesto suplementar](wapf-episodios-suplementares-2026-11-25.json) preserva páginas, enclosures e durações declaradas pelos feeds.

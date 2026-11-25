@@ -1,0 +1,926 @@
+{
+  "date": "2026-11-25",
+  "refers_to": "wapf-corte-audio-2026-11-25-18-guids.json",
+  "method": "Leitura integral das 18 transcrições automáticas, em faixas sequenciais; cobertura das linhas e identidade SHA-256 conferidas. Não é escuta humana integral, reconhecimento perfeito ou validação clínica.",
+  "confirmed_audio_counts_unchanged": {
+    "en": 127,
+    "es": 64
+  },
+  "baseline_denominators_unchanged": {
+    "en": 237,
+    "es": 189
+  },
+  "supplementary_episodes_included": false,
+  "transcripts_read": 18,
+  "lines_read": 6115,
+  "result": "Não foram localizados novos valores de composição do caldo, folato do caldo ou repigmentação no texto lido. O resultado não elimina os limites do reconhecimento.",
+  "rows": [
+    {
+      "key": "18",
+      "guid": "392feedd7c1d5188a69899c4fad4a2f4",
+      "title": "#18 The marvelous pigness of pigs",
+      "total_lines": 281,
+      "sha256": "479858c90d87596600a855ee68cebc3ecb3ba4dcf3244603fc480b20a818be7a",
+      "read_line_ranges": [
+        [
+          1,
+          180
+        ],
+        [
+          181,
+          281
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [],
+      "limitations": [
+        "Erros de nomes e longos enunciados/repetições automáticas, notadamente04:54–06:05 e11:46–13:47. Sem nova passagem de caldo."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 180,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:21:14"
+        },
+        {
+          "first_line": 181,
+          "last_line": 281,
+          "first_timestamp": "00:21:17",
+          "last_timestamp": "00:30:34"
+        }
+      ],
+      "timestamp_gaps_over_55s": [
+        {
+          "from_line": 60,
+          "to_line": 61,
+          "seconds": 71
+        },
+        {
+          "from_line": 112,
+          "to_line": 113,
+          "seconds": 121
+        }
+      ],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/the-marvelous-pigness-of-pigs"
+    },
+    {
+      "key": "27",
+      "guid": "c3ca90e638de20a8ec4d545850dc6a57",
+      "title": "27: Take charge of your fertility",
+      "total_lines": 244,
+      "sha256": "2d186594ecd233fa4561f09c182084158bf7c5e0902adc5e3cac7f8b3b3fa74d",
+      "read_line_ranges": [
+        [
+          1,
+          130
+        ],
+        [
+          131,
+          244
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [
+        {
+          "time": "17:18–18:14",
+          "finding": "Segundo testemunho de gravidez após recomendações dietéticas; não descreve caldo isoladamente e não deve ser confundido com ensaio ou efeito do caldo."
+        }
+      ],
+      "limitations": [
+        "Nomeia pessoas em relatos; a síntese deve manter pacientes sem identificação. Outras alegações sobre fertilidade e contracepção permanecem atribuídas à entrevistada."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 130,
+          "first_timestamp": "00:00:01",
+          "last_timestamp": "00:18:00"
+        },
+        {
+          "first_line": 131,
+          "last_line": 244,
+          "first_timestamp": "00:18:14",
+          "last_timestamp": "00:33:20"
+        }
+      ],
+      "timestamp_gaps_over_55s": [
+        {
+          "from_line": 56,
+          "to_line": 57,
+          "seconds": 57
+        }
+      ],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/27-take-charge-of-your-fertility"
+    },
+    {
+      "key": "172",
+      "guid": "0515dd242e504cd695443eccfc38141c",
+      "title": "172: The soilution",
+      "total_lines": 357,
+      "sha256": "d33844d598803145ee89e30ca387a08a93bbd5d7e2d2826a71bddf336a81984a",
+      "read_line_ranges": [
+        [
+          1,
+          180
+        ],
+        [
+          181,
+          357
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [],
+      "limitations": [
+        "Nenhuma passagem de caldo além da publicidade/menção agrícola já registrada; outras afirmações são sobre solo e clima."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 180,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:16:45"
+        },
+        {
+          "first_line": 181,
+          "last_line": 357,
+          "first_timestamp": "00:16:53",
+          "last_timestamp": "00:32:12"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/172-the-soilution"
+    },
+    {
+      "key": "28",
+      "guid": "922d09d97496d7d6f5e479091538218d",
+      "title": "#28 Fat does a body good",
+      "total_lines": 265,
+      "sha256": "e6a58ec0fec94b7f75ba79576427808182385bfbe7f99fe9aaa98bd5cc6ec5ca",
+      "read_line_ranges": [
+        [
+          1,
+          140
+        ],
+        [
+          141,
+          265
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [],
+      "limitations": [
+        "Sem caldo ou composição de caldo; discussão geral de gorduras."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 140,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:16:28"
+        },
+        {
+          "first_line": 141,
+          "last_line": 265,
+          "first_timestamp": "00:16:35",
+          "last_timestamp": "00:33:03"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/fat-does-a-body-good"
+    },
+    {
+      "key": "47",
+      "guid": "66b696fcd04a67bc27306c122c840518",
+      "title": "47: Fuel for the athlete",
+      "total_lines": 253,
+      "sha256": "8f0a20ff04aee5c59aaca7b4112309bbdfbe3b2a6c7565722152dd45658ebedc",
+      "read_line_ranges": [
+        [
+          1,
+          130
+        ],
+        [
+          131,
+          253
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [
+        {
+          "time": "26:32–26:48",
+          "finding": "Afirmação sobre glicose, proteoglicanos e articulações no contexto de dieta cetogênica; não menciona caldo ou mede seus componentes."
+        }
+      ],
+      "limitations": [
+        "Receitas de combustível esportivo/pemmican não contêm caldo. Repetições automáticas e nomes corrompidos."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 130,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:16:00"
+        },
+        {
+          "first_line": 131,
+          "last_line": 253,
+          "first_timestamp": "00:16:09",
+          "last_timestamp": "00:31:51"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/47-fuel-for-the-athlete"
+    },
+    {
+      "key": "es-147",
+      "guid": "25f66125-ade9-4963-bdd8-d0d4b98f9791",
+      "title": "147: Cuidado con los medicamentos para bajar el colesterol, con la Dra. Nayra Txasko",
+      "total_lines": 293,
+      "sha256": "4118fc95146ce07e3b61ab8f721af8c5fb4d587a90ef4b8bd7874ad938246a6a",
+      "read_line_ranges": [
+        [
+          1,
+          145
+        ],
+        [
+          146,
+          220
+        ],
+        [
+          221,
+          293
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [],
+      "limitations": [
+        "Enunciados automáticos muito longos em21:33–23:36,32:34–37:04 e38:27–43:16; podem ocultar omissões do reconhecimento. B9/homocisteína confirmado no contexto, sem caldo. Outras alegações de estatinas/clima ficam fora da conclusão de caldo."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 145,
+          "first_timestamp": "00:00:01",
+          "last_timestamp": "00:23:45"
+        },
+        {
+          "first_line": 146,
+          "last_line": 220,
+          "first_timestamp": "00:23:49",
+          "last_timestamp": "00:46:22"
+        },
+        {
+          "first_line": 221,
+          "last_line": 293,
+          "first_timestamp": "00:46:27",
+          "last_timestamp": "00:54:33"
+        }
+      ],
+      "timestamp_gaps_over_55s": [
+        {
+          "from_line": 140,
+          "to_line": 141,
+          "seconds": 123
+        },
+        {
+          "from_line": 158,
+          "to_line": 159,
+          "seconds": 72
+        },
+        {
+          "from_line": 159,
+          "to_line": 160,
+          "seconds": 61
+        },
+        {
+          "from_line": 191,
+          "to_line": 192,
+          "seconds": 68
+        },
+        {
+          "from_line": 192,
+          "to_line": 193,
+          "seconds": 270
+        },
+        {
+          "from_line": 194,
+          "to_line": 195,
+          "seconds": 65
+        },
+        {
+          "from_line": 195,
+          "to_line": 196,
+          "seconds": 289
+        }
+      ],
+      "read_completed_date": "2026-11-25",
+      "url": "https://sabiastradiciones.libsyn.com/147-cuidado-con-los-medicamentos-para-bajar-el-colesterol-con-la-dra-nayra-txasko"
+    },
+    {
+      "key": "168",
+      "guid": "1d44006e92334d69b42c2a138d6005d9",
+      "title": "168: Best of 2018",
+      "total_lines": 361,
+      "sha256": "c44dbd370220c04f73dc27641af63c0819919f679c8a77af59bdb70d0bd2f9f4",
+      "read_line_ranges": [
+        [
+          1,
+          180
+        ],
+        [
+          181,
+          361
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [],
+      "limitations": [
+        "Salto de marcas02:27–03:56 no texto automático; leitura completa do texto não prova ausência de fala no intervalo. Compilação de entrevistas, sem caldo identificado."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 180,
+          "first_timestamp": "00:00:07",
+          "last_timestamp": "00:17:48"
+        },
+        {
+          "first_line": 181,
+          "last_line": 361,
+          "first_timestamp": "00:17:53",
+          "last_timestamp": "00:39:53"
+        }
+      ],
+      "timestamp_gaps_over_55s": [
+        {
+          "from_line": 19,
+          "to_line": 20,
+          "seconds": 89
+        }
+      ],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/168-best-of-2018"
+    },
+    {
+      "key": "52",
+      "guid": "cf529e0477992d8dcb97964ace3c28a1",
+      "title": "52: Practical tips for parents",
+      "total_lines": 401,
+      "sha256": "cb0ea749e4883bed91d4b13955e76ed1b46a9ae38f2b04af0050d696bfb804e6",
+      "read_line_ranges": [
+        [
+          1,
+          200
+        ],
+        [
+          201,
+          401
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [
+        {
+          "time": "13:25–14:24;19:53–21:59",
+          "finding": "A entrevistada manifesta desconforto com repetir o mesmo alimento até a criança comer e com privação/pressão; favorece envolvimento culinário e evitar batalha. Contraste contextual pertinente ao relato de manejo alimentar emEN131, sem medir efeito do caldo."
+        }
+      ],
+      "limitations": [
+        "Relatos pessoais de alimentação/comportamento não isolam caldo nem demonstram causalidade."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 200,
+          "first_timestamp": "00:00:01",
+          "last_timestamp": "00:14:57"
+        },
+        {
+          "first_line": 201,
+          "last_line": 401,
+          "first_timestamp": "00:15:01",
+          "last_timestamp": "00:28:21"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/52-practical-tips-for-parents"
+    },
+    {
+      "key": "69",
+      "guid": "646f2b0b58d1b00b114acca8a76a91b0",
+      "title": "69: Improve your microbiome",
+      "total_lines": 329,
+      "sha256": "d6edb51fb15aa83e99e7ea008c242ce3f358ada51806681eb27d568811b33d0d",
+      "read_line_ranges": [
+        [
+          1,
+          165
+        ],
+        [
+          166,
+          329
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [
+        {
+          "time": "30:44–32:21",
+          "finding": "Relato de psoríase tratado com mudanças de dieta, fermentados/extratos e probióticos. Não é vitiligo ou repigmentação e não inclui caldo, apesar do tema pele/intestino."
+        }
+      ],
+      "limitations": [
+        "Longo enunciado31:19–32:21 e alegações amplas sobre microbioma; a leitura não valida estas alegações nem as converte em efeito de caldo."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 165,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:16:50"
+        },
+        {
+          "first_line": 166,
+          "last_line": 329,
+          "first_timestamp": "00:16:59",
+          "last_timestamp": "00:35:06"
+        }
+      ],
+      "timestamp_gaps_over_55s": [
+        {
+          "from_line": 300,
+          "to_line": 301,
+          "seconds": 62
+        }
+      ],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/69-improve-your-microbiome"
+    },
+    {
+      "key": "167",
+      "guid": "b086c7a1fd1e401186049df319f73338",
+      "title": "167: Health from the inside out",
+      "total_lines": 420,
+      "sha256": "032bc97cc51f468e697c27610ce61e6bed797d06b997b0c2c25a6df37ca647a3",
+      "read_line_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          420
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [],
+      "limitations": [
+        "Sem caldo ou composição de caldo. Discussão de alimentação restritiva, hábitos, força e mentalidade; referências a osso são anatômicas."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 150,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:13:48"
+        },
+        {
+          "first_line": 151,
+          "last_line": 300,
+          "first_timestamp": "00:13:50",
+          "last_timestamp": "00:28:26"
+        },
+        {
+          "first_line": 301,
+          "last_line": 420,
+          "first_timestamp": "00:28:33",
+          "last_timestamp": "00:37:52"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/167-health-from-the-inside-out"
+    },
+    {
+      "key": "80",
+      "guid": "6de2a12c79609c3953c2ff022cf4e461",
+      "title": "80: Wise Traditions for really busy people",
+      "total_lines": 362,
+      "sha256": "91d6eb8e24a92536fd6e2e4270d28adb153a183fb06488f5e27116082be303ae",
+      "read_line_ranges": [
+        [
+          1,
+          180
+        ],
+        [
+          181,
+          362
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [],
+      "limitations": [
+        "Sem caldo ou composição de caldo; estratégias de organização de refeições e mudanças graduais."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 180,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:16:57"
+        },
+        {
+          "first_line": 181,
+          "last_line": 362,
+          "first_timestamp": "00:17:05",
+          "last_timestamp": "00:32:14"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/80-wise-traditions-for-really-busy-people"
+    },
+    {
+      "key": "es-146",
+      "guid": "408fc9cf-c025-4e1f-b6a6-a7a45abae7de",
+      "title": "146: Cómo ha cambiado nuestra relación con los alimentos, con Alex von Foerster de Alimento y Conciencia",
+      "total_lines": 463,
+      "sha256": "d7c9b97163d92ea1aac03d2ca2c620ede72cd3e2a2af3ff5a3a1b439e68a47cb",
+      "read_line_ranges": [
+        [
+          1,
+          120
+        ],
+        [
+          121,
+          240
+        ],
+        [
+          241,
+          350
+        ],
+        [
+          351,
+          463
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [],
+      "limitations": [
+        "Pequenas misturas de inglês em05:05; nomes corrompidos; texto no restante legível. Sem caldo, composição ou repigmentação; discussão social/espiritual de alimentos."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 120,
+          "first_timestamp": "00:00:02",
+          "last_timestamp": "00:15:51"
+        },
+        {
+          "first_line": 121,
+          "last_line": 240,
+          "first_timestamp": "00:15:54",
+          "last_timestamp": "00:28:52"
+        },
+        {
+          "first_line": 241,
+          "last_line": 350,
+          "first_timestamp": "00:29:02",
+          "last_timestamp": "00:40:41"
+        },
+        {
+          "first_line": 351,
+          "last_line": 463,
+          "first_timestamp": "00:40:46",
+          "last_timestamp": "00:52:19"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://sabiastradiciones.libsyn.com/146-la-importancia-de-recolectar-con-nuestros-alimentos-con-alex-von-fo"
+    },
+    {
+      "key": "97",
+      "guid": "323bcb73eb2d47336693e0e3cdd15976",
+      "title": "97: Hello tallow",
+      "total_lines": 285,
+      "sha256": "23302f151b2633b1ef4231a20ab6aa828ff6c3e543a5cc76c30555381ec57bd8",
+      "read_line_ranges": [
+        [
+          1,
+          145
+        ],
+        [
+          146,
+          285
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [
+        {
+          "time": "03:01–07:24;20:34–23:13;24:08–25:36",
+          "finding": "Relatos e preparo de bálsamo de sebo tópico, com azeite/óleos essenciais e alegações de pele; sebo e uso tópico não equivalem a caldo ingerido, vitiligo ou repigmentação. Não há formulação percentual completa no episódio."
+        }
+      ],
+      "limitations": [
+        "Termos de ácidos graxos e nomes corrompidos no ASR. Fonte comercial sobre seu próprio produto; não é ensaio de caldo."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 145,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:15:02"
+        },
+        {
+          "first_line": 146,
+          "last_line": 285,
+          "first_timestamp": "00:15:15",
+          "last_timestamp": "00:29:08"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/97-hello-tallow"
+    },
+    {
+      "key": "112",
+      "guid": "580178393306151cd145556bd55265a4",
+      "title": "112: Fasting for weight loss & better health",
+      "total_lines": 275,
+      "sha256": "e272ec9817e58426dda38505f8448bc4c5b008147e7e2bc30cfaf97375a33b7f",
+      "read_line_ranges": [
+        [
+          1,
+          140
+        ],
+        [
+          141,
+          275
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [],
+      "limitations": [
+        "Sem caldo ou composição; recomendações de dieta, movimento e jejum atribuídas ao entrevistado, não avaliadas clinicamente nesta leitura."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 140,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:15:56"
+        },
+        {
+          "first_line": 141,
+          "last_line": 275,
+          "first_timestamp": "00:16:02",
+          "last_timestamp": "00:27:33"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/112-fasting-for-weight-loss-better-health"
+    },
+    {
+      "key": "131",
+      "guid": "c7e0f75f1842fbee262919ef0a72c4bf",
+      "title": "131: From picky kid to healthy eater",
+      "total_lines": 380,
+      "sha256": "beedfb4a012cbbcf2d96f3343a5d21e0a01830f2e32b57256b81fe22b12d4cf5",
+      "read_line_ranges": [
+        [
+          1,
+          190
+        ],
+        [
+          191,
+          380
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [
+        {
+          "time": "16:57–18:24",
+          "finding": "No contexto de mudança brusca alimentar infantil, descreve hipoglicemia, náusea/vômitos, sudorese/tremor e sugere mel com gordura. É fala da entrevistada; não converter em protocolo de manejo infantil. Confirma que o relato combina múltiplas intervenções, não testa caldo."
+        },
+        {
+          "time": "10:43–11:57;27:15–29:01",
+          "finding": "Além do método brusco, descreve ABA, mudanças graduais e negociação com crianças mais velhas; o conselho final é escolher um alimento para incluir. Contexto completo não é só o casoGAPS inicial."
+        }
+      ],
+      "limitations": [
+        "Relato infantil com pré-diagnóstico não tem avaliação clínica independente ou efeito isolado do caldo. O texto contém nomes de pacientes que não precisam ser publicados."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 190,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:16:43"
+        },
+        {
+          "first_line": 191,
+          "last_line": 380,
+          "first_timestamp": "00:16:45",
+          "last_timestamp": "00:31:28"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/131-from-picky-kid-to-healthy-eater"
+    },
+    {
+      "key": "166",
+      "guid": "6c9988b4081b46d0889c145240087a73",
+      "title": "166: Say no to the flu shot",
+      "total_lines": 480,
+      "sha256": "b3eed79b978ca04555d94d2b95e08d074786d4108280eedac6a4cb77d737bc5f",
+      "read_line_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          480
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [
+        {
+          "time": "38:20–39:23",
+          "finding": "Menções a vitaminasA/D/K/C e alimentos em recomendações gerais de dieta. Não contém medição desses nutrientes em caldo nem relação com repigmentação."
+        }
+      ],
+      "limitations": [
+        "Entrevista de opinião sobre vacinação; alegações fora do escopo de caldo não foram tomadas como evidência clínica. Nomes e números de episódio têm errosASR."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 160,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:14:50"
+        },
+        {
+          "first_line": 161,
+          "last_line": 320,
+          "first_timestamp": "00:14:53",
+          "last_timestamp": "00:29:48"
+        },
+        {
+          "first_line": 321,
+          "last_line": 480,
+          "first_timestamp": "00:29:58",
+          "last_timestamp": "00:44:22"
+        }
+      ],
+      "timestamp_gaps_over_55s": [],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/166-say-no-to-the-flu-shot"
+    },
+    {
+      "key": "es-145",
+      "guid": "21359c5c-061e-4ee8-9327-5b0de84d47f9",
+      "title": "145: ¿Por qué le tememos al colesterol si es fundamental para la vida?, con la Dra. Nayra Txasko",
+      "total_lines": 300,
+      "sha256": "fd8f2108bb80f448e7943fde6b733c8d633117f721693e4d92cc24f8f87f7c12",
+      "read_line_ranges": [
+        [
+          1,
+          100
+        ],
+        [
+          101,
+          200
+        ],
+        [
+          201,
+          300
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [
+        {
+          "time": "01:23–01:39",
+          "finding": "Abertura informa correção editorial de unidade da fala sobre colesterol:mg/dL em vez de mg/L. Não é medida do caldo; números não devem ser reproduzidos sem essa correção."
+        }
+      ],
+      "limitations": [
+        "Longos enunciados e erros em termos bioquímicos/unidades; B9/homocisteína confirmado sem caldo, pigmentação ou gestação. RevisãoUltra separada está em fila."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 100,
+          "first_timestamp": "00:00:03",
+          "last_timestamp": "00:15:25"
+        },
+        {
+          "first_line": 101,
+          "last_line": 200,
+          "first_timestamp": "00:15:27",
+          "last_timestamp": "00:32:19"
+        },
+        {
+          "first_line": 201,
+          "last_line": 300,
+          "first_timestamp": "00:33:05",
+          "last_timestamp": "00:48:50"
+        }
+      ],
+      "timestamp_gaps_over_55s": [
+        {
+          "from_line": 103,
+          "to_line": 104,
+          "seconds": 143
+        },
+        {
+          "from_line": 189,
+          "to_line": 190,
+          "seconds": 134
+        },
+        {
+          "from_line": 280,
+          "to_line": 281,
+          "seconds": 121
+        },
+        {
+          "from_line": 281,
+          "to_line": 282,
+          "seconds": 118
+        }
+      ],
+      "read_completed_date": "2026-11-25",
+      "url": "https://sabiastradiciones.libsyn.com/145-por-qu-le-tememos-tanto-al-colesterol-si-es-fundamental-para-la-vida-con-la-dra-nayra-txasko"
+    },
+    {
+      "key": "142",
+      "guid": "b8ea082ee1994aba879e65ad34767c1a",
+      "title": "142: How to have the healthiest babies (principle #11)",
+      "total_lines": 366,
+      "sha256": "8106e2cdc6c5fa4a2f63d60cfaa5dcf05029c2b5dae73e4025ef8f47efa19f9f",
+      "read_line_ranges": [
+        [
+          1,
+          180
+        ],
+        [
+          181,
+          366
+        ]
+      ],
+      "status": "complete",
+      "new_findings": [
+        {
+          "time": "24:00–24:53",
+          "finding": "Ao ser perguntada sobre efetividade, a entrevistada diz desejar um estudo de seus bebês e aponta cartas/fotos/galeria. O suporte apresentado nesta fala é testemunhal, não ensaio da dieta ou do caldo."
+        },
+        {
+          "time": "29:11–29:30",
+          "finding": "Anuncia próximo episódio sobre vitaminaK de óleo de emu; não é dado de vitaminaK no caldo."
+        }
+      ],
+      "limitations": [
+        "Salto entre marcas01:58 e03:56(118s), além de nomes/repetições; o processamento integral do áudio e a leitura integral do texto não provam que toda fala foi reconhecida. Recomendações sobre gestação permanecem atribuídas e já foram encaminhadas à avaliação clínica."
+      ],
+      "read_passages": [
+        {
+          "first_line": 1,
+          "last_line": 180,
+          "first_timestamp": "00:00:00",
+          "last_timestamp": "00:16:52"
+        },
+        {
+          "first_line": 181,
+          "last_line": 366,
+          "first_timestamp": "00:16:55",
+          "last_timestamp": "00:31:04"
+        }
+      ],
+      "timestamp_gaps_over_55s": [
+        {
+          "from_line": 26,
+          "to_line": 27,
+          "seconds": 118
+        }
+      ],
+      "read_completed_date": "2026-11-25",
+      "url": "https://wisetraditions.libsyn.com/142-how-to-have-the-healthiest-babies-principle-11"
+    }
+  ]
+}

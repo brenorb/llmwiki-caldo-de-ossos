@@ -110,7 +110,7 @@ Veja [receitas de caldo](../temas/receitas-caldo.md), [receitas com gelatina](..
 
 ## Relatos e recomendações no novo corte de áudio
 
-O [corte de 18 GUIDs](../../raw/inventario-wapf-receitas.md#corte-congelado-de-dezoito-guids-em-25-de-novembro) acrescenta 10h57min06s de áudio integral transcrito à base de 11 de novembro. Foram lidos os contextos sinalizados e os encerramentos; isso não é leitura integral de todos os textos. O corte chega a 127/237 faixas em inglês e 64/189 em espanhol, sem incluir os episódios posteriores ao catálogo inicial.
+O [corte de 18 GUIDs](../../raw/inventario-wapf-receitas.md#corte-congelado-de-dezoito-guids-em-25-de-novembro) acrescenta 10h57min06s de áudio integral transcrito à base de 11 de novembro. Inicialmente foram lidos os contextos sinalizados e os encerramentos. A [revisão seguinte](../../raw/inventario-wapf-receitas.md#leitura-integral-posterior-das-dezoito-transcrições) completou a leitura de todos os 18 textos, com 6.115 linhas e hashes conferidos; permanecem limites do reconhecimento de fala. O corte chega a 127/237 faixas em inglês e 64/189 em espanhol, sem incluir os episódios posteriores ao catálogo inicial.
 
 | Episódio e localização | O que a fonte permite registrar |
 | --- | --- |
@@ -120,3 +120,5 @@ O [corte de 18 GUIDs](../../raw/inventario-wapf-receitas.md#corte-congelado-de-d
 | [142, 16:58–17:12 e 17:33–17:42](https://wisetraditions.libsyn.com/142-how-to-have-the-healthiest-babies-principle-11) | Sally Fallon Morell inclui caldo na dieta de pré-concepção e gestação e sugere gema em sopa ou molho, sem proporções. O contexto sobre folato, retinol e leite cru foi [comparado às orientações do CDC e NHS](cdc-nhs-gestacao.md). Não mede B9 no caldo ou repigmentação. |
 
 ES145 e ES147 mencionam B9 ao discutir homocisteína, sem relação com caldo ou pigmentação. A identificação de uma outra vitamina em ES145 permanece incerta no ASR. Os dois episódios suplementares ES187/188 tiveram nova transcrição integral Ultra e leitura de todas as linhas até os encerramentos, sem novas passagens temáticas. Isso melhora a legibilidade desses textos, sem demonstrar reconhecimento perfeito. [Versões e limites](../../raw/inventario-wapf-receitas.md#episódios-posteriores-à-base-de-11-de-novembro)
+
+Na leitura integral, o episódio 142 (**24:00–24:53**) apresenta cartas e fotos como suporte à eficácia alegada da dieta e reconhece o desejo de um estudo. No 131 (**16:57–18:24**), a convidada descreve sintomas durante mudança brusca da alimentação infantil e sugere uma intervenção caseira, sem validação clínica nesse diálogo. O episódio 52 oferece outro enfoque sobre pressão alimentar. Esses contextos estão [registrados com seus limites](../../raw/inventario-wapf-receitas.md#leitura-integral-posterior-das-dezoito-transcrições); não modificam a ausência de avaliação isolada do caldo.

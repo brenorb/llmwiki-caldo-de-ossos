@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-25",
+  "scope": "Novo corte congelado de seis GUIDs da base de 11/11, lidos integralmente em texto ASR.",
+  "baseline_date": "2026-11-11",
+  "baseline_denominators": {
+    "en": 237,
+    "es": 189
+  },
+  "previous_confirmed": {
+    "en": 127,
+    "es": 64
+  },
+  "new_unique_guids": {
+    "en": 4,
+    "es": 2
+  },
+  "confirmed_at_cut": {
+    "en": 131,
+    "es": 66
+  },
+  "excluded_supplements": [
+    "43cae84b-dfb0-45d3-837e-8207edc29e27",
+    "74422aa4-2760-4ba8-a721-006607537a1b",
+    "9aa6f160-7431-4191-aae4-5218c53acc4e",
+    "a69fabbc-3430-4c64-9914-f10cf0b3ac95"
+  ],
+  "selection": "Primeiros seis checkpoints concluídos cronologicamente após o corte18, dentro dos manifestos base, excluídos GUIDs suplementares/reprocessamentos. EN147 tinha triagem contextual anterior, mas não leitura integral.",
+  "baseline_reconciliation": "GUIDs das filas base filtrados pelo marco do último checkpoint do corte18 reproduzem127EN/64ES; extras187/188 excluídos por não integrarem filas base.",
+  "total_lines_read": 1943,
+  "total_duration_seconds": 14072.042747,
+  "total_duration_display": "03:54:32",
+  "method": {
+    "read": "Leitura sequencial de todas as linhas de cada texto disponível, inclusive negativos e encerramento; nenhuma busca substituiu a leitura.",
+    "asr": "Artefatos originais parakeet-v3-int8; logs conferidos do bloco 1 ao último bloco N, inclusive conclusão N/N.",
+    "limits": "Conclusão dos blocos e timestamps inicial/final não comprovam reconhecimento de todas as palavras. Não houve escuta humana integral nem aferição independente de acurácia. Intervalos entre inícios de segmentos não equivalem automaticamente a silêncio ou omissão.",
+    "operations": "Nenhuma fila foi reiniciada, ampliada ou iniciada para esta leitura. Reprocessamentos dos mesmos GUIDs não contam como episódios novos."
+  },
+  "items": [
+    {
+      "episode": 165,
+      "guid": "6737a5ebf1354d678121229c79734aaa",
+      "title": "165: Too many meds?",
+      "source": "https://wisetraditions.libsyn.com/165-too-many-meds",
+      "language": "en",
+      "duration": 1491.085669,
+      "total_lines": 293,
+      "sha256": "11cdb26d9944da4f3d5e102c87fa33c62e5980fe6534bef17e4a71f3d8b9d632",
+      "read_line_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          293
+        ]
+      ],
+      "chunk_count": 13
+    },
+    {
+      "episode": 147,
+      "guid": "17d099b6a94046319856fbda9cabb684",
+      "title": "147: Why cook?",
+      "source": "https://wisetraditions.libsyn.com/147-why-cook",
+      "language": "en",
+      "duration": 2015.067689,
+      "total_lines": 318,
+      "sha256": "a64f4117debe21aaf2cce53abe2689069076bcc6da01a68ff6e0f6715f52059b",
+      "read_line_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          318
+        ]
+      ],
+      "chunk_count": 18
+    },
+    {
+      "episode": 163,
+      "guid": "70a07e84e995436e8fc10a014a2b12fa",
+      "title": "163: Mystery ailments",
+      "source": "https://wisetraditions.libsyn.com/163-mystery-ailments",
+      "language": "en",
+      "duration": 1988.571429,
+      "total_lines": 327,
+      "sha256": "b59b8e851622c5f64ccbbef71a4e09333a35d323f3dda5ae4b02458c8d8ca6b1",
+      "read_line_ranges": [
+        [
+          1,
+          170
+        ],
+        [
+          171,
+          327
+        ]
+      ],
+      "chunk_count": 17
+    },
+    {
+      "episode": 144,
+      "guid": "4f5690bb-fbfb-4f94-b7ec-fec8e32a552b",
+      "title": "144: Cuánto dependemos de los seres que muchas veces no vemos en nuestros ecosistemas, con Raimundo Labbe de Yo Regenero",
+      "source": "https://sabiastradiciones.libsyn.com/144-cunto-dependemos-de-los-seres-que-no-vemos-en-nuestros-ecosistemas-con-raimundo-labbe-de-yo-regenero",
+      "language": "es",
+      "duration": 3002.839819,
+      "total_lines": 273,
+      "sha256": "5d53991d062d3faa19d1eed50b2a6bf888538d6544ef6fdda6699d31de9302e0",
+      "read_line_ranges": [
+        [
+          1,
+          140
+        ],
+        [
+          141,
+          273
+        ]
+      ],
+      "chunk_count": 26
+    },
+    {
+      "episode": 162,
+      "guid": "83181e3cd2ab485f9e3380424a414fb0",
+      "title": "162: A wise diet",
+      "source": "https://wisetraditions.libsyn.com/162-a-wise-diet",
+      "language": "en",
+      "duration": 2229.018345,
+      "total_lines": 474,
+      "sha256": "1d0d0d261039ad42480da529f4e72ba8cc73563da177d1ebf4b40a01c5a0c273",
+      "read_line_ranges": [
+        [
+          1,
+          160
+        ],
+        [
+          161,
+          320
+        ],
+        [
+          321,
+          474
+        ]
+      ],
+      "chunk_count": 19
+    },
+    {
+      "episode": 143,
+      "guid": "11d07a11-007f-4c38-aaee-ee1072a7f9f8",
+      "title": "143: La boca es la puerta de entrada a nuestra salud, con la Dra. Mercedes Ramos Vertiz",
+      "source": "https://sabiastradiciones.libsyn.com/143-la-boca-es-la-puerta-de-entrada-a-nuestra-salud-con-la-dra-mercedes-ramos-vertiz",
+      "language": "es",
+      "duration": 3345.459796,
+      "total_lines": 258,
+      "sha256": "75c49444e58374bbee06766e7e517e0f1d09dfe2292bedfc0ac515c9f805f7a8",
+      "read_line_ranges": [
+        [
+          1,
+          130
+        ],
+        [
+          131,
+          258
+        ]
+      ],
+      "chunk_count": 29
+    }
+  ],
+  "stage_warning": "131/237 EN e66/189 ES são conclusão ASR confirmada neste corte congelado; este registro comprova leitura integral de seis textos, não dos197textos acumulados.",
+  "ledger": "wapf-leitura-integral-6-2026-11-25.jsonl"
+}

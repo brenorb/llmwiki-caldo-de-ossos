@@ -207,3 +207,5 @@ A [leitura editorial das 464 páginas da WAPF](raw/wapf-leitura-editorial-464-20
 As [ressalvas das fichas da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#ressalvas-encontradas-nas-fichas-culinárias) preservam divergências e relatos; a [nota de nomenclatura](wiki/fontes/nomenclatura-gelatina-glucosamina.md) confere nomes de proteases e a classe química da glucosamina.
 
 A [leitura auditada dos 207 textos atuais de MDA](raw/mda-leitura-editorial-207-2026-11-25.tsv) distingue corpo disponível e histórico, com [comparação de estimativas, relatos e limites](wiki/fontes/mark-sisson-caldo-gelatina.md#comparação-de-estimativas-e-experiências-nas-páginas-atuais).
+
+O [corte de seis novas leituras WAPF](raw/wapf-leitura-integral-6-2026-11-25.json) separa a conclusão do processamento da leitura do texto e preserva as pendências de qualidade.

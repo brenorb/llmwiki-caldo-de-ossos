@@ -851,3 +851,18 @@ O [registro por fonte](wapf-incorporacao-16-receitas-2026-11-25.json) liga 16 UR
 ### Ressalvas incorporadas da leitura editorial
 
 O [registro de 15 corpos e cinco verbetes institucionais](wapf-ressalvas-receitas-2026-11-25.json) documenta divergências de unidades/autoria, a ressalva explícita sobre a comparação do caldo de camarão, o texto comercial de gelatina e os relatos históricos/pessoais. Os detalhes estão no [catálogo](../wiki/temas/receitas-wapf-catalogo.md#medidas-incompletas-ou-divergentes-na-fonte) e na [nota da WAPF](../wiki/fontes/weston-price-caldo-gelatina.md#ressalvas-encontradas-nas-fichas-culinárias). As falas de saúde da receita de pós-parto foram ligadas à matriz de evidência, sem inferir eficácia a partir da medição de minerais.
+
+### Seis leituras integrais após o corte de dezoito
+
+O [novo corte](wapf-leitura-integral-6-2026-11-25.json) e o [ledger por GUID](wapf-leitura-integral-6-2026-11-25.jsonl) acrescentam leitura integral de **EN165, EN147, EN163, EN162, ES144 e ES143**: **1.943 linhas e 3h54min32s de mídia**. Foram conferidos os hashes físicos de TXT/log/checkpoint, a cobertura de todas as linhas e a conclusão de **122/122 blocos**, sem duplicação dos 18 anteriores. EN147 tinha triagem contextual, mas faltava leitura integral.
+
+A contagem de **conclusão ASR** congelada passa de 127/237 a 131/237 EN e de 64/189 a 66/189 ES. Essa contagem **não significa leitura integral de todos os 197 textos acumulados**, nem é o contador vivo das filas. Os quatro suplementos de RSS continuam fora desses denominadores. Reprocessamentos dos mesmos GUIDs não acrescentam episódios.
+
+| Episódio | Resultado da leitura |
+| --- | --- |
+| EN147, **28:13–28:19** | Sopas coreanas com caldo numa lista de refeições sem glúten. Sem receita medida ou desfecho isolado; sem glúten não significa baixo carboidrato. |
+| EN162, **25:37–26:35** | A entrevistada atribui ao caldo colágeno/glicina e regulação de humor/dopamina; cita molhos e reduções. Não identifica dose, teor ou estudo na passagem. |
+| ES143, **16:23–17:35** | Vitamina K em contexto dental, sem caldo ou medição na bebida. |
+| EN165, EN163 e ES144 | Sem nova passagem temática localizada no texto inteiro; ausência limitada pelo reconhecimento, especialmente no 144. |
+
+**ES144 tem mistura extensa de idiomas**; a revisão alternativa integral está em curso, preservando V3. EN165 22:09–23:36 tem salto contextual a conferir. Os demais intervalos longos e erros estão localizados no ledger, sem presumir silêncio/omissão pelo tempo entre inícios. Nenhum dos seis textos trouxe medição percentual de componentes, B9 no caldo ou relato de repigmentação; esse resultado não cobre palavras perdidas pelo ASR.

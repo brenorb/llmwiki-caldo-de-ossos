@@ -922,3 +922,8 @@ Os cortes de [26](raw/youtube-mda-leitura-26-2026-11-25.json) e [quatro](raw/you
 ## [2026-11-25] revisão | Os 207 corpos disponíveis da coleção atual MDA
 
 O [registro por URL](raw/mda-leitura-editorial-207-2026-11-25.tsv) e seu [resumo](raw/mda-leitura-editorial-207-2026-11-25.json) confirmam 207 corpos, 18.483 linhas e 1.953.475 caracteres lidos, com hashes físicos e faixas conferidos. Introduções sem resposta, remissões e limites históricos permanecem explícitos. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md#comparação-de-estimativas-e-experiências-nas-páginas-atuais) preserva relatos, humor e estimativas distintas; a revisão culinária enriquece fichas existentes e registra aveia com peptídeos como opção que não é low carb.
+
+
+## [2026-11-25] revisão | Seis textos WAPF integrais sem duplicar GUIDs
+
+O [corte de seis](raw/wapf-leitura-integral-6-2026-11-25.json) e seu [ledger](raw/wapf-leitura-integral-6-2026-11-25.jsonl) preservam 1.943 linhas lidas e 122 blocos concluídos, com hashes físicos e faixas conferidos. A contagem de conclusão ASR foi separada da leitura humana do texto. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#novas-leituras-de-seis-episódios) incorpora planejamento culinário e alegações atribuídas, sem dose ou comprovação de humor/dopamina pelo caldo. ES144 permanece com revisão de qualidade integral em curso; EN165 tem salto contextual localizado.

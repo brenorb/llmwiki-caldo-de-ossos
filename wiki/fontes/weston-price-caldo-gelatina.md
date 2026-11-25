@@ -146,3 +146,8 @@ A [revisão integral Ultra de ES151/153/154/145](../../raw/inventario-wapf-recei
 
 
 A [conferência de ES147](../../raw/inventario-wapf-receitas.md#es147-revisão-integral-e-divergências-entre-versões) recuperou em recortes curtos trechos ausentes da versão automática integral, mesmo com mais timestamps nessa versão. As comparações preservam a divergência residual. A menção a B9 continua no contexto de homocisteína, sem medição no caldo ou repigmentação.
+
+
+## Novas leituras de seis episódios
+
+Em [A Wise Diet, 25:37–26:35](https://wisetraditions.libsyn.com/162-a-wise-diet), Sally Fallon Morell atribui ao caldo glicina/colágeno e regulação de humor/dopamina, depois cita molhos e reduções. São alegações da entrevistada: a passagem não fornece concentração, dose ou estudo identificado que demonstre esses efeitos do caldo. Em [Why Cook?, 28:13–28:19](https://wisetraditions.libsyn.com/147-why-cook), sopas coreanas com caldo integram planejamento de refeições sem glúten, sem receita medida ou avaliação clínica. A vitamina K citada no ES143 pertence a discussão dental, sem teor de K no caldo. O [corte de seis textos](../../raw/wapf-leitura-integral-6-2026-11-25.json) preserva leitura integral e limitações de ASR, especialmente ES144, cuja revisão integral está em curso.

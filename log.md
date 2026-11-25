@@ -842,3 +842,8 @@ O [registro de 11 vídeos](raw/youtube-encerramentos-11-2026-11-25.tsv) confirma
 ## [2026-11-25] ingestão | Barras bovinas e sorvete com colágeno
 
 As [duas fichas da WAPF](wiki/temas/receitas-peptideos.md#duas-receitas-adicionais-publicadas-pela-wapf) acrescentam as receitas antes separadas por usarem colágeno em pó. As medidas originais, o rendimento não informado das barras, as alternativas de adoçante e a diferença entre colágeno e gelatina aparecem no catálogo. A [nota de fonte](wiki/fontes/wapf-receitas-colageno.md) e o [registro de acesso](raw/wapf-receitas-colageno-2026-11-25.json) preservam objeto e versões, sem ampliar os denominadores históricos.
+
+
+## [2026-11-25] revisão | Entrevista The Life Possible 82
+
+O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-life-possible-com-john-l-barnes) e o [registro da fonte](raw/sisson-life-possible-82-2026-11-25.json) preservam a leitura integral do texto editorial, a data absoluta de publicação, a duração e as falhas automáticas. A entrevista não acrescentou receita ou relato temático localizado no texto e permaneceu fora dos denominadores dos canais YouTube.

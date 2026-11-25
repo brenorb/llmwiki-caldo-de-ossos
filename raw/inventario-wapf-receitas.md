@@ -866,3 +866,11 @@ A contagem de **conclusão ASR** congelada passa de 127/237 a 131/237 EN e de 64
 | EN165, EN163 e ES144 | Sem nova passagem temática localizada no texto inteiro; ausência limitada pelo reconhecimento, especialmente no 144. |
 
 **ES144 tem mistura extensa de idiomas**; a revisão alternativa integral está em curso, preservando V3. EN165 22:09–23:36 tem salto contextual a conferir. Os demais intervalos longos e erros estão localizados no ledger, sem presumir silêncio/omissão pelo tempo entre inícios. Nenhum dos seis textos trouxe medição percentual de componentes, B9 no caldo ou relato de repigmentação; esse resultado não cobre palavras perdidas pelo ASR.
+
+### Auditoria da cobertura de artigos fora das receitas
+
+O [cruzamento por URL de 887 candidatos](wapf-auditoria-artigos-887-2026-11-25.tsv) e seu [resumo](wapf-auditoria-artigos-887-2026-11-25.json) reconciliam os registros do censo de 11/11, sem afirmar nova leitura nessa etapa. A recuperação/triagem automática de **6.376 URLs** sinalizou **1.089** com termos; retirar os grupos de receitas e cartas deixa **887**:393 health, 245 other, 124 podcasts, 78 resenhas, 34 índices e 13 galerias. São grupos de classificação, não cobertura integral de conteúdo.
+
+As filas manuais de 105, 345 e 357 somam **807 URLs distintas**, lidas por recortes/contextos em fases anteriores. **702=345+357 era um resíduo de seleção e linkagem**, não um total comprovado de páginas ainda não lidas. Os 17 corpos cuja leitura integral foi registrada narrativamente continuam reconhecidos; a auditoria não localizou hash/faixas individuais deles nos registros inspecionados. Outros originais tiveram consulta seletiva. Portanto não é válido calcular uma pendência de 887−17 ou atribuir leitura integral pela presença de um link.
+
+No feed health há **1.415 páginas**,393 com termos e 1.022 sem eles. A triagem negativa também não é prova de ausência temática: *Making Stock on the Farm* era negativo na expressão antiga apesar do assunto. Receitas, cartas, podcasts, imagens, PDFs e capítulos têm escopos próprios; não foram somados ou declarados completos por essa auditoria. A leitura com prova individual dos próximos 50 positivos está em andamento, separada deste retrato dos registros anteriores.

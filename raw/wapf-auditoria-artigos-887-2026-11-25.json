@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-25",
+  "census_date": "2026-11-11",
+  "sitemap_urls": 6376,
+  "term_hit_urls": 1089,
+  "outside_recipe_letters": 887,
+  "outside_groups": {
+    "other": 245,
+    "direct-index": 34,
+    "book-review": 78,
+    "health": 393,
+    "gallery": 13,
+    "podcast": 124
+  },
+  "manual_queue_rows": {
+    "manual-thematic-queue.tsv": 105,
+    "manual-residual-queue.tsv": 345,
+    "manual-residual-unsignaled.jsonl": 357
+  },
+  "manual_queue_union": 807,
+  "historical_702_is_345_plus357": true,
+  "capped_narrative_claim": 17,
+  "capped_groups": {
+    "other": 5,
+    "health": 6,
+    "gallery": 2,
+    "podcast": 4
+  },
+  "nonpodcast_nonindex_candidate_count": 729,
+  "full_reading_unknown_does_not_equal_unread": true,
+  "health_total": 1415,
+  "health_terms": 393,
+  "health_no_terms": 1022,
+  "health_negative_no_activity_local": 1020,
+  "source_hashes": {
+    "coverage.tsv": "e80c26cc8cea06a7d4cd928742f82e2bc9eaec4b45ba8c355cd0eee5c795513a",
+    "classified-candidates.tsv": "f1e0346197278ca3d32c2a1da360da145e203f8fd916b05672ae36923eb1751e",
+    "manual-thematic-queue.tsv": "5b817cf9e8ae2290d5e11bbdddf4aefea59685285e10e23ead071f1767ab0b27",
+    "manual-residual-queue.tsv": "46bb5cc24b9630958fc117b2a90a29790ee94d9b23408a04aa476240c03d4747",
+    "manual-residual-unsignaled.jsonl": "f1dad8d39cf04a9e092b5d01c2ad52cb24e773d6ee2843912a197b219430c5e0",
+    "secondary-contexts.jsonl": "ed2c24f116663ee1f5fd45125080d8768021ab75ba7ac250e1e5fa248a0b7605",
+    "health-topics-feed.jsonl": "5e55a75022a72dba2fb1e9f7707d37d42146664899cafcbe22cf7dff433e503f"
+  },
+  "method": "Auditoria de registros locais; não houve leitura nova de corpos nesta etapa. Campos de links/fila/termos não certificam íntegra.",
+  "historical_full_body_claim": "17 testemunhos narrativos preservados; não foi localizado hash/faixa individual nos registros inspecionados. Outros originais podem ter consulta integral seletiva; não inferir pendência por subtração.",
+  "tsv_sha256": "56ceee230ab70ab030e797ba26545a1b6367ed6847abb364b8577635ec26b586",
+  "scope_warning": "887 candidatos sinalizados fora de Recipe of the Week/Letters não equivalem a todos os artigos WAPF ou a887 páginas definitivamente não lidas. Podcasts, índices e galerias permanecem identificados."
+}

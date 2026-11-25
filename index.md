@@ -209,3 +209,5 @@ As [ressalvas das fichas da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#res
 A [leitura auditada dos 207 textos atuais de MDA](raw/mda-leitura-editorial-207-2026-11-25.tsv) distingue corpo disponível e histórico, com [comparação de estimativas, relatos e limites](wiki/fontes/mark-sisson-caldo-gelatina.md#comparação-de-estimativas-e-experiências-nas-páginas-atuais).
 
 O [corte de seis novas leituras WAPF](raw/wapf-leitura-integral-6-2026-11-25.json) separa a conclusão do processamento da leitura do texto e preserva as pendências de qualidade.
+
+A [auditoria dos artigos WAPF fora das receitas](raw/wapf-auditoria-artigos-887-2026-11-25.tsv) distingue o censo temático de leitura integral, com [denominadores e limites](raw/wapf-auditoria-artigos-887-2026-11-25.json).

@@ -927,3 +927,8 @@ O [registro por URL](raw/mda-leitura-editorial-207-2026-11-25.tsv) e seu [resumo
 ## [2026-11-25] revisão | Seis textos WAPF integrais sem duplicar GUIDs
 
 O [corte de seis](raw/wapf-leitura-integral-6-2026-11-25.json) e seu [ledger](raw/wapf-leitura-integral-6-2026-11-25.jsonl) preservam 1.943 linhas lidas e 122 blocos concluídos, com hashes físicos e faixas conferidos. A contagem de conclusão ASR foi separada da leitura humana do texto. A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#novas-leituras-de-seis-episódios) incorpora planejamento culinário e alegações atribuídas, sem dose ou comprovação de humor/dopamina pelo caldo. ES144 permanece com revisão de qualidade integral em curso; EN165 tem salto contextual localizado.
+
+
+## [2026-11-25] revisão | Reconciliação da cobertura de887 candidatos WAPF
+
+A [auditoria por URL](raw/wapf-auditoria-artigos-887-2026-11-25.tsv) diferencia links, filas de recortes, testemunho narrativo e prova individual de leitura. O [resumo](raw/wapf-auditoria-artigos-887-2026-11-25.json) preserva o censo de 11/11 e esclarece que 702 não era contagem de não-lidos. Essa revisão não acrescenta corpos lidos nem altera a cobertura separada das 464 páginas culinárias.

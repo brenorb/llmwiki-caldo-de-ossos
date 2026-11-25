@@ -789,3 +789,7 @@ O [inventário](raw/inventario-wapf-receitas.md#reconsulta-dos-mapas-em-25-de-no
 ## [2026-11-25] ingestão | Hipótese de proteção contra glifosato e mais seis faixas
 
 O [inventário](raw/inventario-wapf-receitas.md#seis-faixas-e-confronto-da-hipótese-sobre-glifosato) incorpora seis áudios e localiza a hipótese de Sally Fallon Morell. A [nota de Antoniou et al.](wiki/fontes/antoniou-2019-glifosato-glicina.md), a [busca registrada](raw/busca-saude.md#glifosato-glicina-e-caldo-em-25-de-novembro) e a [matriz](wiki/temas/relatos-e-evidencia.md) separam mecanismo, contestação e proteção clínica ainda não testada pelas fontes localizadas.
+
+## [2026-11-25] ingestão | 14 receitas com peptídeos e quatro cocktails
+
+O [novo catálogo](wiki/temas/receitas-peptideos.md) apresenta bebidas, cookie, seis congelados e quatro cocktails com medidas, fontes e tabelas de ingredientes que contribuem com carboidratos. As adaptações ainda não testadas e as divergências entre ficha e vídeo aparecem no próprio catálogo. A [nota de fontes](wiki/fontes/primal-kitchen-receitas-peptideos.md) e o [inventário](raw/inventario-mark-receitas.md#retomada-em-25-de-novembro-de-2026) preservam os limites da leitura visual.

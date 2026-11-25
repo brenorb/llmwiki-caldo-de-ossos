@@ -50,3 +50,5 @@ Bata com espumador **60 mL de leite de coco integral ou creme de leite**, **1 co
 A marca apresenta a receita como keto e primal. Confira os carboidratos do produto de baunilha e use purê e leite de coco sem açúcar adicionado. A versão com creme de leite contém laticínios. A demonstração não é apresentada por Sisson.
 
 Veja também as [receitas com gelatina e caldo neutro](receitas-gelatina.md).
+
+Para outras bebidas, cookie e sorvetes, consulte as [14 receitas com peptídeos e quatro cocktails](receitas-peptideos.md), com medidas e opções para reduzir carboidratos.

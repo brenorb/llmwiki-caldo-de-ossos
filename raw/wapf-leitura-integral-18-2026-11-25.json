@@ -365,7 +365,23 @@
         }
       ],
       "read_completed_date": "2026-11-25",
-      "url": "https://wisetraditions.libsyn.com/168-best-of-2018"
+      "url": "https://wisetraditions.libsyn.com/168-best-of-2018",
+      "targeted_recheck": {
+        "episode": 168,
+        "original_start_seconds": 135,
+        "original_end_seconds": 250,
+        "model": "parakeet-v3-int8",
+        "chunk_seconds": 32,
+        "originals_preserved": true,
+        "status": "text_fully_read",
+        "read_lines": [
+          1,
+          11
+        ],
+        "sha256": "09cc0d6a8591040f9b979ac98b52e69c9f5b218bfa8c901f4ff5a60513766bcf",
+        "result": "Recuperou fala omitida no textoV3 original; nenhuma nova passagem de caldo, composição ou repigmentação. As menções são introdução/publicidade/eventos em142 e história/debate de dieta em168. Não foi calculada acurácia.",
+        "clip_duration_seconds": 115.0
+      }
     },
     {
       "key": "52",
@@ -920,7 +936,25 @@
         }
       ],
       "read_completed_date": "2026-11-25",
-      "url": "https://wisetraditions.libsyn.com/142-how-to-have-the-healthiest-babies-principle-11"
+      "url": "https://wisetraditions.libsyn.com/142-how-to-have-the-healthiest-babies-principle-11",
+      "targeted_recheck": {
+        "episode": 142,
+        "original_start_seconds": 105,
+        "original_end_seconds": 250,
+        "model": "parakeet-v3-int8",
+        "chunk_seconds": 32,
+        "originals_preserved": true,
+        "status": "text_fully_read",
+        "read_lines": [
+          1,
+          19
+        ],
+        "sha256": "08648d2f686814e94a9230f400a83b61c5ac566b26e7ac606263b6fa612187bf",
+        "result": "Recuperou fala omitida no textoV3 original; nenhuma nova passagem de caldo, composição ou repigmentação. As menções são introdução/publicidade/eventos em142 e história/debate de dieta em168. Não foi calculada acurácia.",
+        "clip_duration_seconds": 145.0
+      }
     }
-  ]
+  ],
+  "additional_recheck_lines_read": 30,
+  "additional_recheck_seconds": 260
 }

@@ -852,3 +852,8 @@ O [inventário de entrevistas](raw/mark-sisson-entrevistas.md#the-life-possible-
 ## [2026-11-25] revisão | Leitura integral das 18 transcrições da WAPF
 
 A leitura posterior completou [18 textos e 6.115 linhas](raw/wapf-leitura-integral-18-2026-11-25.json), preservando os hashes e o corte contextual anterior. O [inventário](raw/inventario-wapf-receitas.md#leitura-integral-posterior-das-dezoito-transcrições), a nota da WAPF e a matriz incorporam os contextos de apoio testemunhal à dieta e de alimentação infantil. Intervalos de reconhecimento pouco claros seguem em rechecagem e os denominadores não foram alterados.
+
+
+## [2026-11-25] revisão | Fala recuperada em dois intervalos da WAPF
+
+Os recortes de EN142 e EN168 recuperaram fala omitida no reconhecimento anterior, sem nova passagem temática. Foram lidas as 30 linhas novas, preservando tempos originais e os textos anteriores. O [registro de leitura](raw/wapf-leitura-integral-18-2026-11-25.json) incorpora os 260 segundos reprocessados sem duplicar episódios ou o total das transcrições originais.

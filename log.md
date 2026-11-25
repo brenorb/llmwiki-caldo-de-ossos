@@ -977,3 +977,8 @@ O [lote de nove](raw/youtube-mda-leitura-9-2026-11-25.json) e o [corte Drew](raw
 ## [2026-11-25] revisão | Mais cinquenta corpos health e métodos de tutano
 
 O [lote de 50](raw/wapf-health-mais50-2026-11-25.tsv) e o [resumo](raw/wapf-health-mais50-2026-11-25.json) preservam duas faixas disjuntas, hashes físicos e todas as 5.644 linhas. O catálogo e o caderno de tutano receberam medidas/lacunas verificadas; a nota da WAPF separa relatos, valores de ingredientes e limites analíticos. A divergência de canonical espanhol e a cobertura exclusivamente textual foram preservadas.
+
+
+## [2026-11-25] revisão | Segundo lote de endereços negativos health
+
+O [registro 50–99](raw/wapf-health-negativos-50-100-2026-11-25.tsv) e o [resumo](raw/wapf-health-negativos-50-100-2026-11-25.json) comprovam a fatia seguinte sem sobreposição ou substituição. Foram conferidos 49 textos e um landing, 2.092 linhas e 673.277 caracteres, com hashes físicos e faixas completas. Traduções e recomendações não foram promovidas a novos ensaios; imagens, áudio e PDFs continuam fora desta cobertura.

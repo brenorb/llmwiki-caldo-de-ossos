@@ -191,3 +191,8 @@ A [nova prova por URL](../../raw/wapf-health-mais50-2026-11-25.tsv) inclui lista
 - [Bone Broth and Lead Contamination](https://www.westonaprice.org/health-topics/bone-broth-and-lead-contamination-a-very-flawed-study-in-medical-hypotheses/) relata testes como **não detectado**, com limites analíticos; isso não significa zero. O corpo dá datas 14/2 e 1/3/2013, enquanto a nota 65 traz 19/2 e 5/3/2013. Os laudos externos não foram abertos nesta reconsulta; a divergência foi mantida.
 
 Os conselhos de Cowan sobre gota, intestino, varizes, febre ou exposição ambiental envolvem dietas/produtos e não são ensaios isolados de caldo. Contrapontos/correções inseridos nos textos sobre tétano e gripe foram lidos e permanecem no registro de trabalho; não foram omitidos nem adotados como orientação clínica atual.
+
+
+## Outros cinquenta endereços antes negativos
+
+A [fatia seguinte](../../raw/wapf-health-negativos-50-100-2026-11-25.tsv) inclui 49 textos e um landing, com [limites por arquivo](../../raw/wapf-health-negativos-50-100-2026-11-25.json). Traduções russa/chinesa repetem a narrativa histórica da dieta suíça com vários alimentos; não são novas intervenções independentes. [Are Anti Nutrients Harmful?](https://www.westonaprice.org/health-topics/are-anti-nutrients-harmful/) recomenda início de GAPS com caldo de carne curto, sem medidas ou resultado isolado. Essa recomendação não virou receita quantificada ou tratamento validado na wiki. Vitaminas/medicina chinesa em outros textos referem-se a objetos distintos do caldo.

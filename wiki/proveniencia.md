@@ -104,3 +104,5 @@ O [lote de cinquenta endereços antes negativos](../raw/wapf-health-negativos-50
 Os cortes de [nove textos](../raw/youtube-mda-leitura-9-2026-11-25.json) e [Drew](../raw/youtube-mda-drew-2026-11-25.json) preservam identidade por ID, atribuições e metadados físicos. Quadros de vídeos vazios e revisões de intervalos não aumentam a contagem dos 118 textos lidos. Produtos comerciais e ideias sem fórmula não foram transformados em receitas medidas.
 
 O [segundo lote positivo health](../raw/wapf-health-mais50-2026-11-25.tsv) une duas faixas de 25 sem duplicar URLs anteriores. A ordem é do catálogo, com canonical atual observado por item; bibliografia, rótulos de figuras e relatos clínicos da fonte não foram promovidos a leitura dos estudos, valores das imagens ou validação terapêutica.
+
+A [fatia negativa 50–99](../raw/wapf-health-negativos-50-100-2026-11-25.tsv) preserva 49 textos, um landing e limites de anexos/versões. Traduções não foram tratadas como intervenções independentes; recomendações de dieta ou testemunhos não medem o efeito isolado do caldo.

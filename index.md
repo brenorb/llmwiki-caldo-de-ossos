@@ -48,6 +48,7 @@
 - [Primeira reconsulta integral de 50 artigos health WAPF](raw/wapf-health-leitura-50-2026-11-25.tsv)
 - [Segundo lote de 50 corpos positivos health WAPF](raw/wapf-health-mais50-2026-11-25.tsv)
 - [Reconsulta de 50 endereços WAPF antes negativos: textos, índices e anexos](raw/wapf-health-negativos-50-2026-11-25.tsv)
+- [Endereços seguintes 50–99: traduções, textos e lacunas](raw/wapf-health-negativos-50-100-2026-11-25.tsv)
 - [Seis novas leituras de textos ASR da WAPF](raw/wapf-leitura-integral-6-2026-11-25.json), com [revisão integral ES144](raw/wapf-revisao-es144-2026-11-25.json) e [conferência localizada EN165](raw/wapf-revisao-en165-2026-11-25.json)
 
 ## Notas de fonte

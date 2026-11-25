@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-25",
+  "scope": "Fatia exata [50:100), ordem fixa da subfila de 1.020 URLs health negativas sem atividade manual localizada; não todo o site e não garantia de nunca lidas historicamente.",
+  "source_sha256": "4baa10d450c90eeaa3723693a1a159bf02612f4187af13e0459d6f70a8182311",
+  "manifest_sha256": "e1777d1d8ae69bce23525b50e66fc393d5c67cfd9e40d95b7129fb2879e08341",
+  "fixed_census_date": "2026-11-11",
+  "current_retrieval_date": "2026-11-25",
+  "requested": 50,
+  "http_200": 50,
+  "available_bodies_read": 50,
+  "texts": 49,
+  "landings_without_article": 1,
+  "lines": 2092,
+  "characters": 673277,
+  "kinds": {
+    "translation": 4,
+    "article": 19,
+    "landing": 1,
+    "q-and-a": 21,
+    "commentary": 5
+  },
+  "image_elements_not_read": 60,
+  "audio_labels_not_played": 3,
+  "linked_document_occurrences_not_read": 3,
+  "audio_queues_changed": false,
+  "repository_edited": false,
+  "method": "Leitura sequencial integral de todas as linhas disponíveis dos 50 entry-content HTML públicos; inclui negativos, referências, quadros textuais e encerramentos. Saídas truncadas foram reabertas em spans menores. Não foi substituída por busca de termos ou amostra.",
+  "limits": [
+    "Leitura completa do texto extraído não garante completude do artigo original, nem audição de podcast, leitura de imagens, comentários ou destinos externos.",
+    "Um landing de 28 caracteres foi verificado no HTML e não é artigo completo.",
+    "Corpo russo tem junção textual irregular em L34; chinês tem fragmentos repetidos, e Dry Skin termina com nota editorial truncada. A saída disponível foi preservada.",
+    "Campos de data/autoria são metadados publicados e não provam autoria do texto traduzido; atribuições no corpo são discriminadas no relatório.",
+    "A ausência de um termo só vale para o corpo lido; números e alegações clínicas/políticas não foram validados.",
+    "Comparação de tamanho com triagem anterior não identifica automaticamente mudança editorial ou falso negativo: os antigos corpos não foram comparados.",
+    "Denominadores e filas de áudio, inclusive novos RSS/reprocessamentos, não são afetados por este lote textual."
+  ],
+  "table_sha256": "179111f25c38851ee61718eaf7228b47c4d1c81b107f2a1cd7a09c727b636c23",
+  "physical_verification": "Root conferiu 50 pares HTML/TXT, faixas completas e identidade exata com a subfila [50:100), sem sobreposição com [0:50).",
+  "article_count_warning": "50 textos disponíveis incluem um landing sem artigo; dois outros corpos curtos/incompletos mantêm limites por fonte. Nenhum anexo foi somado à leitura."
+}

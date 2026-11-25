@@ -451,3 +451,8 @@ As páginas abaixo são as da numeração impressa. A triagem por *broth*, *stoc
 | Sopa de cebola, p. 53 | Caldo de rabo e creme | Cebola e vinho opcional | Use porção menor ou substitua parte da cebola por cogumelos. |
 | Molho de creme e mostarda, p. 70 | Caldo de frango, creme, mostarda, salsa e vinho opcional | Confira os rótulos do creme e da mostarda | Ferva suavemente até reduzir. A fórmula dispensa farinha. |
 | Sopa de leite de coco, p. 72 | Caldo de frango, coco, gengibre e limão | Leite de coco se adoçado | Use leite de coco integral sem açúcar e tempere a gosto. |
+
+
+## Outras possibilidades com tutano
+
+O [caderno de manteigas, cremes e sorvetes](receitas-tutano.md) reúne sete fontes da leitura editorial, com variantes salgadas/doces, medidas e alternativas para reduzir açúcar. É aproveitamento de tutano; não foi contado como sete novas receitas de caldo ou como análise de composição do líquido. A divergência sobre ovos no creme de abóbora e as aproximações de unidades permanecem explícitas.

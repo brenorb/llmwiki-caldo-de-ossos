@@ -211,3 +211,5 @@ A [leitura auditada dos 207 textos atuais de MDA](raw/mda-leitura-editorial-207-
 O [corte de seis novas leituras WAPF](raw/wapf-leitura-integral-6-2026-11-25.json) separa a conclusão do processamento da leitura do texto e preserva as pendências de qualidade.
 
 A [auditoria dos artigos WAPF fora das receitas](raw/wapf-auditoria-artigos-887-2026-11-25.tsv) distingue o censo temático de leitura integral, com [denominadores e limites](raw/wapf-auditoria-artigos-887-2026-11-25.json).
+
+- [Tutano: manteigas, cremes e sorvetes, com adaptações de carboidratos](wiki/temas/receitas-tutano.md)

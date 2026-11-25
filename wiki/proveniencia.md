@@ -86,3 +86,5 @@ A [leitura dos 207 corpos atuais de MDA](../raw/mda-leitura-editorial-207-2026-1
 O [corte de seis textos WAPF](../raw/wapf-leitura-integral-6-2026-11-25.json) comprova a leitura desses seis, com hashes e faixas; a contagem acumulada de conclusão ASR não certifica leitura integral de todos os textos. Alegações sobre humor/dopamina são atribuídas à entrevistada, sem dose ou estudo identificado na passagem.
 
 A [auditoria dos887 candidatos WAPF](../raw/wapf-auditoria-artigos-887-2026-11-25.tsv) conserva o testemunho narrativo anterior e distingue ausência de prova localizada de ausência de leitura. Termos, links e recortes não certificam o corpo inteiro; não se calcula pendência integral por subtração desses grupos.
+
+O [caderno de tutano](temas/receitas-tutano.md) deriva de sete fontes culinárias já lidas, sem ampliar o denominador. Quantidade de ossos não é quantidade de tutano extraído; as receitas não demonstram efeitos clínicos ou concentração de colágeno no caldo. [Registro](../raw/wapf-receitas-tutano-2026-11-25.json)

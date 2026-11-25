@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-25",
+  "scope": "Incorporação de sete fontes já integrantes dos464corpos editoriais lidos; há variantes e remissões, não sete novos caldos.",
+  "object": "Tutano, separado de caldo líquido, gelatina e peptídeos.",
+  "recipe_page": "wiki/temas/receitas-tutano.md",
+  "source_limit": "Métodos culinários, sem validação das alegações clínicas das introduções.",
+  "adaptations": "Ingredientes pasteurizados, troca de açúcar e uso de tutano cozido no smoothie são adaptações da wiki, não testadas. Divergência da lista de ovos no custard de abóbora preservada.",
+  "sources": [
+    {
+      "id": 24629,
+      "url": "https://www.westonaprice.org/bone-marrow-butter/",
+      "title": "Bone Marrow Butter",
+      "date": "2017-07-06T15:06:41",
+      "modified": "2023-11-30T18:23:20",
+      "author_id": 293,
+      "html_sha256": "721449f56282ec0d2498be625be3e29ccac0c90edfe6e9c0361aa4c8f8ebf397",
+      "text_sha256": "d9dc6b38bfbd58838c91e54ce68ab8bd6826f2d4905b8c19c643f82092a82153",
+      "lines": 12,
+      "author": "Monica Corrado"
+    },
+    {
+      "id": 37571,
+      "url": "https://www.westonaprice.org/bone-marrow-custard/",
+      "title": "Bone Marrow Custard",
+      "date": "2021-08-04T18:00:11",
+      "modified": "2023-11-30T18:15:10",
+      "author_id": 316,
+      "html_sha256": "a3708e4e4dbdcb75dc18243ceeeb285ef5fb5a0419a5b4a79db0389c869179b2",
+      "text_sha256": "b755810e666184b259211b26c9e9670d3531a7b9b7b26c136f413f1022fca172",
+      "lines": 15,
+      "author": "Susanna Zahratka"
+    },
+    {
+      "id": 37711,
+      "url": "https://www.westonaprice.org/bone-marrow-butter-2/",
+      "title": "Bone Marrow Butter",
+      "date": "2021-08-12T14:52:08",
+      "modified": "2023-11-30T18:20:41",
+      "author_id": 395,
+      "html_sha256": "4f9c51792e1986b7505b8f071ba8018fcb3bb3544d8ed9c31c82ce7e43e400e4",
+      "text_sha256": "73dbe41562cbbb89349301af64803734b7282dc0ba86d1aa61a50993668c6721",
+      "lines": 11,
+      "author": "Mai Meyers"
+    },
+    {
+      "id": 41890,
+      "url": "https://www.westonaprice.org/pumpkin-bone-marrow-custard/",
+      "title": "Pumpkin Bone Marrow Custard",
+      "date": "2022-09-02T19:50:05",
+      "modified": "2025-10-30T09:13:09",
+      "author_id": 435,
+      "html_sha256": "999e8ccf0232b2b59039837fca5ec9a0bb8a3490c65845b9ac2f49a83b6e4203",
+      "text_sha256": "00a4bea9182628a87f07c43abc5c16c6df9ed3b48cf2847876091ce3fe29b3a3",
+      "lines": 25,
+      "author": "Christine Muldoon"
+    },
+    {
+      "id": 46070,
+      "url": "https://www.westonaprice.org/bone-marrow-ice-cream-savory-or-sweet/",
+      "title": "Bone Marrow Ice Cream — Savory or Sweet",
+      "date": "2024-08-10T21:45:48",
+      "modified": "2024-08-10T21:45:49",
+      "author_id": 396,
+      "html_sha256": "a643f69bb71495f6acd6e7ec7e4dd7d4f074a99bbeaa8fb476148f20fb814e74",
+      "text_sha256": "62807f0657147050f7137486d9cefa60829ad408db6e01b2d49ac78a03b4ba84",
+      "lines": 42,
+      "author": "Janine Farzin"
+    },
+    {
+      "id": 47015,
+      "url": "https://www.westonaprice.org/bone-marrow-custard-2/",
+      "title": "Bone Marrow Custard",
+      "date": "2025-02-28T18:17:10",
+      "modified": "2025-10-12T20:01:42",
+      "author_id": 318,
+      "html_sha256": "7e5df5b2266b091252c6d886d31a8768a892889d7d7eb4fba09658c6358938a8",
+      "text_sha256": "945d051194808f4468b447497f5a161a044e56697a4d5850155e6f8340206055",
+      "lines": 15,
+      "author": "Sally Fallon Morell"
+    },
+    {
+      "id": 48698,
+      "url": "https://www.westonaprice.org/raw-bone-marrow-recipes/",
+      "title": "Raw Bone Marrow Recipes",
+      "date": "2026-04-08T16:29:11",
+      "modified": "2026-04-16T14:40:04",
+      "author_id": 398,
+      "html_sha256": "90fb885f23d55b6eb3e71d246844c072f640e11f8571327f8fb3b3e9ab5cbf4e",
+      "text_sha256": "24176c8d55de7e479a63c525c846ac6951f5d957d36f92349d9a377cb4872417",
+      "lines": 12,
+      "author": "Recipe Moderator"
+    }
+  ]
+}

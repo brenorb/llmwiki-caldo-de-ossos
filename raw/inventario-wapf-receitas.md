@@ -874,3 +874,7 @@ O [cruzamento por URL de 887 candidatos](wapf-auditoria-artigos-887-2026-11-25.t
 As filas manuais de 105, 345 e 357 somam **807 URLs distintas**, lidas por recortes/contextos em fases anteriores. **702=345+357 era um resíduo de seleção e linkagem**, não um total comprovado de páginas ainda não lidas. Os 17 corpos cuja leitura integral foi registrada narrativamente continuam reconhecidos; a auditoria não localizou hash/faixas individuais deles nos registros inspecionados. Outros originais tiveram consulta seletiva. Portanto não é válido calcular uma pendência de 887−17 ou atribuir leitura integral pela presença de um link.
 
 No feed health há **1.415 páginas**,393 com termos e 1.022 sem eles. A triagem negativa também não é prova de ausência temática: *Making Stock on the Farm* era negativo na expressão antiga apesar do assunto. Receitas, cartas, podcasts, imagens, PDFs e capítulos têm escopos próprios; não foram somados ou declarados completos por essa auditoria. A leitura com prova individual dos próximos 50 positivos está em andamento, separada deste retrato dos registros anteriores.
+
+### Aproveitamento de tutano incorporado separadamente
+
+Sete fontes já lidas passaram ao [caderno de tutano](../wiki/temas/receitas-tutano.md), com [hashes e autoria](wapf-receitas-tutano-2026-11-25.json). São manteigas, cremes, variantes de sorvete e smoothie, sem recontagem de leitura ou equiparação ao caldo líquido. As adaptações para reduzir carboidratos estão identificadas, junto das divergências de ovos, unidades e ingredientes crus.

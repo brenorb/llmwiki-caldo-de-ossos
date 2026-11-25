@@ -932,3 +932,8 @@ O [corte de seis](raw/wapf-leitura-integral-6-2026-11-25.json) e seu [ledger](ra
 ## [2026-11-25] revisão | Reconciliação da cobertura de887 candidatos WAPF
 
 A [auditoria por URL](raw/wapf-auditoria-artigos-887-2026-11-25.tsv) diferencia links, filas de recortes, testemunho narrativo e prova individual de leitura. O [resumo](raw/wapf-auditoria-artigos-887-2026-11-25.json) preserva o censo de 11/11 e esclarece que 702 não era contagem de não-lidos. Essa revisão não acrescenta corpos lidos nem altera a cobertura separada das 464 páginas culinárias.
+
+
+## [2026-11-25] ingestão | Outras possibilidades culinárias com tutano
+
+O [novo caderno](wiki/temas/receitas-tutano.md) incorpora sete fontes da leitura editorial já concluída: manteigas, cremes assados, variantes de sorvete e smoothie, com medidas e alternativas de carboidratos. O [registro](raw/wapf-receitas-tutano-2026-11-25.json) separa tutano, caldo e gelatina; não repete alegações clínicas como resultados e preserva divergências sobre ovos/unidades. Adaptações da wiki permanecem não testadas.

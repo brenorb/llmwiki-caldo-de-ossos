@@ -1,5 +1,7 @@
 # Weston A. Price Foundation · Caldos, gelatina e alegações
 
+**Atualização de 25/11/2026:** o corpo editorial das **464 páginas de receitas do catálogo fixo** foi lido integralmente, incluindo os negativos da busca por termos. A [auditoria de leitura](../../raw/inventario-wapf-receitas.md#fechamento-da-leitura-editorial-das-464-receitas) preserva os hashes e o método por página. Essa etapa não inclui leitura de todas as imagens, comentários, vídeos ou de todo o site; a incorporação de novos achados continua.
+
 A Weston A. Price Foundation publica receitas, textos de seus colaboradores, entrevistas e resenhas. O [catálogo culinário](../temas/receitas-wapf-catalogo.md) compara os 73 itens das categorias de gelatina e de sopas, caldos e fundos. As fichas abaixo destacam fontes usadas em outras páginas da wiki.
 
 | Fonte | Uso na wiki |

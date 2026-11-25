@@ -4,6 +4,8 @@ As duas categorias culinárias listavam 73 páginas na consulta de 2026-11-11. A
 
 A coluna de adaptações é da wiki. A quantidade de carboidratos depende do rendimento, do tamanho da porção e dos rótulos. Aromáticos, hortaliças, frutas e laticínios podem contribuir mesmo em preparos sem açúcar adicionado. Consulte as [receitas de caldo](receitas-caldo.md), as [receitas de gelatina](receitas-gelatina.md) e os [cuidados de conservação](seguranca-conservacao.md).
 
+A revisão posterior completou a **leitura editorial das 464 receitas da união de categorias**, além das duas categorias iniciais de 73 páginas. O [registro por URL](../../raw/wapf-leitura-editorial-464-2026-11-25.tsv) inclui também páginas sem caldo ou gelatina, sem incluí-las como receitas temáticas. Imagens, comentários e mídias vinculadas têm cobertura separada. A conferência dos novos achados a incorporar está no [inventário](../../raw/inventario-wapf-receitas.md#fechamento-da-leitura-editorial-das-464-receitas).
+
 ## Sopas, caldos e fundos
 
 | Receita original | Base de caldo ou gelatina | Ingredientes que influenciam os carboidratos | Opção com menos carboidratos |

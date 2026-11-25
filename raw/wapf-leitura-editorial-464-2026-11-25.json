@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-25",
+  "baseline_date": "2026-11-11",
+  "catalogue_unique_urls": 464,
+  "editorial_pages_fully_read": 464,
+  "api_bodies": 462,
+  "prior_web_editorial_reads": 2,
+  "api_text_lines_read": 9044,
+  "api_text_characters_read": 827150,
+  "api_file_hashes_and_line_coverage_verified": true,
+  "scope": "Somente corpo editorial das 464 receitas do catálogo fixo. Não equivale a ler todo o site, comentários, imagens, vídeos, destinos de links ou todos os livros.",
+  "prior_web_reads_record": "wapf-receitas-colageno-2026-11-25.json",
+  "table": "wapf-leitura-editorial-464-2026-11-25.tsv",
+  "remaining": "Incorporar os achados temáticos novos e completar outras classes de mídia e páginas do projeto."
+}

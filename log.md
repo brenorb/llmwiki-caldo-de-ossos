@@ -892,3 +892,8 @@ O [comparativo por GUID](raw/wapf-revisao-ultra-quatro-2026-11-25.json) registra
 ## [2026-11-25] ingestão | Variante completa do Stockpot com autoria preservada
 
 A pista visual do livro levou à [ficha completa de Julia Mueller](wiki/temas/receitas-mark-sisson.md#sopa-de-repolho-e-linguiça-versão-de-julia-mueller). A receita registra medidas, preparo, diferenças entre versões e a porção do cálculo de carboidratos. O [registro de acesso](raw/mueller-stockpot-acesso-2026-11-25.json) distingue a variante da página parcial do livro e não utiliza agregadores para preencher suas lacunas.
+
+
+## [2026-11-25] revisão | Leitura editorial das 464 receitas concluída
+
+A [auditoria por página](raw/wapf-leitura-editorial-464-2026-11-25.tsv) e seu [resumo](raw/wapf-leitura-editorial-464-2026-11-25.json) confirmam a leitura de 462 corpos da API e duas fichas diretamente no site. Foram conferidos os hashes e a cobertura das 9.044 linhas dos textos da API. O [fechamento](raw/inventario-wapf-receitas.md#fechamento-da-leitura-editorial-das-464-receitas) mantém explícitas a incorporação de achados ainda em curso e a cobertura separada de imagens, comentários e vídeos; não declara o site ou o projeto inteiramente lidos.

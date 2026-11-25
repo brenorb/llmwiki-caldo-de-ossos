@@ -234,11 +234,25 @@ As 1.089 correspondências por URL incluem títulos repetidos em índices, usos 
 
 A retomada distingue recuperação do corpo, busca por termos, leitura integral e incorporação de uma ficha. A união congelada da categoria *Recipe of the Week* e 20 subcategorias contém **464 URLs distintas**. A categoria-mãe isolada tinha 463; a união foi usada como denominador. Foram recuperados **462/462 corpos editoriais via API**, sem falha de acesso; as duas fichas Beef Bars/Vanilla Ice Cream recém-reconsultadas estão separadas na mesma base de 464. Isso não significa que os 464 textos já tenham sido lidos.
 
-O [corte de 20 textos](wapf-leitura-receitas-20-2026-11-25.json) registra **378 linhas e 30.025 caracteres lidos por inteiro**, com hashes e faixas inclusivas por URL. São as posições [100:120) da lista ordenada por ID, após excluir as duas fichas citadas, sem substituição por termos ou títulos. Imagens, comentários e mídias fora do corpo editorial não integram essa alegação de leitura. O restante segue com checkpoints separados.
+O [corte de 20 textos](wapf-leitura-receitas-20-2026-11-25.json) registra **378 linhas e 30.025 caracteres lidos por inteiro**, com hashes e faixas inclusivas por URL. São as posições [100:120) da lista ordenada por ID, após excluir as duas fichas citadas, sem substituição por termos ou títulos. Imagens, comentários e mídias fora do corpo editorial não integram essa alegação de leitura. Naquele corte, o restante seguia com checkpoints separados; a conclusão editorial está registrada abaixo.
 
 A rechecagem mostrou que um link já existente em nota/raw não prova que a receita esteja descrita no catálogo. *Slow-Cooker Chicken and Broth* já era citado, mas faltava sua ficha com medidas e processo. O [preparo em duas etapas](../wiki/temas/receitas-caldo.md#frango-na-panela-lenta-e-caldo-da-carcaça) agora está incorporado. Os outros quatro preparos com caldo ou gelatina desse corte já tinham linhas no catálogo. *Jelly roll pan* na granola é uma assadeira, não gelatina alimentar; os demais negativos foram lidos integralmente e permanecem limitados ao corpo editorial.
 
-O [segundo corte de 20 corpos](wapf-leitura-receitas-mais20-2026-11-25.json) cobre [120:140), sem sobreposição com o primeiro. A leitura confirmou mais um caso de receita citada só em raw: a torta de banana com gelatina agora tem linha no catálogo, distinguindo a opção sem glúten de uma adaptação para menos carboidratos. O patê também explicita a sugestão de serviço misturado ao caldo. Os 40 corpos destes dois cortes foram lidos integralmente; isso não conclui o restante da união de 464.
+O [segundo corte de 20 corpos](wapf-leitura-receitas-mais20-2026-11-25.json) cobre [120:140), sem sobreposição com o primeiro. A leitura confirmou mais um caso de receita citada só em raw: a torta de banana com gelatina agora tem linha no catálogo, distinguindo a opção sem glúten de uma adaptação para menos carboidratos. O patê também explicita a sugestão de serviço misturado ao caldo. Os 40 corpos destes dois cortes são componentes da união de leitura concluída abaixo, sem duplicar a contagem de páginas.
+
+
+### Fechamento da leitura editorial das 464 receitas
+
+A leitura do **corpo editorial de 464/464 URLs do catálogo fixo** foi concluída em 25/11/2026, incluindo os textos sem correspondência na triagem por termos. O [inventário por página](wapf-leitura-editorial-464-2026-11-25.tsv) e o [resumo da auditoria](wapf-leitura-editorial-464-2026-11-25.json) preservam os métodos distintos.
+
+| Parte do conjunto | Cobertura verificada |
+| --- | --- |
+| Corpos extraídos pela API | **462/462**, com **9.044 linhas e 827.150 caracteres** lidos por inteiro. Os hashes dos arquivos e a união dos intervalos de linhas foram conferidos por ID. |
+| Duas fichas reconsultadas diretamente no site | **2/2**, Beef Bars e Vanilla Ice Cream, com leitura do corpo e HTML de página preservado no [registro anterior](wapf-receitas-colageno-2026-11-25.json). Não foram inventadas contagens de linhas da API para elas. |
+| União por URL/ID | **464 páginas distintas**, sem sobreposição entre as três faixas de trabalho ou duplicação das duas fichas separadas. |
+| Imagens, comentários, vídeos e destinos de links | Fora desta declaração de leitura editorial. Os campos do TSV indicam imagens e embeds no corpo, não leitura visual dessas mídias. |
+
+O denominador é a união de *Recipe of the Week* e 20 subcategorias do catálogo de 11/11/2026. Não significa leitura integral do site da WAPF. A leitura identificou usos incidentais, receitas já catalogadas, variantes e falhas editoriais. A incorporação dos novos achados culinários e das alegações pertinentes continua; um link prévio numa nota não foi usado como prova de ficha pronta.
 
 ## Revisão por categoria de receitas e cartas
 

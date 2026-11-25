@@ -27,6 +27,8 @@ Pesquisa em português e inglês, com consultas acadêmicas e na web em 2026-11-
 
 A [busca de 2026-11-11](../raw/busca-composicao-terapeutica.md) preserva os retornos de três consultas do PubMed e uma do ClinicalTrials.gov, junto dos acessos complementares. A [tabela por preparo](temas/componentes-por-caldo.md) informa o denominador e o tipo de dado de cada medida. A [síntese de cabelos brancos](temas/cabelos-brancos.md) localiza estudos bioquímicos, observacionais, relatos de deficiência e um ensaio de produtos combinados. A cobertura é narrativa, com as limitações de acesso descritas no registro.
 
+A [auditoria das 464 receitas WAPF](../raw/wapf-leitura-editorial-464-2026-11-25.tsv) completa a leitura dos corpos editoriais desse conjunto fixo, inclusive negativos. Para 462, os hashes do texto e a cobertura de todas as linhas foram verificados; duas reconsultas web têm prova de acesso separada. O [fechamento](../raw/inventario-wapf-receitas.md#fechamento-da-leitura-editorial-das-464-receitas) distingue a etapa de leitura da incorporação dos achados e das mídias não examinadas.
+
 ## Verificação das afirmações centrais
 
 A [busca de receitas e relatos](../raw/busca-receitas-relatos.md) descreve a cobertura do Instagram, de Mark’s Daily Apple e da Weston A. Price Foundation. A [comparação por desfecho](temas/relatos-e-evidencia.md) rastreia cada alegação ao relato ou estudo. Para unhas quebradiças, há um [carrossel com depoimento](fontes/cozinha-de-pedra-caldo.md) e uma [comparação entre o ensaio aberto e os ensaios com placebo](fontes/colageno-unhas-ensaios.md).

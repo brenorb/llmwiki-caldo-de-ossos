@@ -942,3 +942,8 @@ O [novo caderno](wiki/temas/receitas-tutano.md) incorpora sete fontes da leitura
 ## [2026-11-25] revisão | ES144 inteiro, com incertezas preservadas
 
 A [revisão do mesmo GUID](raw/wapf-revisao-es144-2026-11-25.json) registra 352 linhas Ultra e 75 linhas curtas lidas integralmente. Os 26 blocos da faixa inteira e 18 dos recortes terminaram, sem limite de duração. A [nota de cobertura](raw/inventario-wapf-receitas.md#es144-alternativa-integral-e-quatro-recortes-comparativos) distingue melhora de legibilidade, erros da alternativa e duas incertezas restantes, sem duplicar episódios ou afirmar transcrição perfeita. V3 e mídia permanecem inalterados.
+
+
+## [2026-11-25] revisão | Fala recuperada em EN165
+
+A [conferência localizada](raw/wapf-revisao-en165-2026-11-25.json) registra 24 linhas novas lidas e 4/4 blocos. O recorte explica o salto contextual e recupera fala ausente do TXT integral, sem novo achado sobre caldo. Os originais permanecem intactos e a revisão não altera a contagem por GUID; hashes físicos foram conferidos.

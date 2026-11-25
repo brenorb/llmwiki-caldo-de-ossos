@@ -90,3 +90,5 @@ A [auditoria dos887 candidatos WAPF](../raw/wapf-auditoria-artigos-887-2026-11-2
 O [caderno de tutano](temas/receitas-tutano.md) deriva de sete fontes culinárias já lidas, sem ampliar o denominador. Quantidade de ossos não é quantidade de tutano extraído; as receitas não demonstram efeitos clínicos ou concentração de colágeno no caldo. [Registro](../raw/wapf-receitas-tutano-2026-11-25.json)
 
 A [revisão ES144](../raw/wapf-revisao-es144-2026-11-25.json) mantém original e alternativa inteira, além de quatro recortes. Conclusão de blocos, maior legibilidade e concordância entre modelos não equivalem a referência humana independente; duas incertezas ficam localizadas.
+
+Em [EN165](../raw/wapf-revisao-en165-2026-11-25.json), a comparação de um recorte com a saída integral confirmou fala ausente do texto anterior. A versão complementar permanece separada; o episódio não é contado novamente.

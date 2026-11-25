@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-25",
+  "episode": 165,
+  "language": "en",
+  "guid": "6737a5ebf1354d678121229c79734aaa",
+  "source": "https://wisetraditions.libsyn.com/165-too-many-meds",
+  "source_start_seconds": 1315,
+  "duration_seconds": 115,
+  "actual_crop_seconds": 115.0,
+  "model": "parakeet-v3-int8",
+  "chunk_seconds": 32,
+  "original_text_sha256": "11cdb26d9944da4f3d5e102c87fa33c62e5980fe6534bef17e4a71f3d8b9d632",
+  "original_media_sha256": "b6d7a359251a73ed5215e8be6cf2f68c0543e229461c74ecd49c37a9af134838",
+  "status": "complete_with_asr_limits",
+  "returncode": 0,
+  "sha256": "288924ff1396b3196f109147439b1a882a0a850000841cf906f3c5f8dc916284",
+  "source_times_sha256": "2462bebb3ec7ab1e46a4a892a40f4317390e09b2d329c666c7456f4b3d5468c5",
+  "lines": 24,
+  "first": "00:22:01",
+  "last": "00:23:48",
+  "media_crop_sha256": "e26aec565f8ab4e8ace8a53d731e5ce279dd9786e2b5e712724528041d7d0e37",
+  "chunk_count": 4,
+  "all_chunks_confirmed": true,
+  "log_sha256": "8cef6a8c8bc95b8550a669570f63c46bd99afe33d519ae6f1b400acf4124fb95",
+  "originals_unchanged": true,
+  "read_line_ranges": [
+    [
+      1,
+      24
+    ]
+  ],
+  "read_at_utc": "2026-11-25T22:54:37.808032+00:00",
+  "original_gap": {
+    "from_line": 272,
+    "to_line": 273,
+    "start": "00:22:09",
+    "end": "00:23:36",
+    "seconds": 87
+  },
+  "recovered_passages": [
+    {
+      "start": "00:22:16",
+      "end": "00:22:57",
+      "transcript_lines": [
+        5,
+        12
+      ],
+      "summary": "Discussão de insumos agrícolas e uso de pesticidas em gramados, além de dificuldades sociais para mudar essa prática."
+    },
+    {
+      "start": "00:22:59",
+      "end": "00:23:31",
+      "transcript_lines": [
+        13,
+        19
+      ],
+      "summary": "Transição para resenhas da revista, seguida de discussão de filme sobre exposição eletromagnética; a questão de pronúncia de um nome conecta com a retomada em 23:36 do TXT integral."
+    }
+  ],
+  "conclusion": "O recorte recupera conteúdo ausente da saída integral e explica a transição entre assuntos. O intervalo original não era apenas um parágrafo longo já representado no TXT. Não há menção a caldo, composição de caldo, B9 ou repigmentação no recorte.",
+  "limitations": [
+    "Leitura completa do texto curto, não escuta humana independente. Tempos são estimativas ASR, convertidas por offset de 1315s para a gravação original.",
+    "Embora o recorte dure 115s (21:55–23:50), suas primeiras/últimas marcas são 22:01–23:48. Esses limites e os quatro blocos concluídos não demonstram reconhecimento de cada palavra.",
+    "Persistem nomes/título e palavras automáticas imprecisos, uma repetição perto de 23:25 e fragmento final cortado pelo limite do recorte. Alegações de saúde laterais não foram verificadas nem constituem orientação.",
+    "Não houve necessidade de retranscrever o episódio inteiro ou iniciar outra alternativa para explicar o salto. Original, mídia e contagem por GUID foram preservados."
+  ],
+  "revision_not_new_episode": true,
+  "asr_duration_timeout": false,
+  "original_cut_preserved": true,
+  "root_physical_verification": "TXT integral, mídia, recorte, TXT curto, tempos originais e log conferidos por SHA256."
+}

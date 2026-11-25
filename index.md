@@ -44,7 +44,7 @@
 
 - [Leitura auditada dos 207 corpos atuais de MDA e seus limites históricos](raw/mda-leitura-editorial-207-2026-11-25.tsv)
 - [Auditoria de 887 candidatos WAPF fora das receitas: censo, recortes e leitura](raw/wapf-auditoria-artigos-887-2026-11-25.tsv)
-- [Seis novas leituras de textos ASR da WAPF](raw/wapf-leitura-integral-6-2026-11-25.json), com [revisão integral de qualidade ES144](raw/wapf-revisao-es144-2026-11-25.json)
+- [Seis novas leituras de textos ASR da WAPF](raw/wapf-leitura-integral-6-2026-11-25.json), com [revisão integral ES144](raw/wapf-revisao-es144-2026-11-25.json) e [conferência localizada EN165](raw/wapf-revisao-en165-2026-11-25.json)
 
 ## Notas de fonte
 

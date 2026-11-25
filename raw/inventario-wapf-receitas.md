@@ -865,7 +865,7 @@ A contagem de **conclusão ASR** congelada passa de 127/237 a 131/237 EN e de 64
 | ES143, **16:23–17:35** | Vitamina K em contexto dental, sem caldo ou medição na bebida. |
 | EN165, EN163 e ES144 | Sem nova passagem temática localizada no texto inteiro; ausência limitada pelo reconhecimento, especialmente no 144. |
 
-**ES144 tem mistura extensa de idiomas na versão V3**; a revisão alternativa integral foi concluída e está descrita abaixo, preservando V3. EN165 22:09–23:36 tem salto contextual a conferir. Os demais intervalos longos e erros estão localizados no ledger, sem presumir silêncio/omissão pelo tempo entre inícios. Nenhum dos seis textos trouxe medição percentual de componentes, B9 no caldo ou relato de repigmentação; esse resultado não cobre palavras perdidas pelo ASR.
+**ES144 tem mistura extensa de idiomas na versão V3**; a revisão alternativa integral foi concluída e está descrita abaixo, preservando V3. EN165 22:09–23:36 recebeu a conferência localizada descrita abaixo. Os demais intervalos longos e erros estão localizados no ledger, sem presumir silêncio/omissão pelo tempo entre inícios. Nenhum dos seis textos trouxe medição percentual de componentes, B9 no caldo ou relato de repigmentação; esse resultado não cobre palavras perdidas pelo ASR.
 
 ### Auditoria da cobertura de artigos fora das receitas
 
@@ -886,3 +886,9 @@ O [registro por versão](wapf-revisao-es144-2026-11-25.json) preserva a mídia d
 O espanhol ficou qualitativamente mais legível, inclusive em 34:01–35:24 e 43:41–45:14, antes com poucos fragmentos. O intervalo 35:24–37:22 já continha um parágrafo V3 extenso, portanto menor distância entre marcas não prova recuperação de fala omitida. A alternativa não foi declarada perfeita nem avaliada por referência humana/WER.
 
 Quatro recortes comparativos (31:40–34:40 e 36:25–37:45, cada um em V3/Ultra) tiveram **75 linhas integralmente lidas e 18/18 blocos**. Apoiam uma negação em 31:41–31:59 e a expressão de controles biológicos em 37:11–37:23 contra erros da alternativa integral, sem apagar variantes. Permanecem incertas a frase terra/água em **34:14–34:28** e a identificação de planta em **36:41–36:53**. Nenhuma versão nova acrescentou caldo, composição, B9 ou repigmentação localizados no texto. Hashes físicos de saídas, logs e derivados com os tempos originais foram conferidos.
+
+### EN165: fala recuperada no salto contextual
+
+O [registro do recorte](wapf-revisao-en165-2026-11-25.json) preserva **21:55–23:50, 115 s**, com **4/4 blocos e 24 linhas integralmente lidas**. A saída curta V3 recupera fala entre **22:16–23:31**, ausente do TXT integral entre suas linhas 272 e 273, explicando a retomada em 23:36. O conteúdo trata de insumos/gramados e da transição para resenhas e filme; não acrescenta caldo, composição, B9 ou repigmentação.
+
+Nesse caso, a comparação confirma conteúdo ausente do texto integral; o intervalo entre inícios, sozinho, não o demonstrava. Restam nomes/palavras imprecisos, repetição e fragmento final na fronteira do recorte. Não houve referência humana independente. Os hashes físicos de original, mídia, recorte, saídas/log e tempos originais foram conferidos; nenhuma versão foi apagada ou contagem de GUID alterada.

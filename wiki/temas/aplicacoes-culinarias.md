@@ -43,4 +43,10 @@ Misture **425 g de purê de abóbora**, **180 mL de leite de coco sem açúcar**
 
 O vídeo mostra **¼ de xícara de adoçante no recheio** e **45 min de forno**. A ficha escrita usa **½ xícara** e **40–45 min**. Os produtos adoçantes variam em concentração e composição. Confira seus rótulos antes de medir. Os ovos dão estrutura ao recheio e os peptídeos não equivalem à gelatina culinária. A demonstração não é apresentada por Sisson. [Vídeo](https://www.youtube.com/watch?v=5FANatZxNFk)
 
+## Café frio com creme de abóbora e peptídeos
+
+Bata com espumador **60 mL de leite de coco integral ou creme de leite**, **1 colher de sopa de purê de abóbora**, **1 medida ou sachê da mistura de baunilha com peptídeos Collagen Fuel** e uma pitada de especiarias para abóbora. Em um copo com gelo, coloque aproximadamente **¾ de café extraído a frio** e complete o **¼ restante com o creme**. Polvilhe mais especiarias se quiser. O vídeo deixa em aberto o volume do copo e o rendimento do creme. [Demonstração da Primal Kitchen, 00:07–00:34](https://www.youtube.com/watch?v=9h8YrhP_cIk&t=7s)
+
+A marca apresenta a receita como keto e primal. Confira os carboidratos do produto de baunilha e use purê e leite de coco sem açúcar adicionado. A versão com creme de leite contém laticínios. A demonstração não é apresentada por Sisson.
+
 Veja também as [receitas com gelatina e caldo neutro](receitas-gelatina.md).

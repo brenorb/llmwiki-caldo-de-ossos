@@ -777,3 +777,7 @@ O [inventário](raw/inventario-wapf-receitas.md#episódio-176-e-revisão-das-fai
 ## [2026-11-25] ingestão | Duas compilações de Muscle Intelligence conferidas na íntegra
 
 O [inventário](raw/mark-sisson-entrevistas.md#muscle-intelligence-com-ben-pakulski) incorpora 2h01min26s das compilações #240 e #261, com os trechos de Sisson, as intervenções de outros falantes e os recortes reprocessados. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) e a proveniência preservam a origem comum dos relatos em #238.
+
+## [2026-11-25] ingestão | Café frio com creme de abóbora
+
+A [ficha culinária](wiki/temas/aplicacoes-culinarias.md#café-frio-com-creme-de-abóbora-e-peptídeos) registra as medidas e as lacunas de rendimento da demonstração. O [inventário](raw/inventario-mark-receitas.md#retomada-em-25-de-novembro-de-2026) registra o término da rodada de transcrição e mantém separadas as pendências de leitura visual e de conciliação.

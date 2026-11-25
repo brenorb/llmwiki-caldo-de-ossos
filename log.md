@@ -773,3 +773,7 @@ O [inventário](raw/inventario-wapf-receitas.md#episódio-177-e-faixa-151-em-esp
 ## [2026-11-25] revisão | Reprocessamento integral de duas faixas em espanhol
 
 O [inventário](raw/inventario-wapf-receitas.md#episódio-176-e-revisão-das-faixas-espanholas-153-e-154) incorpora o episódio 176 e a nova passagem pelas faixas espanholas 153 e 154, sem duplicar a contagem de episódios. A revisão registra melhora no reconhecimento e suas limitações persistentes.
+
+## [2026-11-25] ingestão | Duas compilações de Muscle Intelligence conferidas na íntegra
+
+O [inventário](raw/mark-sisson-entrevistas.md#muscle-intelligence-com-ben-pakulski) incorpora 2h01min26s das compilações #240 e #261, com os trechos de Sisson, as intervenções de outros falantes e os recortes reprocessados. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md) e a proveniência preservam a origem comum dos relatos em #238.

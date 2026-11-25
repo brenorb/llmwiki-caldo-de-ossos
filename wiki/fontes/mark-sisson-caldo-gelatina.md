@@ -126,6 +126,8 @@ Em vídeos oficiais, Sisson diz gostar de caldo e preferir suplemento no calor o
 
 Em um vídeo sobre fibras, Sisson propõe que bactérias intestinais gerem ácidos graxos de cadeia curta a partir de peptídeos de colágeno. Dois estudos de fermentação em reatores observaram mudanças com hidrolisados específicos, com diferenças entre formulações. Eles deixam em aberto o efeito de caldo ingerido por pessoas e a equivalência com fibras. [Vídeo, 01:12–01:27 e 02:02](https://www.youtube.com/watch?v=OAX9nsroKh4&t=72s) · [Larder e Cunha](larder-2021-cunha-2026-fermentacao.md)
 
+As compilações **#240 e #261 de Muscle Intelligence** reaproveitam a entrevista #238. A conferência integral das duas faixas, de **2h01min26s** no total, confirmou a repetição do relato sobre Aquiles e digestão e da hipótese sobre fermentação. O #261 também repete as lembranças de caldo e gelatina. São novas edições da mesma conversa. Elas não constituem relatos independentes nem novas avaliações clínicas. [Tempos, atribuições e cobertura](../../raw/mark-sisson-entrevistas.md#muscle-intelligence-com-ben-pakulski)
+
 O [caderno de receitas de coco dos leitores](mark-sisson-caderno-coco.md) reúne seis preparos com caldo ou fundo de frango encontrados nas 84 páginas do livreto do concurso de 2010.
 
 ## Livros em coautoria

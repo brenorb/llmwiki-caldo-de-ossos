@@ -765,3 +765,7 @@ A [receita de barras](wiki/temas/aplicacoes-culinarias.md#barras-de-abóbora-com
 ## [2026-11-25] revisão | Integridade das duas lives recuperadas sem limite
 
 A [auditoria](raw/busca-receitas-relatos.md#duração-e-cobertura-das-lives) confirmou os 87 blocos das duas lives inicialmente afetadas pelo limite histórico. O [registro de integridade](raw/auditoria-duas-lives-2026-11-25.json) preserva as contagens e os hashes. A conferência não encontrou bloco ausente ou vazio e mantém a ressalva sobre erros de reconhecimento de fala.
+
+## [2026-11-25] revisão | Mais duas faixas integrais na fila da WAPF
+
+O [inventário](raw/inventario-wapf-receitas.md#episódio-177-e-faixa-151-em-espanhol) registra o episódio 177 e a faixa 151 em espanhol, incluindo a limitação da triagem por texto quando o reconhecimento mistura idiomas.

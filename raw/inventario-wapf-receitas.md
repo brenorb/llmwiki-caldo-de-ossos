@@ -508,6 +508,15 @@ O corte de 25 de novembro chegou a **106 de 237** áudios das páginas curtas em
 
 A conferência do episódio [179 · The Oiling of America](https://wisetraditions.libsyn.com/179-the-oiling-of-america), de **28 min 20 s**, elevou a cobertura a **107 de 237** áudios das páginas curtas em inglês. A série em espanhol permaneceu em **57 de 189** neste corte. A fala reconhecida chegou a **00:28:13**. Gelatina e colágeno aparecem em anúncios de cápsulas, a **00:01:53** e entre **00:16:01 e 00:16:38**.
 
+#### Episódio 177 e faixa 151 em espanhol
+
+O corte seguinte chegou a **108 de 237** áudios das páginas curtas em inglês e **58 de 189** em espanhol. Restavam **129** e **131**, respectivamente. As transcrições dos dois arquivos abaixo cobrem a faixa inteira disponível.
+
+| Episódio | Duração da faixa | Resultado da triagem |
+| --- | --- | --- |
+| [177 · Eating light](https://wisetraditions.libsyn.com/177-eating-light) | 28 min 20 s | Menções de gelatina, colágeno e tutano nos anúncios de cápsulas, a **00:02:13** e entre **00:16:47 e 00:17:24**. Última marca de fala em **00:28:13**. |
+| [151 · Aciertos y desaciertos de la nueva pirámide alimenticia](https://sabiastradiciones.libsyn.com/151-aciertos-y-desaciertos-de-la-nueva-pirmide-alimenticia-con-hilda-labrada-gore) | 44 min 32 s | A triagem automática não encontrou menção temática substantiva. O reconhecimento mistura idiomas em alguns trechos e agrupa uma passagem entre **00:13:46 e 00:16:00**, o que limita a conclusão pela busca textual. Última marca em **00:44:23**. |
+
 ## Publicações dos capítulos locais
 
 O subdomínio dos capítulos tem páginas próprias, fora do denominador de 6.376 URLs do sitemap principal. A consulta de 2026-11-11 verificou o relato de uma reunião do capítulo de North Atlanta, as duas fichas de bebidas em imagem e uma apresentação de três páginas. A apresentação diferencia fundo de carne e caldo de ossos por proporções indicativas e por tempo. Nas faixas culinárias, cita 1½–3 h para fundo de aves, 4–6 h para fundo de boi, bisão ou porco, 6–24 h para caldo de ossos de frango e 24–72 h para bovino. O documento não informa a base das proporções, o volume de água ou resultados de testes próprios. As alegações de recuperação da barreira intestinal e maior teor de eletrólitos aparecem no material didático, sem medições comparativas ou ensaio clínico nele. A consulta é pontual e ainda não cobre todos os sites dos capítulos. [Reunião de 31 de janeiro de 2024](https://chapters.westonaprice.org/northatlantaga/2024/01/january-2024-meeting/) · [Apresentação em PDF](https://chapters.westonaprice.org/northatlantaga/files/2024/04/Meat-Stock-vs.-Bone-Broth.pdf) · [Bebidas e medidas](../wiki/temas/receitas-caldo.md#bebidas-salgadas-batidas-com-caldo)

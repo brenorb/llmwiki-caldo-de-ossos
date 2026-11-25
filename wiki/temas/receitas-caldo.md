@@ -15,6 +15,16 @@ A versão demonstrada no Cozinha de Pedra usa cerca de **1 kg de partes de frang
 
 Em entrevista, Sisson descreve o costume de ferver a carcaça de frango por cerca de **2 h** e usar o caldo em sopa ou servi-lo puro. Também menciona reaproveitar partes de bovino, porco e cordeiro para fazer fundos. As quantidades da ficha acima vêm da adaptação da receita do blog. [The Meat Mafia #176, 1h01min33s–1h02min05s](https://themeatmafia.com/176) · [Inventário de entrevistas](../../raw/mark-sisson-entrevistas.md#the-meat-mafia-podcast)
 
+## Frango na panela lenta e caldo da carcaça
+
+[Cori Day, WAPF, 16/05/2019](https://www.westonaprice.org/slow-cooker-chicken-and-broth/). A fonte usa **frango de 3½–4½ lb (aproximadamente 1,6–2 kg)**, **1–2 colheres de sopa de xerez culinário**, alho/cebola, legumes, sal e pimenta numa panela lenta de **6 quarts (cerca de 5,7 L)**.
+
+1. Coloque ave, xerez e temperos na panela, com legumes ao redor. A autora indica **6 h em LOW ou 4 h em HIGH**. Confirme **74°C no interior da ave**, sem tocar o osso; o tempo depende do aparelho e da peça.
+2. Separe a carne cozida. Volte carcaça, pele e aparas à panela com **1 colher de sopa de vinagre de maçã**, aparas de legumes e água. Respeite o limite de enchimento do fabricante. A fonte propõe **repousar 30–60 min** antes de aquecer e cozinhar **8–24 h em LOW**.
+3. Coe e resfrie em recipientes rasos. Para guardar, use a referência doméstica de **3–4 dias a ≤4°C**; o prazo de uma semana mencionado na receita difere dessa orientação. [Temperatura, resfriamento e prazos](seguranca-conservacao.md)
+
+**Adaptação da wiki para reduzir carboidratos:** escolha salsão, abobrinha ou repolho entre os legumes; xerez pode ser omitido. Sirva a carne com esses vegetais e reserve o caldo para sopa sem arroz ou macarrão. Não foram calculados carboidratos por porção. O caldo não tem rendimento final informado e a passagem não mede vitaminas ou minerais.
+
 ## Pés de frango para uma base que firma ao gelar
 
 **Use cerca de 900 g de pés limpos, próprios para consumo, e água suficiente para cobrir.** Para um caldo neutro, reserve louro, pimenta e sal para o prato final. Em uma versão salgada, adicione esses temperos à panela.

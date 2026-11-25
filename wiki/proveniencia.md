@@ -71,6 +71,8 @@ O [relatório público do ConsumerLab](fontes/consumerlab-2025-caldos-comerciais
 
 A [leitura integral das 18 transcrições da WAPF](../raw/wapf-leitura-integral-18-2026-11-25.json) preserva o corte contextual anterior. Os intervalos cobrem todas as linhas dos textos identificados por hash; não comprovam que o ASR tenha reconhecido todas as palavras dos áudios. As pendências de qualidade permanecem no [inventário](../raw/inventario-wapf-receitas.md#leitura-integral-posterior-das-dezoito-transcrições).
 
+Na [revisão editorial das receitas da WAPF](../raw/inventario-wapf-receitas.md#leitura-editorial-integral-de-receitas), uma URL já citada não equivale a leitura integral ou ficha culinária incorporada. O denominador de 464, a recuperação de 462 corpos e o corte de 20 leituras novas descrevem etapas distintas.
+
 ## Relato de caldo após exposição ao frio
 
 A história do episódio 185 da WAPF é um depoimento de terceira pessoa sobre um conjunto de práticas. O [ensaio de ducha fria](fontes/buijze-2016-ducha-fria.md) é evidência indireta para discutir a exposição ao frio. A [matriz por desfecho](temas/relatos-e-evidencia.md) preserva a população, a intervenção e o desfecho estudados.

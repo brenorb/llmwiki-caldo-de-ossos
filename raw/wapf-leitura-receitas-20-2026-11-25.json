@@ -1,0 +1,441 @@
+{
+  "catalogue_total": 464,
+  "previously_read_excluded": 2,
+  "filtered_total": 462,
+  "assigned_slice": [
+    100,
+    200
+  ],
+  "completed_slice": [
+    100,
+    120
+  ],
+  "method": "Leitura integral do corpo editorial retornado pela API, na ordem fixa por id, com hashes e linhas conferidos. Não inclui comentários, imagens ou mídias não lidas.",
+  "rows": [
+    {
+      "position_in_filtered_catalogue": 100,
+      "id": 30048,
+      "url": "https://www.westonaprice.org/curry-chicken-and-sweet-potatoes/",
+      "title": "Curry Chicken and Sweet Potatoes",
+      "text_sha256": "d01aed4846faf41f3fb7662118a468b7ab88ebf34343f6db3bc180f20abe0d50",
+      "lines": 21,
+      "characters": 1648,
+      "read_line_ranges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 101,
+      "id": 30094,
+      "url": "https://www.westonaprice.org/beet-ginger-cabbage-kraut/",
+      "title": "Beet, Ginger, Cabbage Kraut",
+      "text_sha256": "cddd2d9ab9f402746fc344e4eb2eaba74b190e1415327fea6f4dcf37e57b2a51",
+      "lines": 16,
+      "characters": 1494,
+      "read_line_ranges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 102,
+      "id": 30129,
+      "url": "https://www.westonaprice.org/gluten-free-gingerbread-donuts/",
+      "title": "Gluten-Free Gingerbread Donuts",
+      "text_sha256": "23694b5c041be5a4e7f12b71ef838f26b989142fdbf3dec73ff08e494070d3c3",
+      "lines": 31,
+      "characters": 1882,
+      "read_line_ranges": [
+        [
+          1,
+          31
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 103,
+      "id": 30153,
+      "url": "https://www.westonaprice.org/beef-cabbage-and-beets-hash/",
+      "title": "Beef, Cabbage and Beets Hash",
+      "text_sha256": "3f0fa5c0febfeef4693d718d9903a59bb9d89b9edba32f5e82e703586901879c",
+      "lines": 24,
+      "characters": 1762,
+      "read_line_ranges": [
+        [
+          1,
+          24
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 104,
+      "id": 30202,
+      "url": "https://www.westonaprice.org/homemade-granola/",
+      "title": "Homemade Granola",
+      "text_sha256": "6952dd89cdb5fc3f2944d158c54bbc888413d6471a41d61098ddf0343682289b",
+      "lines": 24,
+      "characters": 1518,
+      "read_line_ranges": [
+        [
+          1,
+          24
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Jelly roll pan é assadeira, não gelatina.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 105,
+      "id": 30223,
+      "url": "https://www.westonaprice.org/pumpkin-squash-soup/",
+      "title": "Pumpkin/Squash Soup",
+      "text_sha256": "67eb4dfa4bd2d40d2f8fe74c7e4bc30a6227e271f8734d82c61cda461beb4d1e",
+      "lines": 18,
+      "characters": 1666,
+      "read_line_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Caldo ou água na sopa; já catalogada.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 106,
+      "id": 30266,
+      "url": "https://www.westonaprice.org/roasted-curry-sweet-potatoes-and-garlic/",
+      "title": "Roasted Curry Sweet Potatoes and Garlic",
+      "text_sha256": "97c5f4d616c5ed656a8b426791c6600574ef520bf35563d371c681dd86872412",
+      "lines": 16,
+      "characters": 967,
+      "read_line_ranges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 107,
+      "id": 30296,
+      "url": "https://www.westonaprice.org/carob-covered-peep-cakes/",
+      "title": "Carob Covered Peep Cakes",
+      "text_sha256": "cf3bd1fe9201b056e838e91caf55cabdd32771fdc19b2b8167af05fefba10d56",
+      "lines": 18,
+      "characters": 1031,
+      "read_line_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 108,
+      "id": 30342,
+      "url": "https://www.westonaprice.org/red-lentil-soup-with-chicken-and-quinoa/",
+      "title": "Red Lentil Soup with Chicken and Quinoa",
+      "text_sha256": "0ff9b5914a9116b8c214ac431015858bd58a6e74eed01d3f2eacba7b04d26cba",
+      "lines": 24,
+      "characters": 1799,
+      "read_line_ranges": [
+        [
+          1,
+          24
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Caldo de frango na sopa e quinoa; já catalogada.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 109,
+      "id": 30390,
+      "url": "https://www.westonaprice.org/soaked-amaranth-gluten-free-crackers/",
+      "title": "Soaked Amaranth Gluten-Free Crackers",
+      "text_sha256": "72f20f498739500cdc3ac18d948783b17f0bdcb2daa1bd82bf4ad29dd093d735",
+      "lines": 17,
+      "characters": 1459,
+      "read_line_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Caldo de frango, bovino ou suíno no amaranto; já catalogada.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 110,
+      "id": 30427,
+      "url": "https://www.westonaprice.org/eggs-poached-in-steel-cut-oats/",
+      "title": "Eggs Poached in Steel Cut Oats",
+      "text_sha256": "31d5f89762a8455e3d40358d324a61a125b3e73f62f81bd27b9830f3da0ab9bc",
+      "lines": 17,
+      "characters": 1700,
+      "read_line_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 111,
+      "id": 30510,
+      "url": "https://www.westonaprice.org/grain-free-almond-butter-cookies/",
+      "title": "Grain-Free Almond Butter Cookies",
+      "text_sha256": "24eea6290ea4dabaa86e74872f4378d99a7441b4b9ff733420081bce811eb49b",
+      "lines": 13,
+      "characters": 1080,
+      "read_line_ranges": [
+        [
+          1,
+          13
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 112,
+      "id": 30577,
+      "url": "https://www.westonaprice.org/slow-cooker-chicken-and-broth/",
+      "title": "Slow-Cooker Chicken and Broth",
+      "text_sha256": "6401e9f79cdf7b8dbb84c68d7e86f3b8bb6845954720af62dc40cdffbc6128f0",
+      "lines": 19,
+      "characters": 2680,
+      "read_line_ranges": [
+        [
+          1,
+          19
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Caldo de carcaça após frango na panela lenta; ficha de preparo incorporada em receitas-caldo.md.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 113,
+      "id": 30613,
+      "url": "https://www.westonaprice.org/homemade-sourdough-pizza-dough/",
+      "title": "Homemade Sourdough Pizza Dough",
+      "text_sha256": "f0ca2b69fc3b14a0807de866d4312d9d7aeefd2f4e6aa52cc0f7d9552fdfb089",
+      "lines": 17,
+      "characters": 2235,
+      "read_line_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 114,
+      "id": 30642,
+      "url": "https://www.westonaprice.org/bulletproof-dandy-blend/",
+      "title": "Bulletproof Dandy Blend",
+      "text_sha256": "92ba4dafe9df768c320a03dc3a83a276ffb69de9cca8c895d55d381cddf96dda",
+      "lines": 13,
+      "characters": 845,
+      "read_line_ranges": [
+        [
+          1,
+          13
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Gelatina na bebida; já catalogada.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 115,
+      "id": 30682,
+      "url": "https://www.westonaprice.org/easy-spinach-pesto/",
+      "title": "Easy Spinach Pesto",
+      "text_sha256": "62ffeef053806fd7b1d06726dfa332f9438f97a8c16845a6b97fe9edded6c373",
+      "lines": 21,
+      "characters": 1478,
+      "read_line_ranges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 116,
+      "id": 30708,
+      "url": "https://www.westonaprice.org/salmon-cakes/",
+      "title": "Salmon Cakes",
+      "text_sha256": "a6831e964518b70e014070847be99f77d6e6e58bd8b93ffc9408f51e6ab457e9",
+      "lines": 23,
+      "characters": 1971,
+      "read_line_ranges": [
+        [
+          1,
+          23
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 117,
+      "id": 30736,
+      "url": "https://www.westonaprice.org/orange-coconut-butter-fudge/",
+      "title": "Orange Coconut Butter Fudge",
+      "text_sha256": "156323b127b0cc7a41a5c624e0d2bee41a733182535ac76e86ab5c6f5a2c1e4b",
+      "lines": 17,
+      "characters": 817,
+      "read_line_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 118,
+      "id": 30766,
+      "url": "https://www.westonaprice.org/gluten-free-sourdough-teff-bread/",
+      "title": "Gluten-Free Sourdough Teff Bread",
+      "text_sha256": "883b0ea76950e23b8bb0742914379de7d8aceb3e66222e3e7120afa820e88ae0",
+      "lines": 14,
+      "characters": 874,
+      "read_line_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 119,
+      "id": 30783,
+      "url": "https://www.westonaprice.org/squash-fritters/",
+      "title": "Squash Fritters",
+      "text_sha256": "6c5b8b06a7c209c3d188967bd889039a64da14468d1e33cc44999a57e777a6b2",
+      "lines": 15,
+      "characters": 1119,
+      "read_line_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    }
+  ],
+  "baseline_date": "2026-11-11",
+  "reading_date": "2026-11-25",
+  "scope": "Corte de 20 corpos editoriais lidos integralmente; não é declaração de conclusão dos 464.",
+  "total_lines_read": 378,
+  "total_characters_read": 30025
+}

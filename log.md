@@ -867,3 +867,8 @@ O [segundo corte por ID](raw/youtube-mda-leitura-14-2026-11-25.json) acrescenta 
 ## [2026-11-25] ingestão | Bone jelly e conferência do relato histórico de Davis
 
 A [revarredura de 207 corpos](raw/mda-retriagem-aliases-2026-11-25.json) encontrou a menção alternativa em Sisson. A [nota de Davis](wiki/fontes/davis-1939-auto-selecao.md) distingue observação da dieta completa de teste de caldo ou gelatina. O [registro de acesso](raw/busca-saude.md#bone-jelly-e-auto-seleção-alimentar-em-25-de-novembro) informa o fac-símile lido e seu hash. A matriz incorpora o contexto sem classificá-lo como ensaio do caldo.
+
+
+## [2026-11-25] ingestão | Frango, caldo de carcaça e 20 leituras editoriais
+
+A [ficha de panela lenta](wiki/temas/receitas-caldo.md#frango-na-panela-lenta-e-caldo-da-carcaça) registra medidas, processo, variação de carboidratos e conservação. O [corte de 20 corpos editoriais](raw/wapf-leitura-receitas-20-2026-11-25.json) separa leitura integral de triagem e de um simples link anterior. A recuperação dos 462 corpos foi concluída; a leitura do conjunto de 464 continua explicitamente em aberto.

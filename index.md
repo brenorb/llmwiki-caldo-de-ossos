@@ -38,6 +38,7 @@
 - [Originais e registros de acesso](raw/README.md)
 - [Cobertura da pesquisa de receitas e relatos](raw/busca-receitas-relatos.md)
 - [Inventário de entrevistas de Mark Sisson, com tempos e limites](raw/mark-sisson-entrevistas.md)
+- [Leitura editorial de receitas da WAPF: método e cobertura](raw/inventario-wapf-receitas.md#leitura-editorial-integral-de-receitas)
 
 ## Notas de fonte
 

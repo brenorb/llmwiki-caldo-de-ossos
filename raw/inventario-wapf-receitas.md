@@ -229,6 +229,15 @@ bouillon\s+d[\u2019\x27e]\s*os|Knochenbrühe|Knochenfond|bottenbouillon|gelatine
 
 As 1.089 correspondências por URL incluem títulos repetidos em índices, usos incidentais e textos traduzidos ou republicados. A leitura manual foi pontual, com conferência dos ingredientes e do preparo nas receitas acrescentadas e das fontes citadas nas alegações registradas. O manifesto por URL fica no acervo local. A cobertura conta o texto publicado no endereço do mapa. Áudios ou vídeos sem transcrição, PDFs e outros anexos, páginas fora do mapa e conteúdo restrito não têm cobertura integral nesta triagem. [Catálogo culinário](../wiki/temas/receitas-wapf-catalogo.md) · [Nota sobre as alegações](../wiki/fontes/weston-price-caldo-gelatina.md)
 
+
+### Leitura editorial integral de receitas
+
+A retomada distingue recuperação do corpo, busca por termos, leitura integral e incorporação de uma ficha. A união congelada da categoria *Recipe of the Week* e 20 subcategorias contém **464 URLs distintas**. A categoria-mãe isolada tinha 463; a união foi usada como denominador. Foram recuperados **462/462 corpos editoriais via API**, sem falha de acesso; as duas fichas Beef Bars/Vanilla Ice Cream recém-reconsultadas estão separadas na mesma base de 464. Isso não significa que os 464 textos já tenham sido lidos.
+
+O [corte de 20 textos](wapf-leitura-receitas-20-2026-11-25.json) registra **378 linhas e 30.025 caracteres lidos por inteiro**, com hashes e faixas inclusivas por URL. São as posições [100:120) da lista ordenada por ID, após excluir as duas fichas citadas, sem substituição por termos ou títulos. Imagens, comentários e mídias fora do corpo editorial não integram essa alegação de leitura. O restante segue com checkpoints separados.
+
+A rechecagem mostrou que um link já existente em nota/raw não prova que a receita esteja descrita no catálogo. *Slow-Cooker Chicken and Broth* já era citado, mas faltava sua ficha com medidas e processo. O [preparo em duas etapas](../wiki/temas/receitas-caldo.md#frango-na-panela-lenta-e-caldo-da-carcaça) agora está incorporado. Os outros quatro preparos com caldo ou gelatina desse corte já tinham linhas no catálogo. *Jelly roll pan* na granola é uma assadeira, não gelatina alimentar; os demais negativos foram lidos integralmente e permanecem limitados ao corpo editorial.
+
 ## Revisão por categoria de receitas e cartas
 
 O cruzamento entre as categorias do WordPress e a triagem do corpo encontrou 464 páginas distintas associadas à categoria *Recipe of the Week* ou às suas 20 subcategorias. Entre essas páginas, 133 tinham ao menos um termo pesquisado. Oitenta e seis já tinham link na wiki quando começou a revisão, incluindo as fichas das categorias de sopas e de gelatina. Os trechos pertinentes das outras 47 foram conferidos no corpo retornado pela API e classificados pelo papel do ingrediente. [Recipe of the Week](https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/) · [Categorias REST](https://www.westonaprice.org/wp-json/wp/v2/categories)

@@ -917,3 +917,8 @@ A [nota da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#ressalvas-encontrada
 ## [2026-11-25] revisão | Mais trinta textos de MDA e atribuições conferidas
 
 Os cortes de [26](raw/youtube-mda-leitura-26-2026-11-25.json) e [quatro](raw/youtube-mda-leitura-4-2026-11-25.json) chegam a 108 novos textos lidos, com hashes físicos e disjunção conferidos. Dois editoriais visuais e a abertura acelerada de Brad têm métodos/limites próprios. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md#produtos-de-caldo-em-entrevista-de-outra-apresentadora) preserva a passagem comercial de Autumn Smith, distinguindo autoria, origem pecuária, pó, barras e caldo líquido.
+
+
+## [2026-11-25] revisão | Os 207 corpos disponíveis da coleção atual MDA
+
+O [registro por URL](raw/mda-leitura-editorial-207-2026-11-25.tsv) e seu [resumo](raw/mda-leitura-editorial-207-2026-11-25.json) confirmam 207 corpos, 18.483 linhas e 1.953.475 caracteres lidos, com hashes físicos e faixas conferidos. Introduções sem resposta, remissões e limites históricos permanecem explícitos. A [nota de fonte](wiki/fontes/mark-sisson-caldo-gelatina.md#comparação-de-estimativas-e-experiências-nas-páginas-atuais) preserva relatos, humor e estimativas distintas; a revisão culinária enriquece fichas existentes e registra aveia com peptídeos como opção que não é low carb.

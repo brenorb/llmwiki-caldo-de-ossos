@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "collection": "207 registros source=substack de um inventário de243 registros; ordem preservada, índices0–206.",
+  "available_bodies_fully_read": 207,
+  "lines": 18483,
+  "characters": 1953475,
+  "team_partition": {
+    "retomar_videos": 99,
+    "root": 1,
+    "retomar_audio": 107
+  },
+  "audited": "Hashes físicos de207HTML e207TXT, identidade por índice/URL e cobertura1–N sem lacunas/duplicatas.",
+  "tsv_sha256": "85c982d217903790117f722b97339f7bb4b5d3de35d7c1af0ed6b9eff3f2729f",
+  "not_covered": "Imagens, comentários, áudios/vídeos, destinos externos e equivalência às versões históricas.",
+  "short_or_redirecting_indices": [
+    2,
+    4,
+    6,
+    203
+  ],
+  "old_429_entries": 125,
+  "old_429_status": "Os207arquivos atuais existem; os erros antigos não foram usados como lacunas presentes.",
+  "site_scope": "Não é todo o histórico MDA: o manifesto de relançamento descreve mais de6000posts/páginas antigos em republicação progressiva.",
+  "incorporation": "Parte das receitas já tinha ficha. A conclusão textual não implica descoberta de207novos achados nem auditoria das referências clínicas citadas."
+}

@@ -121,3 +121,8 @@ Revisão em **25/11/2026**. As primeiras 14 fichas e os quatro cocktails vieram 
 Os nove vídeos com fala também tiveram os encerramentos visuais amostrados desde três segundos antes do último início de segmento ASR. Não foram examinados todos os seus frames. O último timestamp reconhecido não é o fim da fala; sua distância até o fim do arquivo não comprova corte. O [registro dos encerramentos](../../raw/youtube-encerramentos-11-2026-11-25.tsv) preserva intervalos e limites, além de dois anúncios examinados separadamente.
 
 Estas são fontes culinárias e comerciais. Alegações de benefício para cabelo, pele ou unhas não foram usadas como comprovação clínica, e nenhuma destas receitas estabelece que colágeno cause repigmentação. [Evidência sobre cabelos brancos](cabelos-brancos.md) · [Cuidados de preparo e conservação](seguranca-conservacao.md)
+
+
+## Aveia com peptídeos, uso opcional do Mark’s Daily Apple
+
+Em [Are Oats Healthy?](https://www.marksdailyapple.com/p/are-oats-healthy), o blog sugere misturar whey **ou** peptídeos ao terminar o cozimento da aveia, sem dose ou fórmula própria. **O mingau de aveia não é uma opção low carb por receber colágeno.** Para um preparo diferente com menos amido, experimente uma base de chia e leite de coco sem açúcar e siga a dose do rótulo; essa adaptação é da wiki e não foi testada. Peptídeos não substituem a função de uma gelatina firme.

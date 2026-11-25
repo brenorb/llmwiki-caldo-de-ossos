@@ -159,6 +159,8 @@ Salteie vagens em manteiga, acrescente cerca de **120 mL de caldo de ossos** e d
 
 ## Sopa de frango com gengibre e cúrcuma
 
+A criação publicada pelo blog é de **Priscilla Chamessian**.
+
 Para o fundo, cubra **1,6–1,8 kg de frango inteiro** com cerca de **3,3–3,8 L de água**. Junte **3 cenouras**, **3 talos de salsão**, **¼–½ cebola**, **3 pedaços de cúrcuma fresca**, **5–8 cm de gengibre**, **2 dentes de alho**, pimenta-do-reino em grãos e **1 colher de chá de sal**. Cozinhe tampado em fervura branda por **1 h**. Vire o frango e cozinhe mais **45–60 min**. Coe o caldo e desfie a carne.
 
 Refogue em **5 colheres de sopa de manteiga ou óleo de abacate** a cebola, o salsão e a cenoura ralados, na proporção de **½**, **1½** e **2 xícaras**, respectivamente. Junte **3 xícaras de abobrinha ralada** e **1½ xícara de batata-doce ralada**. Deixe amaciar, devolva o caldo e acrescente o frango desfiado e **1–2 pedaços de cúrcuma fresca ralada**. Cozinhe mais **5–10 min** em fogo brando. Finalize com coentro e limão. Para reduzir o amido, omita a batata-doce ou substitua por mais abobrinha. [Ginger Turmeric Chicken Soup Recipe, Mark’s Daily Apple](https://www.marksdailyapple.com/p/ginger-turmeric-chicken-soup-recipe)
@@ -183,6 +185,8 @@ Refogue a cebola e os talos picados da couve na gordura. Junte alho, gengibre e 
 A publicação usa carne bovina magra, extrato de tomate, cebola, alho, pimentão, pimenta em pó, cominho e páprica defumada, com chipotle opcional. Cubra com caldo de ossos respeitando o limite da panela. Cozinhe sob pressão até a carne desmanchar. Abra a panela após despressurizar e reduza o líquido até engrossar. A fonte deixa as quantidades e o tempo em aberto e oferece feijão como opcional. Para uma versão com menos carboidratos, mantenha a base sem feijão e use extrato de tomate sem açúcar adicionado. Sirva após o preparo ou siga as orientações de resfriamento e armazenamento. [Easy Camping Meals You Can Prepare at Home, seção sobre chili na pressão](https://www.marksdailyapple.com/p/easy-camping-meals-you-can-prepare-at-home) · [Segurança e conservação](seguranca-conservacao.md)
 
 ## Gelatina culinária em curry, molhos e infusões
+
+A publicação sobre acampamento também descreve desidratar o chili, mas não fornece temperatura ou duração desse processo. A ficha acima permite servir o preparo cozido; não valida conservação fora de refrigeração em trilhas.
 
 | Uso | Método e adaptação |
 | --- | --- |

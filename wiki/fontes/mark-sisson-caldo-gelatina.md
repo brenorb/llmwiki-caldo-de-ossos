@@ -83,6 +83,8 @@ O [inventário do WordPress de dezembro de 2023](../../raw/inventario-mark-recei
 
 ## Publicações atuais sobre colágeno
 
+A [leitura por URL da coleção atual](../../raw/mda-leitura-editorial-207-2026-11-25.tsv) cobre **207 corpos disponíveis**, incluindo negativos, com hashes de HTML/TXT e faixas integrais conferidos. As introduções curtas de *The Tech I DO Use* e *Protein Intake Vs. Intermittent Fasting* não respondem às perguntas que apresentam; não foram tratadas como artigos históricos completos. Há também remissões a vídeo e a guia ampliado fora da página. O [resumo de cobertura](../../raw/mda-leitura-editorial-207-2026-11-25.json) separa essas limitações e a coleção atual do histórico de milhares de publicações.
+
 - [10 Reasons to Eat More Collagen](https://www.marksdailyapple.com/p/10-reasons-to-eat-more-collagen) trata de articulações, pele e outros desfechos, com combinações de hipóteses e resultados de estudos com ingredientes isolados.
 - [Guia de peptídeos de colágeno](https://www.marksdailyapple.com/p/definitive-guide-to-collagen-peptides-protein) descreve colágeno hidrolisado e inclui a experiência de Sisson com o tendão de Aquiles após suplementação. O relato não permite saber quanto da recuperação decorreu do produto.
 - [Perguntas sobre suplementos](https://www.marksdailyapple.com/p/questions-about-collagen-supplements) menciona caldo, gelatina para dar corpo ao curry e a prática pessoal de tomar colágeno ou gelatina à noite. Os estudos de glicina e sono têm uma intervenção distinta.
@@ -91,6 +93,17 @@ O [inventário do WordPress de dezembro de 2023](../../raw/inventario-mark-recei
 - Em outubro de 2026, Sisson citou caldo de ossos, carnes gelatinosas e ensopados como fontes alimentares de colágeno e sugeriu que colágeno e colostro bovino poderiam ter efeitos complementares sobre o intestino. As seis referências listadas tratam de colostro. Entre elas, um ensaio mediu permeabilidade em atletas e outro avaliou IGF-1 plasmático. A coluna não cita um ensaio da combinação com colágeno ou com caldo, nem estabelece uma dose de caldo. [Colostro versus colágeno](https://www.marksdailyapple.com/p/colostrum-vs-collagen-which-one-should) · [Ensaio de permeabilidade](https://pubmed.ncbi.nlm.nih.gov/28397754/) · [Ensaio de IGF-1](https://pubmed.ncbi.nlm.nih.gov/31123862/)
 
 A revarredura por termos alternativos recuperou a menção **bone jelly** em [*What We Can Learn From Kids*, 25/08/2021, seção Eat whole foods that taste good](https://www.marksdailyapple.com/p/what-we-can-learn-from-kids). O texto descreve crianças escolhendo alimentos e atribui a um caso melhora de raquitismo com óleo de fígado de bacalhau. A lista e o caso correspondem ao [relato de Davis de 1939](davis-1939-auto-selecao.md); essa identificação é inferência pela descrição, pois a página consultada não fornece a referência completa. O original permite examinar o desenho e distingue a dieta variada do efeito isolado de caldo ou gelatina. [Método da revarredura](../../raw/inventario-mark-receitas.md#revarredura-por-termos-alternativos-no-corpo-atual)
+
+## Comparação de estimativas e experiências nas páginas atuais
+
+| Fonte | O que o texto permite registrar |
+| --- | --- |
+| [Colágeno vegetariano](https://www.marksdailyapple.com/p/vegetarian-collagen) e [10 Reasons](https://www.marksdailyapple.com/p/10-reasons-to-eat-more-collagen) | O primeiro alega necessidade de **16 g/dia de glicina** e déficit de **10 g**; o segundo usa **10 g/dia** e déficit de **7 g**. São contas editoriais diferentes, não uma necessidade oficial ou medição de caldo. |
+| [Perguntas sobre suplementos](https://www.marksdailyapple.com/p/questions-about-collagen-supplements) | O autor admite que a dose ótima não está estabelecida e que o caldo varia por ingredientes/tempo. Sua meta de colágeno deriva de uma estimativa de glicina; não estabelece concentração universal no líquido. |
+| [10 Reasons](https://www.marksdailyapple.com/p/10-reasons-to-eat-more-collagen) | Relata caneca grande de caldo cerca de uma hora antes de dormir. A aproximação com estudos de **glicina isolada** não mede a caneca nem demonstra o mesmo efeito clínico do caldo. |
+| [5 Unconventional Ways to Extend Your Life](https://www.marksdailyapple.com/p/5-unconventional-ways-to-extend-your-life) | A proposta extravagante de caldo de tendões, caudas, orelhas e pés integra um texto humorístico que admite extrapolação e possível efeito nulo. Não foi incorporada como receita literal ou intervenção de longevidade. |
+
+Cobre, folato e K2 citados em chocolate, fígado, folhas, leguminosas, natto ou queijo permanecem atribuídos a esses alimentos. A leitura da coleção não localizou medição de B9 no caldo ou repigmentação ligada ao caldo nesses corpos. Imagens, comentários e referências clínicas externas não ganham cobertura por esse resultado textual.
 
 ## Afirmações recorrentes no arquivo antigo
 

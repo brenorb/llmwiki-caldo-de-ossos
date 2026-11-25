@@ -817,3 +817,8 @@ A [síntese de saúde](wiki/temas/alegacoes-saude.md) incorpora as alegações s
 ## [2026-11-25] ingestão | Relato infantil, piloto SCD/GAPS e diretriz NICE
 
 A [matriz](wiki/temas/relatos-e-evidencia.md) contextualiza o relato do episódio 131 com o [piloto multicomponente](wiki/fontes/abele-2021-scd-gaps-autismo.md) e a [NICE CG170](wiki/fontes/nice-cg170-autismo-dietas.md). A nota distingue comparações pré–pós e entre grupos e preserva as limitações para atribuir qualquer resultado ao caldo. O [registro de acesso](raw/busca-saude.md#dieta-gaps-caldo-e-relato-de-tea-em-25-de-novembro) informa versões e hashes.
+
+
+## [2026-11-25] revisão | Cartelas dos 34 vídeos sem fala reconhecida
+
+O [inventário visual por ID](raw/youtube-revisao-visual-34-2026-11-25.tsv) registra 1.289 quadros a 1 fps e 120 adicionais em quatro intervalos rápidos. A [nota de fonte](wiki/fontes/primal-kitchen-receitas-peptideos.md) e o [catálogo](wiki/temas/receitas-peptideos.md#o-que-foi-efetivamente-conferido) distinguem a amostragem densa da reprodução contínua e preservam a atribuição das medidas às fichas escritas.

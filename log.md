@@ -761,3 +761,7 @@ O [inventário](raw/inventario-wapf-receitas.md#episódio-179-na-continuação-e
 ## [2026-11-25] ingestão | Barras de abóbora e revisão visual de vídeos sem fala
 
 A [receita de barras](wiki/temas/aplicacoes-culinarias.md#barras-de-abóbora-com-peptídeos) registra as medidas, os carboidratos estimados pela marca e a divergência de adoçante na demonstração. O [inventário](raw/inventario-mark-receitas.md#retomada-em-25-de-novembro-de-2026) distingue TXT disponível e verificação de mídia e incorpora sete leituras visuais.
+
+## [2026-11-25] revisão | Integridade das duas lives recuperadas sem limite
+
+A [auditoria](raw/busca-receitas-relatos.md#duração-e-cobertura-das-lives) confirmou os 87 blocos das duas lives inicialmente afetadas pelo limite histórico. O [registro de integridade](raw/auditoria-duas-lives-2026-11-25.json) preserva as contagens e os hashes. A conferência não encontrou bloco ausente ou vazio e mantém a ressalva sobre erros de reconhecimento de fala.

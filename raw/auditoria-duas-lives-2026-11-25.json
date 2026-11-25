@@ -1,0 +1,185 @@
+[
+  {
+    "id": "CUquPfkJqZm",
+    "duration_previously_probed": 4651.176,
+    "blocks": 39,
+    "complete_flag": "39 trechos de até 120 s",
+    "nonempty_blocks": 39,
+    "timestamps": 937,
+    "first": 1,
+    "last": 4646,
+    "end_gap": 5.176,
+    "last_block_duration": 91.176,
+    "done_messages": 39,
+    "completed_paths": 39,
+    "backwards_timestamps": [
+      [
+        1319,
+        1318,
+        -1
+      ],
+      [
+        2639,
+        2638,
+        -1
+      ],
+      [
+        3599,
+        3598,
+        -1
+      ]
+    ],
+    "gaps_over_20s": [
+      [
+        63,
+        121,
+        58
+      ],
+      [
+        164,
+        185,
+        21
+      ],
+      [
+        638,
+        676,
+        38
+      ],
+      [
+        1228,
+        1251,
+        23
+      ],
+      [
+        2521,
+        2543,
+        22
+      ],
+      [
+        2971,
+        2995,
+        24
+      ],
+      [
+        3017,
+        3038,
+        21
+      ],
+      [
+        3047,
+        3071,
+        24
+      ],
+      [
+        3677,
+        3703,
+        26
+      ]
+    ],
+    "sha256": "2fff55d65784466f903530ab47ce6aafe18cc67ad2bff72c3911fe91d0fea2cd"
+  },
+  {
+    "id": "CUlYbyDJ5Aj",
+    "duration_previously_probed": 5698.628,
+    "blocks": 48,
+    "complete_flag": "48 trechos de até 120 s",
+    "nonempty_blocks": 48,
+    "timestamps": 1476,
+    "first": 0,
+    "last": 5696,
+    "end_gap": 2.628,
+    "last_block_duration": 58.628,
+    "done_messages": 48,
+    "completed_paths": 48,
+    "backwards_timestamps": [
+      [
+        599,
+        598,
+        -1
+      ],
+      [
+        1199,
+        1198,
+        -1
+      ],
+      [
+        2159,
+        2158,
+        -1
+      ],
+      [
+        2759,
+        2758,
+        -1
+      ],
+      [
+        3359,
+        3358,
+        -1
+      ],
+      [
+        4079,
+        4078,
+        -1
+      ],
+      [
+        4799,
+        4798,
+        -1
+      ]
+    ],
+    "gaps_over_20s": [
+      [
+        292,
+        317,
+        25
+      ],
+      [
+        413,
+        445,
+        32
+      ],
+      [
+        445,
+        469,
+        24
+      ],
+      [
+        629,
+        651,
+        22
+      ],
+      [
+        1455,
+        1501,
+        46
+      ],
+      [
+        1501,
+        1533,
+        32
+      ],
+      [
+        1768,
+        1800,
+        32
+      ],
+      [
+        2310,
+        2333,
+        23
+      ],
+      [
+        2765,
+        2787,
+        22
+      ],
+      [
+        2859,
+        2880,
+        21
+      ]
+    ],
+    "sha256": "c5d1daf830d002ecd8afc62e8ba60d557f36e664ed960adae50049526b5f612f"
+  }
+]

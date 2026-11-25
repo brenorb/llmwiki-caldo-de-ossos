@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-25",
+  "census_date": "2026-11-11",
+  "scope": "50 URLs da ordem normalizada do catálogo, após excluir 50 do lote anterior e seis health narrativos: 393−56=337 antes deste lote. Exclusões e seleção disjuntas.",
+  "editorial_available_bodies_fully_read": 50,
+  "unique_requested_urls": 50,
+  "unique_current_canonicals": 50,
+  "lines": 5644,
+  "characters": 1400072,
+  "partitions": {
+    "00-24": 25,
+    "25-49": 25
+  },
+  "physical_verification": "Root conferiu os 50 HTML/TXT e as faixas inclusivas 1–fim; 5.644 linhas e 1.400.072 caracteres.",
+  "ordering_limit": "Índice 21 declara canonical /es/... diferente da URL do catálogo/final. Ordem de todo o catálogo de canônicas atuais não foi verificada; não houve substituição.",
+  "canonical_differences": [
+    {
+      "index": 21,
+      "requested": "https://www.westonaprice.org/health-topics/ancient-dietary-wisdom-tomorrows-children-spanish-translation/",
+      "canonical": "https://www.westonaprice.org/es/health-topics/ancient-dietary-wisdom-tomorrows-children-spanish-translation/"
+    }
+  ],
+  "not_covered": "Imagens, tabelas em imagem, comentários, áudio/vídeo, anexos e referências externas. Bibliografia visível lida não é leitura dos originais.",
+  "novelty": "Nova prova de reconsulta editorial, não 50 novas receitas/benefícios ou prova de que nunca foram lidos.",
+  "table_sha256": "f04ac928de9221c7a8f2bb878e1efd40e94db907052c3e24affd5cebfa28b660",
+  "source_ledgers_sha256": {
+    "ledger-faixa-00-24.jsonl": "09b9ef29f4622b06d45ea9d15cc2fe8c82c3a12d7a895646437a7f195428244e",
+    "ledger-faixa-25-49.jsonl": "555a5ac9825f38cd7c692508ff0c3c35ae0e64186d4369755a05e3acbd2f1ea4"
+  }
+}

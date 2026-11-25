@@ -14,4 +14,16 @@ As sugestões para reduzir carboidratos são da wiki, sem teste ou cálculo de m
 | [Bone Marrow Ice Cream — Savory or Sweet](https://www.westonaprice.org/bone-marrow-ice-cream-savory-or-sweet/), Janine Farzin | Ambas usam **4 lb de ossos**, **2 xícaras de creme e 3 gemas**. Asse ossos a **325°F (163°C), 30–40 min**, retire tutano, bata com os ingredientes e use sorveteira conforme o aparelho. **Salgado:** 1 xícara de ervas, suco de 2 limões, ¼ de colher de chá de cada sal/canela/cardamomo. **Doce:** 1 colher de sopa de canela, ¾ de colher de chá de baunilha, ⅛ de colher de chá de sal e **⅛ de xícara de xarope de bordo**. | O salgado não leva açúcar na base; fruta da guarnição é opcional. No doce, experimente adoçante culinário, sabendo que o congelamento/textura mudam. A aproximação da fonte “2 limões ≈2 colheres de sopa” não é conversão universal. A fórmula original não cozinha as gemas. |
 | [Raw Bone Marrow Recipes](https://www.westonaprice.org/raw-bone-marrow-recipes/), compilação; smoothie de Hilary Boynton | Smoothie: **1 xícara de morangos, 3 colheres de sopa de manteiga, ½ xícara de tutano cru, 1 colher de sopa de mel, 2 ovos crus e ¼ de xícara de creme**. Bate tudo e incorpora o creme brevemente. A página também remete a um custard externo, cujo método não está no corpo. | Original com mel, fruta e ingredientes crus. Uma adaptação da wiki seria tutano previamente cozido e frio, ovos pasteurizados, creme pasteurizado e adoçante em vez de mel; **não testada**. O congelamento prévio de 14 dias sugerido na introdução da fonte não foi adotado como protocolo de segurança da wiki. |
 
-As afirmações de imunidade, aprendizado, reparo intestinal ou composição feitas nas introduções não são demonstradas pelas receitas. [Relatos e evidência por desfecho](relatos-e-evidencia.md) · [Registro das sete fontes](../../raw/wapf-receitas-tutano-2026-11-25.json)
+## Outras fórmulas de Janine Farzin
+
+Três fórmulas do [artigo de Janine Farzin](https://www.westonaprice.org/health-topics/bone-marrow-nutrient-benefits/), separadas da análise do tecido cru.
+
+| Preparo | Medidas e método da fonte | Adaptação e lacunas |
+| --- | --- | --- |
+| Tutano assado | Ossos a **350°F (177°C), 40 min**, até centro macio; sal e ervas. | Sem açúcar adicionado. Quantidade de ossos não especificada. |
+| Ossobuco lento | Água até **⅔ da altura**; sal, pimenta, ervas, louro e alecrim. Forno tampado a **275°F (135°C), 5–6 h**; legumes nos últimos **40–50 min**. | Carne sem massa fixa. Para menos amido, escolha abobrinha/repolho. |
+| Creme ou sorvete | Asse **2–5 lb de ossos** a **350°F, 40 min**; bata tutano com **3 gemas, 2 xícaras de creme**, sal/aromas; asse ou use sorveteira. | Creme sem tempo/temperatura. Prefira ficha definida acima; no sorvete, ovos/creme pasteurizados. Xarope opcional acrescenta açúcar. |
+
+[Reconsulta documentada](../../raw/wapf-health-mais50-2026-11-25.tsv); fórmulas não testadas pela wiki.
+
+As afirmações de imunidade, aprendizado, reparo intestinal ou composição feitas nas introduções não são demonstradas pelas receitas. [Relatos e evidência por desfecho](relatos-e-evidencia.md) · [Registro das sete fontes iniciais](../../raw/wapf-receitas-tutano-2026-11-25.json)

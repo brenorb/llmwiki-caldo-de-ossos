@@ -972,3 +972,8 @@ O [registro por endereço](raw/wapf-health-negativos-50-2026-11-25.tsv) e o [res
 ## [2026-11-25] revisão | Dez textos MDA e revisões visuais separadas
 
 O [lote de nove](raw/youtube-mda-leitura-9-2026-11-25.json) e o [corte Drew](raw/youtube-mda-drew-2026-11-25.json) chegam a 118 textos novos integralmente lidos, com disjunção e hashes conferidos. A [passagem comercial de Eric Perner](wiki/fontes/mark-sisson-caldo-gelatina.md#produtos-e-usos-na-entrevista-de-eric-perner) foi incorporada sem inventar fórmula dos pops ou atribuir fala a Sisson. Três vídeos vazios e um intervalo anterior têm revisão por amostragem identificada. A fila foi retomada depois de parada confirmada, preservando artefatos, sem timeout por gravação ou recontagem de textos.
+
+
+## [2026-11-25] revisão | Mais cinquenta corpos health e métodos de tutano
+
+O [lote de 50](raw/wapf-health-mais50-2026-11-25.tsv) e o [resumo](raw/wapf-health-mais50-2026-11-25.json) preservam duas faixas disjuntas, hashes físicos e todas as 5.644 linhas. O catálogo e o caderno de tutano receberam medidas/lacunas verificadas; a nota da WAPF separa relatos, valores de ingredientes e limites analíticos. A divergência de canonical espanhol e a cobertura exclusivamente textual foram preservadas.

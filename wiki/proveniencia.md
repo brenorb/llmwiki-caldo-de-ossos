@@ -102,3 +102,5 @@ A [cadeia condroitina/melanina](fontes/seneff-2011-cadeia-melanina.md) é confer
 O [lote de cinquenta endereços antes negativos](../raw/wapf-health-negativos-50-2026-11-25.tsv) preserva 43 textos, dois índices e cinco landings. Texto disponível integral não implica artigo histórico/anexo lido; sem corpos antigos não se atribui automaticamente a diferença à triagem. Percentuais de estruturas celulares não foram transferidos ao caldo.
 
 Os cortes de [nove textos](../raw/youtube-mda-leitura-9-2026-11-25.json) e [Drew](../raw/youtube-mda-drew-2026-11-25.json) preservam identidade por ID, atribuições e metadados físicos. Quadros de vídeos vazios e revisões de intervalos não aumentam a contagem dos 118 textos lidos. Produtos comerciais e ideias sem fórmula não foram transformados em receitas medidas.
+
+O [segundo lote positivo health](../raw/wapf-health-mais50-2026-11-25.tsv) une duas faixas de 25 sem duplicar URLs anteriores. A ordem é do catálogo, com canonical atual observado por item; bibliografia, rótulos de figuras e relatos clínicos da fonte não foram promovidos a leitura dos estudos, valores das imagens ou validação terapêutica.

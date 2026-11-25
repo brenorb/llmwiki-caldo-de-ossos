@@ -179,3 +179,15 @@ A [conferência bibliográfica](seneff-2011-cadeia-melanina.md) preserva a alega
 Os [50 endereços reconsultados](../../raw/wapf-health-negativos-50-2026-11-25.tsv) incluem 43 textos, dois índices e cinco landings/placeholders; anexos e mídias seguem fora da cobertura. O [overview dos princípios](https://www.westonaprice.org/11-principles-overview/) atual menciona caldo em sopas/molhos. Uma [tradução japonesa](https://www.westonaprice.org/health-topics/ancient-dietary-wisdom-tomorrows-children-japanese-translation/) lista sopa de ossos entre os alimentos da dieta suíça de Price, sem isolar seu efeito. Os originais antigos não foram retidos para decidir se as menções atuais resultam de alteração ou falha da busca anterior.
 
 Em [Why We Need Carbs](https://www.westonaprice.org/health-topics/abcs-of-nutrition/why-we-need-carbs/), os 95% de carboidrato e 5% de proteína descrevem proteoglicanos em um argumento sobre estruturas celulares. Não são resultados de análise de caldo. As passagens sobre vitaminas/gestação do lote são contextos de outros objetos, sem nova dosagem de B9 no líquido. [Escopo e anexos pendentes](../../raw/wapf-health-negativos-50-2026-11-25.json)
+
+
+## Segundo lote de 50 corpos positivos health
+
+A [nova prova por URL](../../raw/wapf-health-mais50-2026-11-25.tsv) inclui listas, consultas e artigos longos, todos com corpo disponível lido. Os [limites](../../raw/wapf-health-mais50-2026-11-25.json) preservam imagens/anexos e uma divergência de canonical espanhol.
+
+- [Magnificent Magnesium](https://www.westonaprice.org/health-topics/abcs-of-nutrition/magnificent-magnesium/) atribui o valor de um concentrado mineral ao ingrediente acrescentado, sem análise do caldo. O relato doméstico inclui diversas intervenções e caldo já presente na dieta.
+- [Vitamin B12](https://www.westonaprice.org/health-topics/abcs-of-nutrition/vitamin-b12-vital-nutrient-for-good-health/) cita pesquisas de outro objeto; listar Juhlin/Olsson ou Mori não estabelece tratamento com caldo. O relato de injeções também é distinto da bebida.
+- [Gastroparesis](https://www.westonaprice.org/health-topics/ask-the-doctor/gastroparesis/) sugere uma colher de chá extra de gelatina no caldo, sem volume-base ou seguimento do leitor. É conselho num programa combinado, não proporção culinária universal nem resultado clínico demonstrado.
+- [Bone Broth and Lead Contamination](https://www.westonaprice.org/health-topics/bone-broth-and-lead-contamination-a-very-flawed-study-in-medical-hypotheses/) relata testes como **não detectado**, com limites analíticos; isso não significa zero. O corpo dá datas 14/2 e 1/3/2013, enquanto a nota 65 traz 19/2 e 5/3/2013. Os laudos externos não foram abertos nesta reconsulta; a divergência foi mantida.
+
+Os conselhos de Cowan sobre gota, intestino, varizes, febre ou exposição ambiental envolvem dietas/produtos e não são ensaios isolados de caldo. Contrapontos/correções inseridos nos textos sobre tétano e gripe foram lidos e permanecem no registro de trabalho; não foram omitidos nem adotados como orientação clínica atual.

@@ -862,3 +862,8 @@ Os recortes de EN142 e EN168 recuperaram fala omitida no reconhecimento anterior
 ## [2026-11-25] revisão | Mais 14 textos integrais de Mark's Daily Apple
 
 O [segundo corte por ID](raw/youtube-mda-leitura-14-2026-11-25.json) acrescenta 1h50min57,85s e chega a 38 textos novos lidos, sem duplicação com os 24 anteriores. O [inventário](raw/inventario-mark-receitas.md#segundo-lote-amplo-de-marks-daily-apple-lido) e a nota de fonte registram a declaração pessoal de suplemento e a conferência da cauda de slackline, sem converter o último timestamp em fim da fala ou dose do suplemento em concentração do caldo.
+
+
+## [2026-11-25] ingestão | Bone jelly e conferência do relato histórico de Davis
+
+A [revarredura de 207 corpos](raw/mda-retriagem-aliases-2026-11-25.json) encontrou a menção alternativa em Sisson. A [nota de Davis](wiki/fontes/davis-1939-auto-selecao.md) distingue observação da dieta completa de teste de caldo ou gelatina. O [registro de acesso](raw/busca-saude.md#bone-jelly-e-auto-seleção-alimentar-em-25-de-novembro) informa o fac-símile lido e seu hash. A matriz incorpora o contexto sem classificá-lo como ensaio do caldo.

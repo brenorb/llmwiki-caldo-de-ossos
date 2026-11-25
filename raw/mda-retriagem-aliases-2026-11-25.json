@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-25",
+  "baseline_date": "2026-11-11",
+  "source": "https://www.marksdailyapple.com/sitemap.xml",
+  "archived_post_bodies_screened": 207,
+  "body_extraction": "markup em 207/207 arquivos, cada um com mais de 100 caracteres; a triagem não é leitura manual integral dos 207.",
+  "new_aliases": [
+    "stock",
+    "stocks",
+    "bouillon",
+    "brodo",
+    "consommé",
+    "jelly",
+    "jellies",
+    "gelatine",
+    "pannacotta"
+  ],
+  "post_bodies_with_aliases": 14,
+  "food_contexts": 7,
+  "figurative_or_other_objects": 7,
+  "rows": [
+    {
+      "url": "https://www.marksdailyapple.com/p/ginger-turmeric-chicken-soup-recipe",
+      "html_sha256": "c86727aac512ce8da8cfc65e82ef5aa459a071384c1f9864990f7e4599613aeb",
+      "terms": {
+        "stock": 2
+      },
+      "body_characters": 5840,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Referência alimentar; já documentada salvo a menção bone jelly em What We Can Learn From Kids."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/what-we-can-learn-from-kids",
+      "html_sha256": "6394815cc72f07b1b32af1939b114a1d0df54595a86a679b345a1e8592016c38",
+      "terms": {
+        "jelly": 1
+      },
+      "body_characters": 10872,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": true,
+      "classification": "Referência alimentar; já documentada salvo a menção bone jelly em What We Can Learn From Kids."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/definitive-guide-to-collagen-peptides-protein",
+      "html_sha256": "484b124d0f6b899afbd150078896e2b8a5e488696800897421f24a752f3cc6f0",
+      "terms": {
+        "stocks": 1
+      },
+      "body_characters": 16338,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Referência alimentar; já documentada salvo a menção bone jelly em What We Can Learn From Kids."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/keto-meal-prep",
+      "html_sha256": "b0ed416a85371b8b833e325aea1be8a92b3d9b80d7998e45c9200ed1fc86a599",
+      "terms": {
+        "stocks": 1,
+        "stock": 3
+      },
+      "body_characters": 7698,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Referência alimentar; já documentada salvo a menção bone jelly em What We Can Learn From Kids."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/electrolytes-keto",
+      "html_sha256": "cb1a82338e04b2027a87d38f8f922ce98cb49d0512e018812f111e2ba91af8f1",
+      "terms": {
+        "bouillon": 1
+      },
+      "body_characters": 6567,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Referência alimentar; já documentada salvo a menção bone jelly em What We Can Learn From Kids."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/definitive-guide-to-supplementation",
+      "html_sha256": "12ed3d1452c1610fb3115b8d88f62e8b00a0edb1352d24fe3fabafa31a6eed31",
+      "terms": {
+        "stocks": 1
+      },
+      "body_characters": 16466,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Referência alimentar; já documentada salvo a menção bone jelly em What We Can Learn From Kids."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/7-subjective-longevity-markers-to-track-and-fix",
+      "html_sha256": "d54e3df5c351ca50bd84f92e3e094d5bc2719ff0f771032d0666b1c1fa9d4aae",
+      "terms": {
+        "stock": 1
+      },
+      "body_characters": 9285,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Uso figurado de stock, tom padrão de alarme ou jelly de coco; não é caldo/gelatina animal."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/10-reasons-to-eat-more-collagen",
+      "html_sha256": "de87ed58fee942f0eab1b22b3fafcddd5b13d6f1e72ccd9afefbeddba3ebe37c",
+      "terms": {
+        "stock": 1
+      },
+      "body_characters": 10307,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Referência alimentar; já documentada salvo a menção bone jelly em What We Can Learn From Kids."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/the-definitive-guide-to-using-your-recent",
+      "html_sha256": "a3ef6815e6b5919c49859499831dbe2c6a7a4140edec52d08183db4b94f937a5",
+      "terms": {
+        "stock": 2
+      },
+      "body_characters": 15022,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Uso figurado de stock, tom padrão de alarme ou jelly de coco; não é caldo/gelatina animal."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/the-best-exercise-there-is-hands-down",
+      "html_sha256": "9b42b1808dc9e86006aec17c7d2d2e2cf2c46e22a8738522ebab2ee48978365b",
+      "terms": {
+        "stock": 1
+      },
+      "body_characters": 9172,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Uso figurado de stock, tom padrão de alarme ou jelly de coco; não é caldo/gelatina animal."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/the-pleasures-of-slow-living",
+      "html_sha256": "0c2bac6d6ce414df443518043316b5f37c89d9fbffd48239fcd2201cc4c3f6fc",
+      "terms": {
+        "stock": 1
+      },
+      "body_characters": 8724,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Uso figurado de stock, tom padrão de alarme ou jelly de coco; não é caldo/gelatina animal."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/15-ways-to-fight-stress",
+      "html_sha256": "8bac77b85cfb622bcf1b3fc5da76a2994210acb0446209aeb2954195bcb5aa6a",
+      "terms": {
+        "stock": 1
+      },
+      "body_characters": 12052,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Uso figurado de stock, tom padrão de alarme ou jelly de coco; não é caldo/gelatina animal."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/sound-cues-and-circadian-rhythms",
+      "html_sha256": "598b8a4887dcbbe67d75da38e23a570e8499885029e33dedfc0f46338162749b",
+      "terms": {
+        "stock": 1
+      },
+      "body_characters": 6841,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Uso figurado de stock, tom padrão de alarme ou jelly de coco; não é caldo/gelatina animal."
+    },
+    {
+      "url": "https://www.marksdailyapple.com/p/the-wonderful-world-of-coconut-products",
+      "html_sha256": "7e422c7965eb869504f6ce012a8d47528eea5086a7389245cee24eff3410ba9a",
+      "terms": {
+        "jelly": 1
+      },
+      "body_characters": 8140,
+      "body_method": "markup",
+      "context_reviewed": true,
+      "editorial_text_fully_read_in_this_recheck": false,
+      "classification": "Uso figurado de stock, tom padrão de alarme ou jelly de coco; não é caldo/gelatina animal."
+    }
+  ],
+  "limitations": [
+    "O inventário inicial preserva erros HTTP 429 de uma tentativa antiga; esta rechecagem usou as cópias de corpo recuperadas posteriormente. Não se inferiu ausência do texto pelo erro antigo.",
+    "Ausência de termo não garante ausência de conteúdo relevante; comentários e imagens não foram rechecados neste lote."
+  ]
+}

@@ -90,6 +90,8 @@ O [inventário do WordPress de dezembro de 2023](../../raw/inventario-mark-recei
 
 - Em outubro de 2026, Sisson citou caldo de ossos, carnes gelatinosas e ensopados como fontes alimentares de colágeno e sugeriu que colágeno e colostro bovino poderiam ter efeitos complementares sobre o intestino. As seis referências listadas tratam de colostro. Entre elas, um ensaio mediu permeabilidade em atletas e outro avaliou IGF-1 plasmático. A coluna não cita um ensaio da combinação com colágeno ou com caldo, nem estabelece uma dose de caldo. [Colostro versus colágeno](https://www.marksdailyapple.com/p/colostrum-vs-collagen-which-one-should) · [Ensaio de permeabilidade](https://pubmed.ncbi.nlm.nih.gov/28397754/) · [Ensaio de IGF-1](https://pubmed.ncbi.nlm.nih.gov/31123862/)
 
+A revarredura por termos alternativos recuperou a menção **bone jelly** em [*What We Can Learn From Kids*, 25/08/2021, seção Eat whole foods that taste good](https://www.marksdailyapple.com/p/what-we-can-learn-from-kids). O texto descreve crianças escolhendo alimentos e atribui a um caso melhora de raquitismo com óleo de fígado de bacalhau. A lista e o caso correspondem ao [relato de Davis de 1939](davis-1939-auto-selecao.md); essa identificação é inferência pela descrição, pois a página consultada não fornece a referência completa. O original permite examinar o desenho e distingue a dieta variada do efeito isolado de caldo ou gelatina. [Método da revarredura](../../raw/inventario-mark-receitas.md#revarredura-por-termos-alternativos-no-corpo-atual)
+
 ## Afirmações recorrentes no arquivo antigo
 
 | Tema | O que Sisson ou a publicação afirma | Como interpretar |

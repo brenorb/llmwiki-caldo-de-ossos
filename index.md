@@ -41,6 +41,7 @@
 
 ## Notas de fonte
 
+- [Davis (1939) · Auto-seleção alimentar e bone jelly](wiki/fontes/davis-1939-auto-selecao.md)
 - [Ābele et al. (2021) · Piloto de dieta SCD/GAPS e suplementos](wiki/fontes/abele-2021-scd-gaps-autismo.md)
 - [NICE CG170 · Dietas de exclusão e características centrais do autismo](wiki/fontes/nice-cg170-autismo-dietas.md)
 

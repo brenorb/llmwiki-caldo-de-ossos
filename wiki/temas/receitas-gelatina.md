@@ -123,6 +123,10 @@ A ficha histórica usa **meia cabeça e um pé bovinos**, água para cobrir, lou
 
 Retire a gordura solidificada, aqueça o fundo com a carne picada por 15–20 minutos e tempere com mostarda, pimenta-do-reino e uma pitada de caiena. A ficha também sugere pimenta-da-jamaica ou noz-moscada na ausência de cravo. Distribua em moldes rasos, refrigere até firmar e sirva frio com salada. A gelatina vem dos próprios cortes. [Conservação e resfriamento](seguranca-conservacao.md)
 
+### Souse de ossos bovinos e aparas
+
+A [ficha da WAPF](https://www.westonaprice.org/souse/) usa vários pounds de **ossos bovinos com juntas e aparas**, **2 colheres de sopa de vinagre** e água para cobrir; não define massa exata ou rendimento. Deixe repousar uma hora e cozinhe por **4–24 h**, conforme a fonte. Retire cuidadosamente todos os ossos, pique as partes comestíveis e tempere com sal e especiarias. Divida em recipientes rasos, resfrie prontamente e leve à geladeira para firmar; sirva fatiado. Não é preciso gelatina em pó na fórmula. O original manda esperar esfriar totalmente antes de refrigerar; a wiki segue o [resfriamento seguro](seguranca-conservacao.md). Não há açúcar ou farinha listados.
+
 ## Com gelatina em pó
 
 ### Gelatina de framboesa e coco

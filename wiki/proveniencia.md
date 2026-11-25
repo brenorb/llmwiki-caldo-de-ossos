@@ -73,7 +73,7 @@ O [relatório público do ConsumerLab](fontes/consumerlab-2025-caldos-comerciais
 
 A [leitura integral das 18 transcrições da WAPF](../raw/wapf-leitura-integral-18-2026-11-25.json) preserva o corte contextual anterior. Os intervalos cobrem todas as linhas dos textos identificados por hash; não comprovam que o ASR tenha reconhecido todas as palavras dos áudios. As pendências de qualidade permanecem no [inventário](../raw/inventario-wapf-receitas.md#leitura-integral-posterior-das-dezoito-transcrições).
 
-Na [revisão editorial das receitas da WAPF](../raw/inventario-wapf-receitas.md#leitura-editorial-integral-de-receitas), uma URL já citada não equivale a leitura integral ou ficha culinária incorporada. O denominador de 464, a recuperação de 462 corpos e o corte de 20 leituras novas descrevem etapas distintas.
+Na [revisão editorial das receitas da WAPF](../raw/inventario-wapf-receitas.md#leitura-editorial-integral-de-receitas), uma URL já citada não equivale a leitura integral ou ficha culinária incorporada. O denominador de 464 e a recuperação de 462 corpos descrevem etapas distintas. O [fechamento por página](../raw/wapf-leitura-editorial-464-2026-11-25.tsv) concluiu a leitura editorial; a [incorporação culinária posterior](temas/receitas-wapf-catalogo.md#achados-da-leitura-das-464-páginas) preserva medidas, usos secundários e adaptações, sem equiparar ingredientes distintos ao caldo.
 
 ## Relato de caldo após exposição ao frio
 

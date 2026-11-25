@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-25",
+  "census_date": "2026-11-11",
+  "scope": "Fatia fixa [0:50) das 1.020 URLs health negativas na triagem antiga e sem atividade manual localizada; não todo-site e não garantia de ausência de leitura histórica.",
+  "source_manifest_sha256": "e92a4528cbee079e262c8f448ce191de9cdae3d3b596933291bccc5c97f2bf7a",
+  "items_requested": 50,
+  "total_characters_read": 1012496,
+  "total_lines_read": 3267,
+  "access_status": {
+    "200": 50
+  },
+  "body_type_counts": {
+    "article_speech_translation_or_promotional_text": 43,
+    "overview_or_index": 2,
+    "empty_presentation_or_pdf_placeholder": 5
+  },
+  "scope_limit": "Leitura integral do texto entry-content atual disponível, incluindo referências/encerramento. Não é leitura de imagens, comentários, áudio, slides, PDFs ou fontes externas. Os cinco landings não contam como artigos originais completos.",
+  "method": "Recuperação HTTP pública com resposta e hash preservados; parser estrito entry-content; leitura sequencial em faixas retomáveis; hashes e cobertura de todas as linhas conferidos ao fim. Busca não substituiu leitura. Alegações clínicas não validadas. Nenhuma fila ASR, worker ou repo alterado.",
+  "old_negative_limit": "Corpos antigos não retidos. Uma menção no HTML atual não prova isoladamente erro da triagem antiga, pois pode haver mudança editorial/redirecionamento.",
+  "verified_at_utc": "2026-11-25T23:10:40.568646+00:00",
+  "addresses_reconsulted": 50,
+  "available_texts_and_placeholders_read": 50,
+  "substantive_texts": 43,
+  "indices_or_overviews": 2,
+  "landings_or_placeholders": 5,
+  "article_count_warning": "50 endereços reconsultados não são 50 artigos originais completos; controles de impressão, links e placeholders permanecem classificados.",
+  "table_sha256": "cd274b30ff2bc71b12e6b1e8277f577882f3ec6201c170e358b59ea59716fedf",
+  "physical_verification": "Root conferiu HTML/TXT e cobertura de linhas por item; 50 URLs únicas e ordem 0–49 preservada.",
+  "linked_document_urls_not_read": [
+    "http://health.gov/dietaryguidelines/2015-BINDER/meeting2/docs/refMaterials/Usual_Intake_072013.pdf",
+    "http://health.gov/dietaryguidelines/2015-scientific-report/PDFs/Appendix-E-2.4.pdf",
+    "http://iarc.fr/en/media-centre/pr/2015/pdfs/pr240_E.pdf",
+    "http://www.cdc.gov/nchs/data/nhanes/databriefs/calories.pdf",
+    "http://www.cdc.gov/nutritionreport/pdf/Nutrition_Book_complete508_final.pdf",
+    "http://www.foodbase.org.uk//admintools/reportdocuments/681-1-1229_S14047.pdf",
+    "http://www.valerosos.com/AMERICANPRISONERSOFWAR.pdf",
+    "http://www.westonaprice.org/wp-content/uploads/CampaignforRealMilk2018.ppt",
+    "http://www.westonaprice.org/wp-content/uploads/OilingofAmerica2018.ppt",
+    "http://www.westonaprice.org/wp-content/uploads/SeminarFinalPartI2018.pptx",
+    "http://www.westonaprice.org/wp-content/uploads/SeminarFinalPartII2018.pptx",
+    "http://www.who.int/nutrition/publications/micronutrients/background_paper2_report_assessment_vitAandIron_status.pdf",
+    "https://neilcherry.nz/wp-content/uploads/2021/05/90_b2_EMR_is_a_Universal_Genotoxic_Carcinogen_11-01.pdf",
+    "https://nesr.usda.gov/sites/default/files/2024-11/Dietary-pat­terns_cardiovascular-disease-2025DGACSystematicReview.pdf",
+    "https://nesr.usda.gov/sites/default/files/2024-12/Dietary-patterns_growth-obesity-2025DGACSystematicReview_0.pdf",
+    "https://patrickmadrid.com/wp-content/uploads/2011/10/bodyart.pdf",
+    "https://www.osmosisbeautypro.com/Assets/Files/SkinMapping_October2020.pdf",
+    "https://www.westonaprice.org/wp-content/uploads/Formula-Flyer.pdf",
+    "https://www.westonaprice.org/wp-content/uploads/InspectorForms.pdf",
+    "ttps://nesr.usda.gov/sites/default/files/2024-12/Dietary-patterns_type-2-diabetes-2025DGACSystematicReview_0.pdf"
+  ],
+  "source_public_ledger_sha256": "a38ac68eee744236eff4492b6bb4d7e2973f9754ac8b3e112e1cc9f69ed459d8",
+  "chain_followup": "A referência de condroitina/melanina foi conferida separadamente em wiki/fontes/seneff-2011-cadeia-melanina.md, com acesso aos resumos."
+}

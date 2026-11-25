@@ -172,3 +172,10 @@ Os [métodos culinários incorporados](../temas/receitas-wapf-catalogo.md#comple
 ## Condroitina e a cadeia de referências de Sulfur Deficiency
 
 A [conferência bibliográfica](seneff-2011-cadeia-melanina.md) preserva a alegação, o objeto real da referência 18 e a divergência entre sobrescrito 7 e item 10. Resumos e metadados sustentam a distinção de objetos; o texto integral dos três estudos principais não foi obtido. Essa cadeia não foi usada como comprovação clínica de repigmentação pelo caldo.
+
+
+## Reconsulta dos endereços sem termos na triagem antiga
+
+Os [50 endereços reconsultados](../../raw/wapf-health-negativos-50-2026-11-25.tsv) incluem 43 textos, dois índices e cinco landings/placeholders; anexos e mídias seguem fora da cobertura. O [overview dos princípios](https://www.westonaprice.org/11-principles-overview/) atual menciona caldo em sopas/molhos. Uma [tradução japonesa](https://www.westonaprice.org/health-topics/ancient-dietary-wisdom-tomorrows-children-japanese-translation/) lista sopa de ossos entre os alimentos da dieta suíça de Price, sem isolar seu efeito. Os originais antigos não foram retidos para decidir se as menções atuais resultam de alteração ou falha da busca anterior.
+
+Em [Why We Need Carbs](https://www.westonaprice.org/health-topics/abcs-of-nutrition/why-we-need-carbs/), os 95% de carboidrato e 5% de proteína descrevem proteoglicanos em um argumento sobre estruturas celulares. Não são resultados de análise de caldo. As passagens sobre vitaminas/gestação do lote são contextos de outros objetos, sem nova dosagem de B9 no líquido. [Escopo e anexos pendentes](../../raw/wapf-health-negativos-50-2026-11-25.json)

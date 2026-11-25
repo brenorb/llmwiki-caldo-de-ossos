@@ -962,3 +962,8 @@ O [registro de 50 páginas](raw/wapf-health-leitura-50-2026-11-25.tsv) e o [resu
 ## [2026-11-25] revisão | Condroitina, melanina e referências incompatíveis
 
 A [nota comparativa](wiki/fontes/seneff-2011-cadeia-melanina.md) identifica os objetos de três estudos principais e uma referência adicional, com acesso explícito aos resumos. O [registro](raw/condroitina-melanina-acesso-2026-11-25.json) preserva tentativas, hashes físicos, checagem editorial limitada e lacunas de métodos/financiamento. A síntese foi ligada à página de canície e à matriz de evidência, sem converter mecanismos em dose ou resultado clínico do caldo.
+
+
+## [2026-11-25] revisão | Cinquenta endereços antes negativos, sem substituir landings
+
+O [registro por endereço](raw/wapf-health-negativos-50-2026-11-25.tsv) e o [resumo](raw/wapf-health-negativos-50-2026-11-25.json) preservam 43 textos, dois índices e cinco landings/placeholders. Foram conferidas todas as faixas e hashes de 3.267 linhas/1.012.496 caracteres. Anexos e imagens continuam identificados como não lidos; os corpos antigos indisponíveis impedem decidir entre mudança editorial e falha da triagem. A nota da WAPF distingue as menções atuais e percentuais de outros objetos da composição de caldo.

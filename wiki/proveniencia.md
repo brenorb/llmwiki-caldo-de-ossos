@@ -98,3 +98,5 @@ O [registro de Oyster Nutrition](../raw/oyster-nutrition-acesso-2026-11-25.json)
 A [reconsulta de 50 artigos health](../raw/wapf-health-leitura-50-2026-11-25.tsv) tem hashes físicos e faixas completas por URL. É prova de corpo editorial lido, sem validar aconselhamento clínico/sanitário ou conferir leitura a referências externas. Os complementos culinários e resumos secundários permanecem classificados separadamente.
 
 A [cadeia condroitina/melanina](fontes/seneff-2011-cadeia-melanina.md) é conferência de resumos/metadados e nomenclatura institucional. A distinção entre objeto, enzima e desfecho é explícita; acesso parcial não foi apresentado como leitura de métodos completos ou prova clínica. [Registro](../raw/condroitina-melanina-acesso-2026-11-25.json)
+
+O [lote de cinquenta endereços antes negativos](../raw/wapf-health-negativos-50-2026-11-25.tsv) preserva 43 textos, dois índices e cinco landings. Texto disponível integral não implica artigo histórico/anexo lido; sem corpos antigos não se atribui automaticamente a diferença à triagem. Percentuais de estruturas celulares não foram transferidos ao caldo.

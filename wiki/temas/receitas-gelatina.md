@@ -2,7 +2,7 @@
 
 Há duas maneiras de firmar uma sobremesa. Um caldo bem concentrado já traz gelatina extraída no cozimento. Gelatina culinária em pó permite controlar o ponto quando a base é água, chá, leite de coco ou um caldo que ficou fluido. Peptídeos de colágeno hidrolisado têm outra função culinária e não firmam a mistura como a gelatina em pó. [Colágeno e gelatina](colageno-gelatina.md)
 
-As quantidades a seguir são pontos de partida culinários. As adaptações da wiki não foram testadas em cozinha. Os rótulos e o rendimento da receita ajudam a estimar carboidratos por porção.
+As quantidades a seguir são pontos de partida culinários. As adaptações da wiki não foram testadas em cozinha. Os rótulos e o rendimento da receita ajudam a estimar carboidratos por porção. A [torta de banana do catálogo WAPF](receitas-wapf-catalogo.md#receitas-de-outras-subcategorias-de-recipe-of-the-week) é outra opção com gelatina no recheio; o original contém banana e açúcar.
 
 ## Com caldo de ossos neutro
 

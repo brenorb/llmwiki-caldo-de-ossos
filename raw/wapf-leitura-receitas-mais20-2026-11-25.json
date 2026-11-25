@@ -1,0 +1,437 @@
+{
+  "catalogue_total": 464,
+  "previously_read_excluded": 2,
+  "filtered_total": 462,
+  "method": "Leitura integral do corpo editorial retornado pela API, na ordem fixa por id, com hashes e linhas conferidos. Não inclui comentários, imagens ou mídias não lidas.",
+  "baseline_date": "2026-11-11",
+  "reading_date": "2026-11-25",
+  "scope": "Segundo corte de 20 corpos editoriais, disjunto do primeiro; não conclui os 464.",
+  "completed_slice": [
+    120,
+    140
+  ],
+  "rows": [
+    {
+      "position_in_filtered_catalogue": 120,
+      "id": 30797,
+      "url": "https://www.westonaprice.org/tender-tongue-stew/",
+      "title": "Tender Tongue Stew",
+      "text_sha256": "3fb407bdbf68cf19ffc9b2f25bfaa58ddd11b3c7fd67c39540b229870751144d",
+      "lines": 25,
+      "characters": 2377,
+      "read_line_ranges": [
+        [
+          1,
+          25
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Caldo de frango ou bovino na língua; já catalogada.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 121,
+      "id": 30811,
+      "url": "https://www.westonaprice.org/carob-frosted-nutty-bars/",
+      "title": "Carob-Frosted Nutty Bars",
+      "text_sha256": "60638b1afccf61fed001c05a43904968f0b3049c1365831adff55627886b02e6",
+      "lines": 20,
+      "characters": 1782,
+      "read_line_ranges": [
+        [
+          1,
+          20
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 122,
+      "id": 30893,
+      "url": "https://www.westonaprice.org/baked-sweet-potato-with-ghee-and-walnuts/",
+      "title": "Baked Sweet Potato with Ghee and Walnuts",
+      "text_sha256": "4add60b6a29cb01a43258e31b7adfccaa76cc758b8aad6dbf31ca09600352a3e",
+      "lines": 12,
+      "characters": 735,
+      "read_line_ranges": [
+        [
+          1,
+          12
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 123,
+      "id": 30931,
+      "url": "https://www.westonaprice.org/best-liver-pate-ever/",
+      "title": "Best Liver Pate Ever",
+      "text_sha256": "4dd2c84601be19816602656f1b9774910d5d7b5c620ec61fd4b7e9ff123aa598",
+      "lines": 19,
+      "characters": 1992,
+      "read_line_ranges": [
+        [
+          1,
+          19
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Caldo como alternativa ao vinho no patê; ao servir sugere 1–2 colheres de patê no caldo, uso acrescentado ao catálogo.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 124,
+      "id": 31055,
+      "url": "https://www.westonaprice.org/cucumber-chips/",
+      "title": "Cucumber Chips",
+      "text_sha256": "efc3ccf6a28e20f237ddddbf8c436b25ec07e504408b4d3ac38824bc8776d4a5",
+      "lines": 6,
+      "characters": 758,
+      "read_line_ranges": [
+        [
+          1,
+          6
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 125,
+      "id": 31078,
+      "url": "https://www.westonaprice.org/summer-salmon-salad/",
+      "title": "Summer Salmon Salad",
+      "text_sha256": "ab7837a53747dcfa63d9f86d41dad59f3e48fb3d2619832d2fb0ffe8e2d8e7d6",
+      "lines": 19,
+      "characters": 1559,
+      "read_line_ranges": [
+        [
+          1,
+          19
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 126,
+      "id": 31169,
+      "url": "https://www.westonaprice.org/almond-grits/",
+      "title": "Almond Grits",
+      "text_sha256": "961cbb81c66247018e699864f3b6a65043b51855cd9e701fa2aa211a0ea8b0e3",
+      "lines": 11,
+      "characters": 529,
+      "read_line_ranges": [
+        [
+          1,
+          11
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 127,
+      "id": 31241,
+      "url": "https://www.westonaprice.org/baked-peaches/",
+      "title": "Baked Peaches",
+      "text_sha256": "d1304452df619c5fdc5a4c2bd812acc4f6b2f24cfa4a8c9c47049e8da947f5b3",
+      "lines": 10,
+      "characters": 771,
+      "read_line_ranges": [
+        [
+          1,
+          10
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 128,
+      "id": 31331,
+      "url": "https://www.westonaprice.org/cran-orange-green-beans/",
+      "title": "Cran-Orange Green Beans",
+      "text_sha256": "66b1ac7cca17a50a2cfde015fc156e73ef49656d4cd4aaf01717b5b787054687",
+      "lines": 18,
+      "characters": 1136,
+      "read_line_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 129,
+      "id": 31409,
+      "url": "https://www.westonaprice.org/mexican-shredded-beef/",
+      "title": "Mexican Shredded Beef",
+      "text_sha256": "4ccd252f39b8b594f997be02f1413baf7428a838329fde63ececcba03ed318cc",
+      "lines": 16,
+      "characters": 773,
+      "read_line_ranges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Fundo bovino no assado; já catalogada.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 130,
+      "id": 31430,
+      "url": "https://www.westonaprice.org/crunchy-savory-chickpea-snacks/",
+      "title": "Crunchy, Savory Chickpea Snacks",
+      "text_sha256": "806226c387cf7c61d5b088ff6ec29fd7b071196026436903be42be2dd924b30a",
+      "lines": 16,
+      "characters": 3495,
+      "read_line_ranges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 131,
+      "id": 31444,
+      "url": "https://www.westonaprice.org/warm-cinnamon-farro/",
+      "title": "Warm Cinnamon Farro",
+      "text_sha256": "e729b1da56c070c3401b4c74c1b186f9d05d0663ddf06a4285bd0af880ead40e",
+      "lines": 13,
+      "characters": 1422,
+      "read_line_ranges": [
+        [
+          1,
+          13
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 132,
+      "id": 31508,
+      "url": "https://www.westonaprice.org/yummy-good-for-you-casserole/",
+      "title": "Yummy Good for You Casserole",
+      "text_sha256": "c35a88abee3dd28ef35623d02e887b85f323cb3ea743514a718fcbabb12147ee",
+      "lines": 19,
+      "characters": 2278,
+      "read_line_ranges": [
+        [
+          1,
+          19
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 133,
+      "id": 31533,
+      "url": "https://www.westonaprice.org/bacon-wrapped-liver-poppers/",
+      "title": "Bacon Wrapped Liver Poppers",
+      "text_sha256": "2538675cc6467dec850e1c20d0e60aef62af0d05cd099b64a932a9af429c3332",
+      "lines": 19,
+      "characters": 2001,
+      "read_line_ranges": [
+        [
+          1,
+          19
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 134,
+      "id": 31555,
+      "url": "https://www.westonaprice.org/banana-cream-pie-gf-df-options/",
+      "title": "Banana Cream Pie (GF, DF Options)",
+      "text_sha256": "7235c3f11cf0a195fe54597b26b0d59b999a938a0a15b5247f47e51c9e117888",
+      "lines": 37,
+      "characters": 2774,
+      "read_line_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Gelatina em alternativa à farinha no recheio da torta; antes citada só no registro raw. Linha culinária acrescentada.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 135,
+      "id": 31597,
+      "url": "https://www.westonaprice.org/cabbage-salad-with-pomegranate-jewels/",
+      "title": "Cabbage Salad with Pomegranate Jewels",
+      "text_sha256": "93bd582c13a8d1e52e6d2dc2d33129423966dad6387152492d97816067908954",
+      "lines": 17,
+      "characters": 1897,
+      "read_line_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 136,
+      "id": 31641,
+      "url": "https://www.westonaprice.org/josiahs-favorite-stroganoff/",
+      "title": "Josiah’s Favorite Stroganoff",
+      "text_sha256": "52218ab60a1cfe324cc1a119e30e6f9eb18f89a9e9c724821d615e9451446a17",
+      "lines": 20,
+      "characters": 1062,
+      "read_line_ranges": [
+        [
+          1,
+          20
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Fundo bovino ou de frango no molho; já catalogada.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 137,
+      "id": 31698,
+      "url": "https://www.westonaprice.org/creamy-pumpkin-soup-with-turmeric-and-sage/",
+      "title": "Creamy Pumpkin Soup with Turmeric and Sage",
+      "text_sha256": "7903aec23b093655d165ee2dd32ff0c967745359714b8af01292f056ba236201",
+      "lines": 21,
+      "characters": 1407,
+      "read_line_ranges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Fundo/caldo na sopa de abóbora; já catalogada.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 138,
+      "id": 32130,
+      "url": "https://www.westonaprice.org/elderberry-kombucha/",
+      "title": "Elderberry Kombucha",
+      "text_sha256": "a9399ef254fd075b927279e489f7e26129f053bdb0b35846dcde3639414676b7",
+      "lines": 8,
+      "characters": 885,
+      "read_line_ranges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    },
+    {
+      "position_in_filtered_catalogue": 139,
+      "id": 32141,
+      "url": "https://www.westonaprice.org/rendered-lard-snack/",
+      "title": "Rendered Lard Snack",
+      "text_sha256": "9f0699f106f14ba46e57268ab40d6db447bcb84325f31617a974d176865c600a",
+      "lines": 9,
+      "characters": 532,
+      "read_line_ranges": [
+        [
+          1,
+          9
+        ]
+      ],
+      "editorial_text_fully_read": true,
+      "read_date": "2026-11-25",
+      "result": "Sem preparo de caldo, gelatina ou colágeno no corpo editorial lido.",
+      "images_embeds_not_read": true,
+      "images_in_body": 0,
+      "embeds_in_body": 0
+    }
+  ],
+  "total_lines_read": 335,
+  "total_characters_read": 30165
+}

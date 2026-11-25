@@ -872,3 +872,8 @@ A [revarredura de 207 corpos](raw/mda-retriagem-aliases-2026-11-25.json) encontr
 ## [2026-11-25] ingestão | Frango, caldo de carcaça e 20 leituras editoriais
 
 A [ficha de panela lenta](wiki/temas/receitas-caldo.md#frango-na-panela-lenta-e-caldo-da-carcaça) registra medidas, processo, variação de carboidratos e conservação. O [corte de 20 corpos editoriais](raw/wapf-leitura-receitas-20-2026-11-25.json) separa leitura integral de triagem e de um simples link anterior. A recuperação dos 462 corpos foi concluída; a leitura do conjunto de 464 continua explicitamente em aberto.
+
+
+## [2026-11-25] revisão | Mais 20 corpos editoriais e torta com gelatina
+
+O [segundo corte de 20 receitas](raw/wapf-leitura-receitas-mais20-2026-11-25.json) é disjunto do primeiro. O [catálogo](wiki/temas/receitas-wapf-catalogo.md#receitas-de-outras-subcategorias-de-recipe-of-the-week) incorpora a torta de banana antes citada só em raw e o serviço de patê no caldo, com adaptações de carboidratos identificadas como não testadas. A leitura editorial continua separada de imagens, comentários e mídias.

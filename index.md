@@ -10,10 +10,11 @@
 
 - [Caldo na medicina chinesa, evidência e receita de costela com daikon](wiki/temas/medicina-chinesa.md)
 - [Receitas de caldo e gelatina de Mark’s Daily Apple](wiki/temas/receitas-mark-sisson.md)
-- [Catálogo de 73 itens das categorias culinárias da Weston A. Price Foundation](wiki/temas/receitas-wapf-catalogo.md)
+- [Receitas da Weston A. Price Foundation, com caldo, gelatina e adaptações](wiki/temas/receitas-wapf-catalogo.md)
 - [Receitas de caldo de frango, pés de frango, bovino e outras variações](wiki/temas/receitas-caldo.md)
 - [Gelatinas, mousses e adaptações com menos carboidratos](wiki/temas/receitas-gelatina.md)
 - [23 fichas e quatro cocktails da Primal Kitchen, mais duas receitas da WAPF com colágeno](wiki/temas/receitas-peptideos.md)
+- [Tutano: manteigas, cremes e sorvetes, com adaptações de carboidratos](wiki/temas/receitas-tutano.md)
 - [Ossos, articulações, carne, cartilagem, água, aromáticos e sal](wiki/temas/ingredientes.md)
 - [Fogo brando, pressão, caldo claro, escuro e emulsificado](wiki/temas/preparo.md)
 - [Sopas, grãos, molhos, redução e reaproveitamento culinário](wiki/temas/aplicacoes-culinarias.md)
@@ -41,7 +42,13 @@
 - [Inventário de entrevistas de Mark Sisson, com tempos e limites](raw/mark-sisson-entrevistas.md)
 - [Leitura editorial de receitas da WAPF: método e cobertura](raw/inventario-wapf-receitas.md#leitura-editorial-integral-de-receitas)
 
+- [Leitura auditada dos 207 corpos atuais de MDA e seus limites históricos](raw/mda-leitura-editorial-207-2026-11-25.tsv)
+- [Auditoria de 887 candidatos WAPF fora das receitas: censo, recortes e leitura](raw/wapf-auditoria-artigos-887-2026-11-25.tsv)
+- [Seis novas leituras de textos ASR da WAPF e pendências de qualidade](raw/wapf-leitura-integral-6-2026-11-25.json)
+
 ## Notas de fonte
+
+- [IUBMB e NCI · Nomenclatura de proteases e glucosamina](wiki/fontes/nomenclatura-gelatina-glucosamina.md)
 
 - [Davis (1939) · Auto-seleção alimentar e bone jelly](wiki/fontes/davis-1939-auto-selecao.md)
 - [Ābele et al. (2021) · Piloto de dieta SCD/GAPS e suplementos](wiki/fontes/abele-2021-scd-gaps-autismo.md)
@@ -201,15 +208,3 @@
 - [registro composicao](raw/registro-composicao.md)
 - [seguranca acessos](raw/seguranca-acessos.md)
 - [tbca acesso](raw/tbca-acesso.md)
-
-A [leitura editorial das 464 páginas da WAPF](raw/wapf-leitura-editorial-464-2026-11-25.tsv) também alimenta as [novas fichas e usos culinários](wiki/temas/receitas-wapf-catalogo.md#achados-da-leitura-das-464-páginas), incluindo o [souse salgado](wiki/temas/receitas-gelatina.md#souse-de-ossos-bovinos-e-aparas).
-
-As [ressalvas das fichas da WAPF](wiki/fontes/weston-price-caldo-gelatina.md#ressalvas-encontradas-nas-fichas-culinárias) preservam divergências e relatos; a [nota de nomenclatura](wiki/fontes/nomenclatura-gelatina-glucosamina.md) confere nomes de proteases e a classe química da glucosamina.
-
-A [leitura auditada dos 207 textos atuais de MDA](raw/mda-leitura-editorial-207-2026-11-25.tsv) distingue corpo disponível e histórico, com [comparação de estimativas, relatos e limites](wiki/fontes/mark-sisson-caldo-gelatina.md#comparação-de-estimativas-e-experiências-nas-páginas-atuais).
-
-O [corte de seis novas leituras WAPF](raw/wapf-leitura-integral-6-2026-11-25.json) separa a conclusão do processamento da leitura do texto e preserva as pendências de qualidade.
-
-A [auditoria dos artigos WAPF fora das receitas](raw/wapf-auditoria-artigos-887-2026-11-25.tsv) distingue o censo temático de leitura integral, com [denominadores e limites](raw/wapf-auditoria-artigos-887-2026-11-25.json).
-
-- [Tutano: manteigas, cremes e sorvetes, com adaptações de carboidratos](wiki/temas/receitas-tutano.md)

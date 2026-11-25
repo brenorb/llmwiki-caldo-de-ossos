@@ -752,3 +752,8 @@ As [aplicações culinárias](wiki/temas/aplicacoes-culinarias.md#waffle-de-abob
 ## [2026-11-25] revisão | Duas faixas concluídas após a retomada
 
 O [inventário](raw/inventario-wapf-receitas.md#primeiras-faixas-concluídas-na-fila-retomada) registra as primeiras duas faixas concluídas e um relato de melhora durante mudanças alimentares que incluíram caldo.
+
+
+## [2026-11-25] revisão | Episódio 179 na fila em inglês
+
+O [inventário](raw/inventario-wapf-receitas.md#episódio-179-na-continuação-em-inglês) registra a faixa integral e localiza as menções temáticas nos anúncios de suplementos.

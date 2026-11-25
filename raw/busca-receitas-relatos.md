@@ -306,6 +306,10 @@ A recuperação seguinte confirmou uma faixa AAC de **1h07min41s**, corresponden
 
 Uma segunda transcrição integral dos sete reels com trilha sem texto também retornou vazia. A inspeção da trilha e dos trechos sinalizados pelo detector de voz encontrou música predominante e nenhuma passagem inteligível. O total de transcrições permaneceu em 106.
 
+### Reconsulta pública em 25 de novembro de 2026
+
+A sessão antes autenticada passou a exibir os controles de entrada. A página pública de gelatina de coco permitiu reler a legenda e mostrou 11 comentários. Ao acionar o carregamento adicional, a interface pediu login. Essa leitura não amplia a contagem cumulativa da sessão anterior. O vídeo inicial permaneceu com erro no player e a tentativa de baixar a mídia pelo navegador também falhou. A lacuna visual desse cartão continua registrada. [Gelatina de coco](https://www.instagram.com/cozinhadepedra/p/CFSEIF3MRbK/)
+
 ### Duração e cobertura das lives
 
 Na verificação posterior, as faixas AAC de três lives foram comparadas aos blocos processados e à última marca de fala reconhecida. A fila processou todos os blocos, incluindo o último bloco parcial. A marca de fala indica a posição no TXT automático.

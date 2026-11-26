@@ -318,3 +318,6 @@
 - [WAPF:conciliação exata das249 URLs restantes, por classe e versão lida](raw/wapf-classes-restantes-leitura249-2026-11-26.json)
 
 - [Primal Blueprint:revalidação atual de todos os34 pares históricos de página/mídia](wiki/fontes/mark-rss-acesso34.md)
+
+- [WAPF:12 alvos antes negativos — K2, folato, hipótese histórica e comentários](wiki/fontes/wapf-health-sinais12.md)
+- [Trigo-sarraceno com líquido à escolha e caldo de frango:medidas e lacunas dos comentários](wiki/temas/receitas-wapf-comentarios-sinais12.md)

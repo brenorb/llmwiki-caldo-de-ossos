@@ -1226,3 +1226,7 @@ A [conciliação249](raw/wapf-classes-restantes-leitura249-2026-11-26.json) comp
 ## [2026-11-26] revisão |34 originaisRSS:acesso atual conferido integralmente
 
 Incorporada [revalidação porGUID](wiki/fontes/mark-rss-acesso34.md):34 páginasGET404+34 mídiasHEAD404+34 confirmaçõesRange404,102 verificaçõesTLS. Revisor conferiu306 arquivos, todos resultados finais e equivalência exata do conjunto; nenhum áudio/ASR ou leitura nova de entrevista. Evidência atual foi separada dos erros históricos e das edições relacionadas já lidas. DescriçõesRSS são metadados, não confirmação por áudio;404dosURLs não prova ausência global.
+
+## [2026-11-26] ingestão |Doze alvos health:comentários culinários e limites de inferência
+
+Incorporados [11 editoriais novos integrais e um alias](wiki/fontes/wapf-health-sinais12.md),798 linhas/237.353 caracteres novos,24 hashes e nove comentários/contextos lidos. Conferidos derivados, QA, identidades, faixas e alias físico;113/1.022 URLs negativas agora têm prova neste corte. O [caderno](wiki/temas/receitas-wapf-comentarios-sinais12.md) preserva caldo OU água OU leite,20–30min e ausência de medidas; não atribui o método dos comentaristas aos autores editoriais. Hipótese histórica de cabelos grisalhos não virou ensaio de repigmentação ou composição de caldo. Imagens, demais comentários, mídias e referências têm lacunas próprias.

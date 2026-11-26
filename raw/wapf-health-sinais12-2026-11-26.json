@@ -1,0 +1,832 @@
+{
+  "scope": "12exacttargetURLs acquired;11new complete currenteditorialTXT readings plus1exactphysicalTXTalias to previous complete reading",
+  "proof_kind": "delegated_agent_semantic_reading",
+  "date": "2026-11-26",
+  "coverage": {
+    "targets": 12,
+    "http200": 12,
+    "new_editorials_fully_read": 11,
+    "new_editorial_lines": 798,
+    "new_editorial_characters": 237353,
+    "alias_previous_reading": 1,
+    "alias_lines": 103,
+    "alias_characters": 39014,
+    "comment_texts_fully_read": 9,
+    "comment_lines": 21,
+    "comment_characters": 10858,
+    "comments_present_in_current_html": 339,
+    "images_in_editorial_not_viewed": 40
+  },
+  "records": [
+    {
+      "batch_index": 0,
+      "health_index": 368,
+      "catalog_id": 4418,
+      "verified_body_wpids": [
+        "4418"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=4418"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/dentistry/teeth-and-bone-hardness-in-diagnosis-and-prevention-of-premature-aging/",
+      "final_url": "https://www.westonaprice.org/health-topics/dentistry/teeth-and-bone-hardness-in-diagnosis-and-prevention-of-premature-aging/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/dentistry/teeth-and-bone-hardness-in-diagnosis-and-prevention-of-premature-aging/"
+      ],
+      "title": "Teeth and Bone Hardness in Diagnosis and Prevention of Premature Aging",
+      "catalog_title": "Teeth and Bone Hardness in Diagnosis and Prevention of Premature Aging",
+      "author": "Meyer M. Silverman, DDS",
+      "displayed_date": "February 7, 2009",
+      "metadata_dates": {
+        "og:title": "Teeth and Bone Hardness in Diagnosis and Prevention of Premature Aging",
+        "article:modified_time": "2016-08-23T21:54:35+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:39.437723+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "481c4acb1b6cffca2b09a299f87646fdf3ca93e213e9f982c2f01c60866d01c0",
+      "text_sha256_physical": "eadc09f5e89225b15c59ce689f6639df36dbb07610bbb9de89565e3976ac3e67",
+      "lines": 73,
+      "characters": 24526,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Observações clínicas históricas, hipótese de envelhecimento e propostas de pesquisa; sem receita temática. Embranquecimento precoce mencionado sem repigmentação ou efeito de caldo.",
+      "images_not_read_count": 0,
+      "comments_found_in_current_html": 5,
+      "read_ranges_inclusive": [
+        [
+          1,
+          73
+        ]
+      ],
+      "reading_partition": "six_source_agent"
+    },
+    {
+      "batch_index": 1,
+      "health_index": 423,
+      "catalog_id": 18329,
+      "verified_body_wpids": [
+        "18562"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=18562"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/environmental-toxins/folic-acid-glyphosate/",
+      "final_url": "https://www.westonaprice.org/health-topics/environmental-toxins/folic-acid-glyphosate/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/environmental-toxins/folic-acid-glyphosate/"
+      ],
+      "title": "Folic Acid and Glyphosate",
+      "catalog_title": "Folic Acid and Glyphosate",
+      "author": "Stephanie Seneff, PhD",
+      "displayed_date": "May 4, 2016",
+      "metadata_dates": {
+        "og:title": "Folic Acid and Glyphosate",
+        "article:modified_time": "2016-08-24T00:51:50+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:39.350922+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "7fe205579a1f0341fd15836365a85ecc0004c0c069a48393512a84fe37b07763",
+      "text_sha256_physical": "097f90a162a2d82b599188f52c06ea0862f458564293c04e258a98be227509aa",
+      "lines": 103,
+      "characters": 39014,
+      "new_semantic_reading": false,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Alias por igualdade física do TXT com a leitura anterior de health16; sem nova leitura ou contagem de fonte.",
+      "images_not_read_count": 6,
+      "comments_found_in_current_html": 3,
+      "read_ranges_inclusive": [],
+      "prior_read_ranges_inclusive": [
+        [
+          1,
+          45
+        ],
+        [
+          46,
+          103
+        ]
+      ],
+      "alias_exact_text_byte_equality": true,
+      "prior_reading_health_index": 16,
+      "prior_requested_url": "https://www.westonaprice.org/health-topics/abcs-of-nutrition/folic-acid-glyphosate/",
+      "prior_public_record": "wapf-health-negativos-50-2026-11-25.tsv",
+      "prior_text_sha256": "097f90a162a2d82b599188f52c06ea0862f458564293c04e258a98be227509aa",
+      "alias_identity_note": "Currentbody/shortlink18562 differs from catalog18329; alias proved by identical physicalTXT, not equal IDs/titles."
+    },
+    {
+      "batch_index": 2,
+      "health_index": 569,
+      "catalog_id": 49536,
+      "verified_body_wpids": [
+        "49536"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=49536"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/fermented-dairy-vitamin-k/",
+      "final_url": "https://www.westonaprice.org/health-topics/fermented-dairy-vitamin-k/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/fermented-dairy-vitamin-k/"
+      ],
+      "title": "Fermented Dairy Vitamin K",
+      "catalog_title": "Fermented Dairy Vitamin K",
+      "author": "Dr. BIll Schindler & Christina Schindler",
+      "displayed_date": "August 14, 2026",
+      "metadata_dates": {
+        "og:title": "Fermented Dairy Vitamin K",
+        "article:modified_time": "2026-08-22T03:50:10+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:38.608466+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "19e8222f51c5b5d6a3c8f0af62da8816405ff3f213a85a025f2db26d280afab3",
+      "text_sha256_physical": "e40a7820ef8df58f79c48baba0db41a797d94d0ce3ad493bcf13443d30f77984",
+      "lines": 67,
+      "characters": 26891,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Relato de viagens/restaurante e alegações de K2 de lácteos fermentados; queijo/coalhada são adjacentes, sem ingrediente-tema. Jello-like é metáfora de coagulação de leite.",
+      "images_not_read_count": 0,
+      "comments_found_in_current_html": 0,
+      "read_ranges_inclusive": [
+        [
+          1,
+          67
+        ]
+      ],
+      "reading_partition": "six_source_agent"
+    },
+    {
+      "batch_index": 3,
+      "health_index": 575,
+      "catalog_id": 7126,
+      "verified_body_wpids": [
+        "7126"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=7126"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/food-features/be-kind-to-your-grains-and-your-grains-will-be-kind-to-you/",
+      "final_url": "https://www.westonaprice.org/health-topics/food-features/be-kind-to-your-grains-and-your-grains-will-be-kind-to-you/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/food-features/be-kind-to-your-grains-and-your-grains-will-be-kind-to-you/"
+      ],
+      "title": "Be Kind to Your Grains … And Your Grains Will Be Kind To You",
+      "catalog_title": "Be Kind to Your Grains … And Your Grains Will Be Kind To You",
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "January 1, 2000",
+      "metadata_dates": {
+        "og:title": "Be Kind to Your Grains ... And Your Grains Will Be Kind To You",
+        "article:modified_time": "2025-07-12T19:01:00+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:39.652895+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "265e2cf4686869071ec461135cad96352a3c1757cab0cb91c63671efce077ad0",
+      "text_sha256_physical": "6ce25b290594a3ab49a573489c672fe44bf99a4453efeaa617181c819c52fbf5",
+      "lines": 31,
+      "characters": 14071,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Discussão de grãos, fitato/minerais e extrusão; experiências não publicadas são narrativas secundárias. Tutano ocorre em relato pessoal de comentarista, sem fórmula.",
+      "images_not_read_count": 1,
+      "comments_found_in_current_html": 51,
+      "read_ranges_inclusive": [
+        [
+          1,
+          31
+        ]
+      ],
+      "reading_partition": "six_source_agent"
+    },
+    {
+      "batch_index": 4,
+      "health_index": 605,
+      "catalog_id": 7122,
+      "verified_body_wpids": [
+        "7122"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=7122"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/food-features/lacto-fermentation/",
+      "final_url": "https://www.westonaprice.org/health-topics/food-features/lacto-fermentation/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/food-features/lacto-fermentation/"
+      ],
+      "title": "Lacto-Fermentation",
+      "catalog_title": "Lacto-Fermentation",
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "January 1, 2000",
+      "metadata_dates": {
+        "og:title": "Lacto-Fermentation",
+        "article:modified_time": "2024-02-10T21:17:57+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:40.955979+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "9c3cb836e41f822c88973082ad69093aa2ff69fab7405d45431acd8249d1244d",
+      "text_sha256_physical": "810c410f8ae92eb421a2b2f4952324187a1b40c17f68545fb2b048855ba044a9",
+      "lines": 18,
+      "characters": 9243,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Editorial sobre lactofermentação; a preparação com caldo ocorre exclusivamente no comentário de Maureen Diaz, com autoria separada.",
+      "images_not_read_count": 2,
+      "comments_found_in_current_html": 21,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ]
+      ],
+      "reading_partition": "six_source_agent"
+    },
+    {
+      "batch_index": 5,
+      "health_index": 742,
+      "catalog_id": 32857,
+      "verified_body_wpids": [
+        "32857"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=32857"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/in-defense-of-vitamin-k2-mk-4-dr-prices-activator-x/",
+      "final_url": "https://www.westonaprice.org/health-topics/in-defense-of-vitamin-k2-mk-4-dr-prices-activator-x/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/in-defense-of-vitamin-k2-mk-4-dr-prices-activator-x/"
+      ],
+      "title": "In Defense of Vitamin K2 MK-4: Dr. Price’s Activator X",
+      "catalog_title": "In Defense of Vitamin K2 MK-4: Dr. Price’s Activator X",
+      "author": "Dr. Will & Elizabeth Schlinsog",
+      "displayed_date": "April 20, 2020",
+      "metadata_dates": {
+        "og:title": "In Defense of Vitamin K2 MK-4: Dr. Price’s Activator X",
+        "article:modified_time": "2024-01-12T18:46:34+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:41.415143+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "a6d86fa97657ac021aca785885cf140a60538b591b888c6bd52e83c261d0f522",
+      "text_sha256_physical": "a6d01a7957e7d957f3b0328974324e8078272515c2563639ef5b53f73b5a7f61",
+      "lines": 106,
+      "characters": 25488,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Defesa de K2 MK-4 com história, hipóteses, modelos e relatos; sem receita ou análise de caldo. Testemunhos, laudos e estudos citados não viram estudos lidos.",
+      "images_not_read_count": 10,
+      "comments_found_in_current_html": 23,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          65
+        ],
+        [
+          66,
+          106
+        ]
+      ],
+      "reading_partition": "five_source_agent"
+    },
+    {
+      "batch_index": 6,
+      "health_index": 781,
+      "catalog_id": 47659,
+      "verified_body_wpids": [
+        "47659"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=47659"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/is-vitamin-k-shot-necessary-for-newborns/",
+      "final_url": "https://www.westonaprice.org/health-topics/is-vitamin-k-shot-necessary-for-newborns/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/is-vitamin-k-shot-necessary-for-newborns/"
+      ],
+      "title": "Is Vitamin K Shot Necessary For Newborns",
+      "catalog_title": "Is Vitamin K Shot Necessary For Newborns",
+      "author": "Kendall Nelson",
+      "displayed_date": "August 25, 2025",
+      "metadata_dates": {
+        "og:title": "Is Vitamin K Shot Necessary For Newborns",
+        "article:modified_time": "2026-01-20T20:25:27+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:41.094715+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "8afda7196434d637e736d2c5f8d1c89f3f2e8959cd455ddb488e34343bb1e008",
+      "text_sha256_physical": "9d2e944ddfb095735eb1b72c4b513ff5ad84f4d66f1a8d23b7204d79f31864c3",
+      "lines": 119,
+      "characters": 29704,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Argumentação sobre profilaxia neonatal; sem receita temática. Doses/vias/riscos e condutas ficam em registro crítico privado, sem instrução alimentar infantil.",
+      "images_not_read_count": 0,
+      "comments_found_in_current_html": 4,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ],
+        [
+          29,
+          29
+        ],
+        [
+          30,
+          65
+        ],
+        [
+          66,
+          119
+        ]
+      ],
+      "reading_partition": "five_source_agent"
+    },
+    {
+      "batch_index": 7,
+      "health_index": 824,
+      "catalog_id": 6707,
+      "verified_body_wpids": [
+        "6707"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=6707"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/know-your-fats/the-great-con-ola/",
+      "final_url": "https://www.westonaprice.org/health-topics/know-your-fats/the-great-con-ola/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/know-your-fats/the-great-con-ola/"
+      ],
+      "title": "The Great Con-ola",
+      "catalog_title": "The Great Con-ola",
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "July 28, 2002",
+      "metadata_dates": {
+        "og:title": "The Great Con-ola",
+        "article:modified_time": "2017-04-13T12:45:39+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:44.846571+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "ceb2aff516cd1e39ec7c13f2ac880b5bca8f448c97eabec8dff736a9e3e262b5",
+      "text_sha256_physical": "a162e64d3713a4a491996b60db9ffb28d7448528a33a368798b544dd04fde74e",
+      "lines": 96,
+      "characters": 33694,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "História e crítica da canola/LEAR/processamento; modelos animais e percentuais de óleo não são composição de caldo.",
+      "images_not_read_count": 4,
+      "comments_found_in_current_html": 45,
+      "read_ranges_inclusive": [
+        [
+          1,
+          20
+        ],
+        [
+          21,
+          41
+        ],
+        [
+          42,
+          65
+        ],
+        [
+          66,
+          96
+        ]
+      ],
+      "reading_partition": "five_source_agent"
+    },
+    {
+      "batch_index": 8,
+      "health_index": 833,
+      "catalog_id": 7102,
+      "verified_body_wpids": [
+        "7102"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=7102"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/know-your-fats/why-butter-is-better/",
+      "final_url": "https://www.westonaprice.org/health-topics/know-your-fats/why-butter-is-better/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/know-your-fats/why-butter-is-better/"
+      ],
+      "title": "Why Butter Is Better",
+      "catalog_title": "Why Butter Is Better",
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "January 1, 2000",
+      "metadata_dates": {
+        "og:title": "Why Butter Is Better",
+        "article:modified_time": "2018-01-16T21:41:28+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:45.925434+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "157003155fea694f0b632fbd6780d0178aed26462eb219312ced08d75306275e",
+      "text_sha256_physical": "20cd35b015b3f936f8aaf8eb06702dc9d9c427d6b29b595ec75fc1f121ab8e0a",
+      "lines": 61,
+      "characters": 14239,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Ensaio sobre manteiga e alegações de saúde/K2/ácidos graxos; sem preparo de caldo. Stock em nota literária significa rebanho.",
+      "images_not_read_count": 1,
+      "comments_found_in_current_html": 86,
+      "read_ranges_inclusive": [
+        [
+          1,
+          61
+        ]
+      ],
+      "reading_partition": "six_source_agent"
+    },
+    {
+      "batch_index": 9,
+      "health_index": 1022,
+      "catalog_id": 30916,
+      "verified_body_wpids": [
+        "30916"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=30916"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/germ-theory-versus-terrain-the-wrong-side-won-the-day/",
+      "final_url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/germ-theory-versus-terrain-the-wrong-side-won-the-day/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/notes-from-yesteryear/germ-theory-versus-terrain-the-wrong-side-won-the-day/"
+      ],
+      "title": "Germ Theory Versus Terrain: The Wrong Side Won the Day",
+      "catalog_title": "Germ Theory Versus Terrain: The Wrong Side Won the Day",
+      "author": "Merinda Teller, MPH, PhD",
+      "displayed_date": "July 30, 2019",
+      "metadata_dates": {
+        "og:title": "Germ Theory Versus Terrain: The Wrong Side Won the Day",
+        "article:modified_time": "2020-03-19T01:21:24+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:41.836623+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "f0f8c95fcea33e7664ab54fc4aad79d310a28dd4bda3aa7e12c4f2a235d97520",
+      "text_sha256_physical": "5e10ea9453a73559f06d44ca1728ad7544df50b0723dd53a4f3cf98e9cfb2356",
+      "lines": 85,
+      "characters": 21936,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Ensaio sobre teoria de terreno; caldo de frango é relato incompleto de Lacey McKay em comentário, separado de Merinda Teller. Outro stock em comentário é financeiro.",
+      "images_not_read_count": 1,
+      "comments_found_in_current_html": 90,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ],
+        [
+          29,
+          55
+        ],
+        [
+          56,
+          85
+        ]
+      ],
+      "reading_partition": "five_source_agent"
+    },
+    {
+      "batch_index": 10,
+      "health_index": 1138,
+      "catalog_id": 401,
+      "verified_body_wpids": [
+        "8714"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=8714"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/soy-alert/efsa-rejects-soy-health-claims-for-bone-health-and-menopause/",
+      "final_url": "https://www.westonaprice.org/health-topics/soy-alert/efsa-rejects-soy-health-claims-for-bone-health-and-menopause/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/soy-alert/efsa-rejects-soy-health-claims-for-bone-health-and-menopause/"
+      ],
+      "title": "EFSA Rejects Soy Health Claims for Bone Health and Menopause",
+      "catalog_title": "EFSA Rejects Soy Health Claims for Bone Health and Menopause",
+      "author": "Kaayla Daniel",
+      "displayed_date": "August 12, 2012",
+      "metadata_dates": {
+        "og:title": "EFSA Rejects Soy Health Claims for Bone Health and Menopause",
+        "article:modified_time": "2017-07-03T08:39:12+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:42.955599+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "fa17a38f9ef96bab778e72a8bbe37b69772f9f1db2c34b72fe538282e1f96eda",
+      "text_sha256_physical": "5946b1f70b28a9a48c5447e60e307e28cde743a76cb8db86dd5e3347b51c499d",
+      "lines": 19,
+      "characters": 4296,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Notícia/opinião de2012 sobre EFSA/soja e estudos resumidos; destinos não abertos, sem receita temática. ID do catálogo diverge do WPID atual.",
+      "images_not_read_count": 0,
+      "comments_found_in_current_html": 5,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "reading_partition": "six_source_agent"
+    },
+    {
+      "batch_index": 11,
+      "health_index": 1380,
+      "catalog_id": 44628,
+      "verified_body_wpids": [
+        "44628"
+      ],
+      "verified_shortlinks": [
+        "https://www.westonaprice.org/?p=44628"
+      ],
+      "requested_url": "https://www.westonaprice.org/health-topics/vitamin-k2-mk-4-dr-prices-activator-x-and-its-transformational-potential/",
+      "final_url": "https://www.westonaprice.org/health-topics/vitamin-k2-mk-4-dr-prices-activator-x-and-its-transformational-potential/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/vitamin-k2-mk-4-dr-prices-activator-x-and-its-transformational-potential/"
+      ],
+      "title": "Vitamin K2 MK-4: Dr. Price’s Activator X and Its Transformational Potential",
+      "catalog_title": "Vitamin K2 MK-4: Dr. Price’s Activator X and Its Transformational Potential",
+      "author": "David & Elizabeth Schlinsog",
+      "displayed_date": "December 7, 2023",
+      "metadata_dates": {
+        "og:title": "Vitamin K2 MK-4: Dr. Price’s Activator X and Its Transformational Potential",
+        "article:modified_time": "2023-12-08T19:22:10+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T20:18:44.007127+00:00",
+      "http_status": 200,
+      "html_sha256_physical": "f22184903123f381b9fc323e2bec8fd0abf653495e1d0a1fa0cf0306fb0bce9d",
+      "text_sha256_physical": "1b634c96e4cf52614af42a607f52e21530ea0b9fafc8778e04fda56af8a96524",
+      "lines": 123,
+      "characters": 33265,
+      "new_semantic_reading": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "summary": "Artigo sobre K2 MK-4, proteínas e experimentos históricos, com vínculo comercial explícito; sem receita temática. Tecidos fisiológicos não viram ingredientes ou nutrientes de caldo.",
+      "images_not_read_count": 15,
+      "comments_found_in_current_html": 6,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ],
+        [
+          26,
+          52
+        ],
+        [
+          53,
+          78
+        ],
+        [
+          79,
+          101
+        ],
+        [
+          102,
+          123
+        ]
+      ],
+      "reading_partition": "five_source_agent"
+    }
+  ],
+  "comment_records": [
+    {
+      "batch_index": 3,
+      "comment_id": "comment-745554",
+      "parent_comment_id": null,
+      "author": "Scott says",
+      "lines": 8,
+      "chars": 1558,
+      "read_ranges_inclusive": [
+        [
+          1,
+          8
+        ]
+      ],
+      "url": "https://www.westonaprice.org/health-topics/food-features/be-kind-to-your-grains-and-your-grains-will-be-kind-to-you/#comment-745554",
+      "displayed_date": "April 23, 2021 at 10:51 pm",
+      "text_sha256_physical": "fea1cc143e3549948c73f58eedb74761d3ab1d8c1f648b220bf85ed09f407331",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_attribution": false
+    },
+    {
+      "batch_index": 3,
+      "comment_id": "comment-1250142",
+      "parent_comment_id": null,
+      "author": "Deborah says",
+      "lines": 1,
+      "chars": 1161,
+      "read_ranges_inclusive": [
+        [
+          1,
+          1
+        ]
+      ],
+      "url": "https://www.westonaprice.org/health-topics/food-features/be-kind-to-your-grains-and-your-grains-will-be-kind-to-you/#comment-1250142",
+      "displayed_date": "August 28, 2022 at 5:28 pm",
+      "text_sha256_physical": "fce987384a7a5453733c381622ebead468cec49291ed1ef48f121f14587d8aac",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_attribution": false
+    },
+    {
+      "batch_index": 4,
+      "comment_id": "comment-5164",
+      "parent_comment_id": null,
+      "author": "Connie says",
+      "lines": 1,
+      "chars": 631,
+      "read_ranges_inclusive": [
+        [
+          1,
+          1
+        ]
+      ],
+      "url": "https://www.westonaprice.org/health-topics/food-features/lacto-fermentation/#comment-5164",
+      "displayed_date": "June 2, 2014 at 9:04 am",
+      "text_sha256_physical": "c28da149451866b9872b02c0c560f6e89a40273a79f840482bfd55c10f2d65e1",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_attribution": false
+    },
+    {
+      "batch_index": 4,
+      "comment_id": "comment-5165",
+      "parent_comment_id": "comment-5164",
+      "author": "Tim Boyd says",
+      "lines": 1,
+      "chars": 104,
+      "read_ranges_inclusive": [
+        [
+          1,
+          1
+        ]
+      ],
+      "url": "https://www.westonaprice.org/health-topics/food-features/lacto-fermentation/#comment-5165",
+      "displayed_date": "June 3, 2014 at 8:30 am",
+      "text_sha256_physical": "a2ae909f6508c576f33ff626f503dac52bebfd97c0e893b88de00e69045e6d8b",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_attribution": false
+    },
+    {
+      "batch_index": 4,
+      "comment_id": "comment-111154",
+      "parent_comment_id": "comment-5165",
+      "author": "Dagny says",
+      "lines": 2,
+      "chars": 434,
+      "read_ranges_inclusive": [
+        [
+          1,
+          2
+        ]
+      ],
+      "url": "https://www.westonaprice.org/health-topics/food-features/lacto-fermentation/#comment-111154",
+      "displayed_date": "March 2, 2018 at 10:25 am",
+      "text_sha256_physical": "25dc06e6acc369ae43bd821916bdc934be4dda0657adef1b22e8de0c13126dda",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_attribution": false
+    },
+    {
+      "batch_index": 4,
+      "comment_id": "comment-112279",
+      "parent_comment_id": "comment-111154",
+      "author": "Maureen Diaz says",
+      "lines": 3,
+      "chars": 794,
+      "read_ranges_inclusive": [
+        [
+          1,
+          3
+        ]
+      ],
+      "url": "https://www.westonaprice.org/health-topics/food-features/lacto-fermentation/#comment-112279",
+      "displayed_date": "March 6, 2018 at 6:16 pm",
+      "text_sha256_physical": "b99f951c50879ab1f6f426b8a3c6d1560294aeab7609bd3a55392b422711f0b5",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_attribution": false
+    },
+    {
+      "batch_index": 9,
+      "comment_id": "comment-509387",
+      "parent_comment_id": null,
+      "author": "Michael Jones says",
+      "lines": 1,
+      "chars": 1190,
+      "read_ranges_inclusive": [
+        [
+          1,
+          1
+        ]
+      ],
+      "url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/germ-theory-versus-terrain-the-wrong-side-won-the-day/#comment-509387",
+      "displayed_date": "March 23, 2020 at 12:21 pm",
+      "text_sha256_physical": "6b092e4b00032171c74f63ab46c5c8f331c7f8e9db467dcbdcfab1479ed387b5",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_attribution": false
+    },
+    {
+      "batch_index": 9,
+      "comment_id": "comment-536631",
+      "parent_comment_id": "comment-509387",
+      "author": "Harry Skip Robinson says",
+      "lines": 3,
+      "chars": 1664,
+      "read_ranges_inclusive": [
+        [
+          1,
+          3
+        ]
+      ],
+      "url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/germ-theory-versus-terrain-the-wrong-side-won-the-day/#comment-536631",
+      "displayed_date": "May 12, 2020 at 5:29 am",
+      "text_sha256_physical": "47d4b63926e5ae6367d14a8c2bdc94be0b15d62aa6158c08a283db40e10d51a8",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_attribution": false
+    },
+    {
+      "batch_index": 9,
+      "comment_id": "comment-590515",
+      "parent_comment_id": null,
+      "author": "Lacey McKay says",
+      "lines": 1,
+      "chars": 3322,
+      "read_ranges_inclusive": [
+        [
+          1,
+          1
+        ]
+      ],
+      "url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/germ-theory-versus-terrain-the-wrong-side-won-the-day/#comment-590515",
+      "displayed_date": "June 26, 2020 at 11:43 am",
+      "text_sha256_physical": "83ac10027dc43d0f9d066e52e9d58d4561a0190aa3a0c3660e755d2ba7c1a712",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_attribution": false
+    }
+  ],
+  "separate_evidence_hashes": {
+    "catalogo-fixo-12.jsonl": "6da046c55fbb5d56c9fc870453b5fa501b8cde199124a89276776510fc5b43a5",
+    "recuperacao.jsonl": "c573562412ffdba79a5ecfd792b07a89a16a60304a18b66dce29bfff21ae9810",
+    "prova-extracao-12.json": "276cf88a5b84410adc35bd0ec68f9e3f1f8bf356d29841334e1a8bfa57653d99",
+    "ledger-proprio-00-02-03-04-08-10.jsonl": "ea1829fda19f654baf2973a82dc4e137e3d85a4dc2f66049208b7dd9b31427dc",
+    "ledger-delegado-05-06-07-09-11.jsonl": "29f5ac343a9e665585b60abd237eca6ef2791b6da94e902453109bf74a2dd391",
+    "prova-leitura-delegado-05-06-07-09-11.json": "e794fe9cf9641eae7139e2d96d21ce29abd4002cb56bfc0fbb3f38cf110a8d92",
+    "prova-alias-01-health423-para16.json": "933edcc2b67c55d8c0a8f00e98eac6f03d61aaa28a33bb031481bdcf84b41d2e",
+    "ledger-comentarios-proprio.jsonl": "ebe37bda06364e38b20f412fc51d221682b5f230edc320b8266c5c3f503cc363",
+    "ledger-comentarios-faixa-fim.jsonl": "ef24c7565ecb3436ad8f073ba137b70e96af6f156ca008677fd99e08235a63ee"
+  },
+  "limits": [
+    "Full current extracted editorialTXT, not whole historicalmagazine/book or allHTML semanticreading.",
+    "Acquisition/HTML200/parser output separate from semanticreading proof. Alias not new source/read.",
+    "Only nine explicitly listed commenttexts fullyread; other comments, imagepixels, media/audio and reference destinations not read.",
+    "References include books, studies, tables/images, labels and commercial reports not opened; citing them does not mean primary study reading.",
+    "Infant/therapeutic protocols without thematic ingredient remain critical private records, not adult recipes or keto adaptations.",
+    "No composition, nutrientdose, causalbenefit or macros per broth inferred.",
+    "Originalcatalog/triage frozen, no wiki/Git/browser/ASR changes. Twelve targeted publicHTTPS pages acquired with normalTLS, no cookies."
+  ],
+  "publication_status": "incorporated_after_parent_and_independent_review",
+  "private_manifest_sha256": "a5ff9c6e22a9dff379d518e1d3c2d21f8d45ad67b60686029daa700440350faa",
+  "root_review": {
+    "full_source_and_culinary_candidates_and_independent_qa_report_read": true,
+    "all452_original_manifest_files_and6_qa_files_checked": true,
+    "all24_editorial_hashes_and_read_ranges_checked": true,
+    "all9_original_comments_fully_read_and_hash_checked": true,
+    "original_editorial_focal_reads": {
+      "00": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    "comment_output_references": [
+      "98cdcd",
+      "c992fd"
+    ],
+    "alias_prior_tsv_and_exact_byte_equality_checked": true,
+    "second_full_original11_editorial_rereading_claim": false
+  },
+  "independent_qa": {
+    "manifest_sha256": "46da934438c58060b3dd36ee2bb7c5910064e8b4ffcc60070c0225d5d095e8da",
+    "artifact_sha256": {
+      "concluir-qa.py": "e90bc710e38ae56af730734578ab2e312d7836014af4aab47624d5feaa1027a3",
+      "parecer-qa-independente-12.md": "25f278533c0300fe491f07d8c070013761a7a0635b06bfd9165020131a15ecfd",
+      "parser-identidade-copiado.py": "72716f67b3de3a50f4c06e4e964c8c35609902e7a9882c459fc58866343c8a5d",
+      "qa-independente-12.json": "4576a51e8b002bfe77954114d29ce76ba6023e8f726d5c8d23f713dd8208b756",
+      "verificacao-fisica-identidades-12.json": "2644f10ce85f7139e7968d1d47b4a5862a40b227404be302da875664354c087d",
+      "verificar.py": "89aa388c16e781ce3fcf985ed07d04bd37dc7a3baae822b21e99a248be4b2939"
+    },
+    "all12_identities_24editorial_hashes_9comments_checked": true,
+    "new_source_and_culinary_candidates_fully_read": true,
+    "no_factual_changes_requested": true,
+    "not_second_full_editorial_reading": true
+  },
+  "health_negative_url_proof_union_at_this_cut": {
+    "original_term_count0_urls": 1022,
+    "previous_requested_urls_with_proof": 101,
+    "additional_requested_urls_in_this_batch": 12,
+    "new_editorial_readings": 11,
+    "alias_reusing_exact_previous_reading": 1,
+    "requested_urls_with_proof_after_this_batch": 113,
+    "remaining_requested_urls_without_reconciled_reading_in_this_cut": 909,
+    "not_global_unread_claim": true
+  }
+}

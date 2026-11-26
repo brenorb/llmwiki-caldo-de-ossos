@@ -53,3 +53,7 @@ O [estudo celular de Lee et al.](../fontes/lee-2025-condroitina-melanina.md), co
 ## Catalase: conferir o tecido e o desfecho
 
 A referência136 de *High Lysine Diet* (WAPF) é um [experimento de lisina em pancreatite de camundongos](../fontes/al-malki-2015-lisina-pancreatite.md). Sua catalase foi medida no pâncreas; não houve análise de cabelos, pigmento, B9 ou caldo. Na tabela, um dos grupos com lisina tem63±2,2U/mg contra65±7 no modelo sem lisina: a descrição de aumento uniforme também não corresponde aos números. Essa citação não comprova repigmentação capilar.
+
+## Menção histórica adicional
+
+O texto de Meyer M. Silverman, originalmente de1971 e reimpresso pela WAPF, associa alimentos processados a sinais de envelhecimento precoce e menciona cabelos grisalhos como hipótese dietética. Não apresenta intervenção de repigmentação, ensaio com caldo ou efeito de B9 isolada. Essa menção permanece como opinião histórica, sem alterar a avaliação clínica acima. [Identidade, edição e limites da leitura](../fontes/wapf-health-sinais12.md).

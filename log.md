@@ -1206,3 +1206,7 @@ Incorporado [registro textual das13 galerias](wiki/fontes/wapf-gallery13.md),523
 ## [2026-11-26] revisão |Contagem não fornecida de tipos de caldo
 
 Revisão por outro agente identificou “oito tipos” no candidato do [caderno podcast1](wiki/temas/receitas-wapf-podcast-lote1.md). Conferência direta15L6–11 confirma que a fonte só anuncia tipos de caldo, sem número. Removida a contagem no público, com errata no registro; congelados preservados.
+
+## [2026-11-26] revisão |QA independente do podcast1:frequência e classificação da prova
+
+Registrado [QA do lote50](wiki/fontes/wapf-podcast-lote1-50.md),31 fontes/50 intervalos focais/100 hashes, sem nova leitura integral de todos os originais. Caderno conserva uma ou duas vezes por mês e depois provavelmente uma vez para língua, como consumo e não tempo. Espaçamentos corrigidos com44 destinos de links inalterados; flag privada human_read não virou comprovação humana. ParecerQA e manifesto conferidos; congelados intactos.

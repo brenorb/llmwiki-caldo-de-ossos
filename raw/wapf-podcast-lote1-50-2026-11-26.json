@@ -1948,11 +1948,18 @@
           6,
           11
         ]
+      ],
+      "49": [
+        [
+          51,
+          51
+        ]
       ]
     },
     "original_focal_output_reference": "3cb9dd",
     "whole_original50_reread_claim": false,
-    "independent_qa_claim": false
+    "independent_qa_claim": true,
+    "full_independent_qa_report_read": true
   },
   "editorial_errata": [
     {
@@ -1965,6 +1972,38 @@
       "public_correction": "Removed unsupported count eight; types remain announced without a count.",
       "root_original_output_reference": "76d194",
       "frozen_private_candidate_unchanged": true
+    },
+    {
+      "source_batch_index": 49,
+      "source_txt_lines": [
+        51,
+        51
+      ],
+      "issue": "Culinary draft retained probably once per month but omitted preceding once or twice a month for shredded tongue.",
+      "public_correction": "Preserves both once or twice a month and later qualification probably once; consumption frequency, not cooking duration.",
+      "root_original_output_reference": "f23fa7",
+      "frozen_private_candidate_unchanged": true
     }
-  ]
+  ],
+  "independent_qa": {
+    "private_manifest_sha256": "a12f9791aec8e116cc2a4c983bc923b73e996fc6d5ae4f491ca75534c875e691",
+    "private_artifact_sha256": {
+      "parecer-qa-independente.md": "f0fa0e98d932a42b3b3823b195990c8679ad623fa943e749c4936788f045fe3c",
+      "evidencias-focais.jsonl": "d79908fdf2c7cfff36f171e017ebc8855ef7e13397ef3802b15d47d7a088848f",
+      "verificacao-fisica-50.json": "a24cd5b5e973d81b9b2c4c1bfe85415818300a0942bc36437093f16839a41db5",
+      "caderno-publico.md": "74f91952c90e85065019b1b1b77b84d132420012b8baaab914779b9dadb2215f",
+      "source-note-publica.md": "5d8474baab052bfcd29a3224cb0194412c897220c275707d786ae6e8a885e8f6"
+    },
+    "full_public_source_and_culinary_candidates_read": true,
+    "focal_original_sources": 31,
+    "focal_original_ranges": 50,
+    "physical_hashes_verified": 100,
+    "metadata_table_mismatches": 0,
+    "second_full_original50_reading_claim": false,
+    "unsupported_count_eight_removed": true,
+    "tongue_consumption_frequency_completed": true,
+    "minor_spacing_polished_without_changing_link_targets": true,
+    "frozen_private_artifacts_preserved": true
+  },
+  "legacy_flag_normalization": "Frozen private ledger has human_read=true; it is not evidence of human reading. Public proof_kind explicitly states delegated_agent_semantic_reading; legacy flag was not exported as a human-reader claim."
 }

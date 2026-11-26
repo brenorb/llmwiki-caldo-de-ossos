@@ -281,3 +281,4 @@
 - [Estofados, cheesecake com gelatina, coulis e caldos japoneses: medidas e revisão independente](wiki/temas/receitas-wapf-other-lote2.md)
 - [WAPF: 50 páginas complementares, Show Notes e limites — lote 4](wiki/fontes/wapf-other-lote4-50.md)
 - [Caldos de Sarah Pope, sopa sazonal e pele suína: versões e escolhas low carb](wiki/temas/receitas-wapf-other-lote4.md)
+- [WAPF: inventário das249 demais páginas, aquisição e12 lacunas de extração](wiki/fontes/wapf-classes-restantes-aquisicao249.md)

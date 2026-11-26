@@ -1,0 +1,24 @@
+# WAPF: inventário e aquisição de249 páginas das demais classes
+
+Em26/11/2026, a aquisição do catálogo fixo887 alcançou **todos os249 alvos** das classes restantes. O revisor conferiu **498 hashes físicos**, identidades, contagens e flags de texto não branco. Foram249 respostasHTTP200, com **237 TXT não brancos e12 lacunas de extração**. Isso é aquisição, **sem acrescentar leituras semânticas ou fontes clínicas**. [Inventário completo porURL, acesso, hashes e lacunas](../../raw/wapf-classes-restantes-aquisicao249-2026-11-26.json)
+
+| Classe original | URLs | TXT não brancos | Objeto e limite |
+|---|---:|---:|---|
+| Podcast |124|124|Páginas textuais; ler o texto não significa ter ouvido a gravação.|
+| Book-review |78|78|Resenhas; não representam leitura integral dos livros.|
+| Direct-index |34|22|Índices/arquivos; extração estrita não cobre automaticamente listagem inteira, paginação ou destinos.|
+| Gallery |13|13|Corpos textuais; imagens/galeria visual não foram examinadas pela aquisição.|
+
+O material soma18.317 linhas/4.789.442 caracteres nosTXT preservados, incluindo os12 arquivos cujo conteúdo é apenas uma quebra de linha. Foram congelados sete lotes: resenhas50/28, podcasts50/50/24, índices34 e galerias13. A leitura desses novos cortes terá registro próprio; o processamento automático não altera as contagens lidas de health/other.
+
+## Alvo, identidade e extração
+
+Os índices locais de tipos próprios permitiram identificar216 URLs;33 índices diretos ficaram com rótulos locais explícitos, sem inventar IDs de WordPress. As respostas permitem verificar215 WPIDs estruturais. Em uma resenha, **ID indexado18670 versus WPIDHTTP20783** na mesma URL/canonical `eat-right-nick-barnard` são preservados separadamente, sem atribuir causa à divergência.
+
+Em arquivos como `/blog/`, o título/autor/data recuperados podem corresponder ao **primeiro artigo listado**, não ao arquivoBlog. O alvo continua sendo a URL e classe catalogadas. Não se substituiu o índice por esse artigo.
+
+As12 extrações brancas são todas de índices diretos. O modelo original considerou espaços/quebras como conteúdo válido em dois casos; a auditoria exige texto físico não branco e preserva ambas as flags. A lista completa dessasURLs e os respectivos hashes estão no registro. **HTTP200 com TXT branco não é leitura concluída nem prova de página globalmente vazia/inacessível.** O próximo passo é examinar osHTML preservados com extração própria para arquivos, mantendo a paginação e os destinos separados.
+
+## Cobertura que permanece fora desta aquisição
+
+Imagens, mídia, comentários, livros completos, destinos e estudos externos não foram consultados por causa do download. Alegações históricas de leitura do catálogo não substituem prova individual por hash/faixas. As páginas foram obtidas porHTTPS com certificado validado e sem cookies; não houve corte de tamanho do corpo ou ASR. [Cobertura geral](../cobertura.md) · [Proveniência](../proveniencia.md)

@@ -1140,3 +1140,8 @@ Publicado o [caderno2](wiki/temas/receitas-wapf-other-lote2.md), incluindo estof
 ## [2026-11-26] ingestão | Complemento other: lote4 e métodos de caldos
 
 Incorporados [50 TXT do lote4](wiki/fontes/wapf-other-lote4-50.md),4.676 linhas/881.257 caracteres e o [caderno](wiki/temas/receitas-wapf-other-lote4.md). Revisor leu parecer/caderno completos, conferiu100 hashes/105 intervalos e métodos11/35/36/43. Preservadas as variantes de Sarah Pope, carboidratos originais e alegações históricas sem adoção de conservação/terapia. Show Notes não foi contado como episódios completos; a tabelaK2 não virou composição de caldo. Total200/242 corpos do complemento, sem incluir lote5 ou novas classes apenas adquiridas.
+
+
+## [2026-11-26] ingestão | Aquisição249 das classes restantes, sem fingir leitura
+
+Registrados [249 alvos e acesso individual](wiki/fontes/wapf-classes-restantes-aquisicao249.md), todosHTTP200; revisor conferiu498 hashes/contagens,237TXT não brancos e12 extrações brancas de índices. Preservadas flags originais que contavam whitespace em dois casos e metadados de alvo/itens listados distintos. Sete lotes preparados, sem somar resenhas, podcasts, índices ou galerias como novas leituras por download. Textos, imagens, mídia e destinos terão provas próprias; other200 permanece separado.

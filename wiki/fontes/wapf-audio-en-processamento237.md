@@ -8,12 +8,17 @@ Em26/11/2026, a auditoria confirmou **237 conjuntos de mídia/TXT/log/checkpoint
 | Duração somada |126h25min25s, segundo metadados ffprobe; sem nova audição ou decodificaçãoPCM integral.|
 | Checkpoints |237 declaram verified, com metadados/tamanhos/timestamps conferidos.|
 | Logs com sequência final estrita |236, somando3.957 blocos ordenados.|
-| Exceção de prova |Episódio181 tem os índices1–17 presentes, com6–12 repetidos/intercalados entre duas execuções.|
+| Exceção de prova |Episódio181 tem os índices1–17 presentes; no log inteiro1–12 se repetem entre duas execuções.|
 | Leitura semântica |Nenhuma nova leitura dos237 TXT foi alegada por esta auditoria.|
 
 ## O episódio181
 
 *Food lies exposed*, GUID `da2e32fbccc14c668c989f148171a674`, tem os quatro arquivos e bordas conferidos. O log mistura duas execuções e não associa cada linha inequivocamente ao TXT final. **Isso não demonstra áudio faltante nem exige nova ASR automaticamente.** É uma pendência conservadora de reconciliação da prova; o original permanece preservado. As3.974 declarações totais de blocos incluem os17 desse log, sem fingir que todos passaram pela validação estrita de ordem.
+
+
+O esclarecimento posterior leu log/checkpoint inteiros: **1–12 aparecem duas vezes no log completo e13–17 uma vez**. O recorte da auditoria inicial, após o segundo anúncio de transcrição, tinha apenas6–12 repetidos porque os primeiros1–5 da outra execução estavam antes desse anúncio. Sob hipótese de dois laços, existe uma subsequência ordenada1–17 e outra1–12, semPID que autentique a atribuição ao TXT final.
+
+O código local atual percorre os blocos em ordem e incorpora resultados, mas não foi comprovado como o mesmo build histórico que gerou181. Mantém-se a pendência de proveniência, sem inferir fala faltante ou reiniciarASR. Os16 entregáveis originais da auditoria continuam congelados; o adendo e seus hashes estão no registro público.
 
 ## Integralidade e acurácia são controles distintos
 

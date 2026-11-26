@@ -58,7 +58,10 @@
     "title": "181: Food lies exposed",
     "page": "https://wisetraditions.libsyn.com/181-food-lies-exposed",
     "all_indices_1_to_17_present": true,
-    "duplicate_chunk_indices": [
+    "strict_last_run_ordered": false,
+    "interpretation": "Two interleaved executions, no PID linking each line unambiguously to final TXT. Proof reconciliation only; not evidence of missing audio or automatic need for new ASR.",
+    "new_execution": false,
+    "duplicate_indices_after_last_transcribing_header": [
       6,
       7,
       8,
@@ -67,9 +70,68 @@
       11,
       12
     ],
-    "strict_last_run_ordered": false,
-    "interpretation": "Two interleaved executions, no PID linking each line unambiguously to final TXT. Proof reconciliation only; not evidence of missing audio or automatic need for new ASR.",
-    "new_execution": false
+    "whole_log_duplicate_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "focused_followup": {
+      "private_artifact_sha256": {
+        "parecer-181.md": "a1b3068276f8ef31e01d2dc3aa9df804579fc7df9bf4c24bb6ccf0bc406a1b09",
+        "esclarecimento-181.json": "075dbe570229a74f608203ac87f7d151648c73a0e7e1cf0bb25af42b4343e5ee",
+        "manifesto-esclarecimento-181.json": "213e0208922c136bfd9ab3ab1c9cf97a4b341d2e144b2a712ebe11afb60cc9a1"
+      },
+      "root_full_report_read": true,
+      "all_indices_1_to_17_present": true,
+      "hypothetical_ordered_subsequences": {
+        "cycle_A": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "cycle_B": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "hypothesis_authenticated_by_pid": false,
+      "historical_build_identity_verified": false,
+      "final_text_mapping_proven": false,
+      "interpretation": "Whole log has1–12 twice; earlier audit partition after second transcribing header had6–12 repeated because prior1–5 were before the header. An ordered complete subsequence exists under a two-loop hypothesis, without proving which process wrote final TXT. Current source/build is not authenticated as historical producer. No missing speech or need for new ASR inferred."
+    }
   },
   "timestamps_interpretation": "Segment starts are not segment ends; start-to-start intervals and tail do not prove omitted speech or silence. One-second backtracks preserved, not word-level accuracy validation.",
   "limits": [

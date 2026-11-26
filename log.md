@@ -1150,3 +1150,8 @@ Registrados [249 alvos e acesso individual](wiki/fontes/wapf-classes-restantes-a
 ## [2026-11-26] revisão | Seleção inglesa237: artefatos e ressalva de proveniência
 
 Incorporada [auditoria dos237 GUIDs](wiki/fontes/wapf-audio-en-processamento237.md), subconjunto doRSS608,126h25min25s. Revisor leu parecer inteiro e reconferiu948 hashes/tamanhos e16 entregáveis congelados. Há236 logs estritos e um log181 com todos1–17 presentes e6–12 duplicados/intercalados; não prova áudio faltante nem pede novaASR automaticamente. Nenhum artefato ausente, nova transcrição, audição ou leitura semântica. Limites de download/probe e tolerâncias de timestamps não foram confundidos com corte de duração por gravação.
+
+
+## [2026-11-26] revisão | Episódio181: log inteiro e limite da identificação histórica
+
+O [esclarecimento focal](wiki/fontes/wapf-audio-en-processamento237.md#o-episódio181) distingue1–12 duplicados no log inteiro de6–12 após o último anúncio. Uma separação hipotética admite um ciclo1–17 e outro1–12; semPID ou build histórico identificado não prova qual escreveu oTXT. Preservados os16 entregáveis congelados; root leu parecer focal e conferiu três novos hashes. Nenhuma novaASR ou evidência de fala faltante.

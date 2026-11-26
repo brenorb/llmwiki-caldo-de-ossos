@@ -1,0 +1,856 @@
+{
+  "date": "2026-11-26",
+  "proof_kind": "delegated_agent_semantic_reading",
+  "episodes": 11,
+  "lines": 4171,
+  "characters": 402467,
+  "private_manifest_sha256": "9a911b2be555cf6c15ace25a296ab94969b0e3b4df369f7f4dcf7dafc6eae619",
+  "private_reading_proof_sha256": "2507e655c4cf4c96499da3185c4849165481761cd4fd58df63fba17ca2fabfb3",
+  "root181_excluded": true,
+  "reviewer_scope": {
+    "full_reconciliation_report_read": true,
+    "full_batch_report_read": true,
+    "full_adult_culinary_notebook_read": true,
+    "full_author_QA_read": true,
+    "all435_version_hashes_checked": true,
+    "all11_full_read_ranges_checked": true,
+    "all33_batch_text_log_checkpoint_hashes_checked": true,
+    "original_focal_ranges_read": {
+      "257": [
+        [
+          160,
+          180
+        ]
+      ],
+      "258": [
+        [
+          335,
+          350
+        ]
+      ],
+      "271": [
+        [
+          105,
+          120
+        ]
+      ]
+    },
+    "independent_second_full_reading_of11_transcripts": false
+  },
+  "rows": [
+    {
+      "batch_index": 0,
+      "episode": 271,
+      "guid": "9bd5d5f7-5191-411f-b7a4-695e5d4240ba",
+      "language": "en",
+      "title": "271: Health freedom: the problem of censorship",
+      "page": "https://www.westonaprice.org/podcast/censorship-jeopardizes-freedom/",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/271.txt",
+      "text_sha256_physical": "7702ccf1372bb4d27536fb07410ebdb96a4fda40c91500a255e689db8b11e690",
+      "total_lines": 151,
+      "chars": 14693,
+      "read_ranges_inclusive": [
+        [
+          1,
+          71
+        ],
+        [
+          72,
+          151
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:14:30",
+      "duration_seconds_recorded_in_processing_audit": 875.482585,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/WT_271_Robert_F._Kennedy_Jr..mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "8a7b993c400b1ef467fd1fa6cc3487a95e9ba777db60149e94f54abbfc2bad59",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 8,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/271.log",
+            "sha256_physical": "ad0514405bafc912bead6a25c9d9e19b4b6902060ea10e6db48edaa37a42ff9a",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/271.verified.json",
+            "sha256_physical": "79130e938e42f7c99c03894aed2156515c618c2ac4dfff4041ca64e59f71f13c",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "RFK e Hilda discutem censura/liberdades. Anúncio Optimal Carnivore cita tutano. A carta final de Janice relata carne de cabeça suína e ossos bovinos com carne acompanhados de arroz, sem fórmula medida; longevidade é relato multifatorial, não efeito isolado de caldo.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 1,
+      "episode": 270,
+      "guid": "107ba0cf-0f0e-46ce-b79a-af4e3e7c8960",
+      "language": "en",
+      "title": "270: Why being salty is a good thing",
+      "page": "https://wisetraditions.libsyn.com/270-why-being-salty-is-a-good-thing",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/270.txt",
+      "text_sha256_physical": "205b9c9de1f6b7526e7a069588d72aa250db7578427d1cd0221a6f4582726771",
+      "total_lines": 429,
+      "chars": 36010,
+      "read_ranges_inclusive": [
+        [
+          1,
+          98
+        ],
+        [
+          99,
+          194
+        ],
+        [
+          195,
+          278
+        ],
+        [
+          279,
+          365
+        ],
+        [
+          366,
+          429
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:29:56",
+      "duration_seconds_recorded_in_processing_audit": 1802.933333,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Why_being_salty_is_a_good_thing.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "c963b9d342e6038ee759e3f46c9f234ec6fcdf318850441b94a2ed4e7d988224",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 16,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/270.log",
+            "sha256_physical": "96c5f5d5e5e17502de52f3ec0991e9aad11334f3e7ae72f7e74ef8409ce09d0f",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/270.verified.json",
+            "sha256_physical": "cb0ffaf5383f88c83c75e684372199894ecb04521f9b6c741d2d37a0908738b0",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Hilda e Sally discutem sal; reexibição declarada de novembro2017. Cartilagem/tutano/gelatina aparecem em anúncios Ancestral, sem receita. Doses e alegações de sal, hipertensão/sono/neurologia não são composição de caldo ou orientação adotada.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 2,
+      "episode": 269,
+      "guid": "92bb1cbe-e65d-451d-b3cf-d744659d6a07",
+      "language": "en",
+      "title": "269: Health freedom: what's at stake",
+      "page": "https://wisetraditions.libsyn.com/269-health-freedom-whats-at-stake",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/269.txt",
+      "text_sha256_physical": "213077358f204304548add33e53ecbe0e0cf9007d6d091341938276a812b5492",
+      "total_lines": 387,
+      "chars": 44622,
+      "read_ranges_inclusive": [
+        [
+          1,
+          76
+        ],
+        [
+          77,
+          135
+        ],
+        [
+          136,
+          211
+        ],
+        [
+          212,
+          279
+        ],
+        [
+          280,
+          343
+        ],
+        [
+          344,
+          387
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:41:04",
+      "duration_seconds_recorded_in_processing_audit": 2470.460378,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Health_freedom_whats_at_stake.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "985b523c7e1f8a29130a7b1613200908ae148221b698e76d9089a3d2c35e606a",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 21,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/269.log",
+            "sha256_physical": "6c4f1701d4e2faf3fae613314dec7389b9c0d8bd8be0f384375066026a384101",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/269.verified.json",
+            "sha256_physical": "c0a515d3b9cc7f86d1cf66b153a10ae9ddf3ebc60d843cf25a415aefbff0e789",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Hilda e Sayer discutem pandemia/liberdades/teorias biológicas e políticas. Tutano aparece em anúncio Optimal Carnivore; know this in my bones é metáfora. Não há preparo temático. Carta final de Barbara é separada da fala do convidado.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [
+        {
+          "from_line": 363,
+          "to_line": 364,
+          "from": "00:38:13",
+          "to": "00:39:13",
+          "start_to_start_seconds": 60
+        }
+      ],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 3,
+      "episode": 268,
+      "guid": "5da82fb5-837f-4f73-b41c-3bb86aa717b2",
+      "language": "en",
+      "title": "268: Reset your gut",
+      "page": "https://wisetraditions.libsyn.com/268-reset-your-gut",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/268.txt",
+      "text_sha256_physical": "9f9e63d3bbc37bcafe29d3af315d3564aa0cada6a8403d9e0955478eb0357cf6",
+      "total_lines": 354,
+      "chars": 37363,
+      "read_ranges_inclusive": [
+        [
+          1,
+          80
+        ],
+        [
+          81,
+          150
+        ],
+        [
+          151,
+          230
+        ],
+        [
+          231,
+          291
+        ],
+        [
+          292,
+          354
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:34:42",
+      "duration_seconds_recorded_in_processing_audit": 2087.377143,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Reset_your_gut.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "1cb4ddfec9893ddc1c9d12f5290253b7097f88fe013994fbf0616cfe0d70f1be",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 18,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/268.log",
+            "sha256_physical": "ecef6151c7f2b4652eee021274eefd9ad2cae10a0f3bab9f14a435a1bce8c313",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/268.verified.json",
+            "sha256_physical": "63937417121b32d2d658c402adb462de40d8cdf9502b902f12cf7d5ab84e7056",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Ashley Turner relata filha de dois anos e intervenções GAPS/AIP; PANS/PANDAS é interpretação retrospectiva não documentada à época. Cartilagem/tutano/colágeno/gelatina nos anúncios, não receita. Não há caldo explicitado na narrativa clínica.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 4,
+      "episode": 267,
+      "guid": "f1f091ec-60a8-4790-84e2-206c80e5a9f5",
+      "language": "en",
+      "title": "267: Cow as scapegoat",
+      "page": "https://wisetraditions.libsyn.com/267-cow-as-scapegoat",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/267.txt",
+      "text_sha256_physical": "4d90bae3a50c63c64c1e8916fcf8bfb9a79e57271f56ed2118e445df919042e7",
+      "total_lines": 406,
+      "chars": 47635,
+      "read_ranges_inclusive": [
+        [
+          1,
+          71
+        ],
+        [
+          72,
+          141
+        ],
+        [
+          142,
+          208
+        ],
+        [
+          209,
+          274
+        ],
+        [
+          275,
+          336
+        ],
+        [
+          337,
+          406
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:42:28",
+      "duration_seconds_recorded_in_processing_audit": 2561.890612,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Cow_as_scapegoat.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "c20e7cc3e5bdd36c8799d3834f55e7c5867656f2471359a9f2edb6005c088c8b",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 22,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/267.log",
+            "sha256_physical": "2ebf51e32ad6a1a0e5cc454497013a9e5247b4500474abdfc375279fa4326e72",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/267.verified.json",
+            "sha256_physical": "c5e5bca520c2ba230c13af623ffd127f20391879a982e207abeb0c1aca2e5609",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Diana Rogers/Rob Wolf defendem carne e pecuária regenerativa; Sacred Cow anunciado, sem leitura do livro/filme. Cartilagem/tutano/gelatina nos anúncios. Percentuais, proteína e calorias são da discussão geral sobre carne/dieta, não macros de caldo.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [
+        {
+          "from_line": 321,
+          "to_line": 322,
+          "from": "00:33:32",
+          "to": "00:34:28",
+          "start_to_start_seconds": 56
+        }
+      ],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 5,
+      "episode": 265,
+      "guid": "070704d7-566a-4fbf-83c2-96aec96630f7",
+      "language": "en",
+      "title": "265: Optimize your ratio of essential fatty acids",
+      "page": "https://wisetraditions.libsyn.com/265-optimize-your-ratio-of-omega-3-and-omega-6-fatty-acids",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/265.txt",
+      "text_sha256_physical": "44b6a00ea168ad08a7e177fea6cefca1b0b1c924929023edb0e63930dd9af424",
+      "total_lines": 381,
+      "chars": 31474,
+      "read_ranges_inclusive": [
+        [
+          1,
+          93
+        ],
+        [
+          94,
+          188
+        ],
+        [
+          189,
+          267
+        ],
+        [
+          268,
+          366
+        ],
+        [
+          367,
+          381
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:28:23",
+      "duration_seconds_recorded_in_processing_audit": 1709.384694,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Optimize_your_ratio_of_omega-3_and_omega-6_fatty_acids.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "7c4d60814cca0d0ecae391b9a3b0d273c66636f6a0621a6993e31ca6e0eb1d67",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 15,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/265.log",
+            "sha256_physical": "54ca887c604c5ccc16c826934444baa4ef2041c30b10d93de108dbcf767b33b7",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/265.verified.json",
+            "sha256_physical": "4ec9d3b82c743a80b45271763387362d1ba8b6b45007d4a4e1f8da9ab0ae5def",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Hilda e Sally discutem razão de ácidos graxos; reexibição declarada de agosto2017. Cartilagem/tutano/gelatina em anúncios, sem preparo temático. Óleos, combinações alimentares e doses de suplementos são adjacentes, não composição de caldo.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 6,
+      "episode": 262,
+      "guid": "06686a23-6963-476a-a1d7-03675317577a",
+      "language": "en",
+      "title": "262: Secrets from the French",
+      "page": "https://wisetraditions.libsyn.com/262-secrets-from-the-french",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/262.txt",
+      "text_sha256_physical": "445ee5dd425ce10454953a60b30e68068c26d4bd79e7e507dee7fe0b33827831",
+      "total_lines": 348,
+      "chars": 37328,
+      "read_ranges_inclusive": [
+        [
+          1,
+          70
+        ],
+        [
+          71,
+          142
+        ],
+        [
+          143,
+          221
+        ],
+        [
+          222,
+          284
+        ],
+        [
+          285,
+          348
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:36:55",
+      "duration_seconds_recorded_in_processing_audit": 2220.872494,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Secrets_from_the_French.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "62aafb1ac7446b6741db89a9e8befad676e92b57edadf83ce48b622a94fc8bc7",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 19,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/262.log",
+            "sha256_physical": "11d8b7b0c6887a7760edb5712fb7b39ced1850b85ac4c9de5d47df9e3aa908c2",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/262.verified.json",
+            "sha256_physical": "012071cc2a99d007492282a5a26db5952860aa18c55bb6417ea0b37b07ff3822",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Tanya Teschke fala de culinária francesa, vísceras e livro Bordeaux Kitchen; nenhum preparo com caldo. Receitas adjacentes de fígado/barra de tâmaras não são fórmulas temáticas. Cartilagem/tutano/gelatina estão nos anúncios; livro e destinos não lidos.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [
+        {
+          "from_line": 172,
+          "to_line": 173,
+          "from": "00:18:34",
+          "to": "00:19:40",
+          "start_to_start_seconds": 66
+        }
+      ],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 7,
+      "episode": 261,
+      "guid": "0c49ebbc-a5db-49ab-9adb-ee5a0d0fa1da",
+      "language": "en",
+      "title": "261: Food > supplements",
+      "page": "https://wisetraditions.libsyn.com/261-food-supplements",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/261.txt",
+      "text_sha256_physical": "9ec9e14bcdbe2ba2231835a876e39e361d419007c203cb280d74ffebd112698e",
+      "total_lines": 414,
+      "chars": 37956,
+      "read_ranges_inclusive": [
+        [
+          1,
+          81
+        ],
+        [
+          82,
+          173
+        ],
+        [
+          174,
+          254
+        ],
+        [
+          255,
+          343
+        ],
+        [
+          344,
+          414
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:33:07",
+      "duration_seconds_recorded_in_processing_audit": 1993.114444,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Food__supplements.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "58f488ce28846ef58e68fccfe84b8c3f372297f777a3322cafeec2dd835f1fe7",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 17,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/261.log",
+            "sha256_physical": "41b1391d8f11792a321cf9a36f1ce9e45a3c3911436ed5eb287b58b0b371dde7",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/261.verified.json",
+            "sha256_physical": "48b9ebd4faf13cd5f0151bb53e851d245616aa07fb39f0d484dccb4f1773ce43",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Sally comenta vitaminas e revista; K em manteiga/gorduras não mede K do caldo. Tutano fisiológico na discussão de anemia é distinto dos anúncios de gelatina/colágeno/vísceras. A publicidade cita intestino de búfalo como tradição, não ficha culinária. Relatos finais e infantis separados.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 8,
+      "episode": 258,
+      "guid": "fa28bfb1-37b4-4742-8d47-6b1b334d57fd",
+      "language": "en",
+      "title": "258: Fat is where it's at",
+      "page": "https://wisetraditions.libsyn.com/258-fat-is-where-its-at",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/258.txt",
+      "text_sha256_physical": "736a6d0fbaefb9c771411bd36e750ee03779959beacf27e426e6e0de2bb288ab",
+      "total_lines": 407,
+      "chars": 35065,
+      "read_ranges_inclusive": [
+        [
+          1,
+          92
+        ],
+        [
+          93,
+          173
+        ],
+        [
+          174,
+          265
+        ],
+        [
+          266,
+          358
+        ],
+        [
+          359,
+          407
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:31:43",
+      "duration_seconds_recorded_in_processing_audit": 1908.56712,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Fat_is_where_its_at.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "83b5b6613930a6449707c01088500bf6437f911717f74b2591782bcfe4ee5e34",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 17,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/258.log",
+            "sha256_physical": "e4f48d408e9ae0b7704892907d114518362674eb61f3711f1c1ae5d996e74016",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/258.verified.json",
+            "sha256_physical": "9ff6d3dbe01e78dc513f3eba20076e863ed2ce83e924d34bc1ec43e2872a7aff",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Reexibição declarada de maio2017. Anúncio North Star cita caldo sem fórmula; Hilda relata Elizabeth com eczema e mudança combinada de gorduras+caldo, sem efeito isolado. Comer frango com pele/gordura é escolha alimentar sem receita. Percentuais de dieta não são macros de caldo.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 9,
+      "episode": 257,
+      "guid": "b27e3db8-833b-4cbd-900c-5c68b18f018a",
+      "language": "en",
+      "title": "257: Every bite counts for baby",
+      "page": "https://wisetraditions.libsyn.com/257-every-bite-counts-for-baby",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/257.txt",
+      "text_sha256_physical": "4a1a7b0accda0653800ea72bd31a8af7b903b672d2c2a59eca0280a43d0ede12",
+      "total_lines": 439,
+      "chars": 42181,
+      "read_ranges_inclusive": [
+        [
+          1,
+          90
+        ],
+        [
+          91,
+          171
+        ],
+        [
+          172,
+          244
+        ],
+        [
+          245,
+          321
+        ],
+        [
+          322,
+          400
+        ],
+        [
+          401,
+          439
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:34:20",
+      "duration_seconds_recorded_in_processing_audit": 2064.890748,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Every_bite_counts_for_baby.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "ec429f219747c50e7c66887abe40d3f063d7ce0909c82fc39143637ad58c0fb3",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 18,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/257.log",
+            "sha256_physical": "8edfcd9d245ef380f1c26919097a46ae7166b951a5085f0cbbc3a9756ce480ee",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/257.verified.json",
+            "sha256_physical": "15add39ecfa3b5f8032a9c92ce19d0b7c01019755e8e651cd368d765a01adb37",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Serenity descreve caldo familiar de ossos bovinos em InstantPot,2h versus24/48h. Compra de1/8de vaca não é quantidade da panela. Liverbroth para filha é uso infantil separado, sem dose. MCT oil no café é MCT, não medicina chinesa; demais receitas sem ingrediente-tema são adjacentes.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    },
+    {
+      "batch_index": 10,
+      "episode": 255,
+      "guid": "4b5b72c5-8897-47b9-aa9e-639c68691438",
+      "language": "en",
+      "title": "255: Homemade baby formula",
+      "page": "https://wisetraditions.libsyn.com/255-homemade-baby-formula",
+      "version": "original_v3",
+      "text_path": "leitura/wapf-live/episode-audio/255.txt",
+      "text_sha256_physical": "3b849974f4f5a69831b44a715c28c7d602ecbc6bce70ce25f013c74d1ee08530",
+      "total_lines": 455,
+      "chars": 38140,
+      "read_ranges_inclusive": [
+        [
+          1,
+          88
+        ],
+        [
+          89,
+          170
+        ],
+        [
+          171,
+          257
+        ],
+        [
+          258,
+          342
+        ],
+        [
+          343,
+          423
+        ],
+        [
+          424,
+          455
+        ]
+      ],
+      "reading_complete": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "reader_agent": "/root/wapf_lote6_fim",
+      "semantic_completed_at_utc": "2026-11-26T20:57:27.147969+00:00",
+      "first_timestamp": "00:00:01",
+      "last_timestamp": "00:33:56",
+      "duration_seconds_recorded_in_processing_audit": 2041.838571,
+      "media_url": "https://traffic.libsyn.com/secure/wisetraditions/Homemade_baby_formula.mp3?dest-id=323969",
+      "media_sha256_recorded_not_new_audio_read": "73ab0fda151af6a90e223017cb6ac00c083a75c4ee0a77e5c8ca6f0fd42014b7",
+      "processing_controls_separate_from_reading": {
+        "prior_audit": "wiki/raw/wapf-audio-en-237-processamento-2026-11-26.json",
+        "strict_final_log_sequence_recorded": true,
+        "logged_chunks_recorded": 18,
+        "physical_controls": {
+          "log": {
+            "path": "leitura/wapf-live/episode-audio/255.log",
+            "sha256_physical": "6fe8490a46ed84a7575bb35feb5bef1cd522f0a5e48f290c7cc9a682b1fb7b65",
+            "matches_prior_audit": true
+          },
+          "verified.json": {
+            "path": "leitura/wapf-live/episode-audio/255.verified.json",
+            "sha256_physical": "41f1c16c8615e008e5f50006fc579114212f8d132ad87ce192176cbad67521e9",
+            "matches_prior_audit": true
+          }
+        }
+      },
+      "semantic_summary": "Conversa sobre fórmulas infantis: gelatina em mistura láctea e caldo+fígado em alternativa. Medidas, ausências e retirada de gelatina/levedura ficam no crítico privado; não receita adulta. Testemunhos/vendas e convite a estudo não são ensaio realizado. Vídeos e fórmula de destino não abertos.",
+      "proof_file": "raw/wapf-leitura-integral-11-2026-11-26.json",
+      "start_to_start_gaps_over55s": [],
+      "limits": [
+        "All available TXT lines read, including announcements, ads, letters/reviews and closing notices; no whole-audio listening.",
+        "ASR names/words/numbers may be wrong; no imaginary correction or completion from another URL.",
+        "Referenced studies/books/articles, advertised products, hyperlinks and videos were not opened/read.",
+        "Infant/therapeutic protocols separated in private critical record; no adult recipe or clinical endorsement.",
+        "No broth macro/micronutrient concentration, causal benefit or repigmentation inferred."
+      ]
+    }
+  ],
+  "limits": [
+    "Leitura por agente do TXT ASR inteiro, sem escuta integral ou reconhecimento perfeito garantido.",
+    "Relatos, publicidade, alegações e estudos referidos não equivalem a evidência clínica de caldo.",
+    "Fórmulas infantis não foram convertidas em receitas adultas ou propostas keto."
+  ]
+}

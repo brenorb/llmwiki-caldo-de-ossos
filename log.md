@@ -1242,3 +1242,7 @@ Publicada [tabela887](wiki/fontes/wapf-universo887.md):886 correspondências exa
 ## [2026-11-26] ingestão |921 alvos health:inventário completo e fila de adjudicação
 
 Registrados [921HTTP200](wiki/fontes/wapf-health-aquisicao921.md),12 remissões/909 GETs novos,56.663 linhas/16.458.216 caracteres e6.933 comentários extraídos. Conferidos relatório, entregáveis e todos os hashes físicos. Sem leitura semântica criada pela aquisição:286 flags editoriais,84 secundários e125 comentários aguardam adjudicação;522 sem hit não são irrelevantes comprovados. Dezessete controles iguais foram retirados da inferência de alias/leitura; recuperação de main tem prova separada.
+
+## [2026-11-26] ingestão |Onze ASRs completos e conciliação51GUIDs
+
+Incorporadas [11 leituras integrais](wiki/fontes/wapf-audio-leitura11.md),4.171 linhas/402.467 caracteres,33 hashes/faixas conferidos. [Caderno](wiki/temas/receitas-wapf-audio11.md) mantém2hInstantPot versus24/48h e compra1/8de vaca, arroz original e ausências. Anedota de eczema e anúncios permanecem separados; misturas infantis não viraram fichas adultas. Com181, a [base426](wiki/fontes/wapf-audio-leituras426.md) tem51GUIDs/54versões exatas entre435versões, sem transferir prova entre edições ou apagar declarações semSHA. Revisor leu pareceres/caderno/QA e focais, conferiu435TXT, sem escuta ou releitura integral de todo corpus.

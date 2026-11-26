@@ -327,3 +327,7 @@
 - [WAPF:catálogo original887 — tabela completa deURLs, versões e limites](wiki/fontes/wapf-universo887.md)
 
 - [WAPF:921 alvos health — aquisição completa, filas e lacunas de leitura](wiki/fontes/wapf-health-aquisicao921.md)
+
+- [Wise Traditions:426GUIDs,435 versões e51 leituras integrais identificadas](wiki/fontes/wapf-audio-leituras426.md)
+- [Onze ASRs adicionais:achados, cartas e publicidade](wiki/fontes/wapf-audio-leitura11.md)
+- [Caldo InstantPot2h e demais menções culinárias:medidas e lacunas](wiki/temas/receitas-wapf-audio11.md)

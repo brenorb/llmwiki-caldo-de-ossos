@@ -183,3 +183,5 @@ O [lote 3](fontes/wapf-other-lote3-50.md) tem 50 URLs disjuntas, 100 hashes e fa
 
 
 Durações obtidas com `ffprobe format.duration` são informações do arquivo, não prova de escuta ou de uma nova decodificação completa do áudio. Sequências de ASR, integridade do arquivo e leitura do texto são controles separados.
+
+A [conciliação dos inventários do lote3](../raw/wapf-other-lote3-destinos-conciliacao-2026-11-26.json) distingue506 ocorrências de458 destinos HTTP únicos. Cinquenta destinos correspondem a corpos nos ledgers selecionados;408 não correspondem nesse conjunto. Não se inferiram acesso, falha de acesso, leitura global ou equivalência por título; fragmentos e barra final removidos, query/esquema preservados. O cruzamento é metadado, sem nova leitura semântica.

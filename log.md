@@ -1125,3 +1125,8 @@ Incorporados [50 TXT do lote 1](wiki/fontes/wapf-other-lote1-50.md), 3.874 linha
 ## [2026-11-26] ingestão | Complemento other: lote 3, tradições e duas fórmulas culinárias
 
 Incorporados [50 TXT do lote 3](wiki/fontes/wapf-other-lote3-50.md), 4.182 linhas/1.166.201 caracteres. Revisor leu os dois pareceres e o caderno completos, reconferiu 100 hashes/faixas e as receitas23/49 diretamente. [Caderno](wiki/temas/receitas-wapf-other-lote3.md) e medicina chinesa preservam açúcar/passas, alternativas da fonte, propostas próprias e caráter cultural/terapêutico atribuído. Registrados435 âncoras de índices e71 URLs literais sem fingir acesso aos destinos; conciliação com cortes anteriores ainda pendente. Lotes1/2/3 totalizam150 de242 corpos do complemento incorporados, sem duplicar health ou revistas inteiras.
+
+
+## [2026-11-26] revisão | Conciliação de506 ocorrências de destinos do lote3
+
+O [cruzamento local com ledgers selecionados](raw/wapf-other-lote3-destinos-conciliacao-2026-11-26.json) encontra50 destinos HTTP com corpos disponíveis já representados e408 sem correspondência nesse conjunto. São458 destinos HTTP distintos, sem inferir que408 estejam globalmente por ler ou inacessíveis.32 referências não HTTP não foram executadas. Nenhuma nova aquisição/leitura/ASR; corrigida a formulação ampla de pendência dos destinos sem apagar os inventários originais.

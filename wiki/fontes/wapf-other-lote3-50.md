@@ -26,7 +26,7 @@ Nenhum destes corpos apresenta medição direta por porção de **B9, K, cobre, 
 
 ## Objetos lidos e lacunas preservadas
 
-- **16 índices de revista/editoriais**,00–15: corpo atual lido, sem leitura da edição completa. Inventário estrutural de435 âncoras, incluindo um PDF direto de2017, não aberto nesta tarefa. Parte dos destinos pode estar em outros cortes; conciliação ainda pendente.
+- **16 índices de revista/editoriais**,00–15: corpo atual lido, sem leitura da edição completa. Inventário estrutural de435 âncoras, incluindo um PDF direto de2017, não aberto nesta tarefa. A conciliação posterior encontra destinos já representados; ver o quadro abaixo.
 - **16/17:** duas transcrições textuais fornecidas de Sarah Pope, lidas separadamente; vídeo não ouvido. Capacidades de panelas8/12/16quarts não são rendimento de caldo.
 - **25:** blocos211 linhas idênticos em L2–212 e216–426; ambos lidos, sem dupla contagem intelectual. Rótulo local `other-local-index-645` separado de WPID27489.
 - **26/29/32/35:** páginas de apresentação de podcast, sem transcrição no corpo; não se presumiu leitura do áudio por ler a descrição.
@@ -34,3 +34,14 @@ Nenhum destes corpos apresenta medição direta por porção de **B9, K, cobre, 
 - **45/46:** anúncios de aulas, sem conteúdo das apresentações lido. Inventário adicional preserva71 ocorrências de URLs literais nos TXT25–49, incluindo seis de PDFs; isso não prova acesso aos destinos.
 
 O inventário completo por fonte está no caderno e no registro estruturado. [Cobertura geral](../cobertura.md) · [Proveniência](../proveniencia.md)
+
+## Conciliação posterior dos destinos
+
+O [cruzamento local](../../raw/wapf-other-lote3-destinos-conciliacao-2026-11-26.json) comparou as506 ocorrências com os ledgers explícitos de393 health,100 antigos negativos,150 other e duas páginas de2009. Não abriu links nem acrescentou leituras.
+
+| Objeto | Resultado |
+|---|---|
+|506 ocorrências inventariadas |50 correspondem a corpos disponíveis com leitura registrada;424 não têm correspondência nesse conjunto selecionado;32 são referências não HTTP.|
+|458 destinos HTTP distintos após normalização |50 correspondem aos ledgers;408 não têm correspondência nesses ledgers.|
+
+Uma correspondência pode ser índice, tradução ou corpo curto; não prova leitura da revista/mídia ou dos dados visuais. Ausência de correspondência **não significa destino globalmente inédito ou inacessível**: o cruzamento não inclui exaustivamente os registros culinários/áudio mais antigos. A normalização remove apenas fragmento/barra final e padroniza caixa de host/esquema; preserva query, caminho e diferença HTTP/HTTPS, sem deduzir redirecionamentos ou equivalência por título. Cada ocorrência conserva a fonte, localização e evidência encontrada.

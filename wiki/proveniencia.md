@@ -179,5 +179,7 @@ O [lote 2 do complemento other](fontes/wapf-other-lote2-50.md) conserva 50 ident
 
 O [lote 1 do complemento](fontes/wapf-other-lote1-50.md) traz outras 50 URLs, 100 hashes/95 intervalos. Revisor leu parecer, caderno e documento crítico completos e releu os TXT14/37/46/48 diretamente. A cópia pública do caderno explicita carne dourada no trecho geral e acrescenta tabela de escolhas low carb, sem alterar o rascunho privado ou atribuir adaptações à fonte. Canonicals com `/es/` em14/37 são preservados mesmo quando a URL final não tem o prefixo. Fórmulas infantis e listas gestacionais ficam em registro crítico separado, sem reconstrução operacional ou adoção clínica.
 
+O [lote 3](fontes/wapf-other-lote3-50.md) tem 50 URLs disjuntas, 100 hashes e faixas completas, inclusive faixas exibidas. Revisor leu ambos os pareceres e o caderno completos e conferiu diretamente23L43–56/49L44–63. O registro conserva o ID local25 versus WPID27489, duplicação interna de211 linhas e errata sobre o peso dos embutidos. Os inventários públicos preservam âncoras/URLs como dados: `accessed=false` descreve esta tarefa estrutural, sem afirmar que todos os destinos são globalmente inéditos, inacessíveis ou já lidos.
+
 
 Durações obtidas com `ffprobe format.duration` são informações do arquivo, não prova de escuta ou de uma nova decodificação completa do áudio. Sequências de ASR, integridade do arquivo e leitura do texto são controles separados.

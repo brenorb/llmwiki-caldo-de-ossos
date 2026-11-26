@@ -57,6 +57,12 @@ Adaptação culinária de *luóbo dùn páigǔ* (蘿蔔燉排骨). Use **450 g d
 | Caldo bovino com amora de amoreira, guia chinês de 2026 | A versão do guia usa 150 g de osso, 25 g de amora, gengibre, cebolinha, vinho e açúcar. Cozinhe a fruta sem açúcar adicionado. [Apêndice 5](https://wjw.shanxi.gov.cn/tzgg/sjzcwj/202605/P020260507678794512347.pdf) |
 | Caldo suíno com kombu, guia chinês de 2026 | O guia usa 100 g de costela, 200 g de ossos, 50 g de kombu hidratado e 10 g de goji, com temperos, vinagre de arroz e vinho culinário. Reduza ou omita o goji conforme a meta de carboidratos. [Apêndice 5](https://wjw.shanxi.gov.cn/tzgg/sjzcwj/202605/P020260507678794512347.pdf) |
 
+## Fontes culturais e culinárias da WAPF
+
+O complemento WAPF acrescenta [relatos culturais chineses e de pós-parto](../fontes/wapf-other-lote3-50.md), com cinco sabores, congee, pés suínos em vinagre e *zuo yuezi*. O [caderno](receitas-wapf-other-lote3.md) preserva medidas da sopa com gengibre e a opção original de vegetais espiralados; açúcar de coco/panela continua sendo açúcar. Congee não exige caldo ósseo. O período de seis semanas é protocolo da autora, sem ensaio dessa sopa lido ou indicação clínica da wiki. Ayurveda/vata aparece separadamente na mesma fonte.
+
+Nos [programas e textos do lote1](../fontes/wapf-other-lote1-50.md), anúncios de casos de “blood deficiency” e modelos de meridianos/chi permanecem descrições, sem os casos completos ou demonstração de benefício do caldo. A tradução sobre a Mongólia registra que os interlocutores do narrador não relataram caldo ósseo separado, embora usassem ossos/tutano na sopa; isso não prova ausência universal da prática. Menções à China, medicina chinesa e MCT/triglicerídeos de cadeia média continuam conceitos distintos.
+
 ## Interpretação de Josh Axe em entrevista
 
 Em [Ancient Remedies,38:28–38:45](https://www.youtube.com/watch?v=FxIbJEhMrzQ), Josh Axe associa cores de alimentos a sistemas de órgãos e enumera caldo de frango,gengibre e alho no contexto imune. A [nota da entrevista](../fontes/mark-sisson-caldo-gelatina.md#josh-axe-com-brad-kearns-caldo-na-narrativa-e-na-cozinha) registra a interpretação dele, sem tratá-la como ensaio,protocolo universal ou receita com proporções. Não é dado de vitaminaK no caldo: a menção posterior é sobre aipo. A passagem não identifica um efeito imunológico medido dessa combinação.

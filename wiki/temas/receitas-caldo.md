@@ -4,6 +4,8 @@ A [página de preparo](preparo.md) já reunia técnicas e referências para cald
 
 O [caderno complementar WAPF](receitas-wapf-other-lote1.md) reúne outras versões de frango/bovino/peixe, molhos reduzidos, almôndegas com coco, coração e sopa de tomate com tutano. Preserva as medidas e diferenças da tradução espanhola, com tabela de escolhas para menos carboidratos e lacunas explícitas.
 
+O [caderno de Lomo con col e sopa com gengibre](receitas-wapf-other-lote3.md) mantém passas/açúcar e todas as alternativas publicadas. Distingue vegetais espiralados da própria fonte de alterações propostas pela wiki e compara ingredientes omitidos ou diferentes entre traduções mediterrâneas.
+
 ## Frango na pressão ou no fogão
 
 **Para uma carcaça de frango já assado**, use cerca de **2 L de água**, uma cenoura pequena, um talo de salsão e um pedaço de cebola. Limão, alho, tomilho e pimenta são opcionais. O ponto de partida foi a receita do Mark’s Daily Apple, ajustada para aromáticos mais discretos.

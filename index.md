@@ -276,3 +276,5 @@
 - [WAPF: 50 páginas complementares, receitas, menus e traduções — lote 2](wiki/fontes/wapf-other-lote2-50.md)
 - [WAPF: 50 páginas complementares, receitas e limites — lote 1](wiki/fontes/wapf-other-lote1-50.md)
 - [Almôndegas com coco, coração, caldos, molhos e tutano: originais e escolhas low carb](wiki/temas/receitas-wapf-other-lote1.md)
+- [WAPF: 50 páginas complementares, versões mediterrâneas e tradições chinesas — lote 3](wiki/fontes/wapf-other-lote3-50.md)
+- [Lomo con col e sopa com gengibre: medidas, variantes e escolhas low carb](wiki/temas/receitas-wapf-other-lote3.md)

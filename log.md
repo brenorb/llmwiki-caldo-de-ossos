@@ -1120,3 +1120,8 @@ Incorporada a [leitura integral delegada de 50 TXT](wiki/fontes/wapf-other-lote2
 ## [2026-11-26] ingestão | Complemento other: lote 1 e caderno culinário completo
 
 Incorporados [50 TXT do lote 1](wiki/fontes/wapf-other-lote1-50.md), 3.874 linhas/853.722 caracteres, e o [caderno](wiki/temas/receitas-wapf-other-lote1.md). Revisor leu parecer/caderno/documento crítico inteiros, releu quatro originais culinários e conferiu 100 hashes/95 intervalos. Preservadas divergências de versões, cálcio e unidades, com tabela de escolhas low carb identificadas como não testadas. Não se transferiu a hipótese de K do tutano a laudo do caldo ou repigmentação. Lotes 1/2 disjuntos totalizam 100 dos 242 corpos do complemento; demais lotes seguem fora dessa contagem.
+
+
+## [2026-11-26] ingestão | Complemento other: lote 3, tradições e duas fórmulas culinárias
+
+Incorporados [50 TXT do lote 3](wiki/fontes/wapf-other-lote3-50.md), 4.182 linhas/1.166.201 caracteres. Revisor leu os dois pareceres e o caderno completos, reconferiu 100 hashes/faixas e as receitas23/49 diretamente. [Caderno](wiki/temas/receitas-wapf-other-lote3.md) e medicina chinesa preservam açúcar/passas, alternativas da fonte, propostas próprias e caráter cultural/terapêutico atribuído. Registrados435 âncoras de índices e71 URLs literais sem fingir acesso aos destinos; conciliação com cortes anteriores ainda pendente. Lotes1/2/3 totalizam150 de242 corpos do complemento incorporados, sem duplicar health ou revistas inteiras.

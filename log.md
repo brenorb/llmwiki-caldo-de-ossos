@@ -1230,3 +1230,7 @@ Incorporada [revalidação porGUID](wiki/fontes/mark-rss-acesso34.md):34 página
 ## [2026-11-26] ingestão |Doze alvos health:comentários culinários e limites de inferência
 
 Incorporados [11 editoriais novos integrais e um alias](wiki/fontes/wapf-health-sinais12.md),798 linhas/237.353 caracteres novos,24 hashes e nove comentários/contextos lidos. Conferidos derivados, QA, identidades, faixas e alias físico;113/1.022 URLs negativas agora têm prova neste corte. O [caderno](wiki/temas/receitas-wapf-comentarios-sinais12.md) preserva caldo OU água OU leite,20–30min e ausência de medidas; não atribui o método dos comentaristas aos autores editoriais. Hipótese histórica de cabelos grisalhos não virou ensaio de repigmentação ou composição de caldo. Imagens, demais comentários, mídias e referências têm lacunas próprias.
+
+## [2026-11-26] revisão |181:leitura integral e anúncio omitido pelo reconhecimento
+
+Lidas as332 linhas da [nova versão181](wiki/fontes/wapf-audio-en-181-leitura.md). Revisão ASR do trecho18:40–20:40 recuperou anúncio omitido; montadas341 linhas, com mapa exato e originais preservados. Segmento focal120s é revisão de acurácia, sem corte da gravação31min30,339s. Anúncios de órgãos/gelatina e condições digestivas não viraram receita, composição ou evidência de eficácia. Conferidos três hashes, faixas e montagem; sem escuta integral ou promessa de reconhecimento perfeito.

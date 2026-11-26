@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-26",
+  "guid": "da2e32fbccc14c668c989f148171a674",
+  "episode": 181,
+  "language": "en",
+  "title": "181: Food lies exposed",
+  "source_page": "https://wisetraditions.libsyn.com/181-food-lies-exposed",
+  "source_duration_seconds": 1890.338957,
+  "full_recording_duration_cutoff": null,
+  "whole_recording_version": {
+    "text_sha256": "7c049587cbd836a52624b39edc06753867d6c947d72045df90d232f7bd9fb464",
+    "lines": 332,
+    "characters": 34550,
+    "full_text_read": true,
+    "read_ranges_inclusive": [
+      [
+        1,
+        85
+      ],
+      [
+        86,
+        170
+      ],
+      [
+        171,
+        255
+      ],
+      [
+        256,
+        332
+      ]
+    ],
+    "reader": "root_agent",
+    "proof_kind": "agent_semantic_reading",
+    "audio_listened": false,
+    "human_reader_claim": false
+  },
+  "targeted_accuracy_review": {
+    "text_sha256": "17db93f3a4e042650855585fa1a152af2bfb5083103642291de256ae3b90c9e7",
+    "source_window_seconds": [
+      1120,
+      1240
+    ],
+    "relative_timestamps": true,
+    "whole_targeted_text_read": true,
+    "asr_model_argument": "default model with no explicit override; CLI options --text --raw",
+    "model_identity_fully_authenticated": false,
+    "first_attempt_failed_due_to_local_cache_permission": true,
+    "second_attempt_exit_code": 0,
+    "private_successful_run_metadata_sha256": "fb0bd9bf71ac09ca3ed9aba82ac3d99e35686bc20d2e64b41c126328e05b1b24",
+    "private_successful_log_sha256": "2798f5bdd1428957f2981577c4ed4fb38649a8a3089daa98c70d02283170411c",
+    "not_a_duration_cap_for_whole_recording": true
+  },
+  "consolidated_version": {
+    "kind": "Full transcript assembled from wholeV3 text plus targeted ASR correction; not a separate whole-recording ASR pass",
+    "text_sha256": "069db2613ffb4b61a6d62f626f39f999a0c02a67216f4a820b3086c1e0f302b2",
+    "lines": 341,
+    "characters": 35395,
+    "first_start_seconds": 0,
+    "last_start_seconds": 1885,
+    "read_by_composition_of_fully_read_source_segments": true,
+    "source_mapping": [
+      {
+        "consolidated_lines": [
+          1,
+          194
+        ],
+        "source": "whole_recording_version",
+        "source_lines": [
+          1,
+          194
+        ]
+      },
+      {
+        "consolidated_lines": [
+          195,
+          204
+        ],
+        "source": "targeted_accuracy_review",
+        "source_line_indices": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "absolute_timestamp_offset_seconds": 1120
+      },
+      {
+        "consolidated_lines": [
+          205,
+          341
+        ],
+        "source": "whole_recording_version",
+        "source_lines": [
+          196,
+          332
+        ]
+      }
+    ],
+    "removed_whole_version_fragment_line": 195,
+    "replacement_interval_seconds": [
+      1134,
+      1181
+    ],
+    "removed_reason": "WholeV3 contained only final trailing fragment of advertisement; targeted ASR recovers full advertisement and avoids duplicating its final words.",
+    "original_files_unchanged": true
+  },
+  "semantic_summary": {
+    "speakers": "HildaLabradaGore interviews BrianSanders; MarkSisson is referenced as an influence around03:21, not a speaker.",
+    "broth_recipe_or_broth_composition_assay_identified_in_text": false,
+    "bone_marrow_and_gelatin_context": "Sponsor advertisement for organ products/gelatin capsules around02:11–02:21 and19:41–20:33; no measured composition or recipe.",
+    "recovered_gap_content": "Commercial HealYourGutGuy advertisement with claims about digestive diseases; not a controlled study or evidence of efficacy.",
+    "other_evidence": "Personal diet/travel observations, opinions on nutrition and a film project; unnamed study designs mentioned do not mean primary studies were read.",
+    "B9_K_copper_broth_assay_or_hair_repigmentation_trial_identified": false,
+    "cooking_yield_time_or_macros_supplied": false
+  },
+  "limits": [
+    "No listening of entire audio or manual word-perfect validation. Automatic recognition errors remain possible.",
+    "WholeV3 processing covered17orderedblocks without duration limit; processing completeness did not ensure every advertisement was recognized.",
+    "Targeted120second clip is a correction review; entire recording remains available in full-length transcript versions.",
+    "No full copyrighted transcript, advertisement text or local user filesystem path is published in the public record."
+  ],
+  "private_proof_sha256": "6697631fc9808fe7b3d7a74b45f5ac990518f2eab7f796cebe90de2d504bfd6b",
+  "publication_scope": "Metadata, hashes, source mapping and original synthesis only; no full transcript or commercial text."
+}

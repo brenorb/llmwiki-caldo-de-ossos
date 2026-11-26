@@ -35,3 +35,7 @@ O worker existente processa a gravação inteira, sem limite de duração por m�
 Os354 recuos de timestamp são de1s, em185 TXT. Foram enumerados48 intervalos entre inícios acima de55s, em41 TXT, sem inferir silêncio ou fala omitida. O último timestamp também é **início**, não fim do segmento. Checkpoint, hash e blocos completos não garantem reconhecimento de toda palavra ou precisão de nomes/números; não houve escuta ou leitura semântica do corpus nesta checagem.
 
 O [catálogo espanhol de189](wapf-audio-es-processamento189.md) tem auditoria própria. Esses resultados não viraram receitas, estudos ou leituras novas por estarem processados. [Cobertura geral](../cobertura.md)
+
+## Leitura semântica posterior de181
+
+A [leitura integral e correção posterior](wapf-audio-en-181-leitura.md) cobre as332 linhas da nova versão e o trecho de revisão ASR. Foi recuperado anúncio que o processamento integral não havia reconhecido; consolidado341linhas, sem alterar originais. As declarações de ausência de nova leitura acima descrevem o corte histórico da auditoria, anterior a esta etapa.

@@ -321,3 +321,5 @@
 
 - [WAPF:12 alvos antes negativos — K2, folato, hipótese histórica e comentários](wiki/fontes/wapf-health-sinais12.md)
 - [Trigo-sarraceno com líquido à escolha e caldo de frango:medidas e lacunas dos comentários](wiki/temas/receitas-wapf-comentarios-sinais12.md)
+
+- [Wise Traditions181:leitura integral e anúncio recuperado na versão consolidada](wiki/fontes/wapf-audio-en-181-leitura.md)

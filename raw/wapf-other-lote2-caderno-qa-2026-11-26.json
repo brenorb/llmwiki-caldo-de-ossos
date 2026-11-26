@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-26",
+  "scope": "Independent editorial review of complete adult notebook and separate critical records; original50 source readings remain separately recorded.",
+  "private_artifact_sha256": {
+    "caderno-culinario-integral-50.md": "d93f47bcddfd7d9236d3135d5a3e2c3ad432a61a3930a9ac3340bc2993fe77e0",
+    "registro-critico-infantil-08-09.md": "d54d1b8651413ee900319c602c5c479149f62974e7d1775cd233f8bd53d2fda8",
+    "qa-caderno-culinario-integral-50.md": "9f7d66a0760418cb043ff76e107f214a0e435b5e13157e4d8ba9b37c607607fc",
+    "qa-independente-caderno-lote2.md": "c6dd5eaae07020c61a4831cd4cb8702c4af58d19b739592b649ae519ab767e5c",
+    "qa-independente-caderno-lote2.json": "19b4d6c1b8de0b478cb14a5a2af047f0f1a4a77e5c5d10cc9df2308565248776",
+    "verificacao-fisica-qa-independente-lote2.json": "bb8f7664e48c5c823e7a3be46a2ea669a61e2bb488af5872b3be4a712181f362",
+    "checkpoint-qa-independente-lote2.json": "f393d2dd91b70715b6a3b79534c6ce7450b4f56dc55df7e7a6a3c22f6d7d046e",
+    "plano-rastreio-qa-independente-lote2.json": "d060ceeaf2103ecac6c7a902ac34b9e04a3dc09b5919df71af815a2688b2b4b9",
+    "registro-critico-infantil-08-09.revisado-2026-11-26.md": "28f32f9907837f4cd53c4af5707f9ba6cd8c472be72a765c297f98251ae617f7",
+    "qa-caderno-culinario-integral-50.revisado-2026-11-26.md": "16b58b703d9aa285649b62354a0c23c7064510a3cc19e8799aae8dad7ffedcd4"
+  },
+  "independent_qa": {
+    "whole_notebook_read": true,
+    "whole_author_qa_and_critical_record_read": true,
+    "full_source_txt_rereads": 19,
+    "full_source_reread_lines": 2779,
+    "full_source_reread_characters": 330338,
+    "remaining_txt_context_screening": 31,
+    "physical_hashes_checked": 100,
+    "clinical_validation": false
+  },
+  "root_review": "Full both source reports and independent QA; stew original; source08 lines12/29 directly checked, text hash4ddb759fb0b58deeae1d084f7b16200a40e6a4c1bd4fa65315d674928616e706, output2446e3. No full original50 or full notebook reread by root claimed.",
+  "findings_and_application": [
+    {
+      "id": "F1",
+      "finding": "08L29 does contain yellow skin/carotene passage; the later private critical record/authorQA incorrectly denied it.",
+      "application": "Corrected derived private versions; frozen originals unchanged. Public text never adopted the incorrect denial. This is not hair repigmentation or a broth effect."
+    },
+    {
+      "id": "F2",
+      "finding": "08L12 contains a quantitative pregnancy list; later private critical record incorrectly denied that list. Complete formula lists remain absent from08.",
+      "application": "Corrected derived private critical record, without adopting dosing or importing09 formula quantities."
+    },
+    {
+      "id": "F3",
+      "finding": "Collagen was mistakenly included in a mechanism sentence about source32; source40 contains it instead.",
+      "application": "Removed only Collagen/ from source32 sentence in the public notebook; originals unchanged."
+    }
+  ],
+  "additional_critical_complements": [
+    "08L9–10 preconception duration and daily cod-liver-oil mention",
+    "08L25 raw liver allegation",
+    "08L21 smell allegation not microbiological validation"
+  ],
+  "author_original_access_attempts": [
+    {
+      "source_url": "https://www.marinaribas.es/recetas/",
+      "returncode": 60,
+      "result": "000\thttps://www.marinaribas.es/recetas/",
+      "observed_utc": "2026-11-26T18:18:51.239281+00:00"
+    },
+    {
+      "source_url": "https://marinaribas.es/recetas/",
+      "returncode": 60,
+      "result": "000\thttps://marinaribas.es/recetas/",
+      "observed_utc": "2026-11-26T18:38:53.571559+00:00"
+    }
+  ],
+  "author_original_access_limit": "Normal TLS verification failed for both hostnames; no bypass used. Directory credit is not an exact recipe permalink, and no independent meat-fraction correction was established.",
+  "limits": [
+    "Recipe measures/methods are source documentation, not safety or clinical validation.",
+    "Low-carb proposals are qualitative and untested; no macros or dose conversion created.",
+    "Reference lists do not mean external studies were read.",
+    "Infant and therapeutic protocols remain separate from adult adaptations."
+  ]
+}

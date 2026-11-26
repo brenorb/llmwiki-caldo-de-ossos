@@ -14,7 +14,7 @@ Este é um lote do complemento de 242 URLs da classe *other*. Não altera o fech
 | [Alimentação japonesa, tradução espanhola](https://www.westonaprice.org/japon-desde-dentro-algunos-datos-sorprendentes-sobre-la-comida-japonesa/) | Carpa com miso de cevada/cadillo, 4–8 h; arajiru, niboshi/bonito, massas e adições para sopas. | Preservados trigo, gemas, sal e outras farinhas. Há carta incorporada contestando generalizações do texto. Alegações pós-parto são tradição relatada, sem ensaio da receita lido. |
 | [Guia espanhol](https://www.westonaprice.org/guia-para-una-dieta-saludable/) | Cita caldos de frango, bovino, cordeiro ou peixe para sopas, molhos e guisados. | Não fornece fórmula, tempo, rendimento ou dose. |
 
-O caderno culinário complementar está em revisão. As medidas já documentadas da receita anterior de cheesecake permanecem no [caderno de 2009](../temas/receitas-wapf-conferencia-2009.md); não se completam as listas de 2010 com passos importados silenciosamente.
+O [caderno culinário complementar](../temas/receitas-wapf-other-lote2.md) passou por revisão independente completa. Preserva os dois estofados, todo o conjunto cheesecake/coulis/alternativa de macaroons, listas salgadas e caldos japoneses. As medidas da versão anterior de cheesecake permanecem no [caderno de 2009](../temas/receitas-wapf-conferencia-2009.md); não se completam listas de 2010 com passos importados silenciosamente.
 
 ## Composição e alegações
 
@@ -29,6 +29,10 @@ Gelatina nos cinco alertas legislativos é **excipiente de vacina**, sem receita
 A página espanhola de alimentação infantil contém fórmulas; a holandesa deste lote apenas remete a elas. Não se importaram números entre idiomas. Nas versões, diferenças entre colher de chá e colher de sopa são registradas como divergências, sem harmonização: o registro crítico privado também preserva **¼ cucharadita versus ¼ cucharada de acerola** em duas passagens da página espanhola, omitido no primeiro parecer congelado. Valores estimados da mistura com fígado não são composição medida do caldo.
 
 Essas fórmulas não entram nas adaptações adultas low carb. A [FDA orienta contra fórmulas infantis caseiras](https://www.fda.gov/consumers/consumer-updates/infant-formula-safety-dos-and-donts), orientação cujo trecho pertinente foi consultado nesta revisão. A nota [WAPF principal](weston-price-caldo-gelatina.md) conserva o contexto crítico.
+
+A [revisão independente](../../raw/wapf-other-lote2-caderno-qa-2026-11-26.json) identificou duas negações incorretas em peças críticas privadas posteriores:08L12 tem uma lista gestacional quantitativa e08L29 contém alegação de pele amarela/caroteno. Foram corrigidas em cópias derivadas, com os originais congelados preservados; essas negações não haviam sido adotadas no texto público. Pele amarela não é repigmentação capilar nem efeito demonstrado do caldo. As listas completas de fórmula de09 continuam ausentes em08.
+
+O revisor independente leu o caderno inteiro, releu19 TXT completos e os contextos pertinentes nos31 restantes, além de100 hashes. O revisor principal leu ambos os pareceres e o QA inteiro e confirmou duas passagens de08. Não se alegou releitura integral dos50 originais por ambos. A única correção de atribuição na cópia adulta retirou “colágeno” da frase sobre32, mantendo glicina/cobre; o colágeno está em40. Não houve alteração de fórmula culinária ou transferência de fórmula infantil.
 
 ## Inventário completo
 

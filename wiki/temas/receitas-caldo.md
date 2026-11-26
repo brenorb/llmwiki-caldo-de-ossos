@@ -6,6 +6,8 @@ O [caderno complementar WAPF](receitas-wapf-other-lote1.md) reúne outras versõ
 
 O [caderno de Lomo con col e sopa com gengibre](receitas-wapf-other-lote3.md) mantém passas/açúcar e todas as alternativas publicadas. Distingue vegetais espiralados da própria fonte de alterações propostas pela wiki e compara ingredientes omitidos ou diferentes entre traduções mediterrâneas.
 
+O [caderno de estofados e caldos japoneses](receitas-wapf-other-lote2.md) acrescenta duas versões do estofado, arajiru/niboshi/bonito e listas para outros usos. Mantém a fração de carne ambígua como1/5kg e os ingredientes com amido, sem inventar volume de “vaso”, rendimento ou substituições medidas.
+
 ## Frango na pressão ou no fogão
 
 **Para uma carcaça de frango já assado**, use cerca de **2 L de água**, uma cenoura pequena, um talo de salsão e um pedaço de cebola. Limão, alho, tomilho e pimenta são opcionais. O ponto de partida foi a receita do Mark’s Daily Apple, ajustada para aromáticos mais discretos.

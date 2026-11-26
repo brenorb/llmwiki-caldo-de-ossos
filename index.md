@@ -278,3 +278,4 @@
 - [Almôndegas com coco, coração, caldos, molhos e tutano: originais e escolhas low carb](wiki/temas/receitas-wapf-other-lote1.md)
 - [WAPF: 50 páginas complementares, versões mediterrâneas e tradições chinesas — lote 3](wiki/fontes/wapf-other-lote3-50.md)
 - [Lomo con col e sopa com gengibre: medidas, variantes e escolhas low carb](wiki/temas/receitas-wapf-other-lote3.md)
+- [Estofados, cheesecake com gelatina, coulis e caldos japoneses: medidas e revisão independente](wiki/temas/receitas-wapf-other-lote2.md)

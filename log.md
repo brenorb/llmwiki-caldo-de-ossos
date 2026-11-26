@@ -1258,3 +1258,7 @@ ObtidasHTTP200 e [examinadas duas imagens](wiki/fontes/wapf-main17-visual2.md), 
 ## [2026-11-26] ingestão |Três negativos semhits:lidos integralmente
 
 Lidos pelo revisor [três primeiros textos](wiki/fontes/wapf-health-sem-hits3.md) da seleção522,73linhas/39.851caracteres,seis hashes conferidos e idiomas reais registrados. Resultado sem receita/composição temática nestesTXT, sem inferir519restantes. Mantidas autoria/tradução e frase truncada sem completar; referências externas, comentários e imagens fora desta leitura.
+
+## [2026-11-26] ingestão |Oiling of America:vídeo integral sem limite e fragmento culinário
+
+Transcrito [vídeo1h16min28s](wiki/fontes/wapf-oiling-america-video.md),39/39 blocos ordenados/saída0,687linhas/65.568caracteres integralmente lidos pelo revisor. Confirmados canal/ID/upload/duração e hashes; sem escuta ou slides vistos. O [fragmento de scrapple](wiki/temas/receitas-wapf-oiling-video.md) preserva cabeça/coração/língua/fígado/banha e ausências, sem receita inventada. K2/cobre cardiovasculares e alegações sobre estudos não viraram teor de caldo, intervenção capilar ou recomendação clínica; sátira não é preparo.

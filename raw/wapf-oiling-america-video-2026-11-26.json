@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-26",
+  "source_page": "https://www.westonaprice.org/health-topics/the-oiling-of-america-by-sally-fallon-morell/",
+  "video_id": "2YLfm8iJZV8",
+  "video_url": "https://www.youtube.com/watch?v=2YLfm8iJZV8",
+  "title_from_embedded_page": "The Oiling of America Sally Fallon Morell",
+  "title_from_youtube": "Sally Fallon Morell: The Oiling of America 2024",
+  "channel": "Weston A. Price Foundation",
+  "channel_id": "UCD36Fcfb-fdFF1aaOpVQRWw",
+  "upload_date": "20250113",
+  "duration_seconds_from_youtube_metadata": 4588,
+  "source_language_metadata": "en-US",
+  "availability_metadata": "public",
+  "processing": {
+    "requested_url": "https://www.youtube.com/watch?v=2YLfm8iJZV8",
+    "started_at_utc": "2026-11-26T21:10:16.078229+00:00",
+    "duration_cutoff": null,
+    "per_recording_timeout": null,
+    "command_options": [
+      "--text",
+      "--raw",
+      "--local"
+    ],
+    "model_override": null,
+    "exit_code": 0,
+    "elapsed_seconds": 350.48850025003776,
+    "finished_at_utc": "2026-11-26T21:16:06.566696+00:00",
+    "log_sha256": "a2de2c11008aed898aa0af7ba28f23c7d9cac2b38e392df11e9d7d20217168bb",
+    "txt_sha256": "8249cc45275e1c2b94007bf07b9164b8098d7f53f63a151319400c8a69cb3a5b",
+    "lines": 687,
+    "characters": 65568
+  },
+  "ordered_chunk_indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "timestamps": {
+    "first_start_seconds": 0,
+    "last_start_seconds": 4582,
+    "backtracks": 0,
+    "last_start_is_not_segment_end": true
+  },
+  "proof_kind": "root_agent_semantic_reading",
+  "semantic_reading": {
+    "full_available_asr_text_read": true,
+    "lines": 687,
+    "characters": 65568,
+    "read_ranges_inclusive": [
+      [
+        1,
+        175
+      ],
+      [
+        176,
+        350
+      ],
+      [
+        351,
+        525
+      ],
+      [
+        526,
+        687
+      ]
+    ],
+    "reader": "root_agent",
+    "audio_listened_in_full": false,
+    "video_frames_or_slides_viewed": false,
+    "word_perfect_asr_validated": false
+  },
+  "hashes": {
+    "transcript": "8249cc45275e1c2b94007bf07b9164b8098d7f53f63a151319400c8a69cb3a5b",
+    "log": "a2de2c11008aed898aa0af7ba28f23c7d9cac2b38e392df11e9d7d20217168bb",
+    "private_execution_result": "5785b600d7ddd193337feb39edec74a7c771bffaee392c0802513a8aa22fb09b",
+    "execution_script": "e42fffba493c1148ad82aafbb873a2132a868eaf64da69e0e3d6fbf451765f47",
+    "private_youtube_metadata": "9e563b79ee811d5668de1ebe40ae328284955aca3532a6683fd96cf46ac09a47"
+  },
+  "semantic_summary": {
+    "culinary_theme": "Historicalscrapplewithhoghead,heart,tongue,partliver,lard:slicedandfried; noquantities,times,yield. Gravydrippings/optionalcream isadjacent,withoutbrothspecified.",
+    "no_complete_measured_broth_or_gelatin_recipe": true,
+    "K2_copper": "Mentionedascardiovasculartheories/drugclaims; no brothassay or hairrepigmentationtrial.",
+    "baldness": "Mentionedinariskfactorlist, not a repigmentationintervention.",
+    "final_recipe": "Satireabouthealthcarecrisis;stew/broil/boil/300millionarenotculinarymethod/yield."
+  },
+  "outside_fixed426_guid_asr_inventory": true,
+  "limits": [
+    "Textonly:fullASRreadingdoesnotmeanfullvideo/slideviewing,wordperfectrecognitionorclinicalverification.",
+    "Timestampstartcoverageand39chunksvalidateprocessing,notrecognitionofeveryword.",
+    "ModelwasdefaultCLIwithoutoverride;completebackendidentitynotauthenticated.",
+    "Oldmetadata/main/visualproofsremainpreserved;countersfor51GUIDs/54versionsinthedistinct426selectiondonotchange.",
+    "Originalcookbook,referencedstudies,ads,chartsandlinkedarticlesnotopenedbythisingestion."
+  ]
+}

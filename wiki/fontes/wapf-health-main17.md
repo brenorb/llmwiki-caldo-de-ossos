@@ -54,3 +54,7 @@ O [registro público porURL](../../raw/wapf-health-main17-2026-11-26.json) reún
 ## Revisão visual posterior
 
 As [duas imagens receberam exame visual com escopo próprio](wapf-main17-visual2.md):panorama20itens hebraicos/focal11 e tabela inglesa15linhas. O registro inicial de imagens não vistas acima descreve a etapa de leitura dosmains; não foi apagado. Tradução palavra por palavra e vídeo permanecem objetos separados.
+
+## Transcrição posterior do vídeo
+
+O [vídeo incorporado recebeu depois transcrição integral e leitura doTXT](wapf-oiling-america-video.md),39blocos/687linhas; a lacuna histórica acima permanece como registro daquela etapa. Slides/quadros e validação palavra por palavra continuam separados.

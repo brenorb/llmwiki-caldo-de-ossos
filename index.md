@@ -337,3 +337,6 @@
 - [WAPF:duas imagens dos mains — diretriz hebraica e tabela, com escopo visual](wiki/fontes/wapf-main17-visual2.md)
 
 - [WAPF:primeiros três corpos sem hits — leitura integral, idiomas e resultado negativo](wiki/fontes/wapf-health-sem-hits3.md)
+
+- [The Oiling of America:vídeo1h16min28s transcrito eTXT integralmente lido](wiki/fontes/wapf-oiling-america-video.md)
+- [Scrapple de cabeça suína:descrição histórica, ingredientes e lacunas](wiki/temas/receitas-wapf-oiling-video.md)

@@ -10,3 +10,7 @@ As duas imagens públicas responderamHTTP200 e foram examinadas visualmente pelo
 O item culinário recuperado é uma recomendação geral, sem açúcar/amido explicitados naquela passagem e sem macros para classificá-lo como keto. Não há fórmula ou variante original completa; não foram inventadas quantidades nem adaptação lowcarb. Também não há dosagem deB9/K/cobre por caldo ou evidência de repigmentação.
 
 A visualização cobre esses dois arquivos, não todas as tags/img dos mains, a tradução palavra por palavra dos20 itens ou o arquivo histórico do domínio wpengine. O vídeo incorporado na terceira página tem processamento separado; não foi contado como lido por abrir as imagens. [Main17 e lacunas originais](wapf-health-main17.md) · [Cobertura](../cobertura.md).
+
+## Transcrição posterior do vídeo
+
+O [vídeo incorporado recebeu depois transcrição integral e leitura doTXT](wapf-oiling-america-video.md),39blocos/687linhas; a lacuna histórica acima permanece como registro daquela etapa. Slides/quadros e validação palavra por palavra continuam separados.

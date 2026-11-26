@@ -1018,3 +1018,7 @@ O [quarto lote](raw/wapf-health-lote4-50-2026-11-25.json) acrescenta50 corpos co
 ## [2026-11-25] ingestão | Medidas complementares e tradições de aspic
 
 O [caderno culinário](wiki/temas/receitas-wapf-medidas-health4.md) complementa caldos, reduções, coelho/terrinas, panna cotta, pratos e FAQs e registra žolce/Jota, tartare/pastéis de tutano, com medidas disponíveis, unidades ausentes, ingredientes de carboidrato e adaptações identificadas. O catálogo foi ligado às fichas sem contar cada reconsulta como nova receita.
+
+## [2026-11-25] revisão | CGM integral e conciliação sem duplicar sprints
+
+O [registro](raw/youtube-mda-cgm-pos128-2026-11-25.json) acrescenta655 linhas integralmente lidas, negativas para a pesquisa temática, com hashes físicos/faixas conferidos. Um vídeo já lido fora dos cortes recentes foi reconhecido, revisado e excluído da contagem nova. A cobertura chega a129 IDs incrementais, preservando candidatos não lidos e limites de ASR.

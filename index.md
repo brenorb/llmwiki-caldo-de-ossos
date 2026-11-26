@@ -234,3 +234,5 @@
 
 - [Cobertura da pesquisa: conjuntos lidos e lacunas restantes](wiki/cobertura.md)
 - [Quarto lote WAPF health: cinquenta corpos completos](raw/wapf-health-lote4-50-2026-11-25.json)
+
+- [CGM: texto integral negativo e conciliação de vídeo já lido](raw/youtube-mda-cgm-pos128-2026-11-25.json)

@@ -1,0 +1,58 @@
+{
+  "id": "zVSVQInvVPE",
+  "title": "Continuous Glucose Monitoring Devices | Dan Zavorotny and Kara Collier",
+  "url": "https://www.youtube.com/watch?v=zVSVQInvVPE",
+  "duration_seconds": 3140.981,
+  "transcript_sha256": "1ade758d95261629b49b3bf46e39073f1bc912523a84a7a1d9b7ad20c947bdbc",
+  "state_sha256": "fc5492dd3fea38f02c0b56a4c5740d80b864774a991ce4864fd777795059f4b7",
+  "log_sha256": "3372f339f8fbb6d068f94e02f7d71946dc3be1d819dfbc9475aa5e7da3d0876d",
+  "metadata_sha256": "1780d3b7f239ed56ec310bde846de2f91b3d4d7b6b6ab96397e7dacbb21c94cd",
+  "lines": 655,
+  "characters": 66326,
+  "channel": "Mark's Daily Apple",
+  "channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+  "upload_date": "20201214",
+  "date": "2026-11-25",
+  "scope": "Um novo TXT integral, posterior a128 textos incrementais; um vídeo pré-existente conciliado separadamente.",
+  "full_text_read": true,
+  "read_ranges_inclusive": [
+    [
+      1,
+      160
+    ],
+    [
+      161,
+      325
+    ],
+    [
+      326,
+      490
+    ],
+    [
+      491,
+      655
+    ]
+  ],
+  "read_at_utc": "2026-11-26T00:21:46.895883+00:00",
+  "previous_incremental_texts": 128,
+  "current_incremental_texts": 129,
+  "negative_result": "Leitura integral das655 linhas, incluindo divulgação/encerramento:sem caldo,gelatina,colágeno,receita pertinente ou repigmentação. Menção a hair é pelo no local do adesivo, não mudança de cor.",
+  "speaker_attribution": "Elle Russ entrevista Kara Collier e Dan Zavorotny, identificados nos créditos oficiais locais e chamados nominais; sem diarização/confirmação acústica.",
+  "commercial_context": "Participantes ligados à NutriSense; serviço comercial promovido. Não se verificou contrato de patrocínio.",
+  "limits": [
+    "Sem audição integral ou inspeção visual nesta leitura.",
+    "ASR contém nomes/números/URLs deformados e repetições. Último timestamp00:51:51 é início de segmento, frente a3140.981s; diferença29.981s não demonstra silêncio/omissão.",
+    "Dados glicêmicos, recomendações e afirmações médicas da conversa não foram incorporados como evidência de caldo. Referências externas não receberam leitura."
+  ],
+  "initial_cut_candidates": 15,
+  "initial_cut_sha256": "254e75d763b4720444d43527bef7788c8a27fef7167438bb7c38ec4c239b03b2",
+  "reconciliation": {
+    "excluded_id": "kWiE0CNpoEk",
+    "reason": "Mesma gravação já lida e explicitamente excluída do corte de24 novos. Nova versão de23 linhas conferida nesta etapa, sem novo achado; não incrementa fontes.",
+    "previous_txt_sha256": "2a65de40ac3820fa2139fd0dd699fcea674b4faff2a32f0f0e16e8a22c67ce20",
+    "review_txt_sha256": "1b5ab254ad88940aa7b8092edc9f51c49cfffc4ad3392d27b488039b1ff51c81",
+    "previous_public_record": "inventario-mark-receitas.md"
+  },
+  "new_candidates_after_exclusion": 14,
+  "other_new_candidates_not_read_here": 13
+}

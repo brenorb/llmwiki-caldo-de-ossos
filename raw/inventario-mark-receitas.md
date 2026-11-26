@@ -981,3 +981,9 @@ O único núcleo pertinente é o [relato de Al Danenberg](../wiki/fontes/mark-si
 O [registro de Dane](youtube-mda-dane-pos127-2026-11-25.json) comprova leitura sequencial de789 linhas/70.625 caracteres, com cinco faixas inclusivas e hashes. O ID é disjunto dos127 textos incrementais anteriores, chegando a128 neste conjunto de cortes; não é todo o histórico.
 
 A menção ao caldo em15:03 integra o relato da dificuldade de seguir dietas, sem dose/receita/efeito isolado. A história posterior de crescimento capilar não descreve repigmentação ou uso de caldo. [Classificação e atribuição](../wiki/fontes/mark-sisson-caldo-gelatina.md#dane-johnson-caldo-e-crescimento-capilar-em-contextos-distintos). Créditos identificam Elle Russ; não houve audição ou revisão visual. Nomes/números clínicos defeituosos no ASR e alegações médicas não foram adotados.
+
+## CGM: texto completo negativo e revisão excluída da contagem
+
+O [registro CGM](youtube-mda-cgm-pos128-2026-11-25.json) comprova leitura de655 linhas/66.326 caracteres, até o encerramento, com hashes físicos de TXT original/congelado, estado, log e metadados conferidos. O episódio tem Elle Russ, Kara Collier e Dan Zavorotny e promove a NutriSense; não contém receita pertinente, caldo/gelatina/colágeno ou repigmentação no TXT. Números e recomendações médicas não foram adotados. O corte recente chega a129 IDs incrementais, não todo o canal.
+
+A seleção automática trouxe15 candidatos além dos128, mas o vídeo de sprints `kWiE0CNpoEk` já estava lido em outra pasta e explicitamente excluído dos24 novos anteriormente. A versão ASR de23 linhas foi conferida por inteiro, sem nova passagem; **não foi contado como nova gravação**. O manifesto inicial permanece preservado com conciliação posterior. Os13 outros novos candidatos desse corte seguem fora desta declaração de leitura.

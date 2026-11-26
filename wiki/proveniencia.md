@@ -122,3 +122,5 @@ A [leitura integral de Dane Johnson](../raw/youtube-mda-dane-pos127-2026-11-25.j
 O [quarto lote positivo health](../raw/wapf-health-lote4-50-2026-11-25.tsv) tem50 identidades,100 hashes físicos e faixas integrais conferidos, disjuntos dos três anteriores. Correção editorial, hipótese de nutriente e relatos multicomponentes foram mantidos como objetos distintos; tabela de fórmula completa não virou composição de caldo.
 
 O [caderno de medidas complementares](temas/receitas-wapf-medidas-health4.md) preserva unidades/ausências dos originais, separando acompanhamento alternativo da fonte de adaptação proposta. Descrição de aspic sem proporções não foi transformada em dose de gelatina; tempo de receita não foi apresentado como validação sanitária.
+
+A [leitura integral CGM](../raw/youtube-mda-cgm-pos128-2026-11-25.json) é negativa para os temas e não incorpora aconselhamento da entrevista. A conciliação de sprints impede contar duas versões de uma gravação como duas fontes; os candidatos restantes preservam o estado de leitura pendente.

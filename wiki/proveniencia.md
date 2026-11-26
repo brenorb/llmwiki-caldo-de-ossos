@@ -130,3 +130,5 @@ A [checagem EPA/FDA](../raw/chumbo-epa-comparacao-2026-11-25.json) usa páginas 
 O [quinto lote health](../raw/wapf-health-lote5-50-2026-11-25.tsv) preserva50 identidades,100 hashes físicos e faixas completas. Descrições culturais, crescimento capilar, relações atribuídas a vitaminas e regimes multicomponentes não foram confundidos com composição do caldo ou eficácia clínica isolada.
 
 O [originalXiao2016 e suplemento](fontes/xiao-2016-lactococcus-chumbo.md) sustentam classificação pré-clínica da cepa recombinante, com unidades,cronologia,comparador e problemas de relato explícitos. Não se transferiu resultado para fermentados comuns,caldo/glicina ou humanos. [Rastreabilidade](../raw/xiao-2016-chumbo-acesso-2026-11-25.json)
+
+Os [treze TXT adicionais MDA](../raw/youtube-mda-pos129-13-2026-11-25.json) têm65 hashes físicos e faixas1–fim conferidos, sem duplicar129 anteriores. Relato anônimo,analogia,lista tradicional e promoção comercial mantêm classes distintas; vinheta de Sisson não foi confundida com entrevista deElleRuss ou Brad Kearns.

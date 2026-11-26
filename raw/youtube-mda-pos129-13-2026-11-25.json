@@ -1,0 +1,1256 @@
+{
+  "schema": "mda-public-reading-source/v1",
+  "date": "2026-11-25",
+  "created_at_utc": "2026-11-26T00:39:04.216436+00:00",
+  "scope": "13 TXT dos índices2–14 do corte fixo de15; sprints índice0 já conhecido/excluído e CGM índice1 já incluído na base129.",
+  "method": "Consolidação dos três ledgers finais de leitura sequencial integral, com conferência física independente dos hashes originais/congelados e estado/log/metadados. Não inferida somente do manifesto inicial.",
+  "previous_incremental_texts": 129,
+  "new_transcripts_fully_read": 13,
+  "current_incremental_texts": 142,
+  "combined_new_transcripts_fully_read": 142,
+  "count_statement": "129+13=142 textos incrementais nesta sequência; não total histórico do acervo.",
+  "lines_total": 9851,
+  "characters_total": 863028,
+  "read_parts_total": 48,
+  "decoded_total_seconds": 43419.553,
+  "ids": [
+    "aeEyNPpAoV8",
+    "vOiOufQ3L8g",
+    "At5u1tFmKzg",
+    "-y65c1PwF0s",
+    "wWj4haJu-Ik",
+    "0Q_WPxZYXso",
+    "uVKvx0rMgFU",
+    "EYYJM1yRGj4",
+    "vxfFTX1GjxY",
+    "n37eveZhGMg",
+    "jLOT_z5tvEU",
+    "-YUIao0HOdU",
+    "FxIbJEhMrzQ"
+  ],
+  "cut_manifest": {
+    "name": "corte-fixo-15.json",
+    "sha256": "254e75d763b4720444d43527bef7788c8a27fef7167438bb7c38ec4c239b03b2"
+  },
+  "source_ledgers": [
+    {
+      "name": "ledger-faixa-02-05.json",
+      "sha256": "4794c43fe981996521e5a1d32bc608070001e74cf56db8aa51601d3df4eb1937",
+      "rows": 4
+    },
+    {
+      "name": "ledger-faixa-06-09.json",
+      "sha256": "ff37e68b88766b87b3c66622785ee053af211774d9ad5eb32654a9a18a56e65a",
+      "rows": 4
+    },
+    {
+      "name": "ledger-faixa-10-14.json",
+      "sha256": "21bdd9c91e3f504b9431b2b7a18336774a13abdf868cc41749cf495046dc9471",
+      "rows": 5
+    }
+  ],
+  "prior_raw_inventory": [
+    {
+      "name": "youtube-mda-dane-pos127-2026-11-25.json",
+      "sha256": "7b12d36c1fc77988df0e2617672310a67cda872b54efe3ec74bf188be9008d99",
+      "fully_read_text_count": 1,
+      "ids": [
+        "nQTBRKQe33Y"
+      ],
+      "row_container": "top_level"
+    },
+    {
+      "name": "youtube-mda-drew-2026-11-25.json",
+      "sha256": "4f12e7b5ee42f058ddbd45933061aa9202913627a962ab6ed0fbe984a82401cc",
+      "fully_read_text_count": 1,
+      "ids": [
+        "IU5rmyeycJo"
+      ],
+      "row_container": "rows"
+    },
+    {
+      "name": "youtube-mda-leitura-13-2026-11-25.json",
+      "sha256": "649b31d4cd9f5c98b9988b047553cf39a83175e88f2be24aaec3a39d2d5cf42d",
+      "fully_read_text_count": 13,
+      "ids": [
+        "aVW1vXEvPeY",
+        "YRddIb6qWZk",
+        "hAhCweMfrF8",
+        "xK-eaiF7cIY",
+        "Hl7XQllTLZU",
+        "D36N4MDxkjY",
+        "sCAyFZpsNXk",
+        "vrY5_t-x4B0",
+        "PJZDRdwaKUg",
+        "NA6b7ExQYFo",
+        "1A0msu0FDl8",
+        "UayvOd0xlAU",
+        "OMe9zAqxwX0"
+      ],
+      "row_container": "rows"
+    },
+    {
+      "name": "youtube-mda-leitura-14-2026-11-25.json",
+      "sha256": "694993e85e458fcc2f97bf40ff6e735b23c77afd20d004b16e9c57d931213bf3",
+      "fully_read_text_count": 14,
+      "ids": [
+        "PE5OzCyrKgA",
+        "MbWv6DLatto",
+        "dV128EwP8s4",
+        "FxQXRGmJdvk",
+        "3pE00qEyibU",
+        "NJg5t_Oi-BM",
+        "Falc3P_8Gzg",
+        "PxGdKAWQcw0",
+        "6j6ms3NtvjI",
+        "eQmr00vQ5gI",
+        "osTO5dAZj3Y",
+        "9kPoLeiKt3c",
+        "If-eKAahxu8",
+        "B4ZYkTPdWMA"
+      ],
+      "row_container": "rows"
+    },
+    {
+      "name": "youtube-mda-leitura-24-2026-11-25.json",
+      "sha256": "f0cd703fd0b62d8152629c5e2e3a322acd67002702d9f61f45040b55e618de24",
+      "fully_read_text_count": 24,
+      "ids": [
+        "II7uGNiXq2k",
+        "-74LKg1-p5c",
+        "jZIQMe7KyAE",
+        "mhU4aK5MEJk",
+        "vF8YUqHMFtk",
+        "TRUGjM8j6a8",
+        "0fpdmkIr8hY",
+        "0Xz20vedDvc",
+        "n_DdvxWFDxU",
+        "GDHzUovkwxQ",
+        "Ag6cXv569N0",
+        "jQnOBS4mKLg",
+        "LeMwUx_2HZg",
+        "F6vYPQciO2g",
+        "SOGodhBRxHA",
+        "Vemc4DrA-88",
+        "aQbI7tFlY5s",
+        "oU188so9cjc",
+        "4ucSmGtdKZE",
+        "gXMyl7kw1gY",
+        "k-i1F52g5L0",
+        "jj_kGB7396w",
+        "ufZF3jt95go",
+        "LsrvhpXTjxA"
+      ],
+      "row_container": "videos"
+    },
+    {
+      "name": "youtube-mda-leitura-26-2026-11-25.json",
+      "sha256": "410efc143b583c30e08f455e3d46924ef22974482e6a30e40ea9000b6f0bccfa",
+      "fully_read_text_count": 26,
+      "ids": [
+        "_bA0KsvpZaU",
+        "_vLXc-DCrqU",
+        "egyyMBhoC00",
+        "xK1tY13Eqek",
+        "KdEAOQYxccM",
+        "4bYxDcyoTpA",
+        "7KFlg5hLma8",
+        "2YogM9wXAJg",
+        "8nNP62RBm74",
+        "rlzQf9mZDKg",
+        "Tdg8pSgaeZ4",
+        "ximZfmqh2hI",
+        "76HjVOoUX6U",
+        "GrHG7m4m4-A",
+        "nXpO2_LG-zA",
+        "HNRiFnyqTxQ",
+        "RRDC8erSNqw",
+        "2ALvlfrSjJI",
+        "NTneiCjZYs4",
+        "gsUL3a1CxUQ",
+        "DOFd5v_wf6M",
+        "oTr7Xc2Jzik",
+        "QAxttAxwEBo",
+        "QkC3rJzh5CU",
+        "ifF85u3X-jQ",
+        "ZufVOE3Ghd0"
+      ],
+      "row_container": "rows"
+    },
+    {
+      "name": "youtube-mda-leitura-27-2026-11-25.json",
+      "sha256": "e6a7f094ebf67af1e83fdb348fc69cbba9497fc555636928274459c1300294e6",
+      "fully_read_text_count": 27,
+      "ids": [
+        "60JqWVwj4x8",
+        "MQX3Il2siXI",
+        "m2Gnxcktkeg",
+        "7F0-yWZ_Q1g",
+        "hdSeBtlM3zE",
+        "7etPgrbc25U",
+        "BnRzivtzXHw",
+        "GIxYjDc_MDY",
+        "Mpo61LLcfIM",
+        "tpQVHjHmus4",
+        "n34a7RLk1_o",
+        "JTMTZDDmUkM",
+        "bA6J7TVYDq8",
+        "ilPcvZqPYlE",
+        "qBBMzeFr38M",
+        "3ktRmhr2IWE",
+        "_YhXdMOWTQM",
+        "4HnT3YgOKcQ",
+        "NI_Xtk46gsI",
+        "PzHJTyaBz1g",
+        "slR0Nweib34",
+        "rjwnSuhLXx0",
+        "_xWx4X5IwZ8",
+        "2ZB5hDEHHGE",
+        "d7rIzLKYvXU",
+        "sP8FIf5-i3g",
+        "uvXR-4sNbM8"
+      ],
+      "row_container": "rows"
+    },
+    {
+      "name": "youtube-mda-leitura-4-2026-11-25.json",
+      "sha256": "0d098cf375e16dfd59f723f3f9c81db421951665e1dd2ec5534daa3325542883",
+      "fully_read_text_count": 4,
+      "ids": [
+        "-IPPwBc3GLw",
+        "82IhJWTAE2o",
+        "LM_Tkhh25Do",
+        "F3Q2uKcQOYo"
+      ],
+      "row_container": "rows"
+    },
+    {
+      "name": "youtube-mda-leitura-9-2026-11-25.json",
+      "sha256": "8be9002e360c59c1755b47d6207a0348027142cccc1eb0772ed7055ff7149894",
+      "fully_read_text_count": 9,
+      "ids": [
+        "lV6WCbO2abg",
+        "UJVQhVg6jIs",
+        "5iB0YXzVSPs",
+        "BsBlEkMX0iw",
+        "x3kGLJSRmBU",
+        "r9w-VCI3k0U",
+        "WU2Z4LGOMOk",
+        "w5vSZDxNCxQ",
+        "997Y9uMgIlo"
+      ],
+      "row_container": "rows"
+    },
+    {
+      "name": "youtube-mda-pos118-9-2026-11-25.json",
+      "sha256": "0cff899020ae1b19d4a692640c809673d49fc19e626b0dbf033e620d377cce03",
+      "fully_read_text_count": 9,
+      "ids": [
+        "l3-tAStLJyg",
+        "6EwbDMf6gfE",
+        "D3Nwk_ldse0",
+        "8pI3jrNPclw",
+        "14C6Cs3V0Po",
+        "VCZUzij78W0",
+        "sqwIYC8Q-C0",
+        "6lOp0HPPegQ",
+        "jBmtSzRv5sE"
+      ],
+      "row_container": "rows"
+    },
+    {
+      "name": "youtube-mda-cgm-pos128-2026-11-25.json",
+      "sha256": "2023cc9a7e6ad0c73806c21ec56a423f3cabb247927751bd7ffcb91abee551cf",
+      "fully_read_text_count": 1,
+      "ids": [
+        "zVSVQInvVPE"
+      ],
+      "row_container": "top_level"
+    }
+  ],
+  "checks": {
+    "fixed_cut_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "fixed_cut_ids_exact_match": true,
+    "new_distinct_ids": 13,
+    "prior_raw_files": 11,
+    "prior_rows": 129,
+    "prior_distinct_ids": 129,
+    "prior_manifest_128_exact_match": true,
+    "prior_current_cgm_confirmed": true,
+    "new_vs_prior_intersection": [],
+    "ranges_cover_each_txt_1_to_end": true,
+    "physical_hashes_checked": 65,
+    "physical_hashes_all_match_manifest": true,
+    "source_ledgers_row_order_exact_match": true,
+    "manifest_preserved": true,
+    "later_candidates_excluded": true
+  },
+  "quality_limits": [
+    "Leitura integral dos TXT ASR preexistentes por três leitores, registrada nos ledgers; consolidação não é nova audição.",
+    "Sem escuta de áudio ou visualização de vídeo nesta rodada; não se alega transcrição palavra perfeita ou ausência garantida no audiovisual.",
+    "Timestamps finais são início de segmentos ASR, não fim confirmado da fala; diferença até duração não comprova silêncio.",
+    "ASR apresenta duplicações, sobreposições e erros de nomes/pontuação. Revisões lexicais operacionais permanecem pending.",
+    "Logs registram conclusão de chunks junto a aviso de falha n/deno e possíveis formatos indisponíveis; conclusão operacional não garante precisão lexical.",
+    "Canal Mark's Daily Apple não equivale a autoria vocal de Sisson. John Assaraf contém vinheta curta de Sisson; entrevista de Elle Russ. Josh Axe é entrevistado por Brad Kearns.",
+    "Relatos, opiniões, publicidade e analogias não demonstram eficácia clínica nem causalidade."
+  ],
+  "publication_scope": "Sem caminhos absolutos, transcrições extensas ou narrativas identificáveis de pacientes/terceiros. A existência de relato terapêutico é registrada de forma anônima, sem identidade, relação familiar ou detalhes clínicos individuais.",
+  "network_used": false,
+  "new_asr_run": false,
+  "git_used": false,
+  "rows": [
+    {
+      "index_in_fixed_cut": 2,
+      "id": "aeEyNPpAoV8",
+      "title": "Marc Allen | Create the Life of Your Dreams",
+      "url": "https://www.youtube.com/watch?v=aeEyNPpAoV8",
+      "upload_date": "20210716",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 695,
+      "characters": 54890,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          695
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          240
+        ],
+        [
+          241,
+          480
+        ],
+        [
+          481,
+          695
+        ]
+      ],
+      "source_ledger": "ledger-faixa-02-05.json",
+      "transcript_sha256": "f1710dde5722f3b8ffcb6ad06fd94a8ac7da5391ffafcb2d6a72b442f83fe0bc",
+      "state_sha256": "27cfa4799b9845391426f21f7a75e68644bc4f24809045ce1872c81562c473a4",
+      "log_sha256": "17474006c7c40d2783f1d579fbcf0dd09022650e5b84eb899f38c6812852db22",
+      "metadata_sha256": "b59378addafc5fc88611e8e08a5a6afc11795ddf1b8f0aa16e7cad2a611acf77",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3149.461,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3119,
+      "seconds_after_last_segment_start": 30.460999999999785,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Marc Allen",
+        "basis": "Créditos/descrição e contexto textual; sem cotejo de voz.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 3,
+      "id": "vOiOufQ3L8g",
+      "title": "Chairidee Smith | Create Your Own Economy",
+      "url": "https://www.youtube.com/watch?v=vOiOufQ3L8g",
+      "upload_date": "20210614",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 671,
+      "characters": 57250,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          671
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          230
+        ],
+        [
+          231,
+          450
+        ],
+        [
+          451,
+          671
+        ]
+      ],
+      "source_ledger": "ledger-faixa-02-05.json",
+      "transcript_sha256": "4b9845f519774a17cbf3390584217f55dd2cd9d21b6757c612bb4da81a777cac",
+      "state_sha256": "ceb6b58a0c10e7af56cb9abbc1ff8430f2c6d6f0bc45f57fd2ea9e80839aac79",
+      "log_sha256": "9d1c541cb6ecd568b9149cda9983c56d5b782087f637b7171c6f2046c82c3178",
+      "metadata_sha256": "af0488b3ace6acfda8dcfb6eed9e4784897b291906794c2e42a03c7635101e48",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3157.661,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3127,
+      "seconds_after_last_segment_start": 30.661000000000058,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Chairidee Smith",
+        "basis": "Créditos/descrição e contexto textual; sem cotejo de voz.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 4,
+      "id": "At5u1tFmKzg",
+      "title": "How to Change Your Brain | John Assaraf",
+      "url": "https://www.youtube.com/watch?v=At5u1tFmKzg",
+      "upload_date": "20190314",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 580,
+      "characters": 56487,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          580
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          200
+        ],
+        [
+          201,
+          400
+        ],
+        [
+          401,
+          580
+        ]
+      ],
+      "source_ledger": "ledger-faixa-02-05.json",
+      "transcript_sha256": "53c72a3aa9930f25c214caffcdacffd1d30dfd25d313be0a50c32fcb07952d1c",
+      "state_sha256": "d84ed8a25d2c01f9fbbe5b4b9643d6f25ef681fccb10b03aa096762c83bd840b",
+      "log_sha256": "2204a98ed093097d16db154f9e0b363c5d71cca1c9a1902d7cacd2e2bc8ababb",
+      "metadata_sha256": "06429e280143c1c5c219f5662bcd1891c26405fc2977cdc068477162199fd17e",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3168.321,
+      "first_segment_start_seconds": 1,
+      "last_segment_start_seconds": 3164,
+      "seconds_after_last_segment_start": 4.320999999999913,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "John Assaraf",
+        "basis": "Créditos/descrição e contexto textual; sem cotejo de voz.",
+        "audio_verified": false,
+        "sisson_intro_only": true,
+        "sisson_interview_speech_established": false,
+        "sisson_intro_locator": {
+          "lines_inclusive": [
+            1,
+            5
+          ],
+          "note": "Vinheta curta com autoidentificação; não estender ao corpo da entrevista Elle Russ/John Assaraf."
+        }
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 5,
+      "id": "-y65c1PwF0s",
+      "title": "Arielle Ford: Find Your Soul Mate",
+      "url": "https://www.youtube.com/watch?v=-y65c1PwF0s",
+      "upload_date": "20190424",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 608,
+      "characters": 58146,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          608
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          205
+        ],
+        [
+          206,
+          410
+        ],
+        [
+          411,
+          608
+        ]
+      ],
+      "source_ledger": "ledger-faixa-02-05.json",
+      "transcript_sha256": "4921bcd647e97c4002f61ef4f576db7b5222ef31f4e264b514667bf600547afd",
+      "state_sha256": "2229eef3ad87392c94292b836f8545bf60cc38572d9cc50d8afa92b6780a8b16",
+      "log_sha256": "6b449a6187ee31b85df042a95568073dad0e23884a2e55f66ab4a3abe37aa7f3",
+      "metadata_sha256": "da07fdb5812dcf494ac4d33bb1b8f5a16e398433efc9e5644c2bce6b371afadb",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3177.181,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3166,
+      "seconds_after_last_segment_start": 11.18100000000004,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Arielle Ford",
+        "basis": "Créditos/descrição e contexto textual; sem cotejo de voz.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 6,
+      "id": "wWj4haJu-Ik",
+      "title": "Helping Women Heal Naturally | Kyrin Dunston",
+      "url": "https://www.youtube.com/watch?v=wWj4haJu-Ik",
+      "upload_date": "20201012",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 768,
+      "characters": 66865,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          768
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          768
+        ]
+      ],
+      "source_ledger": "ledger-faixa-06-09.json",
+      "transcript_sha256": "726def7f64a5f64b453e8d5bce6a7f7abbeef7bc8900cd7d964cf83c70e854cd",
+      "state_sha256": "01a0c9c622636418931ff3a5e3c5e540b02f6205471e8101ebbb6f1390c7faa7",
+      "log_sha256": "74879dd88c17951a09e81c2d5b91ecc392233e1cfb28a4c9653504e406f4919d",
+      "metadata_sha256": "0faf0a46573dddb89447ff1cd0d6501ca08544056df47abcf9cb60eb238651ea",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3267.101,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3236,
+      "seconds_after_last_segment_start": 31.101000000000113,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Kyrin Dunston",
+        "basis": "Crédito/descrição identifica Elle Russ entrevistando Kyrin Dunston, MD/OBGYN; a abertura e o diálogo concordam. A enumeração de vitaminas em 00:19:51 integra a resposta de Dunston. Não é fala de Mark Sisson.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "B9 aparece apenas em enumeração genérica de vitaminas B; sem receita, dose ou ligação com caldo ou repigmentação.",
+      "findings": [
+        {
+          "theme": "B9",
+          "lines_inclusive": [
+            317,
+            320
+          ],
+          "timestamp_start": "00:19:51",
+          "speaker": "Kyrin Dunston, por contexto",
+          "type": "menção genérica",
+          "summary": "Enumera B1/B2/B5/B6/B7/B9 ao falar em investigar desequilíbrios individuais.",
+          "limits": "Sem alimento, dose, resultado específico ou ligação com caldo e repigmentação."
+        }
+      ]
+    },
+    {
+      "index_in_fixed_cut": 7,
+      "id": "0Q_WPxZYXso",
+      "title": "Tara Garrison | Do Keto But Not Forever",
+      "url": "https://www.youtube.com/watch?v=0Q_WPxZYXso",
+      "upload_date": "20210104",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 870,
+      "characters": 74227,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          870
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          750
+        ],
+        [
+          751,
+          870
+        ]
+      ],
+      "source_ledger": "ledger-faixa-06-09.json",
+      "transcript_sha256": "5ffc0f0959983a87abfaa4aabe4d0583c458aa753b9cbb509d656414615c4c0d",
+      "state_sha256": "1d722b0c999c55cbaf252655f58a0f7f903da80aa642ffb0b94fdcdf274c42ca",
+      "log_sha256": "e51cc20c7a7808ae15919dae6f27b8442ac43c02f8613d2802cac90037a71f5d",
+      "metadata_sha256": "2b2792e391f07d176fd5ad730721f21c4e458ec8468e7c0fa197ea3a9374a6e4",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3288.901,
+      "first_segment_start_seconds": 5,
+      "last_segment_start_seconds": 3258,
+      "seconds_after_last_segment_start": 30.90099999999984,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Tara Garrison",
+        "basis": "Crédito/descrição identifica Elle Russ entrevistando Tara Garrison; a abertura é consistente. O bloco final é conduzido pela apresentadora, que se refere a Tara em terceira pessoa/como interlocutora e menciona os projetos conjuntos; atribuição contextual a Elle Russ, sem escuta. Não é fala de Mark Sisson.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Bone broths aparecem em publicidade de REP Provisions no encerramento; sem receita ou benefício específico.",
+      "findings": [
+        {
+          "theme": "bone broth",
+          "lines_inclusive": [
+            858,
+            860
+          ],
+          "timestamps": [
+            "00:53:28",
+            "00:53:33",
+            "00:53:44"
+          ],
+          "speaker": "Elle Russ, atribuição contextual do bloco final",
+          "type": "publicidade",
+          "summary": "Oferta de REP Provisions inclui carnes grass-fed/regenerativas, bone broths e manteiga de pecã; menciona15% de desconto e código Kick Ass Life.",
+          "limits": "15% é desconto, não medida de receita/dose. Sem composição, preparo, proporção água/ossos, tempo/temperatura, rendimento, armazenamento, porção/frequência ou benefício específico do caldo."
+        }
+      ]
+    },
+    {
+      "index_in_fixed_cut": 8,
+      "id": "uVKvx0rMgFU",
+      "title": "Tyler Cartright | Incredible 300 Pound Weight Loss With Keto",
+      "url": "https://www.youtube.com/watch?v=uVKvx0rMgFU",
+      "upload_date": "20210802",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 587,
+      "characters": 65656,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          587
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          200
+        ],
+        [
+          201,
+          400
+        ],
+        [
+          401,
+          587
+        ]
+      ],
+      "source_ledger": "ledger-faixa-06-09.json",
+      "transcript_sha256": "57a2d60dfef5a57dc4372f00a3700d5877f5bfbf685b65987c1a0c91d453bea6",
+      "state_sha256": "756f4fae1a1feee73689ccd3c6853925ddf3c64537ef523715bd7eaaccec238c",
+      "log_sha256": "752430eab634ea68b195d754dd3ed91cc8038d4b5aa9120c01f06283b7387849",
+      "metadata_sha256": "dfad3eca92cab23c5ca07025ed93276460a618e8e6573dcf387bacda24977e63",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3346.561,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3317,
+      "seconds_after_last_segment_start": 29.56100000000015,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Tyler Cartwright",
+        "basis": "Crédito/descrição identifica Elle Russ entrevistando Tyler Cartwright; abertura e contexto autobiográfico confirmam. O título preserva a grafia Cartright do manifesto; o crédito usa Cartwright. Referências a Mark não fazem de Mark o falante.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 9,
+      "id": "EYYJM1yRGj4",
+      "title": "Tanya Dyer, Esq. | The Art of Self Rescue",
+      "url": "https://www.youtube.com/watch?v=EYYJM1yRGj4",
+      "upload_date": "20210111",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 973,
+      "characters": 75532,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          973
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          750
+        ],
+        [
+          751,
+          973
+        ]
+      ],
+      "source_ledger": "ledger-faixa-06-09.json",
+      "transcript_sha256": "71c3c4c30d45f8c4d8d55e8baf94e78d53365ff2725a3f5b5ec960aa21ba5f9e",
+      "state_sha256": "02bbbdd607386205859522f9a542ae6391fa424f8b64fe1f4f1e0efa15d5f044",
+      "log_sha256": "ebcd585a1bc03e79d35fc6ef82be79934923c2e158078301e4267021f7c34115",
+      "metadata_sha256": "c809541a9d524098023ffaf12d00ee1a89a3ed1c0bf52c93639a81feeff9469d",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3379.061,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3349,
+      "seconds_after_last_segment_start": 30.06100000000015,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Tanya Dyer, Esq.",
+        "basis": "Crédito/descrição identifica Elle Russ entrevistando Tanya Dyer; abertura identifica a apresentadora (ASR L Russ), convidada e amizade entre ambas. Conversa sobre Art of Self Rescue, sem participação evidenciada de Sisson.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 10,
+      "id": "vxfFTX1GjxY",
+      "title": "Dr. Cheyenne Bryant | Life Coach and Leader",
+      "url": "https://www.youtube.com/watch?v=vxfFTX1GjxY",
+      "upload_date": "20201109",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 740,
+      "characters": 70251,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          740
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          180
+        ],
+        [
+          181,
+          360
+        ],
+        [
+          361,
+          550
+        ],
+        [
+          551,
+          740
+        ]
+      ],
+      "source_ledger": "ledger-faixa-10-14.json",
+      "transcript_sha256": "6a4f010387f60d0f8c331aeaf902701236c205d8e84ff0005b5d52ed321f831e",
+      "state_sha256": "bb5534adc22db8610341edab287623a0183b4642d664756b24b79d1f4645efd8",
+      "log_sha256": "25c10ba6925590631e32450ec831767877b8aea811be1d87c99afa80d845ff01",
+      "metadata_sha256": "be37d12b5eb5f04ac706faa3edb367bcdc95b57a055ffc66ed0bdc47b0ffdf15",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3398.181,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3369,
+      "seconds_after_last_segment_start": 29.18100000000004,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Dr. Cheyenne Bryant",
+        "basis": "Créditos/descrição e contexto textual; sem cotejo de voz.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 11,
+      "id": "n37eveZhGMg",
+      "title": "Gina Swire | Self-Love Expert",
+      "url": "https://www.youtube.com/watch?v=n37eveZhGMg",
+      "upload_date": "20210809",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 725,
+      "characters": 62053,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          725
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          190
+        ],
+        [
+          191,
+          370
+        ],
+        [
+          371,
+          550
+        ],
+        [
+          551,
+          725
+        ]
+      ],
+      "source_ledger": "ledger-faixa-10-14.json",
+      "transcript_sha256": "dee35164d99e950d6e0923679b2023db2df5732dba9346a5ebd9c9acfe85da14",
+      "state_sha256": "c2059318c374a83396b9aa75dfa8e1e7a736f5458633348fe4cd91e87e35dc70",
+      "log_sha256": "23e4f25bc08ad3836c6d07684655f1241925b3cfa8276ceab6ce0728ff271c55",
+      "metadata_sha256": "605213ef58e1a49959bebf92f740ac9466dd8fc024270546d88d5889d907673f",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3445.821,
+      "first_segment_start_seconds": 3,
+      "last_segment_start_seconds": 3416,
+      "seconds_after_last_segment_start": 29.820999999999913,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Gina Swire",
+        "basis": "Créditos/descrição e contexto textual; sem cotejo de voz.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 12,
+      "id": "jLOT_z5tvEU",
+      "title": "Lisa Easton | Master Your Financial Outcomes",
+      "url": "https://www.youtube.com/watch?v=jLOT_z5tvEU",
+      "upload_date": "20210726",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 998,
+      "characters": 74546,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          998
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          220
+        ],
+        [
+          221,
+          430
+        ],
+        [
+          431,
+          640
+        ],
+        [
+          641,
+          840
+        ],
+        [
+          841,
+          998
+        ]
+      ],
+      "source_ledger": "ledger-faixa-10-14.json",
+      "transcript_sha256": "e6109ba2036b6b6e4110b51fedc82f5f318d4e03715e594f19aee3db40770957",
+      "state_sha256": "eedd852c1b25e0e2d784a740f7b904e973bad075de154d11fde59a92ed3e5f66",
+      "log_sha256": "652883b52c37de99eae489d02f34b66052ac520cdaf98eb8c454bafcd03d5f23",
+      "metadata_sha256": "ca7378fc9b812831606939617a83ec058e94ec13fe123487555572655b870cb3",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3516.341,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3487,
+      "seconds_after_last_segment_start": 29.340999999999894,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Lisa Easton",
+        "basis": "Créditos/descrição e contexto textual; sem cotejo de voz.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 13,
+      "id": "-YUIao0HOdU",
+      "title": "Alex Terranova | Build Your Dreams",
+      "url": "https://www.youtube.com/watch?v=-YUIao0HOdU",
+      "upload_date": "20210705",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 805,
+      "characters": 74655,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          805
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          200
+        ],
+        [
+          201,
+          400
+        ],
+        [
+          401,
+          600
+        ],
+        [
+          601,
+          805
+        ]
+      ],
+      "source_ledger": "ledger-faixa-10-14.json",
+      "transcript_sha256": "140d94197205ef5f90c9b517e228541b96b512b8f7457941c2dce6372b964533",
+      "state_sha256": "fa4edd2a966e70ecf2bb0bfda1a715ca28e680da44d88933e63a64047dd5e909",
+      "log_sha256": "140b4302d26db71ab8ac0b0229a77909846fc92737b1da4d21221d92acb00fba",
+      "metadata_sha256": "5287ef06dfc63bf52d81dfbe7c08be5f322fdbe442ca37b8653bd1042bfd2844",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3557.921,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3528,
+      "seconds_after_last_segment_start": 29.92099999999982,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Elle Russ",
+        "guest": "Alex Terranova",
+        "basis": "Créditos/descrição e contexto textual; sem cotejo de voz.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Negativo nos TXT integrais para caldo/gelatina/colágeno/tutano, receitas pertinentes, B9/K/cobre e repigmentação.",
+      "findings": []
+    },
+    {
+      "index_in_fixed_cut": 14,
+      "id": "FxIbJEhMrzQ",
+      "title": "Josh Axe | Ancient Remedies",
+      "url": "https://www.youtube.com/watch?v=FxIbJEhMrzQ",
+      "upload_date": "20210219",
+      "channel": "Mark's Daily Apple",
+      "official_channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "full_text_read": true,
+      "read_status": "read_full_txt",
+      "lines_total": 831,
+      "characters": 72470,
+      "text_coverage_percent": 100,
+      "read_ranges_inclusive": [
+        [
+          1,
+          831
+        ]
+      ],
+      "read_parts": [
+        [
+          1,
+          180
+        ],
+        [
+          181,
+          360
+        ],
+        [
+          361,
+          540
+        ],
+        [
+          541,
+          720
+        ],
+        [
+          721,
+          831
+        ]
+      ],
+      "source_ledger": "ledger-faixa-10-14.json",
+      "transcript_sha256": "34348f65dd86e17f9eb464aae2aa6000966ecad643db94cfceb6dade0541c20c",
+      "state_sha256": "91c236142c1ce3fb9d569e084445522602701d3949b736819ab3cfa6c1cf52a8",
+      "log_sha256": "26b51ace40ffe4dab2e06d78e0bb6e5e9f3badc4dab5864c24f6e72e1e1e9f67",
+      "metadata_sha256": "5e9529dc0ab704396f5c18094eaa4f072ba85cfde80c035c5559858d6fc33bf7",
+      "source_and_frozen_hash_match": true,
+      "physical_hashes_match_fixed_cut": true,
+      "asr_model": "parakeet-v3-int8",
+      "duration_decoded_seconds": 3567.041,
+      "first_segment_start_seconds": 4,
+      "last_segment_start_seconds": 3536,
+      "seconds_after_last_segment_start": 31.041000000000167,
+      "audio_listened": false,
+      "video_visually_reviewed": false,
+      "speaker_attribution": {
+        "host": "Brad Kearns",
+        "guest": "Josh Axe",
+        "basis": "Créditos/descrição e contexto textual; sem cotejo de voz.",
+        "audio_verified": false,
+        "sisson_intro_only": false,
+        "sisson_interview_speech_established": false
+      },
+      "focus_result": "Usos culinários incompletos e alegações de Axe/Brad sobre caldo/colágeno/tutano; vitamina K é menção periférica sobre aipo. Sem receita base de caldo, B9/cobre/repigmentação ou evidência causal.",
+      "findings": [
+        {
+          "id": "axe-anonymous-multicomponent-anecdote",
+          "lines_inclusive": [
+            69,
+            101
+          ],
+          "timestamp_start": "00:03:35",
+          "speaker": "Josh Axe; perguntas de Brad Kearns",
+          "type": "relato anedótico multicomponente",
+          "summary": "Relato multicomponente sobre câncer que inclui caldo entre várias mudanças.",
+          "limits": "Sem dose do caldo, comparador ou efeito isolado de caldo; não demonstra eficácia anticâncer nem causalidade. Identidade, relação familiar e detalhes clínicos individuais omitidos."
+        },
+        {
+          "id": "mofo-marrow",
+          "lines_inclusive": [
+            377,
+            383
+          ],
+          "timestamps": [
+            "00:25:45",
+            "00:25:48",
+            "00:25:55"
+          ],
+          "speaker": "Brad Kearns, com resposta/interjeição de Josh Axe na linha379",
+          "type": "publicidade/promoção de suplemento",
+          "summary": "Brad declara trabalhar com Ancestral Supplements e promover MOFO (male optimization formula with organs); lista testículo, próstata, coração, fígado e bone marrow, dizendo ser desenhado para elevar testosterona.",
+          "recipe": false,
+          "missing": "Sem proporções, dose, frequência, preparo culinário, comparação ou medidas de efeito.",
+          "limits": "Tutano aparece como ingrediente de suplemento promovido por Brad; não é receita nem evidência clínica, e não é fala de Sisson."
+        },
+        {
+          "id": "axe-broth-joints-skin",
+          "lines_inclusive": [
+            385,
+            407
+          ],
+          "timestamps": [
+            "00:27:32",
+            "00:27:35",
+            "00:27:40",
+            "00:27:42",
+            "00:27:44"
+          ],
+          "speaker": "Josh Axe",
+          "type": "alegações de benefício fundamentadas pelo convidado em analogia like supports like",
+          "summary": "Depois de falar em proteínas de músculo animal e crescimento muscular, Axe passa a bone broth, ligamentos/tendões/tecido conjuntivo e afirma ajuda a construir articulações e pele. Em seguida relata perceber força/energia com suplementos de fígado e órgãos.",
+          "recipe": false,
+          "missing": "Sem doses, composição quantitativa, receita ou estudo especificado para o caldo.",
+          "limits": "ASR junta muscles, bone broth na linha395; contexto396–399 marca a transição para caldo e articulações/pele. Não usar essa pontuação como prova de que se atribuiu ao caldo o benefício muscular anterior. Relato de suplementos subsequente não é medição de efeito do caldo."
+        },
+        {
+          "id": "axe-chicken-broth-immunity",
+          "lines_inclusive": [
+            559,
+            565
+          ],
+          "timestamps": [
+            "00:38:28",
+            "00:38:36",
+            "00:38:39"
+          ],
+          "speaker": "Josh Axe",
+          "type": "alegação dentro da medicina tradicional chinesa (TCM)",
+          "summary": "Axe associa alimentos alaranjados ao trato digestivo superior; para questões imunes lista alimentos amarelo claro, caldo de frango, gengibre e alho, chamados de mais nutritivos/nourishing.",
+          "recipe": false,
+          "missing": "É lista de alimentos; não instrui combiná-los em uma receita. Sem quantidades, espécie/partes ósseas, água, cozimento ou dose.",
+          "limits": "Chicken broth não é explicitamente definido como caldo de ossos; não demonstra benefício imune nem estudo da combinação."
+        },
+        {
+          "id": "axe-vitamin-k",
+          "lines_inclusive": [
+            695,
+            699
+          ],
+          "timestamps": [
+            "00:50:41",
+            "00:50:43",
+            "00:50:49"
+          ],
+          "speaker": "Josh Axe",
+          "type": "alegação nutricional periférica sobre aipo",
+          "summary": "No argumento de que alimentos semelhantes a órgãos os apoiariam, Axe diz aipo lembrar ossos e conter eletrólitos, alguma vitamina K e cálcio; atribui o apoio ósseo sobretudo à alcalinidade.",
+          "recipe": false,
+          "missing": "Sem quantificação de vitamina K, tipo K1/K2, porção, análise laboratorial ou relação com caldo.",
+          "limits": "Não é dado composicional do caldo ou tutano, nem prova da teoria like supports like."
+        },
+        {
+          "id": "axe-personal-diet",
+          "lines_inclusive": [
+            752,
+            781
+          ],
+          "timestamps": [
+            "00:54:08",
+            "00:54:39",
+            "00:55:08",
+            "00:55:26",
+            "00:55:33"
+          ],
+          "speaker": "Brad pergunta; Josh Axe descreve a própria dieta",
+          "type": "usos culinários pertinentes e hábitos pessoais",
+          "summary": "Axe inclui fígado e caldo entre produtos de carne. Compra arroz/aveia germinados e os cozinha cerca de12h em crock pot durante a noite, chamando de congee/porridge e alegando ausência de fitato/digestibilidade. Para café da manhã cita aveia com berries e colágeno ou pó de caldo; smoothie com abóbora e pó de caldo; a continuação maybe some berries e passagem ao almoço têm fronteira ambígua no ASR. Para almoço cita uma tigela grande de sopa de frango com vegetais.",
+          "recipe": true,
+          "missing": "Não há massa/volume dos grãos, água, berries, abóbora, colágeno ou pó de caldo; dose/frequência quantitativa, potência/temperatura da crock pot, velocidade/tempo do smoothie, espécie/partes/tempo de produção do caldo, equivalência entre pó e caldo líquido, rendimento, armazenamento ou instrução de gelificação. A sopa não tem base de caldo especificada.",
+          "limits": "Não transferir12h dos grãos para preparo de caldo; alegação no phytate não foi verificada. O TXT não permite resolver perfeitamente a pontuação de or maybe some berries.",
+          "measures_present": [
+            "cerca de12 horas de cozimento noturno dos grãos germinados em crock pot (não do caldo)",
+            "big bowl para a sopa, expressão qualitativa, sem volume"
+          ],
+          "recipe_scope": "Ideias de uso, não receita reproduzível do caldo ou formulários completos."
+        }
+      ]
+    }
+  ]
+}

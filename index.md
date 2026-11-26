@@ -242,3 +242,5 @@
 - [Quinto lote WAPF health: cinquenta corpos completos e limites](raw/wapf-health-lote5-50-2026-11-25.json)
 
 - [Xiao2016: bactéria recombinante e chumbo em ratos, sem teste de caldo](wiki/fontes/xiao-2016-lactococcus-chumbo.md)
+
+- [Treze entrevistas MDA adicionais: vozes, usos e limites](raw/youtube-mda-pos129-13-2026-11-25.json)

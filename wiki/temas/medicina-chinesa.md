@@ -50,3 +50,7 @@ Adaptação culinária de *luóbo dùn páigǔ* (蘿蔔燉排骨). Use **450 g d
 | Costela com brotos de soja e inhame, guia chinês de 2026 | Troque parte do inhame por chuchu para reduzir o amido. [Apêndice 5](https://wjw.shanxi.gov.cn/tzgg/sjzcwj/202605/P020260507678794512347.pdf) |
 | Caldo bovino com amora de amoreira, guia chinês de 2026 | A versão do guia usa 150 g de osso, 25 g de amora, gengibre, cebolinha, vinho e açúcar. Cozinhe a fruta sem açúcar adicionado. [Apêndice 5](https://wjw.shanxi.gov.cn/tzgg/sjzcwj/202605/P020260507678794512347.pdf) |
 | Caldo suíno com kombu, guia chinês de 2026 | O guia usa 100 g de costela, 200 g de ossos, 50 g de kombu hidratado e 10 g de goji, com temperos, vinagre de arroz e vinho culinário. Reduza ou omita o goji conforme a meta de carboidratos. [Apêndice 5](https://wjw.shanxi.gov.cn/tzgg/sjzcwj/202605/P020260507678794512347.pdf) |
+
+## Interpretação de Josh Axe em entrevista
+
+Em [Ancient Remedies,38:28–38:45](https://www.youtube.com/watch?v=FxIbJEhMrzQ), Josh Axe associa cores de alimentos a sistemas de órgãos e enumera caldo de frango,gengibre e alho no contexto imune. A [nota da entrevista](../fontes/mark-sisson-caldo-gelatina.md#josh-axe-com-brad-kearns-caldo-na-narrativa-e-na-cozinha) registra a interpretação dele, sem tratá-la como ensaio,protocolo universal ou receita com proporções. Não é dado de vitaminaK no caldo: a menção posterior é sobre aipo. A passagem não identifica um efeito imunológico medido dessa combinação.

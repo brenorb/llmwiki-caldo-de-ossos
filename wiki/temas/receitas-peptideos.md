@@ -126,3 +126,7 @@ Estas são fontes culinárias e comerciais. Alegações de benefício para cabel
 ## Aveia com peptídeos, uso opcional do Mark’s Daily Apple
 
 Em [Are Oats Healthy?](https://www.marksdailyapple.com/p/are-oats-healthy), o blog sugere misturar whey **ou** peptídeos ao terminar o cozimento da aveia, sem dose ou fórmula própria. **O mingau de aveia não é uma opção low carb por receber colágeno.** Para um preparo diferente com menos amido, experimente uma base de chia e leite de coco sem açúcar e siga a dose do rótulo; essa adaptação é da wiki e não foi testada. Peptídeos não substituem a função de uma gelatina firme.
+
+## Ideias de uso na entrevista de Josh Axe
+
+A [entrevista com Brad Kearns](../fontes/mark-sisson-caldo-gelatina.md#josh-axe-com-brad-kearns-caldo-na-narrativa-e-na-cozinha) menciona aveia/berries com colágeno ou pó de caldo e smoothie de abóbora/pó de caldo, sem medidas. São ideias do convidado, não fórmulas de Sisson ou novas receitas completas da coleçãoPrimalKitchen. Aveia/fruta/abóbora contribuem carboidratos; não se conhece formulação do pó nem equivalência com caldo líquido ou gelatina que firma.

@@ -200,3 +200,18 @@ O [lote de nove TXT integralmente lidos](../../raw/youtube-mda-pos118-9-2026-11-
 Na [entrevista com Elle Russ](https://www.youtube.com/watch?v=nQTBRKQe33Y), Dane menciona caldo em**15:03–15:46** ao narrar dificuldade de seguir dietas. Não há receita, dose ou demonstração do caldo como responsável por melhora. O episódio promove programa de coaching/loja e apresenta relatos com várias intervenções, sem comparador/documentação clínica disponível na conversa.
 
 Em**39:45–40:43**, descreve queda de cabelo durante tratamento e crescimento posterior em uma cliente. Não especifica cor ou caldo como intervenção; identidade omitida. Não é relato de repigmentação pelo caldo. Elle reconta experiência de Sisson com retirada de grãos em25:25–26:06, sem caldo; a fala não é dele. O [registro integral do TXT](../../raw/youtube-mda-dane-pos127-2026-11-25.json) conserva faixas/hashes e limites de reconhecimento/atribuição.
+
+## Josh Axe com Brad Kearns: caldo na narrativa e na cozinha
+
+A entrevista [Ancient Remedies](https://www.youtube.com/watch?v=FxIbJEhMrzQ) é de **Brad Kearns com Josh Axe**, não de Sisson. O [registro integral do TXT](../../raw/youtube-mda-pos129-13-2026-11-25.json) preserva locators,vozes e limitações.
+
+| Passagem | O que pode ser registrado |
+|---|---|
+| Axe,03:35 em diante | Relato anônimo multicomponente sobre câncer, incluindo caldo entre mudanças. Sem dose,comparador ou efeito isolado; não demonstra eficácia anticâncer. Detalhes pessoais omitidos. |
+| Brad,25:45–25:55 | Promoção de suplementoAncestral/MOFO com órgãos e tutano. Sem receita ou dose de tutano; vínculo comercial é declarado na fala. Não é efeito do caldo nem fala de Sisson. |
+| Axe,27:35–27:44 | Alega apoio a articulações/pele por analogia entre tecidos animais e humanos. Não identifica estudo,dose ou análise do caldo nessa passagem. |
+| Axe,38:28–38:45 | Apresenta uma interpretação da medicina chinesa por cores e enumera caldo de frango,gengibre,alho para questões imunes. É lista sem instrução de combinar/medidas; chicken broth não é definido ali como caldo de ossos. Sem validação de benefício imune. |
+| Axe,50:41–50:49 | VitaminaK é citada no **aipo**, sem quantificação,tipo ou teor no caldo. |
+| Axe,55:26–55:33 | Aveia com berries e colágeno **ou pó de caldo**; smoothie de abóbora com pó de caldo; depois sopa de frango com vegetais. Sem quantidades ou preparo do caldo/pó. As12h anteriores dizem respeito a cozinhar grãos, não a extrair caldo. |
+
+A aveia/fruta/abóbora permanecem no original; citar pó de caldo não torna o preparo low carb ou um gel de gelatina. Nos demais textos, a enumeração deB9 por Kyrin é genérica, sem caldo/pigmentação. O anúncio de bone broths ao fim de Tara é comercial, sem fórmula. A vinheta identificada como Sisson em John Assaraf não torna a entrevista deElleRuss uma declaração dele sobre o tema.

@@ -1034,3 +1034,7 @@ O [registro do lote5](raw/wapf-health-lote5-50-2026-11-25.json) acrescenta50 cor
 ## [2026-11-25] ingestão | Referência bacteriana sobre chumbo e validade externa
 
 Lidos artigo/suplemento e conferidos originais/hashes do [Xiao2016](wiki/fontes/xiao-2016-lactococcus-chumbo.md). A nota preserva modelo,cepa,comparadores,unidades e cronologia,além de ambiguidades de n/sensibilidade e limites do suplemento. A matriz diferencia resultado pré-clínico e extrapolação para caldo/fermentados humanos; não foram criadas doses alimentares. [Acesso](raw/xiao-2016-chumbo-acesso-2026-11-25.json)
+
+## [2026-11-25] ingestão | Treze entrevistas e atribuição de Axe/Brad
+
+O [corte de13](raw/youtube-mda-pos129-13-2026-11-25.json) acrescenta9.851 linhas/48 blocos lidos integralmente, com65 hashes conferidos e disjunção dos129 anteriores. A síntese distingue relato multicomponente,analogia de benefício,TCM,vitaminaK de outro alimento e usos culinários sem medidas. Foram atualizados fonteMDA,TCM,ideias de peptídeos,cobertura,índice e proveniência sem atribuir falas dos convidados a Sisson.

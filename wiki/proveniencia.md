@@ -131,7 +131,7 @@ O [quinto lote health](../raw/wapf-health-lote5-50-2026-11-25.tsv) preserva50 id
 
 O [originalXiao2016 e suplemento](fontes/xiao-2016-lactococcus-chumbo.md) sustentam classificação pré-clínica da cepa recombinante, com unidades,cronologia,comparador e problemas de relato explícitos. Não se transferiu resultado para fermentados comuns,caldo/glicina ou humanos. [Rastreabilidade](../raw/xiao-2016-chumbo-acesso-2026-11-25.json)
 
-Os [treze TXT adicionais MDA](../raw/youtube-mda-pos129-13-2026-11-25.json) têm65 hashes físicos e faixas1–fim conferidos, sem duplicar129 anteriores. Relato anônimo,analogia,lista tradicional e promoção comercial mantêm classes distintas; vinheta de Sisson não foi confundida com entrevista deElleRuss ou Brad Kearns.
+Os [treze TXT adicionais MDA](../raw/youtube-mda-pos129-13-2026-11-25.json) têm65 hashes físicos e faixas1–fim conferidos, sem duplicar129 anteriores. Relato anônimo,analogia,lista tradicional e promoção comercial mantêm classes distintas; vinheta de Sisson não foi confundida com entrevista deElle Russ ou Brad Kearns.
 
 
 O [caderno culinário do quinto lote](temas/receitas-wapf-medidas-health5.md) deriva dos três pareceres integrais do [lote50](../raw/wapf-health-lote5-50-2026-11-25.tsv), revisados em texto. Preserva medidas, etapas, rendimento informado e lacunas; distingue alternativas dos autores de versões propostas pela wiki. Não soma como novas receitas as fichas já catalogadas nem adota conservação histórica como orientação sanitária.
@@ -143,19 +143,19 @@ A [conferência integral de Al-Malki2015](fontes/al-malki-2015-lisina-pancreatit
 As [quinze lacunas de mídia MDA](fontes/mda-midias-lacunas-2026-11-25.md) preservam identidade, hashes dos estados/logs e distinção entre processamento e leitura. Falha de aquisição não foi classificada como ausência do tema, nem RSS de duração distinta como edição idêntica.
 
 
-O [sexto lote health](fontes/wapf-health-lote6-2026-11-25.md) tem50 corpos atuais integralmente lidos por subagentes, três pareceres integralmente revisados e100 hashes físicos/faixas completos conferidos. Colisões deIDs anteriores preservam a contagem porURL, sem afirmar independência editorial. Sete tabelas ausentes doTXT e estudos externos não foram declarados lidos.
+O [sexto lote health](fontes/wapf-health-lote6-2026-11-25.md) tem50 corpos atuais integralmente lidos por subagentes, três pareceres integralmente revisados e100 hashes físicos/faixas completos conferidos. Colisões de IDs anteriores preservam a contagem porURL, sem afirmar independência editorial. Sete tabelas ausentes do TXT e estudos externos não foram declarados lidos.
 
 
-Os [seis textos antes narrativos](../raw/wapf-health-seis-narrativos-2026-11-25.json) ganharam provas individuais:651linhas/205.970caracteres e12hashes físicos conferidos. São zero fontes novas. O [caderno](temas/receitas-wapf-seis-narrativos.md) preserva proporções incompletas, amidos e categorias distintas de Ayurveda/congee; K injetada e vitaminas de outros alimentos não viraram composição de caldo. A contagem250+6é deURLs, com colisões deIDs registradas no [lote6](fontes/wapf-health-lote6-2026-11-25.md).
+Os [seis textos antes narrativos](../raw/wapf-health-seis-narrativos-2026-11-25.json) ganharam provas individuais:651 linhas/205.970caracteres e12 hashes físicos conferidos. São zero fontes novas. O [caderno](temas/receitas-wapf-seis-narrativos.md) preserva proporções incompletas, amidos e categorias distintas de Ayurveda/congee; K injetada e vitaminas de outros alimentos não viraram composição de caldo. A contagem250+6é deURLs, com colisões de IDs registradas no [lote6](fontes/wapf-health-lote6-2026-11-25.md).
 
 
 O [caderno culinário do sexto lote](temas/receitas-wapf-medidas-health6.md) conserva medidas/etapas das fontes e distingue propostas não testadas. Sorvete com mel não virou fórmula sem açúcar por mera menção de monk fruit no artigo; mousse com arroz não foi identificada como salmão com couve-flor.
 
 
-A [conferência dos quatroHTML](fontes/wapf-identidades-colisoes.md) verifica oito hashes e concordância postid/shortlink. O catálogo copiou473 para um HTML que identifica8723. DoisTXT completos deFluoride são iguais removendo só uma linha de navegação, sem pressupor equivalência visual/histórica. Preservados os registros originais; cobertura porURL não afirma independência editorial.
+A [conferência dos quatroHTML](fontes/wapf-identidades-colisoes.md) verifica oito hashes e concordância postid/shortlink. O catálogo copiou473 para um HTML que identifica8723. DoisTXT completos de Fluoride são iguais removendo só uma linha de navegação, sem pressupor equivalência visual/histórica. Preservados os registros originais; cobertura porURL não afirma independência editorial.
 
 
-Os [doisTXT pós142](../raw/youtube-mda-pos142-2-2026-11-25.json) têm27arquivos congelados e originais físicos conferidos, dez faixas integrais/concatenações verificadas e disjunção contra142IDs de12raw anteriores. Resultado negativo não valida alegações comerciais nem substitui escuta/visualização; SRTausente e timestamps de início permanecem explícitos.
+Os [doisTXT pós142](../raw/youtube-mda-pos142-2-2026-11-25.json) têm27 arquivos congelados e originais físicos conferidos, dez faixas integrais/concatenações verificadas e disjunção contra142 IDs de12 raw anteriores. Resultado negativo não valida alegações comerciais nem substitui escuta/visualização; SRT ausente e timestamps de início permanecem explícitos.
 
 
-O [complemento de balanço hormonal](fontes/wapf-hormonal-tabelas.md) distingue texto antes lido de11imagens recuperadas/lidas depois. As medidas de arroz não foram convertidas em volume de caldo; porção de cardápio não virou dose clínica ou composição nutricional. Sete tabelas com29linhas/78células lidas,11hashes físicos conferidos e três tabelas culinárias revistas visualmente pelo revisor.
+O [complemento de balanço hormonal](fontes/wapf-hormonal-tabelas.md) distingue texto antes lido de11 imagens recuperadas/lidas depois. As medidas de arroz não foram convertidas em volume de caldo; porção de cardápio não virou dose clínica ou composição nutricional. Sete tabelas com29 linhas/78 células lidas,11 hashes físicos conferidos e três tabelas culinárias revistas visualmente pelo revisor.

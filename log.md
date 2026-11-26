@@ -1057,29 +1057,29 @@ Conferidos os15logs com desafio de autenticação e o retorno404 do áudio/pági
 
 ## [2026-11-25] ingestão | Sexto lote health: cinquenta TXT e conciliação de identidade
 
-Incorporadas [provas e síntese do lote6](wiki/fontes/wapf-health-lote6-2026-11-25.md):50TXT/4.657linhas/1.368.553caracteres. Revisor conferiu100hashes,50identidades exatas e todas as faixas; preservadas divergências de título/autoria/canonical e duas colisões deID anteriores. Receitas, interpretação chinesa, relatos multicomponentes e referências não consultadas têm classes explícitas.
+Incorporadas [provas e síntese do lote6](wiki/fontes/wapf-health-lote6-2026-11-25.md):50 TXT/4.657 linhas/1.368.553caracteres. Revisor conferiu100 hashes,50identidades exatas e todas as faixas; preservadas divergências de título/autoria/canonical e duas colisões deID anteriores. Receitas, interpretação chinesa, relatos multicomponentes e referências não consultadas têm classes explícitas.
 
 
 ## [2026-11-25] ingestão | Seis consultas WAPF antes narrativas
 
-Incorporadas [provas individuais dos seis TXT](raw/wapf-health-seis-narrativos-2026-11-25.json):651linhas/205.970caracteres,12hashes conferidos e faixas integrais. Zero fontes novas; contagem porURL distingue colisões deID. [Caderno culinário](wiki/temas/receitas-wapf-seis-narrativos.md), fonte e medicina chinesa preservam receitas incompletas, arroz/batata/ervilha, Ayurveda distinto deMTC e benefícios apenas atribuídos. A avaliação integral deAl-Malki tem nota própria anterior.
+Incorporadas [provas individuais dos seis TXT](raw/wapf-health-seis-narrativos-2026-11-25.json):651 linhas/205.970caracteres,12 hashes conferidos e faixas integrais. Zero fontes novas; contagem porURL distingue colisões deID. [Caderno culinário](wiki/temas/receitas-wapf-seis-narrativos.md), fonte e medicina chinesa preservam receitas incompletas, arroz/batata/ervilha, Ayurveda distinto deMTC e benefícios apenas atribuídos. A avaliação integral de Al-Malki tem nota própria anterior.
 
 
-## [2026-11-25] ingestão | Caderno culinário do sexto lote e cobertura306URLs
+## [2026-11-25] ingestão | Caderno culinário do sexto lote e cobertura306 URLs
 
-Revisado o rascunho completo e incorporadas [receitas e descrições](wiki/temas/receitas-wapf-medidas-health6.md), com sorvete/gelatina, sopa de ossos, pele de porco e caldo/coco, além de registros incompletos/históricos. Adaptações low carb permanecem qualitativas e não testadas. A cobertura de positivos passou a306URLs com prova textual, sem equivaler a306artigos independentes.
-
-
-## [2026-11-25] revisão | IDs reais noHTML e duplicação deFluoride
-
-Conferidos quatroHTML/TXT preservados e oito hashes: postid/shortlink distinguem8723(chumbo) de473(homeopatia). A [comparação integral das duas rotas deFluoride](wiki/fontes/wapf-identidades-colisoes.md) encontra somente a linha de navegação de tradução como diferença; hash dos demais textos é idêntico. Acrescentada correção sem reescrever osIDs originais de catálogo ou confundir URLs com artigos independentes.
+Revisado o rascunho completo e incorporadas [receitas e descrições](wiki/temas/receitas-wapf-medidas-health6.md), com sorvete/gelatina, sopa de ossos, pele de porco e caldo/coco, além de registros incompletos/históricos. Adaptações low carb permanecem qualitativas e não testadas. A cobertura de positivos passou a306 URLs com prova textual, sem equivaler a306 artigos independentes.
 
 
-## [2026-11-25] ingestão | MDA: ZachBush eTerriCole,144IDs incrementais
+## [2026-11-25] revisão | IDs reais no HTML e duplicação de Fluoride
 
-Incorporada [leitura integral dos doisTXT](raw/youtube-mda-pos142-2-2026-11-25.json),1.632linhas/151.859caracteres, sem novas receitas/passagens reconhecidas. Conferidos27arquivos congelados, originais físicos, dez partes/faixas e12raw com142IDs prévios disjuntos. Todos os blocos concluídos; SRTausente, sem novaASR, escuta ou revisão visual. AtribuiçãoElle/convidados e publicidade permanecem separadas.
+Conferidos quatroHTML/TXT preservados e oito hashes: postid/shortlink distinguem8723(chumbo) de473(homeopatia). A [comparação integral das duas rotas de Fluoride](wiki/fontes/wapf-identidades-colisoes.md) encontra somente a linha de navegação de tradução como diferença; hash dos demais textos é idêntico. Acrescentada correção sem reescrever osIDs originais de catálogo ou confundir URLs com artigos independentes.
+
+
+## [2026-11-25] ingestão | MDA: Zach Bush eTerri Cole,144 IDs incrementais
+
+Incorporada [leitura integral dos doisTXT](raw/youtube-mda-pos142-2-2026-11-25.json),1.632 linhas/151.859caracteres, sem novas receitas/passagens reconhecidas. Conferidos27 arquivos congelados, originais físicos, dez partes/faixas e12 raw com142 IDs prévios disjuntos. Todos os blocos concluídos; SRT ausente, sem novaASR, escuta ou revisão visual. AtribuiçãoElle/convidados e publicidade permanecem separadas.
 
 
 ## [2026-11-25] ingestão | Sete tabelas e quatro figuras do artigo hormonal WAPF
 
-Preenchida a lacuna visual do45 por [leitura integral dos11objetos](wiki/fontes/wapf-hormonal-tabelas.md),11HTTP200 e hashes físicos. Transcrição própria completa no acervo; revisor leu parecer e reviu tabelas3/5/7. Registrados quatro usos de caldo/cardápio com medidas, sem confundir cup de arroz com cup de caldo, totais dietéticos com composição ou casos com ensaio isolado. O título cortado da figura1 permanece limitado.
+Preenchida a lacuna visual do45 por [leitura integral dos11 objetos](wiki/fontes/wapf-hormonal-tabelas.md),11 HTTP200 e hashes físicos. Transcrição própria completa no acervo; revisor leu parecer e reviu tabelas 3/5/7. Registrados quatro usos de caldo/cardápio com medidas, sem confundir cup de arroz com cup de caldo, totais dietéticos com composição ou casos com ensaio isolado. O título cortado da figura 1 permanece limitado.

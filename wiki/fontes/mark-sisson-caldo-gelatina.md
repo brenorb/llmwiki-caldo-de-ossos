@@ -214,7 +214,7 @@ A entrevista [Ancient Remedies](https://www.youtube.com/watch?v=FxIbJEhMrzQ) é 
 | Axe,50:41–50:49 | VitaminaK é citada no **aipo**, sem quantificação,tipo ou teor no caldo. |
 | Axe,55:26–55:33 | Aveia com berries e colágeno **ou pó de caldo**; smoothie de abóbora com pó de caldo; depois sopa de frango com vegetais. Sem quantidades ou preparo do caldo/pó. As12h anteriores dizem respeito a cozinhar grãos, não a extrair caldo. |
 
-A aveia/fruta/abóbora permanecem no original; citar pó de caldo não torna o preparo low carb ou um gel de gelatina. Nos demais textos, a enumeração deB9 por Kyrin é genérica, sem caldo/pigmentação. O anúncio de bone broths ao fim de Tara é comercial, sem fórmula. A vinheta identificada como Sisson em John Assaraf não torna a entrevista deElleRuss uma declaração dele sobre o tema.
+A aveia/fruta/abóbora permanecem no original; citar pó de caldo não torna o preparo low carb ou um gel de gelatina. Nos demais textos, a enumeração de B9 por Kyrin é genérica, sem caldo/pigmentação. O anúncio de bone broths ao fim de Tara é comercial, sem fórmula. A vinheta identificada como Sisson em John Assaraf não torna a entrevista deElle Russ uma declaração dele sobre o tema.
 
 
 ## Lacunas de mídia após a rodada de processamento
@@ -224,6 +224,6 @@ A aveia/fruta/abóbora permanecem no original; citar pó de caldo não torna o p
 
 ## Zach Bush e Terri Cole: dois textos completos sem receitas do tema
 
-O [corte posterior aos142](../../raw/youtube-mda-pos142-2-2026-11-25.json) acrescenta *Your Microbiome and Health* e *Boundary Boss*:1.632linhas/151.859caracteres integralmente lidos, com abertura, anúncios e encerramento;85/85e88/88blocos concluídos. Os doisIDs são disjuntos dos142 anteriores, chegando a144leituras incrementais. Não é todo o histórico do canal.
+O [corte posterior aos142](../../raw/youtube-mda-pos142-2-2026-11-25.json) acrescenta *Your Microbiome and Health* e *Boundary Boss*:1.632 linhas/151.859caracteres integralmente lidos, com abertura, anúncios e encerramento;85/85e88/88 blocos concluídos. Os doisIDs são disjuntos dos142 anteriores, chegando a144leituras incrementais. Não é todo o histórico do canal.
 
-Elle Russ entrevista os dois convidados; nenhuma fala temática foi estabelecida como deSisson ouBradKearns. Zach promoveION/Restore e discute modelos de microbioma; Terri promove livro/curso. Nenhum dosTXT contém receita ou menção explícita de caldo/gelatina/colágeno/tutano, B9/K/cobre ou repigmentação. Alegações de produtos e de saúde não foram validadas. Negativo vale para texto reconhecido, sem escuta/visualização integral. Não háSRT no acervo conhecido; as partesTXT recompõem os originais sem cortes de duração, preservando duplicações/erros doASR.
+Elle Russ entrevista os dois convidados; nenhuma fala temática foi estabelecida como de Sisson ou Brad Kearns. Zach promoveION/Restore e discute modelos de microbioma; Terri promove livro/curso. Nenhum dosTXT contém receita ou menção explícita de caldo/gelatina/colágeno/tutano, B9/K/cobre ou repigmentação. Alegações de produtos e de saúde não foram validadas. Negativo vale para texto reconhecido, sem escuta/visualização integral. Não háSRT no acervo conhecido; as partesTXT recompõem os originais sem cortes de duração, preservando duplicações/erros do ASR.

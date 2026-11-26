@@ -1,6 +1,6 @@
 # WAPF: sexto lote de cinquenta textos health
 
-Leitura integral dos50 TXT atuais por três subagentes, em25/11/2026: **4.657linhas e1.368.553caracteres**, incluindo referências e finais. O revisor leu os três pareceres completos e reconferiu50 identidades de catálogo/recuperação/ledger,100 hashes físicos HTML/TXT e todas as faixas inclusivas. [Inventário por fonte](../../raw/wapf-health-lote6-50-2026-11-25.tsv) · [Registro e limites](../../raw/wapf-health-lote6-50-2026-11-25.json)
+Leitura integral dos50 TXT atuais por três subagentes, em25/11/2026: **4.657 linhas e1.368.553caracteres**, incluindo referências e finais. O revisor leu os três pareceres completos e reconferiu50 identidades de catálogo/recuperação/ledger,100 hashes físicos HTML/TXT e todas as faixas inclusivas. [Inventário por fonte](../../raw/wapf-health-lote6-50-2026-11-25.tsv) · [Registro e limites](../../raw/wapf-health-lote6-50-2026-11-25.json)
 
 A seleção vai de *Restoring Male Fertility* a *The Wit, Wisdom and Naughtiness of Julia Child*. São textos de orientações, opinião, revisão narrativa, história, relatos e receitas; encontrar uma referência científica no corpo não equivale a ler ou validar seu destino. HTML foi preservado e conferido por hash; imagens, comentários, mídias e destinos externos não receberam leitura por associação.
 
@@ -29,7 +29,7 @@ No41, “TCM” é **triglicerídeos de cadeia média** em discussão experiment
 
 ## Identidade e limites da contagem
 
-O lote é disjunto porURLs eIDs de catálogo dos256 registros prévios. Estes têm256URLs distintas, mas254IDs tipados:473 foi reutilizado para dois títulos diferentes;6185 para duas rotas de *Fluoride: Worse than We Thought*. Os IDs foram copiados do catálogo, não extraídos independentemente doHTTP. Canônicos/hashes registrados são distintos; não se concluiu equivalência nem independência histórica só pelo ID. Assim, a soma descreve **306URLs com provas textuais**, sem afirmar306 artigos independentes. [Detalhes de conciliação](../../raw/wapf-health-lote6-50-2026-11-25.json)
+O lote é disjunto porURLs eIDs de catálogo dos256 registros prévios. Estes têm256 URLs distintas, mas254 IDs tipados:473 foi reutilizado para dois títulos diferentes;6185 para duas rotas de *Fluoride: Worse than We Thought*. Os IDs foram copiados do catálogo, não extraídos independentemente doHTTP. Canônicos/hashes registrados são distintos; não se concluiu equivalência nem independência histórica só pelo ID. Assim, a soma descreve **306 URLs com provas textuais**, sem afirmar306 artigos independentes. [Detalhes de conciliação](../../raw/wapf-health-lote6-50-2026-11-25.json)
 
 Preservados: título extraído ausente no02 contra título do catálogo e cabeçalho do corpo; Tedd/TedKoren no15; canonical alemão diferente da URL solicitada no40; IDs legados em forma deURL no47/49. Estes últimos são artigos curtos substantivos, não landings, mas a leitura atual não prova equivalência a uma edição histórica. Os50 corpos diferem em caracteres da extração anterior, sem concluir corte histórico apenas dessa diferença. Há atualizações2019–2022 no11, incluídas na leitura.
 
@@ -39,7 +39,7 @@ Ler todo TXT disponível não cobre figuras/tabelas em imagem, gravações, come
 O [caderno culinário do lote](../temas/receitas-wapf-medidas-health6.md) reúne todas as preparações dos pareceres, com medidas, método, tempo, rendimento informado e ausências. As adaptações estão separadas dos originais.
 
 
-**Conferência posterior de identidade:** o [HTML dos quatro registros](wapf-identidades-colisoes.md) identifica8723 no texto de chumbo e473 em homeopatia. As duas rotas deFluoride têm TXT completos iguais exceto uma linha de tradução/navegação. A soma porURL permanece válida como cobertura de leitura; esse par não conta como dois artigos independentes.
+**Conferência posterior de identidade:** o [HTML dos quatro registros](wapf-identidades-colisoes.md) identifica8723 no texto de chumbo e473 em homeopatia. As duas rotas de Fluoride têm TXT completos iguais exceto uma linha de tradução/navegação. A soma porURL permanece válida como cobertura de leitura; esse par não conta como dois artigos independentes.
 
 
-**Complemento visual posterior:** as [sete tabelas e quatro figuras do45](wapf-hormonal-tabelas.md) foram recuperadas e lidas integralmente. A lacuna doTXT permanece como registro daquela etapa; agora há medidas de cardápio, com caldo/arroz distintos, sem análise química ou ensaio isolado do caldo.
+**Complemento visual posterior:** as [sete tabelas e quatro figuras do45](wapf-hormonal-tabelas.md) foram recuperadas e lidas integralmente. A lacuna do TXT permanece como registro daquela etapa; agora há medidas de cardápio, com caldo/arroz distintos, sem análise química ou ensaio isolado do caldo.

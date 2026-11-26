@@ -1262,3 +1262,7 @@ Lidos pelo revisor [três primeiros textos](wiki/fontes/wapf-health-sem-hits3.md
 ## [2026-11-26] ingestão |Oiling of America:vídeo integral sem limite e fragmento culinário
 
 Transcrito [vídeo1h16min28s](wiki/fontes/wapf-oiling-america-video.md),39/39 blocos ordenados/saída0,687linhas/65.568caracteres integralmente lidos pelo revisor. Confirmados canal/ID/upload/duração e hashes; sem escuta ou slides vistos. O [fragmento de scrapple](wiki/temas/receitas-wapf-oiling-video.md) preserva cabeça/coração/língua/fígado/banha e ausências, sem receita inventada. K2/cobre cardiovasculares e alegações sobre estudos não viraram teor de caldo, intervenção capilar ou recomendação clínica; sátira não é preparo.
+
+## [2026-11-26] revisão |Completude multilíngue e remissão de relato existente
+
+[Instruções dawiki](AGENTS.md#pedidos-de-cobertura-completa) reforçam inventário exato e leitura de todos oscorpos pedidos: contexto lexical não exclui preparo fora do trecho ou emoutroidioma. As filas editoriais/secundárias passam a exigir íntegras antes dafila semhits, preservando etapas já congeladas. A [matriz](wiki/temas/relatos-e-evidencia.md) liga a íntegraEN258 ao relato deeczema anterior, sem novo caso independente. Processamento, autoria poragente, versões e privacidade mantêm controles separados.

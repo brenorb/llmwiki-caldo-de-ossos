@@ -18,6 +18,14 @@ As páginas públicas apontam para as fontes externas. Cópias de trabalho e seu
 4. Atualize índice, proveniência e log. Use cabeçalhos de log no formato `## [AAAA-MM-DD] ingestão | assunto`. Execute `python3 scripts/verificar-links.py`.
 5. Transcreva a gravação inteira, independentemente da duração. Se o transcritor exigir trechos menores, divida a faixa em blocos e remonte a transcrição com os tempos da gravação original. Confira a cobertura até o último bloco e registre problemas de acesso à mídia ou trechos inaudíveis no inventário.
 
+## Pedidos de cobertura completa
+
+- Quando a solicitação for “tudo” ou “todos”, fixe e preserve o inventário do universo solicitado antes de selecionar as provas. Concilie cada URL/identidade/versão com o que foi efetivamente lido, e declare os limites do universo. Um catálogo selecionado não equivale ao site ou histórico inteiro.
+- Busca lexical, títulos, índices, contextos e hashes localizam ou validam objetos; não substituem a leitura integral solicitada. Uma ocorrência financeira ou fisiológica no trecho não exclui preparo culinário em outra passagem. Complete o corpo textual disponível inteiro, inclusive traduções, referências e finais, ou registre explicitamente a pendência.
+- Separe prova de aquisição/extração, processamento ASR, leitura semântica e exame visual/escuta. Não transfira leitura entre versões, traduções, reedições ou objetos por título/ID/canonical. Templates iguais, como controles de impressão, não comprovam identidade de artigo.
+- Identifique a leitura feita por agente como tal, sem promovê-la a leitura humana. Preserve declarações anteriores sem hash com seu alcance próprio; ausência de prova exata localizada não significa que ninguém leu.
+- Faça commits frequentes e atômicos por assunto. Antes de publicar, confira arquivos novos/alterados quanto a dados pessoais, credenciais, cookies e caminhos privados; mantenha transcrições/cópias protegidas no acervo privado e publique síntese própria e proveniência.
+
 ## Consulta
 
 Comece pelo índice, siga os links para as notas e consulte o original quando houver ambiguidade. Em questões de saúde, separe composição, biomarcadores, desfechos clínicos e validade externa. Registre uma síntese nova na wiki quando ela preencher uma lacuna durável. Para segurança alimentar, revalide a fonte e o contexto de aplicação antes de atualizar um limite.

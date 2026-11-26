@@ -34,3 +34,6 @@ O lote é disjunto porURLs eIDs de catálogo dos256 registros prévios. Estes t�
 Preservados: título extraído ausente no02 contra título do catálogo e cabeçalho do corpo; Tedd/TedKoren no15; canonical alemão diferente da URL solicitada no40; IDs legados em forma deURL no47/49. Estes últimos são artigos curtos substantivos, não landings, mas a leitura atual não prova equivalência a uma edição histórica. Os50 corpos diferem em caracteres da extração anterior, sem concluir corte histórico apenas dessa diferença. Há atualizações2019–2022 no11, incluídas na leitura.
 
 Ler todo TXT disponível não cobre figuras/tabelas em imagem, gravações, comentários, versões históricas ou estudos externos. Alegações terapêuticas são atribuídas aos autores e não viraram orientação clínica. Tempos culinários não são validação de conservação ou eficácia. [Cobertura geral e pendências](../cobertura.md)
+
+
+O [caderno culinário do lote](../temas/receitas-wapf-medidas-health6.md) reúne todas as preparações dos pareceres, com medidas, método, tempo, rendimento informado e ausências. As adaptações estão separadas dos originais.

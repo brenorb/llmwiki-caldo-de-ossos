@@ -271,3 +271,8 @@ Os [preparos, medidas e ausências](../temas/receitas-wapf-seis-narrativos.md) p
 
 
 A referência136 de *High-Lysine* foi conferida separadamente no [original deAl-Malki2015](al-malki-2015-lisina-pancreatite.md): catalase pancreática em camundongos, sem pigmentação capilar ou caldo, com inconsistências de dose e de descrição dos grupos preservadas.
+
+
+## Sexto lote health: receitas, relatos e limites
+
+A [nota dos50 textos](wapf-health-lote6-2026-11-25.md) reúne achados, cartas divergentes, vitaminas em contextos distintos e ressalva de glutamato sem dose medida. O [caderno culinário](../temas/receitas-wapf-medidas-health6.md) preserva receitas e adaptações, incluindo arroz/mel/pão originais. As sete tabelas de *Nutrition For Hormonal Balance* não estão noTXT e não foram lidas como imagem; referências externas não foram abertas por associação.

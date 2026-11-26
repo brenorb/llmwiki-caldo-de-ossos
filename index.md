@@ -14,6 +14,7 @@
 - [Medidas WAPF complementares: caldos, gelatinas e pratos](wiki/temas/receitas-wapf-medidas-health4.md)
 - [Chili, ramen, sopas e gelatinas WAPF: medidas e adaptações](wiki/temas/receitas-wapf-medidas-health5.md)
 - [Congee, soubise e sopas nos seis textos narrativos WAPF](wiki/temas/receitas-wapf-seis-narrativos.md)
+- [Sorvete com gelatina, sopa de pele e caldo com coco: medidas WAPF](wiki/temas/receitas-wapf-medidas-health6.md)
 - [Receitas de caldo de frango, pés de frango, bovino e outras variações](wiki/temas/receitas-caldo.md)
 - [Gelatinas, mousses e adaptações com menos carboidratos](wiki/temas/receitas-gelatina.md)
 - [23 fichas e quatro cocktails da Primal Kitchen, mais duas receitas da WAPF com colágeno](wiki/temas/receitas-peptideos.md)

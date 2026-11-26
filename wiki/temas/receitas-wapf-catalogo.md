@@ -1,5 +1,7 @@
 # Weston A. Price Foundation · Catálogo de receitas com caldo ou gelatina
 
+O [caderno do sexto lote](receitas-wapf-medidas-health6.md) detalha sorvete de coco com gelatina, sopa de ossos/vegetais, sopa de pele de porco, caldo com coco e outros usos. As versões com mel, arroz e pão permanecem lado a lado com as propostas de menos carboidratos.
+
 O [caderno do quinto lote](receitas-wapf-medidas-health5.md) reúne medidas e etapas de chili, ramen, hambúrgueres de salmão com gelatina, sopas e gelatina de frutas, com ingredientes amiláceos e adaptações identificados.
 
 As duas categorias culinárias listavam 73 páginas na consulta de 2026-11-11. A tabela inclui as 52 de [sopas, caldos e fundos](https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/soups/) e as 21 de [gelatina](https://www.westonaprice.org/category/our-blogs/recipe-of-the-week/gelatin/). Foram consultadas as listas de ingredientes no texto indexado e as seções de preparo, cobertura ou comentários quando relevantes para esclarecer o uso de caldo e os acompanhamentos. As páginas incluem quatro receitas sem caldo ou gelatina, uma receita com caldo sugerido nos comentários e um artigo técnico sobre gelatina. [Inventário e cobertura da pesquisa](../../raw/inventario-wapf-receitas.md)

@@ -1063,3 +1063,8 @@ Incorporadas [provas e síntese do lote6](wiki/fontes/wapf-health-lote6-2026-11-
 ## [2026-11-25] ingestão | Seis consultas WAPF antes narrativas
 
 Incorporadas [provas individuais dos seis TXT](raw/wapf-health-seis-narrativos-2026-11-25.json):651linhas/205.970caracteres,12hashes conferidos e faixas integrais. Zero fontes novas; contagem porURL distingue colisões deID. [Caderno culinário](wiki/temas/receitas-wapf-seis-narrativos.md), fonte e medicina chinesa preservam receitas incompletas, arroz/batata/ervilha, Ayurveda distinto deMTC e benefícios apenas atribuídos. A avaliação integral deAl-Malki tem nota própria anterior.
+
+
+## [2026-11-25] ingestão | Caderno culinário do sexto lote e cobertura306URLs
+
+Revisado o rascunho completo e incorporadas [receitas e descrições](wiki/temas/receitas-wapf-medidas-health6.md), com sorvete/gelatina, sopa de ossos, pele de porco e caldo/coco, além de registros incompletos/históricos. Adaptações low carb permanecem qualitativas e não testadas. A cobertura de positivos passou a306URLs com prova textual, sem equivaler a306artigos independentes.

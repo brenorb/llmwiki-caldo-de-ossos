@@ -256,3 +256,6 @@ Caldo, gelatinas e sobremesas com creme continuam perecíveis. Mantenha refriger
 ## Gelatina de frutas WAPF: original e adaptação
 
 A [ficha Gelatin Fruit Snacks](receitas-wapf-medidas-health5.md#gelatin-fruit-snacks) preserva a fórmula com suco, fruta, gelatina e mel e o modo de preparo. Suco sem açúcar adicionado ainda contém açúcares. A alternativa com infusão, frutas vermelhas e adoçante é uma proposta da wiki, sem proporção ou textura testadas; trocar apenas o mel não elimina os carboidratos do suco.
+
+
+O [sorvete de coco com gelatina da WAPF](receitas-wapf-medidas-health6.md#16--dairy-free-gaps-friendly-coconut-ice-cream) informa medidas, hidratação e etapa no freezer. O original contém¼xícara de mel; a versão com adoçante é proposta editorial sem equivalência de quantidade/textura testada.

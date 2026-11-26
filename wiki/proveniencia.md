@@ -147,3 +147,6 @@ O [sexto lote health](fontes/wapf-health-lote6-2026-11-25.md) tem50 corpos atuai
 
 
 Os [seis textos antes narrativos](../raw/wapf-health-seis-narrativos-2026-11-25.json) ganharam provas individuais:651linhas/205.970caracteres e12hashes físicos conferidos. São zero fontes novas. O [caderno](temas/receitas-wapf-seis-narrativos.md) preserva proporções incompletas, amidos e categorias distintas de Ayurveda/congee; K injetada e vitaminas de outros alimentos não viraram composição de caldo. A contagem250+6é deURLs, com colisões deIDs registradas no [lote6](fontes/wapf-health-lote6-2026-11-25.md).
+
+
+O [caderno culinário do sexto lote](temas/receitas-wapf-medidas-health6.md) conserva medidas/etapas das fontes e distingue propostas não testadas. Sorvete com mel não virou fórmula sem açúcar por mera menção de monk fruit no artigo; mousse com arroz não foi identificada como salmão com couve-flor.

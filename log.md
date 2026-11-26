@@ -1238,3 +1238,7 @@ Lidas as332 linhas da [nova versão181](wiki/fontes/wapf-audio-en-181-leitura.md
 ## [2026-11-26] revisão |Catálogo original887:conciliação completa porURL
 
 Publicada [tabela887](wiki/fontes/wapf-universo887.md):886 correspondências exatas e um alias documentado, sem faltas/extras/faixas incompletas. Conferidos parecer,12 entregáveis,1.875 insumos e1.808 arquivos físicos;87.057 linhas/19.742.618 caracteres são versões já lidas por agentes. Três colisões de ID,16 diferenças de objeto,39 de título e25 canonicals preservadas. Este fechamento não inclui todo o site, negativos, livros, imagens, áudios ou destinos por associação.
+
+## [2026-11-26] ingestão |921 alvos health:inventário completo e fila de adjudicação
+
+Registrados [921HTTP200](wiki/fontes/wapf-health-aquisicao921.md),12 remissões/909 GETs novos,56.663 linhas/16.458.216 caracteres e6.933 comentários extraídos. Conferidos relatório, entregáveis e todos os hashes físicos. Sem leitura semântica criada pela aquisição:286 flags editoriais,84 secundários e125 comentários aguardam adjudicação;522 sem hit não são irrelevantes comprovados. Dezessete controles iguais foram retirados da inferência de alias/leitura; recuperação de main tem prova separada.

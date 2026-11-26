@@ -325,3 +325,5 @@
 - [Wise Traditions181:leitura integral e anúncio recuperado na versão consolidada](wiki/fontes/wapf-audio-en-181-leitura.md)
 
 - [WAPF:catálogo original887 — tabela completa deURLs, versões e limites](wiki/fontes/wapf-universo887.md)
+
+- [WAPF:921 alvos health — aquisição completa, filas e lacunas de leitura](wiki/fontes/wapf-health-aquisicao921.md)

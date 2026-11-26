@@ -1234,3 +1234,7 @@ Incorporados [11 editoriais novos integrais e um alias](wiki/fontes/wapf-health-
 ## [2026-11-26] revisão |181:leitura integral e anúncio omitido pelo reconhecimento
 
 Lidas as332 linhas da [nova versão181](wiki/fontes/wapf-audio-en-181-leitura.md). Revisão ASR do trecho18:40–20:40 recuperou anúncio omitido; montadas341 linhas, com mapa exato e originais preservados. Segmento focal120s é revisão de acurácia, sem corte da gravação31min30,339s. Anúncios de órgãos/gelatina e condições digestivas não viraram receita, composição ou evidência de eficácia. Conferidos três hashes, faixas e montagem; sem escuta integral ou promessa de reconhecimento perfeito.
+
+## [2026-11-26] revisão |Catálogo original887:conciliação completa porURL
+
+Publicada [tabela887](wiki/fontes/wapf-universo887.md):886 correspondências exatas e um alias documentado, sem faltas/extras/faixas incompletas. Conferidos parecer,12 entregáveis,1.875 insumos e1.808 arquivos físicos;87.057 linhas/19.742.618 caracteres são versões já lidas por agentes. Três colisões de ID,16 diferenças de objeto,39 de título e25 canonicals preservadas. Este fechamento não inclui todo o site, negativos, livros, imagens, áudios ou destinos por associação.

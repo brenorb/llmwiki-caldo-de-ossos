@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-26",
+  "guid": "da2e32fbccc14c668c989f148171a674",
+  "episode": 181,
+  "page": "https://wisetraditions.libsyn.com/181-food-lies-exposed",
+  "title": "181: Food lies exposed",
+  "source_duration_seconds": 1890.338957,
+  "new_attempt": 1,
+  "started_utc": "2026-11-26T19:28:33.660613+00:00",
+  "finished_utc": "2026-11-26T19:31:01.857530+00:00",
+  "pid": 83051,
+  "exit_code": 0,
+  "wall_seconds": 148.14971749996766,
+  "per_recording_timeout": null,
+  "duration_cutoff": null,
+  "asr_model": "parakeet-v3-int8",
+  "options": [
+    "--text",
+    "--raw"
+  ],
+  "ordered_chunk_indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "expected_chunks": 17,
+  "done_declarations": 1,
+  "timestamped_lines": 332,
+  "text_characters": 34550,
+  "first_timestamp_seconds": 0,
+  "last_start_timestamp_seconds": 1885,
+  "maximum_start_timestamp_seconds": 1885,
+  "timestamp_backtracks": 0,
+  "same_adjacent_timestamp_starts": 8,
+  "sha256": {
+    "input_media": "a36865c4b10bac80d6c6dbadcb741d14decf8b475f99375fd61225a4c473e5f9",
+    "new_text": "7c049587cbd836a52624b39edc06753867d6c947d72045df90d232f7bd9fb464",
+    "new_log": "c0dcd8d17fd8e0d20bc65ee695aa779e64ad7b5a7b1000bbc5106dfc180ff2c2",
+    "private_run_metadata": "cd32d184340a4230efad5f5ac0422bae02e3f64be532df579728f066c7ef9ca3",
+    "execution_script": "93d2936457d99a1b212f457c17108e6c2ac25b69a0d0d02aa6e02df9d8f1009b",
+    "executable": "fb81592e5e7010d52b5a727e8657a0501abb7aaf9920df0ab28edb69c120c790"
+  },
+  "original_artifacts_unchanged": {
+    "mp3": {
+      "sha256_before": "a36865c4b10bac80d6c6dbadcb741d14decf8b475f99375fd61225a4c473e5f9",
+      "sha256_after": "a36865c4b10bac80d6c6dbadcb741d14decf8b475f99375fd61225a4c473e5f9"
+    },
+    "txt": {
+      "sha256_before": "a92a91386ad21ce9c0b3c2528a8e5d89b9f3dd807ee649ba60fb74072d7c7c7f",
+      "sha256_after": "a92a91386ad21ce9c0b3c2528a8e5d89b9f3dd807ee649ba60fb74072d7c7c7f"
+    },
+    "log": {
+      "sha256_before": "1391e926d3aceb919ab275e4723af47b5ea3e993836023fff48437f5e05b0f4f",
+      "sha256_after": "1391e926d3aceb919ab275e4723af47b5ea3e993836023fff48437f5e05b0f4f"
+    },
+    "verified.json": {
+      "sha256_before": "3483b867739759e704da85035d7324dc738f80359097466bd8ee684fa1676770",
+      "sha256_after": "3483b867739759e704da85035d7324dc738f80359097466bd8ee684fa1676770"
+    }
+  },
+  "validation_scope": "Full isolated log and all timestamp line prefixes checked. Original4 artifact hashes rechecked. This is processing provenance; no full semantic reading or listening of new TXT/audio. Executable hash does not identify every library/model dependency. Final timestamp marks start, not end, of last segment.",
+  "historical_audit_preserved": true,
+  "updated_selected237_processing_evidence": {
+    "original_strict_sequences": 236,
+    "new_isolated_sequence_for_previously_ambiguous_guid": 1,
+    "unique_selected_guids_with_strict_sequence_version": 237,
+    "historical_ambiguous_logs_not_rewritten": 1
+  },
+  "limitations": [
+    "Automatic speech recognition may misrecognize words, names or numbers.",
+    "No claim of all608 English RSS recordings processed or read.",
+    "Private media/transcript/log remain outside public Git; public record contains hashes and provenance only."
+  ]
+}

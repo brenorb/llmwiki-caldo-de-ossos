@@ -1170,3 +1170,7 @@ Criada [nota terminológica](wiki/fontes/hialuronano-terminologia.md) com defini
 ## [2026-11-26] ingestão | Cinquenta resenhas completas e aplicações culinárias parciais
 
 Incorporadas [50 resenhas](wiki/fontes/wapf-book-review50.md),922 linhas/328.787 caracteres. Revisor leu parecer/caderno/QA autoral inteiros, conferiu100 hashes/faixas e focais11/30/34/35/38. [Caderno](wiki/temas/aplicacoes-wapf-resenhas50.md) preserva todas descrições, quatro ou mais libras/galão, alternativas de chowder e fragmento vegetal, sem fórmula temática completa ou livro reconstruído. Identidades e autoria mantidas; rótulo legadohuman foi explicitado como leitura por agente. Não foram somados livros ou estudos prometidos como lidos.
+
+## [2026-11-26] ingestão | Episódio181: transcrição integral com log isolado
+
+Concluída [nova versão de181](raw/wapf-audio-en-181-isolado-2026-11-26.json),31min30,339s, sem limite de duração/timeout por gravação. Log isolado17/17 blocos, saída0,332 linhas; conferidos log inteiro, timestamps e hashes originais inalterados. A [nota da seleção237](wiki/fontes/wapf-audio-en-processamento237.md) separa a nova prova da auditoria histórica e da acurácia/leitura semântica ainda não realizadas nesta validação.

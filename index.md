@@ -11,6 +11,7 @@
 - [Caldo na medicina chinesa, evidência e receita de costela com daikon](wiki/temas/medicina-chinesa.md)
 - [Receitas de caldo e gelatina de Mark’s Daily Apple](wiki/temas/receitas-mark-sisson.md)
 - [Receitas da Weston A. Price Foundation, com caldo, gelatina e adaptações](wiki/temas/receitas-wapf-catalogo.md)
+- [Medidas WAPF complementares: caldos, gelatinas e pratos](wiki/temas/receitas-wapf-medidas-health4.md)
 - [Receitas de caldo de frango, pés de frango, bovino e outras variações](wiki/temas/receitas-caldo.md)
 - [Gelatinas, mousses e adaptações com menos carboidratos](wiki/temas/receitas-gelatina.md)
 - [23 fichas e quatro cocktails da Primal Kitchen, mais duas receitas da WAPF com colágeno](wiki/temas/receitas-peptideos.md)

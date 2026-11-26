@@ -503,3 +503,20 @@ A [parteII do seminário](https://www.westonaprice.org/wp-content/uploads/Semina
 | Redução,171 | Começar com vários quarts de caldo e reduzir até engrossar; vinho/conhaque/ervas/manteiga/creme opcionais. | Sem fator final ou tempo. A redução concentra também ingredientes dissolvidos; não determina teor de gelatina/minerais por porção. Para menos carboidratos, evitar vinho adoçado e creme com açúcar; não exige farinha. |
 
 As notas são descrição culinária, sem validar alegações de digestão ou desintoxicação. Para resfriamento/armazenamento use a [orientação de segurança](seguranca-conservacao.md) da wiki.
+
+## Caldo de coelho, aspic e terrinas: medidas da reconsulta
+
+O [caderno de medidas do quarto lote](receitas-wapf-medidas-health4.md) complementa os quatro preparos de coelho e as terrinas já representados, com proporções, tempos, rendimento ausente e ingredientes com amido/açúcar identificados. A culinária eslovena acrescenta duas descrições abaixo, sem inventar proporções faltantes.
+
+| Preparo e fonte | Uso de caldo/gelatina | Carboidratos originais | Possibilidade com menos amido |
+|---|---|---|---|
+| [Žolce, aspic esloveno](https://www.westonaprice.org/health-topics/food-features/soups-stews-and-one-pot-meals-of-slovenia/) | Ossos de presunto e bovinos/suínos geram caldo que firma com a carne;8–9h, sem medidas/rendimento. | Não há farinha ou açúcar indicados nessa descrição. | Usar a ideia com uma [base medida](receitas-caldo.md); não inferir concentração de gelatina por estar firme. |
+| [Jota](https://www.westonaprice.org/health-topics/food-features/soups-stews-and-one-pot-meals-of-slovenia/) | Sopa de pés suínos, chucrute/nabo e carnes. | Feijão, batata e roux de trigo. | Para outro ensopado, omitir esses três e usar repolho/cogumelos; não é reprodução testada da sopa tradicional. A [fórmula e suas inconsistências](receitas-wapf-medidas-health4.md) permanecem explícitas. |
+
+O mesmo [caderno complementar](receitas-wapf-medidas-health4.md) agora documenta as medidas dos caldos de *Broth is Beautiful* e *Essential Recipes*, da panna cotta e de pratos já listados, além de tartare e pastéis doces de tutano. Pastéis têm açúcar/passas/massa; o molho BBQ tem **2 xícaras de melaço**, portanto caldo na fórmula não o torna low carb. Alternativas da fonte e propostas da wiki ficam em colunas distintas.
+
+| Fórmula adicional da página já conhecida | Uso de caldo/tutano | Carboidratos e proposta editorial |
+|---|---|---|
+| [Stock / broth de Essential Recipes](https://www.westonaprice.org/health-topics/food-features/essential-recipes-for-the-wise-family/) | Ave inteira ou assado de3–4lb, água/aromáticos/vinagre; ≥12h. A autora chama de broth a variante com ossos previamente assados. [Medidas/lacunas](receitas-wapf-medidas-health4.md) | A base não exige farinha/açúcar; vinho e serviço com arroz/grãos são escolhas distintas. Sem rendimento ou macros. |
+| [Steak Tartare with Bone Marrow](https://www.westonaprice.org/health-topics/food-features/bone-marrow/) | Tutano preparado sobre carne/ovo crus temperados e sourdough; fórmula atribuída a adaptação de Richard Corrigan/BBC, sem leitura da BBC nesta etapa. | Torrada está no original. Outro prato pode usar carne cozida/tutano com legumes; não é versão testada da mesma receita. [Medidas](receitas-wapf-medidas-health4.md) |
+| [Marrow Pasties / Sluberkens](https://www.westonaprice.org/health-topics/food-features/bone-marrow/) | Seis pastéis doces com3oz de tutano, açúcar, passas, canela/gemas e massa de iogurte remetida ao livro. | **Não é low carb estabelecida.** Adoçante pode mudar volume/textura; retirar açúcar não define carboidratos da massa desconhecida ou das passas. [Fórmula/lacunas](receitas-wapf-medidas-health4.md) |

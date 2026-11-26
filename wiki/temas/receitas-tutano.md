@@ -27,3 +27,7 @@ Três fórmulas do [artigo de Janine Farzin](https://www.westonaprice.org/health
 [Reconsulta documentada](../../raw/wapf-health-mais50-2026-11-25.tsv); fórmulas não testadas pela wiki.
 
 As afirmações de imunidade, aprendizado, reparo intestinal ou composição feitas nas introduções não são demonstradas pelas receitas. [Relatos e evidência por desfecho](relatos-e-evidencia.md) · [Registro das sete fontes iniciais](../../raw/wapf-receitas-tutano-2026-11-25.json)
+
+## Tartare e pastéis doces na reconsulta de Bone Marrow
+
+O [caderno complementar](receitas-wapf-medidas-health4.md) registra as fórmulas de tartare com tutano e *marrow pasties/sluberkens*, com quantidades e lacunas. O tartare original inclui carne/ovo crus e torrada; os pastéis levam açúcar, passas e massa de iogurte remetida a livro, sem fórmula fornecida no artigo. São originais documentados, sem versão keto testada. A temperatura do custard nessa página aparece sem unidade; a ficha avulsa usada acima tem versão própria e não foi fundida silenciosamente.

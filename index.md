@@ -292,3 +292,6 @@
 
 - [WAPF:42 páginas do quinto lote e fechamento dos242 textos do complemento](wiki/fontes/wapf-other-lote5-42.md)
 - [Sopa de frango, curry com caldo, sopa bovina e versões com menos carboidratos](wiki/temas/receitas-wapf-other-lote5.md)
+
+- [WAPF:28 resenhas finais e fechamento das78 do corte](wiki/fontes/wapf-book-review28.md)
+- [Tutano, caldo reduzido e pratos com caldo: descrições parciais das resenhas](wiki/temas/aplicacoes-wapf-resenhas28.md)

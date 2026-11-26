@@ -1,0 +1,1259 @@
+{
+  "date": "2026-11-26",
+  "scope": "28 complete current review TXT, batch2; completes selected78 reviews, not78 books or studies",
+  "counts": {
+    "urls": 28,
+    "lines": 493,
+    "characters": 170144,
+    "physical_hashes_checked": 56
+  },
+  "selected_review_union": {
+    "urls": 78,
+    "lines": 1415,
+    "characters": 498931,
+    "physical_hashes_checked": 156,
+    "all_unique_urls": true
+  },
+  "private_artifact_sha256": {
+    "catalogo-fixo-28.jsonl": "944dbfac87f59fcb35643777fbd031ad4e2d8cc9e0bdac8302d764c3a987ee5d",
+    "recuperacao.jsonl": "e7233502236f8ccfcbda1b7586b06ea823b2477f9c5ecd0909377807f34464af",
+    "verificacao-fisica-leitura-28.json": "6345f0a024715eee947d7e14120bcf204da070b6b7b9e718920a32d0ba2589d9",
+    "notas-progressivas-28.json": "2862006e6a82cc622cad72d1c6018419477d8a769cf836700d60c4821f278c5e",
+    "plano-exibicao-28.json": "d727bfbe472c2f7c781df6a984d6cc882967a49ab595609ca3b1d8d473683e3c",
+    "ledger-faixa-00-13.jsonl": "ce33521849a02b781e1ef8ca9a7c280755e67ec9cecc13a4436fc67562785bcc",
+    "ledger-faixa-14-27.jsonl": "a6dcb71b39c4bd1f97dc324d26851bf0dded9e94502181691006cb8f08671939",
+    "ledger-integral-28.jsonl": "89b14e106e4e55a5de8cecac0b074367946cfd63e8c34c2265ac758f34a04ddf",
+    "prova-extracao-28.jsonl": "9bc7ae463df22d9ded86bcc332e92bc1c8b7b9d954956a864fdf7edb265f7536",
+    "prova-leitura-integral-28.json": "d4db9f71725c97cadc9b35ed1a162017c166df265cc49e47f65ca593edf72902",
+    "parecer-faixa-00-13.md": "d0134b1a4eb1e0c3ab2e9749ab6d4876912de82ccebad4379bfd40eb64b97636",
+    "parecer-faixa-14-27.md": "08df2f6ad6f620af7a21a3d6db9e999dd5a6e009d8a92ca8bcc38f2b3d71561d",
+    "parecer-integral-28.md": "cd6147911703ee2c7380d8a3887e1b6bdc2637cee75db5ca2fe83087fb3fe773",
+    "caderno-culinario-integral-28.md": "0d298a2515634c93649022b63f4528d1ee5f9b0f9855441418f5649799f73d35",
+    "qa-autoral-caderno-28.md": "73ced5d0328c07e1e4ebea63f0d47be76aaaaab6680740df36dd6c298ddaf8ba",
+    "qa-autoral-caderno-28.json": "f9f320768bec1c5ffe1c85fff56c17981806578cc34cd7bf7a058fc0a9959791",
+    "consolidar-leitura-28.py": "fc293028af9bd3f418f316ae492d884722fa558776c893ea2b664d7ba274323b",
+    "manifesto-leitura-integral-28.json": "8962ddcad96c9386fb963274a2ad21e9ebc28519c01f7db7295de3e5e08604cc"
+  },
+  "root_review": {
+    "full_report_and_culinary_notebook_and_author_qa_read": true,
+    "original_focal_reads": {
+      "20": [
+        [
+          1,
+          17
+        ]
+      ],
+      "25": [
+        [
+          1,
+          18
+        ]
+      ],
+      "22": [
+        [
+          16,
+          21
+        ]
+      ]
+    },
+    "original_focal_output_references": [
+      "6cfdb8",
+      "853fac"
+    ],
+    "all56_physical_hashes_and_full_read_ranges_checked": true,
+    "root_full_original28_reread_claim": false,
+    "qa_independent": false
+  },
+  "identity_notes": [
+    "All28 catalogue IDs and HTTP WPIDs concordant.",
+    "Review22 preserves web metadata2010 and two textual layers including Craig Fear2011.",
+    "Reviews06/07 have different authors, dates and URLs; same named book does not merge reviews."
+  ],
+  "scientific_limit": "No complete thematic formula, broth assay or directly read clinical trial supplied in these reviews.",
+  "rows": [
+    {
+      "batch_index": 0,
+      "id": 5202,
+      "catalog_id": 5202,
+      "wordpress_object_id_http_verified": 5202,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/ten-days-to-optimal-health-by-kristina-amelong/",
+      "final_url": "https://www.westonaprice.org/book-reviews/ten-days-to-optimal-health-by-kristina-amelong/",
+      "canonical": "https://www.westonaprice.org/book-reviews/ten-days-to-optimal-health-by-kristina-amelong/",
+      "title_catalog": "Ten Days to Optimal Health by Kristina Amelong",
+      "title_recovered": "Ten Days to Optimal Health by Kristina Amelong",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "December 18, 2006",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:35+00:00"
+      },
+      "catalog_chars": 3297,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:08.415788+00:00",
+      "html_sha256_physical": "0ce96201f2e27ae605ab45d9df3f6eef95db8190ebd066ea0689f40a6a98a3c3",
+      "text_sha256_physical": "6381703a1804932aa93a5755a717d705cf19923ee08c2b8c447e0ed4a9a9621a",
+      "lines": 17,
+      "chars": 3184,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "000-5202.html",
+      "text_locator": "000-5202.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 1,
+      "id": 872,
+      "catalog_id": 872,
+      "wordpress_object_id_http_verified": 872,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/tender-grassfed-barbecue-by-stanley-a-fishman/",
+      "final_url": "https://www.westonaprice.org/book-reviews/tender-grassfed-barbecue-by-stanley-a-fishman/",
+      "canonical": "https://www.westonaprice.org/book-reviews/tender-grassfed-barbecue-by-stanley-a-fishman/",
+      "title_catalog": "Tender Grassfed Barbecue by Stanley A. Fishman",
+      "title_recovered": "Tender Grassfed Barbecue by Stanley A. Fishman",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "July 23, 2012",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:10+00:00"
+      },
+      "catalog_chars": 1621,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:08.690652+00:00",
+      "html_sha256_physical": "28abc86264c536223d5287ab1dbc524a433c92a2c99dbb22b45d8a3de7ecfcbe",
+      "text_sha256_physical": "87850dd46ce4f06d6ed55771f7297c4797879a41f17884458f5aa73ceb47d9f3",
+      "lines": 9,
+      "chars": 1519,
+      "read_ranges_inclusive": [
+        [
+          1,
+          9
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "001-872.html",
+      "text_locator": "001-872.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 2,
+      "id": 3087,
+      "catalog_id": 3087,
+      "wordpress_object_id_http_verified": 3087,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/tender-grassfed-meat-by-stanley-fishman/",
+      "final_url": "https://www.westonaprice.org/book-reviews/tender-grassfed-meat-by-stanley-fishman/",
+      "canonical": "https://www.westonaprice.org/book-reviews/tender-grassfed-meat-by-stanley-fishman/",
+      "title_catalog": "Tender Grassfed Meat by Stanley Fishman",
+      "title_recovered": "Tender Grassfed Meat by Stanley Fishman",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "November 2, 2009",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:31+00:00"
+      },
+      "catalog_chars": 1347,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:08.614448+00:00",
+      "html_sha256_physical": "3f536c67890fd53de456414798bb6cefc3ac9f2343f4ca75f77914be46d318fe",
+      "text_sha256_physical": "80b4698b41b93498f5f1f481f9c31d3e000cfd042fd197b0409899753e68466d",
+      "lines": 8,
+      "chars": 1254,
+      "read_ranges_inclusive": [
+        [
+          1,
+          8
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "002-3087.html",
+      "text_locator": "002-3087.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 3,
+      "id": 2019,
+      "catalog_id": 2019,
+      "wordpress_object_id_http_verified": 2019,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-art-of-living-long-by-luigi-cornaro/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-art-of-living-long-by-luigi-cornaro/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-art-of-living-long-by-luigi-cornaro/",
+      "title_catalog": "Art of Living Long by Luigi Cornaro",
+      "title_recovered": "Art of Living Long by Luigi Cornaro",
+      "author_recovered": "Katherine Czapp",
+      "displayed_date": "April 2, 2011",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:28+00:00"
+      },
+      "catalog_chars": 11301,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:09.644489+00:00",
+      "html_sha256_physical": "f8d28a8dc9b999bf818e27cf1af0683be27cb5d742a14ba5c8ee92824b1788f6",
+      "text_sha256_physical": "f7530a3f44a730063a3555864fe9f1d3132bc34a50e36759d09c8d86b315881e",
+      "lines": 21,
+      "chars": 11187,
+      "read_ranges_inclusive": [
+        [
+          1,
+          21
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "003-2019.html",
+      "text_locator": "003-2019.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 4,
+      "id": 31007,
+      "catalog_id": 31007,
+      "wordpress_object_id_http_verified": 31007,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-carnivore-cookbook-by-jessica-haggard/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-carnivore-cookbook-by-jessica-haggard/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-carnivore-cookbook-by-jessica-haggard/",
+      "title_catalog": "The Carnivore Cookbook by Jessica Haggard",
+      "title_recovered": "The Carnivore Cookbook by Jessica Haggard",
+      "author_recovered": "Merinda Teller, MPH, PhD",
+      "displayed_date": "August 7, 2019",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:16:37+00:00"
+      },
+      "catalog_chars": 2197,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:09.666791+00:00",
+      "html_sha256_physical": "f286b425609a6ff9fab530316ac8fb3003d794c7774af216ed0ca3a9c8e8bffa",
+      "text_sha256_physical": "1fa225d95eca075983d4969585877d274255121304603afff961dbe390161f70",
+      "lines": 6,
+      "chars": 2110,
+      "read_ranges_inclusive": [
+        [
+          1,
+          6
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "004-31007.html",
+      "text_locator": "004-31007.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 5,
+      "id": 31379,
+      "catalog_id": 31379,
+      "wordpress_object_id_http_verified": 31379,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-collagen-diet-by-pamela-schoenfeld/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-collagen-diet-by-pamela-schoenfeld/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-collagen-diet-by-pamela-schoenfeld/",
+      "title_catalog": "The Collagen Diet by Pamela Schoenfeld",
+      "title_recovered": "The Collagen Diet by Pamela Schoenfeld",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "September 11, 2019",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:16:35+00:00"
+      },
+      "catalog_chars": 1852,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:09.795733+00:00",
+      "html_sha256_physical": "610ff6f8d3b9d2b37cc6bf550c579ded328844409de87aa4a6fb90bdda3cea51",
+      "text_sha256_physical": "5c50399602c4ee52d0d9bd4335b63104b1bc9ddf174fe1459b2363f617dfea9e",
+      "lines": 13,
+      "chars": 1817,
+      "read_ranges_inclusive": [
+        [
+          1,
+          13
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "005-31379.html",
+      "text_locator": "005-31379.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 6,
+      "id": 46937,
+      "catalog_id": 46937,
+      "wordpress_object_id_http_verified": 46937,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-complete-cooking-techniques-for-the-gaps-diet-by-monica-corrado-2/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-complete-cooking-techniques-for-the-gaps-diet-by-monica-corrado-2/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-complete-cooking-techniques-for-the-gaps-diet-by-monica-corrado-2/",
+      "title_catalog": "The Complete Cooking Techniques for the GAPS Diet by Monica Corrado",
+      "title_recovered": "The Complete Cooking Techniques for the GAPS Diet by Monica Corrado",
+      "author_recovered": "Jacqueline Garcia",
+      "displayed_date": "February 14, 2025",
+      "meta": {
+        "article:modified_time": "2025-02-28T18:58:53+00:00"
+      },
+      "catalog_chars": 3992,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:10.644213+00:00",
+      "html_sha256_physical": "ff1d57faec7027729e0b6c85b640687e3060cce1d257166e1f37a0d17c3157cf",
+      "text_sha256_physical": "bf529ebb4bc8a4b0960e7b425575318ce934ae0ebc28d9b57e1ffa97705b54cf",
+      "lines": 15,
+      "chars": 3864,
+      "read_ranges_inclusive": [
+        [
+          1,
+          15
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "006-46937.html",
+      "text_locator": "006-46937.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 7,
+      "id": 34527,
+      "catalog_id": 34527,
+      "wordpress_object_id_http_verified": 34527,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-complete-cooking-techniques-for-the-gaps-diet-by-monica-corrado/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-complete-cooking-techniques-for-the-gaps-diet-by-monica-corrado/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-complete-cooking-techniques-for-the-gaps-diet-by-monica-corrado/",
+      "title_catalog": "The Complete Cooking Techniques for the GAPS Diet By Monica Corrado",
+      "title_recovered": "The Complete Cooking Techniques for the GAPS Diet By Monica Corrado",
+      "author_recovered": "Alana Sugar",
+      "displayed_date": "October 26, 2020",
+      "meta": {
+        "article:modified_time": "2020-10-29T19:16:08+00:00"
+      },
+      "catalog_chars": 6344,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:10.934880+00:00",
+      "html_sha256_physical": "b492f97cb1334f5b7d930b0e2ee91dea4378b05b32f898d3c8ca089ea27b9d4f",
+      "text_sha256_physical": "70d89e1e4e8449debbffcdb4540baaf6560e960ef02496fc2bf64c46f5b9ab0c",
+      "lines": 16,
+      "chars": 6215,
+      "read_ranges_inclusive": [
+        [
+          1,
+          16
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "007-34527.html",
+      "text_locator": "007-34527.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 8,
+      "id": 26891,
+      "catalog_id": 26891,
+      "wordpress_object_id_http_verified": 26891,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-craving-cure/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-craving-cure/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-craving-cure/",
+      "title_catalog": "The Craving Cure By Julia Ross",
+      "title_recovered": "The Craving Cure By Julia Ross",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "January 26, 2018",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:16:39+00:00"
+      },
+      "catalog_chars": 3395,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:10.772702+00:00",
+      "html_sha256_physical": "1515f880729fb868e14ca544bf8f241a8d172a2fe699dd3c7a2c07046ed3e683",
+      "text_sha256_physical": "193d024fd2733ac28402174be7d84853cf945062fb2ce66ba17e8a9306314074",
+      "lines": 14,
+      "chars": 3302,
+      "read_ranges_inclusive": [
+        [
+          1,
+          14
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "008-26891.html",
+      "text_locator": "008-26891.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 9,
+      "id": 27607,
+      "catalog_id": 27607,
+      "wordpress_object_id_http_verified": 27607,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-dental-diet-by-dr-steven-lin/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-dental-diet-by-dr-steven-lin/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-dental-diet-by-dr-steven-lin/",
+      "title_catalog": "The Dental Diet By Dr. Steven Lin",
+      "title_recovered": "The Dental Diet By Dr. Steven Lin",
+      "author_recovered": "John Moody",
+      "displayed_date": "May 4, 2018",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:16:38+00:00"
+      },
+      "catalog_chars": 5897,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:11.608701+00:00",
+      "html_sha256_physical": "3bd423e36a270ac7c97a6f6882687eacbf4a1c10d64120511571fa51cfc9ab9c",
+      "text_sha256_physical": "20909b57ffb8c1c229b9f945c01d3489680948ce9168f524126ccf457443029b",
+      "lines": 17,
+      "chars": 5798,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "009-27607.html",
+      "text_locator": "009-27607.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 10,
+      "id": 6898,
+      "catalog_id": 6898,
+      "wordpress_object_id_http_verified": 6898,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-diet-cure-by-julia-ross/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-diet-cure-by-julia-ross/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-diet-cure-by-julia-ross/",
+      "title_catalog": "Diet Cure by Julia Ross",
+      "title_recovered": "Diet Cure by Julia Ross",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "March 30, 2001",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:38+00:00"
+      },
+      "catalog_chars": 3904,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:11.730519+00:00",
+      "html_sha256_physical": "4bdf99a8bcb40a9822896b7cd23539d4e02c79b156ce0a258fc3ea606e9f9530",
+      "text_sha256_physical": "33ab203497c3054558f6bba432785dffbc1e30ebd5a86f3771f6c6c98504f4ec",
+      "lines": 17,
+      "chars": 3810,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "010-6898.html",
+      "text_locator": "010-6898.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 11,
+      "id": 31004,
+      "catalog_id": 31004,
+      "wordpress_object_id_http_verified": 31004,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-fifth-vital-sign-by-lisa-hendrickson-jack/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-fifth-vital-sign-by-lisa-hendrickson-jack/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-fifth-vital-sign-by-lisa-hendrickson-jack/",
+      "title_catalog": "The Fifth Vital Sign by Lisa Hendrickson-Jack",
+      "title_recovered": "The Fifth Vital Sign by Lisa Hendrickson-Jack",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "August 7, 2019",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:16:37+00:00"
+      },
+      "catalog_chars": 2552,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:11.968385+00:00",
+      "html_sha256_physical": "c0b16bf90101f3c2ae57da199a8d589cdb545f3efd74a2514d70a0eb29cb87b8",
+      "text_sha256_physical": "ef052f6148a5e98199bf6e6b3d168e86f514ea1e99f4dd2725750076cd3a3bc1",
+      "lines": 10,
+      "chars": 2453,
+      "read_ranges_inclusive": [
+        [
+          1,
+          10
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "011-31004.html",
+      "text_locator": "011-31004.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 12,
+      "id": 5371,
+      "catalog_id": 5371,
+      "wordpress_object_id_http_verified": 5371,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-fish-that-we-eat-by-anore-jones/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-fish-that-we-eat-by-anore-jones/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-fish-that-we-eat-by-anore-jones/",
+      "title_catalog": "Fish That We Eat by Anore Jones",
+      "title_recovered": "Fish That We Eat by Anore Jones",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "July 15, 2006",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:35+00:00"
+      },
+      "catalog_chars": 3166,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:12.471000+00:00",
+      "html_sha256_physical": "2ca8d7fe1aa4b45ebd0413dfab224258c3426c1315c4086210907760b95f5354",
+      "text_sha256_physical": "bce8bbea8e0d3bcae18a1b6efbf9296ffcfab71852781d0e920c406d5e309962",
+      "lines": 14,
+      "chars": 3073,
+      "read_ranges_inclusive": [
+        [
+          1,
+          14
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "012-5371.html",
+      "text_locator": "012-5371.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 13,
+      "id": 15205,
+      "catalog_id": 15205,
+      "wordpress_object_id_http_verified": 15205,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-funky-kitchen-by-sarica-cernohous/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-funky-kitchen-by-sarica-cernohous/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-funky-kitchen-by-sarica-cernohous/",
+      "title_catalog": "Funky Kitchen by Sarica Cernohous",
+      "title_recovered": "Funky Kitchen by Sarica Cernohous",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "January 20, 2015",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:02+00:00"
+      },
+      "catalog_chars": 1264,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:12.710183+00:00",
+      "html_sha256_physical": "41884806328fdd7fc6f93f6aadfdace5c45f52fc81bcbae67116a287742cddac",
+      "text_sha256_physical": "fa88f45614e8a123ba698b4121fdb93f3c9b38bd8c622b2d811e88553be97852",
+      "lines": 8,
+      "chars": 1180,
+      "read_ranges_inclusive": [
+        [
+          1,
+          8
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "013-15205.html",
+      "text_locator": "013-15205.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 14,
+      "id": 5913,
+      "catalog_id": 5913,
+      "wordpress_object_id_http_verified": 5913,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-grassfed-gourmet-by-shannon-hayes/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-grassfed-gourmet-by-shannon-hayes/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-grassfed-gourmet-by-shannon-hayes/",
+      "title_catalog": "Grassfed Gourmet by Shannon Hayes",
+      "title_recovered": "Grassfed Gourmet by Shannon Hayes",
+      "author_recovered": "John Umlauf",
+      "displayed_date": "January 6, 2005",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:36+00:00"
+      },
+      "catalog_chars": 3379,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:12.929389+00:00",
+      "html_sha256_physical": "e1e9ab94d975fb708481326e0f096694154e1a1a3454be36ffb5e66403287ffb",
+      "text_sha256_physical": "c79675d6dac467fe93613d0215161745dceeb76aff0108eaa942d5ce8c113aaa",
+      "lines": 15,
+      "chars": 3278,
+      "read_ranges_inclusive": [
+        [
+          1,
+          15
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "014-5913.html",
+      "text_locator": "014-5913.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 15,
+      "id": 30996,
+      "catalog_id": 30996,
+      "wordpress_object_id_http_verified": 30996,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-hacking-of-the-american-mind-by-dr-robert-h-lustig/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-hacking-of-the-american-mind-by-dr-robert-h-lustig/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-hacking-of-the-american-mind-by-dr-robert-h-lustig/",
+      "title_catalog": "The Hacking of the American Mind by Dr. Robert H. Lustig",
+      "title_recovered": "The Hacking of the American Mind by Dr. Robert H. Lustig",
+      "author_recovered": "Nancy Teas-Crain",
+      "displayed_date": "August 7, 2019",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:16:37+00:00"
+      },
+      "catalog_chars": 7194,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:13.398881+00:00",
+      "html_sha256_physical": "201c287d5fd6167061af05ce1d70dec98e6096d3c29a844e00e89e37588041dc",
+      "text_sha256_physical": "03ae50f67f313665dbd5524e8d9561cec2596b021c78d1a12972772121e74dbb",
+      "lines": 18,
+      "chars": 7072,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "015-30996.html",
+      "text_locator": "015-30996.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 16,
+      "id": 12923,
+      "catalog_id": 12923,
+      "wordpress_object_id_http_verified": 12923,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-heal-your-gut-cookbook-by-hilary-boynton-mary-brackett/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-heal-your-gut-cookbook-by-hilary-boynton-mary-brackett/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-heal-your-gut-cookbook-by-hilary-boynton-mary-brackett/",
+      "title_catalog": "Heal Your Gut Cookbook by Hilary Boynton & Mary Brackett",
+      "title_recovered": "Heal Your Gut Cookbook by Hilary Boynton & Mary Brackett",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "November 18, 2014",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:03+00:00"
+      },
+      "catalog_chars": 1662,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:13.785137+00:00",
+      "html_sha256_physical": "5b9fb5f4111a0bd9cab86cafed141a2dad3f4c9d8721e717b36837b383f4fddf",
+      "text_sha256_physical": "3a13f8f2c174fb5fe42eb22227d54e537ebe6a330eae34860d453d3f3b7df697",
+      "lines": 12,
+      "chars": 1551,
+      "read_ranges_inclusive": [
+        [
+          1,
+          12
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "016-12923.html",
+      "text_locator": "016-12923.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 17,
+      "id": 5108,
+      "catalog_id": 5108,
+      "wordpress_object_id_http_verified": 5108,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-high-blood-pressure-hoax-by-sherry-a-rogers/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-high-blood-pressure-hoax-by-sherry-a-rogers/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-high-blood-pressure-hoax-by-sherry-a-rogers/",
+      "title_catalog": "High Blood Pressure Hoax by Sherry A. Rogers",
+      "title_recovered": "High Blood Pressure Hoax by Sherry A. Rogers",
+      "author_recovered": "Katherine Czapp",
+      "displayed_date": "March 4, 2007",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:34+00:00"
+      },
+      "catalog_chars": 11883,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:14.295707+00:00",
+      "html_sha256_physical": "cbe2e5b24fa469da359394b3853dd40d40dc339ce7b4a40e55c3c5c28bb9177e",
+      "text_sha256_physical": "00e06dae8cd86a405c7bd13d0b9769dbf4e21541fa9ea6e2b7789a49203d0656",
+      "lines": 21,
+      "chars": 11760,
+      "read_ranges_inclusive": [
+        [
+          1,
+          21
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "017-5108.html",
+      "text_locator": "017-5108.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 18,
+      "id": 35542,
+      "catalog_id": 35542,
+      "wordpress_object_id_http_verified": 35542,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-history-of-the-peanut-allergy-epidemic-by-heather-fraser/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-history-of-the-peanut-allergy-epidemic-by-heather-fraser/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-history-of-the-peanut-allergy-epidemic-by-heather-fraser/",
+      "title_catalog": "The History of the Peanut Allergy Epidemic By Heather Fraser",
+      "title_recovered": "The History of the Peanut Allergy Epidemic By Heather Fraser",
+      "author_recovered": "John Moody",
+      "displayed_date": "February 4, 2021",
+      "meta": {
+        "article:modified_time": "2024-08-16T16:00:53+00:00"
+      },
+      "catalog_chars": 7558,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:14.817736+00:00",
+      "html_sha256_physical": "09f45bc82edc90b926a51d778318fe4fa05c4c318ff0c7cbdf2774ef7d1bf220",
+      "text_sha256_physical": "8a0bdb4c70ec7c361615684074b2396ffc96d67e64c5c8ccb38899b022e869ba",
+      "lines": 18,
+      "chars": 7422,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "018-35542.html",
+      "text_locator": "018-35542.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 19,
+      "id": 6100,
+      "catalog_id": 6100,
+      "wordpress_object_id_http_verified": 6100,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-makers-diet-by-jordan-rubin/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-makers-diet-by-jordan-rubin/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-makers-diet-by-jordan-rubin/",
+      "title_catalog": "Maker’s Diet by Jordan Rubin",
+      "title_recovered": "Maker’s Diet by Jordan Rubin",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "July 8, 2004",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:37+00:00"
+      },
+      "catalog_chars": 3706,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:14.585426+00:00",
+      "html_sha256_physical": "a448021e93337911355a4065366ed95773da62cd4695070bde2b3e797984ccf5",
+      "text_sha256_physical": "315542dfaac560618f3940332b5f395089709b92e0ed357c94abe14d1db9799e",
+      "lines": 13,
+      "chars": 3615,
+      "read_ranges_inclusive": [
+        [
+          1,
+          13
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "019-6100.html",
+      "text_locator": "019-6100.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 20,
+      "id": 45100,
+      "catalog_id": 45100,
+      "wordpress_object_id_http_verified": 45100,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-nourishing-asian-kitchen-by-sophia-nguyen-eng/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-nourishing-asian-kitchen-by-sophia-nguyen-eng/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-nourishing-asian-kitchen-by-sophia-nguyen-eng/",
+      "title_catalog": "The Nourishing Asian Kitchen by Sophia Nguyen Eng",
+      "title_recovered": "The Nourishing Asian Kitchen by Sophia Nguyen Eng",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "February 23, 2024",
+      "meta": {
+        "article:modified_time": "2024-05-31T21:51:23+00:00"
+      },
+      "catalog_chars": 5301,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:15.238978+00:00",
+      "html_sha256_physical": "db373067e234ee0d50bbda0c7be97a7d0f199acbf39a990402be6ca003abf3c6",
+      "text_sha256_physical": "4f45008745528349ff96624c79741686fb910e57faa730cc488f5e10036bc0e3",
+      "lines": 17,
+      "chars": 5187,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "020-45100.html",
+      "text_locator": "020-45100.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 21,
+      "id": 16814,
+      "catalog_id": 16814,
+      "wordpress_object_id_http_verified": 16814,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-nourishing-traditions-cookbook-for-children/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-nourishing-traditions-cookbook-for-children/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-nourishing-traditions-cookbook-for-children/",
+      "title_catalog": "Nourishing Traditions Cookbook for Children",
+      "title_recovered": "Nourishing Traditions Cookbook for Children",
+      "author_recovered": "Wardeh Harmon",
+      "displayed_date": "August 11, 2015",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:01+00:00"
+      },
+      "catalog_chars": 7025,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:15.819915+00:00",
+      "html_sha256_physical": "181930755d34d1d2f425b8f4ebed619909565a00de2df2b4a03446d48188c410",
+      "text_sha256_physical": "c88cdb4efa078180ecc4481a2552979d50cfd2f6218b51d2e844372143c343e5",
+      "lines": 21,
+      "chars": 6906,
+      "read_ranges_inclusive": [
+        [
+          1,
+          21
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "021-16814.html",
+      "text_locator": "021-16814.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 22,
+      "id": 2825,
+      "catalog_id": 2825,
+      "wordpress_object_id_http_verified": 2825,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-omnivores-dilemma-by-michael-pollan/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-omnivores-dilemma-by-michael-pollan/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-omnivores-dilemma-by-michael-pollan/",
+      "title_catalog": "Omnivore’s Dilemma by Michael Pollan",
+      "title_recovered": "Omnivore’s Dilemma by Michael Pollan",
+      "author_recovered": "Weston A Price Foundation",
+      "displayed_date": "February 3, 2010",
+      "meta": {
+        "article:modified_time": "2026-03-19T18:21:47+00:00"
+      },
+      "catalog_chars": 30616,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:15.881327+00:00",
+      "html_sha256_physical": "49b3898e47bea71547c66690f24ebc910a6cf174fbe9d696a03940eb09ccb450",
+      "text_sha256_physical": "669b5f9757ec27f8826f87ae5175073cb3fcbc6873d92916c1c1d7fb1895d5a2",
+      "lines": 75,
+      "chars": 30000,
+      "read_ranges_inclusive": [
+        [
+          1,
+          32
+        ],
+        [
+          33,
+          70
+        ],
+        [
+          71,
+          75
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "022-2825.html",
+      "text_locator": "022-2825.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 23,
+      "id": 8433,
+      "catalog_id": 8433,
+      "wordpress_object_id_http_verified": 8433,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-paleo-solution-by-robb-wolf/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-paleo-solution-by-robb-wolf/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-paleo-solution-by-robb-wolf/",
+      "title_catalog": "Paleo Solution by Robb Wolf",
+      "title_recovered": "Paleo Solution by Robb Wolf",
+      "author_recovered": "Sally Fallon Morell",
+      "displayed_date": "October 7, 2013",
+      "meta": {
+        "article:modified_time": "2026-03-19T17:50:44+00:00"
+      },
+      "catalog_chars": 12201,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:16.198445+00:00",
+      "html_sha256_physical": "69f0f6afb33e08f6fe308608c85c6dd68b66c1979e02b233aa5bd8f883a13412",
+      "text_sha256_physical": "077cb77cac8a1d505808f74154cbf3f19d8c2655c77cc2111e91ac352b5e23b8",
+      "lines": 21,
+      "chars": 12102,
+      "read_ranges_inclusive": [
+        [
+          1,
+          21
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "023-8433.html",
+      "text_locator": "023-8433.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 24,
+      "id": 3434,
+      "catalog_id": 3434,
+      "wordpress_object_id_http_verified": 3434,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-warrior-diet-by-ori-hofmekler/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-warrior-diet-by-ori-hofmekler/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-warrior-diet-by-ori-hofmekler/",
+      "title_catalog": "Warrior Diet by Ori Hofmekler",
+      "title_recovered": "Warrior Diet by Ori Hofmekler",
+      "author_recovered": "Selina Rifkin",
+      "displayed_date": "April 16, 2009",
+      "meta": {
+        "article:modified_time": "2026-03-19T18:30:58+00:00"
+      },
+      "catalog_chars": 5226,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:20.580728+00:00",
+      "html_sha256_physical": "e4a98b99b99b572d7108b10d6a0cb13fad3026a1906775d545a5d5c86447bdae",
+      "text_sha256_physical": "45c568011c3f7c0362122bff6290140a8f2e549c1e69dd32f8a267381a7a6240",
+      "lines": 18,
+      "chars": 5125,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "024-3434.html",
+      "text_locator": "024-3434.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 25,
+      "id": 6076,
+      "catalog_id": 6076,
+      "wordpress_object_id_http_verified": 6076,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/the-whole-beast-by-fergus-henderson/",
+      "final_url": "https://www.westonaprice.org/book-reviews/the-whole-beast-by-fergus-henderson/",
+      "canonical": "https://www.westonaprice.org/book-reviews/the-whole-beast-by-fergus-henderson/",
+      "title_catalog": "Whole Beast by Fergus Henderson",
+      "title_recovered": "Whole Beast by Fergus Henderson",
+      "author_recovered": "Weston A Price Foundation",
+      "displayed_date": "July 30, 2004",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:36+00:00"
+      },
+      "catalog_chars": 3691,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:16.779747+00:00",
+      "html_sha256_physical": "ca342627bf587725c88e4985a53d7726b3636bc2c7d3cfb4ef92ef2e1f222f84",
+      "text_sha256_physical": "07d325b393f8fea8ca6d7b6511918f7a91961deafe56ee4b947aea998e0d853a",
+      "lines": 18,
+      "chars": 3587,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "025-6076.html",
+      "text_locator": "025-6076.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 26,
+      "id": 8515,
+      "catalog_id": 8515,
+      "wordpress_object_id_http_verified": 8515,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/why-stomach-acid-is-good-for-you-by-jonathan-wright-and-lane-lenard/",
+      "final_url": "https://www.westonaprice.org/book-reviews/why-stomach-acid-is-good-for-you-by-jonathan-wright-and-lane-lenard/",
+      "canonical": "https://www.westonaprice.org/book-reviews/why-stomach-acid-is-good-for-you-by-jonathan-wright-and-lane-lenard/",
+      "title_catalog": "Why Stomach Acid is Good for You by Jonathan Wright  and Lane Lenard",
+      "title_recovered": "Why Stomach Acid is Good for You by Jonathan Wright  and Lane Lenard",
+      "author_recovered": "Amy Berger",
+      "displayed_date": "December 11, 2013",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:06+00:00"
+      },
+      "catalog_chars": 12328,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:17.474936+00:00",
+      "html_sha256_physical": "cd084648dd791c5a48a2b06a32297cf9a0263318c45c6ea01bf7f2c352cf0526",
+      "text_sha256_physical": "42a37f8d4be4e312abbf53e1e59e48a28d1a991266aa36a3a200be97cc0e0425",
+      "lines": 19,
+      "chars": 12183,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "026-8515.html",
+      "text_locator": "026-8515.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    },
+    {
+      "batch_index": 27,
+      "id": 12365,
+      "catalog_id": 12365,
+      "wordpress_object_id_http_verified": 12365,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/book-reviews/your-personal-paleo-code-the-3-step-plan-to-lose-weight-reverse-disease-and-stay-fit-and-healthy-for-life-by-chris-kresser/",
+      "final_url": "https://www.westonaprice.org/book-reviews/your-personal-paleo-code-the-3-step-plan-to-lose-weight-reverse-disease-and-stay-fit-and-healthy-for-life-by-chris-kresser/",
+      "canonical": "https://www.westonaprice.org/book-reviews/your-personal-paleo-code-the-3-step-plan-to-lose-weight-reverse-disease-and-stay-fit-and-healthy-for-life-by-chris-kresser/",
+      "title_catalog": "Your Personal Paleo Code: The 3-Step Plan to Lose Weight, Reverse Disease, and Stay Fit and Healthy for Life by Chris Kresser",
+      "title_recovered": "Your Personal Paleo Code: The 3-Step Plan to Lose Weight, Reverse Disease, and Stay Fit and Healthy for Life by Chris Kresser",
+      "author_recovered": "Lynn Wright",
+      "displayed_date": "July 10, 2014",
+      "meta": {
+        "article:modified_time": "2019-11-12T04:17:05+00:00"
+      },
+      "catalog_chars": 9797,
+      "status": "200",
+      "retrieved_at_utc": "2026-11-26T18:45:17.819779+00:00",
+      "html_sha256_physical": "5d950d7e06137a6968365869d1956663fb0b466a0a8c84f01a1b715b0593fc8a",
+      "text_sha256_physical": "685f1e1b90599a8b833b81bf0cb77d8969840734d9b056b984a7f16dc1d48eb8",
+      "lines": 22,
+      "chars": 9590,
+      "read_ranges_inclusive": [
+        [
+          1,
+          22
+        ]
+      ],
+      "reading_status": "integral_text_read_including_references_and_endings",
+      "limits": [
+        "Resenha TXT integral; não livro integral.",
+        "HTML apenas hash físico; não nova leitura semântica.",
+        "Imagens, comentários, mídia, livros, estudos e destinos não lidos; sem ASR.",
+        "Nenhuma causalidade, dose, composição ou fórmula ausente inferida."
+      ],
+      "html_locator": "027-12365.html",
+      "text_locator": "027-12365.txt",
+      "source_class": "book-review",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_reader_claim": false
+    }
+  ]
+}

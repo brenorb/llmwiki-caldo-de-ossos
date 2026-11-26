@@ -82,3 +82,5 @@ Autor da resenha é distinto de autor do livro. As resenhas12/13 sobreNick Barna
 |49|[$tatin Nation By Justin Smith](https://www.westonaprice.org/book-reviews/tatin-nation-justin-smith/)|John Moody|January 23, 2018|1–17/7871|
 
 HTML só teve integridade/identidade conferidas; imagens, comentários, livros, mídia e destinos externos não estão abrangidos. [Cobertura geral](../cobertura.md) · [Proveniência](../proveniencia.md)
+
+As [28 resenhas restantes](wapf-book-review28.md) fecham78/78 do conjunto selecionado, sem alegar leitura dos livros. [Aplicações e lacunas do segundo lote](../temas/aplicacoes-wapf-resenhas28.md)

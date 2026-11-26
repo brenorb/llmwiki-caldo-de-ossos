@@ -1178,3 +1178,7 @@ Concluída [nova versão de181](raw/wapf-audio-en-181-isolado-2026-11-26.json),3
 ## [2026-11-26] ingestão | Complemento other:42 textos finais e receitas de aproveitamento
 
 Incorporados [lote5](wiki/fontes/wapf-other-lote5-42.md) e [caderno completo](wiki/temas/receitas-wapf-other-lote5.md),8.063 linhas/1.293.773 caracteres,84 hashes/140 intervalos. Conferidos os pareceres/caderno/crítico/QA autoral completos e originais focais. A união dos cinco lotes fecha242/242 textos selecionados,26.232 linhas/4.895.310 caracteres/484 hashes, sem expandir para todo o site, mídias ou referências. Sopa/curry preservam medidas; arroz, açúcar e amidos não foram omitidos silenciosamente.
+
+## [2026-11-26] ingestão |78 resenhas WAPF: último lote e aplicações parciais
+
+Incorporados [28 TXT finais](wiki/fontes/wapf-book-review28.md),493 linhas/170.144 caracteres e56 hashes, com [caderno de aplicações](wiki/temas/aplicacoes-wapf-resenhas28.md). Revisor leu parecer/caderno/QA autoral inteiros e originais focais. União78/78 resenhas,1.415 linhas/498.931 caracteres/156 hashes; não livros ou ensaios novos. Métodos parciais, originais com amido/açúcar e proposta de menos carboidratos ficam identificados.

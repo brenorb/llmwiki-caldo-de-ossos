@@ -250,3 +250,5 @@ Para uma sopa de costela suína, gengibre e daikon e outras variações chinesas
 Para aproveitar fundo de peixe, reduza no fogão antes de resfriar e congele em cubos pequenos. Use como tempero em sopas ou legumes. O pirão tradicional citado na live leva farinha de mandioca. Para uma versão com menos amido, bata couve-flor cozida com um pouco do fundo para obter um creme. [Live do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/)
 
 O [caderno de sobras e caldos de Sarah Pope](receitas-wapf-other-lote5.md) inclui sopa de frango, curry com2–3cups de caldo e sopa bovina; preserva as medidas e mostra quando arroz/amido são originais ou opcionais e quando a proposta com menos carboidratos é nossa.
+
+As [descrições culinárias das28 resenhas finais WAPF](aplicacoes-wapf-resenhas28.md) documentam caldo reduzido sobre carne, uso para regar barbecue e ingredientes de corações de pato com caldo. São referências parciais, com etapas/medidas ausentes; há proposta editorial não testada para substituir a torrada.

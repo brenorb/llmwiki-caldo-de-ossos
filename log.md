@@ -1053,3 +1053,8 @@ Incorporada a [leitura integral do experimento pancreático](wiki/fontes/al-malk
 ## [2026-11-25] revisão | Quinze mídias MDA sem acesso
 
 Conferidos os15logs com desafio de autenticação e o retorno404 do áudio/página oficial de uma edição relacionada de Saladino. Publicados [inventário e limites](wiki/fontes/mda-midias-lacunas-2026-11-25.md), sem contar falha de acesso como leitura ou atribuir a causa a limite de duração.
+
+
+## [2026-11-25] ingestão | Sexto lote health: cinquenta TXT e conciliação de identidade
+
+Incorporadas [provas e síntese do lote6](wiki/fontes/wapf-health-lote6-2026-11-25.md):50TXT/4.657linhas/1.368.553caracteres. Revisor conferiu100hashes,50identidades exatas e todas as faixas; preservadas divergências de título/autoria/canonical e duas colisões deID anteriores. Receitas, interpretação chinesa, relatos multicomponentes e referências não consultadas têm classes explícitas.

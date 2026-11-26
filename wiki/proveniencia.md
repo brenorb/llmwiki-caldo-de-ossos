@@ -141,3 +141,6 @@ A [conferência integral de Al-Malki2015](fontes/al-malki-2015-lisina-pancreatit
 
 
 As [quinze lacunas de mídia MDA](fontes/mda-midias-lacunas-2026-11-25.md) preservam identidade, hashes dos estados/logs e distinção entre processamento e leitura. Falha de aquisição não foi classificada como ausência do tema, nem RSS de duração distinta como edição idêntica.
+
+
+O [sexto lote health](fontes/wapf-health-lote6-2026-11-25.md) tem50 corpos atuais integralmente lidos por subagentes, três pareceres integralmente revisados e100 hashes físicos/faixas completos conferidos. Colisões deIDs anteriores preservam a contagem porURL, sem afirmar independência editorial. Sete tabelas ausentes doTXT e estudos externos não foram declarados lidos.

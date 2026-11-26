@@ -1,0 +1,1993 @@
+{
+  "batch": "podcast-integral-lote2-50-2026-11-26",
+  "status": "incorporated_after_parent_and_independent_review",
+  "counts": {
+    "texts": 50,
+    "lines": 6415,
+    "chars": 1790378,
+    "physical_hashes": 100
+  },
+  "proof_kind": "delegated_agent_semantic_reading",
+  "identity_scope": "50 URLs catalogadas distintas;50 IDs de catálogo concordantes com WPID HTTP por body/shortlink;requested/final/canonical iguais neste lote. Não são50 áudios ou50 estudos clínicos.",
+  "catalog_chars_vs_physical_chars": "Divergentes nos50; ambos preservados, sem causa inferida.",
+  "read_limits": [
+    "04: sinopse/Highlights, sem transcrição.",
+    "13: apenas parte compartilhada; perguntas privadas posteriores não no TXT.",
+    "49: inclui minisode114–132, integralmente lido.",
+    "Livros/estudos/imagens/comentários/mídias/destinos não lidos.",
+    "HTML somente hash físico, sem leitura visual.",
+    "Nenhuma transcrição integral reproduzida nestes derivados públicos.",
+    "Nenhuma composição/macro/dose/causalidade por caldo inferida.",
+    "human_read em aquisição é rótulo legado de script, sem alegação de leitor humano."
+  ],
+  "items": [
+    {
+      "batch_index": 0,
+      "id": 47611,
+      "catalog_id": 47611,
+      "wordpress_object_id_http_verified": 47611,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/detox-from-the-covid-shot-with-christian-elliot/",
+      "final_url": "https://www.westonaprice.org/podcast/detox-from-the-covid-shot-with-christian-elliot/",
+      "canonical": "https://www.westonaprice.org/podcast/detox-from-the-covid-shot-with-christian-elliot/",
+      "title_catalog": "Detox From The COVID Shot With Christian Elliot",
+      "title_recovered": "Detox From The COVID Shot With Christian Elliot",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "August 11, 2025",
+      "catalog_chars": 45128,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:38.462370+00:00",
+      "html_sha256_physical": "8472eb79d19471252c1006efa170f99d21c41128a129e0ea52b6d896ead13b4a",
+      "text_sha256_physical": "a31865571d73f21575f9af4f0abe47aeff4e60be3ef89ae863ef30792f543ada",
+      "lines": 141,
+      "chars": 44714,
+      "read_ranges_inclusive": [
+        [
+          1,
+          45
+        ],
+        [
+          46,
+          79
+        ],
+        [
+          80,
+          116
+        ],
+        [
+          117,
+          141
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 1,
+      "id": 42600,
+      "catalog_id": 42600,
+      "wordpress_object_id_http_verified": 42600,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/diet-lifestyle-mongolia-nutritionist-food-kazakhs/",
+      "final_url": "https://www.westonaprice.org/podcast/diet-lifestyle-mongolia-nutritionist-food-kazakhs/",
+      "canonical": "https://www.westonaprice.org/podcast/diet-lifestyle-mongolia-nutritionist-food-kazakhs/",
+      "title_catalog": "Lessons From The Traditional Mongolian Diet & Lifestyle",
+      "title_recovered": "Lessons From The Traditional Mongolian Diet & Lifestyle",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "January 2, 2023",
+      "catalog_chars": 40792,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:38.496998+00:00",
+      "html_sha256_physical": "ae080c477433e0b163c11f809fdb045a4628c5447afa0520255fae20ab8b33ec",
+      "text_sha256_physical": "997d33cd63af068d6402e8cbbd198b686e986594b47374e496c6e2f32a2b6c20",
+      "lines": 123,
+      "chars": 40438,
+      "read_ranges_inclusive": [
+        [
+          1,
+          49
+        ],
+        [
+          50,
+          80
+        ],
+        [
+          81,
+          123
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 2,
+      "id": 44920,
+      "catalog_id": 44920,
+      "wordpress_object_id_http_verified": 44920,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/dietary-propaganda-in-india/",
+      "final_url": "https://www.westonaprice.org/podcast/dietary-propaganda-in-india/",
+      "canonical": "https://www.westonaprice.org/podcast/dietary-propaganda-in-india/",
+      "title_catalog": "Dietary Propaganda In India",
+      "title_recovered": "Dietary Propaganda In India",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "January 29, 2024",
+      "catalog_chars": 32860,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:38.440707+00:00",
+      "html_sha256_physical": "732cf67d5304a409ec0b251fbbc3e968849b72254da2a63e590908242cd06865",
+      "text_sha256_physical": "1388821faa3d3363f6b1c2c448617d6bd539bdcecf9638fc6fd2b7a5354153f8",
+      "lines": 118,
+      "chars": 32522,
+      "read_ranges_inclusive": [
+        [
+          1,
+          47
+        ],
+        [
+          48,
+          85
+        ],
+        [
+          86,
+          118
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 3,
+      "id": 46886,
+      "catalog_id": 46886,
+      "wordpress_object_id_http_verified": 46886,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/documenting-hope-the-reversal-of-autism-spectrum-disorder-with-beth-lambert/",
+      "final_url": "https://www.westonaprice.org/podcast/documenting-hope-the-reversal-of-autism-spectrum-disorder-with-beth-lambert/",
+      "canonical": "https://www.westonaprice.org/podcast/documenting-hope-the-reversal-of-autism-spectrum-disorder-with-beth-lambert/",
+      "title_catalog": "Documenting Hope: The Reversal Of Autism Spectrum Disorder With Beth Lambert",
+      "title_recovered": "Documenting Hope: The Reversal Of Autism Spectrum Disorder With Beth Lambert",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "February 24, 2025",
+      "catalog_chars": 45796,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:39.477514+00:00",
+      "html_sha256_physical": "3d2114c6693320c84a787b931a8a9c05a9a0bd4b5065f08b6a3f84d0a33c6c56",
+      "text_sha256_physical": "47ede791da6e270a09e10ad482413362f27929cc327c2c61e98200c347541fcf",
+      "lines": 136,
+      "chars": 45382,
+      "read_ranges_inclusive": [
+        [
+          1,
+          46
+        ],
+        [
+          47,
+          81
+        ],
+        [
+          82,
+          114
+        ],
+        [
+          115,
+          136
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 4,
+      "id": 27352,
+      "catalog_id": 27352,
+      "wordpress_object_id_http_verified": 27352,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/dont-throw-away-bones/",
+      "final_url": "https://www.westonaprice.org/podcast/dont-throw-away-bones/",
+      "canonical": "https://www.westonaprice.org/podcast/dont-throw-away-bones/",
+      "title_catalog": "Don’t Throw Away the Bones!",
+      "title_recovered": "Don’t Throw Away the Bones!",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "March 26, 2018",
+      "catalog_chars": 2816,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:39.349017+00:00",
+      "html_sha256_physical": "b8d9bd4fee7f92a0cfad3d15fc0b27b6a0bb56f606531e17095e967f4c8d0e8d",
+      "text_sha256_physical": "aa622846f9bf5c0aafede3ac076b257074f0110d811288f76cf2caf4e977d4ba",
+      "lines": 29,
+      "chars": 2692,
+      "read_ranges_inclusive": [
+        [
+          1,
+          29
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "synopsis_and_notes_only_no_transcript",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 5,
+      "id": 38733,
+      "catalog_id": 38733,
+      "wordpress_object_id_http_verified": 38733,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/eat-your-liver-other-organ-meats-too/",
+      "final_url": "https://www.westonaprice.org/podcast/eat-your-liver-other-organ-meats-too/",
+      "canonical": "https://www.westonaprice.org/podcast/eat-your-liver-other-organ-meats-too/",
+      "title_catalog": "Eat Your Liver… & Other Organ Meats Too",
+      "title_recovered": "Eat Your Liver… & Other Organ Meats Too",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "December 6, 2021",
+      "catalog_chars": 33193,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:39.457988+00:00",
+      "html_sha256_physical": "404d8e2ab27ec6103d6978d0904fdaaeb038c4d2f0f105911b953c59d4509f9b",
+      "text_sha256_physical": "919414922575935af2d7dfc05b1d30faf7e939c0d9b784f12a377cce5fc2f2f9",
+      "lines": 126,
+      "chars": 32857,
+      "read_ranges_inclusive": [
+        [
+          1,
+          57
+        ],
+        [
+          58,
+          98
+        ],
+        [
+          99,
+          126
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 6,
+      "id": 38335,
+      "catalog_id": 38335,
+      "wordpress_object_id_http_verified": 38335,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/ecuadors-ancestral-wisdom/",
+      "final_url": "https://www.westonaprice.org/podcast/ecuadors-ancestral-wisdom/",
+      "canonical": "https://www.westonaprice.org/podcast/ecuadors-ancestral-wisdom/",
+      "title_catalog": "Ecuador’s Ancestral Wisdom",
+      "title_recovered": "Ecuador’s Ancestral Wisdom",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "October 4, 2021",
+      "catalog_chars": 30357,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:40.226477+00:00",
+      "html_sha256_physical": "be831aac4d0790836ca6560c5a3bdb404e10447eb2c84038cdba2fb0ac204ba6",
+      "text_sha256_physical": "ae30eb2d0a78ca947cad4b079f66432bbd9c047cbf705bc6f820012c24526f8c",
+      "lines": 104,
+      "chars": 30091,
+      "read_ranges_inclusive": [
+        [
+          1,
+          51
+        ],
+        [
+          52,
+          85
+        ],
+        [
+          86,
+          104
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 7,
+      "id": 42269,
+      "catalog_id": 42269,
+      "wordpress_object_id_http_verified": 42269,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/ethical-meat/",
+      "final_url": "https://www.westonaprice.org/podcast/ethical-meat/",
+      "canonical": "https://www.westonaprice.org/podcast/ethical-meat/",
+      "title_catalog": "Ethical Meat",
+      "title_recovered": "Ethical Meat",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "November 7, 2022",
+      "catalog_chars": 37098,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:40.389949+00:00",
+      "html_sha256_physical": "a626110292943f725345b67d690b695e412aa65d1c04cbe6587e517325b6054c",
+      "text_sha256_physical": "4811020d45367c7b601528da67327667dc3e7483f8f704e1bc084bc1f06066d3",
+      "lines": 118,
+      "chars": 36795,
+      "read_ranges_inclusive": [
+        [
+          1,
+          48
+        ],
+        [
+          49,
+          83
+        ],
+        [
+          84,
+          118
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 8,
+      "id": 45186,
+      "catalog_id": 45186,
+      "wordpress_object_id_http_verified": 45186,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/factory-farms-vs-regenerative-farms/",
+      "final_url": "https://www.westonaprice.org/podcast/factory-farms-vs-regenerative-farms/",
+      "canonical": "https://www.westonaprice.org/podcast/factory-farms-vs-regenerative-farms/",
+      "title_catalog": "Factory Farms Vs. Regenerative Farms",
+      "title_recovered": "Factory Farms Vs. Regenerative Farms",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "March 11, 2024",
+      "catalog_chars": 46280,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:40.461820+00:00",
+      "html_sha256_physical": "5445e34acb4eaf5a36d4be4c7bacf762de35a5eb694aefe8ddb37545c2fa8dda",
+      "text_sha256_physical": "2fc344723a86c8d1e2ce34bcc279be165c6f5299e1969e24f69266f5817e34cc",
+      "lines": 147,
+      "chars": 45887,
+      "read_ranges_inclusive": [
+        [
+          1,
+          51
+        ],
+        [
+          52,
+          90
+        ],
+        [
+          91,
+          147
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 9,
+      "id": 46387,
+      "catalog_id": 46387,
+      "wordpress_object_id_http_verified": 46387,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/fatigue-eczema-chronic-strep-and-weight-issues-all-resolved-by-real-food/",
+      "final_url": "https://www.westonaprice.org/podcast/fatigue-eczema-chronic-strep-and-weight-issues-all-resolved-by-real-food/",
+      "canonical": "https://www.westonaprice.org/podcast/fatigue-eczema-chronic-strep-and-weight-issues-all-resolved-by-real-food/",
+      "title_catalog": "Fatigue, Eczema, Chronic Strep, and Weight Issues: All Resolved by Real Food",
+      "title_recovered": "Fatigue, Eczema, Chronic Strep, and Weight Issues: All Resolved by Real Food",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "November 11, 2024",
+      "catalog_chars": 36285,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:41.293547+00:00",
+      "html_sha256_physical": "1b5c7e802d0f29e6979f81e6b379e94f496dfd4191774b5be3f1ec7be8c89685",
+      "text_sha256_physical": "410295d47d27fc2add3076683b01e092d0650308531dfffdf0d3f58b0bd16331",
+      "lines": 204,
+      "chars": 35741,
+      "read_ranges_inclusive": [
+        [
+          1,
+          99
+        ],
+        [
+          100,
+          159
+        ],
+        [
+          160,
+          204
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 10,
+      "id": 48029,
+      "catalog_id": 48029,
+      "wordpress_object_id_http_verified": 48029,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/fearless-fermenting-with-austin-durant/",
+      "final_url": "https://www.westonaprice.org/podcast/fearless-fermenting-with-austin-durant/",
+      "canonical": "https://www.westonaprice.org/podcast/fearless-fermenting-with-austin-durant/",
+      "title_catalog": "Fearless Fermenting With Austin Durant",
+      "title_recovered": "Fearless Fermenting With Austin Durant",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "November 24, 2025",
+      "catalog_chars": 36061,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:41.415043+00:00",
+      "html_sha256_physical": "5c90a97888c3c5fd9e97d50af61304ff5f7a6c7bb9985a8dd8a46460fbaf5a06",
+      "text_sha256_physical": "5fc574e2b87cdb1b2df368c3e4c0c5257aadc6c68832d53fcad39c89271cc51e",
+      "lines": 127,
+      "chars": 35542,
+      "read_ranges_inclusive": [
+        [
+          1,
+          52
+        ],
+        [
+          53,
+          97
+        ],
+        [
+          98,
+          127
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 11,
+      "id": 44627,
+      "catalog_id": 44627,
+      "wordpress_object_id_http_verified": 44627,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/feeding-your-family-the-wise-traditions-way/",
+      "final_url": "https://www.westonaprice.org/podcast/feeding-your-family-the-wise-traditions-way/",
+      "canonical": "https://www.westonaprice.org/podcast/feeding-your-family-the-wise-traditions-way/",
+      "title_catalog": "Feeding Your Family The Wise Traditions Way",
+      "title_recovered": "Feeding Your Family The Wise Traditions Way",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "December 18, 2023",
+      "catalog_chars": 70427,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:41.791958+00:00",
+      "html_sha256_physical": "60fa32b966d85d4fe9dfa59bd4487dc6b4fdca6bbfc76ed71958295df7512941",
+      "text_sha256_physical": "9b81a20e2ec551efa9ea55fc22bdbeea3c54617b48d3146d5c9e7d8bb8e3e2cd",
+      "lines": 240,
+      "chars": 69788,
+      "read_ranges_inclusive": [
+        [
+          1,
+          56
+        ],
+        [
+          57,
+          97
+        ],
+        [
+          98,
+          133
+        ],
+        [
+          134,
+          165
+        ],
+        [
+          166,
+          240
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 12,
+      "id": 49007,
+      "catalog_id": 49007,
+      "wordpress_object_id_http_verified": 49007,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/ferments-gut-health-microbial-healing-with-vanessa-hargrove/",
+      "final_url": "https://www.westonaprice.org/podcast/ferments-gut-health-microbial-healing-with-vanessa-hargrove/",
+      "canonical": "https://www.westonaprice.org/podcast/ferments-gut-health-microbial-healing-with-vanessa-hargrove/",
+      "title_catalog": "Ferments, Gut Health & Microbial Healing With Vanessa Hargrove",
+      "title_recovered": "Ferments, Gut Health & Microbial Healing With Vanessa Hargrove",
+      "author_recovered": "Kendall Nelson",
+      "displayed_date": "June 15, 2026",
+      "catalog_chars": 42155,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:41.736367+00:00",
+      "html_sha256_physical": "80903679f9294b8c9e9e47f293ab21ebd07ae8c962a33f85ac205af373fb5e3e",
+      "text_sha256_physical": "f940d2278769f29e93697028c8be0b529a870df17caf04d6b35dcceea78e7451",
+      "lines": 160,
+      "chars": 41702,
+      "read_ranges_inclusive": [
+        [
+          1,
+          54
+        ],
+        [
+          55,
+          100
+        ],
+        [
+          101,
+          160
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 13,
+      "id": 46054,
+      "catalog_id": 46054,
+      "wordpress_object_id_http_verified": 46054,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/from-heart-attack-to-healthy-the-power-of-structured-water-in-the-body/",
+      "final_url": "https://www.westonaprice.org/podcast/from-heart-attack-to-healthy-the-power-of-structured-water-in-the-body/",
+      "canonical": "https://www.westonaprice.org/podcast/from-heart-attack-to-healthy-the-power-of-structured-water-in-the-body/",
+      "title_catalog": "From Heart Attack To Healthy: The Power Of Structured Water In The Body",
+      "title_recovered": "From Heart Attack To Healthy: The Power Of Structured Water In The Body",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "August 19, 2024",
+      "catalog_chars": 35941,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:42.313934+00:00",
+      "html_sha256_physical": "a9007ee4d9f9d19449e31bce6caf0a450574420e7c491b913b91e038554067cd",
+      "text_sha256_physical": "e7877674ebd287ce51b9deb9d5def9499228bbafe966ac74c4fae980b77efaf3",
+      "lines": 131,
+      "chars": 35520,
+      "read_ranges_inclusive": [
+        [
+          1,
+          54
+        ],
+        [
+          55,
+          94
+        ],
+        [
+          95,
+          131
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_transcript_of_shared_part_no_private_QA_read",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 14,
+      "id": 43897,
+      "catalog_id": 43897,
+      "wordpress_object_id_http_verified": 43897,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/from-vegetarian-to-butcher/",
+      "final_url": "https://www.westonaprice.org/podcast/from-vegetarian-to-butcher/",
+      "canonical": "https://www.westonaprice.org/podcast/from-vegetarian-to-butcher/",
+      "title_catalog": "From Vegetarian To Butcher",
+      "title_recovered": "From Vegetarian To Butcher",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "August 21, 2023",
+      "catalog_chars": 35597,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:42.885952+00:00",
+      "html_sha256_physical": "7ab92f08c92e8bfe2d4c60c8654b458a160795e353ad948a0c86aca3c0498d7d",
+      "text_sha256_physical": "8efa1088c9c63fc1ad49f8775ee30e2c7edb3aa3faf577267ecf89962024cb98",
+      "lines": 133,
+      "chars": 35242,
+      "read_ranges_inclusive": [
+        [
+          1,
+          57
+        ],
+        [
+          58,
+          100
+        ],
+        [
+          101,
+          133
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 15,
+      "id": 45729,
+      "catalog_id": 45729,
+      "wordpress_object_id_http_verified": 45729,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/get-the-right-light/",
+      "final_url": "https://www.westonaprice.org/podcast/get-the-right-light/",
+      "canonical": "https://www.westonaprice.org/podcast/get-the-right-light/",
+      "title_catalog": "Get The Right Light",
+      "title_recovered": "Get The Right Light",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "June 3, 2024",
+      "catalog_chars": 32393,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:42.841296+00:00",
+      "html_sha256_physical": "19bfe14e6b4084477d6c931b464d2bb5a9a8ffba72060a89adeb0a20616a1e0a",
+      "text_sha256_physical": "b10b7b531467f82b4e75c0e5719f964904de25f7e85d3447f3bcc39efe5d36d5",
+      "lines": 115,
+      "chars": 32058,
+      "read_ranges_inclusive": [
+        [
+          1,
+          52
+        ],
+        [
+          53,
+          93
+        ],
+        [
+          94,
+          115
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 16,
+      "id": 37118,
+      "catalog_id": 37118,
+      "wordpress_object_id_http_verified": 37118,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/glyphosate-covid/",
+      "final_url": "https://www.westonaprice.org/podcast/glyphosate-covid/",
+      "canonical": "https://www.westonaprice.org/podcast/glyphosate-covid/",
+      "title_catalog": "Glyphosate & COVID",
+      "title_recovered": "Glyphosate & COVID",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "June 14, 2021",
+      "catalog_chars": 32287,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:43.209774+00:00",
+      "html_sha256_physical": "a4f6aad03770b722c7569637f23cdd462d2f511d13a06e64f6faa9741bd80168",
+      "text_sha256_physical": "566864c8109a38bc64ba63361f266db86a4966e056511111c73523a738349abe",
+      "lines": 95,
+      "chars": 32029,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          95
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 17,
+      "id": 36125,
+      "catalog_id": 36125,
+      "wordpress_object_id_http_verified": 36125,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/healthy-doesnt-mean-bland/",
+      "final_url": "https://www.westonaprice.org/podcast/healthy-doesnt-mean-bland/",
+      "canonical": "https://www.westonaprice.org/podcast/healthy-doesnt-mean-bland/",
+      "title_catalog": "“Healthy” Doesn’t Mean “Bland”",
+      "title_recovered": "“Healthy” Doesn’t Mean “Bland”",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "March 29, 2021",
+      "catalog_chars": 35829,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:43.914111+00:00",
+      "html_sha256_physical": "1f671f9789b3e5607e994642f0025af11ccd2d350b6a1a92c95c47fb7c474e00",
+      "text_sha256_physical": "57f04e2bdc726632fc007286e9b76ca259eb25f3be1136f898d9477a927f4e42",
+      "lines": 104,
+      "chars": 35529,
+      "read_ranges_inclusive": [
+        [
+          1,
+          38
+        ],
+        [
+          39,
+          104
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 18,
+      "id": 37286,
+      "catalog_id": 37286,
+      "wordpress_object_id_http_verified": 37286,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/herbs-for-energy-healing-vitality/",
+      "final_url": "https://www.westonaprice.org/podcast/herbs-for-energy-healing-vitality/",
+      "canonical": "https://www.westonaprice.org/podcast/herbs-for-energy-healing-vitality/",
+      "title_catalog": "Herbs For Energy, Healing, & Vitality",
+      "title_recovered": "Herbs For Energy, Healing, & Vitality",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "July 19, 2021",
+      "catalog_chars": 25658,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:43.792783+00:00",
+      "html_sha256_physical": "8a1740358d0e508c78898855151f49e0e3b4fdf087fc7e2ef388601730cfa01d",
+      "text_sha256_physical": "5d9ad5ba07ecaba582a63d816110572987a4551fdd0a77cb7991301ce45dcc74",
+      "lines": 110,
+      "chars": 25355,
+      "read_ranges_inclusive": [
+        [
+          1,
+          54
+        ],
+        [
+          55,
+          110
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 19,
+      "id": 40427,
+      "catalog_id": 40427,
+      "wordpress_object_id_http_verified": 40427,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/homesteading-for-health/",
+      "final_url": "https://www.westonaprice.org/podcast/homesteading-for-health/",
+      "canonical": "https://www.westonaprice.org/podcast/homesteading-for-health/",
+      "title_catalog": "Homesteading For Health",
+      "title_recovered": "Homesteading For Health",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "May 9, 2022",
+      "catalog_chars": 33180,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:44.121060+00:00",
+      "html_sha256_physical": "3ef4c46efc060fdabb1507c0fe104da0b9b7eb896fdc9e7084148b1e06c4add2",
+      "text_sha256_physical": "589596e23ed58f4a2d7e2a1c8fcd41aa7bfd13ac474acf72fec92f2d7d79c59c",
+      "lines": 124,
+      "chars": 32820,
+      "read_ranges_inclusive": [
+        [
+          1,
+          61
+        ],
+        [
+          62,
+          124
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 20,
+      "id": 44320,
+      "catalog_id": 44320,
+      "wordpress_object_id_http_verified": 44320,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/how-and-why-to-detox/",
+      "final_url": "https://www.westonaprice.org/podcast/how-and-why-to-detox/",
+      "canonical": "https://www.westonaprice.org/podcast/how-and-why-to-detox/",
+      "title_catalog": "How (And Why) To Detox",
+      "title_recovered": "How (And Why) To Detox",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "October 23, 2023",
+      "catalog_chars": 37005,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:44.630551+00:00",
+      "html_sha256_physical": "e29c2349fa3dd06f51b5ff4362a889fe132b749ddb22d86a2d6f53d6753966f5",
+      "text_sha256_physical": "dabc299dcfa0ba700dec9c44c67d2b00836b2e7970c374a1c3eef6184af59203",
+      "lines": 116,
+      "chars": 36693,
+      "read_ranges_inclusive": [
+        [
+          1,
+          45
+        ],
+        [
+          46,
+          78
+        ],
+        [
+          79,
+          116
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 21,
+      "id": 35060,
+      "catalog_id": 35060,
+      "wordpress_object_id_http_verified": 35060,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/how-to-have-a-healthy-pregnancy/",
+      "final_url": "https://www.westonaprice.org/podcast/how-to-have-a-healthy-pregnancy/",
+      "canonical": "https://www.westonaprice.org/podcast/how-to-have-a-healthy-pregnancy/",
+      "title_catalog": "How To Have A Healthy Pregnancy",
+      "title_recovered": "How To Have A Healthy Pregnancy",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "December 7, 2020",
+      "catalog_chars": 23670,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:45.046343+00:00",
+      "html_sha256_physical": "b4c6387d7e9343640319bee0bec3961d09ebe2093cacab5c5e6d51d8d83a6d35",
+      "text_sha256_physical": "abe214274bbf0bbc0af9a297baf1b5516c93ed914f5f8f4a07a3b280037db9af",
+      "lines": 81,
+      "chars": 23427,
+      "read_ranges_inclusive": [
+        [
+          1,
+          49
+        ],
+        [
+          50,
+          81
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 22,
+      "id": 47492,
+      "catalog_id": 47492,
+      "wordpress_object_id_http_verified": 47492,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/how-to-heal-and-restructure-your-water-so-it-can-heal-you-with-mario-brainovic/",
+      "final_url": "https://www.westonaprice.org/podcast/how-to-heal-and-restructure-your-water-so-it-can-heal-you-with-mario-brainovic/",
+      "canonical": "https://www.westonaprice.org/podcast/how-to-heal-and-restructure-your-water-so-it-can-heal-you-with-mario-brainovic/",
+      "title_catalog": "How To Heal & Restructure Your Water…So It Can Heal You With Mario Brainović",
+      "title_recovered": "How To Heal & Restructure Your Water…So It Can Heal You With Mario Brainović",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "July 7, 2025",
+      "catalog_chars": 38158,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:44.951941+00:00",
+      "html_sha256_physical": "9ded9a068f54929ab7d926a9d56c432add515e6a739947f87ef097303fe55aa1",
+      "text_sha256_physical": "c7d2c1f22158d05acea7bd2dc297bde538fbac8827558ea9679448de3ed106db",
+      "lines": 131,
+      "chars": 37452,
+      "read_ranges_inclusive": [
+        [
+          1,
+          51
+        ],
+        [
+          52,
+          93
+        ],
+        [
+          94,
+          131
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 23,
+      "id": 46755,
+      "catalog_id": 46755,
+      "wordpress_object_id_http_verified": 46755,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/how-weight-loss-is-related-to-the-vibration-of-food-and-life-force-energy/",
+      "final_url": "https://www.westonaprice.org/podcast/how-weight-loss-is-related-to-the-vibration-of-food-and-life-force-energy/",
+      "canonical": "https://www.westonaprice.org/podcast/how-weight-loss-is-related-to-the-vibration-of-food-and-life-force-energy/",
+      "title_catalog": "How Weight Loss Is Related To The Vibration Of Food & Life Force Energy",
+      "title_recovered": "How Weight Loss Is Related To The Vibration Of Food & Life Force Energy",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "January 13, 2025",
+      "catalog_chars": 39221,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:45.782687+00:00",
+      "html_sha256_physical": "e18f36c4fdf59135cf068fd1070857ba3ba1fab22088bd6c31d8de4bca6e6933",
+      "text_sha256_physical": "56e1a4f1d8d495136f283c9e71c570cf349aa62c9512c4f94ecc9a117e81b91b",
+      "lines": 111,
+      "chars": 38865,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          73
+        ],
+        [
+          74,
+          111
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 24,
+      "id": 30304,
+      "catalog_id": 30304,
+      "wordpress_object_id_http_verified": 30304,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/is-sunscreen-okay-to-use/",
+      "final_url": "https://www.westonaprice.org/podcast/is-sunscreen-okay-to-use/",
+      "canonical": "https://www.westonaprice.org/podcast/is-sunscreen-okay-to-use/",
+      "title_catalog": "Is Sunscreen Okay to Use?",
+      "title_recovered": "Is Sunscreen Okay to Use?",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "April 15, 2019",
+      "catalog_chars": 33774,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:45.982689+00:00",
+      "html_sha256_physical": "a1d29a2896adcd687a323f3e2ccc6dcb888b8b6b9c8d86901583786a98de280a",
+      "text_sha256_physical": "3ea85a0b35b5d288418afac6e00f9f89d94cae0b84fc207e4053d593b12f0e6f",
+      "lines": 124,
+      "chars": 33437,
+      "read_ranges_inclusive": [
+        [
+          1,
+          55
+        ],
+        [
+          56,
+          94
+        ],
+        [
+          95,
+          124
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 25,
+      "id": 34297,
+      "catalog_id": 34297,
+      "wordpress_object_id_http_verified": 34297,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/is-the-coronavirus-contagious/",
+      "final_url": "https://www.westonaprice.org/podcast/is-the-coronavirus-contagious/",
+      "canonical": "https://www.westonaprice.org/podcast/is-the-coronavirus-contagious/",
+      "title_catalog": "Is The Coronavirus Contagious?",
+      "title_recovered": "Is The Coronavirus Contagious?",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "October 26, 2020",
+      "catalog_chars": 28632,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:46.032783+00:00",
+      "html_sha256_physical": "8b0796a9787535af2e197372e1514b0117454459151d79427a008446f88a941a",
+      "text_sha256_physical": "389c7c28f3d8c90f43ff02d9acde9aa3501562f7586a47365260a486fa5cfb32",
+      "lines": 96,
+      "chars": 28353,
+      "read_ranges_inclusive": [
+        [
+          1,
+          40
+        ],
+        [
+          41,
+          96
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 26,
+      "id": 47145,
+      "catalog_id": 47145,
+      "wordpress_object_id_http_verified": 47145,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/its-not-just-food-that-is-ultra-processed-what-you-dont-know-about-the-water-youre-drinking-with-isabel-friend/",
+      "final_url": "https://www.westonaprice.org/podcast/its-not-just-food-that-is-ultra-processed-what-you-dont-know-about-the-water-youre-drinking-with-isabel-friend/",
+      "canonical": "https://www.westonaprice.org/podcast/its-not-just-food-that-is-ultra-processed-what-you-dont-know-about-the-water-youre-drinking-with-isabel-friend/",
+      "title_catalog": "It’s Not Just Food That Is Ultra Processed: What You Don’t Know About The Water You’re Drinking! With Isabel Friend",
+      "title_recovered": "It’s Not Just Food That Is Ultra Processed: What You Don’t Know About The Water You’re Drinking! With Isabel Friend",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "April 14, 2025",
+      "catalog_chars": 49702,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:46.748356+00:00",
+      "html_sha256_physical": "5c6cdd878aa4a90029bee378b42ba5b2e42268aa75acf0dadafa68df92fc7fee",
+      "text_sha256_physical": "93cb1c5475ebfe904da342029259219561a5d4e09ef59a37d67c39a30488008f",
+      "lines": 159,
+      "chars": 49198,
+      "read_ranges_inclusive": [
+        [
+          1,
+          49
+        ],
+        [
+          50,
+          89
+        ],
+        [
+          90,
+          127
+        ],
+        [
+          128,
+          159
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 27,
+      "id": 43409,
+      "catalog_id": 43409,
+      "wordpress_object_id_http_verified": 43409,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/live-food-farming-and-the-healing-arts/",
+      "final_url": "https://www.westonaprice.org/podcast/live-food-farming-and-the-healing-arts/",
+      "canonical": "https://www.westonaprice.org/podcast/live-food-farming-and-the-healing-arts/",
+      "title_catalog": "LIVE: Food, Farming And The Healing Arts",
+      "title_recovered": "LIVE: Food, Farming And The Healing Arts",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "April 17, 2023",
+      "catalog_chars": 46105,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:46.823081+00:00",
+      "html_sha256_physical": "2be6c9952a4fdaab12de0766e87e89d1c61dbe0cd653fd5e5bbb44e9bc50f6b9",
+      "text_sha256_physical": "07f780221e417458cffca1284c58ec422a7fd9dd0101dba169c0560c1ed01e02",
+      "lines": 178,
+      "chars": 45595,
+      "read_ranges_inclusive": [
+        [
+          1,
+          58
+        ],
+        [
+          59,
+          100
+        ],
+        [
+          101,
+          145
+        ],
+        [
+          146,
+          178
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 28,
+      "id": 40692,
+      "catalog_id": 40692,
+      "wordpress_object_id_http_verified": 40692,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/make-your-own-baby-formula/",
+      "final_url": "https://www.westonaprice.org/podcast/make-your-own-baby-formula/",
+      "canonical": "https://www.westonaprice.org/podcast/make-your-own-baby-formula/",
+      "title_catalog": "Make Your Own Baby Formula",
+      "title_recovered": "Make Your Own Baby Formula",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "May 25, 2022",
+      "catalog_chars": 30475,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:46.875314+00:00",
+      "html_sha256_physical": "43e9e507eaac8226fb28792f16909cf547bef4d20cc400f7defa0dd7e891faed",
+      "text_sha256_physical": "9b9da4c668cd545747f5f27714789236fb6c34dcd6978ca6f6f058c818bfd493",
+      "lines": 118,
+      "chars": 30152,
+      "read_ranges_inclusive": [
+        [
+          1,
+          57
+        ],
+        [
+          58,
+          96
+        ],
+        [
+          97,
+          118
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 29,
+      "id": 40113,
+      "catalog_id": 40113,
+      "wordpress_object_id_http_verified": 40113,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/mental-health-connection-to-diet/",
+      "final_url": "https://www.westonaprice.org/podcast/mental-health-connection-to-diet/",
+      "canonical": "https://www.westonaprice.org/podcast/mental-health-connection-to-diet/",
+      "title_catalog": "Mental Health: Connection To Diet",
+      "title_recovered": "Mental Health: Connection To Diet",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "April 11, 2022",
+      "catalog_chars": 26254,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:47.577902+00:00",
+      "html_sha256_physical": "9bf680b09c3639c48883ffaa99ef4f89f48ce64e2cec5b600cad2d6b51d3b5df",
+      "text_sha256_physical": "ef908537808d6f7ca54661bd84679112b6510ef3b0b52e1118153001d803d0bb",
+      "lines": 126,
+      "chars": 25898,
+      "read_ranges_inclusive": [
+        [
+          1,
+          62
+        ],
+        [
+          63,
+          126
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 30,
+      "id": 48608,
+      "catalog_id": 48608,
+      "wordpress_object_id_http_verified": 48608,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/modern-lies-debunked-by-nature-with-mollie-engelhart/",
+      "final_url": "https://www.westonaprice.org/podcast/modern-lies-debunked-by-nature-with-mollie-engelhart/",
+      "canonical": "https://www.westonaprice.org/podcast/modern-lies-debunked-by-nature-with-mollie-engelhart/",
+      "title_catalog": "Modern Lies DeBunked By Nature With Mollie Engelhart",
+      "title_recovered": "Modern Lies DeBunked By Nature With Mollie Engelhart",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "March 16, 2026",
+      "catalog_chars": 43185,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:47.235184+00:00",
+      "html_sha256_physical": "5da115320f194e3f1d2e0524465b2b214dbcef1d36074caa9d7c8b44257e4e4a",
+      "text_sha256_physical": "26d32d637fd66116a75b99a9127e47324394f1b14420aaf5b49cc651b8a74a56",
+      "lines": 138,
+      "chars": 42789,
+      "read_ranges_inclusive": [
+        [
+          1,
+          51
+        ],
+        [
+          52,
+          87
+        ],
+        [
+          88,
+          123
+        ],
+        [
+          124,
+          138
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 31,
+      "id": 43961,
+      "catalog_id": 43961,
+      "wordpress_object_id_http_verified": 43961,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/moms-tool-kit-of-natural-remedies/",
+      "final_url": "https://www.westonaprice.org/podcast/moms-tool-kit-of-natural-remedies/",
+      "canonical": "https://www.westonaprice.org/podcast/moms-tool-kit-of-natural-remedies/",
+      "title_catalog": "Mom’s Tool Kit Of Natural Remedies",
+      "title_recovered": "Mom’s Tool Kit Of Natural Remedies",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "September 4, 2023",
+      "catalog_chars": 40679,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:47.769811+00:00",
+      "html_sha256_physical": "5a94f420620a6e5e6e3918f9a966e47fe8dc0d9bc8a1e14593d3b15e2c0ece6c",
+      "text_sha256_physical": "5829f884af0eb5ab97355e25f7114858a233585aea91be108d09926b697cb592",
+      "lines": 146,
+      "chars": 40292,
+      "read_ranges_inclusive": [
+        [
+          1,
+          57
+        ],
+        [
+          58,
+          102
+        ],
+        [
+          103,
+          146
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 32,
+      "id": 46544,
+      "catalog_id": 46544,
+      "wordpress_object_id_http_verified": 46544,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/motherhood-controversial-ideas-on-how-to-nourish-for-fertility-pregnancy-and-postpartum-recovery-with-sally-fallon-morell/",
+      "final_url": "https://www.westonaprice.org/podcast/motherhood-controversial-ideas-on-how-to-nourish-for-fertility-pregnancy-and-postpartum-recovery-with-sally-fallon-morell/",
+      "canonical": "https://www.westonaprice.org/podcast/motherhood-controversial-ideas-on-how-to-nourish-for-fertility-pregnancy-and-postpartum-recovery-with-sally-fallon-morell/",
+      "title_catalog": "Motherhood: Controversial Ideas On How To Nourish For Fertility, Pregnancy, And PostPartum Recovery With Sally Fallon Morell",
+      "title_recovered": "Motherhood: Controversial Ideas On How To Nourish For Fertility, Pregnancy, And PostPartum Recovery With Sally Fallon Morell",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "November 25, 2024",
+      "catalog_chars": 34346,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:48.186749+00:00",
+      "html_sha256_physical": "29c089f9f97e40cdc8f2ce4cf642067a47de26323021a28a5a38f342e18b57f6",
+      "text_sha256_physical": "a9795ef5380ae052baf77088c5bc96429538d669e177d1ddb9b7b22c18d892be",
+      "lines": 129,
+      "chars": 33918,
+      "read_ranges_inclusive": [
+        [
+          1,
+          54
+        ],
+        [
+          55,
+          96
+        ],
+        [
+          97,
+          129
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 33,
+      "id": 46422,
+      "catalog_id": 46422,
+      "wordpress_object_id_http_verified": 46422,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/motherhood-from-toddlers-to-teens-how-to-nourish-your-kids-from-pre-conception-through-picky-stages-peer-pressure-and-everything-in-between/",
+      "final_url": "https://www.westonaprice.org/podcast/motherhood-from-toddlers-to-teens-how-to-nourish-your-kids-from-pre-conception-through-picky-stages-peer-pressure-and-everything-in-between/",
+      "canonical": "https://www.westonaprice.org/podcast/motherhood-from-toddlers-to-teens-how-to-nourish-your-kids-from-pre-conception-through-picky-stages-peer-pressure-and-everything-in-between/",
+      "title_catalog": "Motherhood: From Toddlers to Teens: How to Nourish Your Kids from Pre-conception through Picky Stages, Peer Pressure, and Everything In-Between",
+      "title_recovered": "Motherhood: From Toddlers to Teens: How to Nourish Your Kids from Pre-conception through Picky Stages, Peer Pressure, and Everything In-Between",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "November 18, 2024",
+      "catalog_chars": 61205,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:48.564505+00:00",
+      "html_sha256_physical": "f6e0e92ad339edba0b71eff664f95c37c8ea1e353aace506310858f6fe554e7f",
+      "text_sha256_physical": "4563fd1f5868cf6cdd2cfb08a1759d3bf050f460295ce2602a5c6adae7fe15a5",
+      "lines": 240,
+      "chars": 60506,
+      "read_ranges_inclusive": [
+        [
+          1,
+          77
+        ],
+        [
+          78,
+          122
+        ],
+        [
+          123,
+          158
+        ],
+        [
+          159,
+          197
+        ],
+        [
+          198,
+          240
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 34,
+      "id": 46552,
+      "catalog_id": 46552,
+      "wordpress_object_id_http_verified": 46552,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/motherhood-how-to-avoid-antibiotics-and-use-natural-remedies-instead-with-erin-odonnell/",
+      "final_url": "https://www.westonaprice.org/podcast/motherhood-how-to-avoid-antibiotics-and-use-natural-remedies-instead-with-erin-odonnell/",
+      "canonical": "https://www.westonaprice.org/podcast/motherhood-how-to-avoid-antibiotics-and-use-natural-remedies-instead-with-erin-odonnell/",
+      "title_catalog": "Motherhood: How To Avoid Antibiotics & Use Natural Remedies Instead With Erin O’Donnell",
+      "title_recovered": "Motherhood: How To Avoid Antibiotics & Use Natural Remedies Instead With Erin O’Donnell",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "December 9, 2024",
+      "catalog_chars": 38131,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:48.874195+00:00",
+      "html_sha256_physical": "81e40d36d19be7aaeb90d8ecbc7d6433d62215b93740e2b0bf0f9d6aec136dfd",
+      "text_sha256_physical": "54dfbc55b788d0397f4948220a7a648c90caf473615b045fc56c09c45f9620b3",
+      "lines": 127,
+      "chars": 37683,
+      "read_ranges_inclusive": [
+        [
+          1,
+          47
+        ],
+        [
+          48,
+          85
+        ],
+        [
+          86,
+          127
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 35,
+      "id": 46561,
+      "catalog_id": 46561,
+      "wordpress_object_id_http_verified": 46561,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/motherhood-pcos-prenatal-nutrition-on-a-budget-postpartum-depression-and-overwhelm/",
+      "final_url": "https://www.westonaprice.org/podcast/motherhood-pcos-prenatal-nutrition-on-a-budget-postpartum-depression-and-overwhelm/",
+      "canonical": "https://www.westonaprice.org/podcast/motherhood-pcos-prenatal-nutrition-on-a-budget-postpartum-depression-and-overwhelm/",
+      "title_catalog": "Motherhood: PCOS, Prenatal Nutrition On A Budget, Postpartum Depression And Overwhelm",
+      "title_recovered": "Motherhood: PCOS, Prenatal Nutrition On A Budget, Postpartum Depression And Overwhelm",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "December 2, 2024",
+      "catalog_chars": 46817,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:49.093232+00:00",
+      "html_sha256_physical": "88b8fe727e9576089db729c21677eb65017e6c59d2ad98d5d6a318fbcad3e21b",
+      "text_sha256_physical": "267a3d39ae54fd6c3b91692641ce41850f2bd0ddbb41786483b15540f6464984",
+      "lines": 137,
+      "chars": 46402,
+      "read_ranges_inclusive": [
+        [
+          1,
+          48
+        ],
+        [
+          49,
+          77
+        ],
+        [
+          78,
+          107
+        ],
+        [
+          108,
+          137
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 36,
+      "id": 45853,
+      "catalog_id": 45853,
+      "wordpress_object_id_http_verified": 45853,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/must-health-be-sacrificed-for-beauty/",
+      "final_url": "https://www.westonaprice.org/podcast/must-health-be-sacrificed-for-beauty/",
+      "canonical": "https://www.westonaprice.org/podcast/must-health-be-sacrificed-for-beauty/",
+      "title_catalog": "Must Health Be Sacrificed For Beauty?",
+      "title_recovered": "Must Health Be Sacrificed For Beauty?",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "July 15, 2024",
+      "catalog_chars": 37593,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:49.505414+00:00",
+      "html_sha256_physical": "afe6e1c4e0269e82ae5abd741ebf403f4436108f50d8082e7c083505b194b14c",
+      "text_sha256_physical": "ee5f376ba84d707b71fd087926962b995cad866d73dfae6b4dbce608e1f9dcf0",
+      "lines": 128,
+      "chars": 37234,
+      "read_ranges_inclusive": [
+        [
+          1,
+          52
+        ],
+        [
+          53,
+          96
+        ],
+        [
+          97,
+          128
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 37,
+      "id": 43361,
+      "catalog_id": 43361,
+      "wordpress_object_id_http_verified": 43361,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/normalize-eating-organ-meats/",
+      "final_url": "https://www.westonaprice.org/podcast/normalize-eating-organ-meats/",
+      "canonical": "https://www.westonaprice.org/podcast/normalize-eating-organ-meats/",
+      "title_catalog": "Normalize Eating Organ Meats",
+      "title_recovered": "Normalize Eating Organ Meats",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "April 10, 2023",
+      "catalog_chars": 37479,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:49.860396+00:00",
+      "html_sha256_physical": "8b5876a40d089e5f91cdee03f698374df401ed2f4ba0688fba49c77e12d59fa7",
+      "text_sha256_physical": "d79b403c23fbf0b313e1dcb4cac876dfb64aec0ef6d8ad039ea9fafd3e837f63",
+      "lines": 132,
+      "chars": 37139,
+      "read_ranges_inclusive": [
+        [
+          1,
+          53
+        ],
+        [
+          54,
+          92
+        ],
+        [
+          93,
+          132
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 38,
+      "id": 35246,
+      "catalog_id": 35246,
+      "wordpress_object_id_http_verified": 35246,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/nourishing-pet-food/",
+      "final_url": "https://www.westonaprice.org/podcast/nourishing-pet-food/",
+      "canonical": "https://www.westonaprice.org/podcast/nourishing-pet-food/",
+      "title_catalog": "Nourishing Pet Food",
+      "title_recovered": "Nourishing Pet Food",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "January 11, 2021",
+      "catalog_chars": 29725,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:50.079093+00:00",
+      "html_sha256_physical": "7d5254ee397a800bc7febfac2ae077edfd9bc858f929ba4c06b13bf430c41974",
+      "text_sha256_physical": "6bd35d52c193269550fed5ede3d99b69318315ea9c0b88a7dfa4a03d6512ee03",
+      "lines": 92,
+      "chars": 29452,
+      "read_ranges_inclusive": [
+        [
+          1,
+          41
+        ],
+        [
+          42,
+          73
+        ],
+        [
+          74,
+          92
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 39,
+      "id": 45827,
+      "catalog_id": 45827,
+      "wordpress_object_id_http_verified": 45827,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/overcome-your-fear-of-cholesterol/",
+      "final_url": "https://www.westonaprice.org/podcast/overcome-your-fear-of-cholesterol/",
+      "canonical": "https://www.westonaprice.org/podcast/overcome-your-fear-of-cholesterol/",
+      "title_catalog": "Overcome Your Fear Of Cholesterol",
+      "title_recovered": "Overcome Your Fear Of Cholesterol",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "July 8, 2024",
+      "catalog_chars": 30099,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:50.719485+00:00",
+      "html_sha256_physical": "e12bb09bbbad46eae8c63eb0cb72aa8219b3cfbd4bd8c0ca4955fdb3190a58d6",
+      "text_sha256_physical": "06a7bc49a1bd60d35d5a987a03d5cb4318177d0cdd963b6768b7659b74276314",
+      "lines": 110,
+      "chars": 29742,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ],
+        [
+          45,
+          94
+        ],
+        [
+          95,
+          110
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 40,
+      "id": 48921,
+      "catalog_id": 48921,
+      "wordpress_object_id_http_verified": 48921,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/pulling-back-the-veil-on-chronic-illness-with-dr-sina-mccullough/",
+      "final_url": "https://www.westonaprice.org/podcast/pulling-back-the-veil-on-chronic-illness-with-dr-sina-mccullough/",
+      "canonical": "https://www.westonaprice.org/podcast/pulling-back-the-veil-on-chronic-illness-with-dr-sina-mccullough/",
+      "title_catalog": "Pulling Back The Veil On Chronic Illness With Dr. Sina McCullough",
+      "title_recovered": "Pulling Back The Veil On Chronic Illness With Dr. Sina McCullough",
+      "author_recovered": "Kendall Nelson",
+      "displayed_date": "May 25, 2026",
+      "catalog_chars": 38771,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:50.804839+00:00",
+      "html_sha256_physical": "44297234eddc23792b264cdaed56fda2f0833688c6d13996dd165b171f5e76ec",
+      "text_sha256_physical": "a10cc68416823151720993a6247d594be0410aaee8df38fe6cd95947b1b6a2ab",
+      "lines": 129,
+      "chars": 38375,
+      "read_ranges_inclusive": [
+        [
+          1,
+          50
+        ],
+        [
+          51,
+          83
+        ],
+        [
+          84,
+          129
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 41,
+      "id": 44351,
+      "catalog_id": 44351,
+      "wordpress_object_id_http_verified": 44351,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/raw-milk-near-me/",
+      "final_url": "https://www.westonaprice.org/podcast/raw-milk-near-me/",
+      "canonical": "https://www.westonaprice.org/podcast/raw-milk-near-me/",
+      "title_catalog": "Raw Milk Near Me",
+      "title_recovered": "Raw Milk Near Me",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "October 30, 2023",
+      "catalog_chars": 31309,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:51.182442+00:00",
+      "html_sha256_physical": "f5bac8513241a53b7234a2eba159828f1800de0903b719c728a2425ca30beba4",
+      "text_sha256_physical": "96344d73e9dc6e9e950981f07bdfe52b66a197801b82a7f1adffd85d06f0f7f7",
+      "lines": 136,
+      "chars": 30941,
+      "read_ranges_inclusive": [
+        [
+          1,
+          65
+        ],
+        [
+          66,
+          113
+        ],
+        [
+          114,
+          136
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 42,
+      "id": 45913,
+      "catalog_id": 45913,
+      "wordpress_object_id_http_verified": 45913,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/redefining-farm-raised-fish/",
+      "final_url": "https://www.westonaprice.org/podcast/redefining-farm-raised-fish/",
+      "canonical": "https://www.westonaprice.org/podcast/redefining-farm-raised-fish/",
+      "title_catalog": "Redefining Farm-Raised Fish",
+      "title_recovered": "Redefining Farm-Raised Fish",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "July 22, 2024",
+      "catalog_chars": 31031,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:51.751583+00:00",
+      "html_sha256_physical": "a2b48984d3057060afa89daeb13f492f4825bfa0d9845b98a2ca7d16cb9c7d8a",
+      "text_sha256_physical": "a761eed8af3c8a0e5dc4c338491f699d80615bbbf8e897c3d1a09abc99a09703",
+      "lines": 122,
+      "chars": 30666,
+      "read_ranges_inclusive": [
+        [
+          1,
+          53
+        ],
+        [
+          54,
+          105
+        ],
+        [
+          106,
+          122
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 43,
+      "id": 34847,
+      "catalog_id": 34847,
+      "wordpress_object_id_http_verified": 34847,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/rediscover-bone-broth/",
+      "final_url": "https://www.westonaprice.org/podcast/rediscover-bone-broth/",
+      "canonical": "https://www.westonaprice.org/podcast/rediscover-bone-broth/",
+      "title_catalog": "Rediscover Bone Broth",
+      "title_recovered": "Rediscover Bone Broth",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "November 16, 2020",
+      "catalog_chars": 20076,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:51.767707+00:00",
+      "html_sha256_physical": "8ae2c0003bd6cbb73e1f2a84904306973b5029e11145b2391c2ad21ad5d34c93",
+      "text_sha256_physical": "73a8d414257345be916560c5b8a0a02b8953283c5007e298ada5409f0ff1dcac",
+      "lines": 83,
+      "chars": 19847,
+      "read_ranges_inclusive": [
+        [
+          1,
+          51
+        ],
+        [
+          52,
+          83
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 44,
+      "id": 44008,
+      "catalog_id": 44008,
+      "wordpress_object_id_http_verified": 44008,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/reduce-waste-for-a-more-sustainable-lifestyle/",
+      "final_url": "https://www.westonaprice.org/podcast/reduce-waste-for-a-more-sustainable-lifestyle/",
+      "canonical": "https://www.westonaprice.org/podcast/reduce-waste-for-a-more-sustainable-lifestyle/",
+      "title_catalog": "Reduce Waste For A More Sustainable Lifestyle",
+      "title_recovered": "Reduce Waste For A More Sustainable Lifestyle",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "September 11, 2023",
+      "catalog_chars": 36866,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:52.130269+00:00",
+      "html_sha256_physical": "4b436205d2cdc0a46322b2b2d3d4d74e1bfc245b3db0428be69f88a2b6624333",
+      "text_sha256_physical": "108062d512a33cdaec450eab029d7a2dfd82641f87d21b2d0bda3f8d3a461b06",
+      "lines": 109,
+      "chars": 36533,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ],
+        [
+          45,
+          73
+        ],
+        [
+          74,
+          109
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 45,
+      "id": 44266,
+      "catalog_id": 44266,
+      "wordpress_object_id_http_verified": 44266,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/return-to-real-food/",
+      "final_url": "https://www.westonaprice.org/podcast/return-to-real-food/",
+      "canonical": "https://www.westonaprice.org/podcast/return-to-real-food/",
+      "title_catalog": "Return To Real Food",
+      "title_recovered": "Return To Real Food",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "October 9, 2023",
+      "catalog_chars": 41791,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:52.658713+00:00",
+      "html_sha256_physical": "f5ddf75a318f1e54a621853fb3cec7202c91e2739c9b415a5a7547ce0149f6a1",
+      "text_sha256_physical": "9e9e5930f544f6ffc59eb56f663162929f9d95da3a36634f9ac85565b6857b44",
+      "lines": 135,
+      "chars": 41450,
+      "read_ranges_inclusive": [
+        [
+          1,
+          49
+        ],
+        [
+          50,
+          85
+        ],
+        [
+          86,
+          135
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 46,
+      "id": 42030,
+      "catalog_id": 42030,
+      "wordpress_object_id_http_verified": 42030,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/slow-fashion/",
+      "final_url": "https://www.westonaprice.org/podcast/slow-fashion/",
+      "canonical": "https://www.westonaprice.org/podcast/slow-fashion/",
+      "title_catalog": "Slow Fashion",
+      "title_recovered": "Slow Fashion",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "September 26, 2022",
+      "catalog_chars": 29718,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:52.725999+00:00",
+      "html_sha256_physical": "a208cde3be5ae6e14bcbdc43c62bad594effa2730dd0cd1d5c6935ba054cf121",
+      "text_sha256_physical": "2ce550c58c2684448ca160edf1d9f762a1bc4475ff81fc0e53f7860bb794bdcc",
+      "lines": 123,
+      "chars": 29403,
+      "read_ranges_inclusive": [
+        [
+          1,
+          60
+        ],
+        [
+          61,
+          97
+        ],
+        [
+          98,
+          123
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 47,
+      "id": 35184,
+      "catalog_id": 35184,
+      "wordpress_object_id_http_verified": 35184,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/start-strong/",
+      "final_url": "https://www.westonaprice.org/podcast/start-strong/",
+      "canonical": "https://www.westonaprice.org/podcast/start-strong/",
+      "title_catalog": "Start Strong",
+      "title_recovered": "Start Strong",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "January 4, 2021",
+      "catalog_chars": 27387,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:53.054090+00:00",
+      "html_sha256_physical": "b699e99ed02ecff4c6d7f0c5918a18960bd607f4dbd56a9980ea2de8b54a684c",
+      "text_sha256_physical": "0c1c75fbeb02b78120f8eb4c8ffd28b8f29808b829e328b465be1b83a0f48898",
+      "lines": 91,
+      "chars": 27127,
+      "read_ranges_inclusive": [
+        [
+          1,
+          41
+        ],
+        [
+          42,
+          91
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 48,
+      "id": 47029,
+      "catalog_id": 47029,
+      "wordpress_object_id_http_verified": 47029,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/steps-to-really-make-america-healthy-again-with-sally-fallon-morell/",
+      "final_url": "https://www.westonaprice.org/podcast/steps-to-really-make-america-healthy-again-with-sally-fallon-morell/",
+      "canonical": "https://www.westonaprice.org/podcast/steps-to-really-make-america-healthy-again-with-sally-fallon-morell/",
+      "title_catalog": "Steps To Really Make America Healthy Again With Sally Fallon Morell",
+      "title_recovered": "Steps To Really Make America Healthy Again With Sally Fallon Morell",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "March 10, 2025",
+      "catalog_chars": 25545,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:54.014748+00:00",
+      "html_sha256_physical": "c78b640c869eab6c9c3e4ab10e024d3c75141635ddc803c05ce5f391b329df0d",
+      "text_sha256_physical": "cb6464d32ad44fe8ad25a8c9b16fc84be26452ae0912d6d325300ec59a1269fb",
+      "lines": 134,
+      "chars": 25147,
+      "read_ranges_inclusive": [
+        [
+          1,
+          67
+        ],
+        [
+          68,
+          134
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_episode_transcript_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    },
+    {
+      "batch_index": 49,
+      "id": 44482,
+      "catalog_id": 44482,
+      "wordpress_object_id_http_verified": 44482,
+      "index_vs_http_identity_divergence": false,
+      "url": "https://www.westonaprice.org/podcast/stop-counting-calories-count-nutrients-instead/",
+      "final_url": "https://www.westonaprice.org/podcast/stop-counting-calories-count-nutrients-instead/",
+      "canonical": "https://www.westonaprice.org/podcast/stop-counting-calories-count-nutrients-instead/",
+      "title_catalog": "Stop Counting Calories. Count Nutrients Instead",
+      "title_recovered": "Stop Counting Calories. Count Nutrients Instead",
+      "author_recovered": "Hilda Labrada Gore",
+      "displayed_date": "November 27, 2023",
+      "catalog_chars": 44391,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-26T18:45:53.699241+00:00",
+      "html_sha256_physical": "4f0c12f33c0ee4ce154adaf9abf1eeb902d2efdcf880797d45f4e0e5cabae54c",
+      "text_sha256_physical": "41b91753becb9c5fdaff4995b18bb7243c10fa8af3e8eca79cc009f825f64fbb",
+      "lines": 149,
+      "chars": 43958,
+      "read_ranges_inclusive": [
+        [
+          1,
+          46
+        ],
+        [
+          47,
+          90
+        ],
+        [
+          91,
+          128
+        ],
+        [
+          129,
+          149
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "text_type": "supplied_transcript_and_attached_minisode_plus_page_material_not_audio_verified",
+      "extraction_and_semantic_reading_separate": true
+    }
+  ],
+  "date": "2026-11-26",
+  "private_reading_manifest_sha256": "a05f9fce5603554ef872fbf43de1cced5a4c0084b0021c9e8056a8c0ab238fdf",
+  "private_culinary_candidate_manifest_sha256": "b6ab69c4c43a0b4cea2ec9221f5aeadf42ae1e54e429f2e10f5a6c5308f570b7",
+  "root_review": {
+    "full_new_source_synthesis_and_culinary_notebook_read": true,
+    "full_independent_qa_report_read": true,
+    "all100_physical_hashes_and_complete_ranges_checked": true,
+    "whole_private_extended_reports_or_original50_reread_claim": false,
+    "original_focal_ranges": {
+      "17": [
+        [
+          75,
+          93
+        ]
+      ],
+      "11": [
+        [
+          43,
+          58
+        ]
+      ],
+      "43": [
+        [
+          31,
+          70
+        ]
+      ]
+    },
+    "focal_output_references": [
+      "2428b9",
+      "42b715"
+    ],
+    "old_extended_candidates_not_published": true
+  },
+  "independent_qa": {
+    "private_manifest_sha256": "457039b029019cd996ce7cdcc0187f2e0213df9b44b170600b06521d6a4b426d",
+    "private_artifact_sha256": {
+      "parecer-qa-independente.md": "09f0e44e535aa5b3b5e5200005130af3064f74d3cac360ce5365d9823279bea1",
+      "evidencias-focais.jsonl": "eb27740ce58346dff1ae7ce315dc7b106d7a8f5be6c6284dbca337e9df1a3330",
+      "verificacao-fisica-50.json": "17e1d6fec71588babad7eff8cb025b95c53a4eceb0d3d3243a8208619b97e139",
+      "conciliacao-tabela-publica-50.json": "44ad68653ff68fe1113ea565e95c7152ba2bb6fb940683802e45bbf6b2ca58d9",
+      "conciliacao-nova-sintese-50.json": "d9edf1312f894bb37798319ba4327441aa7f81e1d0af6bc504c9938cc57aad10",
+      "snapshot-derivados-finais.json": "df5dafeca2cc8573c7f1d94c975ed4d81284a9f78e22ef43dab2621956eb751c",
+      "snapshot-novos-derivados.json": "95a2ba32578fc054bcc1fa1a8f15cbda6c16c8844dcd95695338354b15d37c94",
+      "checkpoint-leitura-derivados.json": "88f511df9cfa45fe49e675ca6b7512250f21c6391063c1f2a281379863e79fa1",
+      "plano-leitura-derivados.json": "20e117f9d9e757fd390c4405b1628a4fa894d38622318625792cbd5646227250",
+      "estado-qa-final.json": "6d502d6b2320bfdc23af14648f93f15318e996c583cb2792434767ec7d0d0010",
+      "ler-derivados.py": "647c8dbb03df041a34ca9c1339791e3d558b669035121150b94d139c1aeba604",
+      "source-note-publica.md": "3fa5d304b19fb39e2b6d78716f9ebc8fa8f5ab1e28f79c66de0fdeedd7398513",
+      "caderno-publico.md": "7924a75f48eb26a74c29c667249673ce28c13ddcfca7c895db93249429caa401",
+      "registro-publico.json": "dd118c921b3501b41773a8ba7a71d9e1bc87545a3b349cd9ee1420c50d874a6a",
+      "manifesto-leitura-integral-50.json": "a05f9fce5603554ef872fbf43de1cced5a4c0084b0021c9e8056a8c0ab238fdf",
+      "source-note-publica-sintese.md": "bca53c951b2711a798bfcee5d42679549920e0d9e48a42285db6fad4e75f7fce",
+      "caderno-publico-culinario.md": "578a95c50aa23d91b7b0317fd7bdb764742efa6b9f35c6c2f42c0bedfcb19622",
+      "manifesto-derivados-culinarios.json": "b6ab69c4c43a0b4cea2ec9221f5aeadf42ae1e54e429f2e10f5a6c5308f570b7",
+      "qa-recorte-culinario.json": "2ea81ae236a305c77a046e25a613dcb68033088c25b2a69171aac4a76bcf734f"
+    },
+    "source_synthesis_and_culinary_notebook_fully_read": true,
+    "focal_original_sources": 21,
+    "focal_original_ranges": 36,
+    "physical_hashes_verified": 100,
+    "pending_factual_errors": 0,
+    "not_second_full_original50_reading": true
+  },
+  "selected_podcast124_union": {
+    "urls": 124,
+    "lines": 14416,
+    "characters": 3921851,
+    "physical_hashes_checked": 248,
+    "matches_original_acquisition_class_exactly": true,
+    "no_new_audio_asr_or_external_studies_reading_claim": true
+  }
+}

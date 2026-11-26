@@ -310,3 +310,7 @@
 
 - [Mark Sisson/MDA:196 IDs, fila real e lacunas de edição](wiki/fontes/mda-midias-reconciliacao196.md)
 - [Primal Blueprint:união das sete capturas RSS,1.140 GUIDs](raw/mark-rss-uniao1140-2026-11-26.json)
+
+- [WAPF:50 páginas finais de podcasts e fechamento das124 selecionadas](wiki/fontes/wapf-podcast-lote2-50.md)
+- [Sopa de coco, bases, ramen, tutano e outras descrições culinárias dos podcasts](wiki/temas/receitas-wapf-podcast-lote2.md)
+- [Sopa de coco com caldo:quatro porções e variantes originais](wiki/temas/receitas-caldo.md#sopa-de-coco-com-caldo-de-frango-gengibre-e-limão)

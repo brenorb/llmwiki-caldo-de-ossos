@@ -218,6 +218,28 @@ A receita de Mandy Blume usa **480 mL de caldo de frango ou peru**, uma abóbora
 
 Para uma versão sem maçã, aqueça **425 g de purê de abóbora sem açúcar** com **480 mL de caldo**. Junte cebola e alho previamente refogados e curry a gosto. Bata até ficar cremoso e finalize com coentro ou hortelã. Para reduzir ainda mais os carboidratos, teste substituir parte do purê por couve-flor cozida. O preparo na panela e as trocas são adaptações da wiki. [Conservação](seguranca-conservacao.md)
 
+## Sopa de coco com caldo de frango, gengibre e limão
+
+Nick Barnard publicou esta fórmula para **quatro porções** ao fim da entrevista à WAPF. São **15–20 minutos de cocção depois de juntar os ingredientes**, usando caldo pronto. [Receita original e variantes](https://www.westonaprice.org/podcast/healthy-doesnt-mean-bland/)
+
+| Ingrediente | Quantidade original |
+|---|---|
+| Caldo de frango pronto | 1 L; a fonte imprime literalmente “I litre”. |
+| Leite de coco orgânico integral **ou** polpa de coco prensada em bloco (*creamed coconut*) | **350 g de leite ou 225 g do bloco**, como alternativas. |
+| Gengibre orgânico fresco ralado | **5 g / 1 teaspoon**, equivalência escrita pela fonte. |
+| Limão sem cera ou orgânico | Suco de **1 limão**. |
+| Sal marinho em flocos ou cinza; salsinha de folha lisa | Sem medidas fornecidas. |
+
+1. Leve o caldo a fervura branda e retire a espuma, se houver.
+2. Junte coco, limão e gengibre. Mantenha em fervura branda por cerca de **15–20 minutos**.
+3. Prove o sal e sirva com salsinha picada.
+
+**Variantes da própria fonte:** Nam Pla no lugar do sal; finalizar com coentro e cebolinha; cozinhar com pimenta vermelha picada; usar caldo de veado ou peixe. Não há medidas adicionais ou novos tempos para essas opções.
+
+A lista original não acrescenta açúcar, farinha ou arroz. Para escolher produtos com menos carboidratos, confira açúcar adicionado e rótulos do coco/caldo; não há macros medidos por porção. A fonte pede coco integral sem aditivos. Volume final, tamanho das porções e conservação não foram fornecidos. [Detalhes e limites](receitas-wapf-podcast-lote2.md#17--nicks-coconut-chicken-soup)
+
+As alegações de imunidade e alívio de resfriado pertencem ao autor; não foi consultado ensaio desta sopa que as demonstrasse. [Classificação da evidência](../fontes/wapf-podcast-lote2-50.md)
+
 ## Mais caminhos
 
 | Preparo | Como usar e adaptar | Fonte |

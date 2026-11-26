@@ -144,3 +144,5 @@ Não há laudo de B9/folato, vitamina K, cobre ou colágeno por porção desses 
 [Primeiro lote50](wapf-podcast-lote1-50.md) · [Cobertura geral](../cobertura.md) · [Proveniência](../proveniencia.md)
 
 O caderno e esta nota tiveram QA por outro subagente, com passagens focais dos24 originais,48 hashes/86 intervalos conferidos. Não encontrou erro material; a cópia pública esclarece a quantidade coloquial de pés sem inventar uma proporção fixa. [Prova e hashes do QA](../../raw/wapf-podcast-lote3-24-2026-11-26.json)
+
+Com o [lote2/50](wapf-podcast-lote2-50.md), o conjunto selecionado fecha124/124 corpos textuais; não equivale a124 gravações ouvidas.

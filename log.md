@@ -1214,3 +1214,7 @@ Registrado [QA do lote50](wiki/fontes/wapf-podcast-lote1-50.md),31 fontes/50 int
 ## [2026-11-26] revisão |MDA196 e RSS1140:conciliar pendências sem repetir leituras
 
 Incorporada [reconciliação de mídias](wiki/fontes/mda-midias-reconciliacao196.md) com196IDs e34candidatosRSS históricos. Revisor leu parecer inteiro e conferiu181TXT/166estados,13registros das144leituras e seteXML/1.140GUIDs. NenhumTXTnovo pronto na filaMDA;15falhas de acesso e vazios/quadros mantêm lacunas próprias. Preservadas diferenças de prova66hashesTXT explícitos/78declarações porID, sem retroatividade inventada. XML1000contém doisGUIDs omitidos noTSV998; união completa registrada, sem novos episódios lidos ou receitas inferidas.
+
+## [2026-11-26] ingestão |124 páginas de podcast e ficha completa da sopa de coco
+
+Incorporados [50 corpos finais](wiki/fontes/wapf-podcast-lote2-50.md),6.415 linhas/1.790.378 caracteres/100 hashes/149 intervalos, com [caderno culinário](wiki/temas/receitas-wapf-podcast-lote2.md). União exata124/124 da classe selecionada,14.416 linhas/3.921.851 caracteres/248 hashes/386 intervalos. Revisor leu novos derivados/QA e focais; outro agente conferiu21 originais/36 intervalos e100 hashes sem erro factual pendente. A [sopa de coco](wiki/temas/receitas-caldo.md#sopa-de-coco-com-caldo-de-frango-gengibre-e-limão) tem ingredientes, quatro porções,15–20min e todas as variantes. Remédios, fórmulas infantis/pets e detalhes alheios não viraram fichas adultas; textos lidos não foram contados como áudio/estudos.

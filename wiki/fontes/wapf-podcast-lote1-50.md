@@ -82,3 +82,5 @@ Correção editorial: no item15, a fonte anuncia tipos de caldo sem indicar quan
 A frequência pessoal de língua desfiada em49L51 foi completada: primeiro “uma ou duas vezes por mês”, depois “provavelmente uma vez”. Ambas são falas de consumo, não duração do preparo. Espaçamentos editoriais foram ajustados na cópia pública, sem mudar medidas ou destinos dos links.
 
 A revisão por outro agente leu nota/caderno completos, confrontou31 fontes em50 intervalos focais e conferiu100 hashes/tabela50, sem segunda leitura integral de todos os originais. A correção de “oito”, a frequência de língua e os espaçamentos foram aplicados apenas no público. O campo privado legado `human_read=true` não comprova leitor humano; a prova pública identifica leitura por agente e conserva os hashes dos originais. [Registro do QA](../../raw/wapf-podcast-lote1-50-2026-11-26.json)
+
+O [lote2/50](wapf-podcast-lote2-50.md) fecha124/124 páginas textuais selecionadas, com escopos e QA próprios. Não amplia a contagem a áudios, estudos ou destinos só mencionados.

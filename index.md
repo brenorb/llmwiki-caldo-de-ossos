@@ -283,3 +283,6 @@
 - [Caldos de Sarah Pope, sopa sazonal e pele suína: versões e escolhas low carb](wiki/temas/receitas-wapf-other-lote4.md)
 - [WAPF: inventário das249 demais páginas, aquisição e12 lacunas de extração](wiki/fontes/wapf-classes-restantes-aquisicao249.md)
 - [Wise Traditions:237 resultados de áudio disponíveis,236 logs estritos e uma reconciliação](wiki/fontes/wapf-audio-en-processamento237.md)
+- [WAPF: doze índices recuperados e leitura da lista Soup & Broth](wiki/fontes/wapf-direct-index-main12.md)
+- [Making Stock on the Farm: leitura adicional de fonte temática antes negativa](wiki/fontes/wapf-making-stock-farm.md)
+- [Caldo bovino/cervo em escala de fazenda: método, diluição e limites](wiki/temas/receita-wapf-stock-farm.md)

@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-26",
+  "scope": "One additional thematic catalog-negative health source found by direct Soup&Broth navigation; not within393positive or12indices",
+  "private_manifest_sha256": "620218f08082970ddf9a55cbdccef494d344eb54fba00a11c00f73c8a8ae2fdc",
+  "private_artifact_sha256": {
+    "recuperacao.jsonl": "323e7767e2aa229b5dd474a04729349ce2d21445b3858c5725dc1d1e9ae68025",
+    "catalogo-fixo-unico.jsonl": "6f2e0480a0259222487c00f12c378a197a129cb75f470c695642f0dde2ff8bb2",
+    "prova-extracao-e-leitura.json": "0ab3975f160528a438f1eba1a7eed3fe2fabaa5e4cebf7b5913bb9eb1b8063c1",
+    "prova-extracao.json": "ff67edebecbf467844140224785cb546e117e3083e690fa9b56ef3c4c886c493",
+    "parser-preservado.py": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+    "concluir.py": "8d6d0caaf551a21962dae85fd5c40671c10c84f7ab4f7cf7b556350eff3e2579",
+    "prova-leitura.json": "20c7d86793698c0a257205d0792e2131b7d419c54aa25ecfb11602a046dd965b",
+    "modelo-aquisicao-preservado.py": "70c39c39de2ff91abad1f81b43c332a9cb1f9025aea2d5e3eedb59f82b97f2d2",
+    "parecer-fonte-unica.md": "2b30fa1f9f9f5deb6a432999874cc0d5bd2d61570788e9b81ad095b4c9ae86ef",
+    "ledger-fonte-unica.jsonl": "65b142968523d82140775bb39ee670b4302a9a252db7bc2bb6a29200029a172f",
+    "falhas-aquisicao.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "checkpoint-aquisicao.json": "71df69625845490af03b6348f4a8fdafe661f0d51e3433bca6aa96265b2d5f21",
+    "adquirir.py": "94c2d8a8872b1243eac0f4678127f2c9ea1c28b5018ef91d2e8d579ed8e7be89",
+    "caderno-culinario-adulto-fonte-unica.md": "d89dd41ddd7ae7f3275f284f603fc3c379344129d0dbc8534676b9c0c8241156"
+  },
+  "root_review": "Full original16-line TXT, full report and full culinary notebook read; two physical hashes, original postid/shortlink, ranges and artifact hashes checked.",
+  "selection": {
+    "catalog_term_count": 0,
+    "catalog_health_index": 609,
+    "original_feed_line": 1223,
+    "catalog_chars": 3408,
+    "current_chars": 3318,
+    "negative_catalog_size": 1022,
+    "prior_negative_requested_urls": 100,
+    "additional_disjoint_negative_urls": 1,
+    "recorded_negative_addresses_with_this_source": 101,
+    "remaining_negative_catalog_urls_without_this_selected_proof": 921,
+    "catalog_sha256": "54fe78f08343a59165c05bf15d79699ba58da540c206f35ce7a94979a689289d"
+  },
+  "current_soup_broth_direct_list": {
+    "article_links": 7,
+    "previous_positive_health_matched": 6,
+    "additional_negative_source_now_read": 1,
+    "complete_available_article_bodies_covered": 7,
+    "limits": "Only seven direct article links of saved static section, available current TXT; not all site, historic issues/images/media or linked studies."
+  },
+  "row": {
+    "batch_index": 0,
+    "id": "6035",
+    "catalog_id_original": 6035,
+    "id_kind": "WordPress health-topics post, catalog integer preserved separately",
+    "url": "https://www.westonaprice.org/health-topics/food-features/making-stock-on-the-farm/",
+    "canonical": "https://www.westonaprice.org/health-topics/food-features/making-stock-on-the-farm/",
+    "title": "Making Stock on the Farm",
+    "author": "Michael Anton Parker",
+    "displayed_date": "September 27, 2004",
+    "journal_attribution": "Summer2004",
+    "verified_wpid": "6035",
+    "body_wpid": "6035",
+    "shortlink_wpid": "6035",
+    "html_sha256_physical": "43459e4f3c0dd0ec9f54349c2b0f740b4097a8340a80169332121ecf6d0db5cf",
+    "text_sha256_physical": "667928c4cc3c53a768d9025064b6bfddad6e2f7689eae9c57e72455a83b1c982",
+    "lines": 16,
+    "chars": 3318,
+    "catalog_chars": 3408,
+    "catalog_term_count": 0,
+    "catalog_feed_line": 1223,
+    "parent_reported_health_index": 609,
+    "read_ranges_inclusive": [
+      [
+        1,
+        16
+      ]
+    ],
+    "display_ranges_inclusive": [
+      [
+        1,
+        16
+      ]
+    ],
+    "extraction_evidence": "prova-extracao.json",
+    "reading_evidence": "prova-leitura.json",
+    "coverage_class": "separate negative thematic source discovered bynavigation; not393positivehealth and not12indices",
+    "limits": "Current strict physical body fully read; not historical magazine issue, photos, comments or external destinations.",
+    "html_locator": "000-6035.html",
+    "text_locator": "000-6035.txt",
+    "access": {
+      "status": "200",
+      "final_url": "https://www.westonaprice.org/health-topics/food-features/making-stock-on-the-farm/",
+      "retrieved_at_utc": "2026-11-26T19:03:23.454181+00:00",
+      "exit_code": 0
+    }
+  },
+  "limits": [
+    "Commercial-scale historical observation, not household scaling, clinical/laboratory experiment or present prices.",
+    "Capacity120gallons and output50quarts are distinct; no volume or dilution nutrient analysis inferred.",
+    "No B9/K/copper/gelatin percentage or hair repigmentation data.",
+    "Pictures/comments/media/linked destinations were not read; historical cold holding/storage not validated."
+  ]
+}

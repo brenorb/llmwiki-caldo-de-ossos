@@ -1155,3 +1155,8 @@ Incorporada [auditoria dos237 GUIDs](wiki/fontes/wapf-audio-en-processamento237.
 ## [2026-11-26] revisão | Episódio181: log inteiro e limite da identificação histórica
 
 O [esclarecimento focal](wiki/fontes/wapf-audio-en-processamento237.md#o-episódio181) distingue1–12 duplicados no log inteiro de6–12 após o último anúncio. Uma separação hipotética admite um ciclo1–17 e outro1–12; semPID ou build histórico identificado não prova qual escreveu oTXT. Preservados os16 entregáveis congelados; root leu parecer focal e conferiu três novos hashes. Nenhuma novaASR ou evidência de fala faltante.
+
+
+## [2026-11-26] ingestão | Doze índices recuperados e artigo de caldo antes negativo
+
+Incorporada [leitura integral dos12 main estáticos](wiki/fontes/wapf-direct-index-main12.md),2.072 linhas/99.113 caracteres,18 faixas e36 hashes; índices/destinos permanecem distintos. Root leu parecer eSoup&Broth completo. A navegação revelou [Making Stock on the Farm](wiki/fontes/wapf-making-stock-farm.md), fora dos393 positivos e sem prova no conjunto anterior:16 linhas/3.318 caracteres lidos por agente/root, dois hashes eWPID6035. [Caderno](wiki/temas/receita-wapf-stock-farm.md) preserva escala/medidas/diluição e ausências. Fechados7/7 corpos disponíveis da lista diretaSoup&Broth, sem ampliar a todo o site. São101 dos1.022 negativos documentados;921 ainda sem prova nesse conjunto.

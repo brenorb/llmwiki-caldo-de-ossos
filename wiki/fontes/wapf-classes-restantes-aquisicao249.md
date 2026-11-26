@@ -2,7 +2,9 @@
 
 Em26/11/2026, a aquisição do catálogo fixo887 alcançou **todos os249 alvos** das classes restantes. O revisor conferiu **498 hashes físicos**, identidades, contagens e flags de texto não branco. Foram249 respostasHTTP200, com **237 TXT não brancos e12 lacunas de extração**. Isso é aquisição, **sem acrescentar leituras semânticas ou fontes clínicas**. [Inventário completo porURL, acesso, hashes e lacunas](../../raw/wapf-classes-restantes-aquisicao249-2026-11-26.json)
 
-| Classe original | URLs | TXT não brancos | Objeto e limite |
+**Atualização posterior:** os [12 textos estáticos principais foram recuperados e lidos](wapf-direct-index-main12.md), com escopo `main#genesis-content` e versões estritas originais preservadas. Isso resolve a lacuna do texto principal salvo, sem declarar destinos, paginação ou mídia lidos. As contagens abaixo continuam sendo as da aquisição estrita inicial.
+
+| Classe original | URLs | TXT estritos não brancos | Objeto e limite |
 |---|---:|---:|---|
 | Podcast |124|124|Páginas textuais; ler o texto não significa ter ouvido a gravação.|
 | Book-review |78|78|Resenhas; não representam leitura integral dos livros.|
@@ -17,7 +19,7 @@ Os índices locais de tipos próprios permitiram identificar216 URLs;33 índices
 
 Em arquivos como `/blog/`, o título/autor/data recuperados podem corresponder ao **primeiro artigo listado**, não ao arquivoBlog. O alvo continua sendo a URL e classe catalogadas. Não se substituiu o índice por esse artigo.
 
-As12 extrações brancas são todas de índices diretos. O modelo original considerou espaços/quebras como conteúdo válido em dois casos; a auditoria exige texto físico não branco e preserva ambas as flags. A lista completa dessasURLs e os respectivos hashes estão no registro. **HTTP200 com TXT branco não é leitura concluída nem prova de página globalmente vazia/inacessível.** O próximo passo é examinar osHTML preservados com extração própria para arquivos, mantendo a paginação e os destinos separados.
+As12 extrações brancas são todas de índices diretos. O modelo original considerou espaços/quebras como conteúdo válido em dois casos; a auditoria exige texto físico não branco e preserva ambas as flags. A lista completa dessasURLs e os respectivos hashes estão no registro. **HTTP200 com TXT branco não é leitura concluída nem prova de página globalmente vazia/inacessível.** A [extração posterior do main estático](wapf-direct-index-main12.md) recuperou esses textos, mantendo a paginação e os destinos separados.
 
 ## Cobertura que permanece fora desta aquisição
 

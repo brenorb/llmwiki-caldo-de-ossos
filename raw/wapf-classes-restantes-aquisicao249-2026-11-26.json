@@ -15893,5 +15893,12 @@
       "curl_exit_code": 0,
       "new_semantic_reading_claim": false
     }
-  ]
+  ],
+  "later_static_main_followup": {
+    "record": "wapf-direct-index-main12-2026-11-26.json",
+    "recovered_static_main_texts": 12,
+    "delegated_complete_main_reads": 12,
+    "original_strict_blank_versions_preserved": true,
+    "destinations_pagination_media_not_implied": true
+  }
 }

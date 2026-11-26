@@ -10,6 +10,8 @@ O [caderno de estofados e caldos japoneses](receitas-wapf-other-lote2.md) acresc
 
 O [caderno de Sarah Pope e sopa sazonal](receitas-wapf-other-lote4.md) preserva a transcrição própria dos caldos de frango/bovino e variantes, a sopa de pele suína e a lista sazonal completa. Separa potes de rendimento, ambiguidades de cenoura/aipo e alegações antigas de conservação dos controles domésticos.
 
+O [registro de caldo em escala de fazenda](receita-wapf-stock-farm.md) mantém o método histórico de Parker, rendimento aproximado50quarts, capacidade da panela120gallons e diluição1:1, sem calcular escala doméstica ou concentração de nutrientes. É documentação adicional, com as proporções/temperaturas ausentes explícitas.
+
 ## Frango na pressão ou no fogão
 
 **Para uma carcaça de frango já assado**, use cerca de **2 L de água**, uma cenoura pequena, um talo de salsão e um pedaço de cebola. Limão, alho, tomilho e pimenta são opcionais. O ponto de partida foi a receita do Mark’s Daily Apple, ajustada para aromáticos mais discretos.

@@ -1,0 +1,1287 @@
+{
+  "proof_kind": "delegated_agent_semantic_reading",
+  "human_read": false,
+  "audio_listened": false,
+  "new_asr": false,
+  "sources": 24,
+  "unique_urls": 24,
+  "physical_hashes_verified": 48,
+  "lines": 3141,
+  "chars": 846341,
+  "ranges": 86,
+  "gaps": [],
+  "source_class": "podcast",
+  "included_in_393_health": false,
+  "limits": [
+    "Published transcript/synopsis/text reading is not listened audio or guaranteed transcript accuracy.",
+    "No linked destinations, external studies, comments, images or media read.",
+    "No operational infant, therapeutic, enema or cosmetic instructions in public derivatives.",
+    "Original acquisition flags preserved; delegated agent reading proof separate from acquisition.",
+    "No measured B9/K/copper/collagen dose per broth or demonstrated repigmentation."
+  ],
+  "catalogue_sha256": "06ede6beccb0fb52ee710b4ac7491964d852a26305341361ab9fed5b8873a34f",
+  "private_frozen_manifest_sha256": "9bb9938adcf4f8d064e461395555efc162979ee12f7ef3275a3eca54680a7936",
+  "items": [
+    {
+      "batch_index": 0,
+      "id": "42222",
+      "id_catalog_original": 42222,
+      "url": "https://www.westonaprice.org/podcast/the-gaps-diet-a-powerful-healing-protocol/",
+      "canonical": "https://www.westonaprice.org/podcast/the-gaps-diet-a-powerful-healing-protocol/",
+      "title": "The GAPS Diet: A Powerful Healing Protocol",
+      "title_recovery": "The GAPS Diet: A Powerful Healing Protocol",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "October 31, 2022",
+      "meta": {
+        "article:modified_time": "2025-08-14T17:19:31+00:00"
+      },
+      "wordpress_object_id_http_verified": "42222",
+      "body_wordpress_id_candidates": [
+        "42222"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "42222"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "94606f9953dee337e65dd8ac4a339f6455d389b32ba282b76cbb69143f331b79",
+      "text_sha256_physical": "7f526f4f3f574794c1357cbe7ab268677be46e9f92b953a745a63d3b20d6fb68",
+      "lines": 140,
+      "chars": 43445,
+      "catalog_chars": 43816,
+      "acquisition_chars": 43445,
+      "read_ranges_inclusive": [
+        [
+          1,
+          47
+        ],
+        [
+          48,
+          74
+        ],
+        [
+          75,
+          101
+        ],
+        [
+          102,
+          140
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 1,
+      "id": "49609",
+      "id_catalog_original": 49609,
+      "url": "https://www.westonaprice.org/podcast/the-healing-power-of-no-plant-gaps-with-monika-holland/",
+      "canonical": "https://www.westonaprice.org/podcast/the-healing-power-of-no-plant-gaps-with-monika-holland/",
+      "title": "The Healing Power Of No Plant GAPS With Monika Holland",
+      "title_recovery": "The Healing Power Of No Plant GAPS With Monika Holland",
+      "author": "Kendall Nelson",
+      "displayed_date": "September 7, 2026",
+      "meta": {},
+      "wordpress_object_id_http_verified": "49609",
+      "body_wordpress_id_candidates": [
+        "49609"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "49609"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "cd840d905340b901eef49aaddef422e29f38052d0f9ce8a8bb4a71f69fc14fe6",
+      "text_sha256_physical": "ac9065c02bcb0a9552cd47f08815da80599ba4109a27f9d9a103f69726b1cafe",
+      "lines": 119,
+      "chars": 35379,
+      "catalog_chars": 35749,
+      "acquisition_chars": 35379,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          71
+        ],
+        [
+          72,
+          104
+        ],
+        [
+          105,
+          119
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 2,
+      "id": "49685",
+      "id_catalog_original": 49685,
+      "url": "https://www.westonaprice.org/podcast/the-healing-power-of-therapeutic-enemas-with-monika-holland/",
+      "canonical": "https://www.westonaprice.org/podcast/the-healing-power-of-therapeutic-enemas-with-monika-holland/",
+      "title": "The Healing Power Of Therapeutic Enemas With Monika Holland",
+      "title_recovery": "The Healing Power Of Therapeutic Enemas With Monika Holland",
+      "author": "Kendall Nelson",
+      "displayed_date": "September 14, 2026",
+      "meta": {},
+      "wordpress_object_id_http_verified": "49685",
+      "body_wordpress_id_candidates": [
+        "49685"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "49685"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "cd9293059f24394235eaf87aafe43e7a7150c20c3327faa55896f4c968df4704",
+      "text_sha256_physical": "361bb18bc1db10c7f179afa890f06e78f6e20d4ac9a98048259628015977a9aa",
+      "lines": 121,
+      "chars": 39177,
+      "catalog_chars": 39558,
+      "acquisition_chars": 39177,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          63
+        ],
+        [
+          64,
+          87
+        ],
+        [
+          88,
+          121
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 3,
+      "id": "48826",
+      "id_catalog_original": 48826,
+      "url": "https://www.westonaprice.org/podcast/the-last-wild-protein-what-you-need-to-know-about-salmon-with-steve-kurian/",
+      "canonical": "https://www.westonaprice.org/podcast/the-last-wild-protein-what-you-need-to-know-about-salmon-with-steve-kurian/",
+      "title": "The Last Wild Protein: What You Need to Know About Salmon With Steve Kurian",
+      "title_recovery": "The Last Wild Protein: What You Need to Know About Salmon With Steve Kurian",
+      "author": "Kendall Nelson",
+      "displayed_date": "May 4, 2026",
+      "meta": {
+        "article:modified_time": "2026-05-04T09:29:21+00:00"
+      },
+      "wordpress_object_id_http_verified": "48826",
+      "body_wordpress_id_candidates": [
+        "48826"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "48826"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "2dd0ff558eb4836164011582791c39458a2f214c718cda548450c94f1baef3b0",
+      "text_sha256_physical": "136dc13fdd4ea97c5b935ed85ece0b9939ea261f64c13143169ad1364d805e2e",
+      "lines": 124,
+      "chars": 33745,
+      "catalog_chars": 34144,
+      "acquisition_chars": 33745,
+      "read_ranges_inclusive": [
+        [
+          1,
+          48
+        ],
+        [
+          49,
+          79
+        ],
+        [
+          80,
+          124
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 4,
+      "id": "47513",
+      "id_catalog_original": 47513,
+      "url": "https://www.westonaprice.org/podcast/the-medical-industry-is-mostly-based-on-bs-bad-science-with-dr-jeremy-ayres-and-john-gusty/",
+      "canonical": "https://www.westonaprice.org/podcast/the-medical-industry-is-mostly-based-on-bs-bad-science-with-dr-jeremy-ayres-and-john-gusty/",
+      "title": "The Medical Industry Is Mostly Based On BS (Bad Science) With Dr. Jeremy Ayres And John Gusty",
+      "title_recovery": "The Medical Industry Is Mostly Based On BS (Bad Science) With Dr. Jeremy Ayres And John Gusty",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "July 21, 2025",
+      "meta": {},
+      "wordpress_object_id_http_verified": "47513",
+      "body_wordpress_id_candidates": [
+        "47513"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "47513"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "e1639b8c4b0e0e9ac5ae60c03bae4e3320c9fe860170de4563baf0e86899b810",
+      "text_sha256_physical": "aebe45b9db10b7b486aa3ecce510055bd44c9fdebb87c579169bb79d2ebeece3",
+      "lines": 148,
+      "chars": 46052,
+      "catalog_chars": 46655,
+      "acquisition_chars": 46052,
+      "read_ranges_inclusive": [
+        [
+          1,
+          38
+        ],
+        [
+          39,
+          70
+        ],
+        [
+          71,
+          98
+        ],
+        [
+          99,
+          131
+        ],
+        [
+          132,
+          148
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 5,
+      "id": "47801",
+      "id_catalog_original": 47801,
+      "url": "https://www.westonaprice.org/podcast/the-nutrient-gap-why-traditional-diets-nourish-us-more-with-sally-fallon-morell/",
+      "canonical": "https://www.westonaprice.org/podcast/the-nutrient-gap-why-traditional-diets-nourish-us-more-with-sally-fallon-morell/",
+      "title": "The Nutrient Gap: Why Traditional Diets Nourish Us More With Sally Fallon Morell",
+      "title_recovery": "The Nutrient Gap: Why Traditional Diets Nourish Us More With Sally Fallon Morell",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "September 22, 2025",
+      "meta": {},
+      "wordpress_object_id_http_verified": "47801",
+      "body_wordpress_id_candidates": [
+        "47801"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "47801"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "2928a3d3b1a357b8e01f7335482420ca85fb47a8a50682e995adc0d94934b440",
+      "text_sha256_physical": "b778f9405d79e56fce9ece18542bedc3ee0d90f794166e7f6469ae4d5264626b",
+      "lines": 181,
+      "chars": 30201,
+      "catalog_chars": 30772,
+      "acquisition_chars": 30201,
+      "read_ranges_inclusive": [
+        [
+          1,
+          71
+        ],
+        [
+          72,
+          136
+        ],
+        [
+          137,
+          181
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 6,
+      "id": "41742",
+      "id_catalog_original": 41742,
+      "url": "https://www.westonaprice.org/podcast/the-problem-with-commercial-baby-formula/",
+      "canonical": "https://www.westonaprice.org/podcast/the-problem-with-commercial-baby-formula/",
+      "title": "The Problem With Commercial Baby Formula",
+      "title_recovery": "The Problem With Commercial Baby Formula",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "August 22, 2022",
+      "meta": {
+        "article:modified_time": "2022-12-03T16:34:10+00:00"
+      },
+      "wordpress_object_id_http_verified": "41742",
+      "body_wordpress_id_candidates": [
+        "41742"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "41742"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "ab35c62d1b0c25171d16e713111be4b56190f4709a3f5b86b3077368a7cb4bce",
+      "text_sha256_physical": "012dd0cde187b0ea4b80006a05343264720077a2455e98a8f0e94267310702ea",
+      "lines": 116,
+      "chars": 22689,
+      "catalog_chars": 23048,
+      "acquisition_chars": 22689,
+      "read_ranges_inclusive": [
+        [
+          1,
+          53
+        ],
+        [
+          54,
+          116
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 7,
+      "id": "37189",
+      "id_catalog_original": 37189,
+      "url": "https://www.westonaprice.org/podcast/the-sherlock-holmes-of-health/",
+      "canonical": "https://www.westonaprice.org/podcast/the-sherlock-holmes-of-health/",
+      "title": "The Sherlock Holmes of Health",
+      "title_recovery": "The Sherlock Holmes of Health",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "June 21, 2021",
+      "meta": {
+        "article:modified_time": "2022-12-03T16:37:04+00:00"
+      },
+      "wordpress_object_id_http_verified": "37189",
+      "body_wordpress_id_candidates": [
+        "37189"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "37189"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "c0a03efd1f448bde904ceb85ea7c2776431e8f164ca2f8d002201fafb241a3b7",
+      "text_sha256_physical": "d8b861c7eb9b34b12681bf24ccd8d924d8b20cfbf57614fed5c0d801230799ec",
+      "lines": 100,
+      "chars": 29051,
+      "catalog_chars": 29321,
+      "acquisition_chars": 29051,
+      "read_ranges_inclusive": [
+        [
+          1,
+          40
+        ],
+        [
+          41,
+          70
+        ],
+        [
+          71,
+          100
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 8,
+      "id": "35898",
+      "id_catalog_original": 35898,
+      "url": "https://www.westonaprice.org/podcast/the-solution-is-you/",
+      "canonical": "https://www.westonaprice.org/podcast/the-solution-is-you/",
+      "title": "The Solution Is You",
+      "title_recovery": "The Solution Is You",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "March 1, 2021",
+      "meta": {
+        "article:modified_time": "2022-12-03T16:37:49+00:00"
+      },
+      "wordpress_object_id_http_verified": "35898",
+      "body_wordpress_id_candidates": [
+        "35898"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "35898"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "300116258f315541a920fb028d96c8b6fdcc92c86ab408beb04edb31aac4f565",
+      "text_sha256_physical": "2f6aace2d58bb32253c227a2ca3b85d48a9f1e1753a715d2de77ea031edd2296",
+      "lines": 82,
+      "chars": 35831,
+      "catalog_chars": 36065,
+      "acquisition_chars": 35831,
+      "read_ranges_inclusive": [
+        [
+          1,
+          30
+        ],
+        [
+          31,
+          52
+        ],
+        [
+          53,
+          71
+        ],
+        [
+          72,
+          82
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 9,
+      "id": "46372",
+      "id_catalog_original": 46372,
+      "url": "https://www.westonaprice.org/podcast/the-tweakable-wise-traditions-diet-making-an-ancestral-diet-work-for-you-with-sally-fallon-morell/",
+      "canonical": "https://www.westonaprice.org/podcast/the-tweakable-wise-traditions-diet-making-an-ancestral-diet-work-for-you-with-sally-fallon-morell/",
+      "title": "The “Tweakable” Wise Traditions Diet: Making an Ancestral Diet Work for You with Sally Fallon Morell",
+      "title_recovery": "The “Tweakable” Wise Traditions Diet: Making an Ancestral Diet Work for You with Sally Fallon Morell",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "November 4, 2024",
+      "meta": {
+        "article:modified_time": "2025-08-15T15:59:52+00:00"
+      },
+      "wordpress_object_id_http_verified": "46372",
+      "body_wordpress_id_candidates": [
+        "46372"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "46372"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "df31b3c69455846dd9c786291e68eddbe2c90e1f173ff183adee31027fec4a27",
+      "text_sha256_physical": "6b458a9e6f6561d34257b874e0552d0d620cc23a3c67a40069b8927cac805a7a",
+      "lines": 192,
+      "chars": 36051,
+      "catalog_chars": 36875,
+      "acquisition_chars": 36051,
+      "read_ranges_inclusive": [
+        [
+          1,
+          65
+        ],
+        [
+          66,
+          130
+        ],
+        [
+          131,
+          178
+        ],
+        [
+          179,
+          192
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 10,
+      "id": "48139",
+      "id_catalog_original": 48139,
+      "url": "https://www.westonaprice.org/podcast/the-weston-a-price-foundation-yesterday-today-and-tomorrow-with-sally-fallon-morell/",
+      "canonical": "https://www.westonaprice.org/podcast/the-weston-a-price-foundation-yesterday-today-and-tomorrow-with-sally-fallon-morell/",
+      "title": "The Weston A. Price Foundation Yesterday, Today, And Tomorrow With Sally Fallon Morell",
+      "title_recovery": "The Weston A. Price Foundation Yesterday, Today, And Tomorrow With Sally Fallon Morell",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 22, 2025",
+      "meta": {},
+      "wordpress_object_id_http_verified": "48139",
+      "body_wordpress_id_candidates": [
+        "48139"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "48139"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "377be2cc99612b5a48f14a88ddf41e10b23fa2fac788a883f41f726b93ed5c7d",
+      "text_sha256_physical": "f2adfc9c0177013ebb695de46d48829ac32a41969677cef31d30c3dee795c0c3",
+      "lines": 127,
+      "chars": 32782,
+      "catalog_chars": 33196,
+      "acquisition_chars": 32782,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ],
+        [
+          45,
+          79
+        ],
+        [
+          80,
+          127
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 11,
+      "id": "48756",
+      "id_catalog_original": 48756,
+      "url": "https://www.westonaprice.org/podcast/there-is-no-deathless-diet-the-truth-about-food-farming-and-our-future-with-abey-scaglione/",
+      "canonical": "https://www.westonaprice.org/podcast/there-is-no-deathless-diet-the-truth-about-food-farming-and-our-future-with-abey-scaglione/",
+      "title": "There Is No Deathless Diet: The Truth About Food, Farming, And Our Future With Abey Scaglione",
+      "title_recovery": "There Is No Deathless Diet: The Truth About Food, Farming, And Our Future With Abey Scaglione",
+      "author": "Kendall Nelson",
+      "displayed_date": "April 27, 2026",
+      "meta": {
+        "article:modified_time": "2026-04-28T07:12:53+00:00"
+      },
+      "wordpress_object_id_http_verified": "48756",
+      "body_wordpress_id_candidates": [
+        "48756"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "48756"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "82f4f9e9337792f04c53f373fdf3b318a892814d5ff691e90881bf94173e53e2",
+      "text_sha256_physical": "2aa0fc6191146f68c7cd4023b83287a62b88ef6ebb01f7f1b3279a0607545ec9",
+      "lines": 114,
+      "chars": 32853,
+      "catalog_chars": 33243,
+      "acquisition_chars": 32853,
+      "read_ranges_inclusive": [
+        [
+          1,
+          46
+        ],
+        [
+          47,
+          79
+        ],
+        [
+          80,
+          114
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 12,
+      "id": "37219",
+      "id_catalog_original": 37219,
+      "url": "https://www.westonaprice.org/podcast/timeless-principles-of-healthy-traditional-diets-part-1/",
+      "canonical": "https://www.westonaprice.org/podcast/timeless-principles-of-healthy-traditional-diets-part-1/",
+      "title": "Timeless Principles Of Healthy Traditional Diets (Part 1)",
+      "title_recovery": "Timeless Principles Of Healthy Traditional Diets (Part 1)",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "June 28, 2021",
+      "meta": {
+        "article:modified_time": "2022-12-03T16:36:40+00:00"
+      },
+      "wordpress_object_id_http_verified": "37219",
+      "body_wordpress_id_candidates": [
+        "37219"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "37219"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "6518b8590c24e4d93e9ed6e1577e3bcd81e88aafddc55147d61d88ad26c3cc9d",
+      "text_sha256_physical": "b527347f183542f6586b571a25df106d2ec338864dbe41109489b948a4aeb0bc",
+      "lines": 138,
+      "chars": 33086,
+      "catalog_chars": 33483,
+      "acquisition_chars": 33086,
+      "read_ranges_inclusive": [
+        [
+          1,
+          45
+        ],
+        [
+          46,
+          76
+        ],
+        [
+          77,
+          138
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 13,
+      "id": "37230",
+      "id_catalog_original": 37230,
+      "url": "https://www.westonaprice.org/podcast/timeless-principles-of-healthy-traditional-diets-part-2/",
+      "canonical": "https://www.westonaprice.org/podcast/timeless-principles-of-healthy-traditional-diets-part-2/",
+      "title": "Timeless Principles Of Healthy Traditional Diets (Part 2)",
+      "title_recovery": "Timeless Principles Of Healthy Traditional Diets (Part 2)",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "July 5, 2021",
+      "meta": {
+        "article:modified_time": "2022-12-03T16:36:40+00:00"
+      },
+      "wordpress_object_id_http_verified": "37230",
+      "body_wordpress_id_candidates": [
+        "37230"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "37230"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "e0c80c0a8df73e8b6e476f261f399b47cf2ead9d227bf2a31d918b752dc42cc8",
+      "text_sha256_physical": "0f50485de0bd3ef984ded505833e39b245816bdb355e631a9801c08165ce0ad7",
+      "lines": 119,
+      "chars": 24486,
+      "catalog_chars": 24834,
+      "acquisition_chars": 24486,
+      "read_ranges_inclusive": [
+        [
+          1,
+          53
+        ],
+        [
+          54,
+          102
+        ],
+        [
+          103,
+          119
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 14,
+      "id": "47067",
+      "id_catalog_original": 47067,
+      "url": "https://www.westonaprice.org/podcast/top-tips-for-strong-healthy-teeth-tongue-scraping-jaw-strengthening-reversing-cavities-and-more-with-dr-dominik-nischwitz/",
+      "canonical": "https://www.westonaprice.org/podcast/top-tips-for-strong-healthy-teeth-tongue-scraping-jaw-strengthening-reversing-cavities-and-more-with-dr-dominik-nischwitz/",
+      "title": "Top Tips For Strong Healthy Teeth: Tongue Scraping, Jaw Strengthening, Reversing Cavities, And More With Dr. Dominik Nischwitz",
+      "title_recovery": "Top Tips For Strong Healthy Teeth: Tongue Scraping, Jaw Strengthening, Reversing Cavities, And More With Dr. Dominik Nischwitz",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "March 24, 2025",
+      "meta": {
+        "article:modified_time": "2025-08-15T17:37:56+00:00"
+      },
+      "wordpress_object_id_http_verified": "47067",
+      "body_wordpress_id_candidates": [
+        "47067"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "47067"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "a076f03ae28bdb05c98f01dc762c434b088744fd04c9903b7e175c306ace29da",
+      "text_sha256_physical": "8a1568f58e912760c2fbe46f2f6f6e082d888411ba56277123b991bf58c10999",
+      "lines": 138,
+      "chars": 35555,
+      "catalog_chars": 36031,
+      "acquisition_chars": 35555,
+      "read_ranges_inclusive": [
+        [
+          1,
+          51
+        ],
+        [
+          52,
+          83
+        ],
+        [
+          84,
+          119
+        ],
+        [
+          120,
+          138
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 15,
+      "id": "49493",
+      "id_catalog_original": 49493,
+      "url": "https://www.westonaprice.org/podcast/treating-measles-lessons-from-the-texas-outbreak-with-dr-ben-edwards/",
+      "canonical": "https://www.westonaprice.org/podcast/treating-measles-lessons-from-the-texas-outbreak-with-dr-ben-edwards/",
+      "title": "Treating Measles: Lessons From The Texas Outbreak With Dr. Ben Edwards",
+      "title_recovery": "Treating Measles: Lessons From The Texas Outbreak With Dr. Ben Edwards",
+      "author": "Kendall Nelson",
+      "displayed_date": "August 24, 2026",
+      "meta": {},
+      "wordpress_object_id_http_verified": "49493",
+      "body_wordpress_id_candidates": [
+        "49493"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "49493"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "13d6a81ccea659b55ab5de56b38e4cdc9b7b12fc8e429de9f67fb9536f17613e",
+      "text_sha256_physical": "5e570a3b291def8aca9865c1edf9393ba4da64276c6ecc7bb33d2b5e7e69688a",
+      "lines": 143,
+      "chars": 50021,
+      "catalog_chars": 50447,
+      "acquisition_chars": 50021,
+      "read_ranges_inclusive": [
+        [
+          1,
+          40
+        ],
+        [
+          41,
+          66
+        ],
+        [
+          67,
+          92
+        ],
+        [
+          93,
+          117
+        ],
+        [
+          118,
+          143
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 16,
+      "id": "48635",
+      "id_catalog_original": 48635,
+      "url": "https://www.westonaprice.org/podcast/unconventional-holistic-motherhood-with-mia-rofrano/",
+      "canonical": "https://www.westonaprice.org/podcast/unconventional-holistic-motherhood-with-mia-rofrano/",
+      "title": "Unconventional Holistic Motherhood With Mia Rofrano",
+      "title_recovery": "Unconventional Holistic Motherhood With Mia Rofrano",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "March 23, 2026",
+      "meta": {},
+      "wordpress_object_id_http_verified": "48635",
+      "body_wordpress_id_candidates": [
+        "48635"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "48635"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "8e4d6609a207c214a9e682b96ebb186557e5746e9cf3ec7790ee783aed77181c",
+      "text_sha256_physical": "8ada17e523c1f816c61fc2755ba5d0a0ef1b1a44f4d793943327548b85265b65",
+      "lines": 151,
+      "chars": 39523,
+      "catalog_chars": 39953,
+      "acquisition_chars": 39523,
+      "read_ranges_inclusive": [
+        [
+          1,
+          46
+        ],
+        [
+          47,
+          79
+        ],
+        [
+          80,
+          119
+        ],
+        [
+          120,
+          151
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 17,
+      "id": "38646",
+      "id_catalog_original": 38646,
+      "url": "https://www.westonaprice.org/podcast/unconventional-ideas/",
+      "canonical": "https://www.westonaprice.org/podcast/unconventional-ideas/",
+      "title": "Unconventional Ideas",
+      "title_recovery": "Unconventional Ideas",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "November 22, 2021",
+      "meta": {
+        "article:modified_time": "2022-12-03T16:36:01+00:00"
+      },
+      "wordpress_object_id_http_verified": "38646",
+      "body_wordpress_id_candidates": [
+        "38646"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "38646"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "eee6695b19c119f731da221f5ea565d7977e8d5f52ca7bcebd2e051954057eaf",
+      "text_sha256_physical": "ab3b176312a43c062e027a1f62b3672bb024e6a1b6def6d93cc70cea064536e0",
+      "lines": 125,
+      "chars": 24556,
+      "catalog_chars": 24889,
+      "acquisition_chars": 24556,
+      "read_ranges_inclusive": [
+        [
+          1,
+          56
+        ],
+        [
+          57,
+          106
+        ],
+        [
+          107,
+          125
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 18,
+      "id": "49806",
+      "id_catalog_original": 49806,
+      "url": "https://www.westonaprice.org/podcast/what-traditional-cultures-can-teach-us-about-raising-healthy-children-with-marielli-pahim/",
+      "canonical": "https://www.westonaprice.org/podcast/what-traditional-cultures-can-teach-us-about-raising-healthy-children-with-marielli-pahim/",
+      "title": "What Traditional Cultures Can Teach Us About Raising Healthy Children With Mariélli Pahim",
+      "title_recovery": "What Traditional Cultures Can Teach Us About Raising Healthy Children With Mariélli Pahim",
+      "author": "Kendall Nelson",
+      "displayed_date": "October 26, 2026",
+      "meta": {},
+      "wordpress_object_id_http_verified": "49806",
+      "body_wordpress_id_candidates": [
+        "49806"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "49806"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "89b284487256827b075a05888d52d418698f771a651eb905d8481e585425c2c1",
+      "text_sha256_physical": "7c47df0ffbf5390654a17ab5ac9b7acbbdcb92de4dae7a7c8e62eee69f314ad3",
+      "lines": 123,
+      "chars": 37063,
+      "catalog_chars": 37479,
+      "acquisition_chars": 37063,
+      "read_ranges_inclusive": [
+        [
+          1,
+          47
+        ],
+        [
+          48,
+          73
+        ],
+        [
+          74,
+          101
+        ],
+        [
+          102,
+          123
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 19,
+      "id": "48673",
+      "id_catalog_original": 48673,
+      "url": "https://www.westonaprice.org/podcast/whats-new-and-whats-next-for-wise-traditions-with-hilda-labrada-gore-and-kendall-nelson/",
+      "canonical": "https://www.westonaprice.org/podcast/whats-new-and-whats-next-for-wise-traditions-with-hilda-labrada-gore-and-kendall-nelson/",
+      "title": "What’s New And What’s Next For Wise Traditions With Hilda Labrada Gore And Kendall Nelson",
+      "title_recovery": "What’s New And What’s Next For Wise Traditions With Hilda Labrada Gore And Kendall Nelson",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "April 6, 2026",
+      "meta": {
+        "article:modified_time": "2026-04-07T03:59:09+00:00"
+      },
+      "wordpress_object_id_http_verified": "48673",
+      "body_wordpress_id_candidates": [
+        "48673"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "48673"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "5f049f8af69a7dd3986961a8210b282f04c2fc889cecc1ffd0ab92c53445714c",
+      "text_sha256_physical": "32154efb1df207f1b8e2eafb82219252a3375cab1602ad37845dbb1159cbec4d",
+      "lines": 124,
+      "chars": 31590,
+      "catalog_chars": 32007,
+      "acquisition_chars": 31590,
+      "read_ranges_inclusive": [
+        [
+          1,
+          48
+        ],
+        [
+          49,
+          84
+        ],
+        [
+          85,
+          124
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 20,
+      "id": "49324",
+      "id_catalog_original": 49324,
+      "url": "https://www.westonaprice.org/podcast/why-babys-first-foods-matter-with-kate-pope/",
+      "canonical": "https://www.westonaprice.org/podcast/why-babys-first-foods-matter-with-kate-pope/",
+      "title": "Why Baby’s First Foods Matter With Kate Pope",
+      "title_recovery": "Why Baby’s First Foods Matter With Kate Pope",
+      "author": "Kendall Nelson",
+      "displayed_date": "July 27, 2026",
+      "meta": {},
+      "wordpress_object_id_http_verified": "49324",
+      "body_wordpress_id_candidates": [
+        "49324"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "49324"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "d2895d0218d850a70eb6bcd106e5708a5c06b6f64cae4f463c62050e0439f6e4",
+      "text_sha256_physical": "545736b8b0ea804cdd4854a8c6bd6ed548be20653b0782d8ea6c54a60adb6c54",
+      "lines": 164,
+      "chars": 51554,
+      "catalog_chars": 52001,
+      "acquisition_chars": 51554,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          72
+        ],
+        [
+          73,
+          102
+        ],
+        [
+          103,
+          133
+        ],
+        [
+          134,
+          164
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 21,
+      "id": "46598",
+      "id_catalog_original": 46598,
+      "url": "https://www.westonaprice.org/podcast/why-cooking-traditional-foods-from-scratch-is-worth-it-with-mary-bryant-shrader/",
+      "canonical": "https://www.westonaprice.org/podcast/why-cooking-traditional-foods-from-scratch-is-worth-it-with-mary-bryant-shrader/",
+      "title": "Why Cooking Traditional Foods From Scratch Is Worth It With Mary Bryant Shrader",
+      "title_recovery": "Why Cooking Traditional Foods From Scratch Is Worth It With Mary Bryant Shrader",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 23, 2024",
+      "meta": {
+        "article:modified_time": "2025-08-15T16:04:48+00:00"
+      },
+      "wordpress_object_id_http_verified": "46598",
+      "body_wordpress_id_candidates": [
+        "46598"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "46598"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "96d03be33637992ea50acf6a9df8f1c7ca76e8b46e28f726026b6facc9a2761d",
+      "text_sha256_physical": "d2b294002c12167e06212c921859efaab4b8bd06f8c4a324c483806bbd894361",
+      "lines": 116,
+      "chars": 37812,
+      "catalog_chars": 38213,
+      "acquisition_chars": 37812,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          68
+        ],
+        [
+          69,
+          95
+        ],
+        [
+          96,
+          116
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 22,
+      "id": "44806",
+      "id_catalog_original": 44806,
+      "url": "https://www.westonaprice.org/podcast/why-you-need-lard-in-your-diet-and-on-your-skin/",
+      "canonical": "https://www.westonaprice.org/podcast/why-you-need-lard-in-your-diet-and-on-your-skin/",
+      "title": "Why You Need Lard In Your Diet (And On Your Skin)",
+      "title_recovery": "Why You Need Lard In Your Diet (And On Your Skin)",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "January 8, 2024",
+      "meta": {
+        "article:modified_time": "2024-07-01T15:39:13+00:00"
+      },
+      "wordpress_object_id_http_verified": "44806",
+      "body_wordpress_id_candidates": [
+        "44806"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "44806"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "ae02269b8c19c76b95f7af72009268bc52a85e0506512c2ff4d9aed0bc989476",
+      "text_sha256_physical": "ff633cc7ceab3be63334d8e7493e4a2231ee9815139e131080d85d10e7cfb3c8",
+      "lines": 109,
+      "chars": 31553,
+      "catalog_chars": 31883,
+      "acquisition_chars": 31553,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          76
+        ],
+        [
+          77,
+          109
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    },
+    {
+      "batch_index": 23,
+      "id": "48554",
+      "id_catalog_original": 48554,
+      "url": "https://www.westonaprice.org/podcast/your-quick-guide-to-address-mineral-imbalances-stabilize-your-hormones-with-nina-marie-rueda/",
+      "canonical": "https://www.westonaprice.org/podcast/your-quick-guide-to-address-mineral-imbalances-stabilize-your-hormones-with-nina-marie-rueda/",
+      "title": "Your Quick Guide To Address Mineral Imbalances & Stabilize Your Hormones With Nina-Marie Rueda",
+      "title_recovery": "Your Quick Guide To Address Mineral Imbalances & Stabilize Your Hormones With Nina-Marie Rueda",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "March 2, 2026",
+      "meta": {},
+      "wordpress_object_id_http_verified": "48554",
+      "body_wordpress_id_candidates": [
+        "48554"
+      ],
+      "shortlink_wordpress_id_candidates": [
+        "48554"
+      ],
+      "identity_comparison": "concordant_body_and_shortlink",
+      "html_sha256_physical": "2bf59a97d4c380c099c3bc607a7fc71bf40b098d5c02cbf8457996013c0cf5b4",
+      "text_sha256_physical": "10ef5624c6f5b04dd4dee7d988bcd3a83398b830315d1aca70c973ab6321dee7",
+      "lines": 127,
+      "chars": 32286,
+      "catalog_chars": 32710,
+      "acquisition_chars": 32286,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ],
+        [
+          45,
+          81
+        ],
+        [
+          82,
+          127
+        ]
+      ],
+      "read_full": true,
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "first_line": "🖨️ Print post",
+      "final_line": "🖨️ Print post"
+    }
+  ],
+  "date": "2026-11-26",
+  "publication_state": "incorporated_after_parent_review",
+  "private_candidate_manifest_sha256": "eeccf6b3fabb4eff8be3875e46916cb956a9f13cbfc2f3e33ef79ce0072a33ce",
+  "root_review": {
+    "full_public_source_note_and_culinary_draft_read": true,
+    "whole_private_report_and_critical_record_reread_claim": false,
+    "all48_physical_hashes_and_full_read_ranges_checked": true,
+    "original_focal_ranges": {
+      "21": [
+        [
+          27,
+          29
+        ],
+        [
+          91,
+          96
+        ]
+      ],
+      "20": [
+        [
+          157,
+          164
+        ]
+      ]
+    },
+    "original_focal_output_references": [
+      "a5fb91",
+      "dc6160"
+    ],
+    "whole_original24_reread_claim": false,
+    "full_independent_qa_report_read": true
+  },
+  "selected_podcast_page_union": {
+    "urls": 74,
+    "lines": 8001,
+    "characters": 2131473,
+    "physical_hashes_checked": 148,
+    "pending_other_batch_urls": 50,
+    "no_new_audio_or_asr_claim": true
+  },
+  "independent_qa_private_sha256": "f05ef1bc18e8939decd0c69340a791d214e69aa559160bfa608425b95f5f6037",
+  "independent_qa": {
+    "private_report_sha256": "f05ef1bc18e8939decd0c69340a791d214e69aa559160bfa608425b95f5f6037",
+    "private_evidence_sha256": "1b07d79fe0f332e79c8c13674708c6585fa24c1d35f05e14d2a0ad5fe0969d35",
+    "scope": "Full public note/notebook read; original focal passages across24items,48hashes and86ranges/slice hashes checked. Not a second full original24-TXT reading.",
+    "material_errors_found": 0,
+    "minor_R1": "Clarify a couple versus no fixed weight/feet-to-carcass ratio; applied only in public derivative.",
+    "optional_S1": "Direct original source links added for the principal recipes; no frozen artifact changed."
+  }
+}

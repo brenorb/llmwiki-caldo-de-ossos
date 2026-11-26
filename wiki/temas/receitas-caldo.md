@@ -254,3 +254,5 @@ O [caderno de sobras e caldos de Sarah Pope](receitas-wapf-other-lote5.md) inclu
 As [descrições culinárias das28 resenhas finais WAPF](aplicacoes-wapf-resenhas28.md) documentam caldo reduzido sobre carne, uso para regar barbecue e ingredientes de corações de pato com caldo. São referências parciais, com etapas/medidas ausentes; há proposta editorial não testada para substituir a torrada.
 
 O [caderno dos podcasts WAPF, lote1](receitas-wapf-podcast-lote1.md) registra caldo de Alison Kay (24h), pho de frango de Sophia Nguyen Eng (1frango/12quartságua/1h30) e usos em sopas, molhos e arroz. As fórmulas parciais mantêm medidas ausentes e versões de menos amido como propostas próprias não testadas.
+
+O [caldo de Mary Bryant Shrader](receitas-wapf-podcast-lote3.md) aproveita carcaças de frango, pés opcionais e aparas de vegetais, com água para cobrir e seis horas de cocção suave. A fonte distingue três carcaças sem pés de uma com pés, sem proporção fixa de pés/água ou rendimento. O caderno preserva as palavras da fonte e tem revisão independente de medidas/limites.

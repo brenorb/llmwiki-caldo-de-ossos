@@ -1194,3 +1194,7 @@ Revalidados [39/39 e48/48 textos de trechos](raw/revalidacao-duas-lives-2026-11-
 ## [2026-11-26] ingestão |50 páginas de podcast:caldos, pho e relatos atribuídos
 
 Incorporados [50 corpos disponíveis](wiki/fontes/wapf-podcast-lote1-50.md),4.860 linhas/1.285.132 caracteres/100 hashes/151 intervalos, e [caderno de medidas e lacunas](wiki/temas/receitas-wapf-podcast-lote1.md). Revisor leu derivados/QA autoral inteiros e originais focais, conferiu hashes/faixas; não alegou segunda leitura integral dos originais, áudio ou estudos externos. MTC, arroz/açúcar, preparos parciais e propostas de menos amido permanecem identificados.
+
+## [2026-11-26] ingestão |24 páginas de podcast e revisão independente do caldo de seis horas
+
+Incorporados [lote3/24](wiki/fontes/wapf-podcast-lote3-24.md) e [caderno](wiki/temas/receitas-wapf-podcast-lote3.md),3.141 linhas/846.341 caracteres/48 hashes/86 intervalos. União74/124 corpos textuais; sem somar como74 áudios ou estudos. QA por outro agente não encontrou erro material; esclarecida quantidade coloquial de pés apenas na cópia pública. Mantidas as ressalvas infantis da própria WAPF, o limite de composição e a distinção entre180°F de simmer e240°F+ da discussão de enlatamento.

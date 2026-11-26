@@ -74,3 +74,5 @@ Autor é o exibido na página; em05 Marisa Moon entrevista Hilda, em14 o corpo i
 A carta final do item49 termina abruptamente no corpo disponível; não foi reconstituída. Listas de recursos, processos apenas prometidos e referências a livros não dão acesso às receitas desses destinos. Um título na bibliografia, como Nourishing Broth em38/41, não é uma nova fórmula. O registro público conserva os hashes e o alcance da prova delegada, sem caminhos pessoais.
 
 [Cobertura geral](../cobertura.md) · [Proveniência](../proveniencia.md)
+
+O [lote3/24](wapf-podcast-lote3-24.md) completa74/124 corpos no fechamento atual; tem caderno e QA independente próprios, sem nova audição ouASR.

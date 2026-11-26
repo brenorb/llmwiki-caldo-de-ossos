@@ -302,3 +302,6 @@
 
 - [WAPF:50 páginas de podcasts — leitura textual, relatos e limites](wiki/fontes/wapf-podcast-lote1-50.md)
 - [Caldos, pho, sopas e usos do caldo nos podcasts:medidas e opções](wiki/temas/receitas-wapf-podcast-lote1.md)
+
+- [WAPF:24 páginas de podcasts, relatos e ressalvas](wiki/fontes/wapf-podcast-lote3-24.md)
+- [Caldo de frango de seis horas e outras descrições dos podcasts](wiki/temas/receitas-wapf-podcast-lote3.md)

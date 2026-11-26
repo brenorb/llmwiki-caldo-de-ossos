@@ -1186,3 +1186,7 @@ Incorporados [28 TXT finais](wiki/fontes/wapf-book-review28.md),493 linhas/170.1
 ## [2026-11-26] ingestão |34 índices estáticos e conciliação de destinos já registrados
 
 Incorporados [22 main complementares](wiki/fontes/wapf-direct-index-main22.md),3.142 linhas/219.416 caracteres/66 hashes, fechando34 corpos principais estáticos com os12 anteriores. Revisor leu parecer/caderno/crítico/adendo e originais focais; versões preservadas. Conciliação978 ocorrências/784 destinos reconhece609 ocorrências em registros selecionados e as73 páginas culinárias já lidas no editorial464. Sem novos artigos/receitas integrais por inferência, paginação ou mídia lida.
+
+## [2026-11-26] revisão | Duas lives:íntegras da execução sem limite
+
+Revalidados [39/39 e48/48 textos de trechos](raw/revalidacao-duas-lives-2026-11-26.json), logs, manifestos e consolidados idênticos à remontagem e hashes anteriores. A [nota](wiki/fontes/cozinha-de-pedra-caldo.md#transcrição-integral-das-duas-lives-inicialmente-interrompidas) distingue segmentação120s de corte de duração: o script atual não limita aASR/gravação. Sem novaASR ou reescuta; durações anteriores de1h17min31,176s e1h34min58,628s preservadas com o limite de mídia ausente explicitado.

@@ -297,3 +297,5 @@
 - [Tutano, caldo reduzido e pratos com caldo: descrições parciais das resenhas](wiki/temas/aplicacoes-wapf-resenhas28.md)
 
 - [WAPF:22 índices complementares, união34 e conciliação das receitas já lidas](wiki/fontes/wapf-direct-index-main22.md)
+
+- [Duas lives do Cozinha de Pedra:87 trechos completos, revalidação sem limite de duração](wiki/fontes/cozinha-de-pedra-caldo.md#transcrição-integral-das-duas-lives-inicialmente-interrompidas)

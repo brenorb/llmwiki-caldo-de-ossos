@@ -261,3 +261,14 @@ A posição dos cartões é a da sequência de 65 exibida em 2026-11-11. A leitu
 | 55 | Um comentário menciona o costume colombiano de tomar caldo de costela na ressaca. É um relato de uso tradicional. |
 
 A [página de receitas](../temas/receitas-gelatina.md) incorpora as versões que a legenda ou a entrevista permitiu reconstruir. A [comparação clínica](../temas/relatos-e-evidencia.md) resume relatos sem identificação de seguidoras. A [trilha de acesso](../../raw/busca-receitas-relatos.md) registra a grade de 395 itens e as lacunas de leitura das mídias.
+
+## Transcrição integral das duas lives inicialmente interrompidas
+
+A [revalidação de26/11/2026](../../raw/revalidacao-duas-lives-2026-11-26.json) reconferiu **87 textos de trechos**, seus nomes/ordem, logs e os dois consolidados, preservados sem alteração. A execução de recuperação processa a gravação inteira, dividindo-a em trechos de até120s, sem timeout por chamadaASR ou corte de duração. O tamanho do trecho permite a retomada; não limita a live.
+
+| Live | Duração anteriormente medida | Trechos com texto e conclusão no log | Resultado |
+|---|---:|---:|---|
+| [CUquPfkJqZm](https://www.instagram.com/cozinhadepedra/reel/CUquPfkJqZm/) |1h17min31,176s|39/39|Consolidado idêntico à remontagem integral e ao hash anterior.|
+| [CUlYbyDJ5Aj](https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/) |1h34min58,628s|48/48|Consolidado idêntico à remontagem integral e ao hash anterior.|
+
+As durações vêm da medição anterior das faixasAAC; a mídia original/WAV foi apagada pelo worker histórico após gerar os textos e não foi medida novamente. A conferência atual não é nova audição ou revisão palavra por palavra. Marcas são inícios de fala e há recuos originais de1s; isso não foi confundido com corte de áudio. O registro conserva hashes por trecho, consolidados, manifestos, logs e scripts, sem publicar as transcrições integrais noGit público.

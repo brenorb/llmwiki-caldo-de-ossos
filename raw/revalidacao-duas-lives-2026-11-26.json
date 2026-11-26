@@ -1,0 +1,757 @@
+{
+  "date": "2026-11-26",
+  "scope": "Current physical revalidation of two initially timed-out Instagram lives, already recovered completely by unlimited worker; not new ASR/listening or word-by-word correction",
+  "duration_policy": "Entire source segmented in120-second segments; no duration cutoff, no per-ASR or ffmpeg subprocess timeout in current recovery script. Segment length is not recording duration limit.",
+  "script_sha256": "2f5c306a45d32ef37e1c030e4b30d93458d74bcad47f320b07ce4ef627caf276",
+  "validation_script_sha256": "96e15ddc0b6a97062b02254f550a3c5f72630b7f9bfb6556d433047890be58ff",
+  "previous_public_audit_sha256": "f3f8cff478f669dfda880ca96524f0737073747bd821a50c8d21736c9493a4aa",
+  "all87_segment_texts_checked": true,
+  "both_full_texts_byte_identical_to_reassembly_and_previous_hash": true,
+  "historical_original_media_available_for_new_duration_probe": false,
+  "limits": [
+    "Previously measured AAC durations retained, not remeasured; source media/WAV deleted by historical worker after successful segmentation/transcription.",
+    "Last timestamp marks start, not exact end, of recognized segment.",
+    "Automatic recognition errors and original1-second timestamp backtracks remain possible; no full new audio listening or semantic rereading in this verification.",
+    "Logs/segment texts/consolidated transcripts preserved unchanged; full copyrighted transcripts not published in public Git."
+  ],
+  "rows": [
+    {
+      "id": "CUquPfkJqZm",
+      "url": "https://www.instagram.com/cozinhadepedra/reel/CUquPfkJqZm/",
+      "duration_seconds_previously_probed_not_remeasured": 4651.176,
+      "expected_segments": 39,
+      "nonempty_segment_texts": 39,
+      "completed_segment_log_sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "done_messages": 39,
+      "internal_asr_chunk_counts_per_segment": [
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "full_text_matches_reassembly": true,
+      "full_text_sha256_unchanged_since_previous_audit": "2fff55d65784466f903530ab47ce6aafe18cc67ad2bff72c3911fe91d0fea2cd",
+      "first_start_seconds": 1,
+      "last_start_seconds": 4646,
+      "manifest_sha256": "e8a7209d5c162090cfefbb787b27172b1b7b262b59d87933f446d7f9b608cc4d",
+      "log_sha256": "0ed94544fde3663044addd3015055f75379009b8da69f3203c7c368dc8ac9a54",
+      "complete_flag_sha256": "05f71ff4cbc75cf5b03bb36ebd72786a721ee7477ef1bc709ca77e6336435399",
+      "segments": [
+        {
+          "index": 0,
+          "text_locator": "trecho-0000.txt",
+          "sha256": "ba7687a6ba7f3fa6ac6aaf5dedeacfe8923d4c7c8d4ba318011775685c4d81ca",
+          "lines": 12
+        },
+        {
+          "index": 1,
+          "text_locator": "trecho-0001.txt",
+          "sha256": "5f7485eb518ffc3a855c8ed25e73b57a677ac94d1bcabd3368d5fec27174c79f",
+          "lines": 29
+        },
+        {
+          "index": 2,
+          "text_locator": "trecho-0002.txt",
+          "sha256": "aeacf6f7d85697033757f75a5e07df23a5e9308738b06a1dd64b0615ecb9e120",
+          "lines": 31
+        },
+        {
+          "index": 3,
+          "text_locator": "trecho-0003.txt",
+          "sha256": "e471b2068f7a110114a5b35aab202f39ec62227c22d59bf1976bbdc1de4bd762",
+          "lines": 27
+        },
+        {
+          "index": 4,
+          "text_locator": "trecho-0004.txt",
+          "sha256": "25354e13cf7f289c94f0def3c94852e055fd11512f308cc302568b6080d352be",
+          "lines": 18
+        },
+        {
+          "index": 5,
+          "text_locator": "trecho-0005.txt",
+          "sha256": "6fc17ddad542026f39e690659f02d1d7a09f7e4e614c76739d62c205ee5912d3",
+          "lines": 22
+        },
+        {
+          "index": 6,
+          "text_locator": "trecho-0006.txt",
+          "sha256": "e9221d98bb34bd6ebc443afc98a366aedc713458608d0de0e0873e614a3e02c3",
+          "lines": 30
+        },
+        {
+          "index": 7,
+          "text_locator": "trecho-0007.txt",
+          "sha256": "68484f448ac63aaa7764b6c9c22913f8ebbd9d60ee8ada2f6a6b08258ae3ad18",
+          "lines": 32
+        },
+        {
+          "index": 8,
+          "text_locator": "trecho-0008.txt",
+          "sha256": "19027f6febb88bce6206b7d6292d0258c571c0d167d47c9ab64dedc5eef07dbf",
+          "lines": 29
+        },
+        {
+          "index": 9,
+          "text_locator": "trecho-0009.txt",
+          "sha256": "64fa1c35aad1f0e597bb760444ec16455b7de32241dff41eb8f092de15999bad",
+          "lines": 28
+        },
+        {
+          "index": 10,
+          "text_locator": "trecho-0010.txt",
+          "sha256": "0a7c7138867b5aeef35c05ee665f4a769cd326a5379b34eee2168c5306a32b62",
+          "lines": 21
+        },
+        {
+          "index": 11,
+          "text_locator": "trecho-0011.txt",
+          "sha256": "e59e370ec09da685a11392b5e1ee412938e2583afb594168c9306341f5f428d1",
+          "lines": 22
+        },
+        {
+          "index": 12,
+          "text_locator": "trecho-0012.txt",
+          "sha256": "97f59643a02bb6ab40d0da074e053defb76bc17b4b939c2edd20d01e3a8cefe9",
+          "lines": 29
+        },
+        {
+          "index": 13,
+          "text_locator": "trecho-0013.txt",
+          "sha256": "43522a239ffb702b12b655ad619753e34d2e898327c6a8795b069db6ef155f68",
+          "lines": 23
+        },
+        {
+          "index": 14,
+          "text_locator": "trecho-0014.txt",
+          "sha256": "95c54e7bd0fc82754deef5e2ff27ab8f588fddd728153148aa4f0d1b35b488ee",
+          "lines": 21
+        },
+        {
+          "index": 15,
+          "text_locator": "trecho-0015.txt",
+          "sha256": "cb3a5d7bfbcd85e7e4238a7d0bbe188662d0451fa518673ec1e9d33c3471dbed",
+          "lines": 21
+        },
+        {
+          "index": 16,
+          "text_locator": "trecho-0016.txt",
+          "sha256": "3546c6f44a1755dbe7fdd411484fa0141fbfed8980cb98824728987b604bb0b0",
+          "lines": 20
+        },
+        {
+          "index": 17,
+          "text_locator": "trecho-0017.txt",
+          "sha256": "e6c4f1dfc034f6ce5f8de9fc3cc66520fdab4144d361aba1389ad95a39e68c7e",
+          "lines": 18
+        },
+        {
+          "index": 18,
+          "text_locator": "trecho-0018.txt",
+          "sha256": "8f6b1aae251a6ca77edb567186fccd5c70bd17ff9c82a1cd855f0fda1bde0496",
+          "lines": 18
+        },
+        {
+          "index": 19,
+          "text_locator": "trecho-0019.txt",
+          "sha256": "b21a0b410b42d5bbff9f82ba4cf80b37110b50eaa8af0f54709f77dcaa64e2f2",
+          "lines": 24
+        },
+        {
+          "index": 20,
+          "text_locator": "trecho-0020.txt",
+          "sha256": "9ce721492bb1f5276e5dbb1b27573d36a1c0bca65dadd9d8cdb2f7432dd8a7cc",
+          "lines": 22
+        },
+        {
+          "index": 21,
+          "text_locator": "trecho-0021.txt",
+          "sha256": "4cfefc4387cbd8994a0e4af5bb1e442d55caa936aef4bf0c2ff18b494354184f",
+          "lines": 20
+        },
+        {
+          "index": 22,
+          "text_locator": "trecho-0022.txt",
+          "sha256": "5f8ca79a9116a7f2e44bdfc969d76c6e2d5a64dc85e50ce79419db22aa7788e0",
+          "lines": 22
+        },
+        {
+          "index": 23,
+          "text_locator": "trecho-0023.txt",
+          "sha256": "683cf17af174815a91e79bfab310ce4e2194b315af214aea10777e688ce90b85",
+          "lines": 21
+        },
+        {
+          "index": 24,
+          "text_locator": "trecho-0024.txt",
+          "sha256": "c31d017120243abb1aee39c88850383203d082579e9fede03f2085fc67d40301",
+          "lines": 30
+        },
+        {
+          "index": 25,
+          "text_locator": "trecho-0025.txt",
+          "sha256": "344f5210a6135eaa53686bb49457f258350d9f004c9e73f1ec56af90ba6af21e",
+          "lines": 15
+        },
+        {
+          "index": 26,
+          "text_locator": "trecho-0026.txt",
+          "sha256": "59b7736e58f14103383749eaeb38b30b714dc9793b784e48e4dae22ff0ba8ded",
+          "lines": 19
+        },
+        {
+          "index": 27,
+          "text_locator": "trecho-0027.txt",
+          "sha256": "31cb32634f253f2b6275c3665d36deda2eacdd03a402e0a23790cec71c4b398e",
+          "lines": 24
+        },
+        {
+          "index": 28,
+          "text_locator": "trecho-0028.txt",
+          "sha256": "9308a2d9e2d063275dd4cae71a28aa675be3fea3076eed211941ac8522a09d1c",
+          "lines": 21
+        },
+        {
+          "index": 29,
+          "text_locator": "trecho-0029.txt",
+          "sha256": "ea727356085a9489f38645f7f665c569ff48b488b62e3e9948e335ea9fb56528",
+          "lines": 26
+        },
+        {
+          "index": 30,
+          "text_locator": "trecho-0030.txt",
+          "sha256": "f5842eb4ee380770278ab58170b665e5ad5aa4169f6b7b95ab2721d9d85f9c73",
+          "lines": 13
+        },
+        {
+          "index": 31,
+          "text_locator": "trecho-0031.txt",
+          "sha256": "30d0bb34137b8d4cbd6220b7d9bd0db0cf56653f3f10db9fbbccc4ac92d263ea",
+          "lines": 31
+        },
+        {
+          "index": 32,
+          "text_locator": "trecho-0032.txt",
+          "sha256": "b2a7dc4f874f89a35af0668956ab6e59f9dee72372415e99878f9097dea1601c",
+          "lines": 29
+        },
+        {
+          "index": 33,
+          "text_locator": "trecho-0033.txt",
+          "sha256": "05ea25908f845c57c963e71004045087c257f7e2a4933e622e2e6b920183fe15",
+          "lines": 23
+        },
+        {
+          "index": 34,
+          "text_locator": "trecho-0034.txt",
+          "sha256": "57f0e19aeaa90bbff9146dfd4b74603c8a42feb5bbe96ef90486b0b82c8a7b8f",
+          "lines": 34
+        },
+        {
+          "index": 35,
+          "text_locator": "trecho-0035.txt",
+          "sha256": "085b2cc578e90c92ee2969645ebfc582202316f8471764ba337e702f251877eb",
+          "lines": 31
+        },
+        {
+          "index": 36,
+          "text_locator": "trecho-0036.txt",
+          "sha256": "683bd73fa86059126a210d1d1fa76c9cd92f9e5ea8fe6837e602c262be646c6c",
+          "lines": 20
+        },
+        {
+          "index": 37,
+          "text_locator": "trecho-0037.txt",
+          "sha256": "46186dd7aed5bca4c30d04826754e3f18b7b7f89f49df3be7ef96559c3a6d689",
+          "lines": 35
+        },
+        {
+          "index": 38,
+          "text_locator": "trecho-0038.txt",
+          "sha256": "aac3173f01e423dc2798111b2d4496ee9545282bd0715023f1973c2f67a33fd0",
+          "lines": 26
+        }
+      ]
+    },
+    {
+      "id": "CUlYbyDJ5Aj",
+      "url": "https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/",
+      "duration_seconds_previously_probed_not_remeasured": 5698.628,
+      "expected_segments": 48,
+      "nonempty_segment_texts": 48,
+      "completed_segment_log_sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "done_messages": 48,
+      "internal_asr_chunk_counts_per_segment": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "full_text_matches_reassembly": true,
+      "full_text_sha256_unchanged_since_previous_audit": "c5d1daf830d002ecd8afc62e8ba60d557f36e664ed960adae50049526b5f612f",
+      "first_start_seconds": 0,
+      "last_start_seconds": 5696,
+      "manifest_sha256": "82ff63ecfdd265758c0d7df6e3c2de260102e26ca1b8b0d45fb15adb66173f2e",
+      "log_sha256": "e9e1fe3d98974f25b8df5f4ba928db5b55c679916f1cbad4067febef48a65bfc",
+      "complete_flag_sha256": "4c872ed69fac43a90ae3980570e8c201bc058fd517653ab58c6b7758772b8895",
+      "segments": [
+        {
+          "index": 0,
+          "text_locator": "trecho-0000.txt",
+          "sha256": "2dba5d51925fc5b7ce5e462c69b6e76dba9b08200dbeaec711439809a95b2f9d",
+          "lines": 43
+        },
+        {
+          "index": 1,
+          "text_locator": "trecho-0001.txt",
+          "sha256": "cd2c83ecdac6a90fe8fc24b299b29269eb629750baceb0c98414a8a56b7f9526",
+          "lines": 33
+        },
+        {
+          "index": 2,
+          "text_locator": "trecho-0002.txt",
+          "sha256": "ff5c378691f788324a835c1ff99edbe14edc3206093c9e0a3172c3715de96d42",
+          "lines": 22
+        },
+        {
+          "index": 3,
+          "text_locator": "trecho-0003.txt",
+          "sha256": "4a43de269748d78c2998785788dfa40f7ae1330f2d992e46819ec86850a9ca40",
+          "lines": 9
+        },
+        {
+          "index": 4,
+          "text_locator": "trecho-0004.txt",
+          "sha256": "0b54091e98afa590a5fc00caa9098632e5847a91ab930bdfcaea1b2c3c60c366",
+          "lines": 39
+        },
+        {
+          "index": 5,
+          "text_locator": "trecho-0005.txt",
+          "sha256": "0e5c61d65f7a35fa1e013fdf1125381b877dd3e463e1932d776697e074c33d18",
+          "lines": 31
+        },
+        {
+          "index": 6,
+          "text_locator": "trecho-0006.txt",
+          "sha256": "d9b357927338aab052c7c8b771f34b8ab162b94eb450ac3146f501936cf97424",
+          "lines": 25
+        },
+        {
+          "index": 7,
+          "text_locator": "trecho-0007.txt",
+          "sha256": "cb9bd9de1b5dba4fa59c7f9790e85e805ed848642bbcd4f849f712a2197a4882",
+          "lines": 30
+        },
+        {
+          "index": 8,
+          "text_locator": "trecho-0008.txt",
+          "sha256": "44f446e0d681f0ae99c32d74ab5a1436fee969ca78cbd69530b184800b113a45",
+          "lines": 31
+        },
+        {
+          "index": 9,
+          "text_locator": "trecho-0009.txt",
+          "sha256": "cd11a659def15a23209b903d4f95810eff2e723162e0678dad8ed2c6db3dd9e0",
+          "lines": 32
+        },
+        {
+          "index": 10,
+          "text_locator": "trecho-0010.txt",
+          "sha256": "e4882fc64f87c813386100e9806afb85a6e233dc3c2f1ec8736b4ea450b4f4da",
+          "lines": 34
+        },
+        {
+          "index": 11,
+          "text_locator": "trecho-0011.txt",
+          "sha256": "1154fc57d7cea4a512d462eb39eca0433e359626fbf15ea73dafbbb759f9119d",
+          "lines": 25
+        },
+        {
+          "index": 12,
+          "text_locator": "trecho-0012.txt",
+          "sha256": "3da626890e625e0634a4a579c8ea1f56792f391f1dc09517d0f46caa08e9876f",
+          "lines": 11
+        },
+        {
+          "index": 13,
+          "text_locator": "trecho-0013.txt",
+          "sha256": "feee7c4034e41b5d4ade9eb9bba6c5bb1f1cda8095e9f900989e2f55471b4877",
+          "lines": 25
+        },
+        {
+          "index": 14,
+          "text_locator": "trecho-0014.txt",
+          "sha256": "cafb00ff74e2b5c1f043146e9f2d8556204f9e5c84682d2990bf084edc34f1e7",
+          "lines": 9
+        },
+        {
+          "index": 15,
+          "text_locator": "trecho-0015.txt",
+          "sha256": "441803469d77b258c8dbe0fc21dd2b28a95fb2dcf1cdaa285559227eaae4a4fd",
+          "lines": 33
+        },
+        {
+          "index": 16,
+          "text_locator": "trecho-0016.txt",
+          "sha256": "0589097fe1dda717d0ed58e45d21df0b379d96998e0667e41534f8fff11410e7",
+          "lines": 25
+        },
+        {
+          "index": 17,
+          "text_locator": "trecho-0017.txt",
+          "sha256": "0d7652decddfaedd41e06c997ae0dd0a945c35ff50d6ca25e6d25f162a21266b",
+          "lines": 40
+        },
+        {
+          "index": 18,
+          "text_locator": "trecho-0018.txt",
+          "sha256": "4b322dc6ac1bb17489111dc9e267f6bb534b996a9959bd42ff3cb2229f0f2409",
+          "lines": 41
+        },
+        {
+          "index": 19,
+          "text_locator": "trecho-0019.txt",
+          "sha256": "2e70a2c8824225d1f1fd069bbaa54c26e0b90a368b9dfe736111b4f37b46345c",
+          "lines": 27
+        },
+        {
+          "index": 20,
+          "text_locator": "trecho-0020.txt",
+          "sha256": "b3ce0809c794cfa40539427cb88d48b2f7d63210b455f66b3e066b0ba2b93209",
+          "lines": 33
+        },
+        {
+          "index": 21,
+          "text_locator": "trecho-0021.txt",
+          "sha256": "5b5257883a5f31b55ee7fee428a13718d6c191e67d4cc5917335d126e9bbe1f6",
+          "lines": 31
+        },
+        {
+          "index": 22,
+          "text_locator": "trecho-0022.txt",
+          "sha256": "f5f119424920f55bf539eb3ae855e62549c76e2aad54b67714d451e3259dc0ef",
+          "lines": 29
+        },
+        {
+          "index": 23,
+          "text_locator": "trecho-0023.txt",
+          "sha256": "3b7b8f51a6e2c51ced13becc3b322a80f09f6404dda1464bae87a95c7b7a0400",
+          "lines": 11
+        },
+        {
+          "index": 24,
+          "text_locator": "trecho-0024.txt",
+          "sha256": "e6d8a9d27c9479b8ad82bca26f9695f5e750f0f32898682cbbc05d29504c0e1b",
+          "lines": 30
+        },
+        {
+          "index": 25,
+          "text_locator": "trecho-0025.txt",
+          "sha256": "59b80ef67ab6cecbbc74c0418c8289b3fa7412374f47c62f045e5138419ea9d4",
+          "lines": 27
+        },
+        {
+          "index": 26,
+          "text_locator": "trecho-0026.txt",
+          "sha256": "0cfcc8e7a01af726815d772ca842bfaba66b90bb7e6373b27bbca4c5af1c8851",
+          "lines": 42
+        },
+        {
+          "index": 27,
+          "text_locator": "trecho-0027.txt",
+          "sha256": "1b36e61927148f685c7260cf8d003bd82a3a7ea2a4e37e74cb3a2aa26538f539",
+          "lines": 42
+        },
+        {
+          "index": 28,
+          "text_locator": "trecho-0028.txt",
+          "sha256": "0b0b911f4769a829029e8c574b541fe97248cac072c17db2a6ff5f9c16f8019f",
+          "lines": 36
+        },
+        {
+          "index": 29,
+          "text_locator": "trecho-0029.txt",
+          "sha256": "6cbb6b5afea6b5b17cf7b06006a12843d8cf7683680e078492924491c536fdf7",
+          "lines": 34
+        },
+        {
+          "index": 30,
+          "text_locator": "trecho-0030.txt",
+          "sha256": "27cbb8a91e612c1a60be07810aef0f40b64d19aabfa7500b97b75296b32a59b4",
+          "lines": 42
+        },
+        {
+          "index": 31,
+          "text_locator": "trecho-0031.txt",
+          "sha256": "877210d9f87ec3fa1ba4e8fae7c8186f8929e3cb37ef29619dfb2c4c567cef4e",
+          "lines": 29
+        },
+        {
+          "index": 32,
+          "text_locator": "trecho-0032.txt",
+          "sha256": "69a176e40db5f01e226c0542ecd54375ba6304e6c946163f5f8e0c4b298d8578",
+          "lines": 37
+        },
+        {
+          "index": 33,
+          "text_locator": "trecho-0033.txt",
+          "sha256": "6e5d1294c7191efbd7bc890ed1c787925c06ea4b097327f6047471b6b51ef86c",
+          "lines": 47
+        },
+        {
+          "index": 34,
+          "text_locator": "trecho-0034.txt",
+          "sha256": "622b70a4d1a84743b73f0cc0ba00b1c643f96f30cc43be1b850d94f9bc4df1ed",
+          "lines": 32
+        },
+        {
+          "index": 35,
+          "text_locator": "trecho-0035.txt",
+          "sha256": "633a0ffbb56897ff7fece6cfe89870e601450c25f5cced73a2135ba52eeaa823",
+          "lines": 22
+        },
+        {
+          "index": 36,
+          "text_locator": "trecho-0036.txt",
+          "sha256": "7ec7d9216e5feb0460976a7bf33a879426cbac483919f653102f1df717970894",
+          "lines": 25
+        },
+        {
+          "index": 37,
+          "text_locator": "trecho-0037.txt",
+          "sha256": "e7ef0b19800d586e51c65456977921b8d3404895f03a1a247370b710fe5c78e9",
+          "lines": 32
+        },
+        {
+          "index": 38,
+          "text_locator": "trecho-0038.txt",
+          "sha256": "2801e7228d62c0424fdac7d33a75a64c27cdb893489f9b2b2b12943e2999eb75",
+          "lines": 32
+        },
+        {
+          "index": 39,
+          "text_locator": "trecho-0039.txt",
+          "sha256": "58d317559660ba92e37b39f116fa3ae33e8ae489e3b3e4407c193701737f8822",
+          "lines": 33
+        },
+        {
+          "index": 40,
+          "text_locator": "trecho-0040.txt",
+          "sha256": "0d25173e91cfe49c3d51c2f8245ed66b3b7d260da06a4ebc169d4a8bf406db46",
+          "lines": 32
+        },
+        {
+          "index": 41,
+          "text_locator": "trecho-0041.txt",
+          "sha256": "f382f1567bcd7a0005116298989f86ebd61d8c9eb554362040878027e51f3039",
+          "lines": 38
+        },
+        {
+          "index": 42,
+          "text_locator": "trecho-0042.txt",
+          "sha256": "d08069bed9bda48d965225fc505962fcdeea9c471b2ea964e7728371851911f3",
+          "lines": 34
+        },
+        {
+          "index": 43,
+          "text_locator": "trecho-0043.txt",
+          "sha256": "a3d92e3beedb6a79acad8eb291796c0b8812bfc7ef9627bea4c1d7ee8fbc3582",
+          "lines": 35
+        },
+        {
+          "index": 44,
+          "text_locator": "trecho-0044.txt",
+          "sha256": "2ad4ea7fbeb982b12413d0cd4959470c47d283149591fe768e02c47f53995609",
+          "lines": 28
+        },
+        {
+          "index": 45,
+          "text_locator": "trecho-0045.txt",
+          "sha256": "14b7349914c607e2b7e14f2adc9a43e3e65cfea36037be563abb3a09b6688bd5",
+          "lines": 40
+        },
+        {
+          "index": 46,
+          "text_locator": "trecho-0046.txt",
+          "sha256": "f11bd0305b50ce12ab294127e98644645a343ba2a09170f4fc4cf2bf35bccb72",
+          "lines": 29
+        },
+        {
+          "index": 47,
+          "text_locator": "trecho-0047.txt",
+          "sha256": "72bdd6cc5fb5357440c8afa59df69fa207fb37cc10da003784e1c2dc85b04958",
+          "lines": 29
+        }
+      ]
+    }
+  ]
+}

@@ -376,3 +376,7 @@ Uma rodada com seis carrosséis mais antigos recuperou cartões sobre [imunidade
 Os **78 carrosséis** identificados foram percorridos. Em **76**, todos os cartões apresentados pela interface foram conferidos visualmente. Em dois, um vídeo ficou sem carregar. Os casos são o primeiro cartão da [gelatina de coco](https://www.instagram.com/cozinhadepedra/p/CFSEIF3MRbK/) e o terceiro de um anúncio de logística. A leitura visual dos cartões e a transcrição de áudio dos vídeos têm coberturas distintas. A extração de mídia foi tentada em 16 carrosséis.
 
 A nova leitura da [canjica](https://www.instagram.com/cozinhadepedra/p/CBxgKWiKPvU/) confirmou as imagens das etapas e a medida de coco ralado. Os [cartões sobre gelificação](https://www.instagram.com/cozinhadepedra/p/CKHlf8zMlq_/) detalham a diluição, as partes usadas e a temperatura. A [outra versão da sopa de sobras](https://www.instagram.com/cozinhadepedra/p/B8Kte42DbFb/) confirma o ovo cozido diretamente no caldo.
+
+### Revalidação das duas íntegras em26/11/2026
+
+Conferidos novamente [39/39 e48/48 textos de trechos](revalidacao-duas-lives-2026-11-26.json), nomes/ordem, término nos logs e remontagem byte a byte dos consolidados, com os mesmos hashes da auditoria anterior. O script de recuperação inteiro foi lido: sem timeout deASR/ffmpeg ou corte de duração. Não houve novaASR, nova medição das mídias já ausentes ou revisão de acurácia por escuta nesta conferência. [Tabela das duas lives](../wiki/fontes/cozinha-de-pedra-caldo.md#transcrição-integral-das-duas-lives-inicialmente-interrompidas)

@@ -1,0 +1,426 @@
+{
+  "schema_version": 1,
+  "title": "Conciliação de seis consultas narrativas WAPF",
+  "date": "2026-11-25",
+  "summary": {
+    "sources_in_this_reconciliation": 6,
+    "sources_previously_consulted_narratively": 6,
+    "new_sources": 0,
+    "new_individual_reading_proofs": 6,
+    "full_available_txts_read": 6,
+    "total_characters": 205970,
+    "total_lines": 651,
+    "physical_hashes_verified": 12,
+    "physical_html_hashes_verified": 6,
+    "physical_txt_hashes_verified": 6,
+    "positive_tsvs_compared": 5,
+    "positive_tsv_rows_inspected": 250,
+    "distinct_positive_requested_url_identities": 250,
+    "overlap_with_six_url_identities": 0,
+    "positive_rows_with_id": 100,
+    "positive_rows_without_id": 150,
+    "id_overlap_where_id_available": 0
+  },
+  "history": "As seis consultas narrativas anteriores são preservadas. As novas faixas e hashes acrescentam seis provas individuais de leitura, sem contar fontes novas.",
+  "coverage": "Leitura textual pelo modelo dos seis TXT integrais fixados, incluindo notas, bibliografias visíveis e encerramentos; não é atestado de leitura humana.",
+  "comparison_method": "Inspeção de todas as 250 linhas dos cinco TSV; comparação das seis identidades com todos os campos de URL disponíveis, IDs onde presentes e títulos. URL normalizada por hostname e caminho sem barra final, com percent-decoding; consulta e fragmento desconsiderados.",
+  "comparison_limits": "Os três primeiros TSV não têm campo ID (150 linhas); neles, disjunção demonstrada pelos URLs disponíveis, com título como diagnóstico auxiliar. Os outros dois TSV fornecem 100 IDs, também disjuntos. Disjunção dos cortes não significa seis fontes inéditas.",
+  "limits": [
+    "HTML somente para hashes físicos; sem leitura visual.",
+    "Imagens, mídia, anexos, tabelas/figuras gráficas e destinos bibliográficos não foram lidos nesta conciliação.",
+    "Referências impressas foram lidas como bibliografia; não conferem leitura aos estudos citados.",
+    "O parser exclui comentários, scripts, navegação e author-box; a cobertura é do TXT fornecido.",
+    "Sem nova rede, ASR ou reabertura de estudos externos. Nenhuma receita foi completada e nenhum protocolo terapêutico foi adotado."
+  ],
+  "positive_cuts_checked": [
+    {
+      "file": "wapf-health-leitura-50-2026-11-25.tsv",
+      "sha256": "43a98ff1eff3bc484b1df6e4994d6c01b36a0667a555aa475ebd7fa3deb28064",
+      "rows_inspected": 50,
+      "distinct_requested_url_identities": 50,
+      "url_columns_checked": [
+        "url"
+      ],
+      "rows_with_id": 0,
+      "url_overlap_count": 0,
+      "id_overlap_count": 0,
+      "same_title_count": 0
+    },
+    {
+      "file": "wapf-health-mais50-2026-11-25.tsv",
+      "sha256": "f04ac928de9221c7a8f2bb878e1efd40e94db907052c3e24affd5cebfa28b660",
+      "rows_inspected": 50,
+      "distinct_requested_url_identities": 50,
+      "url_columns_checked": [
+        "requested_url",
+        "final_url",
+        "canonical_url"
+      ],
+      "rows_with_id": 0,
+      "url_overlap_count": 0,
+      "id_overlap_count": 0,
+      "same_title_count": 0
+    },
+    {
+      "file": "wapf-health-lote3-50-2026-11-25.tsv",
+      "sha256": "fef2ff6e22d18897f2d9bcd4ae06fb57bd1ac334d27c56dae7ea47ddd2b77bcb",
+      "rows_inspected": 50,
+      "distinct_requested_url_identities": 50,
+      "url_columns_checked": [
+        "requested_url",
+        "final_url",
+        "canonical_url"
+      ],
+      "rows_with_id": 0,
+      "url_overlap_count": 0,
+      "id_overlap_count": 0,
+      "same_title_count": 0
+    },
+    {
+      "file": "wapf-health-lote4-50-2026-11-25.tsv",
+      "sha256": "00029cf0e704a6968646761e1e31421a2c668c87280e37beff585319880d209b",
+      "rows_inspected": 50,
+      "distinct_requested_url_identities": 50,
+      "url_columns_checked": [
+        "requested_url",
+        "final_url",
+        "canonical_url"
+      ],
+      "rows_with_id": 50,
+      "url_overlap_count": 0,
+      "id_overlap_count": 0,
+      "same_title_count": 0
+    },
+    {
+      "file": "wapf-health-lote5-50-2026-11-25.tsv",
+      "sha256": "646bd78c68e33fd6481c305a0fa82bdc1c11f318c83d570e86a65bd433f78358",
+      "rows_inspected": 50,
+      "distinct_requested_url_identities": 50,
+      "url_columns_checked": [
+        "requested_url",
+        "final_url",
+        "canonical_url"
+      ],
+      "rows_with_id": 50,
+      "url_overlap_count": 0,
+      "id_overlap_count": 0,
+      "same_title_count": 0
+    }
+  ],
+  "sources": [
+    {
+      "batch_index": 0,
+      "catalog_index": 71,
+      "id": 32894,
+      "url": "https://www.westonaprice.org/health-topics/alpha-gal-syndrome-and-ticks-a-false-trail/",
+      "title": "Alpha-Gal Syndrome and Ticks: A False Trail?",
+      "author": "Merinda Teller, MPH, PhD",
+      "displayed_date": "April 27, 2020",
+      "body_publication_note": "Wise Traditions, Spring 2020",
+      "canonical": "https://www.westonaprice.org/health-topics/alpha-gal-syndrome-and-ticks-a-false-trail/",
+      "html_sha256_physical": "b09deb06ae442d070956abb6185efc7e560c2f38143d2dc5377e51af8a4c60cd",
+      "text_sha256_physical": "69f9ce0e54784ee32b78ae043a5d7299cacf1d4c0b38ab96865ab4440417b5dd",
+      "characters": 29813,
+      "lines": 108,
+      "read_ranges_inclusive": [
+        [
+          1,
+          108
+        ]
+      ],
+      "read_output_ranges_inclusive": [
+        [
+          1,
+          108
+        ]
+      ],
+      "read_completed_at_utc": "2026-11-26T00:41:44Z",
+      "retrieved_at_utc": "2026-11-26T00:39:12.947411+00:00",
+      "http_status": "200",
+      "full_available_text_read": true,
+      "hashes_match_recovery": true,
+      "historical_narrative_consultation_preserved": true,
+      "historical_full_body_claim": true,
+      "prior_individual_hash_range_read_proof_located_in_catalog": false,
+      "new_source": false,
+      "new_individual_reading_proof": true,
+      "html_read": false,
+      "html_use": "hash físico somente",
+      "references_read_as_bibliography_only": true,
+      "images_not_read_recorded_in_recovery": 129,
+      "limits": [
+        "Sem nova rede, ASR ou mídia; trabalho sobre os arquivos locais fixados.",
+        "HTML não lido visualmente; imagens, tabelas/figuras gráficas, anexos e destinos externos não lidos.",
+        "Bibliografia visível lida como texto; isso não transfere leitura às referências citadas.",
+        "Parser de recuperação exclui comentários, scripts, navegação e author-box; cobertura é do TXT fornecido.",
+        "A crítica à hipótese dos carrapatos e a hipótese vacinal são da autora; não houve validação independente das inferências causais.",
+        "Relatos de alergia e remédios naturais são reproduzidos no corpo; não são ensaios de caldo nem orientação adotada.",
+        "Sem receita ou análise nutricional de caldo/gelatina."
+      ]
+    },
+    {
+      "batch_index": 1,
+      "catalog_index": 338,
+      "id": 4718,
+      "url": "https://www.westonaprice.org/health-topics/conserving-the-digestive-fire/",
+      "title": "Conserving the Digestive Fire",
+      "author": "Katherine Czapp",
+      "displayed_date": "February 14, 2008",
+      "body_publication_note": "Wise Traditions, Spring 2007; data da página 2008 preservada separadamente",
+      "canonical": "https://www.westonaprice.org/health-topics/conserving-the-digestive-fire/",
+      "html_sha256_physical": "638fb0cea9dac49c6783b153bb724f701b6137e3eef295de6a34ca534439392c",
+      "text_sha256_physical": "0c4bc561760e56573d488b4a63e5e188650586dcb9b0a8ba204b831885e17925",
+      "characters": 19835,
+      "lines": 49,
+      "read_ranges_inclusive": [
+        [
+          1,
+          49
+        ]
+      ],
+      "read_output_ranges_inclusive": [
+        [
+          1,
+          49
+        ]
+      ],
+      "read_completed_at_utc": "2026-11-26T00:41:44Z",
+      "retrieved_at_utc": "2026-11-26T00:39:12.632003+00:00",
+      "http_status": "200",
+      "full_available_text_read": true,
+      "hashes_match_recovery": true,
+      "historical_narrative_consultation_preserved": true,
+      "historical_full_body_claim": true,
+      "prior_individual_hash_range_read_proof_located_in_catalog": false,
+      "new_source": false,
+      "new_individual_reading_proof": true,
+      "html_read": false,
+      "html_use": "hash físico somente",
+      "references_read_as_bibliography_only": true,
+      "images_not_read_recorded_in_recovery": 112,
+      "limits": [
+        "Sem nova rede, ASR ou mídia; trabalho sobre os arquivos locais fixados.",
+        "HTML não lido visualmente; imagens, tabelas/figuras gráficas, anexos e destinos externos não lidos.",
+        "Bibliografia visível lida como texto; isso não transfere leitura às referências citadas.",
+        "Parser de recuperação exclui comentários, scripts, navegação e author-box; cobertura é do TXT fornecido.",
+        "Digestive fire e qualidades quentes/frias são expostos como Ayurveda, não medicina chinesa; hipóteses e experiência pessoal da autora não demonstram eficácia clínica.",
+        "Why Broth is Beautiful é citado, não lido nesta tarefa.",
+        "Sem receita de caldo quantificada; tempo apenas muitas horas de fervura branda."
+      ]
+    },
+    {
+      "batch_index": 2,
+      "catalog_index": 389,
+      "id": 32479,
+      "url": "https://www.westonaprice.org/health-topics/dietary-support-for-the-alcoholic/",
+      "title": "Dietary Support for the Alcoholic",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "February 12, 2020",
+      "body_publication_note": "Wise Traditions, Winter 2019",
+      "canonical": "https://www.westonaprice.org/health-topics/dietary-support-for-the-alcoholic/",
+      "html_sha256_physical": "92864f0caaea45ef474a6224681fda346a40193db1349051d00969e47a0c4b24",
+      "text_sha256_physical": "68fa0268495ad32e17f4078a4c11844b08c6fd0b6c2858b0c316b0cc498ecc93",
+      "characters": 25562,
+      "lines": 89,
+      "read_ranges_inclusive": [
+        [
+          1,
+          89
+        ]
+      ],
+      "read_output_ranges_inclusive": [
+        [
+          1,
+          89
+        ]
+      ],
+      "read_completed_at_utc": "2026-11-26T00:41:44Z",
+      "retrieved_at_utc": "2026-11-26T00:39:12.795907+00:00",
+      "http_status": "200",
+      "full_available_text_read": true,
+      "hashes_match_recovery": true,
+      "historical_narrative_consultation_preserved": true,
+      "historical_full_body_claim": true,
+      "prior_individual_hash_range_read_proof_located_in_catalog": false,
+      "new_source": false,
+      "new_individual_reading_proof": true,
+      "html_read": false,
+      "html_use": "hash físico somente",
+      "references_read_as_bibliography_only": true,
+      "images_not_read_recorded_in_recovery": 131,
+      "limits": [
+        "Sem nova rede, ASR ou mídia; trabalho sobre os arquivos locais fixados.",
+        "HTML não lido visualmente; imagens, tabelas/figuras gráficas, anexos e destinos externos não lidos.",
+        "Bibliografia visível lida como texto; isso não transfere leitura às referências citadas.",
+        "Parser de recuperação exclui comentários, scripts, navegação e author-box; cobertura é do TXT fornecido.",
+        "Regulação de dopamina/GABA/metilação por caldo é alegação editorial apoiada em referências citadas não abertas.",
+        "Cup/mug e frequência são sugestões da autora, sem volume em mL nem dosagem de glicina.",
+        "Folate e K2 aparecem em contextos distintos do teor de vitaminas do caldo; sem receita-base quantificada."
+      ]
+    },
+    {
+      "batch_index": 3,
+      "catalog_index": 927,
+      "id": 5355,
+      "url": "https://www.westonaprice.org/health-topics/modern-diseases/going-with-the-grain/",
+      "title": "Going with the Grain",
+      "author": "Katherine Czapp",
+      "displayed_date": "July 16, 2006",
+      "body_publication_note": "Wise Traditions, Summer 2006",
+      "canonical": "https://www.westonaprice.org/health-topics/modern-diseases/going-with-the-grain/",
+      "html_sha256_physical": "452a016dbc758b4fc13b4abddc472cebd0c9bd09f24a6d77065efa7451a218c8",
+      "text_sha256_physical": "5901e7d4d2e91d98930140c0e205a3be3e76c96907e934e39fd85b13493dfc48",
+      "characters": 23098,
+      "lines": 57,
+      "read_ranges_inclusive": [
+        [
+          1,
+          57
+        ]
+      ],
+      "read_output_ranges_inclusive": [
+        [
+          1,
+          57
+        ]
+      ],
+      "read_completed_at_utc": "2026-11-26T00:41:44Z",
+      "retrieved_at_utc": "2026-11-26T00:39:13.619814+00:00",
+      "http_status": "200",
+      "full_available_text_read": true,
+      "hashes_match_recovery": true,
+      "historical_narrative_consultation_preserved": true,
+      "historical_full_body_claim": true,
+      "prior_individual_hash_range_read_proof_located_in_catalog": false,
+      "new_source": false,
+      "new_individual_reading_proof": true,
+      "html_read": false,
+      "html_use": "hash físico somente",
+      "references_read_as_bibliography_only": true,
+      "images_not_read_recorded_in_recovery": 110,
+      "limits": [
+        "Sem nova rede, ASR ou mídia; trabalho sobre os arquivos locais fixados.",
+        "HTML não lido visualmente; imagens, tabelas/figuras gráficas, anexos e destinos externos não lidos.",
+        "Bibliografia visível lida como texto; isso não transfere leitura às referências citadas.",
+        "Parser de recuperação exclui comentários, scripts, navegação e author-box; cobertura é do TXT fornecido.",
+        "Melhora do pai é relato familiar com múltiplas mudanças alimentares; não isola efeito do caldo.",
+        "Vitamina K foi injetada antes do caldo; não mede K na bebida.",
+        "Congee é apresentado em contexto de medicina chinesa; arroz/água, não obrigatoriamente caldo de ossos.",
+        "Discussão de sourdough/celiaquia é alegação/anecdota da fonte e descrição secundária de pesquisa; estudo externo não lido e recomendações não adotadas."
+      ]
+    },
+    {
+      "batch_index": 4,
+      "catalog_index": 965,
+      "id": 5622,
+      "url": "https://www.westonaprice.org/health-topics/modern-foods/dirty-secrets-of-the-food-processing-industry/",
+      "title": "Dirty Secrets of the Food Processing Industry",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "December 26, 2005",
+      "body_publication_note": "Corpo: apresentação Consumer Health of Canada, março de 2002; atualizado e referências acrescentadas em março de 2011; identificação da autora Sally Fallon Morell no corpo, linha 63",
+      "canonical": "https://www.westonaprice.org/health-topics/modern-foods/dirty-secrets-of-the-food-processing-industry/",
+      "html_sha256_physical": "88dbb1bddbf2b3691aac501d846e1e9116a540319c7738713be5bb0bb47f8d9b",
+      "text_sha256_physical": "bd1b4513f52bfeb2d8251695371932c427ab57b9f01bc26823c990fbeaa67cc3",
+      "characters": 30521,
+      "lines": 83,
+      "read_ranges_inclusive": [
+        [
+          1,
+          83
+        ]
+      ],
+      "read_output_ranges_inclusive": [
+        [
+          1,
+          83
+        ]
+      ],
+      "read_completed_at_utc": "2026-11-26T00:41:44Z",
+      "retrieved_at_utc": "2026-11-26T00:39:14.528987+00:00",
+      "http_status": "200",
+      "full_available_text_read": true,
+      "hashes_match_recovery": true,
+      "historical_narrative_consultation_preserved": true,
+      "historical_full_body_claim": true,
+      "prior_individual_hash_range_read_proof_located_in_catalog": false,
+      "new_source": false,
+      "new_individual_reading_proof": true,
+      "html_read": false,
+      "html_use": "hash físico somente",
+      "references_read_as_bibliography_only": true,
+      "images_not_read_recorded_in_recovery": 143,
+      "limits": [
+        "Sem nova rede, ASR ou mídia; trabalho sobre os arquivos locais fixados.",
+        "HTML não lido visualmente; imagens, tabelas/figuras gráficas, anexos e destinos externos não lidos.",
+        "Bibliografia visível lida como texto; isso não transfere leitura às referências citadas.",
+        "Parser de recuperação exclui comentários, scripts, navegação e author-box; cobertura é do TXT fornecido.",
+        "Benefícios do caldo e críticas a MSG/industrialização são afirmações editoriais; referências e estudos citados não foram abertos.",
+        "Autoria do registro de recuperação é institucional; corpo identifica Sally Fallon Morell na linha 63.",
+        "Sem receita de caldo quantificada."
+      ]
+    },
+    {
+      "batch_index": 5,
+      "catalog_index": 1394,
+      "id": 44001,
+      "url": "https://www.westonaprice.org/health-topics/why-we-need-a-high-lysine-diet/",
+      "title": "Why We Need a High-Lysine Diet",
+      "author": "Joan Tendler, M.Arch.",
+      "displayed_date": "July 12, 2023",
+      "body_publication_note": "Wise Traditions, Summer 2023",
+      "canonical": "https://www.westonaprice.org/health-topics/why-we-need-a-high-lysine-diet/",
+      "html_sha256_physical": "fc47fcfdade3e5c50b14d5a5956ad2028c6f7287e64c8a93c436b4beb67a272a",
+      "text_sha256_physical": "d0e1b600c156d8fd61be20ececad414d54e1a3cd19a404bca74dc16c418ce44f",
+      "characters": 77141,
+      "lines": 265,
+      "read_ranges_inclusive": [
+        [
+          1,
+          265
+        ]
+      ],
+      "read_output_ranges_inclusive": [
+        [
+          1,
+          65
+        ],
+        [
+          66,
+          130
+        ],
+        [
+          131,
+          200
+        ],
+        [
+          201,
+          265
+        ]
+      ],
+      "read_completed_at_utc": "2026-11-26T00:41:44Z",
+      "retrieved_at_utc": "2026-11-26T00:39:15.218228+00:00",
+      "http_status": "200",
+      "full_available_text_read": true,
+      "hashes_match_recovery": true,
+      "historical_narrative_consultation_preserved": true,
+      "historical_full_body_claim": true,
+      "prior_individual_hash_range_read_proof_located_in_catalog": false,
+      "new_source": false,
+      "new_individual_reading_proof": true,
+      "html_read": false,
+      "html_use": "hash físico somente",
+      "references_read_as_bibliography_only": true,
+      "images_not_read_recorded_in_recovery": 149,
+      "limits": [
+        "Sem nova rede, ASR ou mídia; trabalho sobre os arquivos locais fixados.",
+        "HTML não lido visualmente; imagens, tabelas/figuras gráficas, anexos e destinos externos não lidos.",
+        "Bibliografia visível lida como texto; isso não transfere leitura às referências citadas.",
+        "Parser de recuperação exclui comentários, scripts, navegação e author-box; cobertura é do TXT fornecido.",
+        "Relato autobiográfico de mudança dietética e suplementação; não demonstra efeito clínico isolado de caldo/gelatina.",
+        "Tabela 1 e figuras 1–3 são mencionadas/captionadas no TXT; valores/conteúdo visual não foram lidos.",
+        "Bone marrow é tecido/células em discussão sobre osteoporose, não alimento/receita.",
+        "Catalase e grey hair aparecem em discussão de pancreatite em camundongos; não é avaliação de repigmentação nem intervenção com caldo."
+      ]
+    }
+  ]
+}

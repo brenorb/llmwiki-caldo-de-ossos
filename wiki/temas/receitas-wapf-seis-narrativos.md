@@ -1,0 +1,34 @@
+# Preparos com caldo em seis textos narrativos da WAPF
+
+Este caderno conserva os métodos e as medidas disponíveis nos seis textos já consultados anteriormente e agora com [prova individual de leitura](../../raw/wapf-health-seis-narrativos-2026-11-25.tsv). **Não são receitas completas quando faltam proporções, tempos ou rendimento.** A [nota de fonte](../fontes/weston-price-caldo-gelatina.md#seis-consultas-narrativas-com-prova-individual) distingue depoimentos, tradições e alegações editoriais. Os usos terapêuticos do original não são prescrições deste caderno.
+
+## Fundos e usos culinários
+
+| Fonte e trecho | Ingredientes, medidas, variantes e método do original | Tempo, rendimento e ausências |
+|---|---|---|
+| [Conserving the Digestive Fire](https://www.westonaprice.org/health-topics/conserving-the-digestive-fire/), Katherine Czapp, linhas20–22 | Fundo de **ossos, pés, cabeças, cortes duros e cartilagem de animais diversos**, em fervura branda; utilizado em sopas, ensopados e ragoûts. | “Muitas horas”; sem duração numérica, temperatura, espécie obrigatória, pesos, água, ácido, rendimento ou porções. As propriedades digestivas são alegações da autora. |
+| [Going with the Grain](https://www.westonaprice.org/health-topics/modern-diseases/going-with-the-grain/), Katherine Czapp, linhas12–14 | Caldos concentrados de ossos longamente cozidos em **panelas distintas**: algumas com raiz de astrágalo; outras com kombu; outras com vinagre caseiro de talos de shiitake; outra com urtiga. Aquecidos **sem diluição**, com **um pouco** de sal marinho Celtic. | Sem pesos de ossos/água/adições/sal, duração numérica ou temperatura. O relato de **mais de duas dúzias de quarts** no congelador é estoque acumulado, não rendimento de uma fórmula. As quatro adições não formam uma mistura obrigatória. Ervas medicinais pertencem ao relato, não a uma recomendação de uso. |
+| Mesmo texto, linhas14–17 | Pequenas refeições de cordeiro moído e purê de **batatas** com manteiga crua; caldo entre refeições. O concentrado entra em sopas, molhos, ensopados/ragoûts, e em **até metade do líquido de cocção de grãos**; **uma mug** de caldo salgado é citada como bebida. | Sem pesos, volume total, receita-base ou rendimento. *Mug* preservada sem conversão a mL. A retirada inicial de grãos no depoimento não transforma a batata em alimento sem carboidratos. |
+| Mesmo texto, linha20 | Carne, **cebola, cenoura, batata**, aipo, vegetais marinhos, caldo, vinho e ervas, cozidos lentamente juntos como ensopado/ragoût. | Sem pesos, proporção de caldo, temperatura, duração numérica ou rendimento. Sem variante expressa que retire a batata ou a cenoura. |
+| [Dietary Support for the Alcoholic](https://www.westonaprice.org/health-topics/dietary-support-for-the-alcoholic/), Sally Fallon Morell, linhas24/76 | Uso de caldo gelatinoso como bebida e ingrediente de molhos/gravies. O texto sugere **uma mug de manhã e à noite**; o boxe sugere **uma cup de caldo aquecido a cada refeição**, sobretudo com carne, temperado com sal não refinado. | São duas formulações terapêuticas do texto, não uma dose somada ou validada. Sem volume em mL, quantidade de sal, método de extração, duração de uso, teor de glicina, rendimento ou porções culinárias definidas. |
+| [Dirty Secrets of the Food Processing Industry](https://www.westonaprice.org/health-topics/modern-foods/dirty-secrets-of-the-food-processing-industry/), Sally Fallon Morell no corpo, linhas34–39 | Caldo de ossos em sopas, molhos, gravies e ensopados, contraposto às bases industriais. | Sem receita medida, tempo, rendimento ou proporção. A descrição de produtos industriais não é receita caseira proposta. |
+
+## Congee e soubise
+
+| Preparação em [Going with the Grain](https://www.westonaprice.org/health-topics/modern-diseases/going-with-the-grain/) | Método, medidas e ingredientes do texto | Lacunas e carboidratos |
+|---|---|---|
+| **Congee/jook**, linha26 | **Arroz em até nove vezes sua quantidade de água**, em panela lenta por **oito ou nove horas**, até os grãos se desfazerem e o caldo engrossar. Às vezes inclui ervas medicinais; ovos, carne ou vegetais são escalfados nesse líquido. | Não informa unidade da proporção, quantidade absoluta, temperatura, ervas/doses ou rendimento. **O líquido é arroz e água; não exige caldo de ossos.** Não há variante sem arroz. A atribuição à medicina chinesa e as finalidades de recuperação são da autora; [tradições e evidência](medicina-chinesa.md#congee-descrito-pela-wapf-e-distinção-de-ayurveda). |
+| **Soubise**, linha27 | Arroz, caldo, **uma libra ou mais de cebolas fatiadas**, louro e vinho branco, cozidos muito lentamente no forno. Usualmente finalizado com creme de leite; servido como acompanhamento ou molho. | Sem quantidade de arroz/caldo/louro/vinho/creme, temperatura, horas ou rendimento. **Arroz e cebola fazem parte do original**; não há versão sem arroz explicitada. A fonte o identifica como comparação francesa, não receita chinesa. |
+
+## Sopas de ervilha e frango
+
+Em [Why We Need a High-Lysine Diet](https://www.westonaprice.org/health-topics/why-we-need-a-high-lysine-diet/), Joan Tendler cita dois preparos, sem fichas medidas:
+
+| Preparo e trecho | Método/tempo e ingredientes expressos | Ausências e limites |
+|---|---|---|
+| **Sopa dinamarquesa de ervilhas partidas**, linha85 | **Três dias para demolhar e cozinhar** as ervilhas; cozidas com **osso de presunto**, acrescentando **bastante presunto**. | Não separa o tempo do demolho do tempo de cocção; não informa pesos, água, temperatura, rendimento ou porções. As ervilhas integram o original; não há substituição por ingrediente sem leguminosa. A interpretação sobre equilíbrio lisina/arginina é da autora, sem razão quantitativa medida na sopa. |
+| **Sopa de frango**, linha86 | Combinação de carne de frango e gelatina do caldo, descrita como equilíbrio de aminoácidos. | Sem lista completa, quantidades, método de extração, tempo, rendimento ou razão de aminoácidos medida. Não especifica arroz ou macarrão; não se presume sua presença nem ausência como variante low carb. |
+
+Não há receita culinária de tutano nesses seis textos. *Alpha-Gal Syndrome and Ticks* menciona caldo/gelatina em contextos de alimentação e alergia, sem preparo pertinente. Receitas adjacentes de laticínios, chás, mingaus e coquetéis de óleo não foram incorporadas como receitas de caldo.
+
+**Leitura e limites:** seis TXT completos, inclusive notas/bibliografias/finais, registrados no [JSON público](../../raw/wapf-health-seis-narrativos-2026-11-25.json); imagens, mídia, comentários, anexos e destinos externos não foram lidos nesta etapa. As medidas acima não demonstram teor de B9, K, cobre, gelatina ou colágeno por porção, benefício clínico ou repigmentação. Não foram criadas adaptações com menos carboidratos; a defesa geral de uma dieta pela fonte não substitui uma variante culinária explícita.

@@ -144,3 +144,6 @@ As [quinze lacunas de mídia MDA](fontes/mda-midias-lacunas-2026-11-25.md) prese
 
 
 O [sexto lote health](fontes/wapf-health-lote6-2026-11-25.md) tem50 corpos atuais integralmente lidos por subagentes, três pareceres integralmente revisados e100 hashes físicos/faixas completos conferidos. Colisões deIDs anteriores preservam a contagem porURL, sem afirmar independência editorial. Sete tabelas ausentes doTXT e estudos externos não foram declarados lidos.
+
+
+Os [seis textos antes narrativos](../raw/wapf-health-seis-narrativos-2026-11-25.json) ganharam provas individuais:651linhas/205.970caracteres e12hashes físicos conferidos. São zero fontes novas. O [caderno](temas/receitas-wapf-seis-narrativos.md) preserva proporções incompletas, amidos e categorias distintas de Ayurveda/congee; K injetada e vitaminas de outros alimentos não viraram composição de caldo. A contagem250+6é deURLs, com colisões deIDs registradas no [lote6](fontes/wapf-health-lote6-2026-11-25.md).

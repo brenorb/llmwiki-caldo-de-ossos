@@ -33,6 +33,12 @@ Na [Postpartum Recovery Soup](https://www.westonaprice.org/postpartum-recovery-s
 
 ## Na cozinha
 
+### Congee descrito pela WAPF e distinção de Ayurveda
+
+Em [Going with the Grain](https://www.westonaprice.org/health-topics/modern-diseases/going-with-the-grain/), Katherine Czapp apresenta *congee/jook* no contexto da medicina chinesa: arroz cozido em **até nove vezes sua quantidade de água**, em panela lenta por **oito ou nove horas**, até os grãos se desfazerem e o líquido engrossar; ovos, carne ou vegetais podem ser escalfados nele. A unidade da proporção, quantidades absolutas, temperatura e rendimento não são informados. **É arroz e água; o texto não exige caldo de ossos.** As finalidades de recuperação são alegações da autora, sem ensaio clínico dessa preparação apresentado. O [caderno culinário](receitas-wapf-seis-narrativos.md#congee-e-soubise) conserva o arroz original e as lacunas.
+
+Já [Conserving the Digestive Fire](https://www.westonaprice.org/health-topics/conserving-the-digestive-fire/), da mesma autora, explica qualidades quentes/frias e “fogo digestivo” como **Ayurveda**, citando *Indian Materia Medica* e *Charaka Samhita*. Esse modelo não deve ser reclassificado como medicina chinesa porque usa vocabulário semelhante sobre calor e digestão. As propriedades atribuídas à gelatina e ao caldo nesse artigo são exposição editorial, sem teste clínico próprio. [Nota de fonte e cobertura dos seis textos](../fontes/weston-price-caldo-gelatina.md#seis-consultas-narrativas-com-prova-individual)
+
 ### Costela suína com rabanete branco e gengibre
 
 Adaptação culinária de *luóbo dùn páigǔ* (蘿蔔燉排骨). Use **450 g de costela suína**, **250 g de rabanete branco (daikon)**, **4 fatias de gengibre**, **2 pedaços de cebolinha grossa ou alho-poró**, água para cobrir, sal e pimenta-branca. A fonte usa três rabanetes sem informar o peso. Os 250 g são um ponto de partida da wiki.

@@ -1058,3 +1058,8 @@ Conferidos os15logs com desafio de autenticação e o retorno404 do áudio/pági
 ## [2026-11-25] ingestão | Sexto lote health: cinquenta TXT e conciliação de identidade
 
 Incorporadas [provas e síntese do lote6](wiki/fontes/wapf-health-lote6-2026-11-25.md):50TXT/4.657linhas/1.368.553caracteres. Revisor conferiu100hashes,50identidades exatas e todas as faixas; preservadas divergências de título/autoria/canonical e duas colisões deID anteriores. Receitas, interpretação chinesa, relatos multicomponentes e referências não consultadas têm classes explícitas.
+
+
+## [2026-11-25] ingestão | Seis consultas WAPF antes narrativas
+
+Incorporadas [provas individuais dos seis TXT](raw/wapf-health-seis-narrativos-2026-11-25.json):651linhas/205.970caracteres,12hashes conferidos e faixas integrais. Zero fontes novas; contagem porURL distingue colisões deID. [Caderno culinário](wiki/temas/receitas-wapf-seis-narrativos.md), fonte e medicina chinesa preservam receitas incompletas, arroz/batata/ervilha, Ayurveda distinto deMTC e benefícios apenas atribuídos. A avaliação integral deAl-Malki tem nota própria anterior.

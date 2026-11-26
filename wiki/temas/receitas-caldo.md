@@ -8,6 +8,8 @@ O [caderno de Lomo con col e sopa com gengibre](receitas-wapf-other-lote3.md) ma
 
 O [caderno de estofados e caldos japoneses](receitas-wapf-other-lote2.md) acrescenta duas versões do estofado, arajiru/niboshi/bonito e listas para outros usos. Mantém a fração de carne ambígua como1/5kg e os ingredientes com amido, sem inventar volume de “vaso”, rendimento ou substituições medidas.
 
+O [caderno de Sarah Pope e sopa sazonal](receitas-wapf-other-lote4.md) preserva a transcrição própria dos caldos de frango/bovino e variantes, a sopa de pele suína e a lista sazonal completa. Separa potes de rendimento, ambiguidades de cenoura/aipo e alegações antigas de conservação dos controles domésticos.
+
 ## Frango na pressão ou no fogão
 
 **Para uma carcaça de frango já assado**, use cerca de **2 L de água**, uma cenoura pequena, um talo de salsão e um pedaço de cebola. Limão, alho, tomilho e pimenta são opcionais. O ponto de partida foi a receita do Mark’s Daily Apple, ajustada para aromáticos mais discretos.

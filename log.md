@@ -1135,3 +1135,8 @@ O [cruzamento local com ledgers selecionados](raw/wapf-other-lote3-destinos-conc
 ## [2026-11-26] revisão | Caderno2 integral e QA independente aplicado
 
 Publicado o [caderno2](wiki/temas/receitas-wapf-other-lote2.md), incluindo estofados, cheesecake/coulis, alternativa de macaroons e usos japoneses. QA independente leu caderno inteiro,19 TXT inteiros e contextos dos outros31, com100 hashes; root leu QA/pareceres e confirmou08L12/L29. Aplicada correção pontual de atribuição na cópia adulta e criadas cópias derivadas corrigidas das peças críticas privadas, preservando congelados. [Registro](raw/wapf-other-lote2-caderno-qa-2026-11-26.json) mantém as falhas TLS do crédito da autora e1/5kg literal, sem supor fração correta ou ausência global do original. Sem novas leituras adicionadas ao total150.
+
+
+## [2026-11-26] ingestão | Complemento other: lote4 e métodos de caldos
+
+Incorporados [50 TXT do lote4](wiki/fontes/wapf-other-lote4-50.md),4.676 linhas/881.257 caracteres e o [caderno](wiki/temas/receitas-wapf-other-lote4.md). Revisor leu parecer/caderno completos, conferiu100 hashes/105 intervalos e métodos11/35/36/43. Preservadas as variantes de Sarah Pope, carboidratos originais e alegações históricas sem adoção de conservação/terapia. Show Notes não foi contado como episódios completos; a tabelaK2 não virou composição de caldo. Total200/242 corpos do complemento, sem incluir lote5 ou novas classes apenas adquiridas.

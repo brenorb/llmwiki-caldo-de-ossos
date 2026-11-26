@@ -36,3 +36,5 @@ ABCs, macronutrientes, alimentos e pesticidas remetem a caldo, gelatina, tutano,
 A verificação encontrou exatamente um main com esseID porHTML. O parser exclui scripts/style/noscript/template; não insere quebra explícita emh5, deixando títulos concatenados na linha23 do índice27. Âncoras individuais eHTML preservam essa distinção. O corpo estático foi lido inteiro, sem preencher o que não aparece com outros artigos.
 
 Seis caminhos solicitados/canonical diferentes permanecem separados. IDs de taxonomia, categoria ou posts listados não viraram ID de página do índice. Autor/data do índice não foram inferidos de itens listados. Alegações de saúde e títulos são atribuídos às fontes, sem orientação clínica. [Cobertura geral](../cobertura.md) · [Proveniência](../proveniencia.md)
+
+Os [22 main complementares](wapf-direct-index-main22.md) fecham34/34 índices do corte,5.214 linhas/318.529 caracteres. As73 páginas diretas de duas categorias culinárias já estavam no registro editorial464; a conciliação não acrescenta novas leituras de destino.

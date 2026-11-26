@@ -1182,3 +1182,7 @@ Incorporados [lote5](wiki/fontes/wapf-other-lote5-42.md) e [caderno completo](wi
 ## [2026-11-26] ingestão |78 resenhas WAPF: último lote e aplicações parciais
 
 Incorporados [28 TXT finais](wiki/fontes/wapf-book-review28.md),493 linhas/170.144 caracteres e56 hashes, com [caderno de aplicações](wiki/temas/aplicacoes-wapf-resenhas28.md). Revisor leu parecer/caderno/QA autoral inteiros e originais focais. União78/78 resenhas,1.415 linhas/498.931 caracteres/156 hashes; não livros ou ensaios novos. Métodos parciais, originais com amido/açúcar e proposta de menos carboidratos ficam identificados.
+
+## [2026-11-26] ingestão |34 índices estáticos e conciliação de destinos já registrados
+
+Incorporados [22 main complementares](wiki/fontes/wapf-direct-index-main22.md),3.142 linhas/219.416 caracteres/66 hashes, fechando34 corpos principais estáticos com os12 anteriores. Revisor leu parecer/caderno/crítico/adendo e originais focais; versões preservadas. Conciliação978 ocorrências/784 destinos reconhece609 ocorrências em registros selecionados e as73 páginas culinárias já lidas no editorial464. Sem novos artigos/receitas integrais por inferência, paginação ou mídia lida.

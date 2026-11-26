@@ -295,3 +295,5 @@
 
 - [WAPF:28 resenhas finais e fechamento das78 do corte](wiki/fontes/wapf-book-review28.md)
 - [Tutano, caldo reduzido e pratos com caldo: descrições parciais das resenhas](wiki/temas/aplicacoes-wapf-resenhas28.md)
+
+- [WAPF:22 índices complementares, união34 e conciliação das receitas já lidas](wiki/fontes/wapf-direct-index-main22.md)

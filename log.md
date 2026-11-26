@@ -1218,3 +1218,7 @@ Incorporada [reconciliação de mídias](wiki/fontes/mda-midias-reconciliacao196
 ## [2026-11-26] ingestão |124 páginas de podcast e ficha completa da sopa de coco
 
 Incorporados [50 corpos finais](wiki/fontes/wapf-podcast-lote2-50.md),6.415 linhas/1.790.378 caracteres/100 hashes/149 intervalos, com [caderno culinário](wiki/temas/receitas-wapf-podcast-lote2.md). União exata124/124 da classe selecionada,14.416 linhas/3.921.851 caracteres/248 hashes/386 intervalos. Revisor leu novos derivados/QA e focais; outro agente conferiu21 originais/36 intervalos e100 hashes sem erro factual pendente. A [sopa de coco](wiki/temas/receitas-caldo.md#sopa-de-coco-com-caldo-de-frango-gengibre-e-limão) tem ingredientes, quatro porções,15–20min e todas as variantes. Remédios, fórmulas infantis/pets e detalhes alheios não viraram fichas adultas; textos lidos não foram contados como áudio/estudos.
+
+## [2026-11-26] revisão |249 URLs restantes:união exata de versões textuais
+
+A [conciliação249](raw/wapf-classes-restantes-leitura249-2026-11-26.json) compara todas asURLs/classes do índice original com oito provas públicas, sem faltas ou sobreposição. São78resenhas,124páginas de podcast,34índicesmain e13galerias textuais,21.568 linhas/4.928.460 caracteres. Quadro atualizado distingue aquisição, versões lidas e escopos; não adiciona leitura semântica,532hashes únicos, livros/áudios/imagens/estudos ou todo o site por soma.

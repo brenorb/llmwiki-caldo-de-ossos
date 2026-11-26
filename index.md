@@ -314,3 +314,5 @@
 - [WAPF:50 páginas finais de podcasts e fechamento das124 selecionadas](wiki/fontes/wapf-podcast-lote2-50.md)
 - [Sopa de coco, bases, ramen, tutano e outras descrições culinárias dos podcasts](wiki/temas/receitas-wapf-podcast-lote2.md)
 - [Sopa de coco com caldo:quatro porções e variantes originais](wiki/temas/receitas-caldo.md#sopa-de-coco-com-caldo-de-frango-gengibre-e-limão)
+
+- [WAPF:conciliação exata das249 URLs restantes, por classe e versão lida](raw/wapf-classes-restantes-leitura249-2026-11-26.json)

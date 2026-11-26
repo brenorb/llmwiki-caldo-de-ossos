@@ -1,5 +1,17 @@
 # WAPF: inventário e aquisição de249 páginas das demais classes
 
+**Fechamento posterior da leitura:** as **249/249 URLs exatas** desta aquisição têm agora uma versão textual disponível com leitura registrada, em provas próprias. A [conciliação porURL/classe/versão](../../raw/wapf-classes-restantes-leitura249-2026-11-26.json) confere a união completa, sem somar corpos de índices como artigos de destino ou áudios. As contagens de aquisição abaixo permanecem históricas.
+
+| Classe | Textos lidos | Linhas | Caracteres | Provas e limite |
+|---|---:|---:|---:|---|
+| Resenhas |78/78|1.415|498.931|[50](wapf-book-review50.md) + [28](wapf-book-review28.md); não os livros.|
+| Páginas de podcast |124/124|14.416|3.921.851|[50](wapf-podcast-lote1-50.md) + [50](wapf-podcast-lote2-50.md) + [24](wapf-podcast-lote3-24.md); não todos os áudios.|
+| Índices estáticos |34/34|5.214|318.529|[12 recuperados](wapf-direct-index-main12.md) + [22](wapf-direct-index-main22.md); não destinos/paginação.|
+| Galerias textuais |13/13|523|189.149|[Texto/legendas](wapf-gallery13.md); imagens não vistas.|
+| **Total das versões lidas** |**249/249**|**21.568**|**4.928.460**|União exata do catálogo de aquisição, sem novas leituras por esta soma.|
+
+As notas individuais registram532 verificações de arquivos físicos:498HTML/TXT iniciais mais34 versõesmain, sem afirmar532 hashes de bytes distintos ou nova leitura. Os34 registros agregados de leitura dos índices correspondem a45 intervalos numerados de exibição. Não se alterou o vazio das12 versões estritas antigas; as versões novas e seus escopos estão separados. Este fechamento cobre este conjunto selecionado, sem declarar todo o site, imagens, comentários, estudos ou mídia lidos.
+
 Em26/11/2026, a aquisição do catálogo fixo887 alcançou **todos os249 alvos** das classes restantes. O revisor conferiu **498 hashes físicos**, identidades, contagens e flags de texto não branco. Foram249 respostasHTTP200, com **237 TXT não brancos e12 lacunas de extração**. Isso é aquisição, **sem acrescentar leituras semânticas ou fontes clínicas**. [Inventário completo porURL, acesso, hashes e lacunas](../../raw/wapf-classes-restantes-aquisicao249-2026-11-26.json)
 
 **Atualização posterior:** os [12 textos estáticos principais foram recuperados e lidos](wapf-direct-index-main12.md), com escopo `main#genesis-content` e versões estritas originais preservadas. Isso resolve a lacuna do texto principal salvo, sem declarar destinos, paginação ou mídia lidos. As contagens abaixo continuam sendo as da aquisição estrita inicial.

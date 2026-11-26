@@ -273,3 +273,4 @@
 - [Sopas escocesas, caldos, pele e pés suínos: lote 8 completo](wiki/temas/receitas-wapf-medidas-health8.md)
 
 - [Tradiciones Sabias:189 entradas com transcrição automática auditada](wiki/fontes/wapf-audio-es-processamento189.md)
+- [WAPF: 50 páginas complementares, receitas, menus e traduções — lote 2](wiki/fontes/wapf-other-lote2-50.md)

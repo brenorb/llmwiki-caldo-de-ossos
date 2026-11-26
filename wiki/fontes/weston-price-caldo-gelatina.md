@@ -302,3 +302,7 @@ Os [lotes completos 7/8](wapf-health-lotes7-8.md) fecham a leitura disponível d
 ## RSS espanhol: conclusão de processamento, não de leitura
 
 A [auditoria das 189 entradas fixadas](wapf-audio-es-processamento189.md), em 26/11/2026, conferiu 756 arquivos e todas as sequências de blocos concluídos, com143h10min51s de mídia. O processo anterior encerrou; não houve nova execução. Os resultados reconhecidos não foram contados como 189 novas leituras, receitas ou estudos; a análise semântica e a acurácia continuam com registros próprios.
+
+## Complemento other: lote 2, 50 páginas
+
+O [inventário completo do lote 2](wapf-other-lote2-50.md) registra 50 TXT atuais integralmente lidos por subagente: 5.437 linhas/700.357 caracteres. O revisor leu ambos os pareceres e conferiu 100 hashes/faixas. Há estofado com duas técnicas, listas de 2010, usos japoneses e menus; programas permanecem descrições de aulas, sem transcrições ou handouts examinados. O caderno culinário está em revisão. Nenhum destes corpos acrescenta análise quantitativa de B9/K/Cu no caldo ou ensaio de repigmentação por caldo. Fórmulas infantis e divergências de unidades ficam em contexto crítico, fora das adaptações adultas low carb.

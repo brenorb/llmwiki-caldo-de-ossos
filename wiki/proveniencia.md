@@ -175,5 +175,7 @@ O [fechamento393 health](fontes/wapf-health-lotes7-8.md) confere a união exata 
 
 A [auditoria de processamento do RSS espanhol](fontes/wapf-audio-es-processamento189.md) confere 189 identidades,756 arquivos, durações verificadas com ffprobe e sequências completas nos logs. Não finge leitura dos TXT, escuta humana ou reconhecimento perfeito. O worker anterior terminou; nenhum reinício ou corte de duração foi executado na checagem.
 
+O [lote 2 do complemento other](fontes/wapf-other-lote2-50.md) conserva 50 identidades/URLs, 100 hashes e faixas integrais. A leitura semântica foi delegada; o revisor leu os dois pareceres completos e verificou os arquivos/faixas, sem alegar releitura pessoal dos 50 originais. A omissão de duas medidas de acerola no primeiro parecer congelado é registrada como errata, preservando o original. Menus, traduções e referências não viraram receitas completas ou estudos independentes. O registro público omite caminhos pessoais e mantém localizadores/hashes do acervo.
+
 
 Durações obtidas com `ffprobe format.duration` são informações do arquivo, não prova de escuta ou de uma nova decodificação completa do áudio. Sequências de ASR, integridade do arquivo e leitura do texto são controles separados.

@@ -1110,3 +1110,8 @@ Os cadernos de [21](wiki/temas/receitas-wapf-medidas-health7b.md) e [37 fontes](
 ## [2026-11-26] revisão | RSS espanhol:189 resultados completos de processamento
 
 Confirmado encerramento do processo anterior por ausência do handle e verificação restrita de processo. A [auditoria local das 189 entradas](wiki/fontes/wapf-audio-es-processamento189.md) conferiu mídia/TXT/log/checkpoint,756 hashes e todas as sequências de blocos, sem falhas ou avisos; duração somada 143h10min51s. Não houve nova ASR. A cobertura diferencia esses resultados de leitura semântica e acurácia; nenhum episódio foi somado como novo texto revisado por causa do checkpoint.
+
+
+## [2026-11-26] ingestão | Complemento other: 50 páginas do lote 2
+
+Incorporada a [leitura integral delegada de 50 TXT](wiki/fontes/wapf-other-lote2-50.md): 5.437 linhas/700.357 caracteres. Revisor leu os dois pareceres completos, conferiu 100 hashes físicos e todos os intervalos; caderno culinário segue em revisão. Registradas versões de receitas, listas incompletas, caráter promocional das conferências e divergências nas fórmulas infantis, incluindo omissão de acerola no parecer congelado. Nenhuma tradução foi somada como ensaio clínico. FDA consultada no trecho sobre fórmulas caseiras; a reabertura da página Anvisa só retornou título/cabeçalho, sem nova validação do corpo.

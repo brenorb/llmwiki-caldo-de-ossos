@@ -1,0 +1,2170 @@
+{
+  "date": "2026-11-26",
+  "scope": "50 current extracted TXT bodies; other complement batch 2, indices 00–49; not full historical articles or independent studies",
+  "counts": {
+    "urls": 50,
+    "lines": 5437,
+    "characters": 700357,
+    "physical_hashes_checked": 100
+  },
+  "mechanical_review": {
+    "complete_ranges": true,
+    "unique_urls": 50,
+    "unique_ids": 50,
+    "issues": 0
+  },
+  "semantic_review": "Delegated agent read all 50 current TXT; root read both complete reports, checked all physical hashes/ranges and the stew source. No full HTML/image/media/comment or linked-destination reading claimed.",
+  "private_artifacts_sha256": {
+    "catalogo-fixo-50.jsonl": "55ba5ceaba1191ec6e673ee446c8396c8aed38d1fe8a2a0e4c844fe42a51d4ac",
+    "recuperacao.jsonl": "4f91e77c1b0d442c13a8c4fc699689236412c8c8043dee5e6900d7f36c8bb962",
+    "prova-extracao-50.jsonl": "2a2861db3778de2b50af40fac5310bd7e4c0c9b97c26d2c194ba16fa096e01c9",
+    "prova-leitura-faixa-00-24.jsonl": "7b3dcb310d900bc42d2fb16429ec22fb4ec7a424b10bfdc9f8874c465ab5e5bb",
+    "prova-leitura-faixa-25-49.jsonl": "799404c7d8a4e7fb0d5d1248c118fac02f7f626d6f58c14068ba13f4d1750f1e",
+    "ledger-faixa-00-24.jsonl": "f7db6480afd53e8c80bb756fd9a744a483831a0f6fa7f664ef299b93575f5ad7",
+    "ledger-faixa-25-49.jsonl": "1ea51ed9fb62f45f81bc89bc6ac094769099ac4dbe75289faa2387315648dd19",
+    "ledger-integral-50.jsonl": "1606c23a0c645a31fe5081295e9ce5ceb013fac9ede18c3274edb02903502d0b",
+    "parecer-faixa-00-24.md": "d70ae89ba7a51674ec0b1d5e28877e5b1a59047c3bbdbcc4d4d234a3e2439711",
+    "parecer-faixa-25-49.md": "aabcb3e20d4e4a76de42a725c69d338994200ee921f70fbef7fbb6c0847cbc2b",
+    "fechamento-leitura-integral-50.json": "52f8a5366706b439313f87d8891053a1067dc2b08951ddb2d27e18b776679b6d"
+  },
+  "known_report_correction": "Frozen report 00–24 omitted acerola comparison: source09 lines26/38 state 1/4 cucharadita versus 1/4 cucharada. Original report remains unchanged; separate critical record carries the discrepancy.",
+  "limits": [
+    "Titles and translations are not independent clinical evidence.",
+    "Current text extraction completeness is not historical article completeness.",
+    "Conference abstracts and menus are not lectures, handouts or recipes with missing measures reconstructed.",
+    "References were read as references, not as external primary studies.",
+    "Infant formula quantities remain in critical private source records, not adult low-carb adaptations."
+  ],
+  "rows": [
+    {
+      "batch_index": 0,
+      "id": 30187,
+      "url": "https://www.westonaprice.org/enfermedad-por-reflujo-gastroesofagico-una-solucion-clara-efectiva-y-sin-farmacos/",
+      "canonical": "https://www.westonaprice.org/enfermedad-por-reflujo-gastroesofagico-una-solucion-clara-efectiva-y-sin-farmacos/",
+      "title": "Enfermedad por Reflujo Gastroesofágico: Una solución clara, efectiva y sin fármacos",
+      "author": "Christopher Amoruso, DC",
+      "displayed_date": "March 20, 2019",
+      "meta": {
+        "article:published_time": "2019-03-20T16:13:51+00:00",
+        "article:modified_time": "2023-12-08T17:43:03+00:00",
+        "author": "Christopher Amoruso, DC"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 30187,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 50159,
+      "html_sha256_physical": "aa55db98de3556ffef5c58e8087c48f582467c787577e9238e00f1dfef3d1adb",
+      "text_sha256_physical": "8289ba05d3f1eea6012ab434c17e036ec69a33c5b3425c3543d66c811c835e08",
+      "lines": 116,
+      "chars": 49934,
+      "read_ranges_inclusive": [
+        [
+          1,
+          32
+        ],
+        [
+          33,
+          64
+        ],
+        [
+          65,
+          116
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/enfermedad-por-reflujo-gastroesofagico-una-solucion-clara-efectiva-y-sin-farmacos/",
+      "retrieved_at_utc": "2026-11-26T02:00:04.463841+00:00",
+      "text_locator": "000-30187.txt",
+      "html_locator": "000-30187.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 1,
+      "id": 33270,
+      "url": "https://www.westonaprice.org/entranas-y-grasas-la-dieta-nativa-de-norteamerica/",
+      "canonical": "https://www.westonaprice.org/entranas-y-grasas-la-dieta-nativa-de-norteamerica/",
+      "title": "Entrañas y grasas: la dieta nativa de Norteamérica",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "June 29, 2020",
+      "meta": {
+        "article:published_time": "2020-06-29T16:35:36+00:00",
+        "article:modified_time": "2023-12-08T16:16:34+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 33270,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 37524,
+      "html_sha256_physical": "0503662746145360c3350d7c5a457656ec01e906c95689e19d063342b8ae05d1",
+      "text_sha256_physical": "b92061c550462fca94722138f5b1e10e481ee5c200900b88754c90267a3b021f",
+      "lines": 190,
+      "chars": 37252,
+      "read_ranges_inclusive": [
+        [
+          1,
+          40
+        ],
+        [
+          41,
+          111
+        ],
+        [
+          112,
+          150
+        ],
+        [
+          151,
+          190
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/entranas-y-grasas-la-dieta-nativa-de-norteamerica/",
+      "retrieved_at_utc": "2026-11-26T02:00:04.092279+00:00",
+      "text_locator": "001-33270.txt",
+      "html_locator": "001-33270.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 2,
+      "id": 47570,
+      "url": "https://www.westonaprice.org/entrevista-con-dr-kelly-brogan/",
+      "canonical": "https://www.westonaprice.org/entrevista-con-dr-kelly-brogan/",
+      "title": "Entrevista con Dr. Kelly Brogan",
+      "author": "Administrator",
+      "displayed_date": "July 22, 2025",
+      "meta": {
+        "article:published_time": "2025-07-22T14:36:29+00:00",
+        "article:modified_time": "2025-09-05T10:38:38+00:00",
+        "author": "Administrator"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 47570,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 24413,
+      "html_sha256_physical": "2f26e0fbba28d2b7b71e77ac5874a6c07f35297b4d4bded247b03904a0596df3",
+      "text_sha256_physical": "c1cd17dd8e6ef2e5242d7ce5cbbe2f8924017bbd4dcc21a59c44f314a9758f5b",
+      "lines": 287,
+      "chars": 24256,
+      "read_ranges_inclusive": [
+        [
+          1,
+          105
+        ],
+        [
+          106,
+          205
+        ],
+        [
+          206,
+          287
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/entrevista-con-dr-kelly-brogan/",
+      "retrieved_at_utc": "2026-11-26T02:00:04.123181+00:00",
+      "text_locator": "002-47570.txt",
+      "html_locator": "002-47570.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 3,
+      "id": 38809,
+      "url": "https://www.westonaprice.org/es-contagioso-el-coronavirus/",
+      "canonical": "https://www.westonaprice.org/es-contagioso-el-coronavirus/",
+      "title": "¿Es Contagioso el Coronavirus?",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "December 6, 2021",
+      "meta": {
+        "article:published_time": "2021-12-06T15:45:53+00:00",
+        "article:modified_time": "2023-12-08T17:52:05+00:00",
+        "author": "Sally Fallon Morell"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 38809,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 47501,
+      "html_sha256_physical": "70cef59ef93100e87f8dbb8084e4b993d1de19607804b9dc4ba8fe6055ba8c66",
+      "text_sha256_physical": "753c893881f8020509b5444c23a6c6ad19b94b3bd28d59e8d81e12ceed99cadd",
+      "lines": 122,
+      "chars": 47277,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ],
+        [
+          29,
+          58
+        ],
+        [
+          59,
+          87
+        ],
+        [
+          88,
+          122
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/es-contagioso-el-coronavirus/",
+      "retrieved_at_utc": "2026-11-26T02:00:05.168802+00:00",
+      "text_locator": "003-38809.txt",
+      "html_locator": "003-38809.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 4,
+      "id": 37847,
+      "url": "https://www.westonaprice.org/estofado-otonal-con-carne-de-pasto/",
+      "canonical": "https://www.westonaprice.org/es/estofado-otonal-con-carne-de-pasto/",
+      "title": "Estofado otoñal con carne de pasto",
+      "author": "Marina Ribas Torres",
+      "displayed_date": "August 26, 2021",
+      "meta": {
+        "article:published_time": "2021-08-26T14:52:28+00:00",
+        "article:modified_time": "2021-09-01T20:02:57+00:00",
+        "author": "Marina Ribas Torres"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 37847,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 2478,
+      "html_sha256_physical": "30766f746125062b1d1fb7c365894e1db22dd2d95f587646067d453241aa94b0",
+      "text_sha256_physical": "99d1d96bc7fa89045b88230e4aefcc3e48712101731d49a4db8b4198406c7f58",
+      "lines": 40,
+      "chars": 2429,
+      "read_ranges_inclusive": [
+        [
+          1,
+          40
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/estofado-otonal-con-carne-de-pasto/",
+      "retrieved_at_utc": "2026-11-26T02:00:05.549515+00:00",
+      "text_locator": "004-37847.txt",
+      "html_locator": "004-37847.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 5,
+      "id": 1683,
+      "url": "https://www.westonaprice.org/experts-to-challenge-dietary-myths-about-fats-salt-plant-based-diets/",
+      "canonical": "https://www.westonaprice.org/experts-to-challenge-dietary-myths-about-fats-salt-plant-based-diets/",
+      "title": "Experts to Challenge Dietary Myths about Fats, Salt,  Plant-Based Diets",
+      "author": "Kimberly Hartke",
+      "displayed_date": "October 26, 2011",
+      "meta": {
+        "article:published_time": "2011-10-26T22:20:11+00:00",
+        "article:modified_time": "2023-05-31T15:31:05+00:00",
+        "author": "Kimberly Hartke"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1683,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 3380,
+      "html_sha256_physical": "e7fcf0ca126e376387dd59c1b62dff6e3163d2bd1431c245a5df092ea93dac87",
+      "text_sha256_physical": "5f401660180259d773c820d5e1ad7762c9e46fe794a6e54511c9d6a8a51f52cd",
+      "lines": 19,
+      "chars": 3353,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/experts-to-challenge-dietary-myths-about-fats-salt-plant-based-diets/",
+      "retrieved_at_utc": "2026-11-26T02:00:05.715093+00:00",
+      "text_locator": "005-1683.txt",
+      "html_locator": "005-1683.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 6,
+      "id": 22888,
+      "url": "https://www.westonaprice.org/fda-trying-put-amish-farmer-jail/",
+      "canonical": "https://www.westonaprice.org/fda-trying-put-amish-farmer-jail/",
+      "title": "FDA is Trying to Put Amish Farmer in Jail",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "March 17, 2017",
+      "meta": {
+        "article:published_time": "2017-03-17T15:06:41+00:00",
+        "article:modified_time": "2017-03-28T13:42:47+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 22888,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 2949,
+      "html_sha256_physical": "21db2dc2596fd9a3113b37c4f4d94fa4163fc6a77df50239c41a56be78a8739b",
+      "text_sha256_physical": "24a73e2f2e3f7dac68d2031d6ac208ca3e03441a635823875949799153c360ff",
+      "lines": 24,
+      "chars": 2927,
+      "read_ranges_inclusive": [
+        [
+          1,
+          24
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/fda-trying-put-amish-farmer-jail/",
+      "retrieved_at_utc": "2026-11-26T02:00:06.112733+00:00",
+      "text_locator": "006-22888.txt",
+      "html_locator": "006-22888.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 7,
+      "id": 1222,
+      "url": "https://www.westonaprice.org/february-2012-information-alert/",
+      "canonical": "https://www.westonaprice.org/february-2012-information-alert/",
+      "title": "February 2012 Information Alert",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "February 24, 2012",
+      "meta": {
+        "article:published_time": "2012-02-24T21:20:32+00:00",
+        "article:modified_time": "2017-06-30T11:13:19+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1222,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 11264,
+      "html_sha256_physical": "96dd777ea522e00c4341d90b5960c3d77d684d1713f87104412ef6ed50bf9477",
+      "text_sha256_physical": "81f93181687026c899139372c0d1a02ce23ec059c8c4a7b038ff52d730f28ab1",
+      "lines": 135,
+      "chars": 10790,
+      "read_ranges_inclusive": [
+        [
+          1,
+          135
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/february-2012-information-alert/",
+      "retrieved_at_utc": "2026-11-26T02:00:05.999925+00:00",
+      "text_locator": "007-1222.txt",
+      "html_locator": "007-1222.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 8,
+      "id": 23081,
+      "url": "https://www.westonaprice.org/feeding-babies-dutch-translation/",
+      "canonical": "https://www.westonaprice.org/feeding-babies-dutch-translation/",
+      "title": "Feeding Babies, Dutch Translation",
+      "author": "Piperis",
+      "displayed_date": "March 31, 2017",
+      "meta": {
+        "article:published_time": "2017-03-31T11:47:40+00:00",
+        "article:modified_time": "2024-01-12T19:39:52+00:00",
+        "author": "Piperis"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 23081,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 13699,
+      "html_sha256_physical": "a693e29355fa52120ad256ca699e6c7c01e1bc92529423cc6c4a3f42ed29b065",
+      "text_sha256_physical": "4ddb759fb0b58deeae1d084f7b16200a40e6a4c1bd4fa65315d674928616e706",
+      "lines": 35,
+      "chars": 13658,
+      "read_ranges_inclusive": [
+        [
+          1,
+          35
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/feeding-babies-dutch-translation/",
+      "retrieved_at_utc": "2026-11-26T02:00:06.559392+00:00",
+      "text_locator": "008-23081.txt",
+      "html_locator": "008-23081.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 9,
+      "id": 23270,
+      "url": "https://www.westonaprice.org/feeding-babies-spanish-translation/",
+      "canonical": "https://www.westonaprice.org/feeding-babies-spanish-translation/",
+      "title": "Feeding Babies – Spanish Translation",
+      "author": "Piperis",
+      "displayed_date": "April 7, 2017",
+      "meta": {
+        "article:published_time": "2017-04-07T11:32:02+00:00",
+        "article:modified_time": "2023-12-08T21:11:28+00:00",
+        "author": "Piperis"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 23270,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 10353,
+      "html_sha256_physical": "6e621bc819bf8efd8db24a7ce5c5ded35ccf29c2f0917149d264661cec05bac9",
+      "text_sha256_physical": "90be69fd2cddc8dd9a7878a1f313df4ac0f5fd6250c9f071b8d45eb52f63c4a2",
+      "lines": 55,
+      "chars": 10174,
+      "read_ranges_inclusive": [
+        [
+          1,
+          55
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/feeding-babies-spanish-translation/",
+      "retrieved_at_utc": "2026-11-26T02:00:06.925899+00:00",
+      "text_locator": "009-23270.txt",
+      "html_locator": "009-23270.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 10,
+      "id": 35346,
+      "url": "https://www.westonaprice.org/fluoruro-mas-peligroso-de-lo-que-pensamos/",
+      "canonical": "https://www.westonaprice.org/fluoruro-mas-peligroso-de-lo-que-pensamos/",
+      "title": "Fluoruro: más peligroso de lo que pensamos",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "January 20, 2021",
+      "meta": {
+        "article:published_time": "2021-01-20T18:06:35+00:00",
+        "article:modified_time": "2023-12-08T17:53:20+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 35346,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 43823,
+      "html_sha256_physical": "38f35b7449d253ca9c21964b8438ec20bf8668ccf8179f457ddc5f51acd28bf4",
+      "text_sha256_physical": "915ed31a6b546fa195a0694a71050dfc9144fc947e57fd0dd5d37a022e72ee8c",
+      "lines": 173,
+      "chars": 43493,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          87
+        ],
+        [
+          88,
+          132
+        ],
+        [
+          133,
+          173
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/fluoruro-mas-peligroso-de-lo-que-pensamos/",
+      "retrieved_at_utc": "2026-11-26T02:00:07.246508+00:00",
+      "text_locator": "010-35346.txt",
+      "html_locator": "010-35346.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 11,
+      "id": 8629,
+      "url": "https://www.westonaprice.org/food-as-medicine-symposium/",
+      "canonical": "https://www.westonaprice.org/food-as-medicine-symposium/",
+      "title": "Food as Medicine Symposium",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "February 20, 2014",
+      "meta": {
+        "article:published_time": "2014-02-20T18:16:10+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 8629,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 3234,
+      "html_sha256_physical": "82717dceb6f30a03b0724a1e98bb7f520befc1f6661006c50be0275483627474",
+      "text_sha256_physical": "0a4f350d7aac9008a0d784eb53fa4bd72c9b32c0d20605febf745f1d4f983fe2",
+      "lines": 28,
+      "chars": 3210,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/food-as-medicine-symposium/",
+      "retrieved_at_utc": "2026-11-26T02:00:07.577198+00:00",
+      "text_locator": "011-8629.txt",
+      "html_locator": "011-8629.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 12,
+      "id": 404,
+      "url": "https://www.westonaprice.org/fundraiser-at-the-wise-traditions-conference/",
+      "canonical": "https://www.westonaprice.org/fundraiser-at-the-wise-traditions-conference/",
+      "title": "FUNDRAISER at the Wise Traditions Conference",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "March 16, 2013",
+      "meta": {
+        "article:published_time": "2013-03-16T00:04:50+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 404,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 3077,
+      "html_sha256_physical": "be420118284cdf885f67b00cf492f7c782932aa96a3a579df3c9f532df79869d",
+      "text_sha256_physical": "fdf4355b8fd579eb549f8e9288c10e3b3cd065e0520acc07bd3b922eaf6ea002",
+      "lines": 51,
+      "chars": 3007,
+      "read_ranges_inclusive": [
+        [
+          1,
+          51
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/fundraiser-at-the-wise-traditions-conference/",
+      "retrieved_at_utc": "2026-11-26T02:00:07.820023+00:00",
+      "text_locator": "012-404.txt",
+      "html_locator": "012-404.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 13,
+      "id": 3974,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2001-conference-schedule/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2001-conference-schedule/",
+      "title": "2001 Conference, Schedule",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T12:42:11+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 3974,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 3646,
+      "html_sha256_physical": "497753e2e10c2c413ff10c79e69e9df16136d7769da4378cc0e2287b5259675e",
+      "text_sha256_physical": "b94aab4d90a149d194ebe018b345b151f8f110c29e3e3f7c524fcc44499e66f7",
+      "lines": 40,
+      "chars": 3529,
+      "read_ranges_inclusive": [
+        [
+          1,
+          40
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2001-conference-schedule/",
+      "retrieved_at_utc": "2026-11-26T02:00:08.191322+00:00",
+      "text_locator": "013-3974.txt",
+      "html_locator": "013-3974.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 14,
+      "id": 3985,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2004-conference-schedule/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2004-conference-schedule/",
+      "title": "2004 Conference, Schedule",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T03:05:08+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 3985,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 7365,
+      "html_sha256_physical": "f54802c5de066e7511d2b09ffc5e26b589057221156dfa7d4943bbba8be4bdb8",
+      "text_sha256_physical": "a6fbc4d95a0a10e06266302ff35518c6d8b2d88d44602316e0c76aa2eb20fa51",
+      "lines": 75,
+      "chars": 7097,
+      "read_ranges_inclusive": [
+        [
+          1,
+          75
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2004-conference-schedule/",
+      "retrieved_at_utc": "2026-11-26T02:00:08.520343+00:00",
+      "text_locator": "014-3985.txt",
+      "html_locator": "014-3985.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 15,
+      "id": 3843,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2004-conference/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2004-conference/",
+      "title": "2004 Conference",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T03:05:03+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 3843,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 4153,
+      "html_sha256_physical": "295f7d8be0347b001b4c97c3dcc2d9138c69b52efba2dd4f96b6f7aeb50b3839",
+      "text_sha256_physical": "0a4673edd0e8bc92608d86a1cfe570fe2e509491e27c1cdc3d9c32292a1f6bb7",
+      "lines": 49,
+      "chars": 4053,
+      "read_ranges_inclusive": [
+        [
+          1,
+          49
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2004-conference/",
+      "retrieved_at_utc": "2026-11-26T02:00:08.765375+00:00",
+      "text_locator": "015-3843.txt",
+      "html_locator": "015-3843.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 16,
+      "id": 3988,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2005-conference-schedule/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2005-conference-schedule/",
+      "title": "2005 Conference, Schedule",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T02:58:41+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 3988,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 10416,
+      "html_sha256_physical": "ae4efda14bb6d2bb9f63a3a61810eec97a192f43292a35b5f4e317be2c6dd9b2",
+      "text_sha256_physical": "3447f134854c12422d83d846503f7dcd55bba235e50614451dda52d74e64bb9e",
+      "lines": 119,
+      "chars": 10163,
+      "read_ranges_inclusive": [
+        [
+          1,
+          119
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2005-conference-schedule/",
+      "retrieved_at_utc": "2026-11-26T02:00:09.132757+00:00",
+      "text_locator": "016-3988.txt",
+      "html_locator": "016-3988.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 17,
+      "id": 4285,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2008-conference-presentation-descriptions/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2008-conference-presentation-descriptions/",
+      "title": "2008 Conference, Presentation Descriptions",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T02:36:26+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 4285,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 38148,
+      "html_sha256_physical": "7b8f25b86f36b4fb383eeac1c466b70bd512b3144a9d01a3239294298b672014",
+      "text_sha256_physical": "d7899263ff13d60be750e83de7ffd47d1b291e3262c34fd9b09a9d636bc37254",
+      "lines": 212,
+      "chars": 37707,
+      "read_ranges_inclusive": [
+        [
+          1,
+          69
+        ],
+        [
+          70,
+          140
+        ],
+        [
+          141,
+          212
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2008-conference-presentation-descriptions/",
+      "retrieved_at_utc": "2026-11-26T02:00:09.507945+00:00",
+      "text_locator": "017-4285.txt",
+      "html_locator": "017-4285.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 18,
+      "id": 4321,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-menus/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-menus/",
+      "title": "2009 Conference, Menus",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2017-06-30T09:07:18+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 4321,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 9704,
+      "html_sha256_physical": "760a852ab57533d8dcda3575ae433e771a29b6d3970c9d28be99931cb998560e",
+      "text_sha256_physical": "357a257d10fd4ffa769ed3f3f58a5c722a1a9f148dcd764bc54c7d179d7e8645",
+      "lines": 176,
+      "chars": 9326,
+      "read_ranges_inclusive": [
+        [
+          1,
+          176
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-menus/",
+      "retrieved_at_utc": "2026-11-26T02:00:09.710670+00:00",
+      "text_locator": "018-4321.txt",
+      "html_locator": "018-4321.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 19,
+      "id": 4301,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-schedule/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-schedule/",
+      "title": "2009 Conference, Schedule",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T02:27:02+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 4301,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 8386,
+      "html_sha256_physical": "c84a40f8fe3802344e7693d2bedc507c306d7ee12f6039f69e8a40f917143cd5",
+      "text_sha256_physical": "5f5032668d1c8b4bc21388892be93e922331e307d8a4a43a5811ca4835b7ccba",
+      "lines": 190,
+      "chars": 7812,
+      "read_ranges_inclusive": [
+        [
+          1,
+          190
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-schedule/",
+      "retrieved_at_utc": "2026-11-26T02:00:10.197576+00:00",
+      "text_locator": "019-4301.txt",
+      "html_locator": "019-4301.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 20,
+      "id": 2522,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2010-conference-ingredients-and-donors/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2010-conference-ingredients-and-donors/",
+      "title": "2010 Conference, Ingredients and Donors",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T01:33:39+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 2522,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 25855,
+      "html_sha256_physical": "d3a18e407f77b78b817aedfb78a6c9c79e4c6c3d18ea0a6f044e0b5f438dba45",
+      "text_sha256_physical": "236def175497f4124edb6a6e95d859d771a8e7f1a8ed8bd886a605660cbfa25b",
+      "lines": 333,
+      "chars": 25148,
+      "read_ranges_inclusive": [
+        [
+          1,
+          169
+        ],
+        [
+          170,
+          333
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2010-conference-ingredients-and-donors/",
+      "retrieved_at_utc": "2026-11-26T02:00:10.529745+00:00",
+      "text_locator": "020-2522.txt",
+      "html_locator": "020-2522.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 21,
+      "id": 2562,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2010-conference-menus/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2010-conference-menus/",
+      "title": "2010 Conference, Menus",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2017-06-30T11:06:43+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 2562,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 14967,
+      "html_sha256_physical": "6c3c345c39324e3e69c978b2a903753526ab0ae5668ac1b6ba6645f6a663e76d",
+      "text_sha256_physical": "49c95b5d62e4f91411fb2dc6188c7d0009acc73595ea8d152ac68f81cdecda78",
+      "lines": 258,
+      "chars": 14417,
+      "read_ranges_inclusive": [
+        [
+          1,
+          258
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2010-conference-menus/",
+      "retrieved_at_utc": "2026-11-26T02:00:10.902869+00:00",
+      "text_locator": "021-2562.txt",
+      "html_locator": "021-2562.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 22,
+      "id": 1941,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2011-conference-menus/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2011-conference-menus/",
+      "title": "2011 Conference, Menus",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T01:28:36+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1941,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 4234,
+      "html_sha256_physical": "1a4e85a41f850321714167dad705f5c0a36af80686a7b153bc73a0a9a961ef8b",
+      "text_sha256_physical": "775452ef6f5b18b73411a603d948275a7e7bd3f09d080358b2ccbd228e41c09f",
+      "lines": 109,
+      "chars": 4010,
+      "read_ranges_inclusive": [
+        [
+          1,
+          109
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2011-conference-menus/",
+      "retrieved_at_utc": "2026-11-26T02:00:11.465008+00:00",
+      "text_locator": "022-1941.txt",
+      "html_locator": "022-1941.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 23,
+      "id": 2045,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2011-conference-presentations/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2011-conference-presentations/",
+      "title": "2011 Conference, Presentations",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T01:25:54+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 2045,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 41478,
+      "html_sha256_physical": "2bbd356fa261e49cc4b25ed701129f03d9aad5d5cfe53c25286bb3cf31cc92c4",
+      "text_sha256_physical": "298173d5294b08512e8d4f5568f1ab5b454e70616dcb125ba821167792386a1e",
+      "lines": 129,
+      "chars": 41029,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          86
+        ],
+        [
+          87,
+          129
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2011-conference-presentations/",
+      "retrieved_at_utc": "2026-11-26T02:00:11.682536+00:00",
+      "text_locator": "023-2045.txt",
+      "html_locator": "023-2045.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 24,
+      "id": 1977,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2011-conference-schedule/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2011-conference-schedule/",
+      "title": "2011 Conference, Schedule",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T01:26:23+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1977,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 6978,
+      "html_sha256_physical": "800c7e11ec55cba78b54f7e033b7284adeeb5d309eab50f730160d90f97916fe",
+      "text_sha256_physical": "9714b6d9b617184e8edf891b3c1f46ca0e9de023b0fdd22211e392179cf856a0",
+      "lines": 212,
+      "chars": 6307,
+      "read_ranges_inclusive": [
+        [
+          1,
+          212
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-00-24.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2011-conference-schedule/",
+      "retrieved_at_utc": "2026-11-26T02:00:12.188967+00:00",
+      "text_locator": "024-1977.txt",
+      "html_locator": "024-1977.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 25,
+      "id": 1202,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2012-conference-presentations/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2012-conference-presentations/",
+      "title": "2012 Conference, Presentations",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2017-06-30T10:48:41+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1202,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 40031,
+      "html_sha256_physical": "423628724af5203cb292c8b67ae0d1d85cf4f148d4b9c0c171530d488c6fd317",
+      "text_sha256_physical": "515938ee92d17f908a38ea0dc53b0cc757e27b2b5a08d4dc9a38ef8487bf2de7",
+      "lines": 148,
+      "chars": 39603,
+      "read_ranges_inclusive": [
+        [
+          1,
+          40
+        ],
+        [
+          41,
+          78
+        ],
+        [
+          79,
+          115
+        ],
+        [
+          116,
+          148
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2012-conference-presentations/",
+      "retrieved_at_utc": "2026-11-26T02:00:12.138207+00:00",
+      "text_locator": "025-1202.txt",
+      "html_locator": "025-1202.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 26,
+      "id": 1052,
+      "url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-buffalo-regional-conference/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-buffalo-regional-conference/",
+      "title": "2012 Buffalo Regional Conference",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T12:53:56+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1052,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 3018,
+      "html_sha256_physical": "eb63e4a20e5e4624f028a82464878d1800b87a71496a0e7895d868d608656b98",
+      "text_sha256_physical": "83669e6f251d18c5a49917dee6e289b08d5d0ef7b8425d61576f81270a899619",
+      "lines": 56,
+      "chars": 2888,
+      "read_ranges_inclusive": [
+        [
+          1,
+          56
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-buffalo-regional-conference/",
+      "retrieved_at_utc": "2026-11-26T02:00:12.648573+00:00",
+      "text_locator": "026-1052.txt",
+      "html_locator": "026-1052.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 27,
+      "id": 1022,
+      "url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-buffalo-regional-presentations-2/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-buffalo-regional-presentations-2/",
+      "title": "2012 Buffalo Regional Presentations",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T12:56:01+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1022,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 3042,
+      "html_sha256_physical": "01a706de4c3244053f451aa1431e3727646a87bba80fec3d9308fb94da8bec05",
+      "text_sha256_physical": "630eb8b1015032926521af1ca93ae99d5049024d2e4c869e9da2a560d05c7b9c",
+      "lines": 23,
+      "chars": 2973,
+      "read_ranges_inclusive": [
+        [
+          1,
+          23
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-buffalo-regional-presentations-2/",
+      "retrieved_at_utc": "2026-11-26T02:00:13.021099+00:00",
+      "text_locator": "027-1022.txt",
+      "html_locator": "027-1022.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 28,
+      "id": 997,
+      "url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-buffalo-regional-schedule/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-buffalo-regional-schedule/",
+      "title": "2012 Buffalo Regional Schedule",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T12:55:54+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 997,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 2843,
+      "html_sha256_physical": "dc4506404cabd5b4cd302dac8d3594b96b1873d3e78d7854b6dcc925a375c92d",
+      "text_sha256_physical": "4e8264fe436e352fd76d6740ddace035abcefdccd1572593f40219fad92cd0db",
+      "lines": 109,
+      "chars": 2551,
+      "read_ranges_inclusive": [
+        [
+          1,
+          109
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-buffalo-regional-schedule/",
+      "retrieved_at_utc": "2026-11-26T02:00:13.148745+00:00",
+      "text_locator": "028-997.txt",
+      "html_locator": "028-997.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 29,
+      "id": 1124,
+      "url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-st-louis-regional-fundraiser/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-st-louis-regional-fundraiser/",
+      "title": "2012 St. Louis Regional Fundraiser",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T13:08:15+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1124,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 1559,
+      "html_sha256_physical": "2feb21acc3d78b9bbbfebce607e6aa24505000d7d67693ced9f018c48f1a38ef",
+      "text_sha256_physical": "a66815901ee2e3bc530fbc1a45d68ea1981c33f05c7de900d7ca9ebcf44fcf4e",
+      "lines": 16,
+      "chars": 1520,
+      "read_ranges_inclusive": [
+        [
+          1,
+          16
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-st-louis-regional-fundraiser/",
+      "retrieved_at_utc": "2026-11-26T02:00:13.507071+00:00",
+      "text_locator": "029-1124.txt",
+      "html_locator": "029-1124.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 30,
+      "id": 1503,
+      "url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-st-louis-regional-presentations/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-st-louis-regional-presentations/",
+      "title": "2012 St. Louis Regional Presentations",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2017-07-03T09:10:32+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1503,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 6821,
+      "html_sha256_physical": "8a1e417df515197dff89d380ff0eb3ddb970c4949ba2fff77fe9fa34f2ce4797",
+      "text_sha256_physical": "3d2c610ba74ee59aaa4849f16345691940f60c1f32e7fb465c1f9bf3df4b58c5",
+      "lines": 38,
+      "chars": 6717,
+      "read_ranges_inclusive": [
+        [
+          1,
+          38
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-st-louis-regional-presentations/",
+      "retrieved_at_utc": "2026-11-26T02:00:13.916286+00:00",
+      "text_locator": "030-1503.txt",
+      "html_locator": "030-1503.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 31,
+      "id": 1207,
+      "url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-st-louis-regional-schedule/",
+      "canonical": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-st-louis-regional-schedule/",
+      "title": "2012 St. Louis Regional Schedule",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2016-11-04T13:07:04+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1207,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 2150,
+      "html_sha256_physical": "d6d059b4bb5883d884413cb0c0d4489126a7ca1e99992c09235e8a14d8e1871f",
+      "text_sha256_physical": "fa01741b4c9a5cb07fef74ec2602b803798274d2c8b11aefa28c1bd18a67753b",
+      "lines": 95,
+      "chars": 1920,
+      "read_ranges_inclusive": [
+        [
+          1,
+          95
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences/regional-conferences/2012-st-louis-regional-schedule/",
+      "retrieved_at_utc": "2026-11-26T02:00:14.092970+00:00",
+      "text_locator": "031-1207.txt",
+      "html_locator": "031-1207.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 32,
+      "id": 8764,
+      "url": "https://www.westonaprice.org/glutathione-101-part-1-cysteine-misbehaves-but-glutathione-saves/",
+      "canonical": "https://www.westonaprice.org/glutathione-101-part-1-cysteine-misbehaves-but-glutathione-saves/",
+      "title": "Glutathione 101, Part 1: Cysteine Misbehaves, But Glutathione Saves",
+      "author": "Christopher Masterjohn",
+      "displayed_date": "April 7, 2012",
+      "meta": {
+        "article:published_time": "2012-04-07T16:04:50+00:00",
+        "author": "Christopher Masterjohn"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 8764,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 14481,
+      "html_sha256_physical": "42a06682b94d1c2828eaad1942945bbcbacd9d51924d7ed7652862b6c279e318",
+      "text_sha256_physical": "024823ebfe8144e85e75f18e3a14889a3242605e049ad21df239d34e7dc0e1d7",
+      "lines": 47,
+      "chars": 14311,
+      "read_ranges_inclusive": [
+        [
+          1,
+          47
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/glutathione-101-part-1-cysteine-misbehaves-but-glutathione-saves/",
+      "retrieved_at_utc": "2026-11-26T02:00:14.640310+00:00",
+      "text_locator": "032-8764.txt",
+      "html_locator": "032-8764.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 33,
+      "id": 31229,
+      "url": "https://www.westonaprice.org/guia-para-una-dieta-saludable/",
+      "canonical": "https://www.westonaprice.org/guia-para-una-dieta-saludable/",
+      "title": "Guia Para una Dieta Saludable",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "August 26, 2019",
+      "meta": {
+        "article:published_time": "2019-08-26T19:24:56+00:00",
+        "article:modified_time": "2023-12-08T17:32:18+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 31229,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 2504,
+      "html_sha256_physical": "e6e2230e9698bd3e03c9be4e59f0ccb4e4dd6869d37e420e0d70708c28ff2b98",
+      "text_sha256_physical": "6d66b3b1bc5d64769d215eb0a89e035cbedf80bb03b6091bc6590e933c8c93d3",
+      "lines": 24,
+      "chars": 2486,
+      "read_ranges_inclusive": [
+        [
+          1,
+          24
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/guia-para-una-dieta-saludable/",
+      "retrieved_at_utc": "2026-11-26T02:00:14.367567+00:00",
+      "text_locator": "033-31229.txt",
+      "html_locator": "033-31229.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 34,
+      "id": 3765,
+      "url": "https://www.westonaprice.org/healthy-eating-shouldnt-cost-an-arm-and-a-leg/",
+      "canonical": "https://www.westonaprice.org/healthy-eating-shouldnt-cost-an-arm-and-a-leg/",
+      "title": "Healthy Eating Shouldn’t Cost an Arm and a Leg",
+      "author": "Anne M. A. Sergeant, PhD",
+      "displayed_date": "July 23, 2013",
+      "meta": {
+        "article:published_time": "2013-07-23T17:43:35+00:00",
+        "author": "Anne M. A. Sergeant, PhD"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 3765,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 36885,
+      "html_sha256_physical": "c54c48d76f58a754f13b6d3f8bf858d7ad788830f74e7ca99faea4362f7f94db",
+      "text_sha256_physical": "2f5f39e83a24c5c9a7a8d290bd7a01fb7a5888c0a52e713db346eaae000caa14",
+      "lines": 685,
+      "chars": 35981,
+      "read_ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          70
+        ],
+        [
+          71,
+          260
+        ],
+        [
+          261,
+          460
+        ],
+        [
+          461,
+          685
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/healthy-eating-shouldnt-cost-an-arm-and-a-leg/",
+      "retrieved_at_utc": "2026-11-26T02:00:15.582388+00:00",
+      "text_locator": "034-3765.txt",
+      "html_locator": "034-3765.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 35,
+      "id": 32643,
+      "url": "https://www.westonaprice.org/help-prevent-two-dangerous-vaccine-bills-in-wisconsin/",
+      "canonical": "https://www.westonaprice.org/help-prevent-two-dangerous-vaccine-bills-in-wisconsin/",
+      "title": "Help Prevent Two Dangerous Vaccine Bills in Wisconsin!",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "February 27, 2020",
+      "meta": {
+        "article:published_time": "2020-02-27T17:29:20+00:00",
+        "article:modified_time": "2020-02-27T17:29:23+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 32643,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 7869,
+      "html_sha256_physical": "a2482f9172778f777c32693e3c9f198f197dd78c9d62faeb46b0189c0425c9ba",
+      "text_sha256_physical": "beba6b9567698910a8acc0f1e391791fe30e5e7437e635845180b23ddbc0e8b5",
+      "lines": 145,
+      "chars": 7674,
+      "read_ranges_inclusive": [
+        [
+          1,
+          145
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/help-prevent-two-dangerous-vaccine-bills-in-wisconsin/",
+      "retrieved_at_utc": "2026-11-26T02:00:14.823979+00:00",
+      "text_locator": "035-32643.txt",
+      "html_locator": "035-32643.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 36,
+      "id": 30407,
+      "url": "https://www.westonaprice.org/help-stop-a-bad-vaccine-bill-in-colorado/",
+      "canonical": "https://www.westonaprice.org/help-stop-a-bad-vaccine-bill-in-colorado/",
+      "title": "Help stop a bad vaccine bill in Colorado!",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "April 29, 2019",
+      "meta": {
+        "article:published_time": "2019-04-29T21:06:30+00:00",
+        "article:modified_time": "2019-04-29T21:06:34+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 30407,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 4854,
+      "html_sha256_physical": "269fa8a4102529de9c9fd5d5e74e2c1b9b966f88269d4a319b3d0291757207e6",
+      "text_sha256_physical": "69c8d591cfb75dba279569d5f56f715afaeca2e2fe6115d46a3451703b61de42",
+      "lines": 83,
+      "chars": 4725,
+      "read_ranges_inclusive": [
+        [
+          1,
+          83
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/help-stop-a-bad-vaccine-bill-in-colorado/",
+      "retrieved_at_utc": "2026-11-26T02:00:15.582900+00:00",
+      "text_locator": "036-30407.txt",
+      "html_locator": "036-30407.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 37,
+      "id": 33824,
+      "url": "https://www.westonaprice.org/help-stop-a-bad-vaccine-bill-in-the-new-jersey-legislature-2/",
+      "canonical": "https://www.westonaprice.org/help-stop-a-bad-vaccine-bill-in-the-new-jersey-legislature-2/",
+      "title": "Help Stop a Bad Vaccine bill in the New Jersey Legislature!",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "August 31, 2020",
+      "meta": {
+        "article:published_time": "2020-08-31T16:24:14+00:00",
+        "article:modified_time": "2020-08-31T16:24:19+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 33824,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 5316,
+      "html_sha256_physical": "4d602a7913af136d378e012785c53c1299942eb92a3a697c0b14159568855454",
+      "text_sha256_physical": "dda93f2e7afbf714aaa139a2e612233532374731414916681e2b88928bb29265",
+      "lines": 30,
+      "chars": 5186,
+      "read_ranges_inclusive": [
+        [
+          1,
+          30
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/help-stop-a-bad-vaccine-bill-in-the-new-jersey-legislature-2/",
+      "retrieved_at_utc": "2026-11-26T02:00:15.983075+00:00",
+      "text_locator": "037-33824.txt",
+      "html_locator": "037-33824.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 38,
+      "id": 32418,
+      "url": "https://www.westonaprice.org/help-support-a-terrific-vaccine-bill-in-colorado/",
+      "canonical": "https://www.westonaprice.org/help-support-a-terrific-vaccine-bill-in-colorado/",
+      "title": "Help Support a Terrific Vaccine Bill in Colorado!",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "January 29, 2020",
+      "meta": {
+        "article:published_time": "2020-01-29T15:03:37+00:00",
+        "article:modified_time": "2020-01-29T15:03:46+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 32418,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 4045,
+      "html_sha256_physical": "6b6a316a49a04e009df6e6a6c7fbf9ae2214567267199df7b3fff51f094b9f45",
+      "text_sha256_physical": "bad582f1f2979bb9b00df43cc52f8972012bc4339e601b696739143121722fb8",
+      "lines": 74,
+      "chars": 3930,
+      "read_ranges_inclusive": [
+        [
+          1,
+          74
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/help-support-a-terrific-vaccine-bill-in-colorado/",
+      "retrieved_at_utc": "2026-11-26T02:00:16.771277+00:00",
+      "text_locator": "038-32418.txt",
+      "html_locator": "038-32418.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 39,
+      "id": 32647,
+      "url": "https://www.westonaprice.org/help-support-a-terrific-vaccine-bill-in-idaho/",
+      "canonical": "https://www.westonaprice.org/help-support-a-terrific-vaccine-bill-in-idaho/",
+      "title": "Help Support a Terrific Vaccine Bill in Idaho!",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "February 27, 2020",
+      "meta": {
+        "article:published_time": "2020-02-27T17:41:50+00:00",
+        "article:modified_time": "2020-02-27T17:41:54+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 32647,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 3505,
+      "html_sha256_physical": "59fed32c32f2a3a36d6a26497ce03b0037246fa38dc45bae042a80413e2bf6f7",
+      "text_sha256_physical": "f11ba896f3d38372ee98bd398b684e8ad38085f98adfea129a4eb8b18ca18ecc",
+      "lines": 70,
+      "chars": 3403,
+      "read_ranges_inclusive": [
+        [
+          1,
+          70
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/help-support-a-terrific-vaccine-bill-in-idaho/",
+      "retrieved_at_utc": "2026-11-26T02:00:16.802106+00:00",
+      "text_locator": "039-32647.txt",
+      "html_locator": "039-32647.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 40,
+      "id": 16599,
+      "url": "https://www.westonaprice.org/helps-consider-magnesium-metabolic-rate/",
+      "canonical": "https://www.westonaprice.org/helps-consider-magnesium-metabolic-rate/",
+      "title": "When SAMe Helps,  Consider Magnesium and Your Metabolic Rate",
+      "author": "Christopher Masterjohn",
+      "displayed_date": "July 15, 2015",
+      "meta": {
+        "article:published_time": "2015-07-15T18:16:35+00:00",
+        "author": "Christopher Masterjohn"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 16599,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 5979,
+      "html_sha256_physical": "2553a3ba6d0d61992c5c7bba6e4cb4673dde639b06648f4b55b6f681c9f315d0",
+      "text_sha256_physical": "6bad480b4644159d54648d96d0812fb80133408b8995b7890dfe8b762ec30223",
+      "lines": 14,
+      "chars": 5976,
+      "read_ranges_inclusive": [
+        [
+          1,
+          14
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/helps-consider-magnesium-metabolic-rate/",
+      "retrieved_at_utc": "2026-11-26T02:00:17.474833+00:00",
+      "text_locator": "040-16599.txt",
+      "html_locator": "040-16599.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 41,
+      "id": 8631,
+      "url": "https://www.westonaprice.org/houston-regional-conference/",
+      "canonical": "https://www.westonaprice.org/houston-regional-conference/",
+      "title": "Houston Regional Conference",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "February 21, 2014",
+      "meta": {
+        "article:published_time": "2014-02-21T18:02:59+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 8631,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 1322,
+      "html_sha256_physical": "ff50ca1b57ea76367a375a7a0f013f1fc38ce1cf18e0b9106e7f6374da69721c",
+      "text_sha256_physical": "635f309fc25192f14c1249770cb5086b2c5b75764f07751e28f86608cd4da6af",
+      "lines": 25,
+      "chars": 1250,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/houston-regional-conference/",
+      "retrieved_at_utc": "2026-11-26T02:00:17.995354+00:00",
+      "text_locator": "041-8631.txt",
+      "html_locator": "041-8631.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 42,
+      "id": 26057,
+      "url": "https://www.westonaprice.org/international-conference-nutrition-health/",
+      "canonical": "https://www.westonaprice.org/international-conference-nutrition-health/",
+      "title": "International Conference on Nutrition and Health",
+      "author": "Kimberly Hartke",
+      "displayed_date": "November 6, 2017",
+      "meta": {
+        "article:published_time": "2017-11-06T17:16:35+00:00",
+        "article:modified_time": "2023-05-31T14:36:58+00:00",
+        "author": "Kimberly Hartke"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 26057,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 5343,
+      "html_sha256_physical": "f4f142299fe30f563e5dd3f4a3f6c49385a9237706c5f2425d7e516ff3732011",
+      "text_sha256_physical": "1a9dadca3520bb5d992ca6be32158b7c44e4bd028b25444a86844c2082ce5bbc",
+      "lines": 36,
+      "chars": 5301,
+      "read_ranges_inclusive": [
+        [
+          1,
+          36
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/international-conference-nutrition-health/",
+      "retrieved_at_utc": "2026-11-26T02:00:17.937482+00:00",
+      "text_locator": "042-26057.txt",
+      "html_locator": "042-26057.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 43,
+      "id": 1695,
+      "url": "https://www.westonaprice.org/introduction-to-traditional-eating-video-by-sarah-pope/",
+      "canonical": "https://www.westonaprice.org/introduction-to-traditional-eating-video-by-sarah-pope/",
+      "title": "Introduction to Traditional Eating Video by Sarah Pope",
+      "author": "Sarah Pope",
+      "displayed_date": "October 19, 2011",
+      "meta": {
+        "article:published_time": "2011-10-19T18:24:44+00:00",
+        "article:modified_time": "2021-02-18T17:56:56+00:00",
+        "author": "Sarah Pope"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1695,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 6677,
+      "html_sha256_physical": "c913607045b9f5645801c097edd1b008ec86d9efdef52e6a15b1fce18f286e9a",
+      "text_sha256_physical": "09c421e7292bfcc191b87b86c86cf209b17e73eb2588fbe27da5c8d349fb6353",
+      "lines": 33,
+      "chars": 6640,
+      "read_ranges_inclusive": [
+        [
+          1,
+          33
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/introduction-to-traditional-eating-video-by-sarah-pope/",
+      "retrieved_at_utc": "2026-11-26T02:00:18.551098+00:00",
+      "text_locator": "043-1695.txt",
+      "html_locator": "043-1695.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 44,
+      "id": 45610,
+      "url": "https://www.westonaprice.org/involucrar-a-los-ninos-en-las-comidas/",
+      "canonical": "https://www.westonaprice.org/involucrar-a-los-ninos-en-las-comidas/",
+      "title": "Involucrar a los niños en la cocina",
+      "author": "Administrator",
+      "displayed_date": "May 16, 2024",
+      "meta": {
+        "article:published_time": "2024-05-16T17:16:15+00:00",
+        "article:modified_time": "2024-11-27T16:49:44+00:00",
+        "author": "Administrator"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 45610,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 12581,
+      "html_sha256_physical": "30b41aa0e9fe591369f12a398c8298c0ef4ecebfb1826d15ab47dcfa554ef0f9",
+      "text_sha256_physical": "5f602984edc3b883c072dcb97aab618d2782c2f47869991831e8e843b526fe09",
+      "lines": 56,
+      "chars": 12330,
+      "read_ranges_inclusive": [
+        [
+          1,
+          56
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/involucrar-a-los-ninos-en-las-comidas/",
+      "retrieved_at_utc": "2026-11-26T02:00:18.923482+00:00",
+      "text_locator": "044-45610.txt",
+      "html_locator": "044-45610.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 45,
+      "id": 35701,
+      "url": "https://www.westonaprice.org/is-corona-werkelijk-besmettelijk/",
+      "canonical": "https://www.westonaprice.org/is-corona-werkelijk-besmettelijk/",
+      "title": "Is corona werkelijk besmettelijk ?",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "February 12, 2021",
+      "meta": {
+        "article:published_time": "2021-02-12T15:34:18+00:00",
+        "article:modified_time": "2024-01-12T16:45:10+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 35701,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 47849,
+      "html_sha256_physical": "e70774de7473010a2529e51f24a2448518da4b1c45b55dc7aa4b0150176e5b59",
+      "text_sha256_physical": "c98b9ca1606a30a39f0c3b49bdf3d1920e29c041d71f52fdb98f3115a057c8be",
+      "lines": 135,
+      "chars": 47543,
+      "read_ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          70
+        ],
+        [
+          71,
+          105
+        ],
+        [
+          106,
+          135
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/is-corona-werkelijk-besmettelijk/",
+      "retrieved_at_utc": "2026-11-26T02:00:18.965953+00:00",
+      "text_locator": "045-35701.txt",
+      "html_locator": "045-35701.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 46,
+      "id": 33749,
+      "url": "https://www.westonaprice.org/japon-desde-dentro-algunos-datos-sorprendentes-sobre-la-comida-japonesa/",
+      "canonical": "https://www.westonaprice.org/japon-desde-dentro-algunos-datos-sorprendentes-sobre-la-comida-japonesa/",
+      "title": "Japón desde dentro:  algunos datos sorprendentes sobre la comida japonesa",
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "August 20, 2020",
+      "meta": {
+        "article:published_time": "2020-08-20T14:38:31+00:00",
+        "article:modified_time": "2023-12-08T16:18:52+00:00",
+        "author": "Sally Fallon and Mary G. Enig, PhD"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 33749,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 49984,
+      "html_sha256_physical": "c03ccd854d86ec620887f9d2467b6fe68112f23b12485c8a83ad623e5234b0af",
+      "text_sha256_physical": "fdd21b96cbf95fc6b47a23eda5ae539fdc6b496870d121e4974aa335e8d1d6b8",
+      "lines": 170,
+      "chars": 49700,
+      "read_ranges_inclusive": [
+        [
+          1,
+          38
+        ],
+        [
+          39,
+          78
+        ],
+        [
+          79,
+          119
+        ],
+        [
+          120,
+          170
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/japon-desde-dentro-algunos-datos-sorprendentes-sobre-la-comida-japonesa/",
+      "retrieved_at_utc": "2026-11-26T02:00:19.697140+00:00",
+      "text_locator": "046-33749.txt",
+      "html_locator": "046-33749.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 47,
+      "id": 3075,
+      "url": "https://www.westonaprice.org/journal-fall-2009-malocclusions-and-facial-development/",
+      "canonical": "https://www.westonaprice.org/journal-fall-2009-malocclusions-and-facial-development/",
+      "title": "Journal, Fall 2009, Malocclusions and Facial Development",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "November 2, 2009",
+      "meta": {
+        "article:published_time": "2009-11-02T20:38:47+00:00",
+        "article:modified_time": "2025-05-09T14:09:05+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 3075,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 4503,
+      "html_sha256_physical": "f22268bb00b80b2f86f2fb90419090332db0459eee9d269dbc1de20456c8d682",
+      "text_sha256_physical": "2742a84b1cacea37aa5122e7aba7aa3ea9303914229ce826e366779195a768b4",
+      "lines": 40,
+      "chars": 4422,
+      "read_ranges_inclusive": [
+        [
+          1,
+          40
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/journal-fall-2009-malocclusions-and-facial-development/",
+      "retrieved_at_utc": "2026-11-26T02:00:19.832897+00:00",
+      "text_locator": "047-3075.txt",
+      "html_locator": "047-3075.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 48,
+      "id": 12938,
+      "url": "https://www.westonaprice.org/journal-fall-2014-what-causes-heart-attacks/",
+      "canonical": "https://www.westonaprice.org/journal-fall-2014-what-causes-heart-attacks/",
+      "title": "Journal, Fall 2014, What Causes Heart Attacks?",
+      "author": "Tim Boyd",
+      "displayed_date": "November 19, 2014",
+      "meta": {
+        "article:published_time": "2014-11-19T19:46:51+00:00",
+        "article:modified_time": "2025-05-09T15:06:23+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 12938,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 4504,
+      "html_sha256_physical": "1a08becaef61d85fd50a303bb94eb2b2efed8eefb4669454290557d2ecaf212c",
+      "text_sha256_physical": "de401d47cf3267a26b57e0e21bfbf3eec7ce9494ffc13d9a060ced5ad703c688",
+      "lines": 52,
+      "chars": 4395,
+      "read_ranges_inclusive": [
+        [
+          1,
+          52
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/journal-fall-2014-what-causes-heart-attacks/",
+      "retrieved_at_utc": "2026-11-26T02:00:19.983513+00:00",
+      "text_locator": "048-12938.txt",
+      "html_locator": "048-12938.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    },
+    {
+      "batch_index": 49,
+      "id": 29166,
+      "url": "https://www.westonaprice.org/journal-fall-2018-pharmaceutical-drugs/",
+      "canonical": "https://www.westonaprice.org/journal-fall-2018-pharmaceutical-drugs/",
+      "title": "Journal, Fall 2018, Pharmaceutical Drugs",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "October 25, 2018",
+      "meta": {
+        "article:published_time": "2018-10-25T18:08:27+00:00",
+        "article:modified_time": "2025-05-13T15:16:25+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 29166,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "index_vs_http_identity_divergence": false,
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_chars": 4704,
+      "html_sha256_physical": "86e22a84358266a14f866c16864d49e3c7a9911ab7f9a23e418891eea0ab6706",
+      "text_sha256_physical": "1be5f62a48c11cdb819325f98c763460709d175ea62195c7a6d3a4eff11225e8",
+      "lines": 56,
+      "chars": 4574,
+      "read_ranges_inclusive": [
+        [
+          1,
+          56
+        ]
+      ],
+      "reading_proof": "prova-leitura-faixa-25-49.jsonl",
+      "read_complete_extracted_txt": true,
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/journal-fall-2018-pharmaceutical-drugs/",
+      "retrieved_at_utc": "2026-11-26T02:00:20.799451+00:00",
+      "text_locator": "049-29166.txt",
+      "html_locator": "049-29166.html",
+      "reading_performed_by": "delegated agent",
+      "root_full_original_reread_claim": false
+    }
+  ]
+}

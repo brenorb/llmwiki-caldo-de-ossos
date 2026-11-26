@@ -1202,3 +1202,7 @@ Incorporados [lote3/24](wiki/fontes/wapf-podcast-lote3-24.md) e [caderno](wiki/t
 ## [2026-11-26] ingestão |13 textos de galerias:relatos e sobreposições
 
 Incorporado [registro textual das13 galerias](wiki/fontes/wapf-gallery13.md),523 linhas/189.149 caracteres/26 hashes/24 intervalos. Revisor leu nota pública e conferiu hashes/faixas. Sem imagens vistas, novos indivíduos/coortes ou receitas operacionais inferidas. O registro de sobreposição omite nomes de crianças no derivado público e preserva URLs/IDs e contagens, sem alterar congelados.
+
+## [2026-11-26] revisão |Contagem não fornecida de tipos de caldo
+
+Revisão por outro agente identificou “oito tipos” no candidato do [caderno podcast1](wiki/temas/receitas-wapf-podcast-lote1.md). Conferência direta15L6–11 confirma que a fonte só anuncia tipos de caldo, sem número. Removida a contagem no público, com errata no registro; congelados preservados.

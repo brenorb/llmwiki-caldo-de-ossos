@@ -76,3 +76,5 @@ A carta final do item49 termina abruptamente no corpo disponível; não foi reco
 [Cobertura geral](../cobertura.md) · [Proveniência](../proveniencia.md)
 
 O [lote3/24](wapf-podcast-lote3-24.md) completa74/124 corpos no fechamento atual; tem caderno e QA independente próprios, sem nova audição ouASR.
+
+Correção editorial: no item15, a fonte anuncia tipos de caldo sem indicar quantos. O caderno público remove a palavra “oito” introduzida no candidato privado;15L6–11 foi conferido diretamente e o candidato congelado permanece preservado.

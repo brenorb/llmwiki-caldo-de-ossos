@@ -331,3 +331,5 @@
 - [Wise Traditions:426GUIDs,435 versões e51 leituras integrais identificadas](wiki/fontes/wapf-audio-leituras426.md)
 - [Onze ASRs adicionais:achados, cartas e publicidade](wiki/fontes/wapf-audio-leitura11.md)
 - [Caldo InstantPot2h e demais menções culinárias:medidas e lacunas](wiki/temas/receitas-wapf-audio11.md)
+
+- [WAPF:17 mains estáticos sem artigo recuperado — leitura e lacunas de imagem/vídeo](wiki/fontes/wapf-health-main17.md)

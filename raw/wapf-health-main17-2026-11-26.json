@@ -1,0 +1,1124 @@
+{
+  "date": "2026-11-26",
+  "private_manifest_sha256": "6865402573c82375485f129cae70e30bb31848efaf1a0c86b237bc8c20685e17",
+  "source_list_sha256": "a78496a65587c18bf910b03c1060a223a0795c7e1926e829da32d3d2aa11ab5a",
+  "summary": {
+    "fixed_targets": 17,
+    "extraction_ok": 17,
+    "static_main_versions_fully_read": 17,
+    "editorial_articles_recovered": 0,
+    "lines": 334,
+    "chars": 19276,
+    "read_ranges_complete": 17,
+    "physical_original_html_hashes_verified": 17,
+    "physical_strict_v1_hashes_verified": 17,
+    "physical_new_main_hashes_verified": 17,
+    "physical_file_observations": 51,
+    "anchors_data_only": 128,
+    "main_images_extractor_markup_occurrences_not_viewed": 21,
+    "main_images_including_noscript_markup_occurrences_not_viewed": 40,
+    "comments_in_main_fully_read": 4,
+    "pdf_attribute_occurrences_in_main": 0,
+    "pdf_attribute_occurrences_outside_main_not_opened": 68,
+    "iframe_in_main_not_opened": 1,
+    "images_with_possible_text_not_viewed": [
+      {
+        "health_index": 385,
+        "source_hint": "DietaryGuideLinesHebrew-724x1024"
+      },
+      {
+        "health_index": 902,
+        "source_hint": "Sum18-teller.jpg/altModernDiseases"
+      }
+    ],
+    "network_browser_asr_git_wiki_actions": false
+  },
+  "reviewer_scope": {
+    "full_report_read": true,
+    "full_short_culinary_and_critical_notes_read": true,
+    "manifest_artifacts_rehashed": 16,
+    "physical_body_files_rehashed": 51,
+    "all17_ranges_and_identities_checked": true,
+    "all4comment_text_hashes_checked": true,
+    "second_semantic_full_main_reading": false
+  },
+  "rows": [
+    {
+      "batch_index": 0,
+      "acquisition_index": 22,
+      "health_index": 179,
+      "catalog_id": 18543,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/caustic-commentary/",
+      "final_url": "https://www.westonaprice.org/health-topics/caustic-commentary/",
+      "catalog_title": "Caustic Commentary",
+      "title_main": "Caustic Commentary",
+      "author": "Tim Boyd",
+      "displayed_date": "August 23, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/caustic-commentary/"
+      ],
+      "body_postid_page_ids": [
+        18543
+      ],
+      "shortlink_ids": [
+        18543
+      ],
+      "html_sha256_physical": "bba8b88c52618273e896d0281708c451085a1a8ed5a482801237f052e76b0fd7",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "dbb346ed9dfe0d758d6edfa81ace728a09f9152dc04b501ba8c75bc3d6c7cb89",
+      "lines": 19,
+      "chars": 1177,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página de entrada Caustic Commentary sem artigo/listagem textual atual; biografia Tim Boyd e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 1,
+      "acquisition_index": 156,
+      "health_index": 359,
+      "catalog_id": 18528,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/dentistry/",
+      "final_url": "https://www.westonaprice.org/health-topics/dentistry/",
+      "catalog_title": "Dentistry",
+      "title_main": "Dentistry",
+      "author": "Tim Boyd",
+      "displayed_date": "August 20, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/dentistry/"
+      ],
+      "body_postid_page_ids": [
+        18528
+      ],
+      "shortlink_ids": [
+        18528
+      ],
+      "html_sha256_physical": "e0915c6ae12fc5d86d3fa3d8f9b6ec072efd99c7ff3341ede26be3420ab9eaae",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "3e1ac965473c1364f9bbf204025fda1ea50e2d154d583cd2990ad8b46695e6d4",
+      "lines": 19,
+      "chars": 1168,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Dentistry sem texto odontológico/listagem atual; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 2,
+      "acquisition_index": 173,
+      "health_index": 379,
+      "catalog_id": 18399,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/dietary-guidelines-from-the-usda/",
+      "final_url": "https://www.westonaprice.org/health-topics/dietary-guidelines-from-the-usda/",
+      "catalog_title": "Dietary Guidelines from the USDA",
+      "title_main": "Dietary Guidelines from the USDA",
+      "author": "Tim Boyd",
+      "displayed_date": "August 18, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/dietary-guidelines-from-the-usda/"
+      ],
+      "body_postid_page_ids": [
+        18399
+      ],
+      "shortlink_ids": [
+        18399
+      ],
+      "html_sha256_physical": "4aed41d6f788f1394d1a00b498ce3ba80b24c1a5223bdf6135d5ddad062d8a58",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "1c6579c727e6318308f045f12c3919bf12d5c286f77d787e01b4f552b6c2ba78",
+      "lines": 19,
+      "chars": 1191,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Dietary Guidelines from the USDA sem diretrizes/texto USDA recuperado; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 3,
+      "acquisition_index": 179,
+      "health_index": 385,
+      "catalog_id": 20635,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/dietary-guidelines-hebrew-translation/",
+      "final_url": "https://www.westonaprice.org/health-topics/dietary-guidelines-hebrew-translation/",
+      "catalog_title": "Dietary Guidelines, Hebrew Translation",
+      "title_main": "Dietary Guidelines, Hebrew Translation",
+      "author": "Jill C. Nienhiser",
+      "displayed_date": "February 19, 2017",
+      "canonical": [
+        "https://www.westonaprice.org/he/health-topics/dietary-guidelines-hebrew-translation/"
+      ],
+      "body_postid_page_ids": [
+        20635
+      ],
+      "shortlink_ids": [
+        20635
+      ],
+      "html_sha256_physical": "f71da510ab9b99ef1dc0125be997266d5fdea96fdbacfb3b6f5bd19605514ea7",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "614357e8b74774a09b3a130e3f9fc41ae85ec6d02589d03735cb8a29fe77a2dc",
+      "lines": 17,
+      "chars": 646,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página intitulada Hebrew Translation sem tradução textual no main. Há img com alt/nome DietaryGuideLinesHebrew; pixels não vistos.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/uploads/DietaryGuideLinesHebrew-724x1024.jpg",
+          "alt": "Dietary Guidelines, Hebrew Translation",
+          "title": null
+        },
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": "DietaryGuideLinesHebrew-724x1024",
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 4,
+      "acquisition_index": 194,
+      "health_index": 411,
+      "catalog_id": 18560,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/environmental-toxins/",
+      "final_url": "https://www.westonaprice.org/health-topics/environmental-toxins/",
+      "catalog_title": "Environmental Toxins",
+      "title_main": "Environmental Toxins",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "August 23, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/environmental-toxins/"
+      ],
+      "body_postid_page_ids": [
+        18560
+      ],
+      "shortlink_ids": [
+        18560
+      ],
+      "html_sha256_physical": "add9d109c429f7ca1ca70a48028f9d10118941d7d513c752e33877679d144c89",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "62647d65b48e5fd2c2d63217d7020bb653ae0b88aafd4d74ba82d46259bbb389",
+      "lines": 17,
+      "chars": 638,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Environmental Toxins sem artigo/listagem atual; cabeçalho, adesão e formulário, sem biografia textual.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 5,
+      "acquisition_index": 242,
+      "health_index": 483,
+      "catalog_id": 18566,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/faq/",
+      "final_url": "https://www.westonaprice.org/health-topics/faq/",
+      "catalog_title": "FAQ",
+      "title_main": "FAQ",
+      "author": "Tim Boyd",
+      "displayed_date": "August 24, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/faq/"
+      ],
+      "body_postid_page_ids": [
+        18566
+      ],
+      "shortlink_ids": [
+        18566
+      ],
+      "html_sha256_physical": "ef0687caa4014e1d467c07a91f0742f5c81738f8a00c22bcde617220f41e6b34",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "2b44a20630741fc440c37f1c23f91e3f647001bb446da25378726fba0f6be9f1",
+      "lines": 19,
+      "chars": 1162,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página FAQ sem perguntas/respostas recuperadas; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 6,
+      "acquisition_index": 244,
+      "health_index": 485,
+      "catalog_id": 18610,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/farm-ranch/",
+      "final_url": "https://www.westonaprice.org/health-topics/farm-ranch/",
+      "catalog_title": "Farm & Ranch",
+      "title_main": "Farm & Ranch",
+      "author": "Tim Boyd",
+      "displayed_date": "August 30, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/farm-ranch/"
+      ],
+      "body_postid_page_ids": [
+        18610
+      ],
+      "shortlink_ids": [
+        18610
+      ],
+      "html_sha256_physical": "fd702fb4639509a9e68e492d801a0bd2195ec87eb067877d46b151034f321b5d",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "1853bd8871f416af3980d38651e4a98202ac72b8a6ddc96fc44ee25903d0265d",
+      "lines": 19,
+      "chars": 1171,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Farm & Ranch sem texto/listagem atual; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 7,
+      "acquisition_index": 322,
+      "health_index": 572,
+      "catalog_id": 18722,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/food-features/",
+      "final_url": "https://www.westonaprice.org/health-topics/food-features/",
+      "catalog_title": "Food Features",
+      "title_main": "Food Features",
+      "author": "Tim Boyd",
+      "displayed_date": "October 1, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/food-features/"
+      ],
+      "body_postid_page_ids": [
+        18722
+      ],
+      "shortlink_ids": [
+        18722
+      ],
+      "html_sha256_physical": "169ce58c2554149457d0d2d05405492bde1c34120637f44ed2bd72d5b36c1c39",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "028c3f5019ebfaf25e9d33f8dc9a494e41bcafcca2c9473185404d7c15c60616",
+      "lines": 19,
+      "chars": 1172,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Food Features sem coleção/artigos/listagem atual; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 8,
+      "acquisition_index": 377,
+      "health_index": 662,
+      "catalog_id": 18711,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/health-issues/",
+      "final_url": "https://www.westonaprice.org/health-topics/health-issues/",
+      "catalog_title": "Health Issues",
+      "title_main": "Health Issues",
+      "author": "Tim Boyd",
+      "displayed_date": "September 30, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/health-issues/"
+      ],
+      "body_postid_page_ids": [
+        18711
+      ],
+      "shortlink_ids": [
+        18711
+      ],
+      "html_sha256_physical": "4a3df2148039329b83fa37effc6581db6204aa112cae145e2ca5824053155305",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "769235c8dd3c39aeedf0187371541370682185dd1036c15e338acae210a35724",
+      "lines": 19,
+      "chars": 1175,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Health Issues sem texto/listagem atual; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 9,
+      "acquisition_index": 442,
+      "health_index": 743,
+      "catalog_id": 20242,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/in-his-footsteps/",
+      "final_url": "https://www.westonaprice.org/health-topics/in-his-footsteps/",
+      "catalog_title": "In His Footsteps",
+      "title_main": "In His Footsteps",
+      "author": "Shannon Nash",
+      "displayed_date": "January 24, 2017",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/in-his-footsteps/"
+      ],
+      "body_postid_page_ids": [
+        20242
+      ],
+      "shortlink_ids": [
+        20242
+      ],
+      "html_sha256_physical": "9b5eb6495dcd80faa32f0345c8780086f4ba99a728dfd0367c33ccffa2f50cac",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "49c69d39a2617b54f9ed383c0a65fc9706310388bce795fd5fc35ee971ca64d5",
+      "lines": 18,
+      "chars": 637,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página In His Footsteps com título About Shannon Nash, mas sem parágrafo biográfico; sem conteúdo editorial.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 10,
+      "acquisition_index": 552,
+      "health_index": 894,
+      "catalog_id": 18581,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/mens-health/",
+      "final_url": "https://www.westonaprice.org/health-topics/mens-health/",
+      "catalog_title": "Men’s Health",
+      "title_main": "Men’s Health",
+      "author": "Tim Boyd",
+      "displayed_date": "August 24, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/mens-health/"
+      ],
+      "body_postid_page_ids": [
+        18581
+      ],
+      "shortlink_ids": [
+        18581
+      ],
+      "html_sha256_physical": "c77d25addece6d5fc8633bc6a15489f060122e68b039807ffa51eefa9c48f998",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "3d5540d3c81eb2ccf0f33abfa003b5fbbc75546ab7ab273d758c70e7d163f2b0",
+      "lines": 19,
+      "chars": 1171,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Men’s Health sem texto de saúde masculina/listagem atual; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 11,
+      "acquisition_index": 555,
+      "health_index": 902,
+      "catalog_id": 18895,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/modern-diseases/",
+      "final_url": "https://www.westonaprice.org/health-topics/modern-diseases/",
+      "catalog_title": "Modern Diseases",
+      "title_main": "Modern Diseases",
+      "author": "Tim Boyd",
+      "displayed_date": "October 6, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/modern-diseases/"
+      ],
+      "body_postid_page_ids": [
+        18895
+      ],
+      "shortlink_ids": [
+        18895
+      ],
+      "html_sha256_physical": "dc2e9eda64e98193dd1bfc6809dd7609edee02e999f1b97c03ae6e710f365aa7",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "6954f6008c792edabed2c72f5ca512ca1acdb89a912a35d62ae1d758c347a2e2",
+      "lines": 28,
+      "chars": 1400,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Modern Diseases sem artigo atual. Dois comentários: reclamação de ausência e sugestão de procurar menuJournals. Imagem altModernDiseases/Sum18-teller não vista.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/uploads/Sum18-teller.jpg",
+          "alt": "Modern Diseases",
+          "title": null
+        },
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        },
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        },
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 12,
+      "acquisition_index": 625,
+      "health_index": 1016,
+      "catalog_id": 20258,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/",
+      "final_url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/",
+      "catalog_title": "Notes from Yesteryear",
+      "title_main": "Notes from Yesteryear",
+      "author": "Tim Boyd",
+      "displayed_date": "January 24, 2017",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/notes-from-yesteryear/"
+      ],
+      "body_postid_page_ids": [
+        20258
+      ],
+      "shortlink_ids": [
+        20258
+      ],
+      "html_sha256_physical": "019e0498459ddb037c84a62dc672a1f6c37c552b1bce67cd2f809bcf3bd57e1b",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "698ae2099d0080135f6b70bede2b0d62efc0d54b7ef5d658d610ba601a133e4f",
+      "lines": 28,
+      "chars": 2369,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Notes from Yesteryear sem editorial atual. Dois comentários discutem/questions terrain theory, infected blankets, radiofrequência e toxinas como hipóteses/alegações, sem prova ou estudo externo lido.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        },
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        },
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 13,
+      "acquisition_index": 638,
+      "health_index": 1034,
+      "catalog_id": 20195,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/nutrition-greats/",
+      "final_url": "https://www.westonaprice.org/health-topics/nutrition-greats/",
+      "catalog_title": "Nutrition Greats",
+      "title_main": "Nutrition Greats",
+      "author": "Tim Boyd",
+      "displayed_date": "November 23, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/nutrition-greats/"
+      ],
+      "body_postid_page_ids": [
+        20195
+      ],
+      "shortlink_ids": [
+        20195
+      ],
+      "html_sha256_physical": "7830620896592aad657e205dc9a944b1908db32729989563dc225089095af595",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "edfc9576f887bd90da520ba67df1aef847770de5d83b8c2f3a2004b844ca3ed0",
+      "lines": 19,
+      "chars": 1177,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Nutrition Greats sem perfis/listagem atual; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 14,
+      "acquisition_index": 842,
+      "health_index": 1280,
+      "catalog_id": 46782,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/the-oiling-of-america-by-sally-fallon-morell/",
+      "final_url": "https://www.westonaprice.org/health-topics/the-oiling-of-america-by-sally-fallon-morell/",
+      "catalog_title": "The Oiling of America by Sally Fallon Morell",
+      "title_main": "The Oiling of America by Sally Fallon Morell",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "January 13, 2025",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/the-oiling-of-america-by-sally-fallon-morell/"
+      ],
+      "body_postid_page_ids": [
+        46782
+      ],
+      "shortlink_ids": [
+        46782
+      ],
+      "html_sha256_physical": "acb6c1f9d36048cbdce824517babb10fcaf7f85875b9cd158ade273724dbdb44",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "c53d2c0f2e9f2b9eec9c9583570dcba9054c4f2c4474efd280ca3b33798324ac",
+      "lines": 17,
+      "chars": 663,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página The Oiling of America by Sally Fallon Morell sem transcrição textual. Iframe YouTube2YLfm8iJZV8 não aberto/ouvido/transcrito.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [],
+      "embeds_not_opened": [
+        {
+          "tag": "iframe",
+          "attrs": {
+            "title": "The Oiling of America Sally Fallon Morell",
+            "src": "https://www.youtube.com/embed/2YLfm8iJZV8",
+            "width": "930",
+            "height": "523",
+            "frameborder": "0",
+            "allowfullscreen": "allowfullscreen"
+          },
+          "html_line": 416
+        }
+      ]
+    },
+    {
+      "batch_index": 15,
+      "acquisition_index": 886,
+      "health_index": 1358,
+      "catalog_id": 18596,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/",
+      "final_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/",
+      "catalog_title": "Vegetarianism & Plant Foods",
+      "title_main": "Vegetarianism & Plant Foods",
+      "author": "Tim Boyd",
+      "displayed_date": "August 25, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/"
+      ],
+      "body_postid_page_ids": [
+        18596
+      ],
+      "shortlink_ids": [
+        18596
+      ],
+      "html_sha256_physical": "02745f237b9892ab0a61194687988b01f0b600431f41e1983c39ea71416c6710",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "10a96cffeaacbea5c0f4efbccb82d0b94d5987ce54b83042b8bd63f2b8d6d444",
+      "lines": 19,
+      "chars": 1186,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Vegetarianism & Plant Foods sem artigo/listagem atual; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    },
+    {
+      "batch_index": 16,
+      "acquisition_index": 914,
+      "health_index": 1399,
+      "catalog_id": 18599,
+      "catalog_id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/womens-health/",
+      "final_url": "https://www.westonaprice.org/health-topics/womens-health/",
+      "catalog_title": "Women’s Health",
+      "title_main": "Women’s Health",
+      "author": "Tim Boyd",
+      "displayed_date": "August 29, 2016",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/womens-health/"
+      ],
+      "body_postid_page_ids": [
+        18599
+      ],
+      "shortlink_ids": [
+        18599
+      ],
+      "html_sha256_physical": "658f193922f4de234718f2022fd070586c395a5e9581729a8266765b3ace5675",
+      "strict_v1_txt_sha256_physical": "0b8b108a6a75e6b081813ec5b7e1632afc31e49646be4de705fd17cb8374c5ca",
+      "strict_v1_lines": 2,
+      "strict_v1_chars": 28,
+      "strict_v1_is_control_template_not_semantic_alias": true,
+      "main_text_sha256_physical": "7c9e314e75c73811674a7f3cd93a3543871646ac273c9889971e1452f1dec36e",
+      "lines": 19,
+      "chars": 1173,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "editorial_article_read_claim": false,
+      "source_kind": "current_health_landing_or_stub_main_with_controls_not_editorial_article",
+      "notes": "Página Women’s Health sem artigo/listagem atual; biografia e controles.",
+      "limits": [
+        "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+        "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+        "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+        "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+        "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+        "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+      ],
+      "images_not_viewed": [
+        {
+          "src": "https://www.westonaprice.org/wp-content/plugins/lazy-load/images/1x1.trans.gif",
+          "alt": null,
+          "title": null
+        }
+      ],
+      "embeds_not_opened": []
+    }
+  ],
+  "comments_read": [
+    {
+      "batch_index": 11,
+      "health_index": 902,
+      "requested_url": "https://www.westonaprice.org/health-topics/modern-diseases/",
+      "comment_url": "https://www.westonaprice.org/health-topics/modern-diseases/#comment-58041",
+      "comment_id": "comment-58041",
+      "author": "Raven says",
+      "displayed_date": "July 28, 2017 at 7:11 pm",
+      "original_inventory_sha256": "1f69ffb7d22c04614125b47c26f21a63646cfcac36f1838afd9b6d19e9c0cc02",
+      "comment_text_sha256": "97153f054ad0a943f8194de452b6d4c9b12523979fc1cc4f0089b6b3bfcf8bb0",
+      "comment_lines": 1,
+      "main_read_range_inclusive": [
+        [
+          14,
+          14
+        ]
+      ],
+      "main_text_sha256": "6954f6008c792edabed2c72f5ca512ca1acdb89a912a35d62ae1d758c347a2e2",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "scope": "Texto completo do comentário lido dentro do main; não destino externo nem afirmação validada."
+    },
+    {
+      "batch_index": 11,
+      "health_index": 902,
+      "requested_url": "https://www.westonaprice.org/health-topics/modern-diseases/",
+      "comment_url": "https://www.westonaprice.org/health-topics/modern-diseases/#comment-1481384",
+      "comment_id": "comment-1481384",
+      "author": "VV says",
+      "displayed_date": "November 4, 2023 at 1:46 pm",
+      "original_inventory_sha256": "1f69ffb7d22c04614125b47c26f21a63646cfcac36f1838afd9b6d19e9c0cc02",
+      "comment_text_sha256": "f54ee23d4446642c76af19b3598c33b833e1e2be478e013bb6aea3b1fd6181dc",
+      "comment_lines": 1,
+      "main_read_range_inclusive": [
+        [
+          18,
+          18
+        ]
+      ],
+      "main_text_sha256": "6954f6008c792edabed2c72f5ca512ca1acdb89a912a35d62ae1d758c347a2e2",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "scope": "Texto completo do comentário lido dentro do main; não destino externo nem afirmação validada."
+    },
+    {
+      "batch_index": 12,
+      "health_index": 1016,
+      "requested_url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/",
+      "comment_url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/#comment-1364364",
+      "comment_id": "comment-1364364",
+      "author": "William (Bill) Ballard says",
+      "displayed_date": "February 26, 2023 at 1:48 pm",
+      "original_inventory_sha256": "50d5ac689e16da5ed91db77606ad8cc6d80418f5b88620c7caf93fd52a365fb8",
+      "comment_text_sha256": "e9091a9595bbef9a7f187589007fe0084c593a628e1f882ac21da8be157fcb6d",
+      "comment_lines": 1,
+      "main_read_range_inclusive": [
+        [
+          14,
+          14
+        ]
+      ],
+      "main_text_sha256": "698ae2099d0080135f6b70bede2b0d62efc0d54b7ef5d658d610ba601a133e4f",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "scope": "Texto completo do comentário lido dentro do main; não destino externo nem afirmação validada."
+    },
+    {
+      "batch_index": 12,
+      "health_index": 1016,
+      "requested_url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/",
+      "comment_url": "https://www.westonaprice.org/health-topics/notes-from-yesteryear/#comment-1774135",
+      "comment_id": "comment-1774135",
+      "author": "Carol says",
+      "displayed_date": "November 14, 2025 at 8:39 am",
+      "original_inventory_sha256": "50d5ac689e16da5ed91db77606ad8cc6d80418f5b88620c7caf93fd52a365fb8",
+      "comment_text_sha256": "060d58afd104552f3de7dad29e3a28439a2927da7b289e3bcaf0cfbed30fbf93",
+      "comment_lines": 1,
+      "main_read_range_inclusive": [
+        [
+          18,
+          18
+        ]
+      ],
+      "main_text_sha256": "698ae2099d0080135f6b70bede2b0d62efc0d54b7ef5d658d610ba601a133e4f",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "scope": "Texto completo do comentário lido dentro do main; não destino externo nem afirmação validada."
+    }
+  ],
+  "limits": [
+    "Leitura integral somente dos17TXT main estáticos recuperados, incluindo cabeçalhos, biografias, controles, formulários, navegação textual e quatro comentários presentes.",
+    "Não comprova artigo editorial ausente, conteúdo histórico integral, arquivos/categorias completas, tradução em pixels, imagens, vídeo/áudio, PDF, destinos, JS renderizado ou páginas seguintes.",
+    "Script/style/noscript/template são ignorados pelo contrato da classe Main copiada; inventário bruto separa fallback noscript de img no escopo do extrator.",
+    "Strictv1 de2linhas/28caracteres é template Printpost, não alias semântico. OriginaisHTML/strictv1 e reparosv2 deoutrosalvos não foram editados.",
+    "As17URLs permanecem health-negativo no catálogo de origem; não são17artigos novos nem acréscimo ao fechamento393/887.",
+    "Nenhuma rede, browser, ASR, Git ou edição wiki. Referências/links em dados não significam destinos lidos."
+  ]
+}

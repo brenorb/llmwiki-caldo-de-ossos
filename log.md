@@ -1246,3 +1246,7 @@ Registrados [921HTTP200](wiki/fontes/wapf-health-aquisicao921.md),12 remissões/
 ## [2026-11-26] ingestão |Onze ASRs completos e conciliação51GUIDs
 
 Incorporadas [11 leituras integrais](wiki/fontes/wapf-audio-leitura11.md),4.171 linhas/402.467 caracteres,33 hashes/faixas conferidos. [Caderno](wiki/temas/receitas-wapf-audio11.md) mantém2hInstantPot versus24/48h e compra1/8de vaca, arroz original e ausências. Anedota de eczema e anúncios permanecem separados; misturas infantis não viraram fichas adultas. Com181, a [base426](wiki/fontes/wapf-audio-leituras426.md) tem51GUIDs/54versões exatas entre435versões, sem transferir prova entre edições ou apagar declarações semSHA. Revisor leu pareceres/caderno/QA e focais, conferiu435TXT, sem escuta ou releitura integral de todo corpus.
+
+## [2026-11-26] ingestão |17 mains Printpost:leitura e ausência de artigo recuperado
+
+Registrados [17 mains estáticos](wiki/fontes/wapf-health-main17.md),334 linhas/19.276 caracteres lidos por agente; conferidos16 entregáveis,51 arquivos físicos,17 faixas/identidades e quatro comentários porID/hash. Não recuperaram artigos/listagens: predominam controles/biografias/formulários, sem receita temática. Imagens385/902 e vídeo1280 permanecem fora da leitura. São17URLs distintas adicionais com prova de main,130URLs do negativo1.022 com escopos declarados, sem chamar130artigos ou fechar o site.

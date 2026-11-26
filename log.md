@@ -1250,3 +1250,7 @@ Incorporadas [11 leituras integrais](wiki/fontes/wapf-audio-leitura11.md),4.171 
 ## [2026-11-26] ingestão |17 mains Printpost:leitura e ausência de artigo recuperado
 
 Registrados [17 mains estáticos](wiki/fontes/wapf-health-main17.md),334 linhas/19.276 caracteres lidos por agente; conferidos16 entregáveis,51 arquivos físicos,17 faixas/identidades e quatro comentários porID/hash. Não recuperaram artigos/listagens: predominam controles/biografias/formulários, sem receita temática. Imagens385/902 e vídeo1280 permanecem fora da leitura. São17URLs distintas adicionais com prova de main,130URLs do negativo1.022 com escopos declarados, sem chamar130artigos ou fechar o site.
+
+## [2026-11-26] revisão |Duas imagens dosmains:diretriz e tabela
+
+ObtidasHTTP200 e [examinadas duas imagens](wiki/fontes/wapf-main17-visual2.md), hashes preservados. Cartaz hebraico:panorama20itens e leitura focal11, que recomenda caldos sem medidas; não tradução completa. Tabela inglesa:title/cabeçalhos/15linhas/rodapé lidos, sem receita temática ou originalAGA aberto. Não fecha todos os pixels/traduções/vídeo ou valida alegações nutricionais.

@@ -50,3 +50,7 @@ Os 17 estritos compartilham o mesmo hash de dois Print post (2 linhas/28 caracte
 O [registro público porURL](../../raw/wapf-health-main17-2026-11-26.json) reúne identidades, três hashes, faixas e os quatro comentários porID/hash. Os originais/estritos permanecem preservados no acervo privado. O revisor leu o parecer e notas culinária/crítica completos, conferiu16 entregáveis,51 arquivos físicos,17 faixas/identidades e quatro hashes de comentários; não fez segunda leitura integral dos17 mains.
 
 [Inventário de921](wapf-health-aquisicao921.md) · [Cobertura](../cobertura.md) · [Proveniência](../proveniencia.md).
+
+## Revisão visual posterior
+
+As [duas imagens receberam exame visual com escopo próprio](wapf-main17-visual2.md):panorama20itens hebraicos/focal11 e tabela inglesa15linhas. O registro inicial de imagens não vistas acima descreve a etapa de leitura dosmains; não foi apagado. Tradução palavra por palavra e vídeo permanecem objetos separados.

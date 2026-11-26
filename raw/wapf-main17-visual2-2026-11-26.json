@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-26",
+  "proof_kind": "root_agent_visual_reading_with_explicit_scope",
+  "items": [
+    {
+      "health_index": 385,
+      "page": "https://www.westonaprice.org/health-topics/dietary-guidelines-hebrew-translation/",
+      "image_url": "https://www.westonaprice.org/wp-content/uploads/DietaryGuideLinesHebrew-724x1024.jpg",
+      "image_sha256": "74bc024cc307321b3bafcc8a4de0cca925f5a7edbf1bb572e15e0316954121d0",
+      "bytes": 85639,
+      "retrieved_at_utc": "2026-11-26T21:10:14.514233+00:00",
+      "http_status": 200,
+      "visual_scope": "Full-image panorama of all20numbereditems; focused semantic reading of item11. Not a certified complete Hebrew translation or every-word verification.",
+      "all_numbered_items_surveyed": 20,
+      "focused_item_read": 11,
+      "full_word_level_translation_checked": false,
+      "relevant_summary": "Item11recommends mineral/gelatin-rich bonebroths from poultry,cattle,lamb,fish; use in soups,stews,sauces. It provides no quantities,ratios,times,T,yield,macroanalysis or measurednutrientlevels. This is dietaryguidance, not a compositionassay or clinicaltrial."
+    },
+    {
+      "health_index": 902,
+      "page": "https://www.westonaprice.org/health-topics/modern-diseases/",
+      "image_url": "https://www.westonaprice.org/wp-content/uploads/Sum18-teller.jpg",
+      "image_sha256": "0d8b6e9d927529ef1deb58dcb579bc4c00d3ac9c56b64df5313d52470a2cf5e1",
+      "bytes": 118840,
+      "retrieved_at_utc": "2026-11-26T21:10:14.875139+00:00",
+      "http_status": 200,
+      "visual_scope": "EntireEnglish table:title,twoheaders,15rowsandfooter read byrootagent.",
+      "table_rows_read": 15,
+      "relevant_summary": "Table1 lists medicationclasses/examples associatedwithconstipation. Footerattributes adaptation toBharuchaetal,AGAtechnicalreview,Gastroenterology2013;144(1):218–238. No brothrecipe/composition/repigmentationintervention; citedoriginalnotopened."
+    }
+  ],
+  "limits": [
+    "Twoimagesvisuallyexamined, not all markupimages or websitepixels.",
+    "Hebrew20itempanorama andfocal11 do not closeeverywordtranslationgap.",
+    "No sourcepublicationasmedicalrecommendation; scientificclaims requireoriginalevidence.",
+    "No claim thatoldwpengineimageequalscurrentpublicimage; oldURLnotrequested.",
+    "Video2YLfm8iJZV8processingongoing,separateproof."
+  ]
+}

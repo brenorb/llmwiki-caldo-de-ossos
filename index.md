@@ -230,3 +230,6 @@
 - [Nove TXT MDA adicionais: cobertura integral, atribuições e limites](raw/youtube-mda-pos118-9-2026-11-25.json)
 
 - [Dane Johnson: TXT integral, caldo e crescimento capilar sem repigmentação documentada](raw/youtube-mda-dane-pos127-2026-11-25.json)
+
+- [Cobertura da pesquisa: conjuntos lidos e lacunas restantes](wiki/cobertura.md)
+- [Quarto lote WAPF health: cinquenta corpos completos](raw/wapf-health-lote4-50-2026-11-25.json)

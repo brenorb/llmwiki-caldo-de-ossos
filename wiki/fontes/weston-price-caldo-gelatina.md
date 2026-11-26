@@ -218,3 +218,14 @@ Em *Cold, Flu and Fever*, identificado no TSV, caldo faz parte de recomendaçõe
 ## Anexos das páginas de princípios
 
 A [nota de cinco anexos](wapf-anexos-2018.md) registra textos/notas, cobertura visual e limites de objetos/referências. Métodos culinários e alegações terapêuticas continuam distintos; as tabelas de outros alimentos não foram transferidas à composição do caldo.
+
+## Quarto lote health: divergências e limites
+
+Os [50 corpos adicionais](../../raw/wapf-health-lote4-50-2026-11-25.tsv) têm leitura textual e hashes/faixas conferidos, sem leitura das referências externas por constarem da bibliografia. [Registro](../../raw/wapf-health-lote4-50-2026-11-25.json)
+
+- [Broth is Beautiful](https://www.westonaprice.org/health-topics/food-features/broth-is-beautiful/) traz correção editorial removendo a alegação de caldo rico em cálcio, embora outras páginas ainda a repitam. No método de peixe, texto geral sugere2h e a ficha indica4–24h: divergência preservada. A composição continua baseada em [análises identificadas](../temas/composicao.md), sem resolver discordâncias por autoridade do site.
+- [Bone Marrow](https://www.westonaprice.org/health-topics/food-features/bone-marrow/) diz que o tutano provavelmente teria vitaminaK e admite que faltam testes. Não é teor medido de K no tutano ou caldo. O menu histórico e relatos citados nessa página combinam vários alimentos; não isolam o tecido ou o caldo como tratamento.
+- [Our Daily Bread](https://www.westonaprice.org/health-topics/food-features/our-daily-bread/) relata melhora de um familiar celíaco após retirar glúten e mudar vários alimentos, incluindo caldo. Consumo posterior de pão sem sintomas é autoteste narrado, sem análise de glúten/mucosa. Não demonstra cura pelo caldo ou segurança do pão fermentado para celíacos.
+- [Homemade Baby Formula](https://www.westonaprice.org/health-topics/formula-homemade-baby-formula/) apresenta comparação estimada de leites e misturas completas. Os valores de folato/cobre são da mistura, **não do caldo isolado**; a própria nota reconhece lacunas de dados para cálcio/sódio do caldo. A receita infantil não foi adotada como orientação da wiki.
+
+Relatos clínicos em *Getting at the Gut*, publicidade GAPS e recomendações pós-Covid não constituem ensaios de caldo. Não foram encontradas nos50 corpos medidas por porção do caldo para B9/K/cobre ou repigmentação documentada atribuível ao ingrediente isolado. Negativa restrita aos textos consultados.

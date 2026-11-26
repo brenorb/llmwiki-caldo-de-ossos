@@ -118,3 +118,5 @@ O [registro de cinco anexos WAPF](../raw/wapf-anexos-health-2026-11-25/registro-
 Os [nove textos MDA posteriores aos118](../raw/youtube-mda-pos118-9-2026-11-25.json) têm identidades disjuntas, faixas completas e hashes conferidos. O relato de rabada/peptídeos é de Al Danenberg com Elle Russ, sem receita/dose/efeito isolado; não é fala de Sisson ou evidência oncológica.127 é soma incremental desses cortes, não todo o histórico.
 
 A [leitura integral de Dane Johnson](../raw/youtube-mda-dane-pos127-2026-11-25.json) mantém menção ao caldo e crescimento de cabelo em contextos distintos. A narrativa comercial multicomponente não mede efeito do caldo ou pigmentação;128 é soma incremental de textos comprovados, sem declarar todo o canal lido.
+
+O [quarto lote positivo health](../raw/wapf-health-lote4-50-2026-11-25.tsv) tem50 identidades,100 hashes físicos e faixas integrais conferidos, disjuntos dos três anteriores. Correção editorial, hipótese de nutriente e relatos multicomponentes foram mantidos como objetos distintos; tabela de fórmula completa não virou composição de caldo.

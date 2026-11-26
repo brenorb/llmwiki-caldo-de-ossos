@@ -950,3 +950,11 @@ O root conferiu os cinco hashes originais,15 comprovantes privados e o manifesto
 ### Retomada da fila espanhola após parada confirmada
 
 O [registro de retomada](wapf-retomada-es-2026-11-25.json) preserva o estado de92/189 GUIDs com checkpoint. Os processos conhecidos estavam ausentes, a busca restrita não encontrou worker remanescente e os locks estavam livres. A mesma fila foi retomada com um worker, preservando checkpoints e acrescentando ao log. Não há limite de duração por gravação na chamada ASR; conclusão de processamento não certifica leitura ou acurácia integral.
+
+### Quarto lote positivo health: cinquenta corpos completos
+
+O [registro por URL](wapf-health-lote4-50-2026-11-25.tsv) e seu [resumo](wapf-health-lote4-50-2026-11-25.json) documentam **50 corpos,4.788 linhas/1.036.242 caracteres**, em três faixas de20/15/15. O root conferiu100 hashes físicos, identidades e intervalos inclusivos1–fim, com disjunção dos três lotes positivos anteriores. Não houve diferença de canônica entre pedido e HTML neste lote.
+
+Os quatro lotes têm200 URLs positivas com prova individual de leitura textual. Seis páginas excluídas por testemunho narrativo anterior continuam com seu tipo de prova, sem somá-las automaticamente a esses200. Restam outras classes e mídias do inventário; não se declarou todo o site lido. O [quadro de cobertura](../wiki/cobertura.md) separa cada universo.
+
+A [nota da WAPF](../wiki/fontes/weston-price-caldo-gelatina.md#quarto-lote-health-divergências-e-limites) registra divergências sobre cálcio, a hipótese de K no tutano e relato celíaco multicomponente, sem validação clínica. As fórmulas culinárias recebem incorporação própria; consulta integral não significa que cada página acrescente uma receita inédita. Imagens, comentários, áudio e referências externas continuam fora desta cobertura.

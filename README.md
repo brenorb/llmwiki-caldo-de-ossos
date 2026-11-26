@@ -11,4 +11,4 @@ Caldo de ossos é uma família de preparações aquosas com ossos e quantidades 
 - **Para saber o que se estudou sobre repigmentação:** [cabelos brancos](wiki/temas/cabelos-brancos.md).
 - **Para navegar e manter:** [índice](index.md), [proveniência](wiki/proveniencia.md), [instruções](AGENTS.md), [log](log.md).
 
-Comece pelo [índice](index.md). Os arquivos podem ser lidos no GitHub ou baixados para abrir a pasta no Obsidian ou em outro leitor de Markdown. O corpus inicial é uma pesquisa narrativa com trilha de verificação.
+Comece pelo [índice](index.md) e pelo [quadro de cobertura e pendências](wiki/cobertura.md). Os arquivos podem ser lidos no GitHub ou baixados para abrir a pasta no Obsidian ou em outro leitor de Markdown. O corpus inicial é uma pesquisa narrativa com trilha de verificação.

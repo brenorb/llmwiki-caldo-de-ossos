@@ -1010,3 +1010,7 @@ A [observação de processos/checkpoints](raw/wapf-retomada-es-2026-11-25.json) 
 ## [2026-11-25] revisão | Dane Johnson sem confundir crescimento e pigmentação
 
 A [leitura integral](raw/youtube-mda-dane-pos127-2026-11-25.json) acrescenta789 linhas em cinco faixas. Foram conferidos identidade/hashes e disjunção dos127 textos anteriores. A nota separa caldo de um relato comercial de crescimento capilar, sem dose, ensaio ou repigmentação documentada; vozes e limites ASR preservados.
+
+## [2026-11-25] revisão | Quarto lote health e quadro de cobertura
+
+O [quarto lote](raw/wapf-health-lote4-50-2026-11-25.json) acrescenta50 corpos completos,4.788 linhas e1.036.242 caracteres, com100 hashes/faixas conferidos e disjunção dos três lotes anteriores. A nota separa correção de cálcio, hipótese sobre K no tutano e relatos sem efeito isolado. O [quadro de cobertura](wiki/cobertura.md), ligado à página inicial, distingue todos os universos e explicita que a leitura integral ainda está em andamento.

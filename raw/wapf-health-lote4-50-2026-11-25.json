@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-25",
+  "scope": "Quarto lote fixo de cinquenta positivos health; todas as faixas textuais lidas, sem substituir identidades.",
+  "fully_read_available_bodies": 50,
+  "lines": 4788,
+  "characters": 1036242,
+  "physical_html_txt_hashes_checked": 100,
+  "full_ranges_verified": true,
+  "canonical_differences": [],
+  "prior_positive_cuts": [
+    {
+      "file": "wapf-health-leitura-50-2026-11-25.tsv",
+      "sha256": "43a98ff1eff3bc484b1df6e4994d6c01b36a0667a555aa475ebd7fa3deb28064",
+      "rows": 50,
+      "overlap": 0
+    },
+    {
+      "file": "wapf-health-mais50-2026-11-25.tsv",
+      "sha256": "f04ac928de9221c7a8f2bb878e1efd40e94db907052c3e24affd5cebfa28b660",
+      "rows": 50,
+      "overlap": 0
+    },
+    {
+      "file": "wapf-health-lote3-50-2026-11-25.tsv",
+      "sha256": "fef2ff6e22d18897f2d9bcd4ae06fb57bd1ac334d27c56dae7ea47ddd2b77bcb",
+      "rows": 50,
+      "overlap": 0
+    }
+  ],
+  "table_sha256": "00029cf0e704a6968646761e1e31421a2c668c87280e37beff585319880d209b",
+  "source_ledgers": [
+    {
+      "file": "ledger-faixa-00-19.jsonl",
+      "sha256": "822f8f2b6f09768e2a880a538397fc046c0df084132cc17175e8d2779c81faa6"
+    },
+    {
+      "file": "ledger-faixa-20-34.jsonl",
+      "sha256": "2ee93c3f03d208cc0c2fc2b8913e40855f2bd8b8a3dc2d0b1b70bc6aaa3c3b71"
+    },
+    {
+      "file": "ledger-faixa-35-49.jsonl",
+      "sha256": "b6a4a905e393202969d2b30789f5f8ac3819acdf0d545ba53950ba63775a4187"
+    }
+  ],
+  "selection_sha256": "4c9e61aa52999dea11cd8726b35ead9a1e742ee428bd9a2030a04ec8282de27c",
+  "limits": "Texto integral disponível não implica leitura de imagens, mídia, comentários ou artigos externos. Receitas, testemunhos e estudos citados têm classificações próprias; este corte não comprova benefícios clínicos nem cobre todo o site."
+}

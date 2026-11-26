@@ -1254,3 +1254,7 @@ Registrados [17 mains estáticos](wiki/fontes/wapf-health-main17.md),334 linhas/
 ## [2026-11-26] revisão |Duas imagens dosmains:diretriz e tabela
 
 ObtidasHTTP200 e [examinadas duas imagens](wiki/fontes/wapf-main17-visual2.md), hashes preservados. Cartaz hebraico:panorama20itens e leitura focal11, que recomenda caldos sem medidas; não tradução completa. Tabela inglesa:title/cabeçalhos/15linhas/rodapé lidos, sem receita temática ou originalAGA aberto. Não fecha todos os pixels/traduções/vídeo ou valida alegações nutricionais.
+
+## [2026-11-26] ingestão |Três negativos semhits:lidos integralmente
+
+Lidos pelo revisor [três primeiros textos](wiki/fontes/wapf-health-sem-hits3.md) da seleção522,73linhas/39.851caracteres,seis hashes conferidos e idiomas reais registrados. Resultado sem receita/composição temática nestesTXT, sem inferir519restantes. Mantidas autoria/tradução e frase truncada sem completar; referências externas, comentários e imagens fora desta leitura.

@@ -335,3 +335,5 @@
 - [WAPF:17 mains estáticos sem artigo recuperado — leitura e lacunas de imagem/vídeo](wiki/fontes/wapf-health-main17.md)
 
 - [WAPF:duas imagens dos mains — diretriz hebraica e tabela, com escopo visual](wiki/fontes/wapf-main17-visual2.md)
+
+- [WAPF:primeiros três corpos sem hits — leitura integral, idiomas e resultado negativo](wiki/fontes/wapf-health-sem-hits3.md)

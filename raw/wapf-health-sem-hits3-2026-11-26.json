@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-26",
+  "catalog522_sha256": "595bed1be8434b8d8e856c246b48b0221406e79d413065a0e0dd99c29ec6e837",
+  "root_partition_sha256": "ca6e89362b470a9ca101b8601c1b711bfba670cdee289a0b7f12c9ceb184c744",
+  "full_texts_read": 3,
+  "lines": 73,
+  "characters": 39851,
+  "reader": "root_agent",
+  "proof_kind": "root_agent_semantic_reading",
+  "public_rows": [
+    {
+      "acquisition_index": 1,
+      "health_index": 155,
+      "catalog_id": 41313,
+      "requested_url": "https://www.westonaprice.org/health-topics/caustic-commentary-healthy-baby-issue/",
+      "final_url": "https://www.westonaprice.org/health-topics/caustic-commentary-healthy-baby-issue/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/caustic-commentary-healthy-baby-issue/"
+      ],
+      "body_postids": [
+        "41313"
+      ],
+      "title": "Caustic Commentary, Healthy Baby Issue",
+      "catalog_title": "Caustic Commentary, Healthy Baby Issue",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "June 28, 2022",
+      "meta": {
+        "og:title": "Caustic Commentary, Healthy Baby Issue"
+      },
+      "html_declared_language": "en-US",
+      "lines": 33,
+      "chars": 18304,
+      "html_sha256_physical": "b3fbdc52ef4841f454eedcf272fe95a018cdf9b1b23f39d3c96954dcc6ca6e60",
+      "text_sha256_physical": "9616d0bc8f59460e209047b583d71d9372452e41a1432806e700ca58d45135f0",
+      "comments_extracted_not_all_read": 0,
+      "images_not_read": 0,
+      "language_actual": "en",
+      "full_read_lines": [
+        1,
+        33
+      ],
+      "semantic_summary": "Comentários históricos sobre infância, alimentação/gorduras, soja, agricultura, plásticos, neurodesenvolvimento e vacinação. Não apresenta preparo ou composição de caldo/gelatina/tutano. Estudos e casos são referidos por uma coluna editorial; não foram abertos ou validados aqui. Há frase truncada emL9 sobre idade, preservada sem completar. Colina/B1/B12/A/D citados não são dosagem deB9/K/Cu no caldo; modelos de ratos não viram repigmentação humana.",
+      "proof_kind": "root_agent_semantic_reading",
+      "full_available_editorial_text_read": true,
+      "read_ranges_inclusive": [
+        [
+          1,
+          33
+        ]
+      ],
+      "external_references_read": false,
+      "comments_read_in_this_step": false,
+      "images_viewed_in_this_step": false
+    },
+    {
+      "acquisition_index": 3,
+      "health_index": 157,
+      "catalog_id": 20679,
+      "requested_url": "https://www.westonaprice.org/health-topics/caustic-commentary-spring-2002-dutch-translation/",
+      "final_url": "https://www.westonaprice.org/health-topics/caustic-commentary-spring-2002-dutch-translation/",
+      "canonical": [
+        "https://www.westonaprice.org/nl/health-topics/caustic-commentary-spring-2002-dutch-translation/"
+      ],
+      "body_postids": [
+        "20679"
+      ],
+      "title": "Caustic Commentary, Spring 2002, Dutch Translation",
+      "catalog_title": "Caustic Commentary, Spring 2002, Dutch Translation",
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "February 19, 2017",
+      "meta": {
+        "og:title": "Caustic Commentary, Spring 2002, Dutch Translation",
+        "article:modified_time": "2017-02-19T06:02:21+00:00"
+      },
+      "html_declared_language": "en-US",
+      "lines": 15,
+      "chars": 5757,
+      "html_sha256_physical": "3f35d18d2e5189ac996b8992786f7c981149868ad6da7233a2ad4d523f16558e",
+      "text_sha256_physical": "3d3e48b5ae987f736dc3cf7df510a410689bd3e6b7e8175542df57e5d87c4059",
+      "comments_extracted_not_all_read": 0,
+      "images_not_read": 0,
+      "language_actual": "nl",
+      "full_read_lines": [
+        1,
+        15
+      ],
+      "semantic_summary": "Tradução neerlandesa de três trechos deCausticCommentary primavera2002, explicitamente atribuída aRobHundscheidt. Discute agricultura polonesa/regulação, irradiação de alimentos e poderes sanitários. Não fornece receita/ingrediente-tema ou composição de caldo; alegações e referências externas não foram validadas como estudos primários.",
+      "proof_kind": "root_agent_semantic_reading",
+      "full_available_editorial_text_read": true,
+      "read_ranges_inclusive": [
+        [
+          1,
+          15
+        ]
+      ],
+      "external_references_read": false,
+      "comments_read_in_this_step": false,
+      "images_viewed_in_this_step": false
+    },
+    {
+      "acquisition_index": 5,
+      "health_index": 160,
+      "catalog_id": 36449,
+      "requested_url": "https://www.westonaprice.org/health-topics/caustic-commentary-spring-2021/",
+      "final_url": "https://www.westonaprice.org/health-topics/caustic-commentary-spring-2021/",
+      "canonical": [
+        "https://www.westonaprice.org/health-topics/caustic-commentary-spring-2021/"
+      ],
+      "body_postids": [
+        "36449"
+      ],
+      "title": "Caustic Commentary, Spring 2021",
+      "catalog_title": "Caustic Commentary, Spring 2021",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "April 22, 2021",
+      "meta": {
+        "og:title": "Caustic Commentary, Spring 2021",
+        "article:modified_time": "2023-08-04T19:09:23+00:00"
+      },
+      "html_declared_language": "en-US",
+      "lines": 25,
+      "chars": 15790,
+      "html_sha256_physical": "1f3acfacd77a44812c25566b40675a050a63f2893a745c36039b89a041d7a945",
+      "text_sha256_physical": "6f06144c612f7ac34c8478fb303ac510bbd94f0710f3a8f491a30eb2fd89b727",
+      "comments_extracted_not_all_read": 5,
+      "images_not_read": 16,
+      "language_actual": "en",
+      "full_read_lines": [
+        1,
+        25
+      ],
+      "semantic_summary": "Coluna deopinião/compilação sobre pandemia,vacinas,máscaras,5G,agricultura e sal/cognição. Não oferece caldo/gelatina/tutano ou dosagem deB9/K/Cu porcaldo. Números e recomendações de sal não são receita ou análise de caldo. Fontes citadas, relatos e associações invocadas não foram adotados como eficácia comprovada ou orientação clínica.",
+      "proof_kind": "root_agent_semantic_reading",
+      "full_available_editorial_text_read": true,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ]
+      ],
+      "external_references_read": false,
+      "comments_read_in_this_step": false,
+      "images_viewed_in_this_step": false
+    }
+  ],
+  "limits": [
+    "CurrentextractededitorialTXT includingprintcontrols/references/final; nothistoricalissues orallHTML/media/comments/linkedstudies.",
+    "No brothrecipe,macro,micronutrientanalysis orrepigmentationintervention inthese3availabletexts.",
+    "Editorialmedical/politicalclaimsarenotvalidatedoradoptedasrecommendations.",
+    "Other519nohitbodiespartitionedforfullreading;planisnotreadingproof."
+  ]
+}

@@ -236,7 +236,7 @@ O artigo *Lab Report: Lead In Salt*,2026, usa valores de caldo atribuídos aMonr
 
 ## Quinto lote health: tradições, relatos e ausência de isolamento
 
-O [quinto lote de50](../../raw/wapf-health-lote5-50-2026-11-25.json) conserva provas de leitura textual integral, traduções e limites de imagens/referências. A comparação a seguir descreve as fontes, sem validar suas prescrições.
+O [quinto lote de 50](../../raw/wapf-health-lote5-50-2026-11-25.json) conserva provas de leitura textual integral, traduções e limites de imagens/referências. A comparação a seguir descreve as fontes, sem validar suas prescrições.
 
 | Fonte e localizador | Classificação e limite |
 |---|---|
@@ -278,7 +278,12 @@ A referência136 de *High-Lysine* foi conferida separadamente no [original de Al
 A [nota dos50 textos](wapf-health-lote6-2026-11-25.md) reúne achados, cartas divergentes, vitaminas em contextos distintos e ressalva de glutamato sem dose medida. O [caderno culinário](../temas/receitas-wapf-medidas-health6.md) preserva receitas e adaptações, incluindo arroz/mel/pão originais. As sete tabelas de *Nutrition For Hormonal Balance* não estão no TXT e não foram lidas como imagem; referências externas não foram abertas por associação.
 
 
-A [verificação posterior dosIDs](wapf-identidades-colisoes.md) resolve a ambiguidade dirigida: HTML identifica8723/473 nas páginas de chumbo/homeopatia, enquanto as duas rotas de Fluoride repetem o mesmo TXT salvo navegação. Dados originais permanecem preservados; contagem porURL não é contagem de artigos independentes.
+A [verificação posterior dos IDs](wapf-identidades-colisoes.md) resolve a ambiguidade dirigida: HTML identifica8723/473 nas páginas de chumbo/homeopatia, enquanto as duas rotas de Fluoride repetem o mesmo TXT salvo navegação. Dados originais permanecem preservados; contagem porURL não é contagem de artigos independentes.
 
 
 A lacuna visual do45 foi preenchida depois por [sete tabelas e quatro figuras](wapf-hormonal-tabelas.md). Há porções de caldo/cardápio e arroz em redução, sem dose medida de nutrientes ou teste de eficácia. Preservado o escopo da leituraTXT anterior.
+
+
+## Lote7: primeira faixa de 29 TXT
+
+A [nota dos29 textos](wapf-health-lote7-faixa29.md) e o [caderno culinário](../temas/receitas-wapf-medidas-health7a.md) registram medidas, versões e adaptações. Alegações de tutano/K2, glifosato/gelificação,EMF e água estruturada permanecem separadas de análise composicional ou ensaio de caldo. O levantamento de líderes WAPF é autorreferido e multicomponente. São29 URLs novas neste conjunto de provas, incluindo a nota antecipada Allbritton, sem dupla contagem.

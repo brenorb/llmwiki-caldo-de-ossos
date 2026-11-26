@@ -1,5 +1,7 @@
 # Weston A. Price Foundation · Catálogo de receitas com caldo ou gelatina
 
+O [caderno da primeira faixa do lote7](receitas-wapf-medidas-health7a.md) detalha panna cottas, chili, patê, sopa e custard de tutano. Distingue receitas homônimas de URLs diferentes e conserva cerveja, xaropes, figos, grãos e passas nas versões originais.
+
 O [caderno do sexto lote](receitas-wapf-medidas-health6.md) detalha sorvete de coco com gelatina, sopa de ossos/vegetais, sopa de pele de porco, caldo com coco e outros usos. As versões com mel, arroz e pão permanecem lado a lado com as propostas de menos carboidratos.
 
 O [caderno do quinto lote](receitas-wapf-medidas-health5.md) reúne medidas e etapas de chili, ramen, hambúrgueres de salmão com gelatina, sopas e gelatina de frutas, com ingredientes amiláceos e adaptações identificados.

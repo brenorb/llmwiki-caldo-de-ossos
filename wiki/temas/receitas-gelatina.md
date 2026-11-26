@@ -259,3 +259,6 @@ A [ficha Gelatin Fruit Snacks](receitas-wapf-medidas-health5.md#gelatin-fruit-sn
 
 
 O [sorvete de coco com gelatina da WAPF](receitas-wapf-medidas-health6.md#16--dairy-free-gaps-friendly-coconut-ice-cream) informa medidas, hidratação e etapa no freezer. O original contém¼xícara de mel; a versão com adoçante é proposta editorial sem equivalência de quantidade/textura testada.
+
+
+As [duas panna cottas de Wise Traditions2021](receitas-wapf-medidas-health7a.md) têm fórmulas completas próprias. Coco/capim-limão admite adoçante escolhido na fonte; baunilha/coulis conserva gemas, xarope de bordo, Porto e açúcar. Não se fundiram suas medidas com os lotes adaptados acima.

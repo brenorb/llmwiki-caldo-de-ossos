@@ -146,7 +146,7 @@ As [quinze lacunas de mídia MDA](fontes/mda-midias-lacunas-2026-11-25.md) prese
 O [sexto lote health](fontes/wapf-health-lote6-2026-11-25.md) tem50 corpos atuais integralmente lidos por subagentes, três pareceres integralmente revisados e100 hashes físicos/faixas completos conferidos. Colisões de IDs anteriores preservam a contagem porURL, sem afirmar independência editorial. Sete tabelas ausentes do TXT e estudos externos não foram declarados lidos.
 
 
-Os [seis textos antes narrativos](../raw/wapf-health-seis-narrativos-2026-11-25.json) ganharam provas individuais:651 linhas/205.970caracteres e12 hashes físicos conferidos. São zero fontes novas. O [caderno](temas/receitas-wapf-seis-narrativos.md) preserva proporções incompletas, amidos e categorias distintas de Ayurveda/congee; K injetada e vitaminas de outros alimentos não viraram composição de caldo. A contagem250+6é deURLs, com colisões de IDs registradas no [lote6](fontes/wapf-health-lote6-2026-11-25.md).
+Os [seis textos antes narrativos](../raw/wapf-health-seis-narrativos-2026-11-25.json) ganharam provas individuais:651 linhas/205.970 caracteres e12 hashes físicos conferidos. São zero fontes novas. O [caderno](temas/receitas-wapf-seis-narrativos.md) preserva proporções incompletas, amidos e categorias distintas de Ayurveda/congee; K injetada e vitaminas de outros alimentos não viraram composição de caldo. A contagem250+6é deURLs, com colisões de IDs registradas no [lote6](fontes/wapf-health-lote6-2026-11-25.md).
 
 
 O [caderno culinário do sexto lote](temas/receitas-wapf-medidas-health6.md) conserva medidas/etapas das fontes e distingue propostas não testadas. Sorvete com mel não virou fórmula sem açúcar por mera menção de monk fruit no artigo; mousse com arroz não foi identificada como salmão com couve-flor.
@@ -162,3 +162,6 @@ O [complemento de balanço hormonal](fontes/wapf-hormonal-tabelas.md) distingue 
 
 
 A [nota de Allbritton 2010](fontes/allbritton-2010-tutano.md) classifica29 µgK2/100g como alegação secundária sem laudo recuperado, distinta de 3 µgMK-4 numa amostra Eurofins. Formas/amostras/rastreabilidade não foram fundidas; nenhum número foi transferido ao caldo. A fonte pertence ao lote7, sem dupla contagem posterior.
+
+
+A [faixa29 do lote7](fontes/wapf-health-lote7-faixa29.md) acrescenta29 URLs às306 anteriores, com58 hashes físicos, faixas integrais e caderno completo revisados. Allbritton já está incluída. Traduções/URLs não viraram estudos independentes; a hipótese de gelificação/glifosato e analogias de água/EMF não foram tratadas como experimentos de caldo. [Fórmulas e adaptações](temas/receitas-wapf-medidas-health7a.md)

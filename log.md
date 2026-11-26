@@ -1057,12 +1057,12 @@ Conferidos os15logs com desafio de autenticação e o retorno404 do áudio/pági
 
 ## [2026-11-25] ingestão | Sexto lote health: cinquenta TXT e conciliação de identidade
 
-Incorporadas [provas e síntese do lote6](wiki/fontes/wapf-health-lote6-2026-11-25.md):50 TXT/4.657 linhas/1.368.553caracteres. Revisor conferiu100 hashes,50identidades exatas e todas as faixas; preservadas divergências de título/autoria/canonical e duas colisões deID anteriores. Receitas, interpretação chinesa, relatos multicomponentes e referências não consultadas têm classes explícitas.
+Incorporadas [provas e síntese do lote6](wiki/fontes/wapf-health-lote6-2026-11-25.md):50 TXT/4.657 linhas/1.368.553 caracteres. Revisor conferiu100 hashes,50 identidades exatas e todas as faixas; preservadas divergências de título/autoria/canonical e duas colisões deID anteriores. Receitas, interpretação chinesa, relatos multicomponentes e referências não consultadas têm classes explícitas.
 
 
 ## [2026-11-25] ingestão | Seis consultas WAPF antes narrativas
 
-Incorporadas [provas individuais dos seis TXT](raw/wapf-health-seis-narrativos-2026-11-25.json):651 linhas/205.970caracteres,12 hashes conferidos e faixas integrais. Zero fontes novas; contagem porURL distingue colisões deID. [Caderno culinário](wiki/temas/receitas-wapf-seis-narrativos.md), fonte e medicina chinesa preservam receitas incompletas, arroz/batata/ervilha, Ayurveda distinto deMTC e benefícios apenas atribuídos. A avaliação integral de Al-Malki tem nota própria anterior.
+Incorporadas [provas individuais dos seis TXT](raw/wapf-health-seis-narrativos-2026-11-25.json):651 linhas/205.970 caracteres,12 hashes conferidos e faixas integrais. Zero fontes novas; contagem porURL distingue colisões deID. [Caderno culinário](wiki/temas/receitas-wapf-seis-narrativos.md), fonte e medicina chinesa preservam receitas incompletas, arroz/batata/ervilha, Ayurveda distinto deMTC e benefícios apenas atribuídos. A avaliação integral de Al-Malki tem nota própria anterior.
 
 
 ## [2026-11-25] ingestão | Caderno culinário do sexto lote e cobertura306 URLs
@@ -1072,12 +1072,12 @@ Revisado o rascunho completo e incorporadas [receitas e descrições](wiki/temas
 
 ## [2026-11-25] revisão | IDs reais no HTML e duplicação de Fluoride
 
-Conferidos quatroHTML/TXT preservados e oito hashes: postid/shortlink distinguem8723(chumbo) de473(homeopatia). A [comparação integral das duas rotas de Fluoride](wiki/fontes/wapf-identidades-colisoes.md) encontra somente a linha de navegação de tradução como diferença; hash dos demais textos é idêntico. Acrescentada correção sem reescrever osIDs originais de catálogo ou confundir URLs com artigos independentes.
+Conferidos quatroHTML/TXT preservados e oito hashes: postid/shortlink distinguem8723(chumbo) de473(homeopatia). A [comparação integral das duas rotas de Fluoride](wiki/fontes/wapf-identidades-colisoes.md) encontra somente a linha de navegação de tradução como diferença; hash dos demais textos é idêntico. Acrescentada correção sem reescrever os IDs originais de catálogo ou confundir URLs com artigos independentes.
 
 
 ## [2026-11-25] ingestão | MDA: Zach Bush eTerri Cole,144 IDs incrementais
 
-Incorporada [leitura integral dos doisTXT](raw/youtube-mda-pos142-2-2026-11-25.json),1.632 linhas/151.859caracteres, sem novas receitas/passagens reconhecidas. Conferidos27 arquivos congelados, originais físicos, dez partes/faixas e12 raw com142 IDs prévios disjuntos. Todos os blocos concluídos; SRT ausente, sem novaASR, escuta ou revisão visual. AtribuiçãoElle/convidados e publicidade permanecem separadas.
+Incorporada [leitura integral dos doisTXT](raw/youtube-mda-pos142-2-2026-11-25.json),1.632 linhas/151.859 caracteres, sem novas receitas/passagens reconhecidas. Conferidos27 arquivos congelados, originais físicos, dez partes/faixas e12 raw com142 IDs prévios disjuntos. Todos os blocos concluídos; SRT ausente, sem novaASR, escuta ou revisão visual. AtribuiçãoElle/convidados e publicidade permanecem separadas.
 
 
 ## [2026-11-25] ingestão | Sete tabelas e quatro figuras do artigo hormonal WAPF
@@ -1088,3 +1088,8 @@ Preenchida a lacuna visual do45 por [leitura integral dos11 objetos](wiki/fontes
 ## [2026-11-25] ingestão | Tutano: alegação de K2 sem laudo e análise posterior
 
 Registrado o [parágrafo de Allbritton 2010](wiki/fontes/allbritton-2010-tutano.md), com 210 linhas mais rodapé integralmente lidos por agente e dois hashes conferidos. A alegação29 µgK2/100g não foi equiparada ao painel de 3 µgMK-4/100g ou ao caldo. Busca direcionada não recuperou o laudo subjacente; não se concluiu inexistência. Fonte antecipada do lote7, sem somá-la de novo quando o lote for incorporado.
+
+
+## [2026-11-25] ingestão | Lote7:29 TXT e caderno culinário
+
+Incorporada a [primeira faixa do lote7](wiki/fontes/wapf-health-lote7-faixa29.md):29 TXT/2.588 linhas/557.870 caracteres,58 hashes físicos,29 identidades exatas e faixas completas conferidos. Revisor leu parecer37.913 caracteres e caderno30.588 caracteres completos, removeu três linhas duplicadas de comparação e normalizou links do rascunho para a wiki. Panna cottas, chili, patê e tutano têm medidas e versões separadas; propostas low carb são não testadas. Contagem335 URLs já inclui a nota Allbritton, sem somá-la de novo.

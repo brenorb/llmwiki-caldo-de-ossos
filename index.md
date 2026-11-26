@@ -261,3 +261,6 @@
 - [Porções de caldo nas sete tabelas WAPF de balanço hormonal](wiki/fontes/wapf-hormonal-tabelas.md)
 
 - [Tutano: alegação vitamínica de 2010 e análise posterior separadas](wiki/fontes/allbritton-2010-tutano.md)
+
+- [WAPF: leitura e limites dos29primeiros textos do lote7](wiki/fontes/wapf-health-lote7-faixa29.md)
+- [Panna cottas, chili, patê e tutano: fórmulas e versões WAPF](wiki/temas/receitas-wapf-medidas-health7a.md)

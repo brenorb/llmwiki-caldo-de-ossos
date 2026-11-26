@@ -264,3 +264,6 @@
 
 - [WAPF: leitura e limites dos29primeiros textos do lote7](wiki/fontes/wapf-health-lote7-faixa29.md)
 - [Panna cottas, chili, patê e tutano: fórmulas e versões WAPF](wiki/temas/receitas-wapf-medidas-health7a.md)
+
+- [Conferência WAPF 2009:11 fichas de caldo, sopas, costelas e cheesecake](wiki/temas/receitas-wapf-conferencia-2009.md)
+- [Conferência WAPF 2009: identidade, programas e limites](wiki/fontes/wapf-conferencia-2009.md)

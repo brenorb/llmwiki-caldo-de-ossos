@@ -287,3 +287,8 @@ A lacuna visual do45 foi preenchida depois por [sete tabelas e quatro figuras](w
 ## Lote7: primeira faixa de 29 TXT
 
 A [nota dos29 textos](wapf-health-lote7-faixa29.md) e o [caderno culinário](../temas/receitas-wapf-medidas-health7a.md) registram medidas, versões e adaptações. Alegações de tutano/K2, glifosato/gelificação,EMF e água estruturada permanecem separadas de análise composicional ou ensaio de caldo. O levantamento de líderes WAPF é autorreferido e multicomponente. São29 URLs novas neste conjunto de provas, incluindo a nota antecipada Allbritton, sem dupla contagem.
+
+
+## Conferência de 2009: programa e receitas separados
+
+As [duas páginas completas](wapf-conferencia-2009.md) acrescentam leitura documentada da classe other, sem alterar o recorte393 health. O [caderno com 11 fichas](../temas/receitas-wapf-conferencia-2009.md) amplia o resumo anterior da página. Descrição de palestra não foi tratada como transcrição, ensaio clínico ou laudo de vitaminas.

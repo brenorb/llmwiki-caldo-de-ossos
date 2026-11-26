@@ -262,3 +262,6 @@ O [sorvete de coco com gelatina da WAPF](receitas-wapf-medidas-health6.md#16--da
 
 
 As [duas panna cottas de Wise Traditions2021](receitas-wapf-medidas-health7a.md) têm fórmulas completas próprias. Coco/capim-limão admite adoçante escolhido na fonte; baunilha/coulis conserva gemas, xarope de bordo, Porto e açúcar. Não se fundiram suas medidas com os lotes adaptados acima.
+
+
+O [cheesecake da conferência WAPF 2009](receitas-wapf-conferencia-2009.md#8--wapf-raw-cheesecake-with-raspberry-coulis-l295313) usa gelatina, tâmaras, mel e coulis adoçado. A ficha preserva12–16 porções e todas as etapas disponíveis; retirar tâmaras ou trocar adoçantes seria outra fórmula, sem equivalência de textura testada.

@@ -165,3 +165,6 @@ A [nota de Allbritton 2010](fontes/allbritton-2010-tutano.md) classifica29 µgK2
 
 
 A [faixa29 do lote7](fontes/wapf-health-lote7-faixa29.md) acrescenta29 URLs às306 anteriores, com58 hashes físicos, faixas integrais e caderno completo revisados. Allbritton já está incluída. Traduções/URLs não viraram estudos independentes; a hipótese de gelificação/glifosato e analogias de água/EMF não foram tratadas como experimentos de caldo. [Fórmulas e adaptações](temas/receitas-wapf-medidas-health7a.md)
+
+
+As [duas páginas da conferência de 2009](fontes/wapf-conferencia-2009.md) têm4 hashes físicos, identidades WP3186/4288 e faixas integrais conferidos; rótulo local não foi fingido como WPID. Parecer e caderno inteiros revisados;11 fichas pertinentes preservam medidas/ausências. Resumos de palestras continuam publicidade/descritivos, sem prova de eficácia ou composição. Classeother separada de health.

@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-25",
+  "scope": "Two current conference pages, recipes and programme descriptions; not conference recordings or handouts",
+  "class": "other",
+  "included_in_393_health_urls": false,
+  "fully_read_available_texts": 2,
+  "lines": 714,
+  "characters": 83232,
+  "physical_hashes_verified": 4,
+  "private_ledger_sha256": "d4bbeb335615df01f4d2cd77a3fb7f44e2113fbcac8ded3cf6b820cf30827622",
+  "private_report_sha256": "c570dd61338863130839f0d1f5c5dfc3821a1d74ed541fe3ba31466daccc82be",
+  "private_culinary_draft_sha256": "307feb3e7f9f7a4c76e5f5cf531a741af6db945575684fce5e2d3096c618ca2c",
+  "reviewer": "Read full report and culinary draft, checked four physical hashes and all inclusive ranges; corrected contradictory missing-yield claim for mushroom soup",
+  "rows": [
+    {
+      "batch_index": 0,
+      "id": 3186,
+      "id_type": "int",
+      "wordpress_object_id_verified": 3186,
+      "catalog_id_is_wordpress_id": true,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-recipes/",
+      "title": "2009 Conference, Recipes",
+      "title_extracted": "2009 Conference, Recipes",
+      "author": null,
+      "displayed_date": null,
+      "modified_metadata": {
+        "article:modified_time": "2016-11-04T01:47:10+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-recipes/",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-recipes/",
+      "http_status": "200",
+      "source_class": "other",
+      "included_in_393_health_positive_urls": false,
+      "html_sha256_physical": "3ef35adbb787861e3eba930ea522cbe4bf9dd882ec4ec5917eef0357c02ca248",
+      "text_sha256_physical": "dd8625c84991fe11419694006b6d868dfa68b9a3be974c30fa0f99a7c35a4812",
+      "lines": 578,
+      "chars": 39482,
+      "catalog_chars": 40784,
+      "read_ranges_inclusive": [
+        [
+          1,
+          190
+        ],
+        [
+          191,
+          385
+        ],
+        [
+          386,
+          578
+        ]
+      ],
+      "display_ranges_inclusive": [
+        [
+          1,
+          190
+        ],
+        [
+          191,
+          385
+        ],
+        [
+          386,
+          578
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "identity_html_evidence": {
+        "shortlink": "https://www.westonaprice.org/?p=3186",
+        "body_page_id": 3186,
+        "element_post_id": 3186,
+        "verified_wordpress_object_id": 3186
+      },
+      "identity_version_notes": [
+        "Metadados de autoria/data nulos; ano 2009 vem do título/contexto, sem data exata inferida.",
+        "Catálogo/recovery ID3186 confirmado por três metadados HTML independentes do rótulo local.",
+        "Corpo L2 credita criação do menu e receitas a Amanda Love e Sally Fallon Morell; L4 credita preparo a Chef Jack Delby e equipe.",
+        "Título de catálogo/extraído: 2009 Conference, Recipes; primeiro cabeçalho do corpo: Recipes."
+      ],
+      "corpus_classification": "Página de receitas/menu atual integral, sem reivindicação de edição histórica.",
+      "extraction_proof": "prova-extracao-2.jsonl",
+      "reading_proof": "prova-leitura-2.jsonl",
+      "limites": [
+        "TXT atual integral, com referências e finais presentes; sem equivalência presumida a edição histórica.",
+        "HTML somente hash e metadados estruturais de identidade expressamente solicitados: shortlink, page-id e post-ID; sem leitura semântica do corpo HTML.",
+        "Imagens, comentários, áudio/vídeo e destinos de links/handouts não lidos; descrição de palestra não é palestra/transcrição lida.",
+        "Classe other, separada do recorte de 393 URLs positivas health. Sem rede, ASR, Git ou edição da wiki.",
+        "Receitas documentam métodos culinários, não composição por dose ou eficácia; protocolos terapêuticos/infantis e alegações do programa não viram orientação."
+      ]
+    },
+    {
+      "batch_index": 1,
+      "id": "presentations-2009",
+      "id_type": "str",
+      "wordpress_object_id_verified": 4288,
+      "catalog_id_is_wordpress_id": false,
+      "url": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-presentations/",
+      "title": "2009 Conference, Presentations",
+      "title_extracted": "2009 Conference, Presentations",
+      "author": null,
+      "displayed_date": null,
+      "modified_metadata": {
+        "article:modified_time": "2016-11-04T02:26:27+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-presentations/",
+      "final_url": "https://www.westonaprice.org/get-involved/conferences-archive/2009-conference-presentations/",
+      "http_status": "200",
+      "source_class": "other",
+      "included_in_393_health_positive_urls": false,
+      "html_sha256_physical": "96faf248b41b9344394a3d90838d0e55eecae1dd9a93defaa9d1509a8f3d25fd",
+      "text_sha256_physical": "ae8441deabf80e583671266aa3d2be9e478e1f5913b0024a8e8f7e80184253dc",
+      "lines": 136,
+      "chars": 43750,
+      "catalog_chars": 0,
+      "read_ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          70
+        ],
+        [
+          71,
+          105
+        ],
+        [
+          106,
+          136
+        ]
+      ],
+      "display_ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          70
+        ],
+        [
+          71,
+          105
+        ],
+        [
+          106,
+          136
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "identity_html_evidence": {
+        "shortlink": "https://www.westonaprice.org/?p=4288",
+        "body_page_id": 4288,
+        "element_post_id": 4288,
+        "verified_wordpress_object_id": 4288
+      },
+      "identity_version_notes": [
+        "Metadados de autoria/data nulos; ano 2009 vem do título/contexto, sem data exata inferida.",
+        "ID de catálogo/recovery presentations-2009 é rótulo local string; não é WPID. Metadados HTTP verificam o objeto WordPress4288, armazenado separadamente.",
+        "Página é programa de descrições, horários e atividades; nenhuma palestra, transcrição, mídia ou handout foi aberta."
+      ],
+      "corpus_classification": "Programa/descritivos atuais integrais; palestras/handouts não lidos.",
+      "extraction_proof": "prova-extracao-2.jsonl",
+      "reading_proof": "prova-leitura-2.jsonl",
+      "limites": [
+        "TXT atual integral, com referências e finais presentes; sem equivalência presumida a edição histórica.",
+        "HTML somente hash e metadados estruturais de identidade expressamente solicitados: shortlink, page-id e post-ID; sem leitura semântica do corpo HTML.",
+        "Imagens, comentários, áudio/vídeo e destinos de links/handouts não lidos; descrição de palestra não é palestra/transcrição lida.",
+        "Classe other, separada do recorte de 393 URLs positivas health. Sem rede, ASR, Git ou edição da wiki.",
+        "Receitas documentam métodos culinários, não composição por dose ou eficácia; protocolos terapêuticos/infantis e alegações do programa não viram orientação."
+      ]
+    }
+  ]
+}

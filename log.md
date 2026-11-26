@@ -1093,3 +1093,8 @@ Registrado o [parágrafo de Allbritton 2010](wiki/fontes/allbritton-2010-tutano.
 ## [2026-11-25] ingestão | Lote7:29 TXT e caderno culinário
 
 Incorporada a [primeira faixa do lote7](wiki/fontes/wapf-health-lote7-faixa29.md):29 TXT/2.588 linhas/557.870 caracteres,58 hashes físicos,29 identidades exatas e faixas completas conferidos. Revisor leu parecer37.913 caracteres e caderno30.588 caracteres completos, removeu três linhas duplicadas de comparação e normalizou links do rascunho para a wiki. Panna cottas, chili, patê e tutano têm medidas e versões separadas; propostas low carb são não testadas. Contagem335 URLs já inclui a nota Allbritton, sem somá-la de novo.
+
+
+## [2026-11-25] ingestão | Conferência de 2009: duas páginas e11 fichas culinárias
+
+Incorporadas [Recipes e Presentations](wiki/fontes/wapf-conferencia-2009.md),714 linhas/83.232 caracteres,4 hashes e ranges completos. Revisor leu parecer/caderno inteiros; corrigiu ausência contraditória de rendimento na sopa de cogumelos, preservando quatro porções. O [caderno](wiki/temas/receitas-wapf-conferencia-2009.md) conserva originais e adaptações qualitativas identificadas. Programa não é palestra lida, e essas duas URLs other não entram no total health.

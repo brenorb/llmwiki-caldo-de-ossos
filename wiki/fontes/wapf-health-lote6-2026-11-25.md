@@ -37,3 +37,6 @@ Ler todo TXT disponível não cobre figuras/tabelas em imagem, gravações, come
 
 
 O [caderno culinário do lote](../temas/receitas-wapf-medidas-health6.md) reúne todas as preparações dos pareceres, com medidas, método, tempo, rendimento informado e ausências. As adaptações estão separadas dos originais.
+
+
+**Conferência posterior de identidade:** o [HTML dos quatro registros](wapf-identidades-colisoes.md) identifica8723 no texto de chumbo e473 em homeopatia. As duas rotas deFluoride têm TXT completos iguais exceto uma linha de tradução/navegação. A soma porURL permanece válida como cobertura de leitura; esse par não conta como dois artigos independentes.

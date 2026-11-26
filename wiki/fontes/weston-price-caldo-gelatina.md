@@ -276,3 +276,6 @@ A referência136 de *High-Lysine* foi conferida separadamente no [original deAl-
 ## Sexto lote health: receitas, relatos e limites
 
 A [nota dos50 textos](wapf-health-lote6-2026-11-25.md) reúne achados, cartas divergentes, vitaminas em contextos distintos e ressalva de glutamato sem dose medida. O [caderno culinário](../temas/receitas-wapf-medidas-health6.md) preserva receitas e adaptações, incluindo arroz/mel/pão originais. As sete tabelas de *Nutrition For Hormonal Balance* não estão noTXT e não foram lidas como imagem; referências externas não foram abertas por associação.
+
+
+A [verificação posterior dosIDs](wapf-identidades-colisoes.md) resolve a ambiguidade dirigida: HTML identifica8723/473 nas páginas de chumbo/homeopatia, enquanto as duas rotas deFluoride repetem o mesmo TXT salvo navegação. Dados originais permanecem preservados; contagem porURL não é contagem de artigos independentes.

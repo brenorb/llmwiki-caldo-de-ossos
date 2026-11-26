@@ -253,3 +253,5 @@
 - [Quinze mídias MDA sem acesso e tentativa oficial RSS](wiki/fontes/mda-midias-lacunas-2026-11-25.md)
 
 - [WAPF: achados e limites do sexto lote health](wiki/fontes/wapf-health-lote6-2026-11-25.md)
+
+- [IDs WAPF e duplicação textual entre duas rotas deFluoride](wiki/fontes/wapf-identidades-colisoes.md)

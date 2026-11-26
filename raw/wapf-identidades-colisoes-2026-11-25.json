@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-25",
+  "scope": "Four preserved HTML/TXT targets, following catalogue ID collisions; no new network or semantic rereading of medical claims",
+  "method": [
+    "Recalculate eight physical HTML/TXT hashes and match preserved recovery records",
+    "Extract body class postid-N and rel=shortlink from exact preserved HTML; both must agree",
+    "Compare full fluoride TXT line by line; only difference is whole line Translations: Spanish",
+    "For equality hash remove exactly that one whole line, preserving all other lines/order/characters and terminal newline"
+  ],
+  "records": [
+    {
+      "url": "https://www.westonaprice.org/health-topics/bone-broth-and-lead-contamination-a-very-flawed-study-in-medical-hypotheses/",
+      "catalog_id_copied_to_recovery": 473,
+      "html_body_postid": "8723",
+      "html_shortlink": "https://www.westonaprice.org/?p=8723",
+      "html_sha256": "1bc5a056769233c288487717b146502b12e694e1c55f7f2f11b1041d80ae264c",
+      "text_sha256": "335fa5fd5287db753ebc258846a90bdc2f2ffdfa65b336b7c620b4620b4fd88c",
+      "text_lines": 171,
+      "normalized_text_sha256": "335fa5fd5287db753ebc258846a90bdc2f2ffdfa65b336b7c620b4620b4fd88c",
+      "normalized_text_characters": 40218
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/environmental-toxins/fluoride-worse-than-we-thought/",
+      "catalog_id_copied_to_recovery": 6185,
+      "html_body_postid": "6185",
+      "html_shortlink": "https://www.westonaprice.org/?p=6185",
+      "html_sha256": "f797bca1ea2a8549c9501437556877c9ae47e7de7d41d8878e9eeb1ec6c4071e",
+      "text_sha256": "211f2ceeb251c511fad91e00e51a0daf06318d466645f92682bbac8e81607324",
+      "text_lines": 170,
+      "normalized_text_sha256": "6386ac64fd52eded8259b9ba03b6013ae60071f42b1cf632a47a0bad445d6cdf",
+      "normalized_text_characters": 37016
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/health-issues/fluoride-worse-than-we-thought/",
+      "catalog_id_copied_to_recovery": 6185,
+      "html_body_postid": "18727",
+      "html_shortlink": "https://www.westonaprice.org/?p=18727",
+      "html_sha256": "a1999fa7284c7ef4815017841000a9ce35b7d597e81fec43dc6f3272653a96c8",
+      "text_sha256": "6386ac64fd52eded8259b9ba03b6013ae60071f42b1cf632a47a0bad445d6cdf",
+      "text_lines": 169,
+      "normalized_text_sha256": "6386ac64fd52eded8259b9ba03b6013ae60071f42b1cf632a47a0bad445d6cdf",
+      "normalized_text_characters": 37016
+    },
+    {
+      "url": "https://www.westonaprice.org/health-topics/homeopathic-zinc/",
+      "catalog_id_copied_to_recovery": 473,
+      "html_body_postid": "473",
+      "html_shortlink": "https://www.westonaprice.org/?p=473",
+      "html_sha256": "7cf2513431694e87aacb173106e1225ee11ccd3d1292363a70a9a836391558a6",
+      "text_sha256": "a8a12037f83575d387c43dbc1b3d7ced077dff61e73b23a8229379d25093e978",
+      "text_lines": 31,
+      "normalized_text_sha256": "a8a12037f83575d387c43dbc1b3d7ced077dff61e73b23a8229379d25093e978",
+      "normalized_text_characters": 11826
+    }
+  ],
+  "findings": [
+    "Catalogue473 was copied to lead page, but actual preserved HTML identifies8723; Homeopathic Zinc HTML identifies473",
+    "The two fluoride routes identify6185 and18727 in their respective HTML, but current extracted full texts are identical except one translation-navigation line",
+    "Different requested/canonical URLs and different HTML hashes alone do not prove distinct editorial content",
+    "Retain original catalogue/recovery IDs and hashes; this is a separate correction layer, not rewriting prior evidence"
+  ],
+  "limits": [
+    "HTML identifiers describe the preserved versions, not complete migration history",
+    "TXT equality does not prove visual/media/comment or historical-edition equivalence",
+    "This targeted four-record check is not deduplication of every WAPF source"
+  ]
+}

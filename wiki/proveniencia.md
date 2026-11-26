@@ -150,3 +150,6 @@ Os [seis textos antes narrativos](../raw/wapf-health-seis-narrativos-2026-11-25.
 
 
 O [caderno culinário do sexto lote](temas/receitas-wapf-medidas-health6.md) conserva medidas/etapas das fontes e distingue propostas não testadas. Sorvete com mel não virou fórmula sem açúcar por mera menção de monk fruit no artigo; mousse com arroz não foi identificada como salmão com couve-flor.
+
+
+A [conferência dos quatroHTML](fontes/wapf-identidades-colisoes.md) verifica oito hashes e concordância postid/shortlink. O catálogo copiou473 para um HTML que identifica8723. DoisTXT completos deFluoride são iguais removendo só uma linha de navegação, sem pressupor equivalência visual/histórica. Preservados os registros originais; cobertura porURL não afirma independência editorial.

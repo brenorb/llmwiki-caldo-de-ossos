@@ -1068,3 +1068,8 @@ Incorporadas [provas individuais dos seis TXT](raw/wapf-health-seis-narrativos-2
 ## [2026-11-25] ingestão | Caderno culinário do sexto lote e cobertura306URLs
 
 Revisado o rascunho completo e incorporadas [receitas e descrições](wiki/temas/receitas-wapf-medidas-health6.md), com sorvete/gelatina, sopa de ossos, pele de porco e caldo/coco, além de registros incompletos/históricos. Adaptações low carb permanecem qualitativas e não testadas. A cobertura de positivos passou a306URLs com prova textual, sem equivaler a306artigos independentes.
+
+
+## [2026-11-25] revisão | IDs reais noHTML e duplicação deFluoride
+
+Conferidos quatroHTML/TXT preservados e oito hashes: postid/shortlink distinguem8723(chumbo) de473(homeopatia). A [comparação integral das duas rotas deFluoride](wiki/fontes/wapf-identidades-colisoes.md) encontra somente a linha de navegação de tradução como diferença; hash dos demais textos é idêntico. Acrescentada correção sem reescrever osIDs originais de catálogo ou confundir URLs com artigos independentes.

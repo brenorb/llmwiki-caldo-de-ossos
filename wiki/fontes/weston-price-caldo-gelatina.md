@@ -297,3 +297,8 @@ As [duas páginas completas](wapf-conferencia-2009.md) acrescentam leitura docum
 ## Conclusão textual do catálogo health393
 
 Os [lotes completos 7/8](wapf-health-lotes7-8.md) fecham a leitura disponível dos 393 URLs positivos do catálogo fixo. A auditoria atual conferiu786 hashes e faixas completas; isso não amplia o escopo para imagens/mídias, estudos externos ou todo o site. Os [cadernos21](../temas/receitas-wapf-medidas-health7b.md) e [37](../temas/receitas-wapf-medidas-health8.md) passaram por revisão independente e correções focais, com medidas e adaptações separadas. A declaração anterior de29está incluída, sem duplicação.
+
+
+## RSS espanhol: conclusão de processamento, não de leitura
+
+A [auditoria das 189 entradas fixadas](wapf-audio-es-processamento189.md), em 26/11/2026, conferiu 756 arquivos e todas as sequências de blocos concluídos, com143h10min51s de mídia. O processo anterior encerrou; não houve nova execução. Os resultados reconhecidos não foram contados como 189 novas leituras, receitas ou estudos; a análise semântica e a acurácia continuam com registros próprios.

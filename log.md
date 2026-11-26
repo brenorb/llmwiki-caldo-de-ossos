@@ -1077,7 +1077,7 @@ Conferidos quatroHTML/TXT preservados e oito hashes: postid/shortlink distinguem
 
 ## [2026-11-25] ingestão | MDA: Zach Bush eTerri Cole,144 IDs incrementais
 
-Incorporada [leitura integral dos doisTXT](raw/youtube-mda-pos142-2-2026-11-25.json),1.632 linhas/151.859 caracteres, sem novas receitas/passagens reconhecidas. Conferidos27 arquivos congelados, originais físicos, dez partes/faixas e12 raw com142 IDs prévios disjuntos. Todos os blocos concluídos; SRT ausente, sem novaASR, escuta ou revisão visual. AtribuiçãoElle/convidados e publicidade permanecem separadas.
+Incorporada [leitura integral dos doisTXT](raw/youtube-mda-pos142-2-2026-11-25.json),1.632 linhas/151.859 caracteres, sem novas receitas/passagens reconhecidas. Conferidos27 arquivos congelados, originais físicos, dez partes/faixas e12 raw com142 IDs prévios disjuntos. Todos os blocos concluídos; SRT ausente, sem nova ASR, escuta ou revisão visual. AtribuiçãoElle/convidados e publicidade permanecem separadas.
 
 
 ## [2026-11-25] ingestão | Sete tabelas e quatro figuras do artigo hormonal WAPF
@@ -1105,3 +1105,8 @@ Incorporadas [Recipes e Presentations](wiki/fontes/wapf-conferencia-2009.md),714
 Incorporados os [lotes 7/8](wiki/fontes/wapf-health-lotes7-8.md):87 corpos,174 hashes físicos e faixas completas conferidos pelo root. Como 29 jáestavam incorporados, o avanço é58 URLs. A auditoria mecânica atual de todo o corte confirmou393 URLs positivos,786 hashes e393 faixas completas, sem inconsistências, incluindo Allbritton uma vez. Publicado o manifesto completo.
 
 Os cadernos de [21](wiki/temas/receitas-wapf-medidas-health7b.md) e [37 fontes](wiki/temas/receitas-wapf-medidas-health8.md) foram revisados integralmente por subagentes independentes; root leu pareceres, revisões e passagens corrigidas. Corrigidas seis erratas/omissões culinárias, preservando versões, sem alterar originais. Contagem é cobertura textual do catálogo, não todo o site nem393 artigos independentes.
+
+
+## [2026-11-26] revisão | RSS espanhol:189 resultados completos de processamento
+
+Confirmado encerramento do processo anterior por ausência do handle e verificação restrita de processo. A [auditoria local das 189 entradas](wiki/fontes/wapf-audio-es-processamento189.md) conferiu mídia/TXT/log/checkpoint,756 hashes e todas as sequências de blocos, sem falhas ou avisos; duração somada 143h10min51s. Não houve nova ASR. A cobertura diferencia esses resultados de leitura semântica e acurácia; nenhum episódio foi somado como novo texto revisado por causa do checkpoint.

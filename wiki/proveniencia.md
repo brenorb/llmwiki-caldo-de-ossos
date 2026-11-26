@@ -171,3 +171,9 @@ As [duas páginas da conferência de 2009](fontes/wapf-conferencia-2009.md) têm
 
 
 O [fechamento393 health](fontes/wapf-health-lotes7-8.md) confere a união exata dosURLs positivos da versão fixada,786 hashes e393 faixas completas nos ledgers/baselines. Auditoria mecânica não foi fingida como nova leitura semântica.29 jáincorporados estão dentro dos 87dos lotes 7/8; avanço58, sem duplicar Allbritton. Os dois cadernos finais tiveram revisão semântica independente integral e correções focais, com [versões/erratas](../raw/wapf-health-cadernos-7b-8-qa-2026-11-25.json) e originais preservados. Um índice/landing não virou artigo, e nenhuma tradução virou estudo independente.
+
+
+A [auditoria de processamento do RSS espanhol](fontes/wapf-audio-es-processamento189.md) confere 189 identidades,756 arquivos, durações verificadas com ffprobe e sequências completas nos logs. Não finge leitura dos TXT, escuta humana ou reconhecimento perfeito. O worker anterior terminou; nenhum reinício ou corte de duração foi executado na checagem.
+
+
+Durações obtidas com `ffprobe format.duration` são informações do arquivo, não prova de escuta ou de uma nova decodificação completa do áudio. Sequências de ASR, integridade do arquivo e leitura do texto são controles separados.

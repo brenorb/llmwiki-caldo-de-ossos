@@ -271,3 +271,5 @@
 - [WAPF: conclusão textual dos 393 URLs positivos health e limites](wiki/fontes/wapf-health-lotes7-8.md)
 - [Bacon Soup, miúdos e caldos tradicionais: medidas e adaptações](wiki/temas/receitas-wapf-medidas-health7b.md)
 - [Sopas escocesas, caldos, pele e pés suínos: lote 8 completo](wiki/temas/receitas-wapf-medidas-health8.md)
+
+- [Tradiciones Sabias:189 entradas com transcrição automática auditada](wiki/fontes/wapf-audio-es-processamento189.md)

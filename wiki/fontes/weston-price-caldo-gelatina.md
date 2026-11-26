@@ -229,3 +229,7 @@ Os [50 corpos adicionais](../../raw/wapf-health-lote4-50-2026-11-25.tsv) têm le
 - [Homemade Baby Formula](https://www.westonaprice.org/health-topics/formula-homemade-baby-formula/) apresenta comparação estimada de leites e misturas completas. Os valores de folato/cobre são da mistura, **não do caldo isolado**; a própria nota reconhece lacunas de dados para cálcio/sódio do caldo. A receita infantil não foi adotada como orientação da wiki.
 
 Relatos clínicos em *Getting at the Gut*, publicidade GAPS e recomendações pós-Covid não constituem ensaios de caldo. Não foram encontradas nos50 corpos medidas por porção do caldo para B9/K/cobre ou repigmentação documentada atribuível ao ingrediente isolado. Negativa restrita aos textos consultados.
+
+## Chumbo: comparação com parâmetro de água
+
+O artigo *Lab Report: Lead In Salt*,2026, usa valores de caldo atribuídos aMonro2013 e chama15ppb na água de valor seguro. A [conferência das páginasEPA/FDA](epa-chumbo-nivel-acao.md) mostra a diferença entre nível de ação de um sistema de água, meta de saúde e avaliação de exposição dietética. A comparação do artigo não foi adotada como certificação de segurança do caldo. As tabelas de sal não foram promovidas a análises de caldo.

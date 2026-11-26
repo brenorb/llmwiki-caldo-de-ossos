@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-25",
+  "scope": "Checagem localizada da interpretação de nível de ação na água versus segurança de caldo; não auditoria integral da legislação ou laudos de sal.",
+  "official_accesses": [
+    {
+      "key": "epa-water",
+      "url": "https://www.epa.gov/lead/lead-drinking-water",
+      "status": "200",
+      "final_url": "https://www.epa.gov/lead/lead-drinking-water",
+      "retrieved_at_utc": "2026-11-26T00:23:12.407211+00:00",
+      "exit_code": 0,
+      "error": "",
+      "file": "epa-water.html",
+      "bytes": 78370,
+      "sha256": "488ca447aedeb3cd9e998f2a5cd6d74c5e6eb6296a84de034d7d47b7d55fc76d"
+    },
+    {
+      "key": "epa-rule",
+      "url": "https://www.epa.gov/dwreginfo/lead-and-copper-rule",
+      "status": "200",
+      "final_url": "https://www.epa.gov/dwreginfo/lead-and-copper-rule",
+      "retrieved_at_utc": "2026-11-26T00:23:12.341294+00:00",
+      "exit_code": 0,
+      "error": "",
+      "file": "epa-rule.html",
+      "bytes": 63722,
+      "sha256": "b0d62fe107311b5cca64135fe208cb1e12ab17f356d5546f47bbfd30cd79934a"
+    },
+    {
+      "key": "fda-food",
+      "url": "https://www.fda.gov/food/environmental-contaminants-food/lead-food-and-foodwares",
+      "status": "200",
+      "final_url": "https://www.fda.gov/food/environmental-contaminants-food/lead-food-and-foodwares",
+      "retrieved_at_utc": "2026-11-26T00:23:11.822486+00:00",
+      "exit_code": 0,
+      "error": "",
+      "file": "fda-food.html",
+      "bytes": 69634,
+      "sha256": "c32c1bd7076d234c6dcf45b3622cee1426c96c2939b558eb88ebb89d6274e122"
+    }
+  ],
+  "read_sections": {
+    "epa-water": [
+      "Basic Information",
+      "EPA Regulations for Lead in Drinking Water/Basics"
+    ],
+    "epa-rule": [
+      "Rule Summary"
+    ],
+    "fda-food": [
+      "Parágrafos iniciais",
+      "General Information",
+      "Health Effects Information",
+      "Interim Reference Level"
+    ]
+  },
+  "not_read": "Destinos bibliográficos/relatórios vinculados e textos regulatórios completos não lidos por constarem dos links.",
+  "trigger_source": {
+    "url": "https://www.westonaprice.org/health-topics/lab-report-lead-in-salt/",
+    "title": "Lab Report: Lead In Salt",
+    "author": "Sally Fallon Morell",
+    "displayed_date": "August 14, 2026",
+    "html_sha256": "e485c18dd3a86e4344277dcf6a2541fd5007051c8c945103a601f7c92afedbbe",
+    "text_sha256": "56c3bf8f7b5b5f53dbef59bac5b65a14a183c6e43905e83c432d11a42c4a49d1",
+    "selected_lines": [
+      9,
+      13,
+      22
+    ],
+    "scope": "Texto integral lido na faixa20–34 pelo agente; root reconsultou passagens sobre caldo/chumbo e bibliografia. Tabelas em imagem de sal não foram usadas nesta checagem.",
+    "claimed_comparison": "7–10ppb em caldo versus15ppb de água descritos como seguros; referênciaMonro2013."
+  },
+  "finding": "As páginasEPA distinguem meta de saúde zero e15ppb como nível de ação do sistema de água. Não é limiar toxicológico para porção de caldo. FDAavalia concentração, consumo e exposições, sem nível seguro estabelecido.",
+  "limits": "Não se estimou risco de uma pessoa ou de qualquer receita sem concentração/amostra/consumo e contexto de exposição. Não constitui declaração de que todos os caldos são perigosos ou seguros."
+}

@@ -1022,3 +1022,7 @@ O [caderno culinário](wiki/temas/receitas-wapf-medidas-health4.md) complementa 
 ## [2026-11-25] revisão | CGM integral e conciliação sem duplicar sprints
 
 O [registro](raw/youtube-mda-cgm-pos128-2026-11-25.json) acrescenta655 linhas integralmente lidas, negativas para a pesquisa temática, com hashes físicos/faixas conferidos. Um vídeo já lido fora dos cortes recentes foi reconhecido, revisado e excluído da contagem nova. A cobertura chega a129 IDs incrementais, preservando candidatos não lidos e limites de ASR.
+
+## [2026-11-25] revisão | Chumbo: nível de ação não é limiar seguro para caldo
+
+A [notaEPA](wiki/fontes/epa-chumbo-nivel-acao.md) compara o uso de15ppb no texto WAPF às definições oficiais, com três HTML arquivados/hashados e seções consultadas identificadas no [registro](raw/chumbo-epa-comparacao-2026-11-25.json). FDA foi reconsultada sem converter referências dietéticas em limite de uma porção. Composição, fonteWAPF, índice e proveniência atualizados; não foi estimado risco individual.

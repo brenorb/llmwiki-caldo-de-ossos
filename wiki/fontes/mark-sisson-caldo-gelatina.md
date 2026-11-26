@@ -215,3 +215,8 @@ A entrevista [Ancient Remedies](https://www.youtube.com/watch?v=FxIbJEhMrzQ) é 
 | Axe,55:26–55:33 | Aveia com berries e colágeno **ou pó de caldo**; smoothie de abóbora com pó de caldo; depois sopa de frango com vegetais. Sem quantidades ou preparo do caldo/pó. As12h anteriores dizem respeito a cozinhar grãos, não a extrair caldo. |
 
 A aveia/fruta/abóbora permanecem no original; citar pó de caldo não torna o preparo low carb ou um gel de gelatina. Nos demais textos, a enumeração deB9 por Kyrin é genérica, sem caldo/pigmentação. O anúncio de bone broths ao fim de Tara é comercial, sem fórmula. A vinheta identificada como Sisson em John Assaraf não torna a entrevista deElleRuss uma declaração dele sobre o tema.
+
+
+## Lacunas de mídia após a rodada de processamento
+
+[Quinze downloads ficaram sem acesso](mda-midias-lacunas-2026-11-25.md), antes da transcrição, por desafio de autenticação do YouTube. A tentativa oficial em RSS para uma edição relacionada de Saladino retornou404. Não são cortes por duração, leituras negativas ou fontes integralmente cobertas.

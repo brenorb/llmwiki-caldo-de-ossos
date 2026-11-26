@@ -1048,3 +1048,8 @@ Incorporado o [caderno com chili, ramen, sopas, gelatina e usos incompletos](wik
 ## [2026-11-25] ingestão | Referência de catalase e cabelos: Al-Malki2015
 
 Incorporada a [leitura integral do experimento pancreático](wiki/fontes/al-malki-2015-lisina-pancreatite.md), com tabela de catalase, problemas de dose/grupos e financiamento. Atualizada a síntese de cabelos para impedir extrapolação de tecido/desfecho. Originais e derivados preservados;12 arquivos conferidos por tamanho eSHA256.
+
+
+## [2026-11-25] revisão | Quinze mídias MDA sem acesso
+
+Conferidos os15logs com desafio de autenticação e o retorno404 do áudio/página oficial de uma edição relacionada de Saladino. Publicados [inventário e limites](wiki/fontes/mda-midias-lacunas-2026-11-25.md), sem contar falha de acesso como leitura ou atribuir a causa a limite de duração.

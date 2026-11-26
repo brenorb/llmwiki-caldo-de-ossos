@@ -247,3 +247,5 @@
 - [Treze entrevistas MDA adicionais: vozes, usos e limites](raw/youtube-mda-pos129-13-2026-11-25.json)
 
 - [Lisina, pancreatite e catalase: o que Al-Malki2015 efetivamente mediu](wiki/fontes/al-malki-2015-lisina-pancreatite.md)
+
+- [Quinze mídias MDA sem acesso e tentativa oficial RSS](wiki/fontes/mda-midias-lacunas-2026-11-25.md)

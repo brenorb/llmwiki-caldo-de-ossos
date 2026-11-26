@@ -138,3 +138,6 @@ O [caderno culinário do quinto lote](temas/receitas-wapf-medidas-health5.md) de
 
 
 A [conferência integral de Al-Malki2015](fontes/al-malki-2015-lisina-pancreatite.md), referência136 de *High Lysine Diet*, preserva dose divergente, grupo/cronologia ambíguos e catalase daTabela2. Atividade pancreática em camundongos não foi convertida em resultado capilar humano. Os12 hashes do [registro](../raw/al-malki-2015-acesso-2026-11-25.json) foram verificados.
+
+
+As [quinze lacunas de mídia MDA](fontes/mda-midias-lacunas-2026-11-25.md) preservam identidade, hashes dos estados/logs e distinção entre processamento e leitura. Falha de aquisição não foi classificada como ausência do tema, nem RSS de duração distinta como edição idêntica.

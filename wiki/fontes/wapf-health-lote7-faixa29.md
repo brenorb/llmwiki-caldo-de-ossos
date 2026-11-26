@@ -1,8 +1,8 @@
 # WAPF: primeiros 29 textos do sétimo lote health
 
-Leitura integral dos TXT atuais dos índices00–28 do lote7: **29 corpos,2.588 linhas e557.870 caracteres**, referências e finais incluídos. O revisor leu o parecer e o caderno culinário completos e reconferiu29 identidades catálogo/recuperação/ledger,58 hashes físicos HTML/TXT e faixas1–fim. [Inventário por URL](../../raw/wapf-health-lote7-faixa29-2026-11-25.tsv) · [Registro e limites](../../raw/wapf-health-lote7-faixa29-2026-11-25.json)
+Leitura integral dos TXT atuais dos índices00–28 do lote 7: **29 corpos,2.588 linhas e557.870 caracteres**, referências e finais incluídos. O revisor leu o parecer e o caderno culinário completos e reconferiu29 identidades catálogo/recuperação/ledger,58 hashes físicos HTML/TXT e faixas1–fim. [Inventário por URL](../../raw/wapf-health-lote7-faixa29-2026-11-25.tsv) · [Registro e limites](../../raw/wapf-health-lote7-faixa29-2026-11-25.json)
 
-São29 URLs disjuntas das306 anteriores, total335 URLs com provas neste conjunto. **Não são335 artigos independentes ou estudos.** Allbritton 2010, cuja nota foi antecipada, é uma dessas29, sem somá-la novamente. Os outros21 textos do lote7 e37do lote8 ainda não estão incluídos nesta declaração. [Cobertura geral](../cobertura.md)
+São29 URLs disjuntas das 306 anteriores, total335 URLs com provas neste conjunto. **Não são335 artigos independentes ou estudos.** Allbritton 2010, cuja nota foi antecipada, é uma dessas29, sem somá-la novamente. Os outros21 textos do lote 7 e37do lote 8 ainda não estão incluídos nesta declaração. [Cobertura geral](../cobertura.md)
 
 ## Receitas e diferenças entre versões
 
@@ -34,3 +34,6 @@ Relatos de cabelo grosso/brilhante, crescimento ou queda não descrevem reversã
 HTTP200 não prova equivalência a edição histórica. Os três primeiros canônicos usam/cs/, /nl/, /sv/; créditos de tradutores e datas do corpo diferem dos metadados e foram preservados. OsIDs11–13 são strings de URLs de blogs, não substituídos por números; seus corpos atuais curtos foram lidos inteiros sem afirmar acesso a versões antigas completas.
 
 HTML foi usado para hash, sem leitura visual das imagens. Comentários, gravações e destinos bibliográficos não foram abertos nesta faixa. Ler as referências impressas não é ler os estudos citados. Alegações de saúde, protocolos infantis e métodos históricos de conservação permanecem atribuídos aos autores, sem adoção como orientação da wiki.
+
+
+**Atualização posterior:** o [fechamento dos lotes 7/8](wapf-health-lotes7-8.md) inclui esta faixa29 e acrescenta21+37 URLs, totalizando393do catálogo positivo. As 29 não são contadas duas vezes.

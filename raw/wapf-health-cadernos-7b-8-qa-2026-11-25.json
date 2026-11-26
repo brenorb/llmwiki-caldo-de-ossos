@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-25",
+  "scope": "Independent semantic review of two culinary syntheses after full primary TXT reading by their authors; not an extra primary reading of all58TXT",
+  "reviewers_read_whole_notebooks_and_reports": true,
+  "principal_review": "Principal reviewed allthree reports, both QA reports and source passages for corrections; individually checked identities/hashes/ranges for87 and current393audit",
+  "documents": [
+    {
+      "file": "caderno-culinario-faixa-29-49.md",
+      "set": "health-integral-positivos-lote7-50-2026-11-25",
+      "bytes": 23685,
+      "sha256": "21891563ba03507c9f8e4f0f1f4356948578f7e0f37504607180d3b357a4701e"
+    },
+    {
+      "file": "caderno-culinario-faixa-29-49-revisado.md",
+      "set": "health-integral-positivos-lote7-50-2026-11-25",
+      "bytes": 31493,
+      "sha256": "13f6c893b79d181851b377baac0de6032f4f8bed9af5ff74de80f42c86afea0c"
+    },
+    {
+      "file": "parecer-faixa-29-49.md",
+      "set": "health-integral-positivos-lote7-50-2026-11-25",
+      "bytes": 27762,
+      "sha256": "3163660b5160731b2563bfe3425ecc9ab3c5be8b30872835d0d3ac0528a353ef"
+    },
+    {
+      "file": "parecer-faixa-29-49-revisado.md",
+      "set": "health-integral-positivos-lote7-50-2026-11-25",
+      "bytes": 28392,
+      "sha256": "f70cef9e2e51d1015cc00c84143db8ea3ad377b39475dfff30c1e7d9b948ae7c"
+    },
+    {
+      "file": "qa-caderno-culinario-faixa-29-49.md",
+      "set": "health-integral-positivos-lote7-50-2026-11-25",
+      "bytes": 10764,
+      "sha256": "e369b15acc7fa9907428df7b4a62545e4a9be193930f3d4a9ac51b56799ea3e6"
+    },
+    {
+      "file": "caderno-culinario-lote8.md",
+      "set": "health-integral-positivos-lote8-37-2026-11-25",
+      "bytes": 48262,
+      "sha256": "5ed2b023c5e2b085f66efaf45e4a408194e9b6f2cd940bab798a17984fef01d4"
+    },
+    {
+      "file": "caderno-culinario-lote8-revisado.md",
+      "set": "health-integral-positivos-lote8-37-2026-11-25",
+      "bytes": 48834,
+      "sha256": "7b5918899b36cd8f8e4a1e94d806dc27f42452258b8d4a82701f0d4d4bc8a9e2"
+    },
+    {
+      "file": "parecer-faixa-00-07.md",
+      "set": "health-integral-positivos-lote8-37-2026-11-25",
+      "bytes": 23539,
+      "sha256": "f6e315cc52d1d5ed7f94ba3cc20a2d2514a7da895b23b7aaf2e77a7bdba932d7"
+    },
+    {
+      "file": "parecer-faixa-00-07-revisado.md",
+      "set": "health-integral-positivos-lote8-37-2026-11-25",
+      "bytes": 23564,
+      "sha256": "32f1b900eabb35e135f9c358a904579203c69e9caa6b661d3ddb9abf1aad9e5d"
+    },
+    {
+      "file": "parecer-faixa-08-36.md",
+      "set": "health-integral-positivos-lote8-37-2026-11-25",
+      "bytes": 28687,
+      "sha256": "d55cf9de8caa8bf1379b9fd509b60209b71a3db7b0ff630209a00315ee102889"
+    },
+    {
+      "file": "parecer-faixa-08-36-revisado.md",
+      "set": "health-integral-positivos-lote8-37-2026-11-25",
+      "bytes": 28748,
+      "sha256": "3892277ad156a918d88017786028bbca17b716a3f228a08a44506d549e77b026"
+    },
+    {
+      "file": "qa-caderno-culinario-lote8.md",
+      "set": "health-integral-positivos-lote8-37-2026-11-25",
+      "bytes": 5659,
+      "sha256": "37484f7ce65246db055d88a50533f22665e0989b4e52241f4ab3116b7284ce14"
+    }
+  ],
+  "errata": [
+    "7/41L105: meat was roasted/pounded; bones dried/ground afterward",
+    "7/42L20: wheat flour, yolks and salt; preserve usual/sometimes/often qualifiers",
+    "7/39L22: honey OR fruit juice, not generic whole fruit",
+    "7/42: barley typographic split corrected",
+    "8/01L117: one lobster/crab and yolk of one egg; additional binding eggs unquantified",
+    "8/25L42: meat with bones cooked for a long time; no numerical duration"
+  ],
+  "public_editorial_changes": [
+    "Remove local draft/QA execution references from kitchen introductions",
+    "Keep all food methods, quantities, alternatives, limits and identified untested adaptations",
+    "Publish independent source/QA records separately; original drafts preserved"
+  ]
+}

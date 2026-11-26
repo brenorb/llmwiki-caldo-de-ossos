@@ -1,5 +1,7 @@
 # Weston A. Price Foundation · Catálogo de receitas com caldo ou gelatina
 
+Os cadernos finais de [miúdos, Bacon Soup e caldos tradicionais](receitas-wapf-medidas-health7b.md) e [sopas escocesas, pele e pés suínos](receitas-wapf-medidas-health8.md) preservam as fórmulas completas disponíveis e as descrições incompletas, com adaptações de carboidratos e versões diferenciadas.
+
 A [conferência de 2009](receitas-wapf-conferencia-2009.md) agora tem11 fichas com todas as medidas disponíveis, incluindo caldos, cacciatore, creme de cogumelos, costelas e cheesecake, além dos borscht/gravies já resumidos.
 
 O [caderno da primeira faixa do lote7](receitas-wapf-medidas-health7a.md) detalha panna cottas, chili, patê, sopa e custard de tutano. Distingue receitas homônimas de URLs diferentes e conserva cerveja, xaropes, figos, grãos e passas nas versões originais.

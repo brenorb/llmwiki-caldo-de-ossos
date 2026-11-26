@@ -1,0 +1,2295 @@
+{
+  "date": "2026-11-25",
+  "scope": "Lote 8, 37 corpos atuais; dois ledgers conciliados localmente.",
+  "fully_read_available_bodies": 37,
+  "already_incorporated_available_bodies": 0,
+  "remaining_editorial_urls": 37,
+  "lines": 5055,
+  "characters": 1244949,
+  "physical_html_txt_hashes_checked": 74,
+  "exact_identity_triples_checked": 37,
+  "full_ranges_verified": true,
+  "http_status_counts": {
+    "200": 37
+  },
+  "canonical_differences": [],
+  "missing_recovered_title_indices": [
+    8
+  ],
+  "string_id_indices": [],
+  "current_short_body_indices": [
+    36
+  ],
+  "catalog_characters_differ_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "aggregate_87_checks": {
+    "new_catalog_records": 87,
+    "new_unique_catalog_urls": 87,
+    "new_unique_typed_ids": 87,
+    "physical_html_txt_hashes_checked": 174,
+    "exact_catalog_recovery_identities_checked": 87,
+    "prior_records_checked": 306,
+    "prior_catalog_urls_unique": 306,
+    "prior_unique_typed_ids": 304,
+    "prior_duplicate_ids_preserved": [
+      {
+        "id_type": "int",
+        "id": 473,
+        "occurrences": [
+          {
+            "directory": "health-integral-positivos-mais50-2026-11-25",
+            "catalog_index": 137,
+            "batch_index": 40,
+            "catalog_id": 473,
+            "catalog_url": "https://www.westonaprice.org/health-topics/bone-broth-and-lead-contamination-a-very-flawed-study-in-medical-hypotheses/",
+            "catalog_title": "Bone Broth and Lead Contamination: A Very Flawed Study in Medical Hypotheses",
+            "recovery_id": 473,
+            "requested_url": "https://www.westonaprice.org/health-topics/bone-broth-and-lead-contamination-a-very-flawed-study-in-medical-hypotheses/",
+            "canonical_url": "https://www.westonaprice.org/health-topics/bone-broth-and-lead-contamination-a-very-flawed-study-in-medical-hypotheses/",
+            "final_url": "https://www.westonaprice.org/health-topics/bone-broth-and-lead-contamination-a-very-flawed-study-in-medical-hypotheses/",
+            "recovered_title": "Bone Broth and Lead Contamination: A Very Flawed Study in Medical Hypotheses",
+            "author": "Kaayla Daniel",
+            "displayed_date": "March 12, 2013",
+            "html_sha256_recorded": "1bc5a056769233c288487717b146502b12e694e1c55f7f2f11b1041d80ae264c",
+            "text_sha256_recorded": "335fa5fd5287db753ebc258846a90bdc2f2ffdfa65b336b7c620b4620b4fd88c",
+            "id_origin": "ID de catálogo copiado para a recuperação; não ID extraído independentemente do HTTP.",
+            "equivalence_conclusion": "Nenhuma equivalência concluída a partir da colisão de ID."
+          },
+          {
+            "directory": "health-integral-positivos-lote5-50-2026-11-25",
+            "catalog_index": 705,
+            "batch_index": 10,
+            "catalog_id": 473,
+            "catalog_url": "https://www.westonaprice.org/health-topics/homeopathic-zinc/",
+            "catalog_title": "Homeopathic Zinc",
+            "recovery_id": 473,
+            "requested_url": "https://www.westonaprice.org/health-topics/homeopathic-zinc/",
+            "canonical_url": "https://www.westonaprice.org/health-topics/homeopathic-zinc/",
+            "final_url": "https://www.westonaprice.org/health-topics/homeopathic-zinc/",
+            "recovered_title": "Homeopathic Zinc",
+            "author": "Joette Calabrese",
+            "displayed_date": "February 8, 2013",
+            "html_sha256_recorded": "7cf2513431694e87aacb173106e1225ee11ccd3d1292363a70a9a836391558a6",
+            "text_sha256_recorded": "a8a12037f83575d387c43dbc1b3d7ced077dff61e73b23a8229379d25093e978",
+            "id_origin": "ID de catálogo copiado para a recuperação; não ID extraído independentemente do HTTP.",
+            "equivalence_conclusion": "Nenhuma equivalência concluída a partir da colisão de ID."
+          }
+        ]
+      },
+      {
+        "id_type": "int",
+        "id": 6185,
+        "occurrences": [
+          {
+            "directory": "health-integral-positivos-lote3-50-2026-11-25",
+            "catalog_index": 422,
+            "batch_index": 46,
+            "catalog_id": 6185,
+            "catalog_url": "https://www.westonaprice.org/health-topics/environmental-toxins/fluoride-worse-than-we-thought/",
+            "catalog_title": "Fluoride: Worse than We Thought",
+            "recovery_id": 6185,
+            "requested_url": "https://www.westonaprice.org/health-topics/environmental-toxins/fluoride-worse-than-we-thought/",
+            "canonical_url": "https://www.westonaprice.org/health-topics/environmental-toxins/fluoride-worse-than-we-thought/",
+            "final_url": "https://www.westonaprice.org/health-topics/environmental-toxins/fluoride-worse-than-we-thought/",
+            "recovered_title": "Fluoride: Worse than We Thought",
+            "author": "Andreas Schuld",
+            "displayed_date": "April 14, 2004",
+            "html_sha256_recorded": "f797bca1ea2a8549c9501437556877c9ae47e7de7d41d8878e9eeb1ec6c4071e",
+            "text_sha256_recorded": "211f2ceeb251c511fad91e00e51a0daf06318d466645f92682bbac8e81607324",
+            "id_origin": "ID de catálogo copiado para a recuperação; não ID extraído independentemente do HTTP.",
+            "equivalence_conclusion": "Nenhuma equivalência concluída a partir da colisão de ID."
+          },
+          {
+            "directory": "health-integral-positivos-lote5-50-2026-11-25",
+            "catalog_index": 669,
+            "batch_index": 0,
+            "catalog_id": 6185,
+            "catalog_url": "https://www.westonaprice.org/health-topics/health-issues/fluoride-worse-than-we-thought/",
+            "catalog_title": "Fluoride: Worse than We Thought",
+            "recovery_id": 6185,
+            "requested_url": "https://www.westonaprice.org/health-topics/health-issues/fluoride-worse-than-we-thought/",
+            "canonical_url": "https://www.westonaprice.org/health-topics/health-issues/fluoride-worse-than-we-thought/",
+            "final_url": "https://www.westonaprice.org/health-topics/health-issues/fluoride-worse-than-we-thought/",
+            "recovered_title": "Fluoride: Worse than We Thought",
+            "author": "Andreas Schuld",
+            "displayed_date": "April 14, 2004",
+            "html_sha256_recorded": "a1999fa7284c7ef4815017841000a9ce35b7d597e81fec43dc6f3272653a96c8",
+            "text_sha256_recorded": "6386ac64fd52eded8259b9ba03b6013ae60071f42b1cf632a47a0bad445d6cdf",
+            "id_origin": "ID de catálogo copiado para a recuperação; não ID extraído independentemente do HTTP.",
+            "equivalence_conclusion": "Nenhuma equivalência concluída a partir da colisão de ID."
+          }
+        ]
+      }
+    ],
+    "overlap_catalog_urls_total": 0,
+    "overlap_typed_ids_total": 0,
+    "overlap_url_aliases_total": 0,
+    "prior_url_aliases_unique": 318,
+    "combined_catalog_urls_unique": 393,
+    "combined_unique_typed_ids": 391,
+    "exact_identity_triples_checked": 87,
+    "fully_read_available_bodies": 87,
+    "full_ranges_verified": true,
+    "already_incorporated_available_bodies": 29,
+    "remaining_editorial_urls": 58,
+    "remaining_editorial_urls_by_batch": {
+      "7": 21,
+      "8": 37
+    },
+    "lines": 9449,
+    "characters": 2355937
+  },
+  "source_ledgers": [
+    {
+      "file": "ledger-faixa-00-07.jsonl",
+      "rows": 8,
+      "sha256": "a6672a1069f8787209c7e4874f45a49a34c40cb143fcdcd72f6b74bd9251f86a"
+    },
+    {
+      "file": "ledger-faixa-08-36.jsonl",
+      "rows": 29,
+      "sha256": "41cfea77e9983c6e5ba44c815ed506a094a27a4e663c9b443fcc10c7c87bb070"
+    }
+  ],
+  "selection_sha256": "1eb030a6cb09ef3b7d6b0c5d29e1dae02adb2df42e22964e41047a582aa7c54b",
+  "recovery_sha256": "4d5c742e0fba5f3725f8bfbe3b67972e6a487e093e20f9047921dcbf340b34d3",
+  "table_sha256": "25bd5f6fb3c77561a0011c79cc85822745a58b041a1fe5ab4bce04ddf0e264bc",
+  "limits": [
+    "A conciliação verifica os quatro ledgers e todos os hashes/intervalos; não representa releitura semântica das faixas de outros agentes pelo consolidador.",
+    "Leitura integral refere-se aos TXT entry-content atuais disponíveis, incluindo referências e finais; não comprova equivalência integral a edições ou artigos históricos.",
+    "HTML somente hash físico; imagens, mídia, comentários e destinos externos não lidos. Estudos citados não são estudos externos auditados nesta etapa.",
+    "Extração automatizada preserva human_read=false e semantic_reading_status de aquisição; o novo registro de leitura é separado. Originais, catálogos, recuperação e ledgers não são reescritos.",
+    "Relatos, opiniões, modelos e protocolos infantis ou terapêuticos não se tornam orientação. Não se inferem composição, causalidade, dose por caldo ou repigmentação.",
+    "Os 29 corpos da faixa 00–28 do lote 7 já foram incorporados antes desta publicação integral. A conciliação abrange 87 corpos, mas o acréscimo editorial restante é de 58 URLs: 21 do lote 7 e 37 do lote 8.",
+    "Os 306 registros anteriores representam 306 URLs de catálogo e 304 IDs tipados distintos. Colisões 473 e 6185 mantidas sem conclusão de equivalência; IDs de catálogo não foram extraídos independentemente do HTTP.",
+    "Nenhuma rede, ASR, Git ou escrita na wiki nesta conciliação. O conjunto é o recorte positivo congelado de 393 URLs; não todo health-topics ou todo o site."
+  ],
+  "items": [
+    {
+      "batch_number": 8,
+      "batch_index": 0,
+      "remaining_87_index": 50,
+      "catalog_index": 1314,
+      "id": 7148,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/traditional-diets/thailand-land-of-the-coconut/",
+      "final_url": "https://www.westonaprice.org/health-topics/traditional-diets/thailand-land-of-the-coconut/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/traditional-diets/thailand-land-of-the-coconut/",
+      "title": "Thailand: Land of the Coconut",
+      "catalog_title": "Thailand: Land of the Coconut",
+      "recovered_title": "Thailand: Land of the Coconut",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "January 1, 2000",
+      "modified_metadata": {
+        "article:modified_time": "2016-11-22T15:34:06+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:00.445633+00:00",
+      "http_status": "200",
+      "html_sha256": "76738c63a830da7cf4101c9c86f23b7507691e2ca69f079c23dfc27bb6fddb6c",
+      "text_sha256": "c687c1849fee24ae054db988c7dae141dc3004cac3add2a163e4217956a164ef",
+      "characters": 14397,
+      "catalog_characters": 14532,
+      "lines": 37,
+      "ranges_inclusive": [
+        [
+          1,
+          37
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-00-07.jsonl",
+      "ledger_identity_version_evidence": {
+        "limite": "Hash/extração não provam leitura nem integridade de edições históricas. HTML só hash;imagens/comentários/mídia/destinos não lidos.",
+        "autor_data": {
+          "autor": "Sally Fallon and Mary G. Enig, PhD",
+          "data_exibida": "January 1, 2000"
+        }
+      },
+      "ledger_reading_limits": [
+        "Cobertura integral somente do TXT físico extraído e fixado por hash.",
+        "HTTP200 e hashes não provam integridade histórica do artigo.",
+        "HTML somente hash; imagens, comentários, mídia e destinos de links não lidos.",
+        "Referências bibliográficas vistas no TXT não equivalem a estudos externos lidos.",
+        "Sem rede, nova ASR, Git ou edição/consulta da wiki nesta faixa."
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 1,
+      "remaining_87_index": 51,
+      "catalog_index": 1315,
+      "id": 3381,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/traditional-diets/the-good-scots-diet/",
+      "final_url": "https://www.westonaprice.org/health-topics/traditional-diets/the-good-scots-diet/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/traditional-diets/the-good-scots-diet/",
+      "title": "The Good Scots Diet",
+      "catalog_title": "The Good Scots Diet",
+      "recovered_title": "The Good Scots Diet",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Katherine Czapp",
+      "displayed_date": "May 1, 2009",
+      "modified_metadata": {
+        "article:modified_time": "2018-03-17T14:05:51+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:01.538727+00:00",
+      "http_status": "200",
+      "html_sha256": "49056240de183d385a71c190459f78eb39dbff4f87bf1415d790070234183afc",
+      "text_sha256": "2e97449f6140e53b5dd180f526837b64e8ff28f1f8ca13852f1cec5c605ea588",
+      "characters": 53937,
+      "catalog_characters": 54360,
+      "lines": 178,
+      "ranges_inclusive": [
+        [
+          1,
+          43
+        ],
+        [
+          44,
+          88
+        ],
+        [
+          89,
+          137
+        ],
+        [
+          138,
+          178
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-00-07.jsonl",
+      "ledger_identity_version_evidence": {
+        "limite": "Hash/extração não provam leitura nem integridade de edições históricas. HTML só hash;imagens/comentários/mídia/destinos não lidos.",
+        "autor_data": {
+          "autor": "Katherine Czapp",
+          "data_exibida": "May 1, 2009"
+        }
+      },
+      "ledger_reading_limits": [
+        "Cobertura integral somente do TXT físico extraído e fixado por hash.",
+        "HTTP200 e hashes não provam integridade histórica do artigo.",
+        "HTML somente hash; imagens, comentários, mídia e destinos de links não lidos.",
+        "Referências bibliográficas vistas no TXT não equivalem a estudos externos lidos.",
+        "Sem rede, nova ASR, Git ou edição/consulta da wiki nesta faixa."
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 2,
+      "remaining_87_index": 52,
+      "catalog_index": 1316,
+      "id": 6981,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/traditional-diets/the-mediterranean-diet-pasta-or-pastrami/",
+      "final_url": "https://www.westonaprice.org/health-topics/traditional-diets/the-mediterranean-diet-pasta-or-pastrami/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/traditional-diets/the-mediterranean-diet-pasta-or-pastrami/",
+      "title": "The Mediterranean Diet: Pasta or Pastrami?",
+      "catalog_title": "The Mediterranean Diet: Pasta or Pastrami?",
+      "recovered_title": "The Mediterranean Diet: Pasta or Pastrami?",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "June 30, 2000",
+      "modified_metadata": {
+        "article:modified_time": "2025-03-24T03:08:51+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:00.460521+00:00",
+      "http_status": "200",
+      "html_sha256": "307585f5b013e0295a3947a6cb1acb9f88aadc0165ae86d45c2d863bfa6efdcd",
+      "text_sha256": "3b2c4fc429252ad8816610add7cfd66054b494d7894db3881171a3ca0683482a",
+      "characters": 28127,
+      "catalog_characters": 28354,
+      "lines": 71,
+      "ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          71
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-00-07.jsonl",
+      "ledger_identity_version_evidence": {
+        "limite": "Hash/extração não provam leitura nem integridade de edições históricas. HTML só hash;imagens/comentários/mídia/destinos não lidos.",
+        "autor_data": {
+          "autor": "Sally Fallon and Mary G. Enig, PhD",
+          "data_exibida": "June 30, 2000"
+        }
+      },
+      "ledger_reading_limits": [
+        "Cobertura integral somente do TXT físico extraído e fixado por hash.",
+        "HTTP200 e hashes não provam integridade histórica do artigo.",
+        "HTML somente hash; imagens, comentários, mídia e destinos de links não lidos.",
+        "Referências bibliográficas vistas no TXT não equivalem a estudos externos lidos.",
+        "Sem rede, nova ASR, Git ou edição/consulta da wiki nesta faixa."
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 3,
+      "remaining_87_index": 53,
+      "catalog_index": 1317,
+      "id": 30912,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/traditional-diets/ukraine-paradise-of-nutrient-dense-traditional-foods-for-now/",
+      "final_url": "https://www.westonaprice.org/health-topics/traditional-diets/ukraine-paradise-of-nutrient-dense-traditional-foods-for-now/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/traditional-diets/ukraine-paradise-of-nutrient-dense-traditional-foods-for-now/",
+      "title": "Ukraine, Paradise of Nutrient-Dense Traditional Foods—For Now",
+      "catalog_title": "Ukraine, Paradise of Nutrient-Dense Traditional Foods—For Now",
+      "recovered_title": "Ukraine, Paradise of Nutrient-Dense Traditional Foods—For Now",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Michael Merrill",
+      "displayed_date": "July 30, 2019",
+      "modified_metadata": {
+        "article:modified_time": "2019-08-23T22:47:52+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:00.796691+00:00",
+      "http_status": "200",
+      "html_sha256": "b06918aa12ea2294a9a633cafab4574e81262f4ca7901977295c0a273ebb5675",
+      "text_sha256": "ca13c4d9e4641b3d5f79da102db1420fc0de8bf359289d6f7867664d48517272",
+      "characters": 12764,
+      "catalog_characters": 12943,
+      "lines": 46,
+      "ranges_inclusive": [
+        [
+          1,
+          46
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-00-07.jsonl",
+      "ledger_identity_version_evidence": {
+        "limite": "Hash/extração não provam leitura nem integridade de edições históricas. HTML só hash;imagens/comentários/mídia/destinos não lidos.",
+        "autor_data": {
+          "autor": "Michael Merrill",
+          "data_exibida": "July 30, 2019"
+        }
+      },
+      "ledger_reading_limits": [
+        "Cobertura integral somente do TXT físico extraído e fixado por hash.",
+        "HTTP200 e hashes não provam integridade histórica do artigo.",
+        "HTML somente hash; imagens, comentários, mídia e destinos de links não lidos.",
+        "Referências bibliográficas vistas no TXT não equivalem a estudos externos lidos.",
+        "Sem rede, nova ASR, Git ou edição/consulta da wiki nesta faixa."
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 4,
+      "remaining_87_index": 54,
+      "catalog_index": 1319,
+      "id": 46467,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/traditional-greenlandic-food/",
+      "final_url": "https://www.westonaprice.org/health-topics/traditional-greenlandic-food/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/traditional-greenlandic-food/",
+      "title": "Traditional Greenlandic Food",
+      "catalog_title": "Traditional Greenlandic Food",
+      "recovered_title": "Traditional Greenlandic Food",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "December 13, 2024",
+      "modified_metadata": {
+        "article:modified_time": "2025-01-03T22:54:41+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:01.571863+00:00",
+      "http_status": "200",
+      "html_sha256": "bc34bb40101ecef5f5b664efca33b974da8e8ecc17e326b5eddcb947f2974208",
+      "text_sha256": "8ba07ff6d30a2947aa9dd672e94d3fe89fea728de5b080178d3b4ec9aa9512a9",
+      "characters": 40201,
+      "catalog_characters": 40408,
+      "lines": 88,
+      "ranges_inclusive": [
+        [
+          1,
+          24
+        ],
+        [
+          25,
+          48
+        ],
+        [
+          49,
+          88
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-00-07.jsonl",
+      "ledger_identity_version_evidence": {
+        "limite": "Hash/extração não provam leitura nem integridade de edições históricas. HTML só hash;imagens/comentários/mídia/destinos não lidos.",
+        "autor_data": {
+          "autor": "The Weston A Price Foundation",
+          "data_exibida": "December 13, 2024"
+        }
+      },
+      "ledger_reading_limits": [
+        "Cobertura integral somente do TXT físico extraído e fixado por hash.",
+        "HTTP200 e hashes não provam integridade histórica do artigo.",
+        "HTML somente hash; imagens, comentários, mídia e destinos de links não lidos.",
+        "Referências bibliográficas vistas no TXT não equivalem a estudos externos lidos.",
+        "Sem rede, nova ASR, Git ou edição/consulta da wiki nesta faixa."
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 5,
+      "remaining_87_index": 55,
+      "catalog_index": 1320,
+      "id": 3773,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/traditional-remedies-for-childhood-illnesses/",
+      "final_url": "https://www.westonaprice.org/health-topics/traditional-remedies-for-childhood-illnesses/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/traditional-remedies-for-childhood-illnesses/",
+      "title": "Traditional Remedies for Childhood Illnesses",
+      "catalog_title": "Traditional Remedies for Childhood Illnesses",
+      "recovered_title": "Traditional Remedies for Childhood Illnesses",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Sarah Pope",
+      "displayed_date": "March 22, 2009",
+      "modified_metadata": {
+        "article:modified_time": "2026-07-14T18:16:49+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:11.115256+00:00",
+      "http_status": "200",
+      "html_sha256": "e90475dce4a407c54a1cece44b7a9f7d246bf80802ceb54eee260270fa364aef",
+      "text_sha256": "5566f0ca354656eb95306f001e832d0022b0e4e2f8adc4ed29bd5ab178f842d9",
+      "characters": 27265,
+      "catalog_characters": 27573,
+      "lines": 112,
+      "ranges_inclusive": [
+        [
+          1,
+          51
+        ],
+        [
+          52,
+          112
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-00-07.jsonl",
+      "ledger_identity_version_evidence": {
+        "limite": "Hash/extração não provam leitura nem integridade de edições históricas. HTML só hash;imagens/comentários/mídia/destinos não lidos.",
+        "autor_data": {
+          "autor": "Sarah Pope",
+          "data_exibida": "March 22, 2009"
+        }
+      },
+      "ledger_reading_limits": [
+        "Cobertura integral somente do TXT físico extraído e fixado por hash.",
+        "HTTP200 e hashes não provam integridade histórica do artigo.",
+        "HTML somente hash; imagens, comentários, mídia e destinos de links não lidos.",
+        "Referências bibliográficas vistas no TXT não equivalem a estudos externos lidos.",
+        "Sem rede, nova ASR, Git ou edição/consulta da wiki nesta faixa."
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 6,
+      "remaining_87_index": 56,
+      "catalog_index": 1321,
+      "id": 6996,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/tragedy-and-hype-third-international-soy-symposium/",
+      "final_url": "https://www.westonaprice.org/health-topics/tragedy-and-hype-third-international-soy-symposium/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/tragedy-and-hype-third-international-soy-symposium/",
+      "title": "Tragedy and Hype: Third International Soy Symposium",
+      "catalog_title": "Tragedy and Hype: Third International Soy Symposium",
+      "recovered_title": "Tragedy and Hype: Third International Soy Symposium",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "March 26, 2000",
+      "modified_metadata": {
+        "article:modified_time": "2024-01-12T20:42:13+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:03.489572+00:00",
+      "http_status": "200",
+      "html_sha256": "6e6bb1fda5fd3e03efb2e123ca3475f26ef0b0f0e1fa9f1f5c0dc2dd09874403",
+      "text_sha256": "a6d023024ad5862d254953169e260879f1954457d259d4856e1cde32b4ff5329",
+      "characters": 54501,
+      "catalog_characters": 54900,
+      "lines": 157,
+      "ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          70
+        ],
+        [
+          71,
+          113
+        ],
+        [
+          114,
+          157
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-00-07.jsonl",
+      "ledger_identity_version_evidence": {
+        "limite": "Hash/extração não provam leitura nem integridade de edições históricas. HTML só hash;imagens/comentários/mídia/destinos não lidos.",
+        "autor_data": {
+          "autor": "Sally Fallon and Mary G. Enig, PhD",
+          "data_exibida": "March 26, 2000"
+        }
+      },
+      "ledger_reading_limits": [
+        "Cobertura integral somente do TXT físico extraído e fixado por hash.",
+        "HTTP200 e hashes não provam integridade histórica do artigo.",
+        "HTML somente hash; imagens, comentários, mídia e destinos de links não lidos.",
+        "Referências bibliográficas vistas no TXT não equivalem a estudos externos lidos.",
+        "Sem rede, nova ASR, Git ou edição/consulta da wiki nesta faixa."
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 7,
+      "remaining_87_index": 57,
+      "catalog_index": 1326,
+      "id": 23554,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/understanding-managing-type-2-diabetes/",
+      "final_url": "https://www.westonaprice.org/health-topics/understanding-managing-type-2-diabetes/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/understanding-managing-type-2-diabetes/",
+      "title": "Understanding and Managing Type 2 Diabetes",
+      "catalog_title": "Understanding and Managing Type 2 Diabetes",
+      "recovered_title": "Understanding and Managing Type 2 Diabetes",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Ann Childers, MD",
+      "displayed_date": "April 13, 2017",
+      "modified_metadata": {
+        "article:modified_time": "2017-06-30T10:25:23+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:04.320841+00:00",
+      "http_status": "200",
+      "html_sha256": "9e96218d2ed60d449597d770377a133867bffb76e6f07ee79b221cef020532a0",
+      "text_sha256": "384efb5cdb181a36a0dbfa53b36fd4cdd15dbd5b039cc84344ba576a5029ce4d",
+      "characters": 41471,
+      "catalog_characters": 41953,
+      "lines": 161,
+      "ranges_inclusive": [
+        [
+          1,
+          45
+        ],
+        [
+          46,
+          90
+        ],
+        [
+          91,
+          130
+        ],
+        [
+          131,
+          161
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-00-07.jsonl",
+      "ledger_identity_version_evidence": {
+        "limite": "Hash/extração não provam leitura nem integridade de edições históricas. HTML só hash;imagens/comentários/mídia/destinos não lidos.",
+        "autor_data": {
+          "autor": "Ann Childers, MD",
+          "data_exibida": "April 13, 2017"
+        }
+      },
+      "ledger_reading_limits": [
+        "Cobertura integral somente do TXT físico extraído e fixado por hash.",
+        "HTTP200 e hashes não provam integridade histórica do artigo.",
+        "HTML somente hash; imagens, comentários, mídia e destinos de links não lidos.",
+        "Referências bibliográficas vistas no TXT não equivalem a estudos externos lidos.",
+        "Sem rede, nova ASR, Git ou edição/consulta da wiki nesta faixa."
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 8,
+      "remaining_87_index": 58,
+      "catalog_index": 1329,
+      "id": 43596,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/unnecessary-testing-in-healthcare/",
+      "final_url": "https://www.westonaprice.org/health-topics/unnecessary-testing-in-healthcare/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/unnecessary-testing-in-healthcare/",
+      "title": "Unnecessary Testing in Healthcare",
+      "catalog_title": "Unnecessary Testing in Healthcare",
+      "recovered_title": null,
+      "recovered_title_missing": true,
+      "body_title_text": "Medical Tests: Whose Interests Do They Really Serve?",
+      "author": "Merinda Teller, MPH, PhD",
+      "displayed_date": "May 5, 2023",
+      "modified_metadata": {
+        "article:modified_time": "2023-06-27T18:33:22+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:05.411429+00:00",
+      "http_status": "200",
+      "html_sha256": "67a3b872dfe5ad985d8299d649df92319e2e36ebfa8bf8be54e1fa83c5146892",
+      "text_sha256": "00b05ce991ed1ff92140e473fd5d2f3441381f9d23743df7499b08259d424981",
+      "characters": 41088,
+      "catalog_characters": 41454,
+      "lines": 147,
+      "ranges_inclusive": [
+        [
+          1,
+          147
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais",
+        "Título da recuperação é null; título do catálogo preservado como rótulo, subtítulo do corpo distinto",
+        "Referências65/123 com texto/markup deteriorado, sem restauração inventada"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [
+        "Título recuperado nulo; catálogo Unnecessary Testing in Healthcare; subtítulo do corpo L2: Medical Tests: Whose Interests Do They Really Serve? (conforme parecer do agente responsável)."
+      ],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 9,
+      "remaining_87_index": 59,
+      "catalog_index": 1330,
+      "id": 28361,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/uptight-and-out-of-sight-the-global-constipation-epidemic/",
+      "final_url": "https://www.westonaprice.org/health-topics/uptight-and-out-of-sight-the-global-constipation-epidemic/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/uptight-and-out-of-sight-the-global-constipation-epidemic/",
+      "title": "Uptight and Out of Sight: The Global Constipation Epidemic",
+      "catalog_title": "Uptight and Out of Sight: The Global Constipation Epidemic",
+      "recovered_title": "Uptight and Out of Sight: The Global Constipation Epidemic",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Merinda Teller, MPH, PhD",
+      "displayed_date": "August 6, 2018",
+      "modified_metadata": {
+        "article:modified_time": "2018-08-18T22:48:49+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:06.423500+00:00",
+      "http_status": "200",
+      "html_sha256": "69461244e590433077002ae8ee130977363397decd93ef5e1ba6a26e178b9f73",
+      "text_sha256": "09dcf78096f5a4c15553a178e8d57b5aee5a265b8f2977ecd0e19c50c5c75284",
+      "characters": 21655,
+      "catalog_characters": 21892,
+      "lines": 73,
+      "ranges_inclusive": [
+        [
+          1,
+          73
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 10,
+      "remaining_87_index": 60,
+      "catalog_index": 1336,
+      "id": 16712,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vaccinations/adjuvants-in-vaccines/",
+      "final_url": "https://www.westonaprice.org/health-topics/vaccinations/adjuvants-in-vaccines/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vaccinations/adjuvants-in-vaccines/",
+      "title": "Adjuvants in Vaccines",
+      "catalog_title": "Adjuvants in Vaccines",
+      "recovered_title": "Adjuvants in Vaccines",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Megan Pond",
+      "displayed_date": "August 3, 2015",
+      "modified_metadata": {
+        "article:modified_time": "2025-05-11T23:35:24+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:07.337644+00:00",
+      "http_status": "200",
+      "html_sha256": "fd5ca5e951056f589cb217f68816d8e5ba97e3832810fcf0020ae2bd602e110c",
+      "text_sha256": "46300429002bff85565a800143c3f7613f3357e184e4d1728b03754487fb8464",
+      "characters": 30800,
+      "catalog_characters": 31616,
+      "lines": 219,
+      "ranges_inclusive": [
+        [
+          1,
+          219
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 11,
+      "remaining_87_index": 61,
+      "catalog_index": 1342,
+      "id": 22488,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vaccinations/holistic-remedies-to-address-vaccine-injury/",
+      "final_url": "https://www.westonaprice.org/health-topics/vaccinations/holistic-remedies-to-address-vaccine-injury/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vaccinations/holistic-remedies-to-address-vaccine-injury/",
+      "title": "Holistic Remedies to Address Vaccine Injury",
+      "catalog_title": "Holistic Remedies to Address Vaccine Injury",
+      "recovered_title": "Holistic Remedies to Address Vaccine Injury",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Kim Schuette",
+      "displayed_date": "August 5, 2015",
+      "modified_metadata": {
+        "article:modified_time": "2022-05-05T19:27:08+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:07.835729+00:00",
+      "http_status": "200",
+      "html_sha256": "fc27f036326173970e440fd4099bb7ebfb035ee4a6bd26560db5bb8a3ef62ec8",
+      "text_sha256": "7bcbc0dadaa2ac3e8991862ddb343202c59be1c50ebdb627a9c185a4886c849f",
+      "characters": 17624,
+      "catalog_characters": 17776,
+      "lines": 36,
+      "ranges_inclusive": [
+        [
+          1,
+          36
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 12,
+      "remaining_87_index": 62,
+      "catalog_index": 1345,
+      "id": 30425,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vaccinations/measles-a-close-examination-of-the-facts-to-counter-the-fear/",
+      "final_url": "https://www.westonaprice.org/health-topics/vaccinations/measles-a-close-examination-of-the-facts-to-counter-the-fear/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vaccinations/measles-a-close-examination-of-the-facts-to-counter-the-fear/",
+      "title": "Measles: A Close Examination of the Facts to Counter the Fear",
+      "catalog_title": "Measles: A Close Examination of the Facts to Counter the Fear",
+      "recovered_title": "Measles: A Close Examination of the Facts to Counter the Fear",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Kendall Nelson",
+      "displayed_date": "May 2, 2019",
+      "modified_metadata": {
+        "article:modified_time": "2025-11-13T19:27:26+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:07.577468+00:00",
+      "http_status": "200",
+      "html_sha256": "ba59ccbe501c46eb776cf4ca05196394d2ef65e4d4e65bd71bae227204a44fa5",
+      "text_sha256": "0b1e94776c560e8aa7d0ec59721965c7e959d490afc3fef122bef5e2a5d5d6cf",
+      "characters": 33479,
+      "catalog_characters": 33785,
+      "lines": 102,
+      "ranges_inclusive": [
+        [
+          1,
+          102
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 13,
+      "remaining_87_index": 63,
+      "catalog_index": 1351,
+      "id": 28343,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vaccinations/vaccines-and-pregnancy/",
+      "final_url": "https://www.westonaprice.org/health-topics/vaccinations/vaccines-and-pregnancy/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vaccinations/vaccines-and-pregnancy/",
+      "title": "Vaccines and Pregnancy",
+      "catalog_title": "Vaccines and Pregnancy",
+      "recovered_title": "Vaccines and Pregnancy",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Kendall Nelson",
+      "displayed_date": "August 1, 2018",
+      "modified_metadata": {
+        "article:modified_time": "2022-05-05T19:23:54+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:08.740671+00:00",
+      "http_status": "200",
+      "html_sha256": "dd75d24844f719b23a64458a764cdaba293b487c517741dc6e4d80e30e8cac9c",
+      "text_sha256": "3e3033c7eb744a145d109dd8ebad1bc47e19b097d018ae9b55a0fed1f69ec741",
+      "characters": 28049,
+      "catalog_characters": 28266,
+      "lines": 82,
+      "ranges_inclusive": [
+        [
+          1,
+          82
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 14,
+      "remaining_87_index": 64,
+      "catalog_index": 1352,
+      "id": 16684,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vaccinations/why-we-need-to-reexamine-the-riskbenefit-tradeoffs-of-vaccines/",
+      "final_url": "https://www.westonaprice.org/health-topics/vaccinations/why-we-need-to-reexamine-the-riskbenefit-tradeoffs-of-vaccines/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vaccinations/why-we-need-to-reexamine-the-riskbenefit-tradeoffs-of-vaccines/",
+      "title": "Why We Need to Reexamine the Risk/Benefit Tradeoffs of Vaccines",
+      "catalog_title": "Why We Need to Reexamine the Risk/Benefit Tradeoffs of Vaccines",
+      "recovered_title": "Why We Need to Reexamine the Risk/Benefit Tradeoffs of Vaccines",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Stephanie Seneff, PhD",
+      "displayed_date": "July 29, 2015",
+      "modified_metadata": {
+        "article:modified_time": "2022-05-05T19:28:33+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:09.809199+00:00",
+      "http_status": "200",
+      "html_sha256": "4afe11e68a273194e9052e7d415415e7b49efbc60b78c8b562a56624e014f5ef",
+      "text_sha256": "58afa90ff69dddb5edff9b3075100a6e99c188f7be079fb932c96412bc69ff92",
+      "characters": 33712,
+      "catalog_characters": 34000,
+      "lines": 87,
+      "ranges_inclusive": [
+        [
+          1,
+          87
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 15,
+      "remaining_87_index": 65,
+      "catalog_index": 1354,
+      "id": 49584,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vaccines-in-food/",
+      "final_url": "https://www.westonaprice.org/health-topics/vaccines-in-food/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vaccines-in-food/",
+      "title": "Vaccines In Food",
+      "catalog_title": "Vaccines In Food",
+      "recovered_title": "Vaccines In Food",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Kendall Nelson",
+      "displayed_date": "August 15, 2026",
+      "modified_metadata": {
+        "article:modified_time": "2026-11-16T21:58:09+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:09.587610+00:00",
+      "http_status": "200",
+      "html_sha256": "5d3a0bee289709cccb1b234a64f7dd9cdbfe0d42e45bd44d71407da7d4233eca",
+      "text_sha256": "f4c3b132fdfbf5a40ecc687550e403fa6a3aff58ab7c8521fabbbcdfea12b96d",
+      "characters": 24160,
+      "catalog_characters": 24338,
+      "lines": 65,
+      "ranges_inclusive": [
+        [
+          1,
+          65
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 16,
+      "remaining_87_index": 66,
+      "catalog_index": 1363,
+      "id": 2714,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/living-with-phytic-acid/",
+      "final_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/living-with-phytic-acid/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/living-with-phytic-acid/",
+      "title": "Living With Phytic Acid",
+      "catalog_title": "Living With Phytic Acid",
+      "recovered_title": "Living With Phytic Acid",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Ramiel Nagel",
+      "displayed_date": "March 26, 2010",
+      "modified_metadata": {
+        "article:modified_time": "2026-07-07T15:46:02+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:12.171079+00:00",
+      "http_status": "200",
+      "html_sha256": "92b62eb373b0cb458558ff4602c37d4b7c57006a5b831742c643efd44f797f9c",
+      "text_sha256": "a57e35b22bb52ebee743c28b63f7d88d66d5327cb5dfb9cf20e43a60209701fa",
+      "characters": 63816,
+      "catalog_characters": 64782,
+      "lines": 465,
+      "ranges_inclusive": [
+        [
+          1,
+          465
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 17,
+      "remaining_87_index": 67,
+      "catalog_index": 1364,
+      "id": 6620,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/myths-of-vegetarianism/",
+      "final_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/myths-of-vegetarianism/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/myths-of-vegetarianism/",
+      "title": "Myths of Vegetarianism",
+      "catalog_title": "Myths of Vegetarianism",
+      "recovered_title": "Myths of Vegetarianism",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Stephen Byrnes, ND, RNCP",
+      "displayed_date": "December 31, 2002",
+      "modified_metadata": {
+        "article:modified_time": "2023-12-11T22:13:00+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:13.027720+00:00",
+      "http_status": "200",
+      "html_sha256": "616fba121d333ade7139f20a6b024b376f2bbbf5799c8e4552023fba56f9f68e",
+      "text_sha256": "1baddef350792e4b809b956435c098e9042ab137e7f68f35580f285f7b2ff232",
+      "characters": 98856,
+      "catalog_characters": 99588,
+      "lines": 336,
+      "ranges_inclusive": [
+        [
+          1,
+          336
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 18,
+      "remaining_87_index": 68,
+      "catalog_index": 1365,
+      "id": 2708,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/plants-bite-back/",
+      "final_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/plants-bite-back/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/plants-bite-back/",
+      "title": "Plants Bite Back",
+      "catalog_title": "Plants Bite Back",
+      "recovered_title": "Plants Bite Back",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Kaayla Daniel",
+      "displayed_date": "March 29, 2010",
+      "modified_metadata": {
+        "article:modified_time": "2023-04-17T13:58:13+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:13.381891+00:00",
+      "http_status": "200",
+      "html_sha256": "4e8152afec1bc54e3bfdb3fdfa50f5b9fffdf452f0435a0373e4fb390fbd6d33",
+      "text_sha256": "8d3ed38b99bd2ca34ddae6736347ffc858bf10c1d554ae9c02e4da1d62306989",
+      "characters": 49384,
+      "catalog_characters": 49807,
+      "lines": 174,
+      "ranges_inclusive": [
+        [
+          1,
+          174
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 19,
+      "remaining_87_index": 69,
+      "catalog_index": 1369,
+      "id": 12306,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/to-gluten-or-not-to-gluten/",
+      "final_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/to-gluten-or-not-to-gluten/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/to-gluten-or-not-to-gluten/",
+      "title": "To Gluten or Not to Gluten?",
+      "catalog_title": "To Gluten or Not to Gluten?",
+      "recovered_title": "To Gluten or Not to Gluten?",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Maria Atwood",
+      "displayed_date": "July 8, 2014",
+      "modified_metadata": {
+        "article:modified_time": "2018-02-20T22:18:58+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:14.993682+00:00",
+      "http_status": "200",
+      "html_sha256": "0d0cfc96fd718636477f7bfe510ca4cfb4ec052ae31b007fd1379893546bf4e1",
+      "text_sha256": "14ddc107f4e0c6a31d86764be80975580864f4efb5b8f1af5a873c94216dbd7a",
+      "characters": 28860,
+      "catalog_characters": 29109,
+      "lines": 86,
+      "ranges_inclusive": [
+        [
+          1,
+          86
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 20,
+      "remaining_87_index": 70,
+      "catalog_index": 1370,
+      "id": 3332,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/vegetarianism-and-nutrient-deficiencies/",
+      "final_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/vegetarianism-and-nutrient-deficiencies/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vegetarianism-and-plant-foods/vegetarianism-and-nutrient-deficiencies/",
+      "title": "Vegetarianism and Nutrient Deficiencies",
+      "catalog_title": "Vegetarianism and Nutrient Deficiencies",
+      "recovered_title": "Vegetarianism and Nutrient Deficiencies",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Christopher Masterjohn",
+      "displayed_date": "May 7, 2009",
+      "modified_metadata": {
+        "article:modified_time": "2023-12-11T22:10:21+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:14.088682+00:00",
+      "http_status": "200",
+      "html_sha256": "d3a750518221651c5c05301485b617d90050d80351d982aa1e1b051d4c059e70",
+      "text_sha256": "f2e8e360a87b3b1e9be0cd006a78bfc1388e9c6129c001afd1473ed43b85a513",
+      "characters": 50016,
+      "catalog_characters": 50750,
+      "lines": 483,
+      "ranges_inclusive": [
+        [
+          1,
+          483
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 21,
+      "remaining_87_index": 71,
+      "catalog_index": 1378,
+      "id": 32838,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vitamin-a-mazing/",
+      "final_url": "https://www.westonaprice.org/health-topics/vitamin-a-mazing/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vitamin-a-mazing/",
+      "title": "Vitamin A-mazing",
+      "catalog_title": "Vitamin A-mazing",
+      "recovered_title": "Vitamin A-mazing",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Pam Schoenfeld",
+      "displayed_date": "April 20, 2020",
+      "modified_metadata": {
+        "article:modified_time": "2024-07-10T14:31:01+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:13.829448+00:00",
+      "http_status": "200",
+      "html_sha256": "73754b94d03d18e2f060e0a288a0423aa428a7392d68927f7266af77b1134ede",
+      "text_sha256": "84843aedc428fae28d4e0d78db5014857ccfcf132e72403bc2ae62f7118a00c2",
+      "characters": 57426,
+      "catalog_characters": 57814,
+      "lines": 162,
+      "ranges_inclusive": [
+        [
+          1,
+          162
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 22,
+      "remaining_87_index": 72,
+      "catalog_index": 1381,
+      "id": 3775,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/vitamins-for-fetal-development-conception-to-birth/",
+      "final_url": "https://www.westonaprice.org/health-topics/vitamins-for-fetal-development-conception-to-birth/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/vitamins-for-fetal-development-conception-to-birth/",
+      "title": "Vitamins for Fetal Development: Conception to Birth",
+      "catalog_title": "Vitamins for Fetal Development: Conception to Birth",
+      "recovered_title": "Vitamins for Fetal Development: Conception to Birth",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Christopher Masterjohn",
+      "displayed_date": "July 23, 2013",
+      "modified_metadata": {
+        "article:modified_time": "2026-06-17T19:51:42+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:15.871005+00:00",
+      "http_status": "200",
+      "html_sha256": "5a68bb9955aa584725086b3ce088296477efdc23748182f83dc93874c823f4da",
+      "text_sha256": "0d6c0948ba1ed8d790828b5cc66e9ea01469b0ce59952439bde8804da54b4d19",
+      "characters": 54734,
+      "catalog_characters": 55721,
+      "lines": 458,
+      "ranges_inclusive": [
+        [
+          1,
+          458
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 23,
+      "remaining_87_index": 73,
+      "catalog_index": 1384,
+      "id": 44637,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/weight-loss-medical-mayhem-decades-of-harm-and-hype/",
+      "final_url": "https://www.westonaprice.org/health-topics/weight-loss-medical-mayhem-decades-of-harm-and-hype/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/weight-loss-medical-mayhem-decades-of-harm-and-hype/",
+      "title": "Weight Loss Medical Mayhem: Decades of Harm and Hype",
+      "catalog_title": "Weight Loss Medical Mayhem: Decades of Harm and Hype",
+      "recovered_title": "Weight Loss Medical Mayhem: Decades of Harm and Hype",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Merinda Teller, MPH, PhD",
+      "displayed_date": "December 7, 2023",
+      "modified_metadata": {
+        "article:modified_time": "2023-12-08T19:31:15+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:15.011464+00:00",
+      "http_status": "200",
+      "html_sha256": "d387be421bf51f071700f7bb61f50b9af3df3786052698d3d93e0b5467c3ee0a",
+      "text_sha256": "17917ef68f6609d358e6937cd299a02a001b63b07028ef7ac52e4cecc0316780",
+      "characters": 39200,
+      "catalog_characters": 39562,
+      "lines": 131,
+      "ranges_inclusive": [
+        [
+          1,
+          131
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 24,
+      "remaining_87_index": 74,
+      "catalog_index": 1387,
+      "id": 43553,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/what-makes-us-sick/",
+      "final_url": "https://www.westonaprice.org/health-topics/what-makes-us-sick/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/what-makes-us-sick/",
+      "title": "What Does—and Doesn’t— Make Us Sick",
+      "catalog_title": "What Does—and Doesn’t— Make Us Sick",
+      "recovered_title": "What Does—and Doesn’t— Make Us Sick",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Tom Cowan",
+      "displayed_date": "May 2, 2023",
+      "modified_metadata": {
+        "article:modified_time": "2023-06-27T18:30:57+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:17.668109+00:00",
+      "http_status": "200",
+      "html_sha256": "80dcf895ce2704778f45b6856d932cd0c1f6939331be65eef0d52381568f1166",
+      "text_sha256": "c0caec4d191b86aed956dea6391a7205bf01fb242ff7be74d945468e2aa8a59d",
+      "characters": 48116,
+      "catalog_characters": 48589,
+      "lines": 201,
+      "ranges_inclusive": [
+        [
+          1,
+          201
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 25,
+      "remaining_87_index": 75,
+      "catalog_index": 1391,
+      "id": 6457,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/why-broth-is-beautiful-essential-roles-for-proline-glycine-and-gelatin/",
+      "final_url": "https://www.westonaprice.org/health-topics/why-broth-is-beautiful-essential-roles-for-proline-glycine-and-gelatin/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/why-broth-is-beautiful-essential-roles-for-proline-glycine-and-gelatin/",
+      "title": "Why Broth is Beautiful: Essential Roles for Proline, Glycine and Gelatin",
+      "catalog_title": "Why Broth is Beautiful: Essential Roles for Proline, Glycine and Gelatin",
+      "recovered_title": "Why Broth is Beautiful: Essential Roles for Proline, Glycine and Gelatin",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Kaayla Daniel",
+      "displayed_date": "June 18, 2003",
+      "modified_metadata": {
+        "article:modified_time": "2023-12-11T22:28:53+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:15.413398+00:00",
+      "http_status": "200",
+      "html_sha256": "eae786457e6611ecd7ad0173dceaff2c1162fef3a3ce3d346e040e09f5b7435b",
+      "text_sha256": "bc5bb46bb0fbe26990d7fa37763a3326d674604803c285a4a80eebec34a42f05",
+      "characters": 48357,
+      "catalog_characters": 48785,
+      "lines": 155,
+      "ranges_inclusive": [
+        [
+          1,
+          155
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 26,
+      "remaining_87_index": 76,
+      "catalog_index": 1393,
+      "id": 31615,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/why-we-cook-and-chop-ferment-salt-and-dry/",
+      "final_url": "https://www.westonaprice.org/health-topics/why-we-cook-and-chop-ferment-salt-and-dry/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/why-we-cook-and-chop-ferment-salt-and-dry/",
+      "title": "Why We Cook. . . and Chop, Ferment, Salt and Dry",
+      "catalog_title": "Why We Cook. . . and Chop, Ferment, Salt and Dry",
+      "recovered_title": "Why We Cook. . . and Chop, Ferment, Salt and Dry",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Sally Fallon Morell",
+      "displayed_date": "October 28, 2019",
+      "modified_metadata": {
+        "article:modified_time": "2023-12-11T22:58:45+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:16.645325+00:00",
+      "http_status": "200",
+      "html_sha256": "7da7ebe09481af3b9090dc7d2489fef9ddc85f6585f18b96225356e9e5755c3a",
+      "text_sha256": "b08066e27df166dc248b0869f5bef17948ca1010dcf64325ec78e6f981847171",
+      "characters": 30843,
+      "catalog_characters": 31140,
+      "lines": 103,
+      "ranges_inclusive": [
+        [
+          1,
+          103
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 27,
+      "remaining_87_index": 77,
+      "catalog_index": 1398,
+      "id": 23605,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/wisely-stocked-kitchen/",
+      "final_url": "https://www.westonaprice.org/health-topics/wisely-stocked-kitchen/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/wisely-stocked-kitchen/",
+      "title": "The Wisely Stocked Kitchen",
+      "catalog_title": "The Wisely Stocked Kitchen",
+      "recovered_title": "The Wisely Stocked Kitchen",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Maureen Diaz",
+      "displayed_date": "April 18, 2017",
+      "modified_metadata": {
+        "article:modified_time": "2017-05-10T13:09:43+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:17.146772+00:00",
+      "http_status": "200",
+      "html_sha256": "c1aec7d4fbf995517f85caaf1ca4c39877fe2f91e3d055ccfe1ec3832db83af0",
+      "text_sha256": "0dc92ea9a2a6e3406d114548cc2446f9bd4e43e0cc8ac1abb199acb4ab432e90",
+      "characters": 10310,
+      "catalog_characters": 10461,
+      "lines": 46,
+      "ranges_inclusive": [
+        [
+          1,
+          46
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 28,
+      "remaining_87_index": 78,
+      "catalog_index": 1402,
+      "id": 6938,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/womens-health/mammography-madness/",
+      "final_url": "https://www.westonaprice.org/health-topics/womens-health/mammography-madness/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/womens-health/mammography-madness/",
+      "title": "Mammography Madness",
+      "catalog_title": "Mammography Madness",
+      "recovered_title": "Mammography Madness",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "William Campbell Douglass",
+      "displayed_date": "December 31, 2000",
+      "modified_metadata": {
+        "article:modified_time": "2018-07-21T22:35:24+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:18.358632+00:00",
+      "http_status": "200",
+      "html_sha256": "6bab618a40710981973bfced33e2e56f84ff4d176883c941e326d92efb2109ab",
+      "text_sha256": "589d908170f015b062b138722bf94b0906139ebdbe80e54975cbe90968778005",
+      "characters": 11249,
+      "catalog_characters": 11382,
+      "lines": 41,
+      "ranges_inclusive": [
+        [
+          1,
+          41
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 29,
+      "remaining_87_index": 79,
+      "catalog_index": 1403,
+      "id": 6927,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/womens-health/natural-pms-relief/",
+      "final_url": "https://www.westonaprice.org/health-topics/womens-health/natural-pms-relief/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/womens-health/natural-pms-relief/",
+      "title": "Natural PMS Relief",
+      "catalog_title": "Natural PMS Relief",
+      "recovered_title": "Natural PMS Relief",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Stephen Byrnes, ND, RNCP",
+      "displayed_date": "December 31, 2000",
+      "modified_metadata": {
+        "article:modified_time": "2017-07-18T06:32:49+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:18.152978+00:00",
+      "http_status": "200",
+      "html_sha256": "fb9b473ca96519dc683531235ab828e9a15f6970030f0fd48eb859b7d7d60c36",
+      "text_sha256": "afa3d24945a4afe15e54931569f12657e98f891e816cb39cd49edbad9f5e9405",
+      "characters": 8252,
+      "catalog_characters": 8486,
+      "lines": 55,
+      "ranges_inclusive": [
+        [
+          1,
+          55
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 30,
+      "remaining_87_index": 80,
+      "catalog_index": 1405,
+      "id": 29837,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/womens-health/nourishing-the-new-mother-the-lost-art-of-postpartum-care/",
+      "final_url": "https://www.westonaprice.org/health-topics/womens-health/nourishing-the-new-mother-the-lost-art-of-postpartum-care/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/womens-health/nourishing-the-new-mother-the-lost-art-of-postpartum-care/",
+      "title": "Nourishing the New Mother: The Lost Art of Postpartum Care",
+      "catalog_title": "Nourishing the New Mother: The Lost Art of Postpartum Care",
+      "recovered_title": "Nourishing the New Mother: The Lost Art of Postpartum Care",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Jennifer Grafiada",
+      "displayed_date": "February 1, 2019",
+      "modified_metadata": {
+        "article:modified_time": "2023-12-11T22:37:50+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:18.698309+00:00",
+      "http_status": "200",
+      "html_sha256": "a0f3057f7515b0fffcb08f648bae25e9018ff8d0189a803a3b16ab995d1d7bc9",
+      "text_sha256": "8c9448255b11e4dfc56eba13e9b9e49e02e3e3850191913e12914a14628c4bdb",
+      "characters": 16819,
+      "catalog_characters": 17037,
+      "lines": 63,
+      "ranges_inclusive": [
+        [
+          1,
+          63
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 31,
+      "remaining_87_index": 81,
+      "catalog_index": 1407,
+      "id": 18512,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/womens-health/pursuit-healthy-fertility-via-fertility-awareness/",
+      "final_url": "https://www.westonaprice.org/health-topics/womens-health/pursuit-healthy-fertility-via-fertility-awareness/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/womens-health/pursuit-healthy-fertility-via-fertility-awareness/",
+      "title": "In Pursuit of Healthy Fertility Via Fertility Awareness",
+      "catalog_title": "In Pursuit of Healthy Fertility Via Fertility Awareness",
+      "recovered_title": "In Pursuit of Healthy Fertility Via Fertility Awareness",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Vicki Braun",
+      "displayed_date": "August 15, 2016",
+      "modified_metadata": {
+        "article:modified_time": "2016-08-29T23:34:40+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:19.399924+00:00",
+      "http_status": "200",
+      "html_sha256": "824adca30565f186c05127ec8151c0b3fdcd4e707585e26ce0d391f0295761d5",
+      "text_sha256": "fd20bbcc7438eb11be0be16c85356f70966748fe7dd649a91a6a006d1761bed9",
+      "characters": 33095,
+      "catalog_characters": 33436,
+      "lines": 120,
+      "ranges_inclusive": [
+        [
+          1,
+          120
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 32,
+      "remaining_87_index": 82,
+      "catalog_index": 1408,
+      "id": 18517,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/womens-health/recovery-birth-control-pill-hormonal-contraceptives/",
+      "final_url": "https://www.westonaprice.org/health-topics/womens-health/recovery-birth-control-pill-hormonal-contraceptives/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/womens-health/recovery-birth-control-pill-hormonal-contraceptives/",
+      "title": "Recovery from the Birth Control Pill & Other Hormonal Contraceptives",
+      "catalog_title": "Recovery from the Birth Control Pill & Other Hormonal Contraceptives",
+      "recovered_title": "Recovery from the Birth Control Pill & Other Hormonal Contraceptives",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Kim Schuette",
+      "displayed_date": "August 15, 2016",
+      "modified_metadata": {
+        "article:modified_time": "2019-08-20T01:11:25+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:19.593022+00:00",
+      "http_status": "200",
+      "html_sha256": "f9ca3e6c46dba3fe693e8efd23eff424aadda3b49a08c878a991ba27d8db56a9",
+      "text_sha256": "d97a42e4382b843d02b11c7b3ff0994e37fa3a8580be5e68f7b97cadd12ff7ab",
+      "characters": 13911,
+      "catalog_characters": 14118,
+      "lines": 49,
+      "ranges_inclusive": [
+        [
+          1,
+          49
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 33,
+      "remaining_87_index": 83,
+      "catalog_index": 1410,
+      "id": 6928,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/womens-health/three-case-histories/",
+      "final_url": "https://www.westonaprice.org/health-topics/womens-health/three-case-histories/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/womens-health/three-case-histories/",
+      "title": "Three Case Histories",
+      "catalog_title": "Three Case Histories",
+      "recovered_title": "Three Case Histories",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Trudy Fallon and Mary Cupp",
+      "displayed_date": "December 31, 2000",
+      "modified_metadata": {
+        "article:modified_time": "2016-08-29T23:34:41+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:19.523427+00:00",
+      "http_status": "200",
+      "html_sha256": "13ad18bf6c4f2fd404d18c54f82c363438c79f3c3505288ca6dfa3e22ab2fa2f",
+      "text_sha256": "083163b9cddc1a70631f629397488e201dc927ba0d5120601a39a999b8aa0d5b",
+      "characters": 19029,
+      "catalog_characters": 19200,
+      "lines": 51,
+      "ranges_inclusive": [
+        [
+          1,
+          51
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 34,
+      "remaining_87_index": 84,
+      "catalog_index": 1411,
+      "id": 6937,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/womens-health/wise-choices-healthy-bodies-diet-for-the-prevention-of-womens-diseases/",
+      "final_url": "https://www.westonaprice.org/health-topics/womens-health/wise-choices-healthy-bodies-diet-for-the-prevention-of-womens-diseases/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/womens-health/wise-choices-healthy-bodies-diet-for-the-prevention-of-womens-diseases/",
+      "title": "Wise Choices, Healthy Bodies: Diet for the Prevention of Women’s Diseases",
+      "catalog_title": "Wise Choices, Healthy Bodies: Diet for the Prevention of Women’s Diseases",
+      "recovered_title": "Wise Choices, Healthy Bodies: Diet for the Prevention of Women’s Diseases",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "December 31, 2000",
+      "modified_metadata": {
+        "article:modified_time": "2018-07-20T19:28:07+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:20.330684+00:00",
+      "http_status": "200",
+      "html_sha256": "14e39107f4cc728b046333ae667d24b1eaec19b52f48cd33002d52c7d3f9fe05",
+      "text_sha256": "404eb59030f2edb8ea56b0a32eb59b03b827e73ef23057891dbac038d7ca9c4e",
+      "characters": 49146,
+      "catalog_characters": 49594,
+      "lines": 168,
+      "ranges_inclusive": [
+        [
+          1,
+          168
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 35,
+      "remaining_87_index": 85,
+      "catalog_index": 1412,
+      "id": 23524,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/yes-we-can/",
+      "final_url": "https://www.westonaprice.org/health-topics/yes-we-can/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/yes-we-can/",
+      "title": "Yes We Can",
+      "catalog_title": "Yes We Can",
+      "recovered_title": "Yes We Can",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "April 11, 2017",
+      "modified_metadata": {
+        "article:modified_time": "2018-10-10T18:16:29+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:20.390732+00:00",
+      "http_status": "200",
+      "html_sha256": "3482cd7a69303fbf74acd4b5edee146922b3046a32c2ecd561f4946f6db35949",
+      "text_sha256": "5dd8d40f10ae7a843de031104fdf7fd9eb4489fc357a1e58f0a26814a91be678",
+      "characters": 9996,
+      "catalog_characters": 10100,
+      "lines": 32,
+      "ranges_inclusive": [
+        [
+          1,
+          32
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": false,
+      "current_short_body_classification": null,
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "artigo textual (com boxes/referências quando presentes)"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    },
+    {
+      "batch_number": 8,
+      "batch_index": 36,
+      "remaining_87_index": 86,
+      "catalog_index": 1413,
+      "id": 27723,
+      "id_type": "int",
+      "requested_url": "https://www.westonaprice.org/health-topics/yes-you-can/",
+      "final_url": "https://www.westonaprice.org/health-topics/yes-you-can/",
+      "canonical_url": "https://www.westonaprice.org/health-topics/yes-you-can/",
+      "title": "Yes You Can!",
+      "catalog_title": "Yes You Can!",
+      "recovered_title": "Yes You Can!",
+      "recovered_title_missing": false,
+      "body_title_text": null,
+      "author": "Administrator",
+      "displayed_date": "May 16, 2018",
+      "modified_metadata": {
+        "article:modified_time": "2018-05-28T22:20:23+00:00"
+      },
+      "retrieved_at_utc": "2026-11-26T01:26:23.315341+00:00",
+      "http_status": "200",
+      "html_sha256": "8d320a277cb8c57c9ae7d9b62a25357e271a4c809eea369832680d5d86fd1c40",
+      "text_sha256": "775cfbf08e70ff6fadcea21cdf7cdd38e51effeb47ec92f3acc40952a88650f3",
+      "characters": 304,
+      "catalog_characters": 382,
+      "lines": 15,
+      "ranges_inclusive": [
+        [
+          1,
+          15
+        ]
+      ],
+      "full_available_text_read": true,
+      "historical_full_body_claim_from_catalog": false,
+      "current_short_body": true,
+      "current_short_body_classification": "Corpo atual curto; sem reivindicação de artigo histórico integral.",
+      "extraction_human_read_flag_preserved": false,
+      "extraction_semantic_status_preserved": "not_started_acquisition_only",
+      "reading_ledger": "ledger-faixa-08-36.jsonl",
+      "ledger_identity_version_evidence": {
+        "body_kind": "índice/landing"
+      },
+      "ledger_reading_limits": [
+        "HTML apenas hash físico, sem leitura semântica nesta tarefa",
+        "Imagens/figuras não textuais, comentários, mídia, destinos dos links e estudos externos não lidos",
+        "Aquisição e seus metadados preservados; a flag human_read:false de recuperacao.jsonl descreve a extração original, não esta leitura",
+        "Avaliação documental de alegações e receitas; sem validação clínica, análise química ou inferência de dose por caldo",
+        "Rótulos antigos/catalogados não provam identidade de corpo histórico ou equivalência de materiais",
+        "Corpo curto é índice/landing de13rótulos entre marcadores Print post, sem artigo histórico detalhado"
+      ],
+      "already_incorporated_before_full_batch_publication": false,
+      "divergence_notes": [
+        "Corpo atual curto: integralidade deste TXT não comprova leitura de artigo histórico integral."
+      ],
+      "coverage": "TXT atual integral; HTML só hash; imagens/mídia/comentários/destinos de referências excluídos."
+    }
+  ]
+}

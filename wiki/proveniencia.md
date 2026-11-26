@@ -161,10 +161,13 @@ Os [doisTXT pós142](../raw/youtube-mda-pos142-2-2026-11-25.json) têm27 arquivo
 O [complemento de balanço hormonal](fontes/wapf-hormonal-tabelas.md) distingue texto antes lido de11 imagens recuperadas/lidas depois. As medidas de arroz não foram convertidas em volume de caldo; porção de cardápio não virou dose clínica ou composição nutricional. Sete tabelas com29 linhas/78 células lidas,11 hashes físicos conferidos e três tabelas culinárias revistas visualmente pelo revisor.
 
 
-A [nota de Allbritton 2010](fontes/allbritton-2010-tutano.md) classifica29 µgK2/100g como alegação secundária sem laudo recuperado, distinta de 3 µgMK-4 numa amostra Eurofins. Formas/amostras/rastreabilidade não foram fundidas; nenhum número foi transferido ao caldo. A fonte pertence ao lote7, sem dupla contagem posterior.
+A [nota de Allbritton 2010](fontes/allbritton-2010-tutano.md) classifica29 µgK2/100g como alegação secundária sem laudo recuperado, distinta de 3 µgMK-4 numa amostra Eurofins. Formas/amostras/rastreabilidade não foram fundidas; nenhum número foi transferido ao caldo. A fonte pertence ao lote 7, sem dupla contagem posterior.
 
 
-A [faixa29 do lote7](fontes/wapf-health-lote7-faixa29.md) acrescenta29 URLs às306 anteriores, com58 hashes físicos, faixas integrais e caderno completo revisados. Allbritton já está incluída. Traduções/URLs não viraram estudos independentes; a hipótese de gelificação/glifosato e analogias de água/EMF não foram tratadas como experimentos de caldo. [Fórmulas e adaptações](temas/receitas-wapf-medidas-health7a.md)
+A [faixa29 do lote 7](fontes/wapf-health-lote7-faixa29.md) acrescenta29 URLs às306 anteriores, com58 hashes físicos, faixas integrais e caderno completo revisados. Allbritton já está incluída. Traduções/URLs não viraram estudos independentes; a hipótese de gelificação/glifosato e analogias de água/EMF não foram tratadas como experimentos de caldo. [Fórmulas e adaptações](temas/receitas-wapf-medidas-health7a.md)
 
 
 As [duas páginas da conferência de 2009](fontes/wapf-conferencia-2009.md) têm4 hashes físicos, identidades WP3186/4288 e faixas integrais conferidos; rótulo local não foi fingido como WPID. Parecer e caderno inteiros revisados;11 fichas pertinentes preservam medidas/ausências. Resumos de palestras continuam publicidade/descritivos, sem prova de eficácia ou composição. Classeother separada de health.
+
+
+O [fechamento393 health](fontes/wapf-health-lotes7-8.md) confere a união exata dosURLs positivos da versão fixada,786 hashes e393 faixas completas nos ledgers/baselines. Auditoria mecânica não foi fingida como nova leitura semântica.29 jáincorporados estão dentro dos 87dos lotes 7/8; avanço58, sem duplicar Allbritton. Os dois cadernos finais tiveram revisão semântica independente integral e correções focais, com [versões/erratas](../raw/wapf-health-cadernos-7b-8-qa-2026-11-25.json) e originais preservados. Um índice/landing não virou artigo, e nenhuma tradução virou estudo independente.

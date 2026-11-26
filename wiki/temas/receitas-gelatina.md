@@ -265,3 +265,6 @@ As [duas panna cottas de Wise Traditions2021](receitas-wapf-medidas-health7a.md)
 
 
 O [cheesecake da conferência WAPF 2009](receitas-wapf-conferencia-2009.md#8--wapf-raw-cheesecake-with-raspberry-coulis-l295313) usa gelatina, tâmaras, mel e coulis adoçado. A ficha preserva12–16 porções e todas as etapas disponíveis; retirar tâmaras ou trocar adoçantes seria outra fórmula, sem equivalência de textura testada.
+
+
+As [fichas de potted head e meat jelly do lote8](receitas-wapf-medidas-health8.md) preservam as unidades históricas e ausências das fontes. As [descrições romenas de piftie/toba](receitas-wapf-medidas-health7b.md) não dão as medidas do lote de teste desta wiki; fontes e adaptação permanecem separadas.

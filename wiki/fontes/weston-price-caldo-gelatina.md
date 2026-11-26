@@ -286,9 +286,14 @@ A lacuna visual do45 foi preenchida depois por [sete tabelas e quatro figuras](w
 
 ## Lote7: primeira faixa de 29 TXT
 
-A [nota dos29 textos](wapf-health-lote7-faixa29.md) e o [caderno culinário](../temas/receitas-wapf-medidas-health7a.md) registram medidas, versões e adaptações. Alegações de tutano/K2, glifosato/gelificação,EMF e água estruturada permanecem separadas de análise composicional ou ensaio de caldo. O levantamento de líderes WAPF é autorreferido e multicomponente. São29 URLs novas neste conjunto de provas, incluindo a nota antecipada Allbritton, sem dupla contagem.
+A [nota dos 29 textos](wapf-health-lote7-faixa29.md) e o [caderno culinário](../temas/receitas-wapf-medidas-health7a.md) registram medidas, versões e adaptações. Alegações de tutano/K2, glifosato/gelificação,EMF e água estruturada permanecem separadas de análise composicional ou ensaio de caldo. O levantamento de líderes WAPF é autorreferido e multicomponente. São29 URLs novas neste conjunto de provas, incluindo a nota antecipada Allbritton, sem dupla contagem.
 
 
 ## Conferência de 2009: programa e receitas separados
 
 As [duas páginas completas](wapf-conferencia-2009.md) acrescentam leitura documentada da classe other, sem alterar o recorte393 health. O [caderno com 11 fichas](../temas/receitas-wapf-conferencia-2009.md) amplia o resumo anterior da página. Descrição de palestra não foi tratada como transcrição, ensaio clínico ou laudo de vitaminas.
+
+
+## Conclusão textual do catálogo health393
+
+Os [lotes completos 7/8](wapf-health-lotes7-8.md) fecham a leitura disponível dos 393 URLs positivos do catálogo fixo. A auditoria atual conferiu786 hashes e faixas completas; isso não amplia o escopo para imagens/mídias, estudos externos ou todo o site. Os [cadernos21](../temas/receitas-wapf-medidas-health7b.md) e [37](../temas/receitas-wapf-medidas-health8.md) passaram por revisão independente e correções focais, com medidas e adaptações separadas. A declaração anterior de29está incluída, sem duplicação.

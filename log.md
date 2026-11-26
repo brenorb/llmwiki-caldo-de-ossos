@@ -1043,3 +1043,8 @@ O [corte de13](raw/youtube-mda-pos129-13-2026-11-25.json) acrescenta9.851 linhas
 ## [2026-11-25] ingestão | Medidas culinárias do quinto lote WAPF
 
 Incorporado o [caderno com chili, ramen, sopas, gelatina e usos incompletos](wiki/temas/receitas-wapf-medidas-health5.md). Revisadas todas as 31.277 posições de caracteres do rascunho culinário contra os pareceres previamente produzidos; mantidas medidas originais, ausências e adaptações não testadas. O chili escolar foi distinguido do chili de outra URL; gelatina com suco/mel não foi classificada como sem açúcar.
+
+
+## [2026-11-25] ingestão | Referência de catalase e cabelos: Al-Malki2015
+
+Incorporada a [leitura integral do experimento pancreático](wiki/fontes/al-malki-2015-lisina-pancreatite.md), com tabela de catalase, problemas de dose/grupos e financiamento. Atualizada a síntese de cabelos para impedir extrapolação de tecido/desfecho. Originais e derivados preservados;12 arquivos conferidos por tamanho eSHA256.

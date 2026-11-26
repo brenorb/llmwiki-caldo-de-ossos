@@ -48,3 +48,8 @@ Mark Sisson citou o estudo de Fatemi Naieni et al. ao discutir cobre e canície 
 ## Atualização de modelos e registros
 
 O [estudo celular de Lee et al.](../fontes/lee-2025-condroitina-melanina.md), consultado apenas pelo resumo, examina condroitina em modelos de pele, sem tratamento oral ou desfecho capilar humano. O [NCT07839494](../fontes/nct07839494-registro-pigmentacao.md) prevê avaliar produtos comerciais e percentual de cabelos grisalhos, mas ainda não apresenta resultados. Não foi tratado como ensaio de cobre isolado, caldo ou B9. [Estratégia, exclusões e acesso](../../raw/pigmentacao-atualizacao-2026-11-25.json)
+
+
+## Catalase: conferir o tecido e o desfecho
+
+A referência136 de *High Lysine Diet* (WAPF) é um [experimento de lisina em pancreatite de camundongos](../fontes/al-malki-2015-lisina-pancreatite.md). Sua catalase foi medida no pâncreas; não houve análise de cabelos, pigmento, B9 ou caldo. Na tabela, um dos grupos com lisina tem63±2,2U/mg contra65±7 no modelo sem lisina: a descrição de aumento uniforme também não corresponde aos números. Essa citação não comprova repigmentação capilar.

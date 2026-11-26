@@ -135,3 +135,6 @@ Os [treze TXT adicionais MDA](../raw/youtube-mda-pos129-13-2026-11-25.json) têm
 
 
 O [caderno culinário do quinto lote](temas/receitas-wapf-medidas-health5.md) deriva dos três pareceres integrais do [lote50](../raw/wapf-health-lote5-50-2026-11-25.tsv), revisados em texto. Preserva medidas, etapas, rendimento informado e lacunas; distingue alternativas dos autores de versões propostas pela wiki. Não soma como novas receitas as fichas já catalogadas nem adota conservação histórica como orientação sanitária.
+
+
+A [conferência integral de Al-Malki2015](fontes/al-malki-2015-lisina-pancreatite.md), referência136 de *High Lysine Diet*, preserva dose divergente, grupo/cronologia ambíguos e catalase daTabela2. Atividade pancreática em camundongos não foi convertida em resultado capilar humano. Os12 hashes do [registro](../raw/al-malki-2015-acesso-2026-11-25.json) foram verificados.

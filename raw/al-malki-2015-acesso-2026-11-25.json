@@ -1,0 +1,131 @@
+{
+  "checked_date_local": "2026-11-25",
+  "timezone": "America/Sao_Paulo",
+  "manifest_created_utc": "2026-11-26T00:48:09.629401+00:00",
+  "title": "Suppression of acute pancreatitis by L-lysine in mice",
+  "author": "Abdulrahman L. Al-Malki",
+  "journal": "BMC Complementary and Alternative Medicine",
+  "volume": "15",
+  "article": "193",
+  "published": "2015-06-23",
+  "doi": "10.1186/s12906-015-0729-x",
+  "pmid": "26100532",
+  "pmcid": "PMC4476087",
+  "license": {
+    "article": "Creative Commons Attribution 4.0",
+    "data": "CC0 unless otherwise stated"
+  },
+  "sources": [
+    {
+      "file": "springer-full.html",
+      "url": "https://link.springer.com/article/10.1186/s12906-015-0729-x",
+      "status": "original full HTML saved and read"
+    },
+    {
+      "file": "pmc-full.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4476087/",
+      "status": "original full HTML saved and read; web tool browser check page did not limit successful direct HTTP download"
+    },
+    {
+      "file": "article.pdf",
+      "url": "https://bmccomplementmedtherapies.biomedcentral.com/counter/pdf/10.1186/s12906-015-0729-x",
+      "status": "original official PDF saved,6 pages per pdfinfo;full text read;Tables1-2 and Figs1-4 visually checked"
+    },
+    {
+      "file": "pubmed-download-challenge.html",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26100532/",
+      "status": "direct download returned challenge HTML; official web search result used for identifiers,not claimed as integral record"
+    }
+  ],
+  "coverage": [
+    "Full six-page manuscript including methods,results,discussion,references,funding,conflicts",
+    "Both tables with all mean/SD values; all four pancreatic histology figures",
+    "No raw data or peer-review documents accessed; no data supplement found on article pages"
+  ],
+  "derivatives": [
+    "springer-full.txt",
+    "pmc-full.txt",
+    "article.txt",
+    "page-3.png",
+    "page-4.png",
+    "page-5.png",
+    "parecer.md"
+  ],
+  "postpublication_check": {
+    "queries": [
+      "\"10.1186/s12906-015-0729-x\" correction",
+      "\"Suppression of acute pancreatitis by L-lysine\" retraction OR erratum"
+    ],
+    "domains": [
+      "link.springer.com",
+      "pubmed.ncbi.nlm.nih.gov",
+      "pmc.ncbi.nlm.nih.gov"
+    ],
+    "result": "No specific notice found by limited checks; no universal integrity certification"
+  },
+  "scope": "One primary paper; no hair literature expansion; no dose conversion to humans; no wiki/git edits.",
+  "physical_manifest_verified_files": 12,
+  "files": [
+    {
+      "file": "article.pdf",
+      "bytes": 946113,
+      "sha256": "6096e3be65dfd4f356d4135a25914f462c3166e9611f8454830af7ef3557cebf"
+    },
+    {
+      "file": "article.txt",
+      "bytes": 33363,
+      "sha256": "ad510db0c7a9673ab200d04a6e84f39fb9edcfc57cc304c654ed771b5e910f17"
+    },
+    {
+      "file": "metadata.json",
+      "bytes": 2492,
+      "sha256": "322f6c8ebfd7f0a449df381b8d1816f54adadeffa8ebae0fb07c3053c9b1ba04"
+    },
+    {
+      "file": "page-3.png",
+      "bytes": 406248,
+      "sha256": "a668f45dea6232846fe6e51c83442c2822e2f85df110851e0d27bb56d6536471"
+    },
+    {
+      "file": "page-4.png",
+      "bytes": 567163,
+      "sha256": "25fa6d11922a1db422d1cabe408bacc0235f7b6fd6d2e496b91e4a10a97001c0"
+    },
+    {
+      "file": "page-5.png",
+      "bytes": 904728,
+      "sha256": "65be3026d214e0b9b4a89fe1cc231dc309e7d2d2e6122ff8b0dcbf2700a05470"
+    },
+    {
+      "file": "parecer.md",
+      "bytes": 9129,
+      "sha256": "e10f76430cb340209eedf9ad733cfa76763135d9e2c69cf8cb809d55ec6b6d72"
+    },
+    {
+      "file": "pmc-full.html",
+      "bytes": 148821,
+      "sha256": "4519c51eaf362464ffb6724f607aaa772c5ba92a6d05409d551b8a8f76724c16"
+    },
+    {
+      "file": "pmc-full.txt",
+      "bytes": 47188,
+      "sha256": "2dc3ed5ff822ed30b44d6504dc96e0f27a72044ef694cfaca13624decfc2c309"
+    },
+    {
+      "file": "pubmed-download-challenge.html",
+      "bytes": 5590,
+      "sha256": "bdfbc04dddc8d2bff898aa1ada095aeb3163d66b6a139289cbb8427a2fedfd89"
+    },
+    {
+      "file": "springer-full.html",
+      "bytes": 336466,
+      "sha256": "93660ccd2ffb1656576e2ffb3d036598b38684ecdca4b27bca15736cf7e2351a"
+    },
+    {
+      "file": "springer-full.txt",
+      "bytes": 105799,
+      "sha256": "49a1bfea1022d59a31c78625e24151e6bf5d10ee3e07d9c0f2e6355136b5ee3f"
+    }
+  ],
+  "local_paths_published": false
+}

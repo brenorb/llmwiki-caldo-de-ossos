@@ -245,3 +245,5 @@
 - [Xiao2016: bactéria recombinante e chumbo em ratos, sem teste de caldo](wiki/fontes/xiao-2016-lactococcus-chumbo.md)
 
 - [Treze entrevistas MDA adicionais: vozes, usos e limites](raw/youtube-mda-pos129-13-2026-11-25.json)
+
+- [Lisina, pancreatite e catalase: o que Al-Malki2015 efetivamente mediu](wiki/fontes/al-malki-2015-lisina-pancreatite.md)

@@ -316,3 +316,5 @@
 - [Sopa de coco com caldo:quatro porções e variantes originais](wiki/temas/receitas-caldo.md#sopa-de-coco-com-caldo-de-frango-gengibre-e-limão)
 
 - [WAPF:conciliação exata das249 URLs restantes, por classe e versão lida](raw/wapf-classes-restantes-leitura249-2026-11-26.json)
+
+- [Primal Blueprint:revalidação atual de todos os34 pares históricos de página/mídia](wiki/fontes/mark-rss-acesso34.md)

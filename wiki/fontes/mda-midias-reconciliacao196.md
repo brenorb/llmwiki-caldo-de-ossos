@@ -1,5 +1,7 @@
 # Mark Sisson/MDA: conciliação das filas de mídia
 
+**Verificação posterior de acesso:** os [34 pares históricosRSS foram retestados em26/11](mark-rss-acesso34.md), com34 páginasGET404,34 mídiasHEAD404 e34 confirmaçõesRange404. Não houve novaASR ou áudio obtido. A conciliação abaixo conserva sua etapa anterior sem reteste; a nota nova registra a verificação atual separadamente.
+
 **Não há TXT novo pronto para leitura na fila local MDA deste corte.** Os145 estados de transcrição concluída correspondem aos144IDs incrementais já registrados e uma extração duplicada de *sprints*. A conciliação não adiciona leituras e não declara completo o histórico de Sisson, Primal Kitchen ou RSS. [Inventário dos196 IDs](../../raw/mda-midias-reconciliacao196-2026-11-26.tsv) · [Provas, hashes e limites](../../raw/mda-midias-reconciliacao196-2026-11-26.json)
 
 | Universo ou estado | Quantidade | O que a prova permite afirmar |

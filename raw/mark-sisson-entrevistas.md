@@ -234,3 +234,7 @@ Não foi encontrada passagem sobre caldo, colágeno ou gelatina no texto inteiro
 Esta é uma entrevista externa aos canais MDA/Primal Kitchen; não foi somada ao denominador de 138 vídeos temáticos ou aos 196 de MDA. O cruzamento por programa, anfitrião, título e URL não encontrou duplicata nos inventários existentes.
 
 A [conciliação de26/11](../wiki/fontes/mda-midias-reconciliacao196.md) localiza artefatos das remissões já declaradas e preserva lacunas porGUID/edição. Sete capturasXML produzem1.140GUIDs; os34candidatos do filtro histórico são enumerados sem afirmar participação/pertinência de todos ou leitura de seus originais inacessíveis. Título ou duração próximos não substituem identidade da edição.
+
+### Verificação atual de todos os34 pares históricos,26/11
+
+A [nota e inventário atual](../wiki/fontes/mark-rss-acesso34.md) documenta34 páginasGET404,34 mídiasHEAD404 e34 confirmaçõesGETRange404, comGUIDs/URLs exatos, horários eTLS conferidos. Revisor leu parecer e revalidou306 arquivos físicos/102 resultados. Nenhum áudio obtido/ASR nova; as respostas sãoHTML de erro, não amostras audíveis. Participação nos33metadados arquivados permanece descrição, sem atribuição por canal ou identidade presumida de reedições.

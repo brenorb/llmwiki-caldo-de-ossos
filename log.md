@@ -1222,3 +1222,7 @@ Incorporados [50 corpos finais](wiki/fontes/wapf-podcast-lote2-50.md),6.415 linh
 ## [2026-11-26] revisão |249 URLs restantes:união exata de versões textuais
 
 A [conciliação249](raw/wapf-classes-restantes-leitura249-2026-11-26.json) compara todas asURLs/classes do índice original com oito provas públicas, sem faltas ou sobreposição. São78resenhas,124páginas de podcast,34índicesmain e13galerias textuais,21.568 linhas/4.928.460 caracteres. Quadro atualizado distingue aquisição, versões lidas e escopos; não adiciona leitura semântica,532hashes únicos, livros/áudios/imagens/estudos ou todo o site por soma.
+
+## [2026-11-26] revisão |34 originaisRSS:acesso atual conferido integralmente
+
+Incorporada [revalidação porGUID](wiki/fontes/mark-rss-acesso34.md):34 páginasGET404+34 mídiasHEAD404+34 confirmaçõesRange404,102 verificaçõesTLS. Revisor conferiu306 arquivos, todos resultados finais e equivalência exata do conjunto; nenhum áudio/ASR ou leitura nova de entrevista. Evidência atual foi separada dos erros históricos e das edições relacionadas já lidas. DescriçõesRSS são metadados, não confirmação por áudio;404dosURLs não prova ausência global.

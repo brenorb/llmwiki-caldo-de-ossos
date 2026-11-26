@@ -1,0 +1,2763 @@
+{
+  "date": "2026-11-26",
+  "scope": "FreshHTTP revalidation of exact34historical GUID/page/enclosure pairs; not new source-audio semantic reading or a claim that every related edition is unavailable.",
+  "counts": {
+    "guid_pairs": 34,
+    "page_get404": 34,
+    "enclosure_head404": 34,
+    "enclosure_get_range404": 34,
+    "logical_checks": 102,
+    "physical_artifacts_rehashed": 306,
+    "accessible_original_media_at_tested_urls": 0,
+    "new_asr_or_audio_readings": 0,
+    "archived_metadata_explicit_sisson_participation": 33,
+    "archived_metadata_participation_not_established_beyond_title": 1
+  },
+  "private_manifest_sha256": "a4810b9ab57b14d036d9dc0b8c855473a0c320d7e59679de8f03549b6231398e",
+  "private_frozen_artifact_sha256": {
+    "catalogo-fixo-34.json": "7e92f1f98dd5101f1827a461eb966481a2f485c1f2e3b51c98c2c98437e587e3",
+    "checkpoint-http-34.json": "959f097afd156580e584a4ecd5b2eee11fbcd9859b053ffbf3004d7e8d629440",
+    "ledger-acesso-atual-34.jsonl": "aaeed13869672e0709b656a3b8672c08cee51819b352daf0cfd3c35c0afbaa69",
+    "fila-futura-34.json": "969b6cfe589d43220303479ae802a602228054cb4a97d40dd019aa03e16530f7",
+    "parecer-acesso-atual-34.md": "8a253d0edccbfc9e5f1fffe257b7a590e132f7adc4456bf2b419e580810effb5",
+    "revalidar.py": "2bd8dab89d7fb71cb412371d852569911261909ee9d89c928e01fe80a9d28031",
+    "confirmar-range.py": "83c2c13a8b9b0829c2838d54c8b58608f2ab98c58b2da160962c1f02b59f4cef",
+    "consolidar.py": "32c8f50bf874555a77512c69cd9b280468536598e04fc11addf0af14bfed1de5"
+  },
+  "root_review": {
+    "full_access_report_read": true,
+    "all34_guids_and_exact_urls_matched_to_original_reconciliation": true,
+    "all306_physical_response_header_result_files_rehashed": true,
+    "all102_final_statuses_tls_and_types_checked": true,
+    "new_listening_or_full_archived_description_semantic_reading_by_root_claim": false
+  },
+  "limits": [
+    "GETRange requested bytes0–0 but all responses were HTML404, not audible media samples.",
+    "Historical RSS durations/sizes/MIME types are not present-day audio availability or returned HTML size/type.",
+    "Related editions already read stay separate; same title or similar duration does not prove exact original identity.",
+    "Participation is described in archived metadata, not confirmed by currently inaccessible audio.",
+    "Public record omits cookies, response header contents, full archived descriptions and private filesystem locators."
+  ],
+  "rows": [
+    {
+      "index": 0,
+      "guid": "3ca1e033-abd7-4d55-8d67-0c9d7acb62a2",
+      "title_historical": "50: Mark and Carrie Sisson on Self-Care Routines, Success, and Manifesting Your Best Life",
+      "pubDate_historical": "Tue, 11 Jul 2023 01:37:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/50-mark-and-carrie-sisson-on-self-care-routines-success-and-manifesting-your-best-life",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkandCarrie.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "40481829",
+      "archived_rss_duration": "56:13",
+      "description_sha256": "43f2bcde45a5589a83ac2f58aa4edc29d068ef1719fbaaf1264b5814a73333e5",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "zmCzhI_u8Ms: edição correspondente nas remissões, TXT anterior emaudio/50",
+      "current_access_date_utc": "2026-11-26T20:10:36.232399+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "convidado com Carrie; Morgan conduz",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/50-mark-and-carrie-sisson-on-self-care-routines-success-and-manifesting-your-best-life",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:03.059524+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "6d82cae71c5aa80542314378287b5b283b712c79b454c41fcb85fff5e5cb62b3",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/50-mark-and-carrie-sisson-on-self-care-routines-success-and-manifesting-your-best-life",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkandCarrie.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:03.547694+00:00",
+        "exit_code": 0,
+        "body_bytes": 613,
+        "headers_sha256": "d79a280b9119c4324f757f14986a496871b4aa076719fbb4778b4d38c7f49019",
+        "body_sha256": "d79a280b9119c4324f757f14986a496871b4aa076719fbb4778b4d38c7f49019",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkandCarrie.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkandCarrie.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:36.232399+00:00",
+        "exit_code": 0,
+        "body_bytes": 1283,
+        "headers_sha256": "13d283e762a89b1d30a0eeb608420fca71afc583a6bfcb57a2ae565a474d262f",
+        "body_sha256": "314cb040ff06cecd118f71aa9d384ec524081eff9e22fd69238aa5d9f9fdec3a",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkandCarrie.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1283",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 1,
+      "guid": "95b806cc-441e-4b21-b6a5-53de999192d1",
+      "title_historical": "21: Mark Sisson Q&A - Testosterone Talk",
+      "pubDate_historical": "Mon, 07 Mar 2022 10:00:34 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/21-mark-sisson-qa-testosterone-talk",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkSissonTestosterone.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "33299898",
+      "archived_rss_duration": "39:39",
+      "description_sha256": "48d67ccb620d8383d6b424bc539abf77626288dd19d5cc7eb77affaec5adb2c7",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "9nBwRCCw4zA: remissão explícita, TXT anterior emaudio/21",
+      "current_access_date_utc": "2026-11-26T20:10:36.233176+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "convidado; Morgan conduz",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/21-mark-sisson-qa-testosterone-talk",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:03.062213+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "957c21601385592a275e74de52126e6cca5428703c79cbaaff0772864986f708",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/21-mark-sisson-qa-testosterone-talk",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkSissonTestosterone.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:03.543569+00:00",
+        "exit_code": 0,
+        "body_bytes": 622,
+        "headers_sha256": "4fca7031564ebdddb2440e6f53e4acd5ab01e3f3189ddf7f8e57753264e4bfad",
+        "body_sha256": "4fca7031564ebdddb2440e6f53e4acd5ab01e3f3189ddf7f8e57753264e4bfad",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkSissonTestosterone.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkSissonTestosterone.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:36.233176+00:00",
+        "exit_code": 0,
+        "body_bytes": 1292,
+        "headers_sha256": "e23cf9bd0df0ab57d6ee8220f7c7ff35dd4780d0dddff9f83d8f322fdc4663b9",
+        "body_sha256": "f1f11b58315962154ccdfd7cb5653674454dcdbd45ddc33aae0df301bd3ac76b",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_MarkSissonTestosterone.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1292",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 2,
+      "guid": "75edca19-b15f-4b07-95e9-a528d05cc4df",
+      "title_historical": "10: Mark Sisson Q&A - The Scoop on Breakfast & Fasted Training",
+      "pubDate_historical": "Mon, 06 Dec 2021 10:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/08-mark-sisson-qa-the-scoop-on-breakfast-fasted-training",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_BreakfastTraining.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "50929521",
+      "archived_rss_duration": "01:00:38",
+      "description_sha256": "3e301c6b8db0b2e76bcf17d54fdad15edf75b40025285a6608b8f3c80af1fe3f",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "DGUS7056Ur0: remissão explícita, TXT anterior emaudio/08-breakfast",
+      "current_access_date_utc": "2026-11-26T20:10:36.238199+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "convidado; Morgan conduz",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/08-mark-sisson-qa-the-scoop-on-breakfast-fasted-training",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:03.062828+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "3f903cd4a71e9764b753bb3ac5349e8398e546baa0f617c95430a3ed9da3333c",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/08-mark-sisson-qa-the-scoop-on-breakfast-fasted-training",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_BreakfastTraining.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:03.556160+00:00",
+        "exit_code": 0,
+        "body_bytes": 622,
+        "headers_sha256": "4cb99da8d5286623a159416a764cb4b518ba2257b85480132e80f7dfd833fdab",
+        "body_sha256": "4cb99da8d5286623a159416a764cb4b518ba2257b85480132e80f7dfd833fdab",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_BreakfastTraining.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_BreakfastTraining.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:36.238199+00:00",
+        "exit_code": 0,
+        "body_bytes": 1292,
+        "headers_sha256": "429385de5f967547231ef0f126c8a944d21faf40798f53be9a3c0c6da248e0f7",
+        "body_sha256": "58ec33e064b7696f58370be0f9974e5ef37083be9b4996428b12c9c4c7afa681",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_BreakfastTraining.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1292",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 3,
+      "guid": "a93f899b-8973-402f-81c3-15310091dddf",
+      "title_historical": "08: Mark Sisson Q&A - Turkey Traditions & Hacks for the Holiday Season",
+      "pubDate_historical": "Mon, 22 Nov 2021 10:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/08-mark-sisson-qa-turkey-traditions-hacks-for-the-holiday-season",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Holidays.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "27201689",
+      "archived_rss_duration": "28:17",
+      "description_sha256": "e2165ba5b62bd782ca771ea4615b4d1f9ee9df3ff55d4a2c8a270610a0d7da1d",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "iuLfTWm53x8: remissão explícita, TXT anterior emaudio/08-turkey",
+      "current_access_date_utc": "2026-11-26T20:10:36.238339+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "participante de Q&A com Morgan",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/08-mark-sisson-qa-turkey-traditions-hacks-for-the-holiday-season",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:03.062795+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "4c141c1011ae5dff65df6948261ba7a7974e7b4f5de6ecd22f945789f8efe6c0",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/08-mark-sisson-qa-turkey-traditions-hacks-for-the-holiday-season",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Holidays.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:03.549559+00:00",
+        "exit_code": 0,
+        "body_bytes": 613,
+        "headers_sha256": "0b29537ab7dbe5a599dbd854303d31cfbdce9e2d667c939fffc68c4fd5afccec",
+        "body_sha256": "0b29537ab7dbe5a599dbd854303d31cfbdce9e2d667c939fffc68c4fd5afccec",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Holidays.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Holidays.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:36.238339+00:00",
+        "exit_code": 0,
+        "body_bytes": 1283,
+        "headers_sha256": "d726e72b552b3d2696a8d19845d13d419059f44cae38464f9c2a6a9ba6e6f797",
+        "body_sha256": "bfc60dea2b8a6feca5e8806caa0b1314613982337c301721f7127a5dd149949e",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Holidays.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1283",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 4,
+      "guid": "ca510672-a979-48a9-97fb-98b4f9061f37",
+      "title_historical": "04: Mark Sisson Q&A on Entrepreneurship and Mark's Biggest Failures",
+      "pubDate_historical": "Mon, 25 Oct 2021 09:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/04-mark-sisson-qa-on-entrepreneurship-and-marks-biggest-failures",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Entrepreneurship.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "50802614",
+      "archived_rss_duration": "01:00:29",
+      "description_sha256": "16055939bb4344d45652cab4bf8c49a74b9f31101402f7c61297014388bac2f9",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "T_hDohZVrSU: episódio #4 com TXT e leitura anterior declarada emaudio/04; vídeo ainda sem artefato conciliado por hash",
+      "current_access_date_utc": "2026-11-26T20:10:37.517431+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "entrevistado por Morgan",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/04-mark-sisson-qa-on-entrepreneurship-and-marks-biggest-failures",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:04.833998+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "e759a55d519d2fd849d608e12923d4a6bf6f41104336839f22d1a110d382acc2",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/04-mark-sisson-qa-on-entrepreneurship-and-marks-biggest-failures",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Entrepreneurship.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:05.374545+00:00",
+        "exit_code": 0,
+        "body_bytes": 621,
+        "headers_sha256": "747d66058ecc0aabe24f8edfb9f920fdf6e8563b58ad4c5e321c1eb846943f1f",
+        "body_sha256": "747d66058ecc0aabe24f8edfb9f920fdf6e8563b58ad4c5e321c1eb846943f1f",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Entrepreneurship.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Entrepreneurship.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:37.517431+00:00",
+        "exit_code": 0,
+        "body_bytes": 1291,
+        "headers_sha256": "d3a881e0934a6e3b180ecf9432995c25006c3a907fedbbf80385b48f179b1515",
+        "body_sha256": "c169c72ccfea122aeef39552425ee737244af2618c58068d51981d2308be0990",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/PrimalKitchenPodcast_Mark_Entrepreneurship.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1291",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 5,
+      "guid": "037fa2a5-6b8c-4b3c-b0b2-7b6030a72374",
+      "title_historical": "Mark Sisson & Elle Russ",
+      "pubDate_historical": "Mon, 27 Sep 2021 12:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/mark-sisson-elle-russ",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonandElleRuss2021.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "56131750",
+      "archived_rss_duration": "01:06:50",
+      "description_sha256": "57164ed94f665aaedfdafb129ba8d9a5825dd2c6935a25a89473596a465b2bd8",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:37.520431+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "entrevistado por Elle Russ",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/mark-sisson-elle-russ",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:04.853038+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "50e8cdea1adbbf4df38451dec5bae1cb07cee375ff990b426bcc0735a5b367e3",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/mark-sisson-elle-russ",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonandElleRuss2021.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:05.390656+00:00",
+        "exit_code": 0,
+        "body_bytes": 623,
+        "headers_sha256": "a1bf55018ec8d7caedbeac77d8b179a60d7df75651dd1182bca5a87646c6815d",
+        "body_sha256": "a1bf55018ec8d7caedbeac77d8b179a60d7df75651dd1182bca5a87646c6815d",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonandElleRuss2021.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonandElleRuss2021.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:37.520431+00:00",
+        "exit_code": 0,
+        "body_bytes": 1293,
+        "headers_sha256": "e8d5808cc5381fbc1b7b303a8de5c5bdf19ca86da60bd3ac27085d6c39123512",
+        "body_sha256": "52e8c937f99631640bbd08d8d47bf99ca2de2dced7888731aa4d20327643efd0",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonandElleRuss2021.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1293",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 6,
+      "guid": "ca99643f-a14a-4c90-be1b-9475713a54f7",
+      "title_historical": "Mark Sisson On Eating And Exercising To Promote Longevity And Avoid Disease, Going With The Flow, And Picking Your Battles",
+      "pubDate_historical": "Wed, 24 Mar 2021 12:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/mark-sisson-on-eating-and-exercising-to-promote-longevity-and-avoid-disease-going-with-the-flow-and-picking-your-battles",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonLifeUpdate.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "43382324",
+      "archived_rss_duration": "51:39",
+      "description_sha256": "549634837da78e7750bd5153e323a622291adec7aa935e17093c2fb16074fe64",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "MQX3Il2siXI: título muito próximo e vídeo já presente nos144; somente candidato de edição relacionada, não identidade integral RSS confirmada",
+      "current_access_date_utc": "2026-11-26T20:10:37.523110+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "entrevistado por Brad Kearns",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/mark-sisson-on-eating-and-exercising-to-promote-longevity-and-avoid-disease-going-with-the-flow-and-picking-your-battles",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:04.873015+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "6ac8c61ef4ecefc0138f1c178b12c039a155328a3d574c1cba36fc8fbd155d3d",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/mark-sisson-on-eating-and-exercising-to-promote-longevity-and-avoid-disease-going-with-the-flow-and-picking-your-battles",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonLifeUpdate.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:05.358828+00:00",
+        "exit_code": 0,
+        "body_bytes": 618,
+        "headers_sha256": "a4e1b045eaf52d430151642c87b8b6f261e874e09be1b74215da77f919537951",
+        "body_sha256": "a4e1b045eaf52d430151642c87b8b6f261e874e09be1b74215da77f919537951",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonLifeUpdate.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonLifeUpdate.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:37.523110+00:00",
+        "exit_code": 0,
+        "body_bytes": 1288,
+        "headers_sha256": "18ee708b7b83a36a6c1142cd589831278036143a3f649f535260322338d54b54",
+        "body_sha256": "6f56b0d51119d2e8c901a52c5cf03bb5058573326fa8383db10e70d2e99dd1e9",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonLifeUpdate.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1288",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 7,
+      "guid": "2b308763-ee65-4e01-93cb-92a8969e32ce",
+      "title_historical": "Mark Sisson and Brad Kearns Present Two Meals A Day",
+      "pubDate_historical": "Wed, 03 Feb 2021 13:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/mark-sisson-and-brad-kearns-present-two-meals-a-day",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonTwoMealsADay.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "57798829",
+      "archived_rss_duration": "01:08:49",
+      "description_sha256": "002514d28236fc9aa65e102ea18d89ab0dc0f885533a36d5675a254eac52cab1",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "rSq-JpYIsCA / Brad Kearns: legenda/transcrição já conciliadas; RSS original segue sem acesso",
+      "current_access_date_utc": "2026-11-26T20:10:37.525077+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "not_established_by_description_title_only",
+        "role_description": "não estabelecido pela descrição; título nomeia Mark/Brad",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/mark-sisson-and-brad-kearns-present-two-meals-a-day",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:04.876138+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "6b4452a333fd5975b2b3677eedc04bb146b4659f51eb8e2c19821b170b82ec27",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/mark-sisson-and-brad-kearns-present-two-meals-a-day",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonTwoMealsADay.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:05.409945+00:00",
+        "exit_code": 0,
+        "body_bytes": 620,
+        "headers_sha256": "5f00559a5cdd4f29fdc8a4e86368546bfb6eda23421f8905ce38224dcc03e765",
+        "body_sha256": "5f00559a5cdd4f29fdc8a4e86368546bfb6eda23421f8905ce38224dcc03e765",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonTwoMealsADay.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonTwoMealsADay.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:37.525077+00:00",
+        "exit_code": 0,
+        "body_bytes": 1290,
+        "headers_sha256": "4eae7ae039d9212612925105fa17fa812b16ce0f88464c9ffbc759f25c493419",
+        "body_sha256": "5803b5568720768ec497d2de210b6a4e74f2a0a1022ff84ba14434c2da742e34",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonTwoMealsADay.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1290",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 8,
+      "guid": "9f51c286-1610-460d-b841-66108508b586",
+      "title_historical": "Mark Sisson",
+      "pubDate_historical": "Mon, 01 Jun 2020 12:34:41 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/mark-sisson-0",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonJune1st.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "29627744",
+      "archived_rss_duration": "35:17",
+      "description_sha256": "319f8f50cd362585270beca823b47c744f69c9d51ca8371c70a57bcfbd395871",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:38.611837+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "entrevistado por Elle Russ",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/mark-sisson-0",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:06.437120+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "e859068e8cb596e9c4d2de306964868bafeddf43a9b7c3c3df549bd424695c37",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/mark-sisson-0",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonJune1st.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:06.920863+00:00",
+        "exit_code": 0,
+        "body_bytes": 615,
+        "headers_sha256": "b98e5f3de4dbaace475cddc6157bdcf97182f8ca04c5d8c266ad1325cad7696e",
+        "body_sha256": "b98e5f3de4dbaace475cddc6157bdcf97182f8ca04c5d8c266ad1325cad7696e",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonJune1st.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonJune1st.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:38.611837+00:00",
+        "exit_code": 0,
+        "body_bytes": 1285,
+        "headers_sha256": "9f8dbe8f7a80d75ca4c6bdee661a785702d2bf5d2898a6bfe869fc228b45abd5",
+        "body_sha256": "0c3caba50c45ce52870fe743b8790573341912100d06ef9460cb77bd0cdcd6e1",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSissonJune1st.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1285",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 9,
+      "guid": "eca6757f-f020-43bd-8285-82c3e06e83d1",
+      "title_historical": "Mark Sisson",
+      "pubDate_historical": "Mon, 04 May 2020 12:30:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/mark-sisson",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSisson.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "31794219",
+      "archived_rss_duration": "37:51",
+      "description_sha256": "7a0c203d1bc3cff2b9d22fbb3346493b2374d6e4d66d7d2dfe0be2586f346fdf",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:38.613443+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "entrevistado por Elle Russ",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/mark-sisson",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:06.456820+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "93ef75fffbe0498406440a4bcba2b1f9637a5cb12adc9b7ba96ee232ae8d9045",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/mark-sisson",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSisson.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:06.931885+00:00",
+        "exit_code": 0,
+        "body_bytes": 608,
+        "headers_sha256": "7635d3444367db6dd378b79de1c8d9a4f4ec7671b8c9dcc3f8f49cbf1e98de29",
+        "body_sha256": "7635d3444367db6dd378b79de1c8d9a4f4ec7671b8c9dcc3f8f49cbf1e98de29",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSisson.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSisson.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:38.613443+00:00",
+        "exit_code": 0,
+        "body_bytes": 1278,
+        "headers_sha256": "1a4fafb98552bef9b9be6f5464172b47a959cbc2ec30f897b3fbb6a1f1fea362",
+        "body_sha256": "dbbb1ca2f6e290233b0ea4b3b4fc101a1a1ede084130fd47de85a596e3d176a4",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkSisson.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1278",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 10,
+      "guid": "f0a4f6be-8e15-4278-8b7e-d3f3bcebc265",
+      "title_historical": "Mark Sisson's Keto For Life: A Comprehensive Approach To Living Long and Living Awesome",
+      "pubDate_historical": "Mon, 30 Dec 2019 18:35:32 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/mark-sissons-keto-for-life-a-comprehensive-approach-to-living-long-and-living-awesome",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkBradKetoForLife.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "67216900",
+      "archived_rss_duration": "01:20:02",
+      "description_sha256": "19dd3511d51837a7290db596b9df90aab2466f07e2cd5f9899b54e34a78b89d8",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "Sj7WwpDJIVE: vídeo já lido, TXT emhistorico-audio",
+      "current_access_date_utc": "2026-11-26T20:10:38.617660+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "discute com Brad Kearns",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/mark-sissons-keto-for-life-a-comprehensive-approach-to-living-long-and-living-awesome",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:06.479410+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "6f4a7ff77618095b87cda7469b62ec43b66f41ac0f1867445c5b5bb3b10bfc04",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/mark-sissons-keto-for-life-a-comprehensive-approach-to-living-long-and-living-awesome",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkBradKetoForLife.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:06.958621+00:00",
+        "exit_code": 0,
+        "body_bytes": 617,
+        "headers_sha256": "45637f5ca77015c5ea74436ac65e4adec3230b16d3d2343e37490310ca51010f",
+        "body_sha256": "45637f5ca77015c5ea74436ac65e4adec3230b16d3d2343e37490310ca51010f",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkBradKetoForLife.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkBradKetoForLife.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:38.617660+00:00",
+        "exit_code": 0,
+        "body_bytes": 1287,
+        "headers_sha256": "9d35f160effc7250dd636deeaf1503f071a55a2a5534059a8d52aa04e3d7795e",
+        "body_sha256": "ed299e82c2b3c7b05837144c9b40ac211681f14833745586080d5a248f6867d7",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MarkBradKetoForLife.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1287",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 11,
+      "guid": "a3e591a3ccdb41c8af1335ede716cf31",
+      "title_historical": "The Primal Endurance Revolution",
+      "pubDate_historical": "Fri, 25 Oct 2019 21:29:08 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/the-primal-endurance-revolution",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_Endurance_MarkSisson.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "32474799",
+      "archived_rss_duration": "38:40",
+      "description_sha256": "bb8fddff0dd68825d1c5e544834737f8e41109187a4a08ec57bc518d4f723325",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:38.629005+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "discute com Brad Kearns",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/the-primal-endurance-revolution",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:06.513400+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "beb6fe74b30197fecd31624d6571bb446fe30c129720ce74cc93aad1669f4b14",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/the-primal-endurance-revolution",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_Endurance_MarkSisson.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:07.058821+00:00",
+        "exit_code": 0,
+        "body_bytes": 618,
+        "headers_sha256": "4c2d2e79247e5376645fbadd37d81323e24d8057844528628fd0a1f3039b7c40",
+        "body_sha256": "4c2d2e79247e5376645fbadd37d81323e24d8057844528628fd0a1f3039b7c40",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_Endurance_MarkSisson.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_Endurance_MarkSisson.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:38.629005+00:00",
+        "exit_code": 0,
+        "body_bytes": 1288,
+        "headers_sha256": "0572470454ab645c4dc16d480806bfd1e0ee6796d3a3d9d8ebddb79f91564a6d",
+        "body_sha256": "152caa3d7e6396846d4e49ef86e99484894666a235033dad648c30841958d5a2",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_Endurance_MarkSisson.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1288",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 12,
+      "guid": "24b9fe13f80341518890ec6cecafaef9",
+      "title_historical": "Matt Wallden",
+      "pubDate_historical": "Mon, 02 Sep 2019 20:37:47 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/matt-wallden",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MattWaldenMarksisson.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "40134319",
+      "archived_rss_duration": "47:47",
+      "description_sha256": "224c8c3a35a69305d31d4d9185f8fa00ab953248a8415e6679d4dad6fc3930a9",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:39.717146+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "conversa com Matt Wallden",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/matt-wallden",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:07.997664+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "dd0e11dd4720fde4fd647c85db585d9338abbb7c5a9e257bf2121eae9d3b97ae",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/matt-wallden",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MattWaldenMarksisson.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:08.475979+00:00",
+        "exit_code": 0,
+        "body_bytes": 618,
+        "headers_sha256": "15ac5fe7b38122e83e42380077355cc17e9aa07ed4fa2ec97d4eb16c6ad0dd2e",
+        "body_sha256": "15ac5fe7b38122e83e42380077355cc17e9aa07ed4fa2ec97d4eb16c6ad0dd2e",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MattWaldenMarksisson.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MattWaldenMarksisson.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:39.717146+00:00",
+        "exit_code": 0,
+        "body_bytes": 1288,
+        "headers_sha256": "a9dc014d6db7f5e71c213a7e49f9fc1054a18bd1b5d9794872a813fbeb7e4ade",
+        "body_sha256": "a220db9cf2d8c97fbf98b92155bdcd1817c436cb45eefdd7c2b18088cfa11cb0",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_MattWaldenMarksisson.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1288",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 13,
+      "guid": "9769c8957b064759a5e4f676922dfc8c",
+      "title_historical": "Dr. Paul Saladino And The Carnivore Diet With Mark Sisson",
+      "pubDate_historical": "Mon, 15 Jul 2019 16:24:40 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/drpaulsaladinoand-the-carnivore-diet-with-mark-sisson",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_PaulSaladino.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "60723652",
+      "archived_rss_duration": "01:12:18",
+      "description_sha256": "98e99b5a59ac242f8bc89ac56aa422a0670e920e0533f9ea0f893bd41c59f705",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "W_ARV4RN1aw / jbyKSQbf6e4: republicação autorizada já lida, sem equivalência byte a byte da edição RSS",
+      "current_access_date_utc": "2026-11-26T20:10:39.720544+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "anfitrião de Paul Saladino",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/drpaulsaladinoand-the-carnivore-diet-with-mark-sisson",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:08.004064+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "1b5b46a718255a0a386d586d7ed03b2e53ad515848b8137c140a7225127cb2c3",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/drpaulsaladinoand-the-carnivore-diet-with-mark-sisson",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_PaulSaladino.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:08.484210+00:00",
+        "exit_code": 0,
+        "body_bytes": 610,
+        "headers_sha256": "fd7f3627d47fc0551b15655231bb84e82fd181e965c1264888b414a3b340236c",
+        "body_sha256": "fd7f3627d47fc0551b15655231bb84e82fd181e965c1264888b414a3b340236c",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_PaulSaladino.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_PaulSaladino.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:39.720544+00:00",
+        "exit_code": 0,
+        "body_bytes": 1280,
+        "headers_sha256": "98b2d0ce7b2ef3e18c48f2648fa0a69c3336adc5cd0bfd36e60092818d441f87",
+        "body_sha256": "581ad72aa7712b686e9f85d11bed57e8568505de443fd3990a65d615b721bab6",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_PrimalBlueprint_PaulSaladino.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1280",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 14,
+      "guid": "99a5c0d86b1f3ded1796f5c9791e7239",
+      "title_historical": "#209: Dr. Joseph Mercola",
+      "pubDate_historical": "Mon, 08 Jan 2018 15:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/209-dr-joseph-mercola",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_209_PrimalBlueprint_DrMercola.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "46132743",
+      "archived_rss_duration": "54:56",
+      "description_sha256": "06e2552ab9b3ea02c57c283fce185a304c8c4787ecc28f4efdd6a32a6d8021d0",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:39.728720+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/209-dr-joseph-mercola",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:08.026941+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "ae71e22a9c5b1c97fc6e800c57072fc1fca20630396e73b8a0cac8c769db1342",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/209-dr-joseph-mercola",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_209_PrimalBlueprint_DrMercola.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:08.502529+00:00",
+        "exit_code": 0,
+        "body_bytes": 611,
+        "headers_sha256": "d136bdaf39a984429f1649734f27b84bb3d7eec45ca23a08bfd4b988325bb5f0",
+        "body_sha256": "d136bdaf39a984429f1649734f27b84bb3d7eec45ca23a08bfd4b988325bb5f0",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_209_PrimalBlueprint_DrMercola.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_209_PrimalBlueprint_DrMercola.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:39.728720+00:00",
+        "exit_code": 0,
+        "body_bytes": 1281,
+        "headers_sha256": "276b7e9c48d3fe0003878ed98201781e5b70ef2b7f8e688680f0e9a09e647629",
+        "body_sha256": "7808b69686cd3dd78b07eb114047c47154351f6639b63f8414e1c76e81aed5fd",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_209_PrimalBlueprint_DrMercola.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1281",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 15,
+      "guid": "3e39a5a8e69760f004f160a50d43e19c",
+      "title_historical": "#207:  Mark Sisson & Robb Wolf",
+      "pubDate_historical": "Mon, 01 Jan 2018 15:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/207-mark-sisson-robb-wolf",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_207_PrimalBlueprint_RobbWolf.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "54239895",
+      "archived_rss_duration": "01:04:35",
+      "description_sha256": "f9ab612bf7d85dc608a94a85ba34daaeb30d4e7f0b5afc8758b6aef06e8a65c0",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:39.761924+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/207-mark-sisson-robb-wolf",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:08.127146+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "339bbaab18732fae86e5a0379e1b69bdf406014b6e296097c119c994c59cea04",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/207-mark-sisson-robb-wolf",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_207_PrimalBlueprint_RobbWolf.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:08.614283+00:00",
+        "exit_code": 0,
+        "body_bytes": 610,
+        "headers_sha256": "c653dc2a77a45b651e00a2dbbda9899c33c9b308235d3ac21efd640d4b9c0a38",
+        "body_sha256": "c653dc2a77a45b651e00a2dbbda9899c33c9b308235d3ac21efd640d4b9c0a38",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_207_PrimalBlueprint_RobbWolf.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_207_PrimalBlueprint_RobbWolf.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:39.761924+00:00",
+        "exit_code": 0,
+        "body_bytes": 1280,
+        "headers_sha256": "cffd3eed276dbfaa98323a3567c87e6a8adf3905e7ec45ca2314b683241daab7",
+        "body_sha256": "531d87f5f72387555a9c6901a0add6e64b8ecaee03591d2531ec5e0cbcfd7c5b",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_207_PrimalBlueprint_RobbWolf.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1280",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 16,
+      "guid": "8aea33faf7b4f218ef3254ad609fe10e",
+      "title_historical": "#197: Jacques Devore",
+      "pubDate_historical": "Mon, 27 Nov 2017 15:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/197-jacques-devore",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep197_PrimalBlueprint_JacquesDevore_NEW.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "37843850",
+      "archived_rss_duration": "45:04",
+      "description_sha256": "3b274a28b51b857cd7a5917461c2b68938e754ac8baaa016c703ab3772ec53e6",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": "Primal Endurance #126: TXT Omny já lido; equivalência ao #197 reforçada mas não alinhada com original inacessível",
+      "current_access_date_utc": "2026-11-26T20:10:40.811687+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/197-jacques-devore",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:09.558886+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "aeaabf2ddb74e84a779ec529922e00be0f90ebc814787a394953847066cb112d",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/197-jacques-devore",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep197_PrimalBlueprint_JacquesDevore_NEW.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:10.039636+00:00",
+        "exit_code": 0,
+        "body_bytes": 618,
+        "headers_sha256": "e516f7866983b57373289722ddc810373f8c8e5c9babf296b84552eff405f3e4",
+        "body_sha256": "e516f7866983b57373289722ddc810373f8c8e5c9babf296b84552eff405f3e4",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep197_PrimalBlueprint_JacquesDevore_NEW.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep197_PrimalBlueprint_JacquesDevore_NEW.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:40.811687+00:00",
+        "exit_code": 0,
+        "body_bytes": 1288,
+        "headers_sha256": "6b7e480afb0a295df3aca81bd8209489da4c79392d74b22b405d9b0b1f1f0233",
+        "body_sha256": "9533775ef22254390dd1f272005268e8393f8c241ef38f1290f385e707e03e93",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep197_PrimalBlueprint_JacquesDevore_NEW.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1288",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 17,
+      "guid": "14e70b0016c81ccb7cb656d459e14402",
+      "title_historical": "#195: Chris Kresser",
+      "pubDate_historical": "Wed, 15 Nov 2017 15:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/195-chris-kresser",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_195_PrimalBlueprint_ChrisKresser.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "41122829",
+      "archived_rss_duration": "48:58",
+      "description_sha256": "fc70e9a9493e6dbcca462fd9c45f1f29f9e9a30aad490299dfe30fcad18cd3e6",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:40.842565+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/195-chris-kresser",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:09.567835+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "74ea4122bf3cc2c7b0519cdf69c160a15575cff54af4a5924b6f1fa096e392b3",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/195-chris-kresser",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_195_PrimalBlueprint_ChrisKresser.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:10.108162+00:00",
+        "exit_code": 0,
+        "body_bytes": 614,
+        "headers_sha256": "1e0ff3a96781a69feab9e2a92a4f1e69be2be0b77241fc0d5f38a767c94752f5",
+        "body_sha256": "1e0ff3a96781a69feab9e2a92a4f1e69be2be0b77241fc0d5f38a767c94752f5",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_195_PrimalBlueprint_ChrisKresser.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_195_PrimalBlueprint_ChrisKresser.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:40.842565+00:00",
+        "exit_code": 0,
+        "body_bytes": 1284,
+        "headers_sha256": "78aeabb61ecc5a7265ce7d9b4f20fd7e3dafb4f02109b779ca0002a80ca5759a",
+        "body_sha256": "a66aa040bb904d7b407927fe6ec1c328540d9552f4a629ed4aaf18ffc2d7a205",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_195_PrimalBlueprint_ChrisKresser.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1284",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 18,
+      "guid": "22704544061af55aba519f21f385cb93",
+      "title_historical": "#192: Joe De Sena & Mark Sisson",
+      "pubDate_historical": "Wed, 25 Oct 2017 14:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/192-joe-de-sena",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_192_PrimalBlueprint_JoeDeSena.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "59944082",
+      "archived_rss_duration": "41:38",
+      "description_sha256": "43871211dc89c2e0d5b95cf79d8fd180796efa6d94d0a6f7b1e09ddde2c7ae79",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:41.712736+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/192-joe-de-sena",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:09.574364+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "2c39d70b2dc12fb7bd5afa188358d00d0246f47356a6a00f259e42c3762626bd",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/192-joe-de-sena",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_192_PrimalBlueprint_JoeDeSena.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:10.050228+00:00",
+        "exit_code": 0,
+        "body_bytes": 611,
+        "headers_sha256": "1980ae697224eb5abef134ec4220047a156871ed48cf634cf2fd935807d2aedf",
+        "body_sha256": "1980ae697224eb5abef134ec4220047a156871ed48cf634cf2fd935807d2aedf",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_192_PrimalBlueprint_JoeDeSena.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_192_PrimalBlueprint_JoeDeSena.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:41.712736+00:00",
+        "exit_code": 0,
+        "body_bytes": 1281,
+        "headers_sha256": "e4d1a6506d06cef8a1e5e8892c59fcbd037792af2d62ac88069af24f438f63f8",
+        "body_sha256": "064c1da884dc6934ccf3a835140ef0d47067fca302d9e8a6e4ca4ebc140f4cb8",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_192_PrimalBlueprint_JoeDeSena.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1281",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 19,
+      "guid": "26106c23117b318625d0ffafff059c75",
+      "title_historical": "#189: Mark Sisson",
+      "pubDate_historical": "Tue, 03 Oct 2017 13:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/189-mark-sisson",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_189_PrimalBlueprint_MarkSissonKetoReset.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "116038690",
+      "archived_rss_duration": "01:20:35",
+      "description_sha256": "a6eec926d11bc4f7c26e5ebfa44f84045fd5cf437337eefe84e2b29b251d5909",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:41.714989+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "entrevistado por Elle Russ",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/189-mark-sisson",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:09.684516+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "8ed226b9e6f9250c49b58f473f82bed09da99a6e133555fd236b69a6cbc59968",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/189-mark-sisson",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_189_PrimalBlueprint_MarkSissonKetoReset.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:10.161210+00:00",
+        "exit_code": 0,
+        "body_bytes": 621,
+        "headers_sha256": "03645061b43cd74dd0929d0f5e2584d8adc09f6b8fb209647ad0e76fdaf2716b",
+        "body_sha256": "03645061b43cd74dd0929d0f5e2584d8adc09f6b8fb209647ad0e76fdaf2716b",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_189_PrimalBlueprint_MarkSissonKetoReset.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_189_PrimalBlueprint_MarkSissonKetoReset.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:41.714989+00:00",
+        "exit_code": 0,
+        "body_bytes": 1291,
+        "headers_sha256": "24bce259a4ac80a03f2ae0818c25d16c90445c2e0d7b4967726c3eabd017d245",
+        "body_sha256": "fc0b52f37c6e04204658892d77412b52a100891657455ab8e3d3be048a31f96a",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_189_PrimalBlueprint_MarkSissonKetoReset.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1291",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 20,
+      "guid": "da1fb68d4c4bfc2e00be2f54c19e78c4",
+      "title_historical": "#184: Mark Sisson & Elle Russ",
+      "pubDate_historical": "Wed, 30 Aug 2017 14:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/184-mark-sisson-elle-russ",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_184_PrimalBlueprint_ElleRussMarkSisson.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "54113358",
+      "archived_rss_duration": "01:04:26",
+      "description_sha256": "fc9c0598cf7081cce6cf6b1a972dedf2e94e43c7b4cb5a43f19bd8c6809282fe",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:41.889884+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/184-mark-sisson-elle-russ",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:11.132394+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "9f7c8b0f1c34e389656018b62da6ecdcef3f5690a826bb980fb37191e52ad7d9",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/184-mark-sisson-elle-russ",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_184_PrimalBlueprint_ElleRussMarkSisson.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:11.674403+00:00",
+        "exit_code": 0,
+        "body_bytes": 620,
+        "headers_sha256": "b3b112a0460a824d0c594923116e5872b9e988599ba6ac7558ccfd2f5af583c8",
+        "body_sha256": "b3b112a0460a824d0c594923116e5872b9e988599ba6ac7558ccfd2f5af583c8",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_184_PrimalBlueprint_ElleRussMarkSisson.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_184_PrimalBlueprint_ElleRussMarkSisson.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:41.889884+00:00",
+        "exit_code": 0,
+        "body_bytes": 1290,
+        "headers_sha256": "3b5d03eb61840658d3d70caea0c3bcf3f55769ec670382031cac3d156f39507d",
+        "body_sha256": "400ea8214b8d77643d93f219ba9ce477f3e959da582bdc437999db7ce6580091",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_184_PrimalBlueprint_ElleRussMarkSisson.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1290",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 21,
+      "guid": "50d75767c1fa315507075c3a9a02cb80",
+      "title_historical": "#176: Mark Sisson & Derek Flanzraich",
+      "pubDate_historical": "Wed, 05 Jul 2017 14:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/176-derek-flanzraich",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_176_PrimalBlueprint_DerekFlanzraich.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "43846309",
+      "archived_rss_duration": "52:12",
+      "description_sha256": "4176e38d8c5555881f8c97c7ed943e1a3456cdb9270f5bf67a8dbcfe3419f2d0",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:41.932838+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/176-derek-flanzraich",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:11.132544+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "ad1109e6b42f27b818b91dbf425d59e6ccf3d0a4caf197dae90babfb3e4f3784",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/176-derek-flanzraich",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_176_PrimalBlueprint_DerekFlanzraich.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:11.615472+00:00",
+        "exit_code": 0,
+        "body_bytes": 617,
+        "headers_sha256": "130b3ab0f66c254927dc4abc2ce4c9b5ab7f9f29d7eeaf72926d97c1db39de6e",
+        "body_sha256": "130b3ab0f66c254927dc4abc2ce4c9b5ab7f9f29d7eeaf72926d97c1db39de6e",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_176_PrimalBlueprint_DerekFlanzraich.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_176_PrimalBlueprint_DerekFlanzraich.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:41.932838+00:00",
+        "exit_code": 0,
+        "body_bytes": 1287,
+        "headers_sha256": "ec4b5265d4a196209dc7264609a7ce694553efaa5ae9216498ba6dda89c4dc9e",
+        "body_sha256": "4ac75eaf36acd187e65288fae2012fc02e14119a34b4f17897c15dee3358ee3b",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_176_PrimalBlueprint_DerekFlanzraich.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1287",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 22,
+      "guid": "f541782a38fb96ae0b4b0c44f6dd6d8d",
+      "title_historical": "#170:  Sarah Ballantyne, Ph.D.",
+      "pubDate_historical": "Tue, 23 May 2017 23:35:41 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/170-sarah-ballantyne-phd",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_170_PrimalBlueprint_SarahBallantyne.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "43652846",
+      "archived_rss_duration": "51:58",
+      "description_sha256": "d72399f95e292eb3378f568928219c127ed4d5abd15cdf2969424f779128092e",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:42.795728+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/170-sarah-ballantyne-phd",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:11.183599+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "2e09e444a9eed6c0b34939dd5508c6764645e7bba71a3426094271228dbd58f5",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/webpage/category/170-sarah-ballantyne-phd",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_170_PrimalBlueprint_SarahBallantyne.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:11.888048+00:00",
+        "exit_code": 0,
+        "body_bytes": 617,
+        "headers_sha256": "97363832a384864350c7b3bd30863896d4642eed22420fbc0c763dd8abc5aa0a",
+        "body_sha256": "97363832a384864350c7b3bd30863896d4642eed22420fbc0c763dd8abc5aa0a",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_170_PrimalBlueprint_SarahBallantyne.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_170_PrimalBlueprint_SarahBallantyne.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:42.795728+00:00",
+        "exit_code": 0,
+        "body_bytes": 1287,
+        "headers_sha256": "a8845a592dc24fe9dc8501e9c6f4034696aca31f29e4b810e7a83a7d6e87ced8",
+        "body_sha256": "5520e99b1f3edf1be0745c0c2f81243db8866ba695e530a40d12d0e5ff626537",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_170_PrimalBlueprint_SarahBallantyne.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1287",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 23,
+      "guid": "67b62e201dc4fed77ca51456718371e9",
+      "title_historical": "#166:  JJ Virgin & Mark Sisson",
+      "pubDate_historical": "Wed, 26 Apr 2017 14:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/166-jj-virgin",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_166_PrimalBlueprint_JJVirgin_NEW.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "63624950",
+      "archived_rss_duration": "44:11",
+      "description_sha256": "6630034c6ba7ee3f4b8fb877bb45b9097b104f3045139f9d55e214d15dce1d7f",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:42.800019+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/166-jj-virgin",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:11.226867+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "3b86a671dd77fb8d2c525f265325a33843b13e8346b01c4b2448561e008c8215",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/166-jj-virgin",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_166_PrimalBlueprint_JJVirgin_NEW.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:11.706503+00:00",
+        "exit_code": 0,
+        "body_bytes": 614,
+        "headers_sha256": "f46ca26153f065c67bd9fa90138dd2f0be37b0e47eba35a337fbae4721e03248",
+        "body_sha256": "f46ca26153f065c67bd9fa90138dd2f0be37b0e47eba35a337fbae4721e03248",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_166_PrimalBlueprint_JJVirgin_NEW.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_166_PrimalBlueprint_JJVirgin_NEW.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:42.800019+00:00",
+        "exit_code": 0,
+        "body_bytes": 1284,
+        "headers_sha256": "025db3d7704e6620f6a148d40680b587387af1f98aeb9f650a7704bc58b90d0c",
+        "body_sha256": "7e59ac6cd82fdf7565e77165418dfdafedc410e951203685987afffef7229b28",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_166_PrimalBlueprint_JJVirgin_NEW.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1284",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 24,
+      "guid": "8f54c81a7e700f9463acb3635d08d0b4",
+      "title_historical": "#159: Christine Hassler",
+      "pubDate_historical": "Wed, 08 Mar 2017 15:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/159-christine-hassler",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep159_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "70962934",
+      "archived_rss_duration": "49:17",
+      "description_sha256": "1bec395306af7170cafac2804777fa5e9df191b4e305941a0c50bdefdc6e0146",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:42.956833+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/159-christine-hassler",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:12.678700+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "2afd27dc217b540734a93003eb3f4c5a9025f4561f20ff1ca772fced043b7a76",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/159-christine-hassler",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep159_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:13.224823+00:00",
+        "exit_code": 0,
+        "body_bytes": 617,
+        "headers_sha256": "7c8952ed3dfc30e21c02d1a6213eca6c869b86bfcef3bba5a24f7dd7e1d189b6",
+        "body_sha256": "7c8952ed3dfc30e21c02d1a6213eca6c869b86bfcef3bba5a24f7dd7e1d189b6",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep159_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep159_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:42.956833+00:00",
+        "exit_code": 0,
+        "body_bytes": 1287,
+        "headers_sha256": "7299ee723736fca0b97b1427c395e4be9a658fcb1925e1043f91cdf231bd1dcd",
+        "body_sha256": "b5242516db4c0fd82edb2a8d5bd8f32af87c2f7837990eb049e3923f6a742700",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep159_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1287",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 25,
+      "guid": "5afcb6160e7dc93bb3104391d826a83b",
+      "title_historical": "#148: Christine Hassler",
+      "pubDate_historical": "Wed, 21 Dec 2016 15:55:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/148-christine-hassler",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep148_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "55858876",
+      "archived_rss_duration": "58:11",
+      "description_sha256": "e41556b783b98ddbab39faa402d549a9e19c061b9927bb382f03aefcc349eb42",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:43.013614+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "Mark Sisson conversa/entrevista o convidado",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/148-christine-hassler",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:12.750870+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "3c096a18f57ecd82a394321bda8b8cbc7128eb9bb6f3bb5b084c841259150e4b",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/webpage/category/148-christine-hassler",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep148_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:13.472091+00:00",
+        "exit_code": 0,
+        "body_bytes": 617,
+        "headers_sha256": "1bb4bbce5a0817b9ed8f7601bed141f491518a174428d238e100a98974edffdb",
+        "body_sha256": "1bb4bbce5a0817b9ed8f7601bed141f491518a174428d238e100a98974edffdb",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep148_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep148_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:43.013614+00:00",
+        "exit_code": 0,
+        "body_bytes": 1287,
+        "headers_sha256": "ff9eb31ab664587a3267cea95a17bd3bef3dd5f162537678d8df170b8bcb893a",
+        "body_sha256": "02777cc27d73f64a6482fc1911b59af537daa04e2fe858ae07bcabf670e6018c",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep148_PrimalBlueprint_ChristineHassler.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1287",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 26,
+      "guid": "85d75204b04b8d6df0f0d40ac07ef632",
+      "title_historical": "#124: Mark Sisson on Paleo(f)x and Life",
+      "pubDate_historical": "Wed, 15 Jun 2016 19:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/124-mark-sisson-on-paleofx-and-life",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_124_PrimalBlueprint_MarkBrad.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "47853520",
+      "archived_rss_duration": "33:11",
+      "description_sha256": "8a27f6f61b4184a07fb404ef400611d88e37a81cd74af9ad2684a2340de1c5a1",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:43.877713+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "convidado de Brad Kearns",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/124-mark-sisson-on-paleofx-and-life",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:12.772083+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "b61c65a4a0970c997a5cca5ab044b22d3dbfd37a10575a7ba1ea4e13dbddb38b",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/124-mark-sisson-on-paleofx-and-life",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_124_PrimalBlueprint_MarkBrad.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:13.253465+00:00",
+        "exit_code": 0,
+        "body_bytes": 610,
+        "headers_sha256": "3fd0edf60f59ee0ed22e03173755db1e0f83a7d1bf7d93b7f6316ae0631c6e3a",
+        "body_sha256": "3fd0edf60f59ee0ed22e03173755db1e0f83a7d1bf7d93b7f6316ae0631c6e3a",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_124_PrimalBlueprint_MarkBrad.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_124_PrimalBlueprint_MarkBrad.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:43.877713+00:00",
+        "exit_code": 0,
+        "body_bytes": 1280,
+        "headers_sha256": "e3e863db6fa13767c15d8650bacabb23f1a68079b20228dc53240308d15556ac",
+        "body_sha256": "f6ac2a01dbbad755f05a191f4213d28069f10e1ec4698845e8edbd9d2d1d3c09",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_124_PrimalBlueprint_MarkBrad.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1280",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 27,
+      "guid": "4069cd887d816796757d398c22898df5",
+      "title_historical": "#98: Stacy Toth",
+      "pubDate_historical": "Wed, 16 Dec 2015 01:48:27 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/98-stacy-toth",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_98_PrimalBlueprint_StacyToth_Thrive.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "87891356",
+      "archived_rss_duration": "36:38",
+      "description_sha256": "0207b5d685635962d77add9d39670286ea0c9feb432162ab10fc32f1b3ca9c3b",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:43.877611+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "entrevista Stacy Toth",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/98-stacy-toth",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:12.950218+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "f11d8c02948e1596dd1e84fb13589ca5970304edccbe510937a9832e12b640a1",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/webpage/category/98-stacy-toth",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_98_PrimalBlueprint_StacyToth_Thrive.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:13.697084+00:00",
+        "exit_code": 0,
+        "body_bytes": 617,
+        "headers_sha256": "a8ced627cb2aa823fe6ecdbb821483127c500337c07411c3e4207d967ad16007",
+        "body_sha256": "a8ced627cb2aa823fe6ecdbb821483127c500337c07411c3e4207d967ad16007",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_98_PrimalBlueprint_StacyToth_Thrive.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_98_PrimalBlueprint_StacyToth_Thrive.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:43.877611+00:00",
+        "exit_code": 0,
+        "body_bytes": 1287,
+        "headers_sha256": "425b7dcefd1efa55048f161251dca88e3fbb061ff9005a10aa8c4da22a64e843",
+        "body_sha256": "6afd5c545583e5eabfa9f9f4b59d4ef568979067459e96878a15ba99e620e661",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_98_PrimalBlueprint_StacyToth_Thrive.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1287",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 28,
+      "guid": "e1bdfb934b448002660f8a5b1a1284c8",
+      "title_historical": "#87: Brad Kearns and Mark Sisson",
+      "pubDate_historical": "Tue, 29 Sep 2015 22:25:51 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/87-brad-kearns-and-mark-sisson",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_87_PrimalBlueprint-SissonLongevity.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "28507062",
+      "archived_rss_duration": "33:57",
+      "description_sha256": "c59d9e9939d0dfd5aabada2f592b69797cae7e107a9b60d8b4ed7babdcc60080",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:44.040929+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "conversa com Brad Kearns",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/87-brad-kearns-and-mark-sisson",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:14.306624+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "8d1cda6a69b2b60fd3687e7621200db24af0425c501ac606ce9d6755e1d897a7",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/webpage/category/87-brad-kearns-and-mark-sisson",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_87_PrimalBlueprint-SissonLongevity.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:15.025117+00:00",
+        "exit_code": 0,
+        "body_bytes": 616,
+        "headers_sha256": "7aff3940fa658da900cc340958e0cb28bae07cbcf0da3c04fcc11359cef7ba44",
+        "body_sha256": "7aff3940fa658da900cc340958e0cb28bae07cbcf0da3c04fcc11359cef7ba44",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_87_PrimalBlueprint-SissonLongevity.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_87_PrimalBlueprint-SissonLongevity.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:44.040929+00:00",
+        "exit_code": 0,
+        "body_bytes": 1286,
+        "headers_sha256": "527ee9c2796d7c785af462bbf1f1960ef4c4af5feddd27b734d2b19d21e73d03",
+        "body_sha256": "c17e223558ead4c201dd5a1a7743c0f55f1ab240135d02f91f80fe501b2e151b",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_87_PrimalBlueprint-SissonLongevity.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1286",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 29,
+      "guid": "81f83e4ca34135d4b53c7167543dbec6",
+      "title_historical": "#83: Katy Bowman & Mark Sisson",
+      "pubDate_historical": "Tue, 01 Sep 2015 12:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/83-katy-bowman-mark-sisson",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_83_PrimalBlueprint-DontJustSitThere.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "26322285",
+      "archived_rss_duration": "31:21",
+      "description_sha256": "f4005a26aeebaec1db8f437dfde3baebce8c863152bdefb24e09ed5883c22e68",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:44.087058+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "discute com Katy Bowman",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/83-katy-bowman-mark-sisson",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:14.322812+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "c3c76f2a455d3e52a62a5a1f27dbc157e956c79afb0a87e7db13d54de54ed8e2",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/83-katy-bowman-mark-sisson",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_83_PrimalBlueprint-DontJustSitThere.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:14.864325+00:00",
+        "exit_code": 0,
+        "body_bytes": 617,
+        "headers_sha256": "1ecfb2647bca360956db14cdc13c54b76cb93028bd9d6359a08af5914a093632",
+        "body_sha256": "1ecfb2647bca360956db14cdc13c54b76cb93028bd9d6359a08af5914a093632",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_83_PrimalBlueprint-DontJustSitThere.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_83_PrimalBlueprint-DontJustSitThere.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:44.087058+00:00",
+        "exit_code": 0,
+        "body_bytes": 1287,
+        "headers_sha256": "c44b650981f64310a6353fd69f31d12a7261a36435c3cc531ce7ed7f189b3981",
+        "body_sha256": "6060021b1daaf042dd8119d401ed77df04af9ede49471a32cf79275b521ed51f",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_83_PrimalBlueprint-DontJustSitThere.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1287",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 30,
+      "guid": "5338e6b93ebf537046f39bb883833de9",
+      "title_historical": "#72: Mark Sisson, Elle Russ, & Brad Kearns",
+      "pubDate_historical": "Wed, 17 Jun 2015 12:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/71-mark-sisson-elle-russ-brad-kearns",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_72_PrimalBlueprint-BradElleMark.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "41853073",
+      "archived_rss_duration": "49:50",
+      "description_sha256": "5a891d47962968532c8e2e1b68c586f34add6574967738470a065ccb81b75202",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:44.955108+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "participa do painel com Brad e Elle; descrição usa Mark",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/71-mark-sisson-elle-russ-brad-kearns",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:14.544632+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "eab0797130c5c781a52f437d8d40bd96c90126b0409c88dfd061657b44389e02",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/71-mark-sisson-elle-russ-brad-kearns",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_72_PrimalBlueprint-BradElleMark.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:15.024986+00:00",
+        "exit_code": 0,
+        "body_bytes": 613,
+        "headers_sha256": "3c7ae134bc3e0272665a6ecb910af6e28db16b03ef5e34d50ecc9fa00b82f767",
+        "body_sha256": "3c7ae134bc3e0272665a6ecb910af6e28db16b03ef5e34d50ecc9fa00b82f767",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_72_PrimalBlueprint-BradElleMark.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_72_PrimalBlueprint-BradElleMark.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:44.955108+00:00",
+        "exit_code": 0,
+        "body_bytes": 1283,
+        "headers_sha256": "49536d09eb4bd27d3c96d9c859be3742f0d20bb2146a29afbc7c307a6e76c080",
+        "body_sha256": "0dc3c0ffee3828ba08d76622855db7c8f8356281d28df5b70e66627ed2b106e3",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_72_PrimalBlueprint-BradElleMark.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1283",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 31,
+      "guid": "e37827f80b25dc35fe3e974e2f105ac9",
+      "title_historical": "#71: Laird Hamilton",
+      "pubDate_historical": "Wed, 10 Jun 2015 12:00:00 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/71-laird-hamilton",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_71_PrimalBlueprint-LairdHamilton.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "39451793",
+      "archived_rss_duration": "46:58",
+      "description_sha256": "6d71ad05e9850eb4e0e5e10f67671376690acbcd87be9f7716504d9e4f542078",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:44.959535+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "anfitrião de Laird Hamilton",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/71-laird-hamilton",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:14.771820+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "85c6e85ddb96304696a8f2e162f498405a60d6577a9e8d1d8aca732a188a3d70",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/71-laird-hamilton",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "0",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_71_PrimalBlueprint-LairdHamilton.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:15.321474+00:00",
+        "exit_code": 0,
+        "body_bytes": 614,
+        "headers_sha256": "5821a7449887ff8356dce76e3f55b87e60657d9decbc8e41b3fce3cac0157992",
+        "body_sha256": "5821a7449887ff8356dce76e3f55b87e60657d9decbc8e41b3fce3cac0157992",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_71_PrimalBlueprint-LairdHamilton.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_71_PrimalBlueprint-LairdHamilton.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:44.959535+00:00",
+        "exit_code": 0,
+        "body_bytes": 1284,
+        "headers_sha256": "5130259eb38fed18cfc1fb340cd3e3cc659ff01301cb4f75727f54277d748f46",
+        "body_sha256": "7bfa81d26c76983d8196386529629bc706850824f83660712d94f019bbb92b8c",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_71_PrimalBlueprint-LairdHamilton.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1284",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 32,
+      "guid": "31f7024fd3b70fcc4250d870559f6584",
+      "title_historical": "#62: Q&A with Mark Sisson",
+      "pubDate_historical": "Wed, 08 Apr 2015 22:39:06 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/62-qa-with-mark-sisson",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_62_PrimalBlueprintPodcast-Qs11.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "24773119",
+      "archived_rss_duration": "29:30",
+      "description_sha256": "42e5bca15eb3b0961ecb87b92c515b03df84932ace78f61b5770ca11f61361cc",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:45.122640+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "entrevistado por Brad Kearns",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/62-qa-with-mark-sisson",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:15.941956+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "5ec4b4a19ffdd7cb365107ddbd02584c451496884f569037b48de0b8d5f920b4",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/webpage/category/62-qa-with-mark-sisson",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_62_PrimalBlueprintPodcast-Qs11.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:16.695636+00:00",
+        "exit_code": 0,
+        "body_bytes": 612,
+        "headers_sha256": "86bcaa860b41f96eff117a969729fbdf71b7b33378390d6a1b10647e5e2d60b9",
+        "body_sha256": "86bcaa860b41f96eff117a969729fbdf71b7b33378390d6a1b10647e5e2d60b9",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_62_PrimalBlueprintPodcast-Qs11.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_62_PrimalBlueprintPodcast-Qs11.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:45.122640+00:00",
+        "exit_code": 0,
+        "body_bytes": 1282,
+        "headers_sha256": "98eeff716e191e2dd36a32e4a4dbaf1d7784d2fab5b58c7b9b4175cfc1961ae1",
+        "body_sha256": "ea71687bb28ca83e8a575ca33dcfc190e0fa5119127624260e10160359af0551",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_62_PrimalBlueprintPodcast-Qs11.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1282",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    },
+    {
+      "index": 33,
+      "guid": "53f085b59b12515a2aa1811fec396687",
+      "title_historical": "#61: Abel James",
+      "pubDate_historical": "Wed, 01 Apr 2015 21:59:24 +0000",
+      "page_url_exact": "https://primalblueprint.libsyn.com/61-abel-james",
+      "enclosure_url_exact": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_61_PrimalBlueprintPodcast-AbelJames.mp3?dest-id=171930",
+      "archived_rss_enclosure_type": "audio/mpeg",
+      "archived_rss_enclosure_length": "40403748",
+      "archived_rss_duration": "48:06",
+      "description_sha256": "ce8bc8f8ed3efad0932a17879fbf4f5b731b588f19ab47dc7d8fa7d05d4a5fe8",
+      "participation_source": "Archived RSS description, not current inaccessible page/audio",
+      "identity": "Exact archivedGUID/page/enclosure pairing; no same-title substitute or related-version identity claimed.",
+      "historical_gap_preserved": "prior_Sisson_named_candidate_access_or_edition_reconciliation_needed",
+      "known_related_reading_preserved": null,
+      "current_access_date_utc": "2026-11-26T20:10:45.159554+00:00",
+      "audio_complete_downloaded": false,
+      "audio_listened": false,
+      "new_asr": false,
+      "participation": {
+        "status": "explicitly_described_in_archived_metadata",
+        "role_description": "anfitrião de Abel James",
+        "accuracy_limit": "Metadata description only; recording not accessible/heard or independently identified by audio."
+      },
+      "description_hash_scope": "Original archived RSS description HTML, before plain-text conversion",
+      "page_current": {
+        "requested_url": "https://primalblueprint.libsyn.com/61-abel-james",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:09:16.108825+00:00",
+        "exit_code": 0,
+        "body_bytes": 560,
+        "headers_sha256": "d81c90bdf16285f3d9ce3a8ae7645931939c67b5343119828adf06367cf9e2fa",
+        "body_sha256": "190bddcb570de8f4883a57aa0d40a69dfc71c1fa70091ae4f1e3f71664da8c36",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://primalblueprint.libsyn.com/webpage/category/61-abel-james",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "560",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_head_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_61_PrimalBlueprintPodcast-AbelJames.mp3?dest-id=171930",
+        "method": "HEAD",
+        "attempted_at_utc": "2026-11-26T20:09:16.873685+00:00",
+        "exit_code": 0,
+        "body_bytes": 617,
+        "headers_sha256": "49406f503e8774b1e63e60fe26a7369e5aa543423fd5c6231c50332fa4240aab",
+        "body_sha256": "49406f503e8774b1e63e60fe26a7369e5aa543423fd5c6231c50332fa4240aab",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_61_PrimalBlueprintPodcast-AbelJames.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "0",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      },
+      "enclosure_get_range_current": {
+        "requested_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/primalblueprint/Ep_61_PrimalBlueprintPodcast-AbelJames.mp3?dest-id=171930",
+        "method": "GET",
+        "attempted_at_utc": "2026-11-26T20:10:45.159554+00:00",
+        "exit_code": 0,
+        "body_bytes": 1287,
+        "headers_sha256": "2fd6d0aa3d4177f2cd3638a8794d65e022fb5b904e196f926c483554d928bf7e",
+        "body_sha256": "28f3d2757d9a603535f3f48bc4be7e31bb55899dfc0613a45f98ae6558a537cc",
+        "http": {
+          "http_code": "404",
+          "url_effective": "https://traffic.libsyn.com/secure/primalblueprint/Ep_61_PrimalBlueprintPodcast-AbelJames.mp3?dest-id=171930",
+          "content_type": "text/html; charset=UTF-8",
+          "size_download": "1287",
+          "num_redirects": "1",
+          "ssl_verify_result": "0"
+        },
+        "historical_error_body_not_audio": true
+      }
+    }
+  ]
+}

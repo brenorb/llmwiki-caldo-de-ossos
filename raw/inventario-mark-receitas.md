@@ -998,3 +998,9 @@ As passagens pertinentes são [Josh Axe com Brad Kearns](../wiki/fontes/mark-sis
 ## DoisTXT posteriores aos142
 
 O [corteZach Bush/Terri Cole](youtube-mda-pos142-2-2026-11-25.json) tem doisIDs novos,1.632 linhas/151.859caracteres, dez partes contíguas e144 IDs incrementais após conciliação dos12 raw anteriores. Anúncios e encerramentos incluídos; nenhuma passagem temática reconhecida. Elle Russ conduz; publicidade de produtos/livro é classificada, sem atribuir o canal inteiro aSisson. Todos os85/88 blocos chegaram ao fim; SRT não localizado, sem fabricar substituto ou repetirASR.
+
+## Conciliação da fila local em26 de novembro
+
+A [nota de reconciliação](../wiki/fontes/mda-midias-reconciliacao196.md) preserva196IDsMDA:144leituras incrementais,29declarações/remissões anteriores,15lacunas de acesso,6vazios novos com prova visual amostrada e2vazios anteriores. Não háTXTnovo pronto nessa fila. A conciliação não reescreveu flags nem criou novas leituras. Dos144objetos de prova pública,66têm hashTXT explícito revalidado e78declaram íntegra porID sem esse campo; hashes físicos atuais não foram promovidos a prova histórica extra. [Todas as196linhas](mda-midias-reconciliacao196-2026-11-26.tsv)
+
+Os seteXML locais reparseados produzem **1.140GUIDs**; o arquivo histórico tem1.000 e oTSV parseia998, omitindo43aeade958bace33bb793648764dbfc2 e a6ac81d06fdcc79ff8febbc6ba5045b6. O [inventário completo](mark-rss-uniao1140-2026-11-26.json) conserva todos, sem contar catálogo como leitura. As34candidaturas históricas, remissõesPK e lacunas de equivalência ficam enumeradas na nota/JSON, sem substituir entrevistas distintas ou atribuir o canal inteiro aSisson. Os errosHTTP são históricos e não foram retestados nesta auditoria.

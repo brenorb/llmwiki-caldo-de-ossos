@@ -1210,3 +1210,7 @@ Revisão por outro agente identificou “oito tipos” no candidato do [caderno 
 ## [2026-11-26] revisão |QA independente do podcast1:frequência e classificação da prova
 
 Registrado [QA do lote50](wiki/fontes/wapf-podcast-lote1-50.md),31 fontes/50 intervalos focais/100 hashes, sem nova leitura integral de todos os originais. Caderno conserva uma ou duas vezes por mês e depois provavelmente uma vez para língua, como consumo e não tempo. Espaçamentos corrigidos com44 destinos de links inalterados; flag privada human_read não virou comprovação humana. ParecerQA e manifesto conferidos; congelados intactos.
+
+## [2026-11-26] revisão |MDA196 e RSS1140:conciliar pendências sem repetir leituras
+
+Incorporada [reconciliação de mídias](wiki/fontes/mda-midias-reconciliacao196.md) com196IDs e34candidatosRSS históricos. Revisor leu parecer inteiro e conferiu181TXT/166estados,13registros das144leituras e seteXML/1.140GUIDs. NenhumTXTnovo pronto na filaMDA;15falhas de acesso e vazios/quadros mantêm lacunas próprias. Preservadas diferenças de prova66hashesTXT explícitos/78declarações porID, sem retroatividade inventada. XML1000contém doisGUIDs omitidos noTSV998; união completa registrada, sem novos episódios lidos ou receitas inferidas.

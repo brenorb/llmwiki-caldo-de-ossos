@@ -307,3 +307,6 @@
 - [Caldo de frango de seis horas e outras descrições dos podcasts](wiki/temas/receitas-wapf-podcast-lote3.md)
 
 - [WAPF:13 textos de galerias, depoimentos e limites de inferência](wiki/fontes/wapf-gallery13.md)
+
+- [Mark Sisson/MDA:196 IDs, fila real e lacunas de edição](wiki/fontes/mda-midias-reconciliacao196.md)
+- [Primal Blueprint:união das sete capturas RSS,1.140 GUIDs](raw/mark-rss-uniao1140-2026-11-26.json)

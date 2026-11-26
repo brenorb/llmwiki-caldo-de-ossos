@@ -40,3 +40,6 @@ O [caderno culinário do lote](../temas/receitas-wapf-medidas-health6.md) reúne
 
 
 **Conferência posterior de identidade:** o [HTML dos quatro registros](wapf-identidades-colisoes.md) identifica8723 no texto de chumbo e473 em homeopatia. As duas rotas deFluoride têm TXT completos iguais exceto uma linha de tradução/navegação. A soma porURL permanece válida como cobertura de leitura; esse par não conta como dois artigos independentes.
+
+
+**Complemento visual posterior:** as [sete tabelas e quatro figuras do45](wapf-hormonal-tabelas.md) foram recuperadas e lidas integralmente. A lacuna doTXT permanece como registro daquela etapa; agora há medidas de cardápio, com caldo/arroz distintos, sem análise química ou ensaio isolado do caldo.

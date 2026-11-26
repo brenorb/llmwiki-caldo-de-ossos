@@ -279,3 +279,6 @@ A [nota dos50 textos](wapf-health-lote6-2026-11-25.md) reúne achados, cartas di
 
 
 A [verificação posterior dosIDs](wapf-identidades-colisoes.md) resolve a ambiguidade dirigida: HTML identifica8723/473 nas páginas de chumbo/homeopatia, enquanto as duas rotas deFluoride repetem o mesmo TXT salvo navegação. Dados originais permanecem preservados; contagem porURL não é contagem de artigos independentes.
+
+
+A lacuna visual do45 foi preenchida depois por [sete tabelas e quatro figuras](wapf-hormonal-tabelas.md). Há porções de caldo/cardápio e arroz em redução, sem dose medida de nutrientes ou teste de eficácia. Preservado o escopo da leituraTXT anterior.

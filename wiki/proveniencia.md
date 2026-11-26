@@ -156,3 +156,6 @@ A [conferência dos quatroHTML](fontes/wapf-identidades-colisoes.md) verifica oi
 
 
 Os [doisTXT pós142](../raw/youtube-mda-pos142-2-2026-11-25.json) têm27arquivos congelados e originais físicos conferidos, dez faixas integrais/concatenações verificadas e disjunção contra142IDs de12raw anteriores. Resultado negativo não valida alegações comerciais nem substitui escuta/visualização; SRTausente e timestamps de início permanecem explícitos.
+
+
+O [complemento de balanço hormonal](fontes/wapf-hormonal-tabelas.md) distingue texto antes lido de11imagens recuperadas/lidas depois. As medidas de arroz não foram convertidas em volume de caldo; porção de cardápio não virou dose clínica ou composição nutricional. Sete tabelas com29linhas/78células lidas,11hashes físicos conferidos e três tabelas culinárias revistas visualmente pelo revisor.

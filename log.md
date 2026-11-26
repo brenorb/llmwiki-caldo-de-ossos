@@ -1078,3 +1078,8 @@ Conferidos quatroHTML/TXT preservados e oito hashes: postid/shortlink distinguem
 ## [2026-11-25] ingestão | MDA: ZachBush eTerriCole,144IDs incrementais
 
 Incorporada [leitura integral dos doisTXT](raw/youtube-mda-pos142-2-2026-11-25.json),1.632linhas/151.859caracteres, sem novas receitas/passagens reconhecidas. Conferidos27arquivos congelados, originais físicos, dez partes/faixas e12raw com142IDs prévios disjuntos. Todos os blocos concluídos; SRTausente, sem novaASR, escuta ou revisão visual. AtribuiçãoElle/convidados e publicidade permanecem separadas.
+
+
+## [2026-11-25] ingestão | Sete tabelas e quatro figuras do artigo hormonal WAPF
+
+Preenchida a lacuna visual do45 por [leitura integral dos11objetos](wiki/fontes/wapf-hormonal-tabelas.md),11HTTP200 e hashes físicos. Transcrição própria completa no acervo; revisor leu parecer e reviu tabelas3/5/7. Registrados quatro usos de caldo/cardápio com medidas, sem confundir cup de arroz com cup de caldo, totais dietéticos com composição ou casos com ensaio isolado. O título cortado da figura1 permanece limitado.

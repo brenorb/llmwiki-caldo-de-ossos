@@ -1145,3 +1145,8 @@ Incorporados [50 TXT do lote4](wiki/fontes/wapf-other-lote4-50.md),4.676 linhas/
 ## [2026-11-26] ingestão | Aquisição249 das classes restantes, sem fingir leitura
 
 Registrados [249 alvos e acesso individual](wiki/fontes/wapf-classes-restantes-aquisicao249.md), todosHTTP200; revisor conferiu498 hashes/contagens,237TXT não brancos e12 extrações brancas de índices. Preservadas flags originais que contavam whitespace em dois casos e metadados de alvo/itens listados distintos. Sete lotes preparados, sem somar resenhas, podcasts, índices ou galerias como novas leituras por download. Textos, imagens, mídia e destinos terão provas próprias; other200 permanece separado.
+
+
+## [2026-11-26] revisão | Seleção inglesa237: artefatos e ressalva de proveniência
+
+Incorporada [auditoria dos237 GUIDs](wiki/fontes/wapf-audio-en-processamento237.md), subconjunto doRSS608,126h25min25s. Revisor leu parecer inteiro e reconferiu948 hashes/tamanhos e16 entregáveis congelados. Há236 logs estritos e um log181 com todos1–17 presentes e6–12 duplicados/intercalados; não prova áudio faltante nem pede novaASR automaticamente. Nenhum artefato ausente, nova transcrição, audição ou leitura semântica. Limites de download/probe e tolerâncias de timestamps não foram confundidos com corte de duração por gravação.

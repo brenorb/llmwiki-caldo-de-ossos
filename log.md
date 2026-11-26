@@ -1160,3 +1160,8 @@ O [esclarecimento focal](wiki/fontes/wapf-audio-en-processamento237.md#o-episód
 ## [2026-11-26] ingestão | Doze índices recuperados e artigo de caldo antes negativo
 
 Incorporada [leitura integral dos12 main estáticos](wiki/fontes/wapf-direct-index-main12.md),2.072 linhas/99.113 caracteres,18 faixas e36 hashes; índices/destinos permanecem distintos. Root leu parecer eSoup&Broth completo. A navegação revelou [Making Stock on the Farm](wiki/fontes/wapf-making-stock-farm.md), fora dos393 positivos e sem prova no conjunto anterior:16 linhas/3.318 caracteres lidos por agente/root, dois hashes eWPID6035. [Caderno](wiki/temas/receita-wapf-stock-farm.md) preserva escala/medidas/diluição e ausências. Fechados7/7 corpos disponíveis da lista diretaSoup&Broth, sem ampliar a todo o site. São101 dos1.022 negativos documentados;921 ainda sem prova nesse conjunto.
+
+
+## [2026-11-26] revisão | Terminologia deHA/GAG na resenha de Nourishing Broth
+
+Criada [nota terminológica](wiki/fontes/hialuronano-terminologia.md) com definições indexadasIUPAC/Essentials of Glycobiology4e e limites de acesso direto403/reCAPTCHA. Corrigida a classificação deHA como proteoglicano na resenha, sem inferir porcentagem pela gelificação ou dados teciduais. Não houve capítulo/livro inteiro lido, novo experimento ou evidência clínica de caldo. Composição liga a distinção às medições próprias.

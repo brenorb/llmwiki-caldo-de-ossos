@@ -4,6 +4,8 @@ A composição depende dos tecidos usados, da relação entre água e sólidos, 
 
 Consulte a [tabela de componentes por tipo de caldo](componentes-por-caldo.md) para quantidades, métodos, unidades e lacunas por preparação.
 
+Ácido hialurônico, GAGs e proteoglicanos têm [definições distintas](../fontes/hialuronano-terminologia.md). A menção a eles em uma resenha ou a presença de gel não fornecem percentual no caldo; a concentração depende da análise da preparação identificada.
+
 ## Da panela à porção
 
 | Variável | O que muda | Como interpretar |

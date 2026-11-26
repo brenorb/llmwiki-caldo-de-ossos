@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-26",
+  "record_kind": "targeted terminology access record, not full chapter or experimental study reading",
+  "trigger": "Tim Boyd's2014 WAPF Nourishing Broth review, paragraph about HA/GAG/proteoglycans; source35 of book-review batch1",
+  "queries": [
+    "site.ncbi.nlm.nih.gov/books hyaluronan not covalently Essentials of Glycobiology",
+    "site.goldbook.iupac.org hyaluronan glycosaminoglycans",
+    "site.ncbi.nlm.nih.gov/books Hyaluronan 4th edition core protein"
+  ],
+  "sources_used": [
+    {
+      "url": "https://goldbook.iupac.org/terms/view/G02659",
+      "title": "IUPAC Gold Book — glycosaminoglycan",
+      "doi": "10.1351/goldbook.G02659",
+      "part_consulted": "Indexed definition identifying glycosaminoglycans as polysaccharides containing amino sugars",
+      "direct_open_result": "403 Forbidden",
+      "full_page_read_claim": false
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK579925/?report=printable",
+      "title": "Essentials of Glycobiology,4th edition, chapter17: Proteoglycans and Sulfated Glycosaminoglycans",
+      "year": 2022,
+      "doi": "10.1101/glycobiology.4e.17",
+      "authors": ["Catherine L. R. Merry", "Ulf Lindahl", "John Couchman", "Jeffrey D. Esko"],
+      "part_consulted": "Indexed section PROTEOGLYCAN AND GLYCOSAMINOGLYCAN COMPOSITION: core protein/covalent GAG chains and hyaluronan exception",
+      "direct_open_result": "Browser-check/reCAPTCHA interstitial",
+      "full_chapter_or_figures_read_claim": false
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK579967/?report=printable",
+      "title": "Essentials of Glycobiology,4th edition, Glossary",
+      "year": 2022,
+      "part_consulted": "Indexed Hyaluronan definition: nonsulfated GAG, not covalently linked to protein",
+      "direct_open_result": "Browser-check/reCAPTCHA interstitial",
+      "full_glossary_read_claim": false
+    }
+  ],
+  "additional_attempt_not_used_as_current_edition": {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK1953/",
+    "result": "Browser-check/reCAPTCHA interstitial; earlier edition, not claimed as full reading"
+  },
+  "scope": "Chemical terminology only. No broth sample, concentration, extraction yield, clinical endpoint or supplement dose studied.",
+  "limits": [
+    "Definitions were available through indexed extracts; direct pages did not provide their bodies.",
+    "No challenge solving, authentication bypass, chapter reconstruction or claim of full textbook reading.",
+    "Other search results were not used as primary support for the definitions."
+  ]
+}

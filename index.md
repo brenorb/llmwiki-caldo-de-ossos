@@ -286,3 +286,4 @@
 - [WAPF: doze índices recuperados e leitura da lista Soup & Broth](wiki/fontes/wapf-direct-index-main12.md)
 - [Making Stock on the Farm: leitura adicional de fonte temática antes negativa](wiki/fontes/wapf-making-stock-farm.md)
 - [Caldo bovino/cervo em escala de fazenda: método, diluição e limites](wiki/temas/receita-wapf-stock-farm.md)
+- [Ácido hialurônico, GAGs e proteoglicanos: terminologia e limite das alegações](wiki/fontes/hialuronano-terminologia.md)

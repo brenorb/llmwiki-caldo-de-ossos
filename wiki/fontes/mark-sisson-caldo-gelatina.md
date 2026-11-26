@@ -220,3 +220,10 @@ A aveia/fruta/abóbora permanecem no original; citar pó de caldo não torna o p
 ## Lacunas de mídia após a rodada de processamento
 
 [Quinze downloads ficaram sem acesso](mda-midias-lacunas-2026-11-25.md), antes da transcrição, por desafio de autenticação do YouTube. A tentativa oficial em RSS para uma edição relacionada de Saladino retornou404. Não são cortes por duração, leituras negativas ou fontes integralmente cobertas.
+
+
+## Zach Bush e Terri Cole: dois textos completos sem receitas do tema
+
+O [corte posterior aos142](../../raw/youtube-mda-pos142-2-2026-11-25.json) acrescenta *Your Microbiome and Health* e *Boundary Boss*:1.632linhas/151.859caracteres integralmente lidos, com abertura, anúncios e encerramento;85/85e88/88blocos concluídos. Os doisIDs são disjuntos dos142 anteriores, chegando a144leituras incrementais. Não é todo o histórico do canal.
+
+Elle Russ entrevista os dois convidados; nenhuma fala temática foi estabelecida como deSisson ouBradKearns. Zach promoveION/Restore e discute modelos de microbioma; Terri promove livro/curso. Nenhum dosTXT contém receita ou menção explícita de caldo/gelatina/colágeno/tutano, B9/K/cobre ou repigmentação. Alegações de produtos e de saúde não foram validadas. Negativo vale para texto reconhecido, sem escuta/visualização integral. Não háSRT no acervo conhecido; as partesTXT recompõem os originais sem cortes de duração, preservando duplicações/erros doASR.

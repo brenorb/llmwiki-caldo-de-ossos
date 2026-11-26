@@ -1073,3 +1073,8 @@ Revisado o rascunho completo e incorporadas [receitas e descrições](wiki/temas
 ## [2026-11-25] revisão | IDs reais noHTML e duplicação deFluoride
 
 Conferidos quatroHTML/TXT preservados e oito hashes: postid/shortlink distinguem8723(chumbo) de473(homeopatia). A [comparação integral das duas rotas deFluoride](wiki/fontes/wapf-identidades-colisoes.md) encontra somente a linha de navegação de tradução como diferença; hash dos demais textos é idêntico. Acrescentada correção sem reescrever osIDs originais de catálogo ou confundir URLs com artigos independentes.
+
+
+## [2026-11-25] ingestão | MDA: ZachBush eTerriCole,144IDs incrementais
+
+Incorporada [leitura integral dos doisTXT](raw/youtube-mda-pos142-2-2026-11-25.json),1.632linhas/151.859caracteres, sem novas receitas/passagens reconhecidas. Conferidos27arquivos congelados, originais físicos, dez partes/faixas e12raw com142IDs prévios disjuntos. Todos os blocos concluídos; SRTausente, sem novaASR, escuta ou revisão visual. AtribuiçãoElle/convidados e publicidade permanecem separadas.

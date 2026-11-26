@@ -255,3 +255,5 @@
 - [WAPF: achados e limites do sexto lote health](wiki/fontes/wapf-health-lote6-2026-11-25.md)
 
 - [IDs WAPF e duplicação textual entre duas rotas deFluoride](wiki/fontes/wapf-identidades-colisoes.md)
+
+- [MDA: dois textos completos posteriores aos142, com conciliação](raw/youtube-mda-pos142-2-2026-11-25.json)

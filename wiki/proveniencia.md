@@ -153,3 +153,6 @@ O [caderno culinário do sexto lote](temas/receitas-wapf-medidas-health6.md) con
 
 
 A [conferência dos quatroHTML](fontes/wapf-identidades-colisoes.md) verifica oito hashes e concordância postid/shortlink. O catálogo copiou473 para um HTML que identifica8723. DoisTXT completos deFluoride são iguais removendo só uma linha de navegação, sem pressupor equivalência visual/histórica. Preservados os registros originais; cobertura porURL não afirma independência editorial.
+
+
+Os [doisTXT pós142](../raw/youtube-mda-pos142-2-2026-11-25.json) têm27arquivos congelados e originais físicos conferidos, dez faixas integrais/concatenações verificadas e disjunção contra142IDs de12raw anteriores. Resultado negativo não valida alegações comerciais nem substitui escuta/visualização; SRTausente e timestamps de início permanecem explícitos.

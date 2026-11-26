@@ -1,0 +1,570 @@
+{
+  "date": "2026-11-25",
+  "scope": "Two fully read available ASR texts, not continuous audiovisual review or full channel history",
+  "new_fully_read": 2,
+  "previous_incremental_unique_ids": 142,
+  "count_after_incremental_unique_ids": 144,
+  "lines": 1632,
+  "characters": 151859,
+  "duration_seconds": 7413.202,
+  "frozen_files_physically_verified": 27,
+  "prior_raw_files_verified": [
+    {
+      "file": "youtube-mda-cgm-pos128-2026-11-25.json",
+      "sha256": "2023cc9a7e6ad0c73806c21ec56a423f3cabb247927751bd7ffcb91abee551cf",
+      "ids": [
+        "zVSVQInvVPE"
+      ],
+      "count": 1
+    },
+    {
+      "file": "youtube-mda-dane-pos127-2026-11-25.json",
+      "sha256": "7b12d36c1fc77988df0e2617672310a67cda872b54efe3ec74bf188be9008d99",
+      "ids": [
+        "nQTBRKQe33Y"
+      ],
+      "count": 1
+    },
+    {
+      "file": "youtube-mda-drew-2026-11-25.json",
+      "sha256": "4f12e7b5ee42f058ddbd45933061aa9202913627a962ab6ed0fbe984a82401cc",
+      "ids": [
+        "IU5rmyeycJo"
+      ],
+      "count": 1
+    },
+    {
+      "file": "youtube-mda-leitura-13-2026-11-25.json",
+      "sha256": "649b31d4cd9f5c98b9988b047553cf39a83175e88f2be24aaec3a39d2d5cf42d",
+      "ids": [
+        "aVW1vXEvPeY",
+        "YRddIb6qWZk",
+        "hAhCweMfrF8",
+        "xK-eaiF7cIY",
+        "Hl7XQllTLZU",
+        "D36N4MDxkjY",
+        "sCAyFZpsNXk",
+        "vrY5_t-x4B0",
+        "PJZDRdwaKUg",
+        "NA6b7ExQYFo",
+        "1A0msu0FDl8",
+        "UayvOd0xlAU",
+        "OMe9zAqxwX0"
+      ],
+      "count": 13
+    },
+    {
+      "file": "youtube-mda-leitura-14-2026-11-25.json",
+      "sha256": "694993e85e458fcc2f97bf40ff6e735b23c77afd20d004b16e9c57d931213bf3",
+      "ids": [
+        "PE5OzCyrKgA",
+        "MbWv6DLatto",
+        "dV128EwP8s4",
+        "FxQXRGmJdvk",
+        "3pE00qEyibU",
+        "NJg5t_Oi-BM",
+        "Falc3P_8Gzg",
+        "PxGdKAWQcw0",
+        "6j6ms3NtvjI",
+        "eQmr00vQ5gI",
+        "osTO5dAZj3Y",
+        "9kPoLeiKt3c",
+        "If-eKAahxu8",
+        "B4ZYkTPdWMA"
+      ],
+      "count": 14
+    },
+    {
+      "file": "youtube-mda-leitura-24-2026-11-25.json",
+      "sha256": "f0cd703fd0b62d8152629c5e2e3a322acd67002702d9f61f45040b55e618de24",
+      "ids": [
+        "II7uGNiXq2k",
+        "-74LKg1-p5c",
+        "jZIQMe7KyAE",
+        "mhU4aK5MEJk",
+        "vF8YUqHMFtk",
+        "TRUGjM8j6a8",
+        "0fpdmkIr8hY",
+        "0Xz20vedDvc",
+        "n_DdvxWFDxU",
+        "GDHzUovkwxQ",
+        "Ag6cXv569N0",
+        "jQnOBS4mKLg",
+        "LeMwUx_2HZg",
+        "F6vYPQciO2g",
+        "SOGodhBRxHA",
+        "Vemc4DrA-88",
+        "aQbI7tFlY5s",
+        "oU188so9cjc",
+        "4ucSmGtdKZE",
+        "gXMyl7kw1gY",
+        "k-i1F52g5L0",
+        "jj_kGB7396w",
+        "ufZF3jt95go",
+        "LsrvhpXTjxA"
+      ],
+      "count": 24
+    },
+    {
+      "file": "youtube-mda-leitura-26-2026-11-25.json",
+      "sha256": "410efc143b583c30e08f455e3d46924ef22974482e6a30e40ea9000b6f0bccfa",
+      "ids": [
+        "_bA0KsvpZaU",
+        "_vLXc-DCrqU",
+        "egyyMBhoC00",
+        "xK1tY13Eqek",
+        "KdEAOQYxccM",
+        "4bYxDcyoTpA",
+        "7KFlg5hLma8",
+        "2YogM9wXAJg",
+        "8nNP62RBm74",
+        "rlzQf9mZDKg",
+        "Tdg8pSgaeZ4",
+        "ximZfmqh2hI",
+        "76HjVOoUX6U",
+        "GrHG7m4m4-A",
+        "nXpO2_LG-zA",
+        "HNRiFnyqTxQ",
+        "RRDC8erSNqw",
+        "2ALvlfrSjJI",
+        "NTneiCjZYs4",
+        "gsUL3a1CxUQ",
+        "DOFd5v_wf6M",
+        "oTr7Xc2Jzik",
+        "QAxttAxwEBo",
+        "QkC3rJzh5CU",
+        "ifF85u3X-jQ",
+        "ZufVOE3Ghd0"
+      ],
+      "count": 26
+    },
+    {
+      "file": "youtube-mda-leitura-27-2026-11-25.json",
+      "sha256": "e6a7f094ebf67af1e83fdb348fc69cbba9497fc555636928274459c1300294e6",
+      "ids": [
+        "60JqWVwj4x8",
+        "MQX3Il2siXI",
+        "m2Gnxcktkeg",
+        "7F0-yWZ_Q1g",
+        "hdSeBtlM3zE",
+        "7etPgrbc25U",
+        "BnRzivtzXHw",
+        "GIxYjDc_MDY",
+        "Mpo61LLcfIM",
+        "tpQVHjHmus4",
+        "n34a7RLk1_o",
+        "JTMTZDDmUkM",
+        "bA6J7TVYDq8",
+        "ilPcvZqPYlE",
+        "qBBMzeFr38M",
+        "3ktRmhr2IWE",
+        "_YhXdMOWTQM",
+        "4HnT3YgOKcQ",
+        "NI_Xtk46gsI",
+        "PzHJTyaBz1g",
+        "slR0Nweib34",
+        "rjwnSuhLXx0",
+        "_xWx4X5IwZ8",
+        "2ZB5hDEHHGE",
+        "d7rIzLKYvXU",
+        "sP8FIf5-i3g",
+        "uvXR-4sNbM8"
+      ],
+      "count": 27
+    },
+    {
+      "file": "youtube-mda-leitura-4-2026-11-25.json",
+      "sha256": "0d098cf375e16dfd59f723f3f9c81db421951665e1dd2ec5534daa3325542883",
+      "ids": [
+        "-IPPwBc3GLw",
+        "82IhJWTAE2o",
+        "LM_Tkhh25Do",
+        "F3Q2uKcQOYo"
+      ],
+      "count": 4
+    },
+    {
+      "file": "youtube-mda-leitura-9-2026-11-25.json",
+      "sha256": "8be9002e360c59c1755b47d6207a0348027142cccc1eb0772ed7055ff7149894",
+      "ids": [
+        "lV6WCbO2abg",
+        "UJVQhVg6jIs",
+        "5iB0YXzVSPs",
+        "BsBlEkMX0iw",
+        "x3kGLJSRmBU",
+        "r9w-VCI3k0U",
+        "WU2Z4LGOMOk",
+        "w5vSZDxNCxQ",
+        "997Y9uMgIlo"
+      ],
+      "count": 9
+    },
+    {
+      "file": "youtube-mda-pos118-9-2026-11-25.json",
+      "sha256": "0cff899020ae1b19d4a692640c809673d49fc19e626b0dbf033e620d377cce03",
+      "ids": [
+        "l3-tAStLJyg",
+        "6EwbDMf6gfE",
+        "D3Nwk_ldse0",
+        "8pI3jrNPclw",
+        "14C6Cs3V0Po",
+        "VCZUzij78W0",
+        "sqwIYC8Q-C0",
+        "6lOp0HPPegQ",
+        "jBmtSzRv5sE"
+      ],
+      "count": 9
+    },
+    {
+      "file": "youtube-mda-pos129-13-2026-11-25.json",
+      "sha256": "5df110b720389ed19475a0687e75255eb71bd62b23c3b277f41bc75190ebebb1",
+      "ids": [
+        "aeEyNPpAoV8",
+        "vOiOufQ3L8g",
+        "At5u1tFmKzg",
+        "-y65c1PwF0s",
+        "wWj4haJu-Ik",
+        "0Q_WPxZYXso",
+        "uVKvx0rMgFU",
+        "EYYJM1yRGj4",
+        "vxfFTX1GjxY",
+        "n37eveZhGMg",
+        "jLOT_z5tvEU",
+        "-YUIao0HOdU",
+        "FxIbJEhMrzQ"
+      ],
+      "count": 13
+    }
+  ],
+  "overlap_previous_ids": [],
+  "private_ledger_sha256": "2001e42fd6444a6f026585dc20829001bc7aeeb94adc64912b57d9e207d6b6c6",
+  "private_report_sha256": "e5987eef3b13131a39f499c6384e94aa5e30fa5e5bcb2f1ff218e887500b2299",
+  "rows": [
+    {
+      "id": "ru8HoikHR1s",
+      "title": "Your Microbiome and Health | Zach Bush",
+      "url": "https://www.youtube.com/watch?v=ru8HoikHR1s",
+      "channel": "Mark's Daily Apple",
+      "channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "upload_date": "20201005",
+      "duration_metadata": 3648,
+      "duration_decoded": 3647.541,
+      "first_asr_start": 4,
+      "last_asr_start": 3619,
+      "tail_after_last_start": 28.541000000000167,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": [
+        85
+      ],
+      "asr_blocks_completed": [
+        85
+      ],
+      "all_chunk_markers_contiguous": true,
+      "last_chunk": [
+        85,
+        85
+      ],
+      "timeout_per_media": false,
+      "lines": 625,
+      "chars": 73885,
+      "new_asr": false,
+      "network": false,
+      "media_listened": false,
+      "visual_review": false,
+      "previous_overlap": [],
+      "full_text_read": true,
+      "read_by": "Codex; leitura do ASR existente",
+      "read_ranges_inclusive": [
+        [
+          1,
+          141
+        ],
+        [
+          142,
+          271
+        ],
+        [
+          272,
+          438
+        ],
+        [
+          439,
+          602
+        ],
+        [
+          603,
+          625
+        ]
+      ],
+      "speaker_attribution": "Elle Russ e Zach Bush por descrição oficial local e contexto textual; não diarização/audição; turnos curtos/ambíguos não têm atribuição absoluta",
+      "sisson": "Participação vocal não estabelecida; canal não prova presença. Elle faz referência textual “Mark Son” em L59/05:02; não é fala dele.",
+      "speaker_bradt": "Brad Kearns não é identificado como entrevistador ou locutor destes dois textos",
+      "finding": "Nenhuma receita ou passagem explícita de caldo, gelatina, colágeno, tutano, B9/folato, vitamina K, cobre ou repigmentação identificada no TXT integral",
+      "evidence_class": "Entrevista, opiniões/modelos, relatos e promoção comercial; não ensaio original de caldo",
+      "quality_limits": [
+        "ASR --text sem diarização; repetições, duplicações e inícios sobrepostos/fora de ordem preservados.",
+        "Metadados locais e descrições oficiais são base de identidade; mídia completa foi apenas copiada/hasheada/ffprobe, não ouvida ou vista.",
+        "Último timestamp marca início de segmento, não fim da fala; intervalo até duração não prova cauda sem fala nem omissão.",
+        "SRT não localizado no acervo por ID; nenhum SRT foi fabricado; não houve nova ASR.",
+        "Estudos, sites, documentários, livros e produtos citados não foram abertos/verificados; conteúdo clínico não adotado como orientação.",
+        "Negativo vale para texto reconhecido, não demonstra ausência no audiovisual original."
+      ],
+      "read_at_utc": "2026-11-26T01:30:21.150263+00:00",
+      "files": [
+        {
+          "file": "ru8HoikHR1s.webm",
+          "bytes": 49637698,
+          "sha256_original": "ca5b38b0f917815a07a9fee543f64baa7a112a7eb8225a0262dfca0c5d8a3f1e",
+          "sha256_frozen": "ca5b38b0f917815a07a9fee543f64baa7a112a7eb8225a0262dfca0c5d8a3f1e"
+        },
+        {
+          "file": "ru8HoikHR1s.info.json",
+          "bytes": 8643160,
+          "sha256_original": "5bc6d722f4c6e97fe5c6467104dd47837b5a258b18083c584b872ef9ca7753be",
+          "sha256_frozen": "5bc6d722f4c6e97fe5c6467104dd47837b5a258b18083c584b872ef9ca7753be"
+        },
+        {
+          "file": "ru8HoikHR1s.estado.json",
+          "bytes": 1345,
+          "sha256_original": "6d924b8f0afe6b53c7715a501ed138b86ce3d1d1f45151ed886581d0af46db79",
+          "sha256_frozen": "6d924b8f0afe6b53c7715a501ed138b86ce3d1d1f45151ed886581d0af46db79"
+        },
+        {
+          "file": "ru8HoikHR1s.txt",
+          "bytes": 73885,
+          "sha256_original": "4eb9bf2baf4db6dd5673da65754b193bf6abb84ff168a8641f7f92dc19a1f17d",
+          "sha256_frozen": "4eb9bf2baf4db6dd5673da65754b193bf6abb84ff168a8641f7f92dc19a1f17d"
+        },
+        {
+          "file": "ru8HoikHR1s.log",
+          "bytes": 9775,
+          "sha256_original": "743850b0b640b3f3de422dea50192fe637c54d5e05878b105963702c2fe07463",
+          "sha256_frozen": "743850b0b640b3f3de422dea50192fe637c54d5e05878b105963702c2fe07463"
+        }
+      ],
+      "parts": [
+        {
+          "start": 1,
+          "end": 141,
+          "sha256": "ab3a2aeb7044632fdae2b4e009d0f4f4a3bb308671288e171d86f2130dda98e1",
+          "bytes": 17277,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:00:04",
+          "last_asr_start": "00:14:22"
+        },
+        {
+          "start": 142,
+          "end": 271,
+          "sha256": "098023fb1bd4e235de4d5ee86efc18d53ea708080309a8afba8edda24d09f358",
+          "bytes": 17789,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:14:30",
+          "last_asr_start": "00:29:21"
+        },
+        {
+          "start": 272,
+          "end": 438,
+          "sha256": "824a0b28d0b36d2c855dd7784fe291adea27051bd4b7b746d4a55b297956a038",
+          "bytes": 17885,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:29:25",
+          "last_asr_start": "00:43:29"
+        },
+        {
+          "start": 439,
+          "end": 602,
+          "sha256": "7dc7e38c573ed36ce8459840131ce36bd2d64742c55e6d2ef907c9817b8a527a",
+          "bytes": 17940,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:43:34",
+          "last_asr_start": "00:57:40"
+        },
+        {
+          "start": 603,
+          "end": 625,
+          "sha256": "2139cb6e26d014d72b7921343f20d26a0b18b1e4d1948c0bac8beb88a0ac9c34",
+          "bytes": 2994,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:57:41",
+          "last_asr_start": "01:00:19"
+        }
+      ],
+      "srt": {
+        "status": "not located in known ID inventory",
+        "sha256": null,
+        "fabricated": false
+      }
+    },
+    {
+      "id": "A12yW7z7wE0",
+      "title": "Terri Cole | Boundary Boss",
+      "url": "https://www.youtube.com/watch?v=A12yW7z7wE0",
+      "channel": "Mark's Daily Apple",
+      "channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+      "upload_date": "20210412",
+      "duration_metadata": 3766,
+      "duration_decoded": 3765.661,
+      "first_asr_start": 4,
+      "last_asr_start": 3735,
+      "tail_after_last_start": 30.661000000000058,
+      "asr_model": "parakeet-v3-int8",
+      "asr_blocks_announced": [
+        88
+      ],
+      "asr_blocks_completed": [
+        88
+      ],
+      "all_chunk_markers_contiguous": true,
+      "last_chunk": [
+        88,
+        88
+      ],
+      "timeout_per_media": false,
+      "lines": 1007,
+      "chars": 77974,
+      "new_asr": false,
+      "network": false,
+      "media_listened": false,
+      "visual_review": false,
+      "previous_overlap": [],
+      "full_text_read": true,
+      "read_by": "Codex; leitura do ASR existente",
+      "read_ranges_inclusive": [
+        [
+          1,
+          190
+        ],
+        [
+          191,
+          399
+        ],
+        [
+          400,
+          654
+        ],
+        [
+          655,
+          924
+        ],
+        [
+          925,
+          1007
+        ]
+      ],
+      "speaker_attribution": "Elle Russ e Terri Cole por descrição oficial local e contexto textual; não diarização/audição; turnos curtos/ambíguos não têm atribuição absoluta",
+      "sisson": "Participação vocal não estabelecida; canal não prova presença. Nenhuma fala identificada como Sisson neste TXT.",
+      "speaker_bradt": "Brad Kearns não é identificado como entrevistador ou locutor destes dois textos",
+      "finding": "Nenhuma receita ou passagem explícita de caldo, gelatina, colágeno, tutano, B9/folato, vitamina K, cobre ou repigmentação identificada no TXT integral",
+      "evidence_class": "Entrevista, opiniões/modelos, relatos e promoção comercial; não ensaio original de caldo",
+      "quality_limits": [
+        "ASR --text sem diarização; repetições, duplicações e inícios sobrepostos/fora de ordem preservados.",
+        "Metadados locais e descrições oficiais são base de identidade; mídia completa foi apenas copiada/hasheada/ffprobe, não ouvida ou vista.",
+        "Último timestamp marca início de segmento, não fim da fala; intervalo até duração não prova cauda sem fala nem omissão.",
+        "SRT não localizado no acervo por ID; nenhum SRT foi fabricado; não houve nova ASR.",
+        "Estudos, sites, documentários, livros e produtos citados não foram abertos/verificados; conteúdo clínico não adotado como orientação.",
+        "Negativo vale para texto reconhecido, não demonstra ausência no audiovisual original."
+      ],
+      "read_at_utc": "2026-11-26T01:30:21.151298+00:00",
+      "files": [
+        {
+          "file": "A12yW7z7wE0.webm",
+          "bytes": 49420029,
+          "sha256_original": "e6278026140cb5a9d04d8fd3e26561e6e9daac544be564464852b4ac65af1fcd",
+          "sha256_frozen": "e6278026140cb5a9d04d8fd3e26561e6e9daac544be564464852b4ac65af1fcd"
+        },
+        {
+          "file": "A12yW7z7wE0.info.json",
+          "bytes": 514859,
+          "sha256_original": "a70827f1e1e057744a875a11f0de40c982c2e9e7c0676bb2080b9f7499ce9a44",
+          "sha256_frozen": "a70827f1e1e057744a875a11f0de40c982c2e9e7c0676bb2080b9f7499ce9a44"
+        },
+        {
+          "file": "A12yW7z7wE0.estado.json",
+          "bytes": 1333,
+          "sha256_original": "5c035b25f39d1fbdbe4f242c03312473f5d632e45b310c5124ca8038df31cb56",
+          "sha256_frozen": "5c035b25f39d1fbdbe4f242c03312473f5d632e45b310c5124ca8038df31cb56"
+        },
+        {
+          "file": "A12yW7z7wE0.txt",
+          "bytes": 77974,
+          "sha256_original": "977921c0c34d0ebd368fce8752f76dd878d9c02cfae1d66b6d04632df395f3d4",
+          "sha256_frozen": "977921c0c34d0ebd368fce8752f76dd878d9c02cfae1d66b6d04632df395f3d4"
+        },
+        {
+          "file": "A12yW7z7wE0.log",
+          "bytes": 9707,
+          "sha256_original": "e93882b86e276e0e9ccb8bac8d4f2020e09e608a5edc2fda3e33e6642b10efb5",
+          "sha256_frozen": "e93882b86e276e0e9ccb8bac8d4f2020e09e608a5edc2fda3e33e6642b10efb5"
+        }
+      ],
+      "parts": [
+        {
+          "start": 1,
+          "end": 190,
+          "sha256": "19094c1f4516bc3e355b0d45c19e5a3dd75fd5bb38f588f26b4406804c1449e8",
+          "bytes": 17879,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:00:04",
+          "last_asr_start": "00:15:01"
+        },
+        {
+          "start": 191,
+          "end": 399,
+          "sha256": "ce4850845edcd2703ece8e5e48d3159cc54edc45c5c6e9b7afef7c12ce6782fe",
+          "bytes": 17982,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:15:20",
+          "last_asr_start": "00:30:20"
+        },
+        {
+          "start": 400,
+          "end": 654,
+          "sha256": "c9cea98dee7502e238c270822c1078a10bf6c1bf099bb96fa57eb4e022e41e08",
+          "bytes": 17976,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:30:22",
+          "last_asr_start": "00:43:57"
+        },
+        {
+          "start": 655,
+          "end": 924,
+          "sha256": "ec2cbeebac81e1f96c2f06cc0765e5cd210e1d28881961cec81fae235b5f7022",
+          "bytes": 17940,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:43:58",
+          "last_asr_start": "00:57:23"
+        },
+        {
+          "start": 925,
+          "end": 1007,
+          "sha256": "4ed90ab764ca90a082ecb14cb76fc41065166e5a62d27cda60bedcb937dfb27f",
+          "bytes": 6197,
+          "read": true,
+          "untruncated": true,
+          "first_asr_start": "00:57:28",
+          "last_asr_start": "01:02:15"
+        }
+      ],
+      "srt": {
+        "status": "not located in known ID inventory",
+        "sha256": null,
+        "fabricated": false
+      }
+    }
+  ],
+  "limits": [
+    "Negative findings are limited to recognized text; no full listening or visual review",
+    "All announced ASR chunks completed; no per-media duration limit",
+    "SRT/diarization absent; timestamps are segment starts, not exact speaker boundaries",
+    "Studies/products/sites/books mentioned were not read or validated; medical claims not adopted"
+  ]
+}

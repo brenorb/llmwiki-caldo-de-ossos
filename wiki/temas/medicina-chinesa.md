@@ -66,3 +66,5 @@ Nos [programas e textos do lote1](../fontes/wapf-other-lote1-50.md), anúncios d
 ## Interpretação de Josh Axe em entrevista
 
 Em [Ancient Remedies,38:28–38:45](https://www.youtube.com/watch?v=FxIbJEhMrzQ), Josh Axe associa cores de alimentos a sistemas de órgãos e enumera caldo de frango,gengibre e alho no contexto imune. A [nota da entrevista](../fontes/mark-sisson-caldo-gelatina.md#josh-axe-com-brad-kearns-caldo-na-narrativa-e-na-cozinha) registra a interpretação dele, sem tratá-la como ensaio,protocolo universal ou receita com proporções. Não é dado de vitaminaK no caldo: a menção posterior é sobre aipo. A passagem não identifica um efeito imunológico medido dessa combinação.
+
+O [quinto lote WAPF](../fontes/wapf-other-lote5-42.md) contém anúncios/sinopses de medicina oriental, cinco elementos e alimentos que aquecem/esfriam. Foram registrados como modelos tradicionais anunciados, sem receita ou ensaio clínico do caldo fornecidos nesses trechos. MCT de óleo de coco é um tema químico distinto.

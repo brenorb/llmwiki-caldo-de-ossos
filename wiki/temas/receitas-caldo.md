@@ -248,3 +248,5 @@ O [caderno de receitas de coco dos leitores de Mark’s Daily Apple](../fontes/m
 Para uma sopa de costela suína, gengibre e daikon e outras variações chinesas, veja [caldo de ossos na medicina chinesa tradicional](medicina-chinesa.md).
 
 Para aproveitar fundo de peixe, reduza no fogão antes de resfriar e congele em cubos pequenos. Use como tempero em sopas ou legumes. O pirão tradicional citado na live leva farinha de mandioca. Para uma versão com menos amido, bata couve-flor cozida com um pouco do fundo para obter um creme. [Live do Cozinha de Pedra](https://www.instagram.com/cozinhadepedra/reel/CUlYbyDJ5Aj/)
+
+O [caderno de sobras e caldos de Sarah Pope](receitas-wapf-other-lote5.md) inclui sopa de frango, curry com2–3cups de caldo e sopa bovina; preserva as medidas e mostra quando arroz/amido são originais ou opcionais e quando a proposta com menos carboidratos é nossa.

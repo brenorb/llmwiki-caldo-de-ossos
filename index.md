@@ -289,3 +289,6 @@
 - [Ácido hialurônico, GAGs e proteoglicanos: terminologia e limite das alegações](wiki/fontes/hialuronano-terminologia.md)
 - [WAPF:50 resenhas completas, autoria e limites dos livros anunciados](wiki/fontes/wapf-book-review50.md)
 - [Gelatina com frutas, proporção de caldo, chowders e bisque: descrições nas resenhas](wiki/temas/aplicacoes-wapf-resenhas50.md)
+
+- [WAPF:42 páginas do quinto lote e fechamento dos242 textos do complemento](wiki/fontes/wapf-other-lote5-42.md)
+- [Sopa de frango, curry com caldo, sopa bovina e versões com menos carboidratos](wiki/temas/receitas-wapf-other-lote5.md)

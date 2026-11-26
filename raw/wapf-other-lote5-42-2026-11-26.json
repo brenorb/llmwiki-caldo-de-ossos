@@ -1,0 +1,2362 @@
+{
+  "date": "2026-11-26",
+  "scope": "42 current extracted TXT bodies, other batch5, indices00–41; closes selected242-body complement, not entire WAPF site",
+  "counts": {
+    "urls": 42,
+    "lines": 8063,
+    "characters": 1293773,
+    "physical_hashes_checked": 84,
+    "read_ranges": 140
+  },
+  "selected_other_union": {
+    "urls": 242,
+    "lines": 26232,
+    "characters": 4895310,
+    "physical_hashes": 484,
+    "all_unique_urls": true
+  },
+  "private_artifact_sha256": {
+    "catalogo-fixo-42.jsonl": "05b4ec3b5f8c038af89bf9eb250e8462f04a70506d7a41782c298bc250cdc365",
+    "recuperacao.jsonl": "51303d055cf8777ebd7b2fc40f1843d61c3c6dce8d7119bce4be1fb2b969eb21",
+    "prova-extracao-42.jsonl": "167778cd97b799154fa2ada6eae2d4f7131fad9dde428460a46f683b3b9116f3",
+    "prova-leitura-faixa-00-20.jsonl": "429790aa8d65126b47a370a5d108a5198201cbf09020d908b3324287ab1515c1",
+    "prova-leitura-faixa-21-41.jsonl": "c5d12170df11eedb254208765e812eff4ed6ba17f8fed996f7f9feaf7b6278ce",
+    "ledger-faixa-00-20.jsonl": "cd178acf73c73507f938746a195c720fb10cdb892d64da0e2a3fe9452231ad07",
+    "ledger-faixa-21-41.jsonl": "00d92e37ad7839ff369aecdef42f0c3eef42e0743e44c41a29643502bf311279",
+    "ledger-integral-42.jsonl": "df1c898aa724862560c0c7e119493092ae7c861c2647b4aff05fb936564b2006",
+    "parecer-faixa-00-20.md": "294f8a683b320ac225f9989f80a1bd84024353b871814e3ababb29ec24fc1446",
+    "parecer-faixa-21-41.md": "2359e8692da50a44a6c67f66caeed0f8ed9051a09eb479ed2526bd18246d9241",
+    "fechamento-faixa-00-20.json": "fa6fc35ec448bac7215eab3ea9e619a54dd7de39bcc148ab2a6ae6f73afbfa70",
+    "fechamento-faixa-21-41.json": "f195274fd3f173622752073f65494cc3f2da12575ea40e6fc0807c07b3b55900",
+    "caderno-culinario-integral-42.md": "1f6cd142138040122b21f24516c82481022c635c29ddf6450f5b86c5ceee93be",
+    "registro-critico-infantil-terapeutico-42.md": "e816ffa4a842aa2ef47fd407586b6bfbf6f13c5d5fcb99ee18e82ab03614b72e",
+    "qa-caderno-culinario-integral-42.md": "f537f9072fc661484bed0fb6214c644c936ff728eed3da2294ebf73553578bcd",
+    "fechamento-leitura-integral-42.json": "c68cb228e676aa7f53b69247d49c456de25ec522f1e883dbafa5e867ed5dea5a",
+    "fechamento-caderno-culinario-integral-42.json": "02748361f5e6786ef897793fb8b93eedad236464c3dd3bc7687a7ee4f88e234e"
+  },
+  "root_review": {
+    "full_both_reports_read": true,
+    "full_culinary_notebook_read": true,
+    "full_critical_record_read": true,
+    "full_author_qa_read": true,
+    "qa_independent": false,
+    "direct_original_txt_ranges": {
+      "03": [
+        [
+          1,
+          40
+        ]
+      ],
+      "17": [
+        [
+          150,
+          155
+        ],
+        [
+          210,
+          216
+        ],
+        [
+          234,
+          236
+        ]
+      ]
+    },
+    "root_original_read_output_reference": "3619bf",
+    "all_physical_hashes_and_ranges_checked": true,
+    "whole_original42_reread_by_root": false
+  },
+  "limits": [
+    "Full delegated reading of available current extracted TXT, not proof of full historical body, images, comments, audio, video, DVD or external destinations.",
+    "Recipes and calendar announcements are not clinical evidence or instructions from the announced classes.",
+    "Referenced studies were not independently opened in this batch.",
+    "Infant/gestation/therapeutic protocols remain critical records, without clinical adoption or keto adaptation."
+  ],
+  "rows": [
+    {
+      "batch_index": 0,
+      "id": 2441,
+      "url": "https://www.westonaprice.org/the-liberation-wellness-home-cooking/",
+      "canonical": "https://www.westonaprice.org/the-liberation-wellness-home-cooking/",
+      "title": "Liberation Wellness Home Cooking",
+      "author": "Ellen Ussery",
+      "displayed_date": "September 28, 2010",
+      "meta": {
+        "article:published_time": "2010-09-28T13:47:33+00:00",
+        "author": "Ellen Ussery"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 2441,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Liberation Wellness Home Cooking",
+      "catalog_chars": 2128,
+      "html_sha256_physical": "720edc22371ff0d935b770277a2290873af3b2fd9fccf71b13434f9e49fbce67",
+      "text_sha256_physical": "c0f584a9bfc0c88310a04f507ff68ddf279e042b1a89228f9991e75c5e06c8de",
+      "lines": 12,
+      "chars": 2132,
+      "read_ranges_inclusive": [
+        [
+          1,
+          12
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "709908"
+      ],
+      "html_locator": "000-2441.html",
+      "text_locator": "000-2441.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/the-liberation-wellness-home-cooking/",
+      "retrieved_at_utc": "2026-11-26T02:00:59.222841+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 1,
+      "id": 6137,
+      "url": "https://www.westonaprice.org/the-skinny-on-fats-french-translation/",
+      "canonical": "https://www.westonaprice.org/the-skinny-on-fats-french-translation/",
+      "title": "The Skinny on Fats, French Translation",
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "May 31, 2004",
+      "meta": {
+        "article:published_time": "2004-05-31T17:40:29+00:00",
+        "article:modified_time": "2024-01-12T21:26:46+00:00",
+        "author": "Sally Fallon and Mary G. Enig, PhD"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 6137,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "The Skinny on Fats, French Translation",
+      "catalog_chars": 68285,
+      "html_sha256_physical": "7134187f97c0eb3e50e57f7cffd5ebb920847b9bc1e3f659fcc45b1f18a612b9",
+      "text_sha256_physical": "186fcbbbf7f75cbd77f46feeefe3db1c716eb3e8f3b1ec557a3175c1dbb92ca7",
+      "lines": 139,
+      "chars": 68027,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ],
+        [
+          26,
+          50
+        ],
+        [
+          51,
+          75
+        ],
+        [
+          76,
+          100
+        ],
+        [
+          101,
+          120
+        ],
+        [
+          121,
+          139
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "709908",
+        "2a9398",
+        "bd8743",
+        "a232a3",
+        "e7b826",
+        "74e01e"
+      ],
+      "html_locator": "001-6137.html",
+      "text_locator": "001-6137.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/the-skinny-on-fats-french-translation/",
+      "retrieved_at_utc": "2026-11-26T02:00:59.193734+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 2,
+      "id": 32513,
+      "url": "https://www.westonaprice.org/the-skinny-on-fats-korean-translation/",
+      "canonical": "https://www.westonaprice.org/the-skinny-on-fats-korean-translation/",
+      "title": "The Skinny on Fats – Korean Translation",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "February 17, 2020",
+      "meta": {
+        "article:published_time": "2020-02-17T14:08:24+00:00",
+        "article:modified_time": "2023-12-08T21:41:57+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 32513,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "The Skinny on Fats – Korean Translation",
+      "catalog_chars": 30661,
+      "html_sha256_physical": "0d2a43f310e46caca5e5a5d0bb748aa430467ec3f5650b1d98f8462d4edeacf5",
+      "text_sha256_physical": "e83aed5a07d9b7baadc28e0960a583c982b8e6c05f4168ffe485dab9a75c5110",
+      "lines": 146,
+      "chars": 30273,
+      "read_ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          42
+        ],
+        [
+          43,
+          58
+        ],
+        [
+          59,
+          84
+        ],
+        [
+          85,
+          101
+        ],
+        [
+          102,
+          112
+        ],
+        [
+          113,
+          130
+        ],
+        [
+          131,
+          146
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "6e32a1",
+        "6d6cd9",
+        "767e75",
+        "e86ce4",
+        "1d37bf",
+        "eadbd3",
+        "92daf3",
+        "c5cb74"
+      ],
+      "html_locator": "002-32513.html",
+      "text_locator": "002-32513.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/the-skinny-on-fats-korean-translation/",
+      "retrieved_at_utc": "2026-11-26T02:00:58.723705+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 3,
+      "id": 1678,
+      "url": "https://www.westonaprice.org/tips-for-limited-time-and-a-limited-budget-video-by-sarah-pope/",
+      "canonical": "https://www.westonaprice.org/tips-for-limited-time-and-a-limited-budget-video-by-sarah-pope/",
+      "title": "Tips for Limited Time and a Limited Budget Video by Sarah Pope",
+      "author": "Sarah Pope",
+      "displayed_date": "November 2, 2011",
+      "meta": {
+        "article:published_time": "2011-11-02T18:17:52+00:00",
+        "article:modified_time": "2021-02-18T17:56:22+00:00",
+        "author": "Sarah Pope"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1678,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Tips for Limited Time and a Limited Budget Video by Sarah Pope",
+      "catalog_chars": 8906,
+      "html_sha256_physical": "0e9a8bb14dbdf5e9c778bee5c494f7ee0dbf9fd65e10403c7ee4455a1408361e",
+      "text_sha256_physical": "cd852efb3b52c2f71d056aa5cc2933dbb0e758e8c80e4ee812d6aea450df272e",
+      "lines": 40,
+      "chars": 8845,
+      "read_ranges_inclusive": [
+        [
+          1,
+          40
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "fd098b"
+      ],
+      "html_locator": "003-1678.html",
+      "text_locator": "003-1678.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/tips-for-limited-time-and-a-limited-budget-video-by-sarah-pope/",
+      "retrieved_at_utc": "2026-11-26T02:00:59.713536+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 4,
+      "id": 29393,
+      "url": "https://www.westonaprice.org/tradiciones-sabias-podcast/",
+      "canonical": "https://www.westonaprice.org/tradiciones-sabias-podcast/",
+      "title": "Tradiciones Sabias Podcast",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2026-11-14T15:00:41+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 29393,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Tradiciones Sabias Podcast",
+      "catalog_chars": 110088,
+      "html_sha256_physical": "956213ce4bcff9a87e0e208dcfdc16384e95becba6a29f5184f438828c8d6efd",
+      "text_sha256_physical": "0baa5329861999d88b60e82ef4e57b3e8a2782394c90a7d372228396d886a261",
+      "lines": 856,
+      "chars": 107459,
+      "read_ranges_inclusive": [
+        [
+          1,
+          119
+        ],
+        [
+          120,
+          257
+        ],
+        [
+          258,
+          415
+        ],
+        [
+          416,
+          574
+        ],
+        [
+          575,
+          641
+        ],
+        [
+          642,
+          688
+        ],
+        [
+          689,
+          733
+        ],
+        [
+          734,
+          768
+        ],
+        [
+          769,
+          817
+        ],
+        [
+          818,
+          856
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "afc349",
+        "37cb02",
+        "c19a60",
+        "dab89e",
+        "d06211",
+        "5c60b3",
+        "1a05fd",
+        "728e4b",
+        "d7a194",
+        "724a2a"
+      ],
+      "html_locator": "004-29393.html",
+      "text_locator": "004-29393.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/tradiciones-sabias-podcast/",
+      "retrieved_at_utc": "2026-11-26T02:00:59.658967+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 5,
+      "id": 1919,
+      "url": "https://www.westonaprice.org/traditional-fats-and-sacred-foods-video-by-sarah-pope-2/",
+      "canonical": "https://www.westonaprice.org/traditional-fats-and-sacred-foods-video-by-sarah-pope-2/",
+      "title": "Traditional Fats and Sacred Foods Video by Sarah Pope",
+      "author": "Sarah Pope",
+      "displayed_date": "June 9, 2011",
+      "meta": {
+        "article:published_time": "2011-06-09T19:42:01+00:00",
+        "article:modified_time": "2021-02-18T17:20:52+00:00",
+        "author": "Sarah Pope"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1919,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Traditional Fats and Sacred Foods Video by Sarah Pope",
+      "catalog_chars": 12090,
+      "html_sha256_physical": "fccaded20669480a96d4fc99637d9df8ef4f82a842bb75d6c581adadd9e7d6c6",
+      "text_sha256_physical": "152fc44015aac9544affe5cf6e00514ee7344307c0062e032bf65d44669c51be",
+      "lines": 66,
+      "chars": 11987,
+      "read_ranges_inclusive": [
+        [
+          1,
+          66
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "8d9810"
+      ],
+      "html_locator": "005-1919.html",
+      "text_locator": "005-1919.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/traditional-fats-and-sacred-foods-video-by-sarah-pope-2/",
+      "retrieved_at_utc": "2026-11-26T02:01:00.161172+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 6,
+      "id": 1917,
+      "url": "https://www.westonaprice.org/traditional-fats-and-sacred-foods-video-by-sarah-pope/",
+      "canonical": "https://www.westonaprice.org/traditional-fats-and-sacred-foods-video-by-sarah-pope/",
+      "title": "Traditional Fats and Sacred Foods Video by Sarah Pope",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "June 9, 2011",
+      "meta": {
+        "article:published_time": "2011-06-09T19:41:07+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1917,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Traditional Fats and Sacred Foods Video by Sarah Pope",
+      "catalog_chars": 12095,
+      "html_sha256_physical": "b84d86adc892c2f96b9daacec77b07f452e569fc8fd726e983cea5dc9e2b5d67",
+      "text_sha256_physical": "1a9bb1648094ed7cd8832f415b764399d5f50570bd7a80029559da81d47f201b",
+      "lines": 66,
+      "chars": 11986,
+      "read_ranges_inclusive": [
+        [
+          1,
+          66
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "096bf2"
+      ],
+      "html_locator": "006-1917.html",
+      "text_locator": "006-1917.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/traditional-fats-and-sacred-foods-video-by-sarah-pope/",
+      "retrieved_at_utc": "2026-11-26T02:01:00.742905+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 7,
+      "id": 23149,
+      "url": "https://www.westonaprice.org/tragedy-hype-french-translation/",
+      "canonical": "https://www.westonaprice.org/tragedy-hype-french-translation/",
+      "title": "Tragedy & Hype, French Translation",
+      "author": "Piperis",
+      "displayed_date": "April 4, 2017",
+      "meta": {
+        "article:published_time": "2017-04-04T15:29:14+00:00",
+        "article:modified_time": "2024-01-12T20:43:24+00:00",
+        "author": "Piperis"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 23149,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Tragedy & Hype, French Translation",
+      "catalog_chars": 55364,
+      "html_sha256_physical": "38a4edd964ca4bcedf66de263b9b74dec01778d42ead4e79a703244e3a7a232a",
+      "text_sha256_physical": "e176fbdd4b3eb2c46219e7e5a8b6720914608bbe64455908958bdd786576fbe5",
+      "lines": 96,
+      "chars": 55204,
+      "read_ranges_inclusive": [
+        [
+          1,
+          20
+        ],
+        [
+          21,
+          38
+        ],
+        [
+          39,
+          57
+        ],
+        [
+          58,
+          76
+        ],
+        [
+          77,
+          92
+        ],
+        [
+          93,
+          96
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "ba4a8f",
+        "429823",
+        "aae921",
+        "5f58ab",
+        "9c158a",
+        "65fb46"
+      ],
+      "html_locator": "007-23149.html",
+      "text_locator": "007-23149.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/tragedy-hype-french-translation/",
+      "retrieved_at_utc": "2026-11-26T02:01:00.961753+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 8,
+      "id": 26039,
+      "url": "https://www.westonaprice.org/translations/",
+      "canonical": "https://www.westonaprice.org/translations/",
+      "title": "Translations",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2022-12-10T16:21:51+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 26039,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Translations",
+      "catalog_chars": 8414,
+      "html_sha256_physical": "91d606293311cb0504b527f3ab9b943a90377bce5fa0c2882124943f2c065b54",
+      "text_sha256_physical": "b3f67f2ff9b345194635d6779027e2c9726f24ade5ffb8b6fe801301167e1306",
+      "lines": 252,
+      "chars": 7864,
+      "read_ranges_inclusive": [
+        [
+          1,
+          252
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "3091e8"
+      ],
+      "html_locator": "008-26039.html",
+      "text_locator": "008-26039.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/translations/",
+      "retrieved_at_utc": "2026-11-26T02:01:01.134021+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 9,
+      "id": 27885,
+      "url": "https://www.westonaprice.org/tratando-la-fiebre-en-ninos-2/",
+      "canonical": "https://www.westonaprice.org/tratando-la-fiebre-en-ninos-2/",
+      "title": "Tratando la fiebre en niños",
+      "author": "Tom Cowan",
+      "displayed_date": "June 6, 2018",
+      "meta": {
+        "article:published_time": "2018-06-07T01:08:43+00:00",
+        "article:modified_time": "2023-12-01T20:45:05+00:00",
+        "author": "Tom Cowan"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 27885,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Tratando la fiebre en niños",
+      "catalog_chars": 19699,
+      "html_sha256_physical": "21d006ff137842c9c2d4962c6ce4a46c4c84f06a181e5780ea98e8da2aba30e5",
+      "text_sha256_physical": "4b55fc605be8eb4eaf75f3ecdac26c6581c0bcd973a468ddfee076d51c9806b0",
+      "lines": 32,
+      "chars": 19663,
+      "read_ranges_inclusive": [
+        [
+          1,
+          19
+        ],
+        [
+          20,
+          32
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "saída integral09L1–19, identificador opaco não transcrito",
+        "dd72ec"
+      ],
+      "html_locator": "009-27885.html",
+      "text_locator": "009-27885.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/tratando-la-fiebre-en-ninos-2/",
+      "retrieved_at_utc": "2026-11-26T02:01:01.871956+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 10,
+      "id": 27996,
+      "url": "https://www.westonaprice.org/tratando-la-fiebre-en-ninos/",
+      "canonical": "https://www.westonaprice.org/tratando-la-fiebre-en-ninos/",
+      "title": "Tratando la fiebre en niños",
+      "author": "Tom Cowan",
+      "displayed_date": "June 29, 2018",
+      "meta": {
+        "article:published_time": "2018-06-29T14:26:37+00:00",
+        "article:modified_time": "2023-12-05T23:30:58+00:00",
+        "author": "Tom Cowan"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 27996,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Tratando la fiebre en niños",
+      "catalog_chars": 19726,
+      "html_sha256_physical": "cf17bb8679b215dcd8dcd9f27ba9ac37e54dc4765db8ee8cb046f224d58adef1",
+      "text_sha256_physical": "65348481800ee5dc63e57610330b8539275d5b6727c0824dfb96821a469cbf8e",
+      "lines": 33,
+      "chars": 19688,
+      "read_ranges_inclusive": [
+        [
+          1,
+          21
+        ],
+        [
+          22,
+          33
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "0e3208",
+        "30d460"
+      ],
+      "html_locator": "010-27996.html",
+      "text_locator": "010-27996.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/tratando-la-fiebre-en-ninos/",
+      "retrieved_at_utc": "2026-11-26T02:01:01.957066+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 11,
+      "id": 46436,
+      "url": "https://www.westonaprice.org/tu-cocina-fuente-de-salud-o-de-enfermedad/",
+      "canonical": "https://www.westonaprice.org/tu-cocina-fuente-de-salud-o-de-enfermedad/",
+      "title": "Tu Cocina, ¿Fuente de Salud o de Enfermedad?",
+      "author": "Administrator",
+      "displayed_date": "November 20, 2024",
+      "meta": {
+        "article:published_time": "2024-11-20T19:50:32+00:00",
+        "article:modified_time": "2025-09-05T11:25:22+00:00",
+        "author": "Administrator"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 46436,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Tu Cocina, ¿Fuente de Salud o de Enfermedad?",
+      "catalog_chars": 1828,
+      "html_sha256_physical": "b8aa8504fc2af17dc09ff24feeb49651ecd0381d8d0c15e4f3765f0a5110368f",
+      "text_sha256_physical": "f49a3e521b2db1f5c65e186c1a6fbd6221f93e1ad7d8207c7aaf2c41243c5ae3",
+      "lines": 14,
+      "chars": 1780,
+      "read_ranges_inclusive": [
+        [
+          1,
+          14
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "075f0f"
+      ],
+      "html_locator": "011-46436.html",
+      "text_locator": "011-46436.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/tu-cocina-fuente-de-salud-o-de-enfermedad/",
+      "retrieved_at_utc": "2026-11-26T02:01:01.706767+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 12,
+      "id": 32726,
+      "url": "https://www.westonaprice.org/un-analisis-a-las-carnes-de-laboratorio/",
+      "canonical": "https://www.westonaprice.org/un-analisis-a-las-carnes-de-laboratorio/",
+      "title": "Un análisis a las carnes de laboratorio",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "March 20, 2020",
+      "meta": {
+        "article:published_time": "2020-03-20T17:20:22+00:00",
+        "article:modified_time": "2025-01-20T16:38:57+00:00",
+        "author": "Sally Fallon Morell"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 32726,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Un análisis a las carnes de laboratorio",
+      "catalog_chars": 29409,
+      "html_sha256_physical": "40ee3e3cd68ccdec8a406d859e8c9dfa1f7ac4fa5cc08995de8c082c0d363f87",
+      "text_sha256_physical": "d7c95c717e966896ef35b93bacd0430e0d2b4788c65c561693ff8e2ace63f370",
+      "lines": 84,
+      "chars": 29263,
+      "read_ranges_inclusive": [
+        [
+          1,
+          23
+        ],
+        [
+          24,
+          59
+        ],
+        [
+          60,
+          84
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "2d5f80",
+        "ca7170",
+        "28df28"
+      ],
+      "html_locator": "012-32726.html",
+      "text_locator": "012-32726.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/un-analisis-a-las-carnes-de-laboratorio/",
+      "retrieved_at_utc": "2026-11-26T02:01:02.841520+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 13,
+      "id": 30498,
+      "url": "https://www.westonaprice.org/urgent-action-needed-to-protect-vaccination-choice-in-oregon/",
+      "canonical": "https://www.westonaprice.org/urgent-action-needed-to-protect-vaccination-choice-in-oregon/",
+      "title": "Urgent action needed to protect vaccination choice in Oregon!",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "May 8, 2019",
+      "meta": {
+        "article:published_time": "2019-05-08T16:07:18+00:00",
+        "article:modified_time": "2019-05-08T16:07:24+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 30498,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Urgent action needed to protect vaccination choice in Oregon!",
+      "catalog_chars": 5994,
+      "html_sha256_physical": "d1ea204b481d6aefec5da21d2116bea43bc914d4b2ef8b6c2412a9f338b400f0",
+      "text_sha256_physical": "060d458bddd59aab761201549e6a657874552adb3e6b5281075f5f30c97a6d9e",
+      "lines": 113,
+      "chars": 5819,
+      "read_ranges_inclusive": [
+        [
+          1,
+          113
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "9c4da1"
+      ],
+      "html_locator": "013-30498.html",
+      "text_locator": "013-30498.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/urgent-action-needed-to-protect-vaccination-choice-in-oregon/",
+      "retrieved_at_utc": "2026-11-26T02:01:03.400275+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 14,
+      "id": 27773,
+      "url": "https://www.westonaprice.org/vegetarianismo-y-deficiencias-de-nutrientes/",
+      "canonical": "https://www.westonaprice.org/vegetarianismo-y-deficiencias-de-nutrientes/",
+      "title": "Vegetarianismo y deficiencias de nutrientes",
+      "author": "Christopher Masterjohn",
+      "displayed_date": "May 23, 2018",
+      "meta": {
+        "article:published_time": "2018-05-23T12:19:42+00:00",
+        "article:modified_time": "2023-12-05T23:49:21+00:00",
+        "author": "Christopher Masterjohn"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 27773,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Vegetarianismo y deficiencias de nutrientes",
+      "catalog_chars": 60231,
+      "html_sha256_physical": "9c69b70fb52eba777152c30d6b660b19ee841fa34c90c7d17273d9e9aa86952e",
+      "text_sha256_physical": "eada8b9c5cffdcfc8da4df1ff24d33a2c5724808e599811b883a8ac9adf7cc55",
+      "lines": 484,
+      "chars": 59575,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          173
+        ],
+        [
+          174,
+          295
+        ],
+        [
+          296,
+          424
+        ],
+        [
+          425,
+          451
+        ],
+        [
+          452,
+          484
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "c7247a",
+        "311e32",
+        "ebe2d5",
+        "7a5cbc",
+        "a13f01",
+        "6355a3"
+      ],
+      "html_locator": "014-27773.html",
+      "text_locator": "014-27773.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/vegetarianismo-y-deficiencias-de-nutrientes/",
+      "retrieved_at_utc": "2026-11-26T02:01:03.058462+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 15,
+      "id": 31209,
+      "url": "https://www.westonaprice.org/vidas-horribles-brutales-y-cortas/",
+      "canonical": "https://www.westonaprice.org/vidas-horribles-brutales-y-cortas/",
+      "title": "¿Vidas Horribles, Brutales y Cortas?",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "August 26, 2019",
+      "meta": {
+        "article:published_time": "2019-08-26T18:06:34+00:00",
+        "article:modified_time": "2023-12-08T17:26:54+00:00",
+        "author": "Sally Fallon Morell"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 31209,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "¿Vidas Horribles, Brutales y Cortas?",
+      "catalog_chars": 42802,
+      "html_sha256_physical": "94224177fdb43b9ea0cd61ddb4b5307f3b206c463a3417457d252cc02d156813",
+      "text_sha256_physical": "cf674d31be9e7d12199f42777ef6ac341bfd5292d3ac327ab87f102a73a761fd",
+      "lines": 75,
+      "chars": 42681,
+      "read_ranges_inclusive": [
+        [
+          1,
+          16
+        ],
+        [
+          17,
+          28
+        ],
+        [
+          29,
+          36
+        ],
+        [
+          37,
+          61
+        ],
+        [
+          62,
+          75
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "8a43ec",
+        "d0bad0",
+        "9d814f",
+        "9abae0",
+        "9a71a5"
+      ],
+      "html_locator": "015-31209.html",
+      "text_locator": "015-31209.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/vidas-horribles-brutales-y-cortas/",
+      "retrieved_at_utc": "2026-11-26T02:01:03.768891+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 16,
+      "id": 30548,
+      "url": "https://www.westonaprice.org/vitaminas-en-el-desarrollo-del-feto-desde-la-concepcion-hasta-el-nacimiento/",
+      "canonical": "https://www.westonaprice.org/vitaminas-en-el-desarrollo-del-feto-desde-la-concepcion-hasta-el-nacimiento/",
+      "title": "Vitaminas en el desarrollo del feto, desde la concepción hasta el nacimiento",
+      "author": "Christopher Masterjohn",
+      "displayed_date": "May 15, 2019",
+      "meta": {
+        "article:published_time": "2019-05-15T14:00:21+00:00",
+        "article:modified_time": "2023-12-08T15:55:41+00:00",
+        "author": "Christopher Masterjohn"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 30548,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Vitaminas en el desarrollo del feto, desde la concepción hasta el nacimiento",
+      "catalog_chars": 60639,
+      "html_sha256_physical": "67e3a22d70df87594ce35c4cf120dfbb3dcd55e3185db747b1b9a7840a4fac7b",
+      "text_sha256_physical": "2d113ae99c7bfb77dd85677dbbd2a75dc521a43d564e7d81be1bf8d3d7bbb5f9",
+      "lines": 418,
+      "chars": 59876,
+      "read_ranges_inclusive": [
+        [
+          1,
+          31
+        ],
+        [
+          32,
+          51
+        ],
+        [
+          52,
+          78
+        ],
+        [
+          79,
+          337
+        ],
+        [
+          338,
+          381
+        ],
+        [
+          382,
+          418
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "61156f",
+        "9b29ab",
+        "a67b57",
+        "853238",
+        "0e4161",
+        "646878"
+      ],
+      "html_locator": "016-30548.html",
+      "text_locator": "016-30548.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/vitaminas-en-el-desarrollo-del-feto-desde-la-concepcion-hasta-el-nacimiento/",
+      "retrieved_at_utc": "2026-11-26T02:01:04.102072+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 17,
+      "id": 47528,
+      "url": "https://www.westonaprice.org/vivre-avec-lacide-phytique/",
+      "canonical": "https://www.westonaprice.org/vivre-avec-lacide-phytique/",
+      "title": "Vivre avec l’acide phytique",
+      "author": "Administrator",
+      "displayed_date": "July 12, 2025",
+      "meta": {
+        "article:published_time": "2025-07-12T19:17:22+00:00",
+        "article:modified_time": "2025-09-05T10:40:46+00:00",
+        "author": "Administrator"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 47528,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Vivre avec l’acide phytique",
+      "catalog_chars": 77064,
+      "html_sha256_physical": "2311afc285fd077c567bc8792274effdd1ed15933e5ff5d44281e9dc9355944e",
+      "text_sha256_physical": "dc0fc993b3de6b64c3177618ac10792f891882c36743eab8d96b0e927cb3da2c",
+      "lines": 328,
+      "chars": 75784,
+      "read_ranges_inclusive": [
+        [
+          1,
+          73
+        ],
+        [
+          74,
+          131
+        ],
+        [
+          132,
+          162
+        ],
+        [
+          163,
+          198
+        ],
+        [
+          199,
+          252
+        ],
+        [
+          253,
+          321
+        ],
+        [
+          322,
+          328
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "767fea",
+        "e671e0",
+        "433918",
+        "saída integral fonte17L163–198, identificador opaco não transcrito",
+        "18632e",
+        "3b3b78",
+        "45d344"
+      ],
+      "html_locator": "017-47528.html",
+      "text_locator": "017-47528.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/vivre-avec-lacide-phytique/",
+      "retrieved_at_utc": "2026-11-26T02:01:04.549970+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 18,
+      "id": 35608,
+      "url": "https://www.westonaprice.org/waarom-schiep-god-kanker/",
+      "canonical": "https://www.westonaprice.org/waarom-schiep-god-kanker/",
+      "title": "Waarom schiep God kanker ?",
+      "author": "Tedd Koren",
+      "displayed_date": "February 8, 2021",
+      "meta": {
+        "article:published_time": "2021-02-08T16:58:33+00:00",
+        "article:modified_time": "2024-01-12T16:49:29+00:00",
+        "author": "Tedd Koren"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 35608,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Waarom schiep God kanker ?",
+      "catalog_chars": 16344,
+      "html_sha256_physical": "d4989dab9354cccef13038b847c421825008350635b52eacfbc19a97b77e0e4a",
+      "text_sha256_physical": "78634dea7337fe195f855c9183727eb51345fb576dca920005ca308772cb1ca9",
+      "lines": 61,
+      "chars": 16251,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ],
+        [
+          29,
+          61
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "80bc54",
+        "2f44f4"
+      ],
+      "html_locator": "018-35608.html",
+      "text_locator": "018-35608.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/waarom-schiep-god-kanker/",
+      "retrieved_at_utc": "2026-11-26T02:01:04.660542+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 19,
+      "id": 5921,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2005/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2005/",
+      "title": "WAPF Calendar Archive 2005",
+      "author": "Tim Boyd",
+      "displayed_date": "January 1, 2005",
+      "meta": {
+        "article:published_time": "2005-01-01T09:05:56+00:00",
+        "article:modified_time": "2016-11-04T13:25:33+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 5921,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2005",
+      "catalog_chars": 57257,
+      "html_sha256_physical": "3b2cc4bc0ec8836b7221b3a381bb3d98226d953f9121cc1f4353eeccaf29a83c",
+      "text_sha256_physical": "0888ee1b6927cc9758ed551cf0d2af23fd5858c7aedcd091f76dfcd42ec43af9",
+      "lines": 284,
+      "chars": 56710,
+      "read_ranges_inclusive": [
+        [
+          1,
+          72
+        ],
+        [
+          73,
+          129
+        ],
+        [
+          130,
+          177
+        ],
+        [
+          178,
+          235
+        ],
+        [
+          236,
+          284
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "ad6dd9",
+        "9bbc0e",
+        "6086af",
+        "ba625f",
+        "2fc005"
+      ],
+      "html_locator": "019-5921.html",
+      "text_locator": "019-5921.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2005/",
+      "retrieved_at_utc": "2026-11-26T02:01:05.082660+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 20,
+      "id": 5547,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2006/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2006/",
+      "title": "WAPF Calendar Archive 2006",
+      "author": "Tim Boyd",
+      "displayed_date": "January 1, 2006",
+      "meta": {
+        "article:published_time": "2006-01-01T20:07:20+00:00",
+        "article:modified_time": "2017-07-03T08:36:59+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 5547,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2006",
+      "catalog_chars": 77392,
+      "html_sha256_physical": "195ee5818c9ce556d6b85244a7951fea15046451e46f4cd4ec39a58b0367f341",
+      "text_sha256_physical": "5e1ba840fee00fb22d526776c7b8d7163f6ff591a3eb3916918d4863cc6e9b32",
+      "lines": 388,
+      "chars": 76637,
+      "read_ranges_inclusive": [
+        [
+          1,
+          49
+        ],
+        [
+          50,
+          103
+        ],
+        [
+          104,
+          158
+        ],
+        [
+          159,
+          235
+        ],
+        [
+          236,
+          309
+        ],
+        [
+          310,
+          366
+        ],
+        [
+          367,
+          388
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "700447",
+        "4e1c00",
+        "e7b8f0",
+        "efaeb6",
+        "47cee9",
+        "79749e",
+        "15bb27"
+      ],
+      "html_locator": "020-5547.html",
+      "text_locator": "020-5547.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2006/",
+      "retrieved_at_utc": "2026-11-26T02:01:06.405993+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 21,
+      "id": 5165,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2007/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2007/",
+      "title": "WAPF Calendar Archive 2007",
+      "author": "Tim Boyd",
+      "displayed_date": "January 1, 2007",
+      "meta": {
+        "article:published_time": "2007-01-01T04:56:21+00:00",
+        "article:modified_time": "2017-06-30T11:09:02+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 5165,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2007",
+      "catalog_chars": 67499,
+      "html_sha256_physical": "06c9b5f0ece2663e29a1fa939b70c38305aabbf1d7029e0786d215988fd41730",
+      "text_sha256_physical": "a674b3ddd613107f86bb7bcb26e562d441abcd3021f7cbfa6f719d1b113baa98",
+      "lines": 400,
+      "chars": 66722,
+      "read_ranges_inclusive": [
+        [
+          1,
+          56
+        ],
+        [
+          57,
+          118
+        ],
+        [
+          119,
+          206
+        ],
+        [
+          207,
+          268
+        ],
+        [
+          269,
+          342
+        ],
+        [
+          343,
+          400
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "dd74ed",
+        "996277",
+        "6e42ee",
+        "3c6661",
+        "d33d2a",
+        "b75123"
+      ],
+      "html_locator": "021-5165.html",
+      "text_locator": "021-5165.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2007/",
+      "retrieved_at_utc": "2026-11-26T02:01:05.573579+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 22,
+      "id": 4818,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2008/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2008/",
+      "title": "WAPF Calendar Archive 2008",
+      "author": "Tim Boyd",
+      "displayed_date": "January 1, 2008",
+      "meta": {
+        "article:published_time": "2008-01-01T23:51:01+00:00",
+        "article:modified_time": "2016-11-04T13:24:40+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 4818,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2008",
+      "catalog_chars": 62638,
+      "html_sha256_physical": "7f655a1661ea19c75eac6fd8d1b0fa29fa63c5edfba4bf4fa15ff4662defc1e3",
+      "text_sha256_physical": "10918b81df8676e3dc794c37ac13862783a723013d8ce76e38471f012acf42c4",
+      "lines": 450,
+      "chars": 61762,
+      "read_ranges_inclusive": [
+        [
+          1,
+          94
+        ],
+        [
+          95,
+          154
+        ],
+        [
+          155,
+          230
+        ],
+        [
+          231,
+          300
+        ],
+        [
+          301,
+          375
+        ],
+        [
+          376,
+          450
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "845886",
+        "5238a4",
+        "aae487",
+        "eec85e",
+        "2f4132",
+        "2fbd8f"
+      ],
+      "html_locator": "022-4818.html",
+      "text_locator": "022-4818.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2008/",
+      "retrieved_at_utc": "2026-11-26T02:01:05.982872+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 23,
+      "id": 4478,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2009/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2009/",
+      "title": "WAPF Calendar Archive 2009",
+      "author": "Tim Boyd",
+      "displayed_date": "January 1, 2009",
+      "meta": {
+        "article:published_time": "2009-01-01T19:16:20+00:00",
+        "article:modified_time": "2016-11-04T13:24:23+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 4478,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2009",
+      "catalog_chars": 63145,
+      "html_sha256_physical": "da932062d1d8609f89fa08e1a719cb222c5560a1895366f7b5045adf7e131fba",
+      "text_sha256_physical": "893288090b4dc976c39d9b5c77c742a0d4c92fb244e205788da15b001ac018e6",
+      "lines": 428,
+      "chars": 62313,
+      "read_ranges_inclusive": [
+        [
+          1,
+          61
+        ],
+        [
+          62,
+          124
+        ],
+        [
+          125,
+          227
+        ],
+        [
+          228,
+          315
+        ],
+        [
+          316,
+          395
+        ],
+        [
+          396,
+          428
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "20b84f",
+        "ecea7b",
+        "5b6cba",
+        "18d25c",
+        "5d5e91",
+        "e864a4"
+      ],
+      "html_locator": "023-4478.html",
+      "text_locator": "023-4478.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2009/",
+      "retrieved_at_utc": "2026-11-26T02:01:06.823397+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 24,
+      "id": 2833,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2010/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2010/",
+      "title": "WAPF Calendar Archive 2010",
+      "author": "Jill C. Nienhiser",
+      "displayed_date": "January 20, 2010",
+      "meta": {
+        "article:published_time": "2010-01-20T22:42:40+00:00",
+        "article:modified_time": "2016-11-04T13:24:05+00:00",
+        "author": "Jill C. Nienhiser"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 2833,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2010",
+      "catalog_chars": 50430,
+      "html_sha256_physical": "9c6f805067a0743a885c1547971ce9b9f0d93dea73b6e88355971b11f8fbaf5c",
+      "text_sha256_physical": "b2f0cff4d2581b1b56156f241225ab402093e0a4691d3772547a8fe57c36832a",
+      "lines": 392,
+      "chars": 49661,
+      "read_ranges_inclusive": [
+        [
+          1,
+          104
+        ],
+        [
+          105,
+          173
+        ],
+        [
+          174,
+          259
+        ],
+        [
+          260,
+          349
+        ],
+        [
+          350,
+          392
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "3a84a5",
+        "c3ec26",
+        "f39f43",
+        "3efb2a",
+        "ff0c24"
+      ],
+      "html_locator": "024-2833.html",
+      "text_locator": "024-2833.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2010/",
+      "retrieved_at_utc": "2026-11-26T02:01:07.682731+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 25,
+      "id": 2040,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2011/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2011/",
+      "title": "WAPF Calendar Archive 2011",
+      "author": "Tim Boyd",
+      "displayed_date": "March 31, 2011",
+      "meta": {
+        "article:published_time": "2011-04-01T00:32:48+00:00",
+        "article:modified_time": "2017-06-30T10:19:48+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 2040,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2011",
+      "catalog_chars": 39225,
+      "html_sha256_physical": "d121da2ce83afed00fbff909d0de37bc3cd0adeef94dc955f53318eb4b954674",
+      "text_sha256_physical": "fe8416e1a3faac95dadce34030476e0128ec73b0a46c058a57094ad01410b5a1",
+      "lines": 360,
+      "chars": 38407,
+      "read_ranges_inclusive": [
+        [
+          1,
+          104
+        ],
+        [
+          105,
+          207
+        ],
+        [
+          208,
+          339
+        ],
+        [
+          340,
+          360
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "5baeae",
+        "493884",
+        "7d7734",
+        "8480aa"
+      ],
+      "html_locator": "025-2040.html",
+      "text_locator": "025-2040.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2011/",
+      "retrieved_at_utc": "2026-11-26T02:01:07.347575+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 26,
+      "id": 1210,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2012/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2012/",
+      "title": "WAPF Calendar Archive 2012",
+      "author": "Tim Boyd",
+      "displayed_date": "March 8, 2012",
+      "meta": {
+        "article:published_time": "2012-03-08T17:00:16+00:00",
+        "article:modified_time": "2016-11-04T13:23:19+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1210,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2012",
+      "catalog_chars": 32299,
+      "html_sha256_physical": "062a5873c12d1ef374cf055fb17b6e10018b9334fb4ccf4274a1abca82c53463",
+      "text_sha256_physical": "1a7bbe76b615d8093fc496d0454999d2dde3b8f33fc19d4c63645deee16f097d",
+      "lines": 414,
+      "chars": 31269,
+      "read_ranges_inclusive": [
+        [
+          1,
+          186
+        ],
+        [
+          187,
+          341
+        ],
+        [
+          342,
+          414
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "bb005a",
+        "526de9",
+        "7854fc"
+      ],
+      "html_locator": "026-1210.html",
+      "text_locator": "026-1210.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2012/",
+      "retrieved_at_utc": "2026-11-26T02:01:07.865856+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 27,
+      "id": 363,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2013/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2013/",
+      "title": "WAPF Calendar Archive 2013",
+      "author": "Tim Boyd",
+      "displayed_date": "April 17, 2013",
+      "meta": {
+        "article:published_time": "2013-04-17T23:28:16+00:00",
+        "article:modified_time": "2016-11-04T13:22:55+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 363,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2013",
+      "catalog_chars": 9773,
+      "html_sha256_physical": "bcb6095bfaaeb473f350fc018f5b640bae36623e60959fc15b05910c3bf398fc",
+      "text_sha256_physical": "510d123a8440dbd42e25e854266292c4e34b0e3439a86aa32d7cd99f848cdd23",
+      "lines": 126,
+      "chars": 9479,
+      "read_ranges_inclusive": [
+        [
+          1,
+          126
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "7f91f8"
+      ],
+      "html_locator": "027-363.html",
+      "text_locator": "027-363.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2013/",
+      "retrieved_at_utc": "2026-11-26T02:01:08.386110+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 28,
+      "id": 12217,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2014/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2014/",
+      "title": "WAPF Calendar Archive 2014",
+      "author": "Tim Boyd",
+      "displayed_date": "June 23, 2014",
+      "meta": {
+        "article:published_time": "2014-06-23T12:57:42+00:00",
+        "article:modified_time": "2016-11-04T13:22:48+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 12217,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2014",
+      "catalog_chars": 13382,
+      "html_sha256_physical": "e7ae06d5b69b241de359d47cb1627de8dcb6f3731b571e49b10efb02b6434a4b",
+      "text_sha256_physical": "ceed17e536ea9e8424da68b3dc22ff246810099f9fa12fb2a0a79fd851fdd86a",
+      "lines": 172,
+      "chars": 13032,
+      "read_ranges_inclusive": [
+        [
+          1,
+          154
+        ],
+        [
+          155,
+          172
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "c47b56",
+        "e84825"
+      ],
+      "html_locator": "028-12217.html",
+      "text_locator": "028-12217.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2014/",
+      "retrieved_at_utc": "2026-11-26T02:01:08.575847+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 29,
+      "id": 18277,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2016/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2016/",
+      "title": "WAPF Calendar Archive 2016",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "April 11, 2016",
+      "meta": {
+        "article:published_time": "2016-04-11T12:40:34+00:00",
+        "article:modified_time": "2016-11-04T13:20:53+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 18277,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2016",
+      "catalog_chars": 10256,
+      "html_sha256_physical": "45e9bac00b92b2a1c56f90ee4bb4b18e2b93229a12eef1a038a0c264b9f83a2f",
+      "text_sha256_physical": "5f9143251091b04205f73b49e0fe0d8baa166c2ea28d05ee870544cb59c78134",
+      "lines": 139,
+      "chars": 9936,
+      "read_ranges_inclusive": [
+        [
+          1,
+          139
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "5bf757"
+      ],
+      "html_locator": "029-18277.html",
+      "text_locator": "029-18277.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2016/",
+      "retrieved_at_utc": "2026-11-26T02:01:08.756893+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 30,
+      "id": 28040,
+      "url": "https://www.westonaprice.org/wapf-calendar-archive-2018/",
+      "canonical": "https://www.westonaprice.org/wapf-calendar-archive-2018/",
+      "title": "WAPF Calendar Archive 2018",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "July 3, 2018",
+      "meta": {
+        "article:published_time": "2018-07-03T17:58:53+00:00",
+        "article:modified_time": "2019-05-15T15:04:48+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 28040,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Calendar Archive 2018",
+      "catalog_chars": 19003,
+      "html_sha256_physical": "728421c76c77fce43808b3a221309bb0f87d943a9ecf5a336d64d19b35b0a438",
+      "text_sha256_physical": "ca5c3a2556e6b56393f544bdbb52c5819fee9a814431a957404f5e52edbeea2a",
+      "lines": 254,
+      "chars": 18316,
+      "read_ranges_inclusive": [
+        [
+          1,
+          151
+        ],
+        [
+          152,
+          254
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "0c29a7",
+        "f5be64"
+      ],
+      "html_locator": "030-28040.html",
+      "text_locator": "030-28040.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-calendar-archive-2018/",
+      "retrieved_at_utc": "2026-11-26T02:01:09.587065+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 31,
+      "id": 16261,
+      "url": "https://www.westonaprice.org/wapf-inspired-real-food-retreats-in-peru/",
+      "canonical": "https://www.westonaprice.org/wapf-inspired-real-food-retreats-in-peru/",
+      "title": "WAPF Inspired, Real Food Retreats in Peru",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "May 13, 2015",
+      "meta": {
+        "article:published_time": "2015-05-13T13:25:07+00:00",
+        "article:modified_time": "2017-06-30T09:07:28+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 16261,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Inspired, Real Food Retreats in Peru",
+      "catalog_chars": 1337,
+      "html_sha256_physical": "7601e9e0d3d71ddb23116db18f5e1681a359a0a8b2bc95bc5855be104b6a449d",
+      "text_sha256_physical": "3c3e0630da2c65e1104279db9cd0cc3b1cb316ef312995a7b416db8ac8cd7536",
+      "lines": 17,
+      "chars": 1333,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "957857"
+      ],
+      "html_locator": "031-16261.html",
+      "text_locator": "031-16261.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-inspired-real-food-retreats-in-peru/",
+      "retrieved_at_utc": "2026-11-26T02:01:09.496135+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 32,
+      "id": 1200,
+      "url": "https://www.westonaprice.org/wapf-regional-conference-in-st-louis/",
+      "canonical": "https://www.westonaprice.org/wapf-regional-conference-in-st-louis/",
+      "title": "WAPF Regional Conference in St. Louis",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "March 18, 2012",
+      "meta": {
+        "article:published_time": "2012-03-19T03:12:23+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 1200,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "WAPF Regional Conference in St. Louis",
+      "catalog_chars": 4463,
+      "html_sha256_physical": "a18b30efadb97ce05f047986efbf4f4f6d9e7c4c0f70d311d18ae4f8d44100ee",
+      "text_sha256_physical": "f46a3803e0ecd4adf688765bbf6c02dcfb262c102cc609327149580fd9730ec0",
+      "lines": 55,
+      "chars": 4194,
+      "read_ranges_inclusive": [
+        [
+          1,
+          55
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "957857"
+      ],
+      "html_locator": "032-1200.html",
+      "text_locator": "032-1200.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wapf-regional-conference-in-st-louis/",
+      "retrieved_at_utc": "2026-11-26T02:01:09.627833+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 33,
+      "id": 10465,
+      "url": "https://www.westonaprice.org/why-butter-is-better-nutrition-conference-focuses-on-healthy-fats-traditional-foods/",
+      "canonical": "https://www.westonaprice.org/why-butter-is-better-nutrition-conference-focuses-on-healthy-fats-traditional-foods/",
+      "title": "Why Butter is Better:  Nutrition Conference Focuses on Healthy Fats, Traditional Foods",
+      "author": "Kimberly Hartke",
+      "displayed_date": "June 2, 2014",
+      "meta": {
+        "article:published_time": "2014-06-02T15:51:13+00:00",
+        "article:modified_time": "2023-05-31T14:44:01+00:00",
+        "author": "Kimberly Hartke"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 10465,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Why Butter is Better:  Nutrition Conference Focuses on Healthy Fats, Traditional Foods",
+      "catalog_chars": 5073,
+      "html_sha256_physical": "9a841a4443676763afbbea1b2a2415e1275881285e56e86c50aade0808d12f7f",
+      "text_sha256_physical": "3b600759aaf3561adf603f547364be969c89fb926065bd5e7333b2d0947b5dad",
+      "lines": 29,
+      "chars": 5038,
+      "read_ranges_inclusive": [
+        [
+          1,
+          29
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "de63d8"
+      ],
+      "html_locator": "033-10465.html",
+      "text_locator": "033-10465.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/why-butter-is-better-nutrition-conference-focuses-on-healthy-fats-traditional-foods/",
+      "retrieved_at_utc": "2026-11-26T02:01:10.556399+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 34,
+      "id": 28466,
+      "url": "https://www.westonaprice.org/why-cook/",
+      "canonical": "https://www.westonaprice.org/why-cook/",
+      "title": "Excerpt from Why Cook?",
+      "author": "Nevra Ledwon",
+      "displayed_date": "August 13, 2018",
+      "meta": {
+        "article:published_time": "2018-08-13T23:25:04+00:00",
+        "article:modified_time": "2018-08-15T21:51:18+00:00",
+        "author": "Nevra Ledwon"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 28466,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Excerpt from Why Cook?",
+      "catalog_chars": 4492,
+      "html_sha256_physical": "e612d6631404afd989591c270e0663a0a7a304420905f7133bd0be6b3fa15bff",
+      "text_sha256_physical": "153e4eef43be8feed00189d94fe336341993224521f009f13e4ce6de6981bae9",
+      "lines": 24,
+      "chars": 4464,
+      "read_ranges_inclusive": [
+        [
+          1,
+          24
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "de63d8"
+      ],
+      "html_locator": "034-28466.html",
+      "text_locator": "034-28466.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/why-cook/",
+      "retrieved_at_utc": "2026-11-26T02:01:10.640118+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 35,
+      "id": 36533,
+      "url": "https://www.westonaprice.org/wise-conversations-schedule/",
+      "canonical": "https://www.westonaprice.org/wise-conversations-schedule/",
+      "title": "Wise Conversations Schedule",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2023-07-25T15:50:43+00:00"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 36533,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Wise Conversations Schedule",
+      "catalog_chars": 3979,
+      "html_sha256_physical": "bf438eb8a27da6fefe877f424275ecd6a08ef77d533605a3c9dc9804cc3d2393",
+      "text_sha256_physical": "a1affb9744a1ffc9fcefc90f682ed6e541156b82e1aa082f55976f6797fcdc7d",
+      "lines": 49,
+      "chars": 3260,
+      "read_ranges_inclusive": [
+        [
+          1,
+          49
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "67ea88"
+      ],
+      "html_locator": "035-36533.html",
+      "text_locator": "035-36533.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wise-conversations-schedule/",
+      "retrieved_at_utc": "2026-11-26T02:01:10.615534+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 36,
+      "id": 4576,
+      "url": "https://www.westonaprice.org/wise-traditions-2008-conference-information-update/",
+      "canonical": "https://www.westonaprice.org/wise-traditions-2008-conference-information-update/",
+      "title": "Wise Traditions 2008 Conference Information Update",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "July 22, 2008",
+      "meta": {
+        "article:published_time": "2008-07-22T16:18:10+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 4576,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Wise Traditions 2008 Conference Information Update",
+      "catalog_chars": 12161,
+      "html_sha256_physical": "d6f3b825c6b8ec5ed5bdbf32261dfeb478eab18a9016873b031281dba7210516",
+      "text_sha256_physical": "19fc17d84e1dc34f41253ead8ba29f5f3779be0b04c71cf035967f1fd8fa581f",
+      "lines": 146,
+      "chars": 11898,
+      "read_ranges_inclusive": [
+        [
+          1,
+          75
+        ],
+        [
+          76,
+          146
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "67ea88",
+        "43f6bb"
+      ],
+      "html_locator": "036-4576.html",
+      "text_locator": "036-4576.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wise-traditions-2008-conference-information-update/",
+      "retrieved_at_utc": "2026-11-26T02:01:11.683241+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 37,
+      "id": 8547,
+      "url": "https://www.westonaprice.org/wise-traditions-2013-to-be-held-in-atlanta/",
+      "canonical": "https://www.westonaprice.org/wise-traditions-2013-to-be-held-in-atlanta/",
+      "title": "Wise Traditions 2013 to be Held in Atlanta",
+      "author": "Kimberly Hartke",
+      "displayed_date": "August 1, 2013",
+      "meta": {
+        "article:published_time": "2013-08-01T14:58:02+00:00",
+        "article:modified_time": "2023-05-31T14:46:48+00:00",
+        "author": "Kimberly Hartke"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 8547,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Wise Traditions 2013 to be Held in Atlanta",
+      "catalog_chars": 5163,
+      "html_sha256_physical": "b226e3383c2a88753c258d52f75f27c782b335a6d2489cfd19f9cf24a7959964",
+      "text_sha256_physical": "db812cc9567eb4a9f6bbbbfaaaf9c859c63eca8d5605553d13b682de94ca9aac",
+      "lines": 35,
+      "chars": 5113,
+      "read_ranges_inclusive": [
+        [
+          1,
+          35
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "829b10"
+      ],
+      "html_locator": "037-8547.html",
+      "text_locator": "037-8547.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wise-traditions-2013-to-be-held-in-atlanta/",
+      "retrieved_at_utc": "2026-11-26T02:01:11.724839+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 38,
+      "id": 459,
+      "url": "https://www.westonaprice.org/wise-traditions-london-2012/",
+      "canonical": "https://www.westonaprice.org/wise-traditions-london-2012/",
+      "title": "Wise Traditions London 2012",
+      "author": "Tim Boyd",
+      "displayed_date": "February 11, 2013",
+      "meta": {
+        "article:published_time": "2013-02-11T00:56:50+00:00",
+        "author": "Tim Boyd"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 459,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Wise Traditions London 2012",
+      "catalog_chars": 5441,
+      "html_sha256_physical": "d6fafd752fb6e6910b90bd5b86cd7f022681848e7a1ea117097ea25ba074eba7",
+      "text_sha256_physical": "c450b072b6e46176c99d85c7a2984353924bba57792216785d1a586b5e4d2d14",
+      "lines": 21,
+      "chars": 5410,
+      "read_ranges_inclusive": [
+        [
+          1,
+          21
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "829b10"
+      ],
+      "html_locator": "038-459.html",
+      "text_locator": "038-459.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wise-traditions-london-2012/",
+      "retrieved_at_utc": "2026-11-26T02:01:11.657421+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 39,
+      "id": 17549,
+      "url": "https://www.westonaprice.org/wise-traditions-podcast/",
+      "canonical": "https://www.westonaprice.org/wise-traditions-podcast/",
+      "title": "Wise Traditions Podcast",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 8, 2015",
+      "meta": {
+        "article:published_time": "2015-12-08T18:23:01+00:00",
+        "article:modified_time": "2017-08-07T13:13:37+00:00",
+        "author": "Hilda Labrada Gore"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 17549,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Wise Traditions Podcast",
+      "catalog_chars": 102995,
+      "html_sha256_physical": "76e8ce491993f475088459883a190b3c6636e34f9b64213405dcf8428a5e244e",
+      "text_sha256_physical": "56eb65f05b77db34e1262295e07bd76b1116c06edde13876da38814daaa1fc25",
+      "lines": 468,
+      "chars": 101110,
+      "read_ranges_inclusive": [
+        [
+          1,
+          58
+        ],
+        [
+          59,
+          106
+        ],
+        [
+          107,
+          153
+        ],
+        [
+          154,
+          200
+        ],
+        [
+          201,
+          241
+        ],
+        [
+          242,
+          284
+        ],
+        [
+          285,
+          330
+        ],
+        [
+          331,
+          384
+        ],
+        [
+          385,
+          442
+        ],
+        [
+          443,
+          468
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "421042",
+        "666c37",
+        "ee82fc",
+        "4a17ca",
+        "984b83",
+        "8a5f8e",
+        "07d5ff",
+        "82be88",
+        "e916d7",
+        "d6e63a"
+      ],
+      "html_locator": "039-17549.html",
+      "text_locator": "039-17549.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/wise-traditions-podcast/",
+      "retrieved_at_utc": "2026-11-26T02:01:13.064616+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 40,
+      "id": 8763,
+      "url": "https://www.westonaprice.org/with-the-wave-of-a-wand-raw-milk-wipes-away-the-wheeze-how-our-good-friend-glutathione-protects-against-asthma/",
+      "canonical": "https://www.westonaprice.org/with-the-wave-of-a-wand-raw-milk-wipes-away-the-wheeze-how-our-good-friend-glutathione-protects-against-asthma/",
+      "title": "With the Wave of a Wand, Raw Milk Wipes Away the Wheeze: How Our Good Friend Glutathione Protects Against Asthma",
+      "author": "Christopher Masterjohn",
+      "displayed_date": "March 31, 2012",
+      "meta": {
+        "article:published_time": "2012-03-31T19:44:53+00:00",
+        "article:modified_time": "2017-06-29T10:38:18+00:00",
+        "author": "Christopher Masterjohn"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 8763,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "With the Wave of a Wand, Raw Milk Wipes Away the Wheeze: How Our Good Friend Glutathione Protects Against Asthma",
+      "catalog_chars": 17358,
+      "html_sha256_physical": "685424f43e6e81c9f8e18a41432a6f533b531058ab5227d34de57952d29c9dac",
+      "text_sha256_physical": "7117686b2e9eacf7cdf56b3fac0bd8138a0431f562e9dea5fc65a08cf92b529b",
+      "lines": 66,
+      "chars": 17146,
+      "read_ranges_inclusive": [
+        [
+          1,
+          37
+        ],
+        [
+          38,
+          66
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "1d8987",
+        "b4fda6"
+      ],
+      "html_locator": "040-8763.html",
+      "text_locator": "040-8763.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/with-the-wave-of-a-wand-raw-milk-wipes-away-the-wheeze-how-our-good-friend-glutathione-protects-against-asthma/",
+      "retrieved_at_utc": "2026-11-26T02:01:13.873262+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    },
+    {
+      "batch_index": 41,
+      "id": 34831,
+      "url": "https://www.westonaprice.org/your-input-is-needed-on-proposed-immunizations-rules-for-foster-care-in-colorado/",
+      "canonical": "https://www.westonaprice.org/your-input-is-needed-on-proposed-immunizations-rules-for-foster-care-in-colorado/",
+      "title": "Your Input is Needed on Proposed Immunizations Rules for Foster Care in Colorado!",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "November 11, 2020",
+      "meta": {
+        "article:published_time": "2020-11-11T16:52:03+00:00",
+        "article:modified_time": "2020-11-11T20:21:23+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "parser": "Page entry-content strict; comments, scripts, navigation, author-box excluded",
+      "parser_sha256": "20f53544f28c73ed245393d01184ac0491b47bbbba5edb467a2a3faa4cda4037",
+      "wordpress_object_id_http_verified": 34831,
+      "wordpress_identity_verification": "concordant_body_and_shortlink",
+      "id_is_local_label": false,
+      "source_class": "other",
+      "catalog_title": "Your Input is Needed on Proposed Immunizations Rules for Foster Care in Colorado!",
+      "catalog_chars": 6511,
+      "html_sha256_physical": "24a144beafc6fdc92fc068e601a3d9c2e3ff78ea37f11f1dc03130796c90cfa2",
+      "text_sha256_physical": "04d548f519e943165557d14d022781f476222cb09df9e22269ed4b8d0fee8a73",
+      "lines": 31,
+      "chars": 6406,
+      "read_ranges_inclusive": [
+        [
+          1,
+          31
+        ]
+      ],
+      "read_complete_extracted_txt": true,
+      "read_output_references": [
+        "b4fda6"
+      ],
+      "html_locator": "041-34831.html",
+      "text_locator": "041-34831.txt",
+      "http_status": "200",
+      "final_url": "https://www.westonaprice.org/your-input-is-needed-on-proposed-immunizations-rules-for-foster-care-in-colorado/",
+      "retrieved_at_utc": "2026-11-26T02:01:12.890779+00:00",
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read_claim": false
+    }
+  ]
+}

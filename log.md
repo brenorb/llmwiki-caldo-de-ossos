@@ -1174,3 +1174,7 @@ Incorporadas [50 resenhas](wiki/fontes/wapf-book-review50.md),922 linhas/328.787
 ## [2026-11-26] ingestão | Episódio181: transcrição integral com log isolado
 
 Concluída [nova versão de181](raw/wapf-audio-en-181-isolado-2026-11-26.json),31min30,339s, sem limite de duração/timeout por gravação. Log isolado17/17 blocos, saída0,332 linhas; conferidos log inteiro, timestamps e hashes originais inalterados. A [nota da seleção237](wiki/fontes/wapf-audio-en-processamento237.md) separa a nova prova da auditoria histórica e da acurácia/leitura semântica ainda não realizadas nesta validação.
+
+## [2026-11-26] ingestão | Complemento other:42 textos finais e receitas de aproveitamento
+
+Incorporados [lote5](wiki/fontes/wapf-other-lote5-42.md) e [caderno completo](wiki/temas/receitas-wapf-other-lote5.md),8.063 linhas/1.293.773 caracteres,84 hashes/140 intervalos. Conferidos os pareceres/caderno/crítico/QA autoral completos e originais focais. A união dos cinco lotes fecha242/242 textos selecionados,26.232 linhas/4.895.310 caracteres/484 hashes, sem expandir para todo o site, mídias ou referências. Sopa/curry preservam medidas; arroz, açúcar e amidos não foram omitidos silenciosamente.

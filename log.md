@@ -1190,3 +1190,7 @@ Incorporados [22 main complementares](wiki/fontes/wapf-direct-index-main22.md),3
 ## [2026-11-26] revisão | Duas lives:íntegras da execução sem limite
 
 Revalidados [39/39 e48/48 textos de trechos](raw/revalidacao-duas-lives-2026-11-26.json), logs, manifestos e consolidados idênticos à remontagem e hashes anteriores. A [nota](wiki/fontes/cozinha-de-pedra-caldo.md#transcrição-integral-das-duas-lives-inicialmente-interrompidas) distingue segmentação120s de corte de duração: o script atual não limita aASR/gravação. Sem novaASR ou reescuta; durações anteriores de1h17min31,176s e1h34min58,628s preservadas com o limite de mídia ausente explicitado.
+
+## [2026-11-26] ingestão |50 páginas de podcast:caldos, pho e relatos atribuídos
+
+Incorporados [50 corpos disponíveis](wiki/fontes/wapf-podcast-lote1-50.md),4.860 linhas/1.285.132 caracteres/100 hashes/151 intervalos, e [caderno de medidas e lacunas](wiki/temas/receitas-wapf-podcast-lote1.md). Revisor leu derivados/QA autoral inteiros e originais focais, conferiu hashes/faixas; não alegou segunda leitura integral dos originais, áudio ou estudos externos. MTC, arroz/açúcar, preparos parciais e propostas de menos amido permanecem identificados.

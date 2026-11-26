@@ -1,0 +1,1951 @@
+{
+  "schema_version": 1,
+  "collection": "WAPF Wise Traditions podcasts",
+  "batch": "podcast-integral-lote1-50-2026-11-26",
+  "publication_state": "incorporated_after_parent_review",
+  "proof_kind": "delegated_agent_semantic_reading",
+  "coverage": {
+    "requested": 50,
+    "read": 50,
+    "indices": [
+      0,
+      49
+    ],
+    "partitions": [
+      [
+        0,
+        24
+      ],
+      [
+        25,
+        49
+      ]
+    ],
+    "lines": 4860,
+    "chars": 1285132,
+    "physical_hashes_verified": 100,
+    "pending": []
+  },
+  "limits": [
+    "Somente corpos TXT extraídos, não áudios nem garantia de integridade histórica.",
+    "HTML somente hash; imagens, comentários, mídias e destinos não lidos.",
+    "Estudos externos apenas citados, não abertos; publicidade não é ensaio.",
+    "Sem nova ASR; irregularidades de roteiro/versão preservadas.",
+    "Infantil/gestacional/terapêutico em registro crítico, sem guia operacional ou keto.",
+    "Sem composição ou dose de B9/K/Cu/colágeno por caldo e sem macros inventados."
+  ],
+  "private_proof_artifact_hashes": {
+    "catalogo-fixo-50.jsonl": "5f26cc6815fd9f3ed7c43c7bc24054b26677dc7214bc4baeb548561f79bba314",
+    "recuperacao.jsonl": "322c95941473b8ef616ae605c68da9b51e8f50bfd6c4e576e3b5f33c6682d9d0",
+    "prova-extracao-50.jsonl": "63e54773477184489b49e83fc232be1b1865be3e1875e11e5548171c53b1d21f",
+    "prova-extracao-auditoria-50.jsonl": "eb938332de56abc22dfe30a27032fc27bb0bd92ee7e5bda7626165964f32ee42",
+    "corte-leitura-50.json": "d611e12e47561d304a1bfb0ff280248d68a80f2c1bee92d9b76d15f2e143c332",
+    "prova-leitura-faixa-00-24.jsonl": "fb55cb4a32f1036c1c3a4c332adba2972838b5cb828fd64f021f19c5fb577b91",
+    "ledger-faixa-00-24.jsonl": "eee95e6ed81320888fa0d6ddaaa6fbb6610087923fa70bb5bd7217625dfbd522",
+    "parecer-faixa-00-24.md": "c72210d09b2de50124e171232510d80d0ad5adbb2c57bc97968a583662e05fe9",
+    "fechamento-faixa-00-24.json": "b6efc930420cfebe55d3c41e7f75069117ef1c16a0d0d0976be7cfe1479faa0a",
+    "prova-leitura-faixa-25-49.jsonl": "bf84e1f45a253dc918c938d771bb4991329af4cc7b5b59f09c3781083dd6fc5f",
+    "ledger-faixa-25-49.jsonl": "558c483b2bc4dd28e6361fe2bf6225af3d0a13c2426298a1b6176552c23a52e4",
+    "parecer-faixa-25-49.md": "29ea491cb6db67d7e4c14445615f5c6ba4f2d3e1bdb432f9b6c62f2df4f43a25",
+    "fechamento-faixa-25-49.json": "7ab47308559bd2ce8e4d5a2bf10595a03422637cb048de7078a6de560d506b6f",
+    "ledger-integral-50.jsonl": "218841d4d828e7a21f8fa1473c4bfec3ce1bac9674aa6060272d2313d10c6a37"
+  },
+  "candidate_artifacts": {
+    "source-note-publica.md": "5d8474baab052bfcd29a3224cb0194412c897220c275707d786ae6e8a885e8f6",
+    "caderno-publico.md": "74f91952c90e85065019b1b1b77b84d132420012b8baaab914779b9dadb2215f"
+  },
+  "sources": [
+    {
+      "batch_index": 0,
+      "id": 26240,
+      "url": "https://www.westonaprice.org/podcast/107-focus-cancer-fall-journal-highlights/",
+      "canonical": "https://www.westonaprice.org/podcast/107-focus-cancer-fall-journal-highlights/",
+      "title": "Focus on Cancer – Fall Journal Highlights",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "November 30, 2017",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "November 30, 2017"
+      },
+      "html_sha256_physical": "584e49e31c74498fa0817023157e909faa4da42dd8e33998162073e4e3fa0aad",
+      "text_sha256_physical": "142fa33b6d0ae6fa1b8751f64b2bd204d4d1fcb2c53c676b6238154911afb31b",
+      "lines": 22,
+      "chars": 2514,
+      "read_ranges_inclusive": [
+        [
+          1,
+          22
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 1,
+      "id": 28504,
+      "url": "https://www.westonaprice.org/podcast/148-get-cooking/",
+      "canonical": "https://www.westonaprice.org/podcast/148-get-cooking/",
+      "title": "Get Cooking",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "August 20, 2018",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "August 20, 2018"
+      },
+      "html_sha256_physical": "30832fcca3f62db5cbd7df82d34295064ef9a4ff8a1f0a7f7fb4bae5828c0a4c",
+      "text_sha256_physical": "896d594af4ac2993d5c0388cd51f8f512c79c4637a1fbb038bb23c0ede7ff646",
+      "lines": 28,
+      "chars": 2058,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 2,
+      "id": 28857,
+      "url": "https://www.westonaprice.org/podcast/149-the-vaccine-trade-off/",
+      "canonical": "https://www.westonaprice.org/podcast/149-the-vaccine-trade-off/",
+      "title": "149: The Vaccine Trade-Off",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "August 27, 2018",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "August 27, 2018"
+      },
+      "html_sha256_physical": "6623bc9d71fc6c756646e2789211ed6850af9b35e5b83121949c2b805f873fd6",
+      "text_sha256_physical": "6142dbafdacaf9fd9547f1e27cbb042256fa18ee84e9dcf5112831bd5e3cf87b",
+      "lines": 114,
+      "chars": 35664,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          63
+        ],
+        [
+          64,
+          87
+        ],
+        [
+          88,
+          114
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 3,
+      "id": 29337,
+      "url": "https://www.westonaprice.org/podcast/160-centenarian-dietary-secrets/",
+      "canonical": "https://www.westonaprice.org/podcast/160-centenarian-dietary-secrets/",
+      "title": "Centenarian Dietary Secrets",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "November 12, 2018",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "November 12, 2018"
+      },
+      "html_sha256_physical": "22dcacf106b37fca42d16edad9ffb7b51855dd5cc82128ae3c0b15b2e7a91ffa",
+      "text_sha256_physical": "80943a99735b643f9166eb10974cdecc7dda66fdb5540f63cabf54038fa2904f",
+      "lines": 25,
+      "chars": 2658,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 4,
+      "id": 29435,
+      "url": "https://www.westonaprice.org/podcast/164-the-heal-your-leaky-gut-diet/",
+      "canonical": "https://www.westonaprice.org/podcast/164-the-heal-your-leaky-gut-diet/",
+      "title": "The “heal your leaky gut” Diet",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 10, 2018",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "December 10, 2018"
+      },
+      "html_sha256_physical": "bfa720efb4cd8c9678285a809a06c22c18f59f444c579342bde2c26d4528ebf0",
+      "text_sha256_physical": "4c6a3886ae1e67cf161989bb5d077f514c96c849989789187628f2bcb863e296",
+      "lines": 22,
+      "chars": 2079,
+      "read_ranges_inclusive": [
+        [
+          1,
+          22
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 5,
+      "id": 31064,
+      "url": "https://www.westonaprice.org/podcast/200-top-5-health-hacks/",
+      "canonical": "https://www.westonaprice.org/podcast/200-top-5-health-hacks/",
+      "title": "Top 5 Health Hacks",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "August 12, 2019",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "August 12, 2019"
+      },
+      "html_sha256_physical": "f7a2e0e1af45b786cb5d248ead8f4e292ad3179b564e4fd00000dedc54dad90b",
+      "text_sha256_physical": "6b3eb571707f65b33e3aad3abb2703b943a3a7994fae7afe7606fddbc08d468a",
+      "lines": 132,
+      "chars": 28017,
+      "read_ranges_inclusive": [
+        [
+          1,
+          49
+        ],
+        [
+          50,
+          83
+        ],
+        [
+          84,
+          132
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 6,
+      "id": 31185,
+      "url": "https://www.westonaprice.org/podcast/202-what-you-dont-know-about-ferments/",
+      "canonical": "https://www.westonaprice.org/podcast/202-what-you-dont-know-about-ferments/",
+      "title": "What You Don’t Know About Ferments",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "August 26, 2019",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "August 26, 2019"
+      },
+      "html_sha256_physical": "26b262d3c33e821dc452c5b86cafa52f4361cc816340fb5a3d54e13036b20064",
+      "text_sha256_physical": "20082da2f65039afc00df1371ef3b8c8dbf2b15f1df0c4ae40dfba9cbc2a383e",
+      "lines": 29,
+      "chars": 2524,
+      "read_ranges_inclusive": [
+        [
+          1,
+          29
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 7,
+      "id": 31594,
+      "url": "https://www.westonaprice.org/podcast/211-bonus-wise-traditions-2019-conference-lineup/",
+      "canonical": "https://www.westonaprice.org/podcast/211-bonus-wise-traditions-2019-conference-lineup/",
+      "title": "Bonus: Wise Traditions 2019 Conference Lineup",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "October 24, 2019",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "October 24, 2019"
+      },
+      "html_sha256_physical": "0a4dc3f51cae28db232672b35106e1ad069d59b9baa1cbe148a15d68cbe59700",
+      "text_sha256_physical": "eaab996106ea99900d6dee78f48b8787d85092721739d627eebf5aa6cb98c664",
+      "lines": 33,
+      "chars": 2654,
+      "read_ranges_inclusive": [
+        [
+          1,
+          33
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 8,
+      "id": 32686,
+      "url": "https://www.westonaprice.org/podcast/231-eating-nose-to-tail/",
+      "canonical": "https://www.westonaprice.org/podcast/231-eating-nose-to-tail/",
+      "title": "Eating Nose to Tail",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "March 9, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "March 9, 2020"
+      },
+      "html_sha256_physical": "096bbe837a66e84e312e75de340bf22f00c8d15680e4fbf2dfad811a4570bb60",
+      "text_sha256_physical": "e97233a5b82ded88dddfaa613112ef42d8a062ef77c120bcd178e76b3e0a815f",
+      "lines": 105,
+      "chars": 31543,
+      "read_ranges_inclusive": [
+        [
+          1,
+          46
+        ],
+        [
+          47,
+          74
+        ],
+        [
+          75,
+          105
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 9,
+      "id": 32703,
+      "url": "https://www.westonaprice.org/podcast/232-protect-yourself-from-the-coronavirus-or-any-virus/",
+      "canonical": "https://www.westonaprice.org/podcast/232-protect-yourself-from-the-coronavirus-or-any-virus/",
+      "title": "Protect Yourself from the Coronavirus (or Any Virus)",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "March 16, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "March 16, 2020"
+      },
+      "html_sha256_physical": "cfc708b31bfb257b2184e31e41ce7eb7012e9597724b7ce1573c29637fa17d6c",
+      "text_sha256_physical": "da19f3ef3270b921d7a8ede6a91ace5625ab00c73bdac69b7b6bb7b8fda30279",
+      "lines": 44,
+      "chars": 3125,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 10,
+      "id": 32801,
+      "url": "https://www.westonaprice.org/podcast/237-hysteria-more-contagious-than-the-flu/",
+      "canonical": "https://www.westonaprice.org/podcast/237-hysteria-more-contagious-than-the-flu/",
+      "title": "Hysteria: More Contagious Than the Flu",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "April 13, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "April 13, 2020"
+      },
+      "html_sha256_physical": "6ad0ff46b741280cda7f190304ebe2d4e3428b1e46eb02a9f3900c3617d745a9",
+      "text_sha256_physical": "5f5ecd4221aa7f93740bedac61884f1ab54bcdb1f2c93f15ff6d9beebb3dbc90",
+      "lines": 29,
+      "chars": 2636,
+      "read_ranges_inclusive": [
+        [
+          1,
+          29
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 11,
+      "id": 32885,
+      "url": "https://www.westonaprice.org/podcast/239-is-a-coronavirus-vaccine-a-good-idea/",
+      "canonical": "https://www.westonaprice.org/podcast/239-is-a-coronavirus-vaccine-a-good-idea/",
+      "title": "239: Is A Coronavirus Vaccine A Good Idea?",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "April 27, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "April 27, 2020"
+      },
+      "html_sha256_physical": "c4a6c9660aa8038aec89f1ddcbc64dae1476f3bc3aa3aa77790d3ca5acd28adc",
+      "text_sha256_physical": "7d57be9b8881727297173170507b94e48250291d8e0b7e23f77a637e88f3d6b1",
+      "lines": 139,
+      "chars": 38848,
+      "read_ranges_inclusive": [
+        [
+          1,
+          47
+        ],
+        [
+          48,
+          75
+        ],
+        [
+          76,
+          102
+        ],
+        [
+          103,
+          139
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 12,
+      "id": 32990,
+      "url": "https://www.westonaprice.org/podcast/241-an-alternative-point-of-view/",
+      "canonical": "https://www.westonaprice.org/podcast/241-an-alternative-point-of-view/",
+      "title": "An Alternative Point of View",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "May 11, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "May 11, 2020"
+      },
+      "html_sha256_physical": "7645bb639dc48490190518a43b49bece4ba49334406a8a5723fd10e0745b4529",
+      "text_sha256_physical": "cfc2d0d15b84c5d541cdb6b02874c7c7030b1e7d06c8fc148b2ca20ab8491947",
+      "lines": 33,
+      "chars": 2839,
+      "read_ranges_inclusive": [
+        [
+          1,
+          33
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 13,
+      "id": 33069,
+      "url": "https://www.westonaprice.org/podcast/242-are-germs-the-enemy/",
+      "canonical": "https://www.westonaprice.org/podcast/242-are-germs-the-enemy/",
+      "title": "Are Germs The Enemy?",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "May 18, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "May 18, 2020"
+      },
+      "html_sha256_physical": "54f2a298dbb5bfbcdee1ab81bcda721cd250ef8ee38c45680dd9221c40b4d598",
+      "text_sha256_physical": "4d85eec518a4a3eca2426a7839f4a9bff38d250fa263d5a3a27685ea3a39b2b3",
+      "lines": 136,
+      "chars": 39912,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ],
+        [
+          45,
+          75
+        ],
+        [
+          76,
+          103
+        ],
+        [
+          104,
+          136
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 14,
+      "id": 33319,
+      "url": "https://www.westonaprice.org/podcast/251-help-for-the-overwhelmed-family/",
+      "canonical": "https://www.westonaprice.org/podcast/251-help-for-the-overwhelmed-family/",
+      "title": "Help for the Overwhelmed Family",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "July 10, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "July 10, 2020"
+      },
+      "html_sha256_physical": "ba5b5707c8de41a0f170ae1edf2b3230fceba0ab66b9a924ee0a2c29c74ec268",
+      "text_sha256_physical": "d4ff584dbd802c6361bbc409c61f4688cff7e36103215cac9d451c00989d50e5",
+      "lines": 136,
+      "chars": 40020,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          72
+        ],
+        [
+          73,
+          100
+        ],
+        [
+          101,
+          136
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 15,
+      "id": 33354,
+      "url": "https://www.westonaprice.org/podcast/253-eating-healthy-on-a-budget/",
+      "canonical": "https://www.westonaprice.org/podcast/253-eating-healthy-on-a-budget/",
+      "title": "Eating Healthy On A Budget",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "July 17, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "July 17, 2020"
+      },
+      "html_sha256_physical": "532e9eae7ad3d5e43acf37b76f56ef7e606521111947a856198a1e72c03b345c",
+      "text_sha256_physical": "8ce99949f81338f641d8e571b7feaa1005125fd590c38dd481a094023eb5cdad",
+      "lines": 27,
+      "chars": 1782,
+      "read_ranges_inclusive": [
+        [
+          1,
+          27
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 16,
+      "id": 33476,
+      "url": "https://www.westonaprice.org/podcast/255-homemade-baby-formula/",
+      "canonical": "https://www.westonaprice.org/podcast/255-homemade-baby-formula/",
+      "title": "Homemade Baby Formula",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "July 24, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "July 24, 2020"
+      },
+      "html_sha256_physical": "e67f6ebba1675c098d93e3d25f93c623c89ecb1032e176697381c484b0701b5e",
+      "text_sha256_physical": "bb92b0c2d80a35cd6dea3383e8b18c53907d2497df374051d1c918a47b10a313",
+      "lines": 59,
+      "chars": 4116,
+      "read_ranges_inclusive": [
+        [
+          1,
+          59
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 17,
+      "id": 33486,
+      "url": "https://www.westonaprice.org/podcast/256-for-the-love-of-soil/",
+      "canonical": "https://www.westonaprice.org/podcast/256-for-the-love-of-soil/",
+      "title": "For the Love of Soil",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "July 27, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "July 27, 2020"
+      },
+      "html_sha256_physical": "83076da8924fed8cdb4b5c8df3f30dd6e0827adacf8ca640788781e0195f65b7",
+      "text_sha256_physical": "58530957996231554ce3a320719be84c5b153997b4ba31b4ebce330dfc6cba10",
+      "lines": 115,
+      "chars": 29726,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          72
+        ],
+        [
+          73,
+          115
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 18,
+      "id": 33636,
+      "url": "https://www.westonaprice.org/podcast/259-nourishing-the-postpartum-mom/",
+      "canonical": "https://www.westonaprice.org/podcast/259-nourishing-the-postpartum-mom/",
+      "title": "Nourishing the Postpartum Mom",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "August 8, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "August 8, 2020"
+      },
+      "html_sha256_physical": "6b651a01785fbc382d3d872dfe969bbf8212eb550c74be1028bcaa7a2caf39fa",
+      "text_sha256_physical": "97783f814857cf11983fe7c5ebd71dc39b296da70932e591750f95d4c06de1c9",
+      "lines": 70,
+      "chars": 22058,
+      "read_ranges_inclusive": [
+        [
+          1,
+          32
+        ],
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          70
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 19,
+      "id": 33821,
+      "url": "https://www.westonaprice.org/podcast/263-the-hateful-eight/",
+      "canonical": "https://www.westonaprice.org/podcast/263-the-hateful-eight/",
+      "title": "The Hateful Eight",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "August 31, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "August 31, 2020"
+      },
+      "html_sha256_physical": "04bcfe0ea32b9deaddf1c866bb2abb578220320216aaedb2fc2f91ca66674cc6",
+      "text_sha256_physical": "851c2c2ddf71338001f9cf6a043cae5a329238cbf9a4509b606d926079ac0ac7",
+      "lines": 139,
+      "chars": 36418,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          71
+        ],
+        [
+          72,
+          95
+        ],
+        [
+          96,
+          139
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 20,
+      "id": 33873,
+      "url": "https://www.westonaprice.org/podcast/264-beyond-labels/",
+      "canonical": "https://www.westonaprice.org/podcast/264-beyond-labels/",
+      "title": "Beyond Labels",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "September 7, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "September 7, 2020"
+      },
+      "html_sha256_physical": "906ad2fc00abc0da2d7795913209b384b25fa554dc6e4e5a248481998886b555",
+      "text_sha256_physical": "b7a1f5b8d528292efedcb29588c29763fb7322979e2d12ce7c1ee47d4e9672a2",
+      "lines": 144,
+      "chars": 40822,
+      "read_ranges_inclusive": [
+        [
+          1,
+          48
+        ],
+        [
+          49,
+          82
+        ],
+        [
+          83,
+          106
+        ],
+        [
+          107,
+          144
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 21,
+      "id": 34000,
+      "url": "https://www.westonaprice.org/podcast/266-what-we-can-do-about-emfs/",
+      "canonical": "https://www.westonaprice.org/podcast/266-what-we-can-do-about-emfs/",
+      "title": "What We Can Do About EMFs",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "September 21, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "September 21, 2020"
+      },
+      "html_sha256_physical": "d7e774bef0196c1cd5bdcbc8ef02ab1e7a0655c6aaa27b1a9c6030d3577c2ae8",
+      "text_sha256_physical": "2521b65224847cb064f9a0b4fd6d8950ac95d4ac33727d273450c3d9a1b05383",
+      "lines": 107,
+      "chars": 32233,
+      "read_ranges_inclusive": [
+        [
+          1,
+          41
+        ],
+        [
+          42,
+          68
+        ],
+        [
+          69,
+          98
+        ],
+        [
+          99,
+          107
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 22,
+      "id": 24934,
+      "url": "https://www.westonaprice.org/podcast/30-nutrient-density-principle-3/",
+      "canonical": "https://www.westonaprice.org/podcast/30-nutrient-density-principle-3/",
+      "title": "Nutrient Density (Principle #3)",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "July 4, 2016",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "July 4, 2016"
+      },
+      "html_sha256_physical": "b51043d4dc227e101021f0bbf639543c1a27ee6a9d8c8b7ddd7045d0a9ab83b8",
+      "text_sha256_physical": "841a878efd327ee586e8ba033043f0febc4c1505ba7f288e2662018052b81711",
+      "lines": 22,
+      "chars": 2814,
+      "read_ranges_inclusive": [
+        [
+          1,
+          22
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 23,
+      "id": 47765,
+      "url": "https://www.westonaprice.org/podcast/40-years-of-farming-organically-has-it-been-worth-it-with-bob-quinn/",
+      "canonical": "https://www.westonaprice.org/podcast/40-years-of-farming-organically-has-it-been-worth-it-with-bob-quinn/",
+      "title": "40 Years Of Farming Organically: Has It Been Worth It? With Bob Quinn",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "September 1, 2025",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "September 1, 2025"
+      },
+      "html_sha256_physical": "f14553b84dcb837550df4b2e6f45ce2c89a3e4cd16e499107456b962bf32e778",
+      "text_sha256_physical": "7fd11772c5d481ea78d45830a4bfe4f51139e795abbb224a0cc92f9c4cfc84bd",
+      "lines": 114,
+      "chars": 35779,
+      "read_ranges_inclusive": [
+        [
+          1,
+          32
+        ],
+        [
+          33,
+          60
+        ],
+        [
+          61,
+          84
+        ],
+        [
+          85,
+          114
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 24,
+      "id": 24900,
+      "url": "https://www.westonaprice.org/podcast/43-beautiful-broth/",
+      "canonical": "https://www.westonaprice.org/podcast/43-beautiful-broth/",
+      "title": "Beautiful Broth",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "September 26, 2016",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "September 26, 2016"
+      },
+      "html_sha256_physical": "44da31922a3539b04c53ee19a82ed2b77f34205ca80724ad2cd53fc234f6b6b1",
+      "text_sha256_physical": "e4d8fd09cbec8ae8f799bb425373748c5cea918ff563e5e5730ae7fae0f74d5d",
+      "lines": 32,
+      "chars": 2912,
+      "read_ranges_inclusive": [
+        [
+          1,
+          32
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 25,
+      "id": 24866,
+      "url": "https://www.westonaprice.org/podcast/55-the-motherhood-diet/",
+      "canonical": "https://www.westonaprice.org/podcast/55-the-motherhood-diet/",
+      "title": "The Motherhood Diet",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 19, 2016",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "December 19, 2016"
+      },
+      "html_sha256_physical": "063dcdd5da7b1d05b52935eecdecb44867fce1d3df75d8b3756b023ea8312ca8",
+      "text_sha256_physical": "b6cd109aaffb4d20c27d6fc82857aa77291d084f6c79bc68d45b3462dc6ceb9d",
+      "lines": 113,
+      "chars": 28664,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ],
+        [
+          43,
+          70
+        ],
+        [
+          71,
+          113
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 26,
+      "id": 24800,
+      "url": "https://www.westonaprice.org/podcast/66-fibro-hope/",
+      "canonical": "https://www.westonaprice.org/podcast/66-fibro-hope/",
+      "title": "Fibro Hope",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "March 6, 2017",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "March 6, 2017"
+      },
+      "html_sha256_physical": "cc70fb45422e3c8eba9c13eb351c49ea444d8784c2948bb2bf1df44e11464a2f",
+      "text_sha256_physical": "424bc061ac98bb8750af2927966629ee97c3dc889a582ef78cace70040923140",
+      "lines": 31,
+      "chars": 6504,
+      "read_ranges_inclusive": [
+        [
+          1,
+          31
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 27,
+      "id": 25151,
+      "url": "https://www.westonaprice.org/podcast/89-migraine-relief/",
+      "canonical": "https://www.westonaprice.org/podcast/89-migraine-relief/",
+      "title": "Migraine relief",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "August 7, 2017",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "August 7, 2017"
+      },
+      "html_sha256_physical": "0c4d13fe2addc8f86bc42876c2a7b763b37865849df9f9e41b3ae5929d0936ae",
+      "text_sha256_physical": "a70d7961a9fd5719ff2238cdcf5149ba8bde67d7e156d4fcb30b7d9641d512d1",
+      "lines": 21,
+      "chars": 3067,
+      "read_ranges_inclusive": [
+        [
+          1,
+          21
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 28,
+      "id": 47364,
+      "url": "https://www.westonaprice.org/podcast/a-generation-experimented-on-without-their-permission-with-alex-clark/",
+      "canonical": "https://www.westonaprice.org/podcast/a-generation-experimented-on-without-their-permission-with-alex-clark/",
+      "title": "A Generation Experimented On Without Their Permission With Alex Clark",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "May 26, 2025",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "May 26, 2025"
+      },
+      "html_sha256_physical": "44cf9958e3909c102016e08c19e2c8707628dc6d1901a100fb892d6b5800f991",
+      "text_sha256_physical": "f86d6e2c6e5621bf60ae27f8037fa0c78c4ea79ffdc27d4a9f05a8fc89302339",
+      "lines": 120,
+      "chars": 34762,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          69
+        ],
+        [
+          70,
+          97
+        ],
+        [
+          98,
+          120
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 29,
+      "id": 49178,
+      "url": "https://www.westonaprice.org/podcast/a-return-to-traditional-herbalism-with-kate-tietje/",
+      "canonical": "https://www.westonaprice.org/podcast/a-return-to-traditional-herbalism-with-kate-tietje/",
+      "title": "A Return To Traditional Herbalism With Kate Tietje",
+      "author": "Kendall Nelson",
+      "displayed_date": "July 6, 2026",
+      "autor_data": {
+        "autor": "Kendall Nelson",
+        "data_exibida": "July 6, 2026"
+      },
+      "html_sha256_physical": "3aef9f4e36a42838083e6df9791885e3b29572292365614ac930c6110b640993",
+      "text_sha256_physical": "6969062e981c1d3d9e8c5b09517615bbf949b212d62fb16d4b4a7d1d81c36eca",
+      "lines": 153,
+      "chars": 40725,
+      "read_ranges_inclusive": [
+        [
+          1,
+          43
+        ],
+        [
+          44,
+          73
+        ],
+        [
+          74,
+          103
+        ],
+        [
+          104,
+          153
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 30,
+      "id": 39209,
+      "url": "https://www.westonaprice.org/podcast/activate-to-defend-food-and-health-freedom/",
+      "canonical": "https://www.westonaprice.org/podcast/activate-to-defend-food-and-health-freedom/",
+      "title": "Activate To Defend Food And Health Freedom",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "January 17, 2022",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "January 17, 2022"
+      },
+      "html_sha256_physical": "2a7397d2d055f73e57d0658e026697409a8b92f98aa16f8b5d4303f5b4d1f5f7",
+      "text_sha256_physical": "f763867ce4a1bc73ec3b2799c7220fb13e731bcee7b7e79261bf6164022d4ba4",
+      "lines": 129,
+      "chars": 35059,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ],
+        [
+          45,
+          78
+        ],
+        [
+          79,
+          100
+        ],
+        [
+          101,
+          129
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 31,
+      "id": 45330,
+      "url": "https://www.westonaprice.org/podcast/address-gut-distress/",
+      "canonical": "https://www.westonaprice.org/podcast/address-gut-distress/",
+      "title": "Address Gut Distress",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "April 22, 2024",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "April 22, 2024"
+      },
+      "html_sha256_physical": "dbbe5a7120a12afe62381dac096fde6dc26d7e4bc8c254db63a8c7fce7d4103e",
+      "text_sha256_physical": "1085895d8260183249525cc9dd31462901a0d6916380dec0ca271fcb23d11d4f",
+      "lines": 150,
+      "chars": 44526,
+      "read_ranges_inclusive": [
+        [
+          1,
+          45
+        ],
+        [
+          46,
+          78
+        ],
+        [
+          79,
+          106
+        ],
+        [
+          107,
+          137
+        ],
+        [
+          138,
+          150
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 32,
+      "id": 36070,
+      "url": "https://www.westonaprice.org/podcast/are-you-breathing-wrong/",
+      "canonical": "https://www.westonaprice.org/podcast/are-you-breathing-wrong/",
+      "title": "Are You Breathing Wrong?",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "March 15, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "March 15, 2021"
+      },
+      "html_sha256_physical": "42a87b17936b4897cbf9ad16376ca142f3fab321c12f7da744cc885cc3ee8908",
+      "text_sha256_physical": "2c13b4d271a6db3335e659c1136f535a53f788e87a471c32702801fed4488c37",
+      "lines": 78,
+      "chars": 26721,
+      "read_ranges_inclusive": [
+        [
+          1,
+          30
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          51,
+          78
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 33,
+      "id": 38213,
+      "url": "https://www.westonaprice.org/podcast/avoid-dental-problems-with-diet/",
+      "canonical": "https://www.westonaprice.org/podcast/avoid-dental-problems-with-diet/",
+      "title": "Avoid Dental Problems With Diet",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "September 20, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "September 20, 2021"
+      },
+      "html_sha256_physical": "5b6a540afadbf200c7d5f6777983737ea5a5191b69030e75d90290cf916faf11",
+      "text_sha256_physical": "23f27f5d0eef100b78ba31265fe00adf236c5a08011db49f176a77aa40fe3dba",
+      "lines": 143,
+      "chars": 45063,
+      "read_ranges_inclusive": [
+        [
+          1,
+          43
+        ],
+        [
+          44,
+          72
+        ],
+        [
+          73,
+          95
+        ],
+        [
+          96,
+          117
+        ],
+        [
+          118,
+          143
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 34,
+      "id": 36539,
+      "url": "https://www.westonaprice.org/podcast/be-informed-reasons-for-reservations/",
+      "canonical": "https://www.westonaprice.org/podcast/be-informed-reasons-for-reservations/",
+      "title": "Be Informed: Reasons For Reservations",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "April 30, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "April 30, 2021"
+      },
+      "html_sha256_physical": "660417cfde929b4fa84b59af683aa88167ce6ad5c477ce6ffa5a78489a162de3",
+      "text_sha256_physical": "a9b3ec6f843eb69a91dffd556af92df3ad26fc8b03b0a6c247a67813fb7cfd31",
+      "lines": 73,
+      "chars": 25735,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ],
+        [
+          29,
+          48
+        ],
+        [
+          49,
+          73
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 35,
+      "id": 46803,
+      "url": "https://www.westonaprice.org/podcast/begin-here-5-ancestral-foods-to-bring-into-your-kitchen/",
+      "canonical": "https://www.westonaprice.org/podcast/begin-here-5-ancestral-foods-to-bring-into-your-kitchen/",
+      "title": "Begin Here: 5 Ancestral Foods To Bring Into Your Kitchen",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "February 3, 2025",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "February 3, 2025"
+      },
+      "html_sha256_physical": "bc20c5d99038d8285874d4e5207070cce00b15d35cce6d0b3c66e8acf358fab7",
+      "text_sha256_physical": "24045dfe65974f493e0472a767566008d6b8614b3e5b31f7504a870abb28304b",
+      "lines": 112,
+      "chars": 34095,
+      "read_ranges_inclusive": [
+        [
+          1,
+          32
+        ],
+        [
+          33,
+          56
+        ],
+        [
+          57,
+          84
+        ],
+        [
+          85,
+          112
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 36,
+      "id": 35151,
+      "url": "https://www.westonaprice.org/podcast/best-of-2020/",
+      "canonical": "https://www.westonaprice.org/podcast/best-of-2020/",
+      "title": "Best of 2020",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 28, 2020",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "December 28, 2020"
+      },
+      "html_sha256_physical": "687559bacc703b9a05beb755bb1aa3467de685008510b7b4f0c95ea98abf098f",
+      "text_sha256_physical": "1f8880d6162325cce7dd1c89e35c0e35adf98cd317ce68939bd59279fa2c721b",
+      "lines": 128,
+      "chars": 34773,
+      "read_ranges_inclusive": [
+        [
+          1,
+          54
+        ],
+        [
+          55,
+          80
+        ],
+        [
+          81,
+          99
+        ],
+        [
+          100,
+          128
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 37,
+      "id": 38903,
+      "url": "https://www.westonaprice.org/podcast/best-of-2021/",
+      "canonical": "https://www.westonaprice.org/podcast/best-of-2021/",
+      "title": "Best Of 2021",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 27, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "December 27, 2021"
+      },
+      "html_sha256_physical": "05ba0a4bb94257cf8d2ab8b1f2b1b986d05baf01fea4c2145a2e52c6257fd1ae",
+      "text_sha256_physical": "2949eb2e848ecfca4b7e6cbe30c536ae814ce23d80b51677918a2ed4a40ca41c",
+      "lines": 175,
+      "chars": 48014,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ],
+        [
+          45,
+          72
+        ],
+        [
+          73,
+          106
+        ],
+        [
+          107,
+          131
+        ],
+        [
+          132,
+          175
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 38,
+      "id": 44656,
+      "url": "https://www.westonaprice.org/podcast/best-of-2023/",
+      "canonical": "https://www.westonaprice.org/podcast/best-of-2023/",
+      "title": "Best Of 2023",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 25, 2023",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "December 25, 2023"
+      },
+      "html_sha256_physical": "a329950b0f67417f432e5cbf34625c019613dbf309fa0056c371eb7ec12fa7c7",
+      "text_sha256_physical": "b32a66fffc435a02939657c08d015a3323beeb9348d7b6bc397a02f47d3cb190",
+      "lines": 158,
+      "chars": 35930,
+      "read_ranges_inclusive": [
+        [
+          1,
+          47
+        ],
+        [
+          48,
+          91
+        ],
+        [
+          92,
+          121
+        ],
+        [
+          122,
+          158
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 39,
+      "id": 37946,
+      "url": "https://www.westonaprice.org/podcast/bringing-up-baby/",
+      "canonical": "https://www.westonaprice.org/podcast/bringing-up-baby/",
+      "title": "Bringing Up Baby",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "September 6, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "September 6, 2021"
+      },
+      "html_sha256_physical": "0c24ace3a044c2201fcc3cca669cbd0bf36051b956e1f5c17b1ad3b60762d8ec",
+      "text_sha256_physical": "2cb03decf3fd91779afe7501dd6acd2c7a933506dc091b3dd3003cb1e13c47c2",
+      "lines": 130,
+      "chars": 28709,
+      "read_ranges_inclusive": [
+        [
+          1,
+          54
+        ],
+        [
+          55,
+          89
+        ],
+        [
+          90,
+          130
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 40,
+      "id": 45284,
+      "url": "https://www.westonaprice.org/podcast/building-a-nourishing-asian-kitchen/",
+      "canonical": "https://www.westonaprice.org/podcast/building-a-nourishing-asian-kitchen/",
+      "title": "Building A Nourishing Asian Kitchen",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "April 8, 2024",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "April 8, 2024"
+      },
+      "html_sha256_physical": "ddfb6ee19d66c5b1ba892351d3f8ae5e85bce8ef8e273140244d5e134aa1d833",
+      "text_sha256_physical": "523b8e7850e1205b6a18dc2f3beaa7a51cbd0512b401678d1598f9c78dcb1569",
+      "lines": 146,
+      "chars": 37820,
+      "read_ranges_inclusive": [
+        [
+          1,
+          46
+        ],
+        [
+          47,
+          79
+        ],
+        [
+          80,
+          110
+        ],
+        [
+          111,
+          146
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 41,
+      "id": 42468,
+      "url": "https://www.westonaprice.org/podcast/butter-is-better/",
+      "canonical": "https://www.westonaprice.org/podcast/butter-is-better/",
+      "title": "Butter Is Better",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 5, 2022",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "December 5, 2022"
+      },
+      "html_sha256_physical": "8facb8eff8feb1cb6380bc4d96b757ae40e567ec7022ce0d57cddf9a56f7ac70",
+      "text_sha256_physical": "1c926b751102bbd7d966d0566c087c5043e8da09aa15be3d08ec6b07e3fdfe58",
+      "lines": 128,
+      "chars": 24821,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ],
+        [
+          45,
+          90
+        ],
+        [
+          91,
+          128
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 42,
+      "id": 47447,
+      "url": "https://www.westonaprice.org/podcast/can-a-garden-help-usher-in-peace-on-earth-with-jim-gale/",
+      "canonical": "https://www.westonaprice.org/podcast/can-a-garden-help-usher-in-peace-on-earth-with-jim-gale/",
+      "title": "Can A Garden Help Usher In Peace On Earth? With Jim Gale",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "June 30, 2025",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "June 30, 2025"
+      },
+      "html_sha256_physical": "cb51ca27368707ad7c50c02fd363256d2f777d33c54f333d98650397b7a1f54e",
+      "text_sha256_physical": "4ebbd082f9d2b1f0661fb16fc46b8bb69e6a6e36f30b3af5e5d5bd4b9212f019",
+      "lines": 124,
+      "chars": 29673,
+      "read_ranges_inclusive": [
+        [
+          1,
+          44
+        ],
+        [
+          45,
+          77
+        ],
+        [
+          78,
+          124
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 43,
+      "id": 36691,
+      "url": "https://www.westonaprice.org/podcast/confidence-in-the-kitchen/",
+      "canonical": "https://www.westonaprice.org/podcast/confidence-in-the-kitchen/",
+      "title": "Confidence In The Kitchen",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "May 10, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "May 10, 2021"
+      },
+      "html_sha256_physical": "4c77dc869b2fa461196fc27a20ecaa499b12a441b2a29f44a79096ad9619c359",
+      "text_sha256_physical": "282fe48116d64cdca4e71da4aa0bd52b06dc83d3b3a8201007366f9756e04ec5",
+      "lines": 81,
+      "chars": 28416,
+      "read_ranges_inclusive": [
+        [
+          1,
+          29
+        ],
+        [
+          30,
+          47
+        ],
+        [
+          48,
+          81
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 44,
+      "id": 38532,
+      "url": "https://www.westonaprice.org/podcast/covid-homeopathy-for-prevention-and-detox-post-shot/",
+      "canonical": "https://www.westonaprice.org/podcast/covid-homeopathy-for-prevention-and-detox-post-shot/",
+      "title": "COVID: Homeopathy For Prevention And Detox Post-Shot",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "November 1, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "November 1, 2021"
+      },
+      "html_sha256_physical": "0c3111d0c7daf741594ea368863a01372ac9d79e34e43227a74a0b4ab2f41035",
+      "text_sha256_physical": "ec47a067db082b092dc17553253a3f99ddf83e6bde68d35e6c61fc241b355ab6",
+      "lines": 131,
+      "chars": 38902,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          68
+        ],
+        [
+          69,
+          96
+        ],
+        [
+          97,
+          131
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 45,
+      "id": 38558,
+      "url": "https://www.westonaprice.org/podcast/covid-keep-kids-grounded-in-turbulent-times/",
+      "canonical": "https://www.westonaprice.org/podcast/covid-keep-kids-grounded-in-turbulent-times/",
+      "title": "Covid: Keep Kids Grounded in Turbulent Times",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "November 8, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "November 8, 2021"
+      },
+      "html_sha256_physical": "2d9ee7f0d5787bd5076f38d7f80106ad2cce6c74f67d1b593f6d30404d526f77",
+      "text_sha256_physical": "da7bdfb7275884efab5b26fc27c3efece2874d5b60505a73acb68a47168c80af",
+      "lines": 151,
+      "chars": 50497,
+      "read_ranges_inclusive": [
+        [
+          1,
+          37
+        ],
+        [
+          38,
+          58
+        ],
+        [
+          59,
+          85
+        ],
+        [
+          86,
+          107
+        ],
+        [
+          108,
+          131
+        ],
+        [
+          132,
+          151
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 46,
+      "id": 38418,
+      "url": "https://www.westonaprice.org/podcast/covid-there-is-no-virus/",
+      "canonical": "https://www.westonaprice.org/podcast/covid-there-is-no-virus/",
+      "title": "Covid: There Is No Virus",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "October 18, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "October 18, 2021"
+      },
+      "html_sha256_physical": "e173de7e1d09918bb44f8994ee8444d7b4830390d999c26d1ecf367f40c747ab",
+      "text_sha256_physical": "6dcff103fd2ea52d44499aa4995be47bca51fbd2cbdc8755e9bd097f3bfe8495",
+      "lines": 154,
+      "chars": 44384,
+      "read_ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          61
+        ],
+        [
+          62,
+          91
+        ],
+        [
+          92,
+          117
+        ],
+        [
+          118,
+          154
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 47,
+      "id": 38760,
+      "url": "https://www.westonaprice.org/podcast/cure-your-fatigue-and-slow-the-aging-process/",
+      "canonical": "https://www.westonaprice.org/podcast/cure-your-fatigue-and-slow-the-aging-process/",
+      "title": "Cure Your Fatigue and Slow the Aging Process",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "December 13, 2021",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "December 13, 2021"
+      },
+      "html_sha256_physical": "28502df85507dfd992a1e35739e9fb694f3bade52ab91526bfb9aeb71c73a254",
+      "text_sha256_physical": "09569391353e84eb6a4e01c16a2951e2767e1a481a7f151192137b0d6be1caa8",
+      "lines": 120,
+      "chars": 43068,
+      "read_ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          54
+        ],
+        [
+          55,
+          75
+        ],
+        [
+          76,
+          93
+        ],
+        [
+          94,
+          120
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 48,
+      "id": 47889,
+      "url": "https://www.westonaprice.org/podcast/dangers-of-the-vegan-diet-glyphosate-and-vaccines-with-zen-honeycutt/",
+      "canonical": "https://www.westonaprice.org/podcast/dangers-of-the-vegan-diet-glyphosate-and-vaccines-with-zen-honeycutt/",
+      "title": "Dangers Of The Vegan Diet, Glyphosate, And Vaccines With Zen Honeycutt",
+      "author": "Hilda Gore",
+      "displayed_date": "October 13, 2025",
+      "autor_data": {
+        "autor": "Hilda Gore",
+        "data_exibida": "October 13, 2025"
+      },
+      "html_sha256_physical": "d2a6864716372a5341bea814f15c1295fb484cbc9fc37ac7aa693b321dbd56aa",
+      "text_sha256_physical": "ae31b54967e448f21ea009782c4258e267ac12fabc226468f9fd3ae933b8c988",
+      "lines": 136,
+      "chars": 38383,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          66
+        ],
+        [
+          67,
+          98
+        ],
+        [
+          99,
+          136
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    },
+    {
+      "batch_index": 49,
+      "id": 41800,
+      "url": "https://www.westonaprice.org/podcast/demystifying-organ-meats/",
+      "canonical": "https://www.westonaprice.org/podcast/demystifying-organ-meats/",
+      "title": "Demystifying Organ Meats",
+      "author": "Hilda Labrada Gore",
+      "displayed_date": "August 29, 2022",
+      "autor_data": {
+        "autor": "Hilda Labrada Gore",
+        "data_exibida": "August 29, 2022"
+      },
+      "html_sha256_physical": "cc01ce04e5ef56937ca452c8a3b383b6cf9d1e7bbfd67eb921783de64d391547",
+      "text_sha256_physical": "cc67bfeafa2a3cfa8660339028caa636713aaf6bad083be2abbd23a26eb6e8da",
+      "lines": 119,
+      "chars": 31070,
+      "read_ranges_inclusive": [
+        [
+          1,
+          39
+        ],
+        [
+          40,
+          70
+        ],
+        [
+          71,
+          96
+        ],
+        [
+          97,
+          119
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "semantic_reading_status": "complete_extracted_txt",
+      "material_read": "TXT extraído da página individual; sinopse ou transcrição conforme disponível no corte",
+      "historical_integrity_claim": false,
+      "audio_read": false,
+      "external_destinations_read": false
+    }
+  ],
+  "date": "2026-11-26",
+  "private_frozen_manifest_sha256": "a464466310b5155e27d647543fea97c2c43829bfb4e0687b06eab090ad623876",
+  "private_candidate_manifest_sha256": "e0586b4ce85d8dec4472cb7f123e1c5eb1205f3966dcc3cb58bd254b67ea45f5",
+  "root_review": {
+    "full_public_source_note_and_culinary_draft_read": true,
+    "full_author_qa_read": true,
+    "whole_private_reports_reread_claim": false,
+    "all100_physical_hashes_and_read_ranges_checked": true,
+    "original_focal_ranges": {
+      "35": [
+        [
+          79,
+          82
+        ]
+      ],
+      "40": [
+        [
+          96,
+          97
+        ]
+      ],
+      "18": [
+        [
+          33,
+          35
+        ]
+      ],
+      "20": [
+        [
+          102,
+          107
+        ]
+      ]
+    },
+    "original_focal_output_reference": "3cb9dd",
+    "whole_original50_reread_claim": false,
+    "independent_qa_claim": false
+  }
+}

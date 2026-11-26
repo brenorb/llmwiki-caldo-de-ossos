@@ -299,3 +299,6 @@
 - [WAPF:22 índices complementares, união34 e conciliação das receitas já lidas](wiki/fontes/wapf-direct-index-main22.md)
 
 - [Duas lives do Cozinha de Pedra:87 trechos completos, revalidação sem limite de duração](wiki/fontes/cozinha-de-pedra-caldo.md#transcrição-integral-das-duas-lives-inicialmente-interrompidas)
+
+- [WAPF:50 páginas de podcasts — leitura textual, relatos e limites](wiki/fontes/wapf-podcast-lote1-50.md)
+- [Caldos, pho, sopas e usos do caldo nos podcasts:medidas e opções](wiki/temas/receitas-wapf-podcast-lote1.md)

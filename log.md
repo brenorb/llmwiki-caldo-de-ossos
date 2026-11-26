@@ -1038,3 +1038,8 @@ Lidos artigo/suplemento e conferidos originais/hashes do [Xiao2016](wiki/fontes/
 ## [2026-11-25] ingestão | Treze entrevistas e atribuição de Axe/Brad
 
 O [corte de13](raw/youtube-mda-pos129-13-2026-11-25.json) acrescenta9.851 linhas/48 blocos lidos integralmente, com65 hashes conferidos e disjunção dos129 anteriores. A síntese distingue relato multicomponente,analogia de benefício,TCM,vitaminaK de outro alimento e usos culinários sem medidas. Foram atualizados fonteMDA,TCM,ideias de peptídeos,cobertura,índice e proveniência sem atribuir falas dos convidados a Sisson.
+
+
+## [2026-11-25] ingestão | Medidas culinárias do quinto lote WAPF
+
+Incorporado o [caderno com chili, ramen, sopas, gelatina e usos incompletos](wiki/temas/receitas-wapf-medidas-health5.md). Revisadas todas as 31.277 posições de caracteres do rascunho culinário contra os pareceres previamente produzidos; mantidas medidas originais, ausências e adaptações não testadas. O chili escolar foi distinguido do chili de outra URL; gelatina com suco/mel não foi classificada como sem açúcar.

@@ -251,3 +251,8 @@ Kiwi, gengibre e abacaxi têm proteases com nomes distintos: actinidina, zingiba
 Para gelatinas simples, eritritol ou um adoçante de estévia pode substituir parte do dulçor de mel, açúcar ou xarope. Comece pela equivalência do fabricante, prove antes de gelar e confira os ingredientes do adoçante. O eritritol pode deixar sensação refrescante ou grânulos em receitas frias mais concentradas. Omissão de açúcar adicionado é uma descrição da receita. A adequação a low carb ou keto depende da quantidade servida e da meta diária. A classificação paleo ou primal também depende de como a pessoa trata laticínios e adoçantes.
 
 Caldo, gelatinas e sobremesas com creme continuam perecíveis. Mantenha refrigerados e conte o prazo do caldo a partir de seu preparo. Use produtos pasteurizados nas adaptações que pedem creme ou leite cru. [Resfriamento e conservação](seguranca-conservacao.md)
+
+
+## Gelatina de frutas WAPF: original e adaptação
+
+A [ficha Gelatin Fruit Snacks](receitas-wapf-medidas-health5.md#gelatin-fruit-snacks) preserva a fórmula com suco, fruta, gelatina e mel e o modo de preparo. Suco sem açúcar adicionado ainda contém açúcares. A alternativa com infusão, frutas vermelhas e adoçante é uma proposta da wiki, sem proporção ou textura testadas; trocar apenas o mel não elimina os carboidratos do suco.

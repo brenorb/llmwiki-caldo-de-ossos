@@ -1083,3 +1083,8 @@ Incorporada [leitura integral dos doisTXT](raw/youtube-mda-pos142-2-2026-11-25.j
 ## [2026-11-25] ingestão | Sete tabelas e quatro figuras do artigo hormonal WAPF
 
 Preenchida a lacuna visual do45 por [leitura integral dos11 objetos](wiki/fontes/wapf-hormonal-tabelas.md),11 HTTP200 e hashes físicos. Transcrição própria completa no acervo; revisor leu parecer e reviu tabelas 3/5/7. Registrados quatro usos de caldo/cardápio com medidas, sem confundir cup de arroz com cup de caldo, totais dietéticos com composição ou casos com ensaio isolado. O título cortado da figura 1 permanece limitado.
+
+
+## [2026-11-25] ingestão | Tutano: alegação de K2 sem laudo e análise posterior
+
+Registrado o [parágrafo de Allbritton 2010](wiki/fontes/allbritton-2010-tutano.md), com 210 linhas mais rodapé integralmente lidos por agente e dois hashes conferidos. A alegação29 µgK2/100g não foi equiparada ao painel de 3 µgMK-4/100g ou ao caldo. Busca direcionada não recuperou o laudo subjacente; não se concluiu inexistência. Fonte antecipada do lote7, sem somá-la de novo quando o lote for incorporado.

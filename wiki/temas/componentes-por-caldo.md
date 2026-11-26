@@ -116,3 +116,8 @@ Como referência de um ingrediente separado, uma análise encomendada pela WAPF 
 Uma live do Cozinha de Pedra atribui à xícara de caldo colágeno, ácido hialurônico, condroitina e glucosamina, sem medir a porção. As quantidades de hialuronano e de sulfato de condroitina acima correspondem à fração isolada de uma amostra específica de frango. Não há estimativa de glucosamina livre na xícara nem base para inferir equivalência com doses de suplementos. [Live, 05:43–06:43](https://www.instagram.com/cozinhadepedra/reel/CRSYx-MJmLy/) · [Seki et al.](../fontes/seki-2024-ossos.md)
 
 Cada preparação conserva a própria base de comparação. A tabela registra os componentes relevantes localizados em estudos e fichas selecionados. Para interpretar variação, consulte [composição](composicao.md) e [colágeno e gelatina](colageno-gelatina.md). Para o papel de cobre, tirosina, ferro e B12 na pigmentação, consulte [cabelos brancos](cabelos-brancos.md).
+
+
+### Tutano: alegação antiga e painel posterior
+
+Um artigo WAPF de 2010 alega29 µg de K2 e677 IU de vitamina A por 100 g de tutano, sem laudo individual recuperado ou identificação da forma de K2. Isso fica separado dos3µg deMK-4 do painel Eurofins acima: não são amostras/formas diretamente comparáveis, não se fez média e nenhum valor determina o conteúdo do caldo. [Comparação de fontes e rastreabilidade](../fontes/allbritton-2010-tutano.md)

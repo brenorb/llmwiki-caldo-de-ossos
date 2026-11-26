@@ -1,0 +1,51 @@
+{
+  "id": 2439,
+  "url": "https://www.westonaprice.org/health-topics/sacred-foods-for-exceptionally-healthy-babies-and-parents-too/",
+  "title": "Sacred Foods for Exceptionally Healthy Babies … and parents, too!",
+  "author": "Jen Allbritton",
+  "displayed_date": "September 28, 2010",
+  "modified_metadata": {
+    "article:modified_time": "2023-12-11T22:41:26+00:00"
+  },
+  "canonical": "https://www.westonaprice.org/health-topics/sacred-foods-for-exceptionally-healthy-babies-and-parents-too/",
+  "final_url": "https://www.westonaprice.org/health-topics/sacred-foods-for-exceptionally-healthy-babies-and-parents-too/",
+  "http_status": "200",
+  "html_sha256_physical": "a3588281154ef31b3488d0785e224876346183b071f8d39b53a729e6a9405df4",
+  "text_sha256_physical": "c781de3ef987677042d912c4851d8c8d21442bb22d027522bb001179f07499c4",
+  "lines": 211,
+  "chars": 30448,
+  "read_ranges_inclusive": [
+    [
+      1,
+      80
+    ],
+    [
+      81,
+      155
+    ],
+    [
+      156,
+      211
+    ]
+  ],
+  "coverage_complete": true,
+  "agent_read": true,
+  "human_read_claim": false,
+  "reading_completed_at_utc": "2026-11-26T01:32:48.576116+00:00",
+  "limites": [
+    "Somente TXT extraído atual, integralmente, incluindo referências/finais; não comprova integralidade de edição histórica.",
+    "HTML somente hash físico; imagens, comentários, áudio/vídeo e destinos externos não lidos.",
+    "Estudos citados não abertos/auditados; relatos e protocolos não se tornam orientação clínica.",
+    "Sem rede, ASR, Git ou wiki nesta leitura; nenhuma outra faixa lida por este agente."
+  ],
+  "date": "2026-11-25",
+  "scope": "One article from lot7, full available TXT read by agent; reviewer read complete29-source report and directly rechecked relevant paragraph/references",
+  "nutrient_locator": "TXT L53; reference list L190–209",
+  "searches_for_underlying_lab": [
+    "site:westonaprice.org \"marrow\" \"677\"",
+    "site:westonaprice.org \"Honoring the Sacred Foods\" \"2009\"",
+    "\"bone marrow\" \"677\" \"29\""
+  ],
+  "underlying_lab_status": "Not recovered in this targeted check; conference description/announcement is not lab report",
+  "counting": "Part of future completed lot7; do not add again when that50-source cut is incorporated"
+}

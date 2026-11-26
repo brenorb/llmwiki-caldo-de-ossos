@@ -259,3 +259,5 @@
 - [MDA: dois textos completos posteriores aos142, com conciliação](raw/youtube-mda-pos142-2-2026-11-25.json)
 
 - [Porções de caldo nas sete tabelas WAPF de balanço hormonal](wiki/fontes/wapf-hormonal-tabelas.md)
+
+- [Tutano: alegação vitamínica de 2010 e análise posterior separadas](wiki/fontes/allbritton-2010-tutano.md)

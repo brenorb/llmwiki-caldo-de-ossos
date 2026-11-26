@@ -159,3 +159,6 @@ Os [doisTXT pós142](../raw/youtube-mda-pos142-2-2026-11-25.json) têm27 arquivo
 
 
 O [complemento de balanço hormonal](fontes/wapf-hormonal-tabelas.md) distingue texto antes lido de11 imagens recuperadas/lidas depois. As medidas de arroz não foram convertidas em volume de caldo; porção de cardápio não virou dose clínica ou composição nutricional. Sete tabelas com29 linhas/78 células lidas,11 hashes físicos conferidos e três tabelas culinárias revistas visualmente pelo revisor.
+
+
+A [nota de Allbritton 2010](fontes/allbritton-2010-tutano.md) classifica29 µgK2/100g como alegação secundária sem laudo recuperado, distinta de 3 µgMK-4 numa amostra Eurofins. Formas/amostras/rastreabilidade não foram fundidas; nenhum número foi transferido ao caldo. A fonte pertence ao lote7, sem dupla contagem posterior.

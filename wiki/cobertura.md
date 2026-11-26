@@ -21,3 +21,6 @@ No corte de cinco lotes positivos mais seis narrativos, o ID 473 corresponde a U
 
 
 O artigo 45 do lote6 tem [complemento visual próprio](fontes/wapf-hormonal-tabelas.md): sete tabelas e quatro figuras integralmente lidas por subagente,11 objetos/hash conferidos e três tabelas culinárias revistas pelo revisor. Isso preenche aquela lacuna específica; não amplia por associação a leitura de todas as imagens dos demais artigos.
+
+
+O lote7 continua em andamento. A [nota antecipada de Allbritton 2010](fontes/allbritton-2010-tutano.md) pertence àquela seleção; sua prova individual não deve ser somada novamente ao incorporar o lote completo.

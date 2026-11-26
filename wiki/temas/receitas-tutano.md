@@ -31,3 +31,6 @@ As afirmações de imunidade, aprendizado, reparo intestinal ou composição fei
 ## Tartare e pastéis doces na reconsulta de Bone Marrow
 
 O [caderno complementar](receitas-wapf-medidas-health4.md) registra as fórmulas de tartare com tutano e *marrow pasties/sluberkens*, com quantidades e lacunas. O tartare original inclui carne/ovo crus e torrada; os pastéis levam açúcar, passas e massa de iogurte remetida a livro, sem fórmula fornecida no artigo. São originais documentados, sem versão keto testada. A temperatura do custard nessa página aparece sem unidade; a ficha avulsa usada acima tem versão própria e não foi fundida silenciosamente.
+
+
+A [alegação de K2 no tutano emAllbritton 2010](../fontes/allbritton-2010-tutano.md) é distinta do painel analítico posterior e não fornece dose de vitamina por receita de caldo/custard. Medidas de ossos não quantificam a massa de tutano consumida.

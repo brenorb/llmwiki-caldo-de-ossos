@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-25",
+  "title": "Prevention of gastrointestinal lead poisoning using recombinant Lactococcus lactis expressing human metallothionein-I fusion protein",
+  "authors": [
+    "Xue Xiao",
+    "Changbin Zhang",
+    "Dajun Liu",
+    "Weibin Bai",
+    "Qihao Zhang",
+    "Qi Xiang",
+    "Yadong Huang",
+    "Zhijian Su"
+  ],
+  "doi": "10.1038/srep23716",
+  "pmid": "27045906",
+  "pmcid": "PMC4820694",
+  "license": "Creative Commons Attribution 4.0 International",
+  "originals": [
+    {
+      "file": "nature-full.html",
+      "url": "https://www.nature.com/articles/srep23716",
+      "status": "full original HTML saved and read",
+      "bytes": 427081,
+      "sha256": "4ba4abcc09789a222184ebff440f38f7b70f88f72d63e4dc0565445fa8cdab64"
+    },
+    {
+      "file": "pmc-full.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4820694/",
+      "status": "full original HTML saved and read",
+      "bytes": 210306,
+      "sha256": "9cbe2727c57cd5966cfde79e1213eadab1cfe5768ba1f25db2b5a15dc7e74d38"
+    },
+    {
+      "file": "srep23716.pdf",
+      "url": "https://www.nature.com/articles/srep23716.pdf",
+      "status": "original PDF saved; pdfinfo confirms 13 pages; full text read and Figs1-8/Table1 visually checked",
+      "bytes": 2435334,
+      "sha256": "23c0a3cb976f322ed9fc2c9b57c754a407ebe095ec8dfb21e32e27181563cf78"
+    },
+    {
+      "file": "supplement-original.doc",
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fsrep23716/MediaObjects/41598_2016_BFsrep23716_MOESM458_ESM.doc",
+      "status": "original DOC linked from Nature saved; text extracted; rendered with LibreOffice for FigsS1-S6/TableS1 inspection",
+      "bytes": 2823680,
+      "sha256": "958d2f8401ff2d39d75a9c2672b0c7aac2a6885da3f7544980d31736bc35e46c"
+    },
+    {
+      "file": "supplement-pmc-download-challenge.html",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/4820694/bin/srep23716-s1.doc",
+      "status": "failed document download: HTML challenge; not a DOC or evidence for supplement content",
+      "bytes": 1817,
+      "sha256": "f995512beb43aae1bc74e8ae45aff8baefbbd2161c5843786a944a71f8d0effd"
+    },
+    {
+      "file": "pubmed-download-challenge.html",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27045906/",
+      "status": "HTTP direct download returned HTML challenge; web search identified matching PubMed record; no assertion of full record reading",
+      "bytes": 5590,
+      "sha256": "4d0e9af3d29e1f15c8daac67b43403e23483aba01bf967f92d568ccea9fe986e"
+    }
+  ],
+  "postpublication_check": {
+    "scope": "Nature and PMC full article pages plus targeted official Nature/PubMed web searches; no specific correction or retraction found; limited check, not universal clearance",
+    "queries": [
+      "site:nature.com/articles/srep23716 correction OR retraction OR erratum",
+      "site:pubmed.ncbi.nlm.nih.gov \"27045906\" erratum OR correction",
+      "\"srep23716\" \"Correction\""
+    ]
+  },
+  "read_scope": "ArtigoPDF13p/HTMLNature+PMC, métodos/resultados/Tabela1/Figs1–8/financiamento/conflitos;suplementoDOClido e renderizado para S1–S6/tabela primersS1. Não dados brutos individuais.",
+  "reader": "Agente especializado; root leu parecer completo e conferiu passagens do método e hashes físicos.",
+  "metadata_sha256": "42e588e33413ce6b97e8bd68735cdcecb9d6245cd21d4350f1809bab9b6d31f8",
+  "manifest_sha256": "eb0e9fa1ac6ad3a647e873085d6187e34e4df03d3eeeef249e292e12194cd335",
+  "limits": [
+    "PubMed direto e espelho suplementarPMC retornaram desafio HTML, não originais lidos;versõesNature/Springer acessadas.",
+    "Tabela1 n=9 versus método de pelo menos4amostras/grupo e sensibilidade0,5µg/g com valores menores sem reconciliação;ausência de cegamento/cálculo amostral descritos.",
+    "SuplementoS4 mostra peso, não histologia;S5 tem diferença de potássio entre controle/modelo. Não adotar segurança ampla.",
+    "Sem teste humano,fermentado habitual,caldo,gelatina,colágeno ou glicina. Sem dose alimentar derivável."
+  ]
+}

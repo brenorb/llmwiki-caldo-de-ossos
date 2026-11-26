@@ -233,3 +233,19 @@ Relatos clínicos em *Getting at the Gut*, publicidade GAPS e recomendações p�
 ## Chumbo: comparação com parâmetro de água
 
 O artigo *Lab Report: Lead In Salt*,2026, usa valores de caldo atribuídos aMonro2013 e chama15ppb na água de valor seguro. A [conferência das páginasEPA/FDA](epa-chumbo-nivel-acao.md) mostra a diferença entre nível de ação de um sistema de água, meta de saúde e avaliação de exposição dietética. A comparação do artigo não foi adotada como certificação de segurança do caldo. As tabelas de sal não foram promovidas a análises de caldo.
+
+## Quinto lote health: tradições, relatos e ausência de isolamento
+
+O [quinto lote de50](../../raw/wapf-health-lote5-50-2026-11-25.json) conserva provas de leitura textual integral, traduções e limites de imagens/referências. A comparação a seguir descreve as fontes, sem validar suas prescrições.
+
+| Fonte e localizador | Classificação e limite |
+|---|---|
+| [Diet of Mongolia](https://www.westonaprice.org/health-topics/in-his-footsteps/diet-of-mongolia/),23–24/64–66 | Sopa do cozimento de carneiro, com milhete ou massa, e aproveitamento de tutano. Um testemunho contemporâneo diz não haver hábito de caldo de ossos longo entre os idosos consultados por tempo/combustível, embora ossos entrem na sopa. Não generalizar uso integral do animal como extração longa universal ou dieta sem amido. |
+| [Your Body on Drugs](https://www.westonaprice.org/health-topics/health-issues/your-body-on-drugs/),35/40 | Relato de crescimento capilar após mudanças simultâneas e enumeração de embranquecimento precoce entre sintomas atribuídos à B12. Não descreve retorno da cor nem efeito isolado de caldo, B9, K ou cobre. |
+| [Our Seniors](https://www.westonaprice.org/health-topics/health-issues/our-seniors-dumping-ground-for-drugs/),47/92 | Atribui regulação da dopamina e suporte a colágeno/intestino à glicina do caldo, sem dose, comparação ou ensaio do caldo identificado nessas passagens. Não transforma alimento em reposição de medicamento. |
+| [Entrevista Jodi Ledley](https://www.westonaprice.org/health-topics/interview-with-jodi-ledley/),19–21 | Sugere limitar caldo a3h em um contexto de sensibilidade neurológica, sem medir glutamato ou comparar receitas. É orientação da entrevistada, não limite culinário/sanitário universal demonstrado. |
+| [Kelly Brogan](https://www.westonaprice.org/health-topics/interview-with-dr-kelly-brogan/),35–36 | Smoothie sem medidas; saciedade/energia são feedback relatado, não ensaio de colágeno ou caldo. A forma do colágeno não é especificada; não inferir caldo líquido como ingrediente. |
+
+Os textos sobre homeopatia e relatos de Covid incluem caldo junto de outros alimentos, medicamentos/suplementos e curso da doença; não medem o efeito isolado de cada componente. O mesmo vale para a intervenção múltipla descrita no texto sobre autismo, que não substitui a [comparação com estudo/diretriz](abele-2021-scd-gaps-autismo.md). **Nenhum dos50 corpos documenta repigmentação atribuível a caldo ou teor de B9/K/cobre por porção dele.** Negativa restrita aos textos efetivamente disponíveis e lidos.
+
+A [referência bacteriana de Xiao2016](xiao-2016-lactococcus-chumbo.md), citada no mesmo artigo sobre sal, foi lida integralmente com suplemento. O teste usa bactéria geneticamente modificada e exposição controlada em ratos. Não sustenta uma dose protetora de caldo/glicina ou efeito de fermentados comuns em humanos; resultados e ambiguidades metodológicas permanecem separados da alegação dietética.

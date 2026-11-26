@@ -126,3 +126,7 @@ O [caderno de medidas complementares](temas/receitas-wapf-medidas-health4.md) pr
 A [leitura integral CGM](../raw/youtube-mda-cgm-pos128-2026-11-25.json) é negativa para os temas e não incorpora aconselhamento da entrevista. A conciliação de sprints impede contar duas versões de uma gravação como duas fontes; os candidatos restantes preservam o estado de leitura pendente.
 
 A [checagem EPA/FDA](../raw/chumbo-epa-comparacao-2026-11-25.json) usa páginas oficiais e seções localizadas para corrigir a interpretação de um parâmetro de água. Não lê laudos de sal por associação nem transforma comparação de concentração em risco individual ou certificação do caldo.
+
+O [quinto lote health](../raw/wapf-health-lote5-50-2026-11-25.tsv) preserva50 identidades,100 hashes físicos e faixas completas. Descrições culturais, crescimento capilar, relações atribuídas a vitaminas e regimes multicomponentes não foram confundidos com composição do caldo ou eficácia clínica isolada.
+
+O [originalXiao2016 e suplemento](fontes/xiao-2016-lactococcus-chumbo.md) sustentam classificação pré-clínica da cepa recombinante, com unidades,cronologia,comparador e problemas de relato explícitos. Não se transferiu resultado para fermentados comuns,caldo/glicina ou humanos. [Rastreabilidade](../raw/xiao-2016-chumbo-acesso-2026-11-25.json)

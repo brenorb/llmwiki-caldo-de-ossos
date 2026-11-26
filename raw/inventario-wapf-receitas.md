@@ -958,3 +958,9 @@ O [registro por URL](wapf-health-lote4-50-2026-11-25.tsv) e seu [resumo](wapf-he
 Os quatro lotes têm200 URLs positivas com prova individual de leitura textual. Seis páginas excluídas por testemunho narrativo anterior continuam com seu tipo de prova, sem somá-las automaticamente a esses200. Restam outras classes e mídias do inventário; não se declarou todo o site lido. O [quadro de cobertura](../wiki/cobertura.md) separa cada universo.
 
 A [nota da WAPF](../wiki/fontes/weston-price-caldo-gelatina.md#quarto-lote-health-divergências-e-limites) registra divergências sobre cálcio, a hipótese de K no tutano e relato celíaco multicomponente, sem validação clínica. As fórmulas culinárias recebem incorporação própria; consulta integral não significa que cada página acrescente uma receita inédita. Imagens, comentários, áudio e referências externas continuam fora desta cobertura.
+
+### Quinto lote positivo health: cinquenta corpos completos
+
+O [registro por URL](wapf-health-lote5-50-2026-11-25.tsv) e o [resumo](wapf-health-lote5-50-2026-11-25.json) documentam50 corpos lidos integralmente: **4.076 linhas/1.173.411 caracteres**. Foram conferidos100 hashes físicos e todos os intervalos inclusivos1–fim, sem interseção das identidades disponíveis com os quatro lotes anteriores. Três canônicas mudam de prefixo:31/33 parafrancês,36 para dinamarquês; as URLs de seleção foram preservadas.
+
+As descrições culturais de sopa/tutano não foram uniformizadas como extração longa de caldo de ossos. Relatos de homeopatia/Covid combinam várias intervenções e não isolam caldo; crescimento capilar e menção a canície/B12 não são repigmentação observada. O artigo sobre chumbo foi confrontado com [EPA/FDA](../wiki/fontes/epa-chumbo-nivel-acao.md), sem transformar tabelas de sal em análise do caldo. Imagens/mídias e trabalhos externos citados permanecem fora desta leitura dos corpos.

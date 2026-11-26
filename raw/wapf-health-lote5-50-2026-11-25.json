@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-25",
+  "scope": "Quinto lote fixo de cinquenta positivos health; todas as faixas textuais lidas, sem substituir identidades.",
+  "fully_read_available_bodies": 50,
+  "lines": 4076,
+  "characters": 1173411,
+  "physical_html_txt_hashes_checked": 100,
+  "full_ranges_verified": true,
+  "canonical_differences": [
+    31,
+    33,
+    36
+  ],
+  "prior_positive_cuts": [
+    {
+      "file": "wapf-health-leitura-50-2026-11-25.tsv",
+      "sha256": "43a98ff1eff3bc484b1df6e4994d6c01b36a0667a555aa475ebd7fa3deb28064",
+      "rows": 50,
+      "overlap": 0
+    },
+    {
+      "file": "wapf-health-mais50-2026-11-25.tsv",
+      "sha256": "f04ac928de9221c7a8f2bb878e1efd40e94db907052c3e24affd5cebfa28b660",
+      "rows": 50,
+      "overlap": 0
+    },
+    {
+      "file": "wapf-health-lote3-50-2026-11-25.tsv",
+      "sha256": "fef2ff6e22d18897f2d9bcd4ae06fb57bd1ac334d27c56dae7ea47ddd2b77bcb",
+      "rows": 50,
+      "overlap": 0
+    },
+    {
+      "file": "wapf-health-lote4-50-2026-11-25.tsv",
+      "sha256": "00029cf0e704a6968646761e1e31421a2c668c87280e37beff585319880d209b",
+      "rows": 50,
+      "overlap": 0
+    }
+  ],
+  "table_sha256": "646bd78c68e33fd6481c305a0fa82bdc1c11f318c83d570e86a65bd433f78358",
+  "source_ledgers": [
+    {
+      "file": "ledger-faixa-00-19.jsonl",
+      "sha256": "89033dcd570fae84ecf1b34bb8158fc12e8637125d2216e6821780a63b33c3fb"
+    },
+    {
+      "file": "ledger-faixa-20-34.jsonl",
+      "sha256": "53f49f4ff60a5817b1cd3a2ae550e323f5b810916626269d192ef4285dd5a520"
+    },
+    {
+      "file": "ledger-faixa-35-49.jsonl",
+      "sha256": "c1cd6d04453bb8beafa0bf57b02bbbe7658c5196727b08413da145cdb41cb8f9"
+    }
+  ],
+  "selection_sha256": "6d6ac220f6ab73d2dc7d88c55f9e3b19604b66bbf54b25344ada7b54c85e574f",
+  "limits": "Texto integral disponível não implica leitura de imagens, mídia, comentários ou artigos externos. Receitas, testemunhos e estudos citados têm classificações próprias; este corte não comprova benefícios clínicos nem cobre todo o site."
+}

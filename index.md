@@ -238,3 +238,7 @@
 - [CGM: texto integral negativo e conciliação de vídeo já lido](raw/youtube-mda-cgm-pos128-2026-11-25.json)
 
 - [EPA: nível de ação do chumbo na água e comparação com caldo](wiki/fontes/epa-chumbo-nivel-acao.md)
+
+- [Quinto lote WAPF health: cinquenta corpos completos e limites](raw/wapf-health-lote5-50-2026-11-25.json)
+
+- [Xiao2016: bactéria recombinante e chumbo em ratos, sem teste de caldo](wiki/fontes/xiao-2016-lactococcus-chumbo.md)

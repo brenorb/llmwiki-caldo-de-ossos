@@ -1026,3 +1026,11 @@ O [registro](raw/youtube-mda-cgm-pos128-2026-11-25.json) acrescenta655 linhas in
 ## [2026-11-25] revisão | Chumbo: nível de ação não é limiar seguro para caldo
 
 A [notaEPA](wiki/fontes/epa-chumbo-nivel-acao.md) compara o uso de15ppb no texto WAPF às definições oficiais, com três HTML arquivados/hashados e seções consultadas identificadas no [registro](raw/chumbo-epa-comparacao-2026-11-25.json). FDA foi reconsultada sem converter referências dietéticas em limite de uma porção. Composição, fonteWAPF, índice e proveniência atualizados; não foi estimado risco individual.
+
+## [2026-11-25] revisão | Quinto lote health, tradições e atribuições
+
+O [registro do lote5](raw/wapf-health-lote5-50-2026-11-25.json) acrescenta50 corpos,4.076 linhas/1.173.411 caracteres, com100 hashes/faixas conferidos e disjunção dos quatro lotes anteriores. A nota diferencia tradições de cozimento, alegações editoriais e regimes sem isolamento causal; cobertura agora mostra250 URLs positivas com prova por item. Três canônicas por idioma foram preservadas.
+
+## [2026-11-25] ingestão | Referência bacteriana sobre chumbo e validade externa
+
+Lidos artigo/suplemento e conferidos originais/hashes do [Xiao2016](wiki/fontes/xiao-2016-lactococcus-chumbo.md). A nota preserva modelo,cepa,comparadores,unidades e cronologia,além de ambiguidades de n/sensibilidade e limites do suplemento. A matriz diferencia resultado pré-clínico e extrapolação para caldo/fermentados humanos; não foram criadas doses alimentares. [Acesso](raw/xiao-2016-chumbo-acesso-2026-11-25.json)

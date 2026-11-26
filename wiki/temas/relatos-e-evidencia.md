@@ -49,3 +49,9 @@ Os depoimentos do [destaque Sucessos, do Cozinha de Pedra](https://www.instagram
 Veja a [síntese de estudos diretos](alegacoes-saude.md) para outros desfechos e a [cobertura da busca](../../raw/busca-receitas-relatos.md) para verificar o material consultado.
 
 O [relato de eczema do EN159](../fontes/weston-price-caldo-gelatina.md#mais-doze-textos-de-áudio-e-suas-limitações) combina amamentação, salmoura fermentada e caldo em um bebê. Sem dose, documentação clínica ou comparador, não permite atribuir a melhora ao caldo ou demonstrar prevenção de alergia. O caso fica separado dos ensaios de introdução de alérgenos e da [orientação alimentar do NHS](../fontes/nhs-introducao-alimentar.md).
+
+## Proteção contra chumbo: intervenção realmente testada
+
+| Alegação contextual | O que o original permite concluir |
+|---|---|
+| TextoWAPF associa proteínas ligantes/microrganismos e alimentação a proteção contra chumbo. | [Xiao2016](../fontes/xiao-2016-lactococcus-chumbo.md) testa uma cepa recombinante em ratos; reduz alguns indicadores, sem testar caldo,glicina,fermentados habituais ou eficácia humana. Não estabelece uma dose de alimento protetora. [Interpretação do parâmetro de água](../fontes/epa-chumbo-nivel-acao.md) |

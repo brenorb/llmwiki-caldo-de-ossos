@@ -975,3 +975,9 @@ Depois desses cortes, a observação da execução antiga deixou de existir e o 
 O [registro novo](youtube-mda-pos118-9-2026-11-25.json) reúne nove IDs exatos, lidos em três faixas exclusivas: **5.640 linhas/548.615 caracteres**,39 partes contíguas, anúncios e encerramentos incluídos. O root conferiu18 hashes físicos de TXT original/congelado, faixas1–fim e os hashes dos oito registros públicos anteriores. Os nove IDs são disjuntos dos118 anteriores: **127 textos incrementais comprovados**, sem confundir essa soma com todo o acervo histórico.
 
 O único núcleo pertinente é o [relato de Al Danenberg](../wiki/fontes/mark-sisson-caldo-gelatina.md#al-danenberg-rabada-caldo-e-alternativa-com-peptídeos), entrevistado por Elle Russ. Não há receita medida ou efeito isolado do caldo. Os outros oito TXT são negativos para os temas neste corte; publicidade de osso/medula e café como exemplo criticado não viraram receitas de caldo. Créditos/contexto sustentam atribuição, sem diarização ou audição humana; últimos timestamps são inícios de segmentos, sem garantir cada palavra final. A fila ASR posterior continua separada da leitura aqui comprovada.
+
+## Dane Johnson: um texto inteiro posterior aos127
+
+O [registro de Dane](youtube-mda-dane-pos127-2026-11-25.json) comprova leitura sequencial de789 linhas/70.625 caracteres, com cinco faixas inclusivas e hashes. O ID é disjunto dos127 textos incrementais anteriores, chegando a128 neste conjunto de cortes; não é todo o histórico.
+
+A menção ao caldo em15:03 integra o relato da dificuldade de seguir dietas, sem dose/receita/efeito isolado. A história posterior de crescimento capilar não descreve repigmentação ou uso de caldo. [Classificação e atribuição](../wiki/fontes/mark-sisson-caldo-gelatina.md#dane-johnson-caldo-e-crescimento-capilar-em-contextos-distintos). Créditos identificam Elle Russ; não houve audição ou revisão visual. Nomes/números clínicos defeituosos no ASR e alegações médicas não foram adotados.

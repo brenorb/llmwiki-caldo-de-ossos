@@ -228,3 +228,5 @@
 - [Cinco anexos WAPF: apresentações de2018, folheto, métodos e limites](wiki/fontes/wapf-anexos-2018.md)
 
 - [Nove TXT MDA adicionais: cobertura integral, atribuições e limites](raw/youtube-mda-pos118-9-2026-11-25.json)
+
+- [Dane Johnson: TXT integral, caldo e crescimento capilar sem repigmentação documentada](raw/youtube-mda-dane-pos127-2026-11-25.json)

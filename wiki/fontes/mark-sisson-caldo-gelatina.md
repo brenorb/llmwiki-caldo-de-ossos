@@ -194,3 +194,9 @@ Na [entrevista de Al Danenberg com Elle Russ](https://www.youtube.com/watch?v=8p
 O episódio tem câncer no título, mas a conversa não isola o caldo como tratamento. O convidado não identifica um componente responsável pelo resultado e não se declara curado/em remissão. **A passagem não demonstra benefício oncológico ou repigmentação.** Ela não foi atribuída a Sisson nem transformada em receita.
 
 O [lote de nove TXT integralmente lidos](../../raw/youtube-mda-pos118-9-2026-11-25.json) preserva negativos, atribuição por créditos/contexto, hashes e limitações. É leitura textual com reconhecimento automático, sem audição ou inspeção visual integral das mídias.
+
+## Dane Johnson: caldo e crescimento capilar em contextos distintos
+
+Na [entrevista com Elle Russ](https://www.youtube.com/watch?v=nQTBRKQe33Y), Dane menciona caldo em**15:03–15:46** ao narrar dificuldade de seguir dietas. Não há receita, dose ou demonstração do caldo como responsável por melhora. O episódio promove programa de coaching/loja e apresenta relatos com várias intervenções, sem comparador/documentação clínica disponível na conversa.
+
+Em**39:45–40:43**, descreve queda de cabelo durante tratamento e crescimento posterior em uma cliente. Não especifica cor ou caldo como intervenção; identidade omitida. Não é relato de repigmentação pelo caldo. Elle reconta experiência de Sisson com retirada de grãos em25:25–26:06, sem caldo; a fala não é dele. O [registro integral do TXT](../../raw/youtube-mda-dane-pos127-2026-11-25.json) conserva faixas/hashes e limites de reconhecimento/atribuição.

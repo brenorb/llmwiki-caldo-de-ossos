@@ -1,0 +1,99 @@
+{
+  "id": "nQTBRKQe33Y",
+  "url": "https://www.youtube.com/watch?v=nQTBRKQe33Y",
+  "title": "Dane Johnson | Naturally Healing Crohns and Colitis",
+  "channel": "Mark's Daily Apple",
+  "channel_id": "UCoRWj9kt6kmLFaSFvEhRQEw",
+  "upload_date": "20210201",
+  "duration_decoded": 3177.881,
+  "txt_sha256": "cf522e036c332a68ad890e9c12c2cad1ff69cb3f1959f36abca469f4e5c566c2",
+  "log_sha256": "3d268da633648f4cbf397917f6add3ff5109e7d64ab272650d6765608a1fdf88",
+  "state_sha256": "7816a98d494d507963d8fb34c6dacebdfa21868f6ff94905d00f63938ae7f06d",
+  "metadata_sha256": "92a1429fba869084a4ae5f1deeb9ac126cbfdc65b5000adc435396f9d9bd1ca8",
+  "lines": 789,
+  "characters": 70625,
+  "read_parts": [
+    {
+      "start": 1,
+      "end": 150,
+      "read_at_utc": "2026-11-26T00:00:23.412851+00:00",
+      "summary": "História clínica/autobiográfica, tratamento referido, peso/carreira; negativo temático; repetições e retrocessos ASR.",
+      "range_sha256_lf_no_final_newline": "ec93648e3bdd02dcd8f89114314a5d0d9a702c4fab4faa40a9d227c21a1cde37"
+    },
+    {
+      "start": 151,
+      "end": 320,
+      "read_at_utc": "2026-11-26T00:00:36.717836+00:00",
+      "summary": "Relato clínico multicomponente, medicações/internação/antiviral; linha214(15:03) refere aversão à ideia de caldo permanente em dietas, sem dose ou fórmula; alegações não validadas.",
+      "range_sha256_lf_no_final_newline": "47ac011098865c78687ae1910625dc0c6a71f51dde4f721c4a7787051ee604a2"
+    },
+    {
+      "start": 321,
+      "end": 490,
+      "read_at_utc": "2026-11-26T00:00:50.783289+00:00",
+      "summary": "Autorrelato de diário/mindset/dieta/suplementos, alegações sobre IBS/IBD não verificadas; Elle reconta em terceira pessoa experiência de Sisson sem caldo25:25–26:06; sem fórmula pertinente.",
+      "range_sha256_lf_no_final_newline": "34377878b36c11921c17c5f64dcf2101a6aa7477eb3165a3f551122cabf31118"
+    },
+    {
+      "start": 491,
+      "end": 650,
+      "read_at_utc": "2026-11-26T00:01:08.778371+00:00",
+      "summary": "Mindset e promoção de coaching; relatos de terceiros sem documentação ou caldo explícito; queda capilar durante tratamento e crescimento posterior não são repigmentação.",
+      "range_sha256_lf_no_final_newline": "621fc9a9040cea64f2afb4b4a9b7f583a2941916d5904cf822213cd0a0d6c6a9"
+    },
+    {
+      "start": 651,
+      "end": 789,
+      "read_at_utc": "2026-11-26T00:02:29.654703+00:00",
+      "summary": "Promoção de coaching/loja/livro/redes, filosofia alimentar e encerramentos; não há dose ou receita temática.",
+      "range_sha256_lf_no_final_newline": "8787e47bebd22058a9a85498f9996f2b2cc5bfcfe2c95af15b6b367ed7ce2eb3"
+    }
+  ],
+  "full_text_read": true,
+  "date": "2026-11-25",
+  "scope": "Um TXT integral posterior a127 textos incrementais comprovados; não soma textos posteriores ainda não lidos.",
+  "previous_cut": {
+    "file": "youtube-mda-pos118-9-2026-11-25.json",
+    "sha256": "0cff899020ae1b19d4a692640c809673d49fc19e626b0dbf033e620d377cce03",
+    "previous_distinct_ids": 127,
+    "new_id_in_previous": false
+  },
+  "previous_incremental_read_count": 127,
+  "combined_incremental_read_count": 128,
+  "full_audio_listened": false,
+  "video_visually_read": false,
+  "speaker_attribution": "Créditos oficiais locais:Elle Russ entrevista Dane Johnson; referências a Mark são em terceira pessoa. Sem diarização/verificação acústica.",
+  "findings": [
+    {
+      "line": 214,
+      "start": "00:15:03",
+      "next_start": "00:15:46",
+      "summary": "Dane menciona resistência à ideia de viver de caldo em dietas; não identifica dose, receita ou resultado isolado."
+    },
+    {
+      "lines": [
+        368,
+        371
+      ],
+      "start": "00:25:25",
+      "end": "00:26:06",
+      "summary": "Elle reconta experiência de Sisson com exclusão de grãos; sem caldo, não voz direta de Sisson."
+    },
+    {
+      "lines": [
+        594,
+        609
+      ],
+      "start": "00:39:45",
+      "end": "00:40:43",
+      "summary": "Relato de terceiro:queda capilar durante tratamento e crescimento posterior durante programa personalizado; não descreve cor/repigmentação nem identifica caldo como intervenção. Identidade omitida."
+    }
+  ],
+  "classification": "Relatos pessoais/comerciais e discussão, não ensaio. Sem receita reproduzível, composição de caldo ou benefício isolado.",
+  "quality_limits": [
+    "Texto inteiro reconhecido lido, inclusive repetições/promoções/final, sem aferição palavra a palavra.",
+    "ASR contém nomes/números clínicos deformados, retrocessos e segmentos que misturam vozes; doses médicas não foram incorporadas.",
+    "Primeiro timestamp00:00:04;último00:52:29 é início de segmento; mídia3177.881s. Diferença de28.881s não prova omissão ou silêncio.",
+    "Links/estudos citados não foram lidos por constarem da conversa. Afirmações diagnósticas/terapêuticas não validadas."
+  ]
+}

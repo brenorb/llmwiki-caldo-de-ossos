@@ -1006,3 +1006,7 @@ O [registro de nove IDs](raw/youtube-mda-pos118-9-2026-11-25.json) comprova5.640
 ## [2026-11-25] manutenção | Retomada ES após parada confirmada
 
 A [observação de processos/checkpoints](raw/wapf-retomada-es-2026-11-25.json) distingue interrupção de conclusão:92/189 GUIDs ES tinham checkpoint. Foi retomada a fila existente, sem worker duplicado ou limite de duração por mídia, preservando versões/logs. A contagem não foi apresentada como leitura integral.
+
+## [2026-11-25] revisão | Dane Johnson sem confundir crescimento e pigmentação
+
+A [leitura integral](raw/youtube-mda-dane-pos127-2026-11-25.json) acrescenta789 linhas em cinco faixas. Foram conferidos identidade/hashes e disjunção dos127 textos anteriores. A nota separa caldo de um relato comercial de crescimento capilar, sem dose, ensaio ou repigmentação documentada; vozes e limites ASR preservados.

@@ -1115,3 +1115,8 @@ Confirmado encerramento do processo anterior por ausência do handle e verifica�
 ## [2026-11-26] ingestão | Complemento other: 50 páginas do lote 2
 
 Incorporada a [leitura integral delegada de 50 TXT](wiki/fontes/wapf-other-lote2-50.md): 5.437 linhas/700.357 caracteres. Revisor leu os dois pareceres completos, conferiu 100 hashes físicos e todos os intervalos; caderno culinário segue em revisão. Registradas versões de receitas, listas incompletas, caráter promocional das conferências e divergências nas fórmulas infantis, incluindo omissão de acerola no parecer congelado. Nenhuma tradução foi somada como ensaio clínico. FDA consultada no trecho sobre fórmulas caseiras; a reabertura da página Anvisa só retornou título/cabeçalho, sem nova validação do corpo.
+
+
+## [2026-11-26] ingestão | Complemento other: lote 1 e caderno culinário completo
+
+Incorporados [50 TXT do lote 1](wiki/fontes/wapf-other-lote1-50.md), 3.874 linhas/853.722 caracteres, e o [caderno](wiki/temas/receitas-wapf-other-lote1.md). Revisor leu parecer/caderno/documento crítico inteiros, releu quatro originais culinários e conferiu 100 hashes/95 intervalos. Preservadas divergências de versões, cálcio e unidades, com tabela de escolhas low carb identificadas como não testadas. Não se transferiu a hipótese de K do tutano a laudo do caldo ou repigmentação. Lotes 1/2 disjuntos totalizam 100 dos 242 corpos do complemento; demais lotes seguem fora dessa contagem.

@@ -1,5 +1,7 @@
 # Gelatinas, mousses, balas e bebidas com caldo
 
+Para usos salgados e outros preparos, o [caderno complementar WAPF](receitas-wapf-other-lote1.md) inclui molho reduzido com gelatina opcional, natilla de tutano sem açúcar listado e empanadas doces cuja massa/açúcar precisam de reformulação para menos carboidratos. As medidas originais e limites estão separados das propostas da wiki.
+
 Há duas maneiras de firmar uma sobremesa. Um caldo bem concentrado já traz gelatina extraída no cozimento. Gelatina culinária em pó permite controlar o ponto quando a base é água, chá, leite de coco ou um caldo que ficou fluido. Peptídeos de colágeno hidrolisado têm outra função culinária e não firmam a mistura como a gelatina em pó. [Colágeno e gelatina](colageno-gelatina.md)
 
 As quantidades a seguir são pontos de partida culinários. As adaptações da wiki não foram testadas em cozinha. Os rótulos e o rendimento da receita ajudam a estimar carboidratos por porção. A [torta de banana do catálogo WAPF](receitas-wapf-catalogo.md#receitas-de-outras-subcategorias-de-recipe-of-the-week) é outra opção com gelatina no recheio; o original contém banana e açúcar.

@@ -1,0 +1,2250 @@
+{
+  "date": "2026-11-26",
+  "scope": "50 current extracted TXT bodies of other batch1, indices00–49, not 50 independent articles/studies",
+  "counts": {
+    "urls": 50,
+    "lines": 3874,
+    "characters": 853722,
+    "physical_hashes_checked": 100,
+    "read_ranges": 95
+  },
+  "private_artifact_sha256": {
+    "parecer-faixa-00-49.md": "27741c82e19a1b3e68092c16eb8712cdcbd20f817b92dc52ef548dbd12114b33",
+    "caderno-culinario-adulto-00-49.md": "2aae06f216631ae33932ebe2cf62eb2731f674985c9417bbe059778b13486971",
+    "documento-critico-formulas-infantis-00-49.md": "154cd939d59f754febab0b736166b8a7666f8d82985bf2099b7571576dff0db5",
+    "ledger-faixa-00-49.jsonl": "5a23aeab2ee282ab942ed4242d405afe8a056cb009152930535ad2bb5440662a",
+    "manifesto-fechamento-leitura-50.json": "9f2b08a88dbb729293a1a4a374836c0f2a40ca3cbca3deaf3f2d7fb3845f9012"
+  },
+  "review": {
+    "full_agent_reading": true,
+    "root_full_report_read": true,
+    "root_full_culinary_draft_read": true,
+    "root_full_critical_record_read": true,
+    "root_direct_original_txt_reread_indices": [
+      14,
+      37,
+      46,
+      48
+    ],
+    "root_direct_read_output_references": [
+      "122dde",
+      "9c6db1",
+      "079718",
+      "39bc9d",
+      "eec2d6",
+      "afbe2e"
+    ],
+    "all_hashes_and_ranges_rechecked": true,
+    "issues": 0
+  },
+  "limits": [
+    "Only the current extracted TXT has full delegated reading coverage; historical completeness is not established.",
+    "HTML integrity/identity only; images/comments/media/linked studies, books and handouts not read.",
+    "Existing metadata human_read=false remains unchanged; agent reading is a separate claim.",
+    "Infant and pregnancy protocols remain critical records, without low-carb adaptations or clinical adoption."
+  ],
+  "rows": [
+    {
+      "batch_index": 0,
+      "id": 44910,
+      "id_type": "int",
+      "catalog_id": 44910,
+      "wordpress_object_id_http_verified": 44910,
+      "source_class": "other",
+      "body_kind": "página índice do princípio10 em espanhol",
+      "url": "https://www.westonaprice.org/10-principio/",
+      "title": "#10 Principio",
+      "title_recovery": "#10 Principio",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2024-02-28T19:16:21+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/10-principio/",
+      "final_url": "https://www.westonaprice.org/10-principio/",
+      "http_status": "200",
+      "html_sha256_physical": "1141d1402ad8e35e09271d2933c174a40e828b137014c3506286d9ccc7a16c40",
+      "text_sha256_physical": "9bffe6ce6e18b0ee8de4e1a8d5728d643fab22f1101a970960cdc5b5893dd66f",
+      "lines": 28,
+      "chars": 1238,
+      "catalog_chars": 1413,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "000-44910.html",
+      "text_locator": "000-44910.txt"
+    },
+    {
+      "batch_index": 1,
+      "id": 43060,
+      "id_type": "int",
+      "catalog_id": 43060,
+      "wordpress_object_id_http_verified": 43060,
+      "source_class": "other",
+      "body_kind": "página índice do princípio10 em inglês",
+      "url": "https://www.westonaprice.org/10-principle/",
+      "title": "#10 Principle",
+      "title_recovery": null,
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2024-12-02T15:14:11+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/10-principle/",
+      "final_url": "https://www.westonaprice.org/10-principle/",
+      "http_status": "200",
+      "html_sha256_physical": "e8cb9f3dd677b98884006e8b7abd4e190ce2bc7fa2593b68778f38a5751ec744",
+      "text_sha256_physical": "ef89f4660aac45d8e0c6ce751c9193af45739aa6266c41a3422cd54d42bd030a",
+      "lines": 29,
+      "chars": 1250,
+      "catalog_chars": 1430,
+      "read_ranges_inclusive": [
+        [
+          1,
+          29
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "001-43060.html",
+      "text_locator": "001-43060.txt"
+    },
+    {
+      "batch_index": 2,
+      "id": 44744,
+      "id_type": "int",
+      "catalog_id": 44744,
+      "wordpress_object_id_http_verified": 44744,
+      "source_class": "other",
+      "body_kind": "índice espanhol dos11princípios",
+      "url": "https://www.westonaprice.org/11-principios-overview/",
+      "title": "11 Principios Overview",
+      "title_recovery": null,
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2024-12-02T15:13:13+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/11-principios-overview/",
+      "final_url": "https://www.westonaprice.org/11-principios-overview/",
+      "http_status": "200",
+      "html_sha256_physical": "8183dd76c19af3ca5307c8f6c29607750e9225f90dfd6731de3f7009de4b2a3a",
+      "text_sha256_physical": "84c57a858777c5266e254025f716ea2f68f2ab9918e7a2c00d430b67939c6a0c",
+      "lines": 17,
+      "chars": 1226,
+      "catalog_chars": 1539,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "002-44744.html",
+      "text_locator": "002-44744.txt"
+    },
+    {
+      "batch_index": 3,
+      "id": 44982,
+      "id_type": "int",
+      "catalog_id": 44982,
+      "wordpress_object_id_http_verified": 44982,
+      "source_class": "other",
+      "body_kind": "programa/descritivos da conferência2013",
+      "url": "https://www.westonaprice.org/2013-conference-presentations/",
+      "title": "2013 Conference Presentations",
+      "title_recovery": "2013 Conference Presentations",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2024-02-03T16:42:49+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/2013-conference-presentations/",
+      "final_url": "https://www.westonaprice.org/2013-conference-presentations/",
+      "http_status": "200",
+      "html_sha256_physical": "8f6b4e19bf03310dfd3b83e521a9e546aaa86394125e3d84d54fb8ccaba05b32",
+      "text_sha256_physical": "5a3592116653574aa47f16d7e522da83b992bad12213dc430cfe7496be3e6543",
+      "lines": 194,
+      "chars": 38675,
+      "catalog_chars": 39148,
+      "read_ranges_inclusive": [
+        [
+          1,
+          56
+        ],
+        [
+          57,
+          112
+        ],
+        [
+          113,
+          169
+        ],
+        [
+          170,
+          194
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "003-44982.html",
+      "text_locator": "003-44982.txt"
+    },
+    {
+      "batch_index": 4,
+      "id": 44984,
+      "id_type": "int",
+      "catalog_id": 44984,
+      "wordpress_object_id_http_verified": 44984,
+      "source_class": "other",
+      "body_kind": "programa/descritivos da conferência2014",
+      "url": "https://www.westonaprice.org/2014-conference-presentations/",
+      "title": "2014 Conference Presentations",
+      "title_recovery": "2014 Conference Presentations",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2024-02-03T16:56:26+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/2014-conference-presentations/",
+      "final_url": "https://www.westonaprice.org/2014-conference-presentations/",
+      "http_status": "200",
+      "html_sha256_physical": "a98b9ddd64d5636b8dd4bdc98e43372ff3e34fb41a865f80dfb16d5539f7d66c",
+      "text_sha256_physical": "36389a4ffec10ea791dbcdc7331a3273574edcdc7f85b4c68583bbf82b6e9303",
+      "lines": 199,
+      "chars": 38233,
+      "catalog_chars": 39188,
+      "read_ranges_inclusive": [
+        [
+          1,
+          70
+        ],
+        [
+          71,
+          147
+        ],
+        [
+          148,
+          199
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "004-44984.html",
+      "text_locator": "004-44984.txt"
+    },
+    {
+      "batch_index": 5,
+      "id": 44986,
+      "id_type": "int",
+      "catalog_id": 44986,
+      "wordpress_object_id_http_verified": 44986,
+      "source_class": "other",
+      "body_kind": "programa/descritivos da conferência2015",
+      "url": "https://www.westonaprice.org/2015-conference-presentations/",
+      "title": "2015 Conference Presentations",
+      "title_recovery": "2015 Conference Presentations",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2024-02-03T17:04:35+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/2015-conference-presentations/",
+      "final_url": "https://www.westonaprice.org/2015-conference-presentations/",
+      "http_status": "200",
+      "html_sha256_physical": "ca7e611c4651ce465309a5eecb9d4a2ed0041a00936c116d3b82ccd6c1b1d494",
+      "text_sha256_physical": "cc7f3e3b56f439bfbc41dd0641ec776b9579dc5d514ffbc0849ed5c59443be8a",
+      "lines": 235,
+      "chars": 52925,
+      "catalog_chars": 55735,
+      "read_ranges_inclusive": [
+        [
+          1,
+          51
+        ],
+        [
+          52,
+          113
+        ],
+        [
+          114,
+          171
+        ],
+        [
+          172,
+          235
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "005-44986.html",
+      "text_locator": "005-44986.txt"
+    },
+    {
+      "batch_index": 6,
+      "id": 44988,
+      "id_type": "int",
+      "catalog_id": 44988,
+      "wordpress_object_id_http_verified": 44988,
+      "source_class": "other",
+      "body_kind": "agenda resumida conferência2017",
+      "url": "https://www.westonaprice.org/2017-conference/",
+      "title": "2017 Conference",
+      "title_recovery": "2017 Conference",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2024-02-03T17:10:32+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/2017-conference/",
+      "final_url": "https://www.westonaprice.org/2017-conference/",
+      "http_status": "200",
+      "html_sha256_physical": "5c072106d403bef27b88b696bfd239a6117ca99468e4bb7ffbc7efafeddcc67d",
+      "text_sha256_physical": "3ee3d9f38f2a660629400258a07a92b639f9e7573d81ccf776c2beb9aeb88960",
+      "lines": 72,
+      "chars": 2925,
+      "catalog_chars": 3026,
+      "read_ranges_inclusive": [
+        [
+          1,
+          72
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "006-44988.html",
+      "text_locator": "006-44988.txt"
+    },
+    {
+      "batch_index": 7,
+      "id": 44989,
+      "id_type": "int",
+      "catalog_id": 44989,
+      "wordpress_object_id_http_verified": 44989,
+      "source_class": "other",
+      "body_kind": "agenda resumida conferência2018",
+      "url": "https://www.westonaprice.org/2018-conference/",
+      "title": "2018 Conference",
+      "title_recovery": "2018 Conference",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2024-02-03T17:14:06+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/2018-conference/",
+      "final_url": "https://www.westonaprice.org/2018-conference/",
+      "http_status": "200",
+      "html_sha256_physical": "dc96f25ec78d1b21ef4f0c1f02727732c8e326d6540926b8b988bfdc503b334a",
+      "text_sha256_physical": "4e4e2ac2f0b744036cd0eb7037796afe2ef6f7e8db9933ac07b9d917976cb883",
+      "lines": 75,
+      "chars": 3319,
+      "catalog_chars": 3462,
+      "read_ranges_inclusive": [
+        [
+          1,
+          75
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "007-44989.html",
+      "text_locator": "007-44989.txt"
+    },
+    {
+      "batch_index": 8,
+      "id": 41925,
+      "id_type": "int",
+      "catalog_id": 41925,
+      "wordpress_object_id_http_verified": 41925,
+      "source_class": "other",
+      "body_kind": "lista depalestrantes/títulos conferência2019",
+      "url": "https://www.westonaprice.org/2019-conference-talks/",
+      "title": "2019 Conference Talks",
+      "title_recovery": "2019 Conference Talks",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2022-09-05T20:18:50+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/2019-conference-talks/",
+      "final_url": "https://www.westonaprice.org/2019-conference-talks/",
+      "http_status": "200",
+      "html_sha256_physical": "f3fc784fa85ed2fe8b176055fab6edcaffe8069368217ac1aba924dcd007704e",
+      "text_sha256_physical": "2efd39b114ce7ce05752612df043dedfdd121f9f30d00a5c4ec65a422392f6df",
+      "lines": 31,
+      "chars": 1653,
+      "catalog_chars": 1688,
+      "read_ranges_inclusive": [
+        [
+          1,
+          31
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "008-41925.html",
+      "text_locator": "008-41925.txt"
+    },
+    {
+      "batch_index": 9,
+      "id": 33169,
+      "id_type": "int",
+      "catalog_id": 33169,
+      "wordpress_object_id_http_verified": 33169,
+      "source_class": "other",
+      "body_kind": "artigo de opinião/revisão em espanhol com anexos/tabelas/referências",
+      "url": "https://www.westonaprice.org/22-respuestas-al-vegetarianismo/",
+      "title": "22 respuestas al vegetarianismo",
+      "title_recovery": "22 respuestas al vegetarianismo",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "June 5, 2020",
+      "meta": {
+        "article:published_time": "2020-06-05T13:59:36+00:00",
+        "article:modified_time": "2023-12-05T23:35:46+00:00",
+        "author": "Sally Fallon Morell"
+      },
+      "canonical": "https://www.westonaprice.org/22-respuestas-al-vegetarianismo/",
+      "final_url": "https://www.westonaprice.org/22-respuestas-al-vegetarianismo/",
+      "http_status": "200",
+      "html_sha256_physical": "2da6102bd4eb65ed8fcbe12070c1bbc3e93d3eaa6747666c8ee6f95df572765a",
+      "text_sha256_physical": "18426925041e9da0cf7a56aaf7f8d9d525740bfb17356ca6dbec3cf347bb1589",
+      "lines": 246,
+      "chars": 48244,
+      "catalog_chars": 48655,
+      "read_ranges_inclusive": [
+        [
+          1,
+          38
+        ],
+        [
+          39,
+          87
+        ],
+        [
+          88,
+          148
+        ],
+        [
+          149,
+          246
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "009-33169.html",
+      "text_locator": "009-33169.txt"
+    },
+    {
+      "batch_index": 10,
+      "id": 18813,
+      "id_type": "int",
+      "catalog_id": 18813,
+      "wordpress_object_id_http_verified": 18813,
+      "source_class": "other",
+      "body_kind": "alerta político/campanha legislativa2017",
+      "url": "https://www.westonaprice.org/30-states-vaccine-bills-need-attention/",
+      "title": "30 States With Vaccine Bills Need Your Attention",
+      "title_recovery": "30 States With Vaccine Bills Need Your Attention",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "February 15, 2017",
+      "meta": {
+        "article:published_time": "2017-02-15T13:43:05+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/30-states-vaccine-bills-need-attention/",
+      "final_url": "https://www.westonaprice.org/30-states-vaccine-bills-need-attention/",
+      "http_status": "200",
+      "html_sha256_physical": "9485e3808feb39c47ef7be1a3b26e97d95da54cb443864375b7eb7506fb156b6",
+      "text_sha256_physical": "57381095ab9f3bf55a675795321dae5dab927ad0e8512add5afa7bd93676d71d",
+      "lines": 26,
+      "chars": 5080,
+      "catalog_chars": 5128,
+      "read_ranges_inclusive": [
+        [
+          1,
+          26
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "010-18813.html",
+      "text_locator": "010-18813.txt"
+    },
+    {
+      "batch_index": 11,
+      "id": 586,
+      "id_type": "int",
+      "catalog_id": 586,
+      "wordpress_object_id_http_verified": 586,
+      "source_class": "other",
+      "body_kind": "chamada editorial para receitas e depoimentos",
+      "url": "https://www.westonaprice.org/a-new-book-on-broth-testimonials-and-recipes-requested/",
+      "title": "A New Book on Broth, Testimonials and Recipes Requested",
+      "title_recovery": "A New Book on Broth, Testimonials and Recipes Requested",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "January 8, 2013",
+      "meta": {
+        "article:published_time": "2013-01-08T02:38:54+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/a-new-book-on-broth-testimonials-and-recipes-requested/",
+      "final_url": "https://www.westonaprice.org/a-new-book-on-broth-testimonials-and-recipes-requested/",
+      "http_status": "200",
+      "html_sha256_physical": "cd65d467b86f367d3140370420b51162e20baec2c340d0ebbc5bd0a336cc33f4",
+      "text_sha256_physical": "c04de29760cd978330effe393c7e6853d6f16d73ac170ebbbbefb0dcf9d0173e",
+      "lines": 14,
+      "chars": 1542,
+      "catalog_chars": 1571,
+      "read_ranges_inclusive": [
+        [
+          1,
+          14
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "011-586.html",
+      "text_locator": "011-586.txt"
+    },
+    {
+      "batch_index": 12,
+      "id": 34372,
+      "id_type": "int",
+      "catalog_id": 34372,
+      "wordpress_object_id_http_verified": 34372,
+      "source_class": "other",
+      "body_kind": "tradução espanhola de artigo histórico/etnográfico",
+      "url": "https://www.westonaprice.org/aborigenes-australianos-viviendo-en-armonia-con-la-naturaleza/",
+      "title": "Aborígenes australianos: viviendo en armonía con la naturaleza",
+      "title_recovery": "Aborígenes australianos: viviendo en armonía con la naturaleza",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "October 22, 2020",
+      "meta": {
+        "article:published_time": "2020-10-22T19:05:05+00:00",
+        "article:modified_time": "2025-05-05T16:13:31+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/aborigenes-australianos-viviendo-en-armonia-con-la-naturaleza/",
+      "final_url": "https://www.westonaprice.org/aborigenes-australianos-viviendo-en-armonia-con-la-naturaleza/",
+      "http_status": "200",
+      "html_sha256_physical": "eec38dc8cf97d6720eb1e09f9b05cedade93aa0e013f8b48f051024d88f4e46f",
+      "text_sha256_physical": "4030b4a806db2d659717ec3471031e9bd134f482a998470825621c7ae9520335",
+      "lines": 60,
+      "chars": 30900,
+      "catalog_chars": 30995,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ],
+        [
+          26,
+          60
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "012-34372.html",
+      "text_locator": "012-34372.txt"
+    },
+    {
+      "batch_index": 13,
+      "id": 7021,
+      "id_type": "int",
+      "catalog_id": 7021,
+      "wordpress_object_id_http_verified": 7021,
+      "source_class": "other",
+      "body_kind": "página institucional de diretoria,memoriais e membros honorários",
+      "url": "https://www.westonaprice.org/about-us/board-of-directors/",
+      "title": "Board of Directors",
+      "title_recovery": "Board of Directors",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2026-11-17T20:57:37+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/about-us/board-of-directors/",
+      "final_url": "https://www.westonaprice.org/about-us/board-of-directors/",
+      "http_status": "200",
+      "html_sha256_physical": "4156a5297309c1296829f86cb22b16393d1d80ab528ce610dcea8ac2c4b85383",
+      "text_sha256_physical": "c6b249b25ff48ff45f5da395a119f04ffab4140f5fb277ad04640e147f16dc0e",
+      "lines": 102,
+      "chars": 45114,
+      "catalog_chars": 46469,
+      "read_ranges_inclusive": [
+        [
+          1,
+          20
+        ],
+        [
+          21,
+          50
+        ],
+        [
+          51,
+          77
+        ],
+        [
+          78,
+          102
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "013-7021.html",
+      "text_locator": "013-7021.txt"
+    },
+    {
+      "batch_index": 14,
+      "id": 37832,
+      "id_type": "int",
+      "catalog_id": 37832,
+      "wordpress_object_id_http_verified": 37832,
+      "source_class": "other",
+      "body_kind": "receita espanhola de almôndegas em molho de coco",
+      "url": "https://www.westonaprice.org/albondigas-en-salsa-de-coco/",
+      "title": "Albóndigas en salsa de coco",
+      "title_recovery": "Albóndigas en salsa de coco",
+      "author": "Marina Ribas Torres",
+      "displayed_date": "August 26, 2021",
+      "meta": {
+        "article:published_time": "2021-08-26T14:28:36+00:00",
+        "article:modified_time": "2021-09-01T19:59:17+00:00",
+        "author": "Marina Ribas Torres"
+      },
+      "canonical": "https://www.westonaprice.org/es/albondigas-en-salsa-de-coco/",
+      "final_url": "https://www.westonaprice.org/albondigas-en-salsa-de-coco/",
+      "http_status": "200",
+      "html_sha256_physical": "d7f7dba092ad5c3882ee0f3796cdce0a3e8bf062ef9fc9f881654a95d2bc623a",
+      "text_sha256_physical": "e79fdfe46da6531e53605cf22075413d0497ee3edeceac7bf670980973ccde58",
+      "lines": 42,
+      "chars": 2911,
+      "catalog_chars": 2961,
+      "read_ranges_inclusive": [
+        [
+          1,
+          42
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "014-37832.html",
+      "text_locator": "014-37832.txt"
+    },
+    {
+      "batch_index": 15,
+      "id": 23258,
+      "id_type": "int",
+      "catalog_id": 23258,
+      "wordpress_object_id_http_verified": 23258,
+      "source_class": "other",
+      "body_kind": "tradução espanhola de artigo culinário/técnico com barras laterais",
+      "url": "https://www.westonaprice.org/alcanzando-el-exito-culinario-con-carne-de-pasto/",
+      "title": "Alcanzando el éxito culinario con carne de pasto",
+      "title_recovery": "Alcanzando el éxito culinario con carne de pasto",
+      "author": "Piperis",
+      "displayed_date": "April 7, 2017",
+      "meta": {
+        "article:published_time": "2017-04-07T11:18:30+00:00",
+        "article:modified_time": "2023-12-07T23:22:54+00:00",
+        "author": "Piperis"
+      },
+      "canonical": "https://www.westonaprice.org/alcanzando-el-exito-culinario-con-carne-de-pasto/",
+      "final_url": "https://www.westonaprice.org/alcanzando-el-exito-culinario-con-carne-de-pasto/",
+      "http_status": "200",
+      "html_sha256_physical": "de42760354295010eb14a25487c4cea1c8676443fe5aed6a61738f1b7828e760",
+      "text_sha256_physical": "7547f9c6abe9edcfad9e17695d7568e09369a32e5e2af899ff5e9f8622069b7c",
+      "lines": 99,
+      "chars": 38198,
+      "catalog_chars": 38364,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ],
+        [
+          26,
+          55
+        ],
+        [
+          56,
+          83
+        ],
+        [
+          84,
+          99
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "015-23258.html",
+      "text_locator": "015-23258.txt"
+    },
+    {
+      "batch_index": 16,
+      "id": 31194,
+      "id_type": "int",
+      "catalog_id": 31194,
+      "wordpress_object_id_http_verified": 31194,
+      "source_class": "other",
+      "body_kind": "tradução espanhola de protocolo infantil/gestacional com fórmulas históricas",
+      "url": "https://www.westonaprice.org/alimentando-bebes/",
+      "title": "Alimentando bebés",
+      "title_recovery": "Alimentando bebés",
+      "author": "Jen Allbritton",
+      "displayed_date": "August 26, 2019",
+      "meta": {
+        "article:published_time": "2019-08-26T17:45:23+00:00",
+        "article:modified_time": "2025-01-20T20:24:03+00:00",
+        "author": "Jen Allbritton"
+      },
+      "canonical": "https://www.westonaprice.org/alimentando-bebes/",
+      "final_url": "https://www.westonaprice.org/alimentando-bebes/",
+      "http_status": "200",
+      "html_sha256_physical": "3f6c21568cf03fc75c61bed80cb3f97d12aa559a3ed4bbec814574541a0b965b",
+      "text_sha256_physical": "82a7e252513631802db833aa23a6065a27b2598f04d68ff22d8ceec9e424a2c3",
+      "lines": 55,
+      "chars": 10181,
+      "catalog_chars": 10360,
+      "read_ranges_inclusive": [
+        [
+          1,
+          55
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "016-31194.html",
+      "text_locator": "016-31194.txt"
+    },
+    {
+      "batch_index": 17,
+      "id": 8786,
+      "id_type": "int",
+      "catalog_id": 8786,
+      "wordpress_object_id_http_verified": 8786,
+      "source_class": "other",
+      "body_kind": "post analítico/modelo fisiológico com revisão secundária de evidência",
+      "url": "https://www.westonaprice.org/an-ancestral-perspective-on-vitamin-d-status-part-2-why-low-25ohd-could-indicate-a-deficiency-of-calcium-instead-of-vitamin-d/",
+      "title": "An Ancestral Perspective on Vitamin D Status, Part 2: Why Low 25(OH)D Could Indicate a Deficiency of Calcium Instead of Vitamin D",
+      "title_recovery": "An Ancestral Perspective on Vitamin D Status, Part 2: Why Low 25(OH)D Could Indicate a Deficiency of Calcium Instead of Vitamin D",
+      "author": "Christopher Masterjohn",
+      "displayed_date": "December 19, 2013",
+      "meta": {
+        "article:published_time": "2013-12-20T04:01:18+00:00",
+        "article:modified_time": "2017-07-03T09:11:57+00:00",
+        "author": "Christopher Masterjohn"
+      },
+      "canonical": "https://www.westonaprice.org/an-ancestral-perspective-on-vitamin-d-status-part-2-why-low-25ohd-could-indicate-a-deficiency-of-calcium-instead-of-vitamin-d/",
+      "final_url": "https://www.westonaprice.org/an-ancestral-perspective-on-vitamin-d-status-part-2-why-low-25ohd-could-indicate-a-deficiency-of-calcium-instead-of-vitamin-d/",
+      "http_status": "200",
+      "html_sha256_physical": "2a390558c195e37f04c6f7b2789e73f581abbcba423b0613a4bbda99feadc12a",
+      "text_sha256_physical": "cd118dd97cb8d5d2d5eee7514fbddcec48567b656df7e20de49e5a6bc92f8cc2",
+      "lines": 61,
+      "chars": 17787,
+      "catalog_chars": 17888,
+      "read_ranges_inclusive": [
+        [
+          1,
+          30
+        ],
+        [
+          31,
+          61
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "017-8786.html",
+      "text_locator": "017-8786.txt"
+    },
+    {
+      "batch_index": 18,
+      "id": 1077,
+      "id_type": "int",
+      "catalog_id": 1077,
+      "wordpress_object_id_http_verified": 1077,
+      "source_class": "other",
+      "body_kind": "boletim associativo/agenda/links de abril2012",
+      "url": "https://www.westonaprice.org/april-2012-information-alert/",
+      "title": "April 2012 Information Alert",
+      "title_recovery": "April 2012 Information Alert",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "April 26, 2012",
+      "meta": {
+        "article:published_time": "2012-04-27T01:06:47+00:00",
+        "article:modified_time": "2019-11-27T14:53:52+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/april-2012-information-alert/",
+      "final_url": "https://www.westonaprice.org/april-2012-information-alert/",
+      "http_status": "200",
+      "html_sha256_physical": "d61c1b6330cb81436bba189771828df460ec03279bb5946513d9f8f753c4dc88",
+      "text_sha256_physical": "07204ebf4950b1e695149ba388f687945f9af8bd14ce1184d950ab1cc82e1236",
+      "lines": 131,
+      "chars": 12488,
+      "catalog_chars": 12768,
+      "read_ranges_inclusive": [
+        [
+          1,
+          131
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "018-1077.html",
+      "text_locator": "018-1077.txt"
+    },
+    {
+      "batch_index": 19,
+      "id": 16121,
+      "id_type": "int",
+      "catalog_id": 16121,
+      "wordpress_object_id_http_verified": 16121,
+      "source_class": "other",
+      "body_kind": "boletim associativo/agenda/ativismoabril2015",
+      "url": "https://www.westonaprice.org/april-2015-member-information-alert/",
+      "title": "April 2015  Member Information Alert",
+      "title_recovery": "April 2015  Member Information Alert",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "April 23, 2015",
+      "meta": {
+        "article:published_time": "2015-04-23T14:35:49+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/april-2015-member-information-alert/",
+      "final_url": "https://www.westonaprice.org/april-2015-member-information-alert/",
+      "http_status": "200",
+      "html_sha256_physical": "5d2b38de7d4cfbed3627a8e6cd05ead6b82a7cb4f9b46d506c16697c38783cb8",
+      "text_sha256_physical": "4cb63cb1a703e99c2d4b89297b93ec15b1d5f03c3cc534398215a9dc259342e5",
+      "lines": 71,
+      "chars": 10408,
+      "catalog_chars": 10574,
+      "read_ranges_inclusive": [
+        [
+          1,
+          71
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "019-16121.html",
+      "text_locator": "019-16121.txt"
+    },
+    {
+      "batch_index": 20,
+      "id": 28369,
+      "id_type": "int",
+      "catalog_id": 28369,
+      "wordpress_object_id_http_verified": 28369,
+      "source_class": "other",
+      "body_kind": "índice espanhol de artigos/receitas por categorias",
+      "url": "https://www.westonaprice.org/articulos/",
+      "title": "Artículos",
+      "title_recovery": "Artículos",
+      "author": null,
+      "displayed_date": null,
+      "meta": {
+        "article:modified_time": "2026-10-21T18:20:26+00:00"
+      },
+      "canonical": "https://www.westonaprice.org/articulos/",
+      "final_url": "https://www.westonaprice.org/articulos/",
+      "http_status": "200",
+      "html_sha256_physical": "226c8315fd826f0982eafc1805903f43202a5155dc9948fc63930953a4167313",
+      "text_sha256_physical": "28a482b2497aa4b859b4d6a2d460c7b792ef6cb85b3e3171a62ab867a14a2b55",
+      "lines": 107,
+      "chars": 4612,
+      "catalog_chars": 4834,
+      "read_ranges_inclusive": [
+        [
+          1,
+          107
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "020-28369.html",
+      "text_locator": "020-28369.txt"
+    },
+    {
+      "batch_index": 21,
+      "id": 45929,
+      "id_type": "int",
+      "catalog_id": 45929,
+      "wordpress_object_id_http_verified": 45929,
+      "source_class": "other",
+      "body_kind": "tradução francesa de revisão/modelo sobre colesterol/vitaminas",
+      "url": "https://www.westonaprice.org/au-dela-du-cholesterol/",
+      "title": "Au-delà du cholestérol",
+      "title_recovery": "Au-delà du cholestérol",
+      "author": "Administrator",
+      "displayed_date": "July 5, 2024",
+      "meta": {
+        "article:published_time": "2024-07-05T18:30:35+00:00",
+        "article:modified_time": "2024-07-05T18:30:36+00:00",
+        "author": "Administrator"
+      },
+      "canonical": "https://www.westonaprice.org/au-dela-du-cholesterol/",
+      "final_url": "https://www.westonaprice.org/au-dela-du-cholesterol/",
+      "http_status": "200",
+      "html_sha256_physical": "cd6b8b2c8ab40df4b1094a185e481f93c1640636cf9c229614ef30a8bd70a3da",
+      "text_sha256_physical": "dca9cb23f928bc347dfdbafde282f2099b30051c6611db2c0ba3a87ce5b62e6e",
+      "lines": 70,
+      "chars": 45154,
+      "catalog_chars": 45474,
+      "read_ranges_inclusive": [
+        [
+          1,
+          17
+        ],
+        [
+          18,
+          40
+        ],
+        [
+          41,
+          62
+        ],
+        [
+          63,
+          70
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "021-45929.html",
+      "text_locator": "021-45929.txt"
+    },
+    {
+      "batch_index": 22,
+      "id": 1923,
+      "id_type": "int",
+      "catalog_id": 1923,
+      "wordpress_object_id_http_verified": 1923,
+      "source_class": "other",
+      "body_kind": "página com transcrição textual atribuída a vídeo infantil",
+      "url": "https://www.westonaprice.org/baby-formula-video-by-sarah-pope-2/",
+      "title": "Baby Formula by Sarah Pope",
+      "title_recovery": "Baby Formula by Sarah Pope",
+      "author": "Sarah Pope",
+      "displayed_date": "June 9, 2011",
+      "meta": {
+        "article:published_time": "2011-06-09T19:43:11+00:00",
+        "article:modified_time": "2021-03-03T15:01:42+00:00",
+        "author": "Sarah Pope"
+      },
+      "canonical": "https://www.westonaprice.org/baby-formula-video-by-sarah-pope-2/",
+      "final_url": "https://www.westonaprice.org/baby-formula-video-by-sarah-pope-2/",
+      "http_status": "200",
+      "html_sha256_physical": "e46f09cfe2f1609785caf2e25974dd4795522887dc727b681ea939e10d6b13fd",
+      "text_sha256_physical": "4ea4cbc4942ee53c72db0056ae469334185c847f98ddcba1a730bda882f5fd65",
+      "lines": 87,
+      "chars": 10797,
+      "catalog_chars": 10944,
+      "read_ranges_inclusive": [
+        [
+          1,
+          87
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "022-1923.html",
+      "text_locator": "022-1923.txt"
+    },
+    {
+      "batch_index": 23,
+      "id": 1921,
+      "id_type": "int",
+      "catalog_id": 1921,
+      "wordpress_object_id_http_verified": 1921,
+      "source_class": "other",
+      "body_kind": "página distinta com transcrição textual de vídeo infantil",
+      "url": "https://www.westonaprice.org/baby-formula-video-by-sarah-pope/",
+      "title": "Baby Formula Video by Sarah Pope",
+      "title_recovery": "Baby Formula Video by Sarah Pope",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "June 9, 2011",
+      "meta": {
+        "article:published_time": "2011-06-09T19:42:42+00:00",
+        "article:modified_time": "2026-11-19T14:55:17+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/baby-formula-video-by-sarah-pope/",
+      "final_url": "https://www.westonaprice.org/baby-formula-video-by-sarah-pope/",
+      "http_status": "200",
+      "html_sha256_physical": "77bb844b9d734e771fad02c25ffdf2f9762ac0664577cf33fcae944942c5875b",
+      "text_sha256_physical": "897dca7b62b18e2c1a9dbf3d107696298fbea1b797a756b18a871cdfee2feb55",
+      "lines": 84,
+      "chars": 10553,
+      "catalog_chars": 10707,
+      "read_ranges_inclusive": [
+        [
+          1,
+          84
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "023-1921.html",
+      "text_locator": "023-1921.txt"
+    },
+    {
+      "batch_index": 24,
+      "id": 23320,
+      "id_type": "int",
+      "catalog_id": 23320,
+      "wordpress_object_id_http_verified": 23320,
+      "source_class": "other",
+      "body_kind": "tradução francesa de artigo opinativo/revisão com bibliografia",
+      "url": "https://www.westonaprice.org/beef-french-translation/",
+      "title": "It’s the Beef, French Translation",
+      "title_recovery": "It’s the Beef, French Translation",
+      "author": "Piperis",
+      "displayed_date": "April 10, 2017",
+      "meta": {
+        "article:published_time": "2017-04-10T09:30:09+00:00",
+        "article:modified_time": "2024-01-12T20:34:46+00:00",
+        "author": "Piperis"
+      },
+      "canonical": "https://www.westonaprice.org/beef-french-translation/",
+      "final_url": "https://www.westonaprice.org/beef-french-translation/",
+      "http_status": "200",
+      "html_sha256_physical": "d6426c658e2b3d20bea08790c371256af02696c568a1aa1b5dd0c458ddb16690",
+      "text_sha256_physical": "53f74589f8b01e6346085419db226d63b4daf21c1bafb2e3fa2c7969abf40d7c",
+      "lines": 118,
+      "chars": 50945,
+      "catalog_chars": 51151,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ],
+        [
+          26,
+          52
+        ],
+        [
+          53,
+          82
+        ],
+        [
+          83,
+          118
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "024-23320.html",
+      "text_locator": "024-23320.txt"
+    },
+    {
+      "batch_index": 25,
+      "id": 47459,
+      "id_type": "int",
+      "catalog_id": 47459,
+      "wordpress_object_id_http_verified": 47459,
+      "source_class": "other",
+      "body_kind": "descrição/resumo e biografia de episódio de podcast espanhol113",
+      "url": "https://www.westonaprice.org/beneficios-economicos-ecologicos-y-nutricionales-de-consumir-y-aprovechar-el-animal-de-rabo-a-cabo-con-galia-kleiman-de-la-cocina-de-galia/",
+      "title": "Beneficios Económicos, Ecológicos y Nutricionales de Consumir y Aprovechar el Animal de Rabo a Cabo con Galia Kleiman de La Cocina de Galia ",
+      "title_recovery": "Beneficios Económicos, Ecológicos y Nutricionales de Consumir y Aprovechar el Animal de Rabo a Cabo con Galia Kleiman de La Cocina de Galia",
+      "author": "Administrator",
+      "displayed_date": "June 18, 2025",
+      "meta": {
+        "article:published_time": "2025-06-18T15:54:16+00:00",
+        "article:modified_time": "2025-09-05T10:44:14+00:00",
+        "author": "Administrator"
+      },
+      "canonical": "https://www.westonaprice.org/beneficios-economicos-ecologicos-y-nutricionales-de-consumir-y-aprovechar-el-animal-de-rabo-a-cabo-con-galia-kleiman-de-la-cocina-de-galia/",
+      "final_url": "https://www.westonaprice.org/beneficios-economicos-ecologicos-y-nutricionales-de-consumir-y-aprovechar-el-animal-de-rabo-a-cabo-con-galia-kleiman-de-la-cocina-de-galia/",
+      "http_status": "200",
+      "html_sha256_physical": "72eb4cb8e0a3ec9e95b6dc75be949c212f011e4945f7aa76b54130e9c8969514",
+      "text_sha256_physical": "ca9ffea6fffee7723ef8a1e7a3ec6115ec5d3d5dc8cfcbd4622654e432484b3a",
+      "lines": 14,
+      "chars": 1007,
+      "catalog_chars": 1046,
+      "read_ranges_inclusive": [
+        [
+          1,
+          14
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "025-47459.html",
+      "text_locator": "025-47459.txt"
+    },
+    {
+      "batch_index": 26,
+      "id": 15959,
+      "id_type": "int",
+      "catalog_id": 15959,
+      "wordpress_object_id_http_verified": 15959,
+      "source_class": "other",
+      "body_kind": "post de comentário sobre estudo piloto e extrapolação a caldo",
+      "url": "https://www.westonaprice.org/can-broth-help-us-maintain-a-healthy-weight-a-study-on-glutamine-and-the-microbiome-suggests-it/",
+      "title": "Can Broth Help Us Maintain a Healthy Weight?  A Study on Glutamine and the Microbiome Suggests It",
+      "title_recovery": "Can Broth Help Us Maintain a Healthy Weight?  A Study on Glutamine and the Microbiome Suggests It",
+      "author": "Kaayla Daniel",
+      "displayed_date": "April 8, 2015",
+      "meta": {
+        "article:published_time": "2015-04-09T02:58:24+00:00",
+        "article:modified_time": "2023-12-11T22:27:53+00:00",
+        "author": "Kaayla Daniel"
+      },
+      "canonical": "https://www.westonaprice.org/can-broth-help-us-maintain-a-healthy-weight-a-study-on-glutamine-and-the-microbiome-suggests-it/",
+      "final_url": "https://www.westonaprice.org/can-broth-help-us-maintain-a-healthy-weight-a-study-on-glutamine-and-the-microbiome-suggests-it/",
+      "http_status": "200",
+      "html_sha256_physical": "c0a1bac070b6392f5e2460023eaf988056b453bb178517ae81f50d8bb242f6aa",
+      "text_sha256_physical": "705cf275cce332d014a505d2a99717f4b158ab719cbb1dcd118097947173218f",
+      "lines": 18,
+      "chars": 5750,
+      "catalog_chars": 5800,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "026-15959.html",
+      "text_locator": "026-15959.txt"
+    },
+    {
+      "batch_index": 27,
+      "id": 31221,
+      "id_type": "int",
+      "catalog_id": 31221,
+      "wordpress_object_id_http_verified": 31221,
+      "source_class": "other",
+      "body_kind": "lista institucional traduzida de característicasdietastradicionais",
+      "url": "https://www.westonaprice.org/caracteristicas-de-las-dietas-tradicionales/",
+      "title": "Características de las Dietas Tradicionales",
+      "title_recovery": "Características de las Dietas Tradicionales",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "August 26, 2019",
+      "meta": {
+        "article:published_time": "2019-08-26T19:17:03+00:00",
+        "article:modified_time": "2023-12-08T16:52:25+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/caracteristicas-de-las-dietas-tradicionales/",
+      "final_url": "https://www.westonaprice.org/caracteristicas-de-las-dietas-tradicionales/",
+      "http_status": "200",
+      "html_sha256_physical": "88de702e5a1d26dd72de977ce00d8ae9da2b26835b60f9759f53511842cd0cdb",
+      "text_sha256_physical": "cf1f6468b7b413440eab83b8864279987aa61dc16cfefb210e844c7d16162efb",
+      "lines": 15,
+      "chars": 2838,
+      "catalog_chars": 2861,
+      "read_ranges_inclusive": [
+        [
+          1,
+          15
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "027-31221.html",
+      "text_locator": "027-31221.txt"
+    },
+    {
+      "batch_index": 28,
+      "id": 28865,
+      "id_type": "int",
+      "catalog_id": 28865,
+      "wordpress_object_id_http_verified": 28865,
+      "source_class": "other",
+      "body_kind": "tradução espanhola de relato pessoal e revisão/modelo nutricional",
+      "url": "https://www.westonaprice.org/carne-organos-huesos-y-piel-nutricion-para-la-salud-mental/",
+      "title": "Carne, órganos, huesos y piel: nutrición para la salud mental",
+      "title_recovery": "Carne, órganos, huesos y piel: nutrición para la salud mental",
+      "author": "Christopher Masterjohn",
+      "displayed_date": "August 27, 2018",
+      "meta": {
+        "article:published_time": "2018-08-27T20:54:54+00:00",
+        "article:modified_time": "2023-12-07T23:25:15+00:00",
+        "author": "Christopher Masterjohn"
+      },
+      "canonical": "https://www.westonaprice.org/carne-organos-huesos-y-piel-nutricion-para-la-salud-mental/",
+      "final_url": "https://www.westonaprice.org/carne-organos-huesos-y-piel-nutricion-para-la-salud-mental/",
+      "http_status": "200",
+      "html_sha256_physical": "33a78b9c2231e113813f73c31da96c373a02a85ce09a4b6c168119e3755dc3d0",
+      "text_sha256_physical": "6a114d377672af3bb1552c5247df4d6a65a5844441eec160235d57aa936f72ac",
+      "lines": 87,
+      "chars": 36832,
+      "catalog_chars": 37017,
+      "read_ranges_inclusive": [
+        [
+          1,
+          24
+        ],
+        [
+          25,
+          48
+        ],
+        [
+          49,
+          87
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "028-28865.html",
+      "text_locator": "028-28865.txt"
+    },
+    {
+      "batch_index": 29,
+      "id": 8782,
+      "id_type": "int",
+      "catalog_id": 8782,
+      "wordpress_object_id_http_verified": 8782,
+      "source_class": "other",
+      "body_kind": "post analítico/crítica de estudos sobre carnitina e TMAO",
+      "url": "https://www.westonaprice.org/carnitine-and-heart-disease/",
+      "title": "Does Carnitine From Red Meat Contribute to Heart Disease Through Intestinal Bacterial Metabolism to TMAO?",
+      "title_recovery": "Does Carnitine From Red Meat Contribute to Heart Disease Through Intestinal Bacterial Metabolism to TMAO?",
+      "author": "Christopher Masterjohn",
+      "displayed_date": "April 10, 2013",
+      "meta": {
+        "article:published_time": "2013-04-10T21:47:51+00:00",
+        "article:modified_time": "2017-06-29T11:06:21+00:00",
+        "author": "Christopher Masterjohn"
+      },
+      "canonical": "https://www.westonaprice.org/carnitine-and-heart-disease/",
+      "final_url": "https://www.westonaprice.org/carnitine-and-heart-disease/",
+      "http_status": "200",
+      "html_sha256_physical": "28238f5e56f4cad69a0794dce900a3ce7f850dab098df0c67c8045cd45d9169d",
+      "text_sha256_physical": "91af967bcdd1bb989a105e5a57e13482cc1bd4f445125dfde3052113d8aeb555",
+      "lines": 75,
+      "chars": 29724,
+      "catalog_chars": 29866,
+      "read_ranges_inclusive": [
+        [
+          1,
+          20
+        ],
+        [
+          21,
+          45
+        ],
+        [
+          46,
+          75
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "029-8782.html",
+      "text_locator": "029-8782.txt"
+    },
+    {
+      "batch_index": 30,
+      "id": 1240,
+      "id_type": "int",
+      "catalog_id": 1240,
+      "wordpress_object_id_http_verified": 1240,
+      "source_class": "other",
+      "body_kind": "arquivo de relatos associativos/atualizações de capítulos e reuniões",
+      "url": "https://www.westonaprice.org/chapter-updates/",
+      "title": "Chapter Updates & Emails",
+      "title_recovery": "Chapter Updates & Emails",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "February 2, 2012",
+      "meta": {
+        "article:published_time": "2012-02-02T17:36:28+00:00",
+        "article:modified_time": "2024-02-28T17:32:31+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/chapter-updates/",
+      "final_url": "https://www.westonaprice.org/chapter-updates/",
+      "http_status": "200",
+      "html_sha256_physical": "c63cfd7cd5a5be9d8f18a5816f4a5b03c7810bbe2a764bb0490328eb37cf3873",
+      "text_sha256_physical": "391062607466d70101f47ddd00400a8e21996e98a296c765cb8ba6d7979b5b18",
+      "lines": 108,
+      "chars": 32660,
+      "catalog_chars": 32960,
+      "read_ranges_inclusive": [
+        [
+          1,
+          32
+        ],
+        [
+          33,
+          68
+        ],
+        [
+          69,
+          108
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "030-1240.html",
+      "text_locator": "030-1240.txt"
+    },
+    {
+      "batch_index": 31,
+      "id": 23088,
+      "id_type": "int",
+      "catalog_id": 23088,
+      "wordpress_object_id_http_verified": 23088,
+      "source_class": "other",
+      "body_kind": "curta introdução francesa sobre óleo de fígado de bacalhau",
+      "url": "https://www.westonaprice.org/cod-liver-oil-intro-french-translation/",
+      "title": "Cod Liver Oil Intro, French Translation",
+      "title_recovery": "Cod Liver Oil Intro, French Translation",
+      "author": "Piperis",
+      "displayed_date": "March 31, 2017",
+      "meta": {
+        "article:published_time": "2017-03-31T13:23:00+00:00",
+        "article:modified_time": "2023-12-08T21:19:04+00:00",
+        "author": "Piperis"
+      },
+      "canonical": "https://www.westonaprice.org/cod-liver-oil-intro-french-translation/",
+      "final_url": "https://www.westonaprice.org/cod-liver-oil-intro-french-translation/",
+      "http_status": "200",
+      "html_sha256_physical": "0b8477dfaacf719f543022eb0b3c624ebbb03f4db2ec87e63c19a3e786b329d0",
+      "text_sha256_physical": "fe5fbe3e9868f3652adcd96ac8508c2c104d69cd87b449122d08aa47276bdd09",
+      "lines": 7,
+      "chars": 2118,
+      "catalog_chars": 2109,
+      "read_ranges_inclusive": [
+        [
+          1,
+          7
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "031-23088.html",
+      "text_locator": "031-23088.txt"
+    },
+    {
+      "batch_index": 32,
+      "id": 1784,
+      "id_type": "int",
+      "catalog_id": 1784,
+      "wordpress_object_id_http_verified": 1784,
+      "source_class": "other",
+      "body_kind": "comentário institucional à FDA sobre proposta regulatória2011",
+      "url": "https://www.westonaprice.org/comments-on-preventative-controls-for-registered-human-food-and-animal-foodfeed-facilities/",
+      "title": "Comments on Preventative Controls for Registered Human Food and Animal Food/Feed Facilities",
+      "title_recovery": "Comments on Preventative Controls for Registered Human Food and Animal Food/Feed Facilities",
+      "author": "Kimberly Hartke",
+      "displayed_date": "August 31, 2011",
+      "meta": {
+        "article:published_time": "2011-08-31T18:56:05+00:00",
+        "article:modified_time": "2023-05-31T15:12:40+00:00",
+        "author": "Kimberly Hartke"
+      },
+      "canonical": "https://www.westonaprice.org/comments-on-preventative-controls-for-registered-human-food-and-animal-foodfeed-facilities/",
+      "final_url": "https://www.westonaprice.org/comments-on-preventative-controls-for-registered-human-food-and-animal-foodfeed-facilities/",
+      "http_status": "200",
+      "html_sha256_physical": "1e4636e060ca53f807b49bf742692bba26da16d2fe85721b560ebc0c616ba48e",
+      "text_sha256_physical": "b93a531265735e6d1e73d392683392c7e56e8451ff67fc80b7212638c0323208",
+      "lines": 151,
+      "chars": 21595,
+      "catalog_chars": 21878,
+      "read_ranges_inclusive": [
+        [
+          1,
+          75
+        ],
+        [
+          76,
+          151
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "032-1784.html",
+      "text_locator": "032-1784.txt"
+    },
+    {
+      "batch_index": 33,
+      "id": 1786,
+      "id_type": "int",
+      "catalog_id": 1786,
+      "wordpress_object_id_http_verified": 1786,
+      "source_class": "other",
+      "body_kind": "carta conjunta WAPF/FARFA de comentários regulatórios",
+      "url": "https://www.westonaprice.org/comments-on-the-preventative-controls-for-facilities-under-the-fda-fsma/",
+      "title": "Comments on the Preventative Controls for Facilities under the FDA FSMA",
+      "title_recovery": "Comments on the Preventative Controls for Facilities under the FDA FSMA",
+      "author": "Kimberly Hartke",
+      "displayed_date": "August 31, 2011",
+      "meta": {
+        "article:published_time": "2011-08-31T22:56:34+00:00",
+        "article:modified_time": "2023-05-31T15:11:41+00:00",
+        "author": "Kimberly Hartke"
+      },
+      "canonical": "https://www.westonaprice.org/comments-on-the-preventative-controls-for-facilities-under-the-fda-fsma/",
+      "final_url": "https://www.westonaprice.org/comments-on-the-preventative-controls-for-facilities-under-the-fda-fsma/",
+      "http_status": "200",
+      "html_sha256_physical": "eed93701a812ec9d9d36c50dc560bcb418a34c666dd7e1203cf2ebbc826a79a4",
+      "text_sha256_physical": "54a5a815cac19bd2d0821565b136b3adeb4dd9eed4f292792d81eaea764fe09a",
+      "lines": 51,
+      "chars": 9036,
+      "catalog_chars": 9116,
+      "read_ranges_inclusive": [
+        [
+          1,
+          51
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "033-1786.html",
+      "text_locator": "033-1786.txt"
+    },
+    {
+      "batch_index": 34,
+      "id": 29997,
+      "id_type": "int",
+      "catalog_id": 29997,
+      "wordpress_object_id_http_verified": 29997,
+      "source_class": "other",
+      "body_kind": "resumo de entrevista/podcast espanhol com GaliaKleiman",
+      "url": "https://www.westonaprice.org/como-alimentar-a-los-hijos/",
+      "title": "Cómo Alimentar a los Hijos",
+      "title_recovery": "Cómo Alimentar a los Hijos",
+      "author": "Hilda Gore",
+      "displayed_date": "February 14, 2019",
+      "meta": {
+        "article:published_time": "2019-02-14T17:08:31+00:00",
+        "author": "Hilda Gore"
+      },
+      "canonical": "https://www.westonaprice.org/como-alimentar-a-los-hijos/",
+      "final_url": "https://www.westonaprice.org/como-alimentar-a-los-hijos/",
+      "http_status": "200",
+      "html_sha256_physical": "d13740f9862793dd8bcb0c52dd18faef1d1af7cfb3887d0e64df56d317f89af3",
+      "text_sha256_physical": "13ea62c29e968e6840c62401a2703e606dc654449e3ae74b1b289bf47a5a9518",
+      "lines": 18,
+      "chars": 2659,
+      "catalog_chars": 2672,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "034-29997.html",
+      "text_locator": "034-29997.txt"
+    },
+    {
+      "batch_index": 35,
+      "id": 1788,
+      "id_type": "int",
+      "catalog_id": 1788,
+      "wordpress_object_id_http_verified": 1788,
+      "source_class": "other",
+      "body_kind": "comunicado de imprensa sobre comentários à FDA",
+      "url": "https://www.westonaprice.org/consumer-group-keeps-up-the-fight-for-artisan-producers/",
+      "title": "Consumer Group Keeps Up the Fight for Artisan Producers",
+      "title_recovery": "Consumer Group Keeps Up the Fight for Artisan Producers",
+      "author": "Kimberly Hartke",
+      "displayed_date": "August 31, 2011",
+      "meta": {
+        "article:published_time": "2011-08-31T22:57:04+00:00",
+        "article:modified_time": "2023-05-31T15:11:02+00:00",
+        "author": "Kimberly Hartke"
+      },
+      "canonical": "https://www.westonaprice.org/consumer-group-keeps-up-the-fight-for-artisan-producers/",
+      "final_url": "https://www.westonaprice.org/consumer-group-keeps-up-the-fight-for-artisan-producers/",
+      "http_status": "200",
+      "html_sha256_physical": "1fb8fbca93d62ce15c35c54df32a06ef8dca63648dde70f805c5268b552423fe",
+      "text_sha256_physical": "68be24b142a28e97678e44ff89f53802e2ef87b969e7321789641b8176d2b064",
+      "lines": 18,
+      "chars": 3029,
+      "catalog_chars": 3048,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "035-1788.html",
+      "text_locator": "035-1788.txt"
+    },
+    {
+      "batch_index": 36,
+      "id": 25362,
+      "id_type": "int",
+      "catalog_id": 25362,
+      "wordpress_object_id_http_verified": 25362,
+      "source_class": "other",
+      "body_kind": "resenha curta de vídeo culinário",
+      "url": "https://www.westonaprice.org/cook-way-wellness-maria-atwood/",
+      "title": "Cook Your Way to Wellness by Maria Atwood",
+      "title_recovery": "Cook Your Way to Wellness by Maria Atwood",
+      "author": "Tim Boyd",
+      "displayed_date": "August 16, 2017",
+      "meta": {
+        "article:published_time": "2017-08-16T14:40:47+00:00",
+        "article:modified_time": "2017-10-16T14:52:09+00:00",
+        "author": "Tim Boyd"
+      },
+      "canonical": "https://www.westonaprice.org/cook-way-wellness-maria-atwood/",
+      "final_url": "https://www.westonaprice.org/cook-way-wellness-maria-atwood/",
+      "http_status": "200",
+      "html_sha256_physical": "fa1f7002801b3388ca798862866d202906d55396a92c8774ee1519025a7b6e0c",
+      "text_sha256_physical": "920d95cba1b833fea29c62d921a3a646cd6a48c97ed01932c64877821298fe90",
+      "lines": 10,
+      "chars": 1478,
+      "catalog_chars": 1466,
+      "read_ranges_inclusive": [
+        [
+          1,
+          10
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "036-25362.html",
+      "text_locator": "036-25362.txt"
+    },
+    {
+      "batch_index": 37,
+      "id": 37614,
+      "id_type": "int",
+      "catalog_id": 37614,
+      "wordpress_object_id_http_verified": 37614,
+      "source_class": "other",
+      "body_kind": "receita espanhola de coração em molho na panela lenta",
+      "url": "https://www.westonaprice.org/corazon-de-ternera-estofado-en-salsa/",
+      "title": "Corazón de ternera estofado en salsa",
+      "title_recovery": "Corazón de ternera estofado en salsa",
+      "author": "Administrator",
+      "displayed_date": "August 5, 2021",
+      "meta": {
+        "article:published_time": "2021-08-05T21:39:58+00:00",
+        "article:modified_time": "2021-09-01T20:00:54+00:00",
+        "author": "Administrator"
+      },
+      "canonical": "https://www.westonaprice.org/es/corazon-de-ternera-estofado-en-salsa/",
+      "final_url": "https://www.westonaprice.org/corazon-de-ternera-estofado-en-salsa/",
+      "http_status": "200",
+      "html_sha256_physical": "ca73af2d7cbb7aafe817798a90bc0d5dee32a4a9ffed625ba1ac5b4b4303749e",
+      "text_sha256_physical": "db4707a0639eead3aa30bef708d33c57f32d42307fb3577f6d85acf1cc045f3e",
+      "lines": 33,
+      "chars": 3403,
+      "catalog_chars": 3493,
+      "read_ranges_inclusive": [
+        [
+          1,
+          33
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "037-37614.html",
+      "text_locator": "037-37614.txt"
+    },
+    {
+      "batch_index": 38,
+      "id": 28372,
+      "id_type": "int",
+      "catalog_id": 28372,
+      "wordpress_object_id_http_verified": 28372,
+      "source_class": "other",
+      "body_kind": "relato de viagem/entrevistas e cardápio histórico na CostaRica",
+      "url": "https://www.westonaprice.org/costa-rica-tierra-de-longevos/",
+      "title": "Costa Rica: tierra de longevos",
+      "title_recovery": "Costa Rica: tierra de longevos",
+      "author": "Gina Baker",
+      "displayed_date": "August 7, 2018",
+      "meta": {
+        "article:published_time": "2018-08-07T20:51:36+00:00",
+        "article:modified_time": "2023-12-08T16:17:37+00:00",
+        "author": "Gina Baker"
+      },
+      "canonical": "https://www.westonaprice.org/costa-rica-tierra-de-longevos/",
+      "final_url": "https://www.westonaprice.org/costa-rica-tierra-de-longevos/",
+      "http_status": "200",
+      "html_sha256_physical": "372fe481783ad3e66cb611c6112e7cafa0a56282411633881c3f023ed6e08cd6",
+      "text_sha256_physical": "9f5c10f0854e193be287dd5cbe386d14188f3278391235372976297f48ea886e",
+      "lines": 58,
+      "chars": 14149,
+      "catalog_chars": 14250,
+      "read_ranges_inclusive": [
+        [
+          1,
+          58
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "038-28372.html",
+      "text_locator": "038-28372.txt"
+    },
+    {
+      "batch_index": 39,
+      "id": 39701,
+      "id_type": "int",
+      "catalog_id": 39701,
+      "wordpress_object_id_http_verified": 39701,
+      "source_class": "other",
+      "body_kind": "artigo de opinião/advocacy sobre pecuária e sistema alimentar",
+      "url": "https://www.westonaprice.org/creating-new-narrative-animal-agriculture/",
+      "title": "Creating A New Narrative In Animal Agriculture",
+      "title_recovery": "Creating A New Narrative In Animal Agriculture",
+      "author": "Judith McGeary",
+      "displayed_date": "February 21, 2022",
+      "meta": {
+        "article:published_time": "2022-02-21T20:43:43+00:00",
+        "article:modified_time": "2022-03-02T19:35:23+00:00",
+        "author": "Judith McGeary"
+      },
+      "canonical": "https://www.westonaprice.org/creating-new-narrative-animal-agriculture/",
+      "final_url": "https://www.westonaprice.org/creating-new-narrative-animal-agriculture/",
+      "http_status": "200",
+      "html_sha256_physical": "f50663bc802497e793def4aedf214d048dbb3936c0af38c47abcdc60691d3f65",
+      "text_sha256_physical": "c9160212cd0497bc24a713d146f1b0d865226ddd5b01f6b9856f4d6940f5b2f8",
+      "lines": 41,
+      "chars": 13918,
+      "catalog_chars": 14083,
+      "read_ranges_inclusive": [
+        [
+          1,
+          41
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "039-39701.html",
+      "text_locator": "039-39701.txt"
+    },
+    {
+      "batch_index": 40,
+      "id": 41759,
+      "id_type": "int",
+      "catalog_id": 41759,
+      "wordpress_object_id_http_verified": 41759,
+      "source_class": "other",
+      "body_kind": "tradução espanhola de artigo/protocolo infantil crítico ao BLW, com tabela/anexos",
+      "url": "https://www.westonaprice.org/criando-a-un-bebe-cuando-y-como-introducir-los-solidos/",
+      "title": "Criando a un bebé: cuándo y cómo introducir los sólidos",
+      "title_recovery": "Criando a un bebé: cuándo y cómo introducir los sólidos",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "August 17, 2022",
+      "meta": {
+        "article:published_time": "2022-08-17T22:11:31+00:00",
+        "article:modified_time": "2023-12-08T21:03:06+00:00",
+        "author": "The Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/criando-a-un-bebe-cuando-y-como-introducir-los-solidos/",
+      "final_url": "https://www.westonaprice.org/criando-a-un-bebe-cuando-y-como-introducir-los-solidos/",
+      "http_status": "200",
+      "html_sha256_physical": "c024e43e6f55e77c9ac93b5ea82ee5a1a1971f4eec414db650d4cc8bdff64afb",
+      "text_sha256_physical": "e8e9273addc7ce95bdcffe3689fe47ddcbda41da22e132086db3a91cc45963fa",
+      "lines": 227,
+      "chars": 42218,
+      "catalog_chars": 42547,
+      "read_ranges_inclusive": [
+        [
+          1,
+          55
+        ],
+        [
+          56,
+          108
+        ],
+        [
+          109,
+          179
+        ],
+        [
+          180,
+          227
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "040-41759.html",
+      "text_locator": "040-41759.txt"
+    },
+    {
+      "batch_index": 41,
+      "id": 30260,
+      "id_type": "int",
+      "catalog_id": 30260,
+      "wordpress_object_id_http_verified": 30260,
+      "source_class": "other",
+      "body_kind": "tradução de ensaio de opinião sobre grãos, com anexo e biografias",
+      "url": "https://www.westonaprice.org/cuida-a-tus-semillas-y-tus-semillas-cuidaran-de-ti/",
+      "title": "Cuida a tus semillas….y tus semillas cuidarán de ti",
+      "title_recovery": "Cuida a tus semillas….y tus semillas cuidarán de ti",
+      "author": "Sally Fallon and Mary G. Enig, PhD",
+      "displayed_date": "April 4, 2019",
+      "meta": {
+        "article:published_time": "2019-04-04T14:28:13+00:00",
+        "article:modified_time": "2023-12-08T17:24:01+00:00",
+        "author": "Sally Fallon and Mary G. Enig, PhD"
+      },
+      "canonical": "https://www.westonaprice.org/cuida-a-tus-semillas-y-tus-semillas-cuidaran-de-ti/",
+      "final_url": "https://www.westonaprice.org/cuida-a-tus-semillas-y-tus-semillas-cuidaran-de-ti/",
+      "http_status": "200",
+      "html_sha256_physical": "de445ebaa4f31a9b1c505132c907914af97de5336881caa8a81d11b7989de396",
+      "text_sha256_physical": "5308bfc275fdee4d997add6dd554a8f6e7dc4558b5134db23b650e02ed94f757",
+      "lines": 36,
+      "chars": 18195,
+      "catalog_chars": 18235,
+      "read_ranges_inclusive": [
+        [
+          1,
+          15
+        ],
+        [
+          16,
+          36
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "041-30260.html",
+      "text_locator": "041-30260.txt"
+    },
+    {
+      "batch_index": 42,
+      "id": 659,
+      "id_type": "int",
+      "catalog_id": 659,
+      "wordpress_object_id_http_verified": 659,
+      "source_class": "other",
+      "body_kind": "boletim institucional e agenda de dezembro de 2012",
+      "url": "https://www.westonaprice.org/december-2012-information-alert/",
+      "title": "December 2012 Information Alert",
+      "title_recovery": "December 2012 Information Alert",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "December 20, 2012",
+      "meta": {
+        "article:published_time": "2012-12-20T07:29:38+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/december-2012-information-alert/",
+      "final_url": "https://www.westonaprice.org/december-2012-information-alert/",
+      "http_status": "200",
+      "html_sha256_physical": "7c423ac0ddd19edc8a36713f435f2486e9b6c8ee980d2b386c90b3551619f0b6",
+      "text_sha256_physical": "d20e96ea3b8df1d859676222cc643c85bb02036317a18b43e3efbbfcafe0c5c8",
+      "lines": 162,
+      "chars": 14000,
+      "catalog_chars": 14339,
+      "read_ranges_inclusive": [
+        [
+          1,
+          162
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "042-659.html",
+      "text_locator": "042-659.txt"
+    },
+    {
+      "batch_index": 43,
+      "id": 1639,
+      "id_type": "int",
+      "catalog_id": 1639,
+      "wordpress_object_id_http_verified": 1639,
+      "source_class": "other",
+      "body_kind": "boletim institucional, notícias, agenda e perguntas de dezembro de 2011",
+      "url": "https://www.westonaprice.org/december-info-alert/",
+      "title": "December Info Alert",
+      "title_recovery": "December Info Alert",
+      "author": "Weston A Price Foundation",
+      "displayed_date": "December 15, 2011",
+      "meta": {
+        "article:published_time": "2011-12-15T18:04:31+00:00",
+        "article:modified_time": "2017-06-30T11:00:18+00:00",
+        "author": "Weston A Price Foundation"
+      },
+      "canonical": "https://www.westonaprice.org/december-info-alert/",
+      "final_url": "https://www.westonaprice.org/december-info-alert/",
+      "http_status": "200",
+      "html_sha256_physical": "ab871f0be4c4c768f9f6a0b95457aa38cdf91c2a70a31a663a5a7fca12396f18",
+      "text_sha256_physical": "b358103bdec8c187a528ece45784ef88edbb80121e6e219afb52fe547ac20700",
+      "lines": 104,
+      "chars": 15351,
+      "catalog_chars": 15710,
+      "read_ranges_inclusive": [
+        [
+          1,
+          55
+        ],
+        [
+          56,
+          104
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "043-1639.html",
+      "text_locator": "043-1639.txt"
+    },
+    {
+      "batch_index": 44,
+      "id": 23294,
+      "id_type": "int",
+      "catalog_id": 23294,
+      "wordpress_object_id_http_verified": 23294,
+      "source_class": "other",
+      "body_kind": "lista de dieta para gestantes e lactantes, documento terapêutico arquivado",
+      "url": "https://www.westonaprice.org/diet-pregnant-nursing-mothers-spanish-translation/",
+      "title": "Alimentos para mujeres en el embarazo y la lactancia",
+      "title_recovery": "Alimentos para mujeres en el embarazo y la lactancia",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "April 7, 2017",
+      "meta": {
+        "article:published_time": "2017-04-07T15:18:04+00:00",
+        "article:modified_time": "2023-12-08T15:58:36+00:00",
+        "author": "Sally Fallon Morell"
+      },
+      "canonical": "https://www.westonaprice.org/diet-pregnant-nursing-mothers-spanish-translation/",
+      "final_url": "https://www.westonaprice.org/diet-pregnant-nursing-mothers-spanish-translation/",
+      "http_status": "200",
+      "html_sha256_physical": "627267de73cb55be96b238655887ea95391af7b7c4b550f109da915f2ab1cf31",
+      "text_sha256_physical": "b6613543b076f27dc86d6fa889247311d3db9e7de17809b349a043250b9a3285",
+      "lines": 29,
+      "chars": 2168,
+      "catalog_chars": 2198,
+      "read_ranges_inclusive": [
+        [
+          1,
+          29
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "044-23294.html",
+      "text_locator": "044-23294.txt"
+    },
+    {
+      "batch_index": 45,
+      "id": 48886,
+      "id_type": "int",
+      "catalog_id": 48886,
+      "wordpress_object_id_http_verified": 48886,
+      "source_class": "other",
+      "body_kind": "descrição de episódio de podcast, biografia comercial e contatos",
+      "url": "https://www.westonaprice.org/el-alto-costo-social-y-ecologico-de-consumir-ultraprocesados-con-galia-kleiman/",
+      "title": "El alto costo social y ecológico de consumir ultraprocesados, con Galia Kleiman",
+      "title_recovery": "El alto costo social y ecológico de consumir ultraprocesados, con Galia Kleiman",
+      "author": "Administrator",
+      "displayed_date": "May 13, 2026",
+      "meta": {
+        "article:published_time": "2026-05-13T15:52:38+00:00",
+        "article:modified_time": "2026-05-13T15:52:40+00:00",
+        "author": "Administrator"
+      },
+      "canonical": "https://www.westonaprice.org/el-alto-costo-social-y-ecologico-de-consumir-ultraprocesados-con-galia-kleiman/",
+      "final_url": "https://www.westonaprice.org/el-alto-costo-social-y-ecologico-de-consumir-ultraprocesados-con-galia-kleiman/",
+      "http_status": "200",
+      "html_sha256_physical": "d2a09bab4f018ed08c95e23efd6b5fb0b374a35c0000c595797155b962154ea3",
+      "text_sha256_physical": "6f2b87bb8fda1824a0bedc8a135ba744c54cbee6a492a7e84dfdc37022d6559a",
+      "lines": 12,
+      "chars": 905,
+      "catalog_chars": 941,
+      "read_ranges_inclusive": [
+        [
+          1,
+          12
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "045-48886.html",
+      "text_locator": "045-48886.txt"
+    },
+    {
+      "batch_index": 46,
+      "id": 36177,
+      "id_type": "int",
+      "catalog_id": 36177,
+      "wordpress_object_id_http_verified": 36177,
+      "source_class": "other",
+      "body_kind": "tradução de artigo opinativo culinário, anexos técnicos e cinco fórmulas",
+      "url": "https://www.westonaprice.org/el-caldo-es-maravilloso/",
+      "title": "El caldo es maravilloso",
+      "title_recovery": "El caldo es maravilloso",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "March 26, 2021",
+      "meta": {
+        "article:published_time": "2021-03-27T00:27:55+00:00",
+        "article:modified_time": "2023-12-07T23:28:51+00:00",
+        "author": "Sally Fallon Morell"
+      },
+      "canonical": "https://www.westonaprice.org/el-caldo-es-maravilloso/",
+      "final_url": "https://www.westonaprice.org/el-caldo-es-maravilloso/",
+      "http_status": "200",
+      "html_sha256_physical": "8ff7644b3a51080fdb98b44149e340918cc972ef191a641989a9dc0473922ad0",
+      "text_sha256_physical": "134b68679424bd1afdd19574f191837dbec94d823c80945a542fdcb0540c6c38",
+      "lines": 81,
+      "chars": 23461,
+      "catalog_chars": 23626,
+      "read_ranges_inclusive": [
+        [
+          1,
+          28
+        ],
+        [
+          29,
+          54
+        ],
+        [
+          55,
+          81
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "046-36177.html",
+      "text_locator": "046-36177.txt"
+    },
+    {
+      "batch_index": 47,
+      "id": 28324,
+      "id_type": "int",
+      "catalog_id": 28324,
+      "wordpress_object_id_http_verified": 28324,
+      "source_class": "other",
+      "body_kind": "tradução de ensaio fisiológico com interpretação holística, anexos e referências",
+      "url": "https://www.westonaprice.org/el-eje-hpa-hipotalamo-pituitaria-adrenal/",
+      "title": "El eje HPA: Hipotálamo–Pituitaria–Adrenal",
+      "title_recovery": "El eje HPA: Hipotálamo–Pituitaria–Adrenal",
+      "author": "Karen Lyke",
+      "displayed_date": "July 31, 2018",
+      "meta": {
+        "article:published_time": "2018-07-31T16:31:24+00:00",
+        "article:modified_time": "2023-12-08T18:05:25+00:00",
+        "author": "Karen Lyke"
+      },
+      "canonical": "https://www.westonaprice.org/el-eje-hpa-hipotalamo-pituitaria-adrenal/",
+      "final_url": "https://www.westonaprice.org/el-eje-hpa-hipotalamo-pituitaria-adrenal/",
+      "http_status": "200",
+      "html_sha256_physical": "0e94a751b8431a20f5336ce667608553e5a9ccbac10f5119b7d116b9268f4b39",
+      "text_sha256_physical": "94f98a3212beef1a5b24988bdf00876d36813951250f954a17d2296b90b4ccfd",
+      "lines": 183,
+      "chars": 56376,
+      "catalog_chars": 56803,
+      "read_ranges_inclusive": [
+        [
+          1,
+          34
+        ],
+        [
+          35,
+          66
+        ],
+        [
+          67,
+          95
+        ],
+        [
+          96,
+          129
+        ],
+        [
+          130,
+          160
+        ],
+        [
+          161,
+          183
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "047-28324.html",
+      "text_locator": "047-28324.txt"
+    },
+    {
+      "batch_index": 48,
+      "id": 36278,
+      "id_type": "int",
+      "catalog_id": 36278,
+      "wordpress_object_id_http_verified": 36278,
+      "source_class": "other",
+      "body_kind": "tradução de artigo sobre tutano, receitas e relatos históricos secundários",
+      "url": "https://www.westonaprice.org/el-tuetano/",
+      "title": "El tuétano",
+      "title_recovery": "El tuétano",
+      "author": "Sally Fallon Morell",
+      "displayed_date": "April 8, 2021",
+      "meta": {
+        "article:published_time": "2021-04-08T14:23:05+00:00",
+        "article:modified_time": "2023-12-06T21:41:24+00:00",
+        "author": "Sally Fallon Morell"
+      },
+      "canonical": "https://www.westonaprice.org/el-tuetano/",
+      "final_url": "https://www.westonaprice.org/el-tuetano/",
+      "http_status": "200",
+      "html_sha256_physical": "eba87efc42ec132abc2000ac21e6fff0c004975f65902525e59587845091a189",
+      "text_sha256_physical": "6a4edfdd76910cf5bad2e144a2943c5ce74c21638dc73bf5aefb64fe5079b959",
+      "lines": 68,
+      "chars": 12242,
+      "catalog_chars": 12354,
+      "read_ranges_inclusive": [
+        [
+          1,
+          35
+        ],
+        [
+          36,
+          68
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "048-36278.html",
+      "text_locator": "048-36278.txt"
+    },
+    {
+      "batch_index": 49,
+      "id": 45818,
+      "id_type": "int",
+      "catalog_id": 45818,
+      "wordpress_object_id_http_verified": 45818,
+      "source_class": "other",
+      "body_kind": "descrição de episódio de podcast sobre vinagre e biografia comercial",
+      "url": "https://www.westonaprice.org/el-vinagre-de-manzana-un-fermento-multiusos/",
+      "title": "El Vinagre de Manzana, Un Fermento Multiusos",
+      "title_recovery": "El Vinagre de Manzana, Un Fermento Multiusos",
+      "author": "Administrator",
+      "displayed_date": "June 13, 2024",
+      "meta": {
+        "article:published_time": "2024-06-13T16:08:35+00:00",
+        "author": "Administrator"
+      },
+      "canonical": "https://www.westonaprice.org/el-vinagre-de-manzana-un-fermento-multiusos/",
+      "final_url": "https://www.westonaprice.org/el-vinagre-de-manzana-un-fermento-multiusos/",
+      "http_status": "200",
+      "html_sha256_physical": "c3f751118dce1b2967b6a0ac7fcc95d693f88f00854506fb42bb9c81097aa591",
+      "text_sha256_physical": "728fc2c374b6042b70695196e32f19a7ba71cceb62c1a547ea72fff15886e0ee",
+      "lines": 15,
+      "chars": 2252,
+      "catalog_chars": 2319,
+      "read_ranges_inclusive": [
+        [
+          1,
+          15
+        ]
+      ],
+      "coverage_complete": true,
+      "agent_read": true,
+      "human_read_claim": false,
+      "completed_utc": "2026-11-26T18:16:52.576396+00:00",
+      "extraction_proof": "prova-extracao-faixa-00-49.jsonl",
+      "reading_proof": "prova-leitura-faixa-00-49.jsonl",
+      "html_locator": "049-45818.html",
+      "text_locator": "049-45818.txt"
+    }
+  ]
+}

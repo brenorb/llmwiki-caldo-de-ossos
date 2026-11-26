@@ -274,3 +274,5 @@
 
 - [Tradiciones Sabias:189 entradas com transcrição automática auditada](wiki/fontes/wapf-audio-es-processamento189.md)
 - [WAPF: 50 páginas complementares, receitas, menus e traduções — lote 2](wiki/fontes/wapf-other-lote2-50.md)
+- [WAPF: 50 páginas complementares, receitas e limites — lote 1](wiki/fontes/wapf-other-lote1-50.md)
+- [Almôndegas com coco, coração, caldos, molhos e tutano: originais e escolhas low carb](wiki/temas/receitas-wapf-other-lote1.md)

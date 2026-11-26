@@ -2,6 +2,8 @@
 
 A [página de preparo](preparo.md) já reunia técnicas e referências para caldos de frango, bovino e tonkotsu. As fichas abaixo dão quantidades e tempos para cozinhar em casa. Quando quiser usar o caldo em bebidas ou [sobremesas](receitas-gelatina.md), separe uma parte antes de adicionar sal e aromáticos fortes.
 
+O [caderno complementar WAPF](receitas-wapf-other-lote1.md) reúne outras versões de frango/bovino/peixe, molhos reduzidos, almôndegas com coco, coração e sopa de tomate com tutano. Preserva as medidas e diferenças da tradução espanhola, com tabela de escolhas para menos carboidratos e lacunas explícitas.
+
 ## Frango na pressão ou no fogão
 
 **Para uma carcaça de frango já assado**, use cerca de **2 L de água**, uma cenoura pequena, um talo de salsão e um pedaço de cebola. Limão, alho, tomilho e pimenta são opcionais. O ponto de partida foi a receita do Mark’s Daily Apple, ajustada para aromáticos mais discretos.

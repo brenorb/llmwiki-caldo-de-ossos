@@ -287,3 +287,5 @@
 - [Making Stock on the Farm: leitura adicional de fonte temática antes negativa](wiki/fontes/wapf-making-stock-farm.md)
 - [Caldo bovino/cervo em escala de fazenda: método, diluição e limites](wiki/temas/receita-wapf-stock-farm.md)
 - [Ácido hialurônico, GAGs e proteoglicanos: terminologia e limite das alegações](wiki/fontes/hialuronano-terminologia.md)
+- [WAPF:50 resenhas completas, autoria e limites dos livros anunciados](wiki/fontes/wapf-book-review50.md)
+- [Gelatina com frutas, proporção de caldo, chowders e bisque: descrições nas resenhas](wiki/temas/aplicacoes-wapf-resenhas50.md)

@@ -4,6 +4,8 @@ Em26/11/2026, a aquisição do catálogo fixo887 alcançou **todos os249 alvos**
 
 **Atualização posterior:** os [12 textos estáticos principais foram recuperados e lidos](wapf-direct-index-main12.md), com escopo `main#genesis-content` e versões estritas originais preservadas. Isso resolve a lacuna do texto principal salvo, sem declarar destinos, paginação ou mídia lidos. As contagens abaixo continuam sendo as da aquisição estrita inicial.
 
+O [primeiro lote de50 resenhas](wapf-book-review50.md) também tem leitura integral própria. Essa cobertura está ligada às provas posteriores, sem converter a aquisição inicial em leitura nem inferir os livros completos.
+
 | Classe original | URLs | TXT estritos não brancos | Objeto e limite |
 |---|---:|---:|---|
 | Podcast |124|124|Páginas textuais; ler o texto não significa ter ouvido a gravação.|

@@ -4,6 +4,8 @@ Para usos salgados e outros preparos, o [caderno complementar WAPF](receitas-wap
 
 A [versão de cheesecake/coulis de2010](receitas-wapf-other-lote2.md) conserva todo o conjunto e a alternativa de macaroons. Tâmaras, mel, maple e araruta pertencem ao original; não é uma sobremesa keto. Reduzir esses ingredientes ou escolher adoçante exige reformulação, sem equivalência de textura ou proporção testada nesta ficha.
 
+O [caderno das resenhas](aplicacoes-wapf-resenhas50.md) registra a descrição tradicional de frutas em gelatina de tendões/cartilagens e os dados que faltam para executá-la. As frutas permanecem no original; não se inventaram proporções ou uma versão testada sem açúcar a partir desse trecho.
+
 Há duas maneiras de firmar uma sobremesa. Um caldo bem concentrado já traz gelatina extraída no cozimento. Gelatina culinária em pó permite controlar o ponto quando a base é água, chá, leite de coco ou um caldo que ficou fluido. Peptídeos de colágeno hidrolisado têm outra função culinária e não firmam a mistura como a gelatina em pó. [Colágeno e gelatina](colageno-gelatina.md)
 
 As quantidades a seguir são pontos de partida culinários. As adaptações da wiki não foram testadas em cozinha. Os rótulos e o rendimento da receita ajudam a estimar carboidratos por porção. A [torta de banana do catálogo WAPF](receitas-wapf-catalogo.md#receitas-de-outras-subcategorias-de-recipe-of-the-week) é outra opção com gelatina no recheio; o original contém banana e açúcar.

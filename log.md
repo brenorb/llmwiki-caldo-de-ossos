@@ -1165,3 +1165,8 @@ Incorporada [leitura integral dos12 main estáticos](wiki/fontes/wapf-direct-ind
 ## [2026-11-26] revisão | Terminologia deHA/GAG na resenha de Nourishing Broth
 
 Criada [nota terminológica](wiki/fontes/hialuronano-terminologia.md) com definições indexadasIUPAC/Essentials of Glycobiology4e e limites de acesso direto403/reCAPTCHA. Corrigida a classificação deHA como proteoglicano na resenha, sem inferir porcentagem pela gelificação ou dados teciduais. Não houve capítulo/livro inteiro lido, novo experimento ou evidência clínica de caldo. Composição liga a distinção às medições próprias.
+
+
+## [2026-11-26] ingestão | Cinquenta resenhas completas e aplicações culinárias parciais
+
+Incorporadas [50 resenhas](wiki/fontes/wapf-book-review50.md),922 linhas/328.787 caracteres. Revisor leu parecer/caderno/QA autoral inteiros, conferiu100 hashes/faixas e focais11/30/34/35/38. [Caderno](wiki/temas/aplicacoes-wapf-resenhas50.md) preserva todas descrições, quatro ou mais libras/galão, alternativas de chowder e fragmento vegetal, sem fórmula temática completa ou livro reconstruído. Identidades e autoria mantidas; rótulo legadohuman foi explicitado como leitura por agente. Não foram somados livros ou estudos prometidos como lidos.

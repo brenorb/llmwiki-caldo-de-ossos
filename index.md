@@ -305,3 +305,5 @@
 
 - [WAPF:24 páginas de podcasts, relatos e ressalvas](wiki/fontes/wapf-podcast-lote3-24.md)
 - [Caldo de frango de seis horas e outras descrições dos podcasts](wiki/temas/receitas-wapf-podcast-lote3.md)
+
+- [WAPF:13 textos de galerias, depoimentos e limites de inferência](wiki/fontes/wapf-gallery13.md)

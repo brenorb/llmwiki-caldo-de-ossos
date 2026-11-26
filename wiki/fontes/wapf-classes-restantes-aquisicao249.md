@@ -28,3 +28,5 @@ As12 extrações brancas são todas de índices diretos. O modelo original consi
 Imagens, mídia, comentários, livros completos, destinos e estudos externos não foram consultados por causa do download. Alegações históricas de leitura do catálogo não substituem prova individual por hash/faixas. As páginas foram obtidas porHTTPS com certificado validado e sem cookies; não houve corte de tamanho do corpo ou ASR. [Cobertura geral](../cobertura.md) · [Proveniência](../proveniencia.md)
 
 A leitura dos [12 índices recuperados](wapf-direct-index-main12.md) e dos [22 complementares](wapf-direct-index-main22.md) fecha34/34 textos principais estáticos; preserva versões estritas e não abre destinos/páginas seguintes por inferência. As [78 resenhas](wapf-book-review28.md) têm fechamento próprio como resenhas, sem leitura dos livros.
+
+Os [textos das13 galerias](wapf-gallery13.md) foram lidos integralmente como legendas/navegação, com prova própria e sem ver as imagens. Relatos sobrepostos não viraram indivíduos ou coortes independentes, e nomes individuais de crianças não foram reproduzidos no registro público de sobreposição.

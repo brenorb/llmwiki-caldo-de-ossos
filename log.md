@@ -1198,3 +1198,7 @@ Incorporados [50 corpos disponíveis](wiki/fontes/wapf-podcast-lote1-50.md),4.86
 ## [2026-11-26] ingestão |24 páginas de podcast e revisão independente do caldo de seis horas
 
 Incorporados [lote3/24](wiki/fontes/wapf-podcast-lote3-24.md) e [caderno](wiki/temas/receitas-wapf-podcast-lote3.md),3.141 linhas/846.341 caracteres/48 hashes/86 intervalos. União74/124 corpos textuais; sem somar como74 áudios ou estudos. QA por outro agente não encontrou erro material; esclarecida quantidade coloquial de pés apenas na cópia pública. Mantidas as ressalvas infantis da própria WAPF, o limite de composição e a distinção entre180°F de simmer e240°F+ da discussão de enlatamento.
+
+## [2026-11-26] ingestão |13 textos de galerias:relatos e sobreposições
+
+Incorporado [registro textual das13 galerias](wiki/fontes/wapf-gallery13.md),523 linhas/189.149 caracteres/26 hashes/24 intervalos. Revisor leu nota pública e conferiu hashes/faixas. Sem imagens vistas, novos indivíduos/coortes ou receitas operacionais inferidas. O registro de sobreposição omite nomes de crianças no derivado público e preserva URLs/IDs e contagens, sem alterar congelados.

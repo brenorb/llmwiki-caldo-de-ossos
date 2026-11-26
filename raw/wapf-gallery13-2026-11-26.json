@@ -1,0 +1,427 @@
+{
+  "source_class": "gallery",
+  "proof_kind": "delegated_agent_semantic_reading",
+  "human_read": false,
+  "images_viewed": false,
+  "visual_gallery_complete": false,
+  "sources": 13,
+  "unique_urls": 13,
+  "physical_hashes_verified": 26,
+  "lines": 523,
+  "chars": 189149,
+  "ranges": 24,
+  "not_independent_children_or_cohorts": true,
+  "items": [
+    {
+      "batch_index": 0,
+      "id": "4180",
+      "id_catalog_original": 4180,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2000-2004/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2000-2004/",
+      "title": "Healthy Baby Photo Gallery, 2000-2004",
+      "title_recovery": "Healthy Baby Photo Gallery, 2000-2004",
+      "author": "Jill C. Nienhiser",
+      "displayed_date": "March 5, 2009",
+      "html_sha256_physical": "5605d035c0ceb94c1688feea0e1df37a93311fed341c480cbb178ec36e771a13",
+      "text_sha256_physical": "1b74831cbdb8079acc27ace43d9a9653fc6fe8d93237565ce659e1750bc6a023",
+      "lines": 41,
+      "chars": 7950,
+      "catalog_chars": 8087,
+      "read_ranges_inclusive": [
+        [
+          1,
+          41
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 1,
+      "id": "4178",
+      "id_catalog_original": 4178,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2005-2006/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2005-2006/",
+      "title": "Healthy Baby Photo Gallery, 2005-2006",
+      "title_recovery": "Healthy Baby Photo Gallery, 2005-2006",
+      "author": "Jill C. Nienhiser",
+      "displayed_date": "March 5, 2009",
+      "html_sha256_physical": "4eae2ac24be1377b04d983c6f04b8370bf39e6722c375616f272c3c025920e23",
+      "text_sha256_physical": "4077e4284217d47a2c8f442d8065eea25918d5253e435bb911912365c3000ca8",
+      "lines": 43,
+      "chars": 8994,
+      "catalog_chars": 9141,
+      "read_ranges_inclusive": [
+        [
+          1,
+          43
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 2,
+      "id": "4176",
+      "id_catalog_original": 4176,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2007-2008/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2007-2008/",
+      "title": "Healthy Baby Photo Gallery, 2007-2008",
+      "title_recovery": "Healthy Baby Photo Gallery, 2007-2008",
+      "author": "Jill C. Nienhiser",
+      "displayed_date": "March 5, 2009",
+      "html_sha256_physical": "f5d2d5b6837aaf6f2b85ec1fac2ff01aea5a1089048f8da26feb6c8a4d3156db",
+      "text_sha256_physical": "a1dcccd51cb3e0ab4eff54c36be6bbe728742a70bc4932181596f1a0a9c00598",
+      "lines": 50,
+      "chars": 14924,
+      "catalog_chars": 15103,
+      "read_ranges_inclusive": [
+        [
+          1,
+          34
+        ],
+        [
+          35,
+          50
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 3,
+      "id": "4183",
+      "id_catalog_original": 4183,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2009-2010/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2009-2010/",
+      "title": "Healthy Baby Photo Gallery, 2009-2010",
+      "title_recovery": "Healthy Baby Photo Gallery, 2009-2010",
+      "author": "Jill C. Nienhiser",
+      "displayed_date": "March 5, 2009",
+      "html_sha256_physical": "8f9096be8b0de1a55c5ee8d45036993516c59ce077b360dc64c3ea7b15700237",
+      "text_sha256_physical": "e41736ad25666991640ea089a1eea5005d470681cb45ce4690db5fd1bb829bd1",
+      "lines": 54,
+      "chars": 17988,
+      "catalog_chars": 18184,
+      "read_ranges_inclusive": [
+        [
+          1,
+          31
+        ],
+        [
+          32,
+          54
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 4,
+      "id": "1976",
+      "id_catalog_original": 1976,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2011-2012/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2011-2012/",
+      "title": "Healthy Baby Photo Gallery, 2011-2012",
+      "title_recovery": "Healthy Baby Photo Gallery, 2011-2012",
+      "author": "Tim Boyd",
+      "displayed_date": "April 8, 2011",
+      "html_sha256_physical": "b6b593aa9a78cd42a092781399fdfedb7076275ae2173ec04d9a7250e8745178",
+      "text_sha256_physical": "bba95590265837153696e2e4c34026ea003a474071fd5bc6154ff8f4e68e04d0",
+      "lines": 59,
+      "chars": 28663,
+      "catalog_chars": 29033,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ],
+        [
+          26,
+          40
+        ],
+        [
+          41,
+          59
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 5,
+      "id": "27008",
+      "id_catalog_original": 27008,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2013-2014/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2013-2014/",
+      "title": "Healthy Baby Photo Gallery, 2013-2014",
+      "title_recovery": "Healthy Baby Photo Gallery, 2013-2014",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "February 6, 2018",
+      "html_sha256_physical": "422a7b8e95ad47adfe7220715569851dfe7d34788cbd9e2f5eb736df343a0647",
+      "text_sha256_physical": "0131cb4228119c0bebe3b598bffb375e1b114b46a23bf4b8996349ad55f6cc85",
+      "lines": 43,
+      "chars": 17157,
+      "catalog_chars": 17230,
+      "read_ranges_inclusive": [
+        [
+          1,
+          25
+        ],
+        [
+          26,
+          43
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 6,
+      "id": "42383",
+      "id_catalog_original": 42383,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2015-2016/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2015-2016/",
+      "title": "Healthy Baby Photo Gallery, 2015-2016",
+      "title_recovery": "Healthy Baby Photo Gallery, 2015-2016",
+      "author": "Tim Boyd",
+      "displayed_date": "November 18, 2022",
+      "html_sha256_physical": "5e8fa5456cc1c4d86cd0b9dd7143dca79a88c9af5f38dd63465568f65a7c227a",
+      "text_sha256_physical": "6097f3525649ccf11b0fa6d51bc85c6fffc5cbc60418785349d52fb0afaa80e8",
+      "lines": 36,
+      "chars": 18322,
+      "catalog_chars": 18419,
+      "read_ranges_inclusive": [
+        [
+          1,
+          21
+        ],
+        [
+          22,
+          36
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 7,
+      "id": "23646",
+      "id_catalog_original": 23646,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2017-2018/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2017-2018/",
+      "title": "Healthy Baby Photo Gallery, 2017-2018",
+      "title_recovery": "Healthy Baby Photo Gallery, 2017-2018",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "April 19, 2017",
+      "html_sha256_physical": "cc43909686f61b8b49fbd09cecf00ba251db1a9d2862656a6881af46c5e67d4d",
+      "text_sha256_physical": "ec3ff983c45a1524c772f738772ba04d73a91fce8b332371b37a5967d9d5579e",
+      "lines": 31,
+      "chars": 14710,
+      "catalog_chars": 14744,
+      "read_ranges_inclusive": [
+        [
+          1,
+          21
+        ],
+        [
+          22,
+          31
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 8,
+      "id": "30572",
+      "id_catalog_original": 30572,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2019-2020/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2019-2020/",
+      "title": "Healthy Baby Photo Gallery, 2019-2020",
+      "title_recovery": "Healthy Baby Photo Gallery, 2019-2020",
+      "author": "The Weston A Price Foundation",
+      "displayed_date": "May 16, 2019",
+      "html_sha256_physical": "c441706ba9bdb6660ba20d9a4eb943f6e03bf08118e6db45f45a81c4d78c8814",
+      "text_sha256_physical": "517d6b1bb15ec24e036492599a8969a83bb8355cb4ac0ee38b51edd069b4155b",
+      "lines": 60,
+      "chars": 14856,
+      "catalog_chars": 15061,
+      "read_ranges_inclusive": [
+        [
+          1,
+          26
+        ],
+        [
+          27,
+          60
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 9,
+      "id": "38850",
+      "id_catalog_original": 38850,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2021-2022/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2021-2022/",
+      "title": "Healthy Baby Photo Gallery, 2021-2022",
+      "title_recovery": "Healthy Baby Photo Gallery, 2021-2022",
+      "author": "Administrator",
+      "displayed_date": "December 7, 2021",
+      "html_sha256_physical": "f5686a6106c22bb480b9f3462211e1b5790828a045d0b34d638283fa6c109110",
+      "text_sha256_physical": "ebcfdcdf384d39a4038a0e3ee6968b70c9f561747b6a739865282483313222dc",
+      "lines": 33,
+      "chars": 10522,
+      "catalog_chars": 10610,
+      "read_ranges_inclusive": [
+        [
+          1,
+          30
+        ],
+        [
+          31,
+          33
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 10,
+      "id": "43922",
+      "id_catalog_original": 43922,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2023-2024-2/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2023-2024-2/",
+      "title": "Healthy Baby Photo Gallery, 2023-2024",
+      "title_recovery": "Healthy Baby Photo Gallery, 2023-2024",
+      "author": "Administrator",
+      "displayed_date": "June 27, 2023",
+      "html_sha256_physical": "fb594b0b3ab280f609b2ad05de133a2401bef69d94e5bb6fb0e5083f8b409a02",
+      "text_sha256_physical": "e6f1c2b94875bf145285b8eb8fc71d5a4db8aadd3155bebda08725f174cb4566",
+      "lines": 32,
+      "chars": 15287,
+      "catalog_chars": 15376,
+      "read_ranges_inclusive": [
+        [
+          1,
+          23
+        ],
+        [
+          24,
+          32
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 11,
+      "id": "43644",
+      "id_catalog_original": 43644,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2023-2024/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2023-2024/",
+      "title": "Healthy Baby Photo Gallery, 2023-2024",
+      "title_recovery": "Healthy Baby Photo Gallery, 2023-2024",
+      "author": "Administrator",
+      "displayed_date": "May 11, 2023",
+      "html_sha256_physical": "8f36045be53e799eb2f1630913ef9fb8923e0dff3ccd15a07bdede92df0e5472",
+      "text_sha256_physical": "a24a97d0b39772638590918b5d2d56f9194f6bc404f292ccc9f7d850ebc0cba8",
+      "lines": 10,
+      "chars": 3871,
+      "catalog_chars": 3868,
+      "read_ranges_inclusive": [
+        [
+          1,
+          10
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    },
+    {
+      "batch_index": 12,
+      "id": "47358",
+      "id_catalog_original": 47358,
+      "url": "https://www.westonaprice.org/healthy-baby-photo-gallery-2025-2026/",
+      "canonical": "https://www.westonaprice.org/healthy-baby-photo-gallery-2025-2026/",
+      "title": "Healthy Baby Photo Gallery, 2025-2026",
+      "title_recovery": "Healthy Baby Photo Gallery, 2025-2026",
+      "author": "Administrator",
+      "displayed_date": "May 20, 2025",
+      "html_sha256_physical": "e31b62e8dbaa4a30c44a94df5d3cdcd42205ca3052239cc5d1dd99b42bbfba25",
+      "text_sha256_physical": "ce8505c80005216814886c0011cef95309a595f5c8a67c613effb0350243eb4e",
+      "lines": 31,
+      "chars": 15905,
+      "catalog_chars": 15979,
+      "read_ranges_inclusive": [
+        [
+          1,
+          18
+        ],
+        [
+          19,
+          31
+        ]
+      ],
+      "proof_kind": "delegated_agent_semantic_reading",
+      "human_read": false,
+      "images_viewed": false,
+      "visual_gallery_complete": false
+    }
+  ],
+  "overlap": {
+    "ids": [
+      "43922",
+      "43644"
+    ],
+    "same_title": "Healthy Baby Photo Gallery, 2023-2024",
+    "three_captions_exactly_equal": true,
+    "fourth_difference": "home-birthed versus homebirthed",
+    "pages_not_merged": true,
+    "caption_count": 4
+  },
+  "limits": [
+    "All provided physical gallery TXT text/captions, headings, navigation, and finals read; not all images or full journal issues.",
+    "Repeated captions/children are not independent cohorts; no unique children count inferred.",
+    "No external destinations, media, papers, network, ASR, wiki or Git.",
+    "All original physical sources and acquisition metadata unchanged."
+  ],
+  "private_manifest_sha256": "4dfa27d1b56465f961e30ed49fdb9bce9fa557836bb801e2f68b85927edd8a2a",
+  "date": "2026-11-26",
+  "publication_state": "incorporated_after_parent_review",
+  "private_candidate_manifest_sha256": "6e03564934288777270fcd4541eadd3dbea17ad555345d5840c6c7a874e3d05e",
+  "root_review": {
+    "full_public_source_note_read": true,
+    "all26_physical_hashes_and24read_ranges_checked": true,
+    "whole_private_reports_notebooks_or_original13_reread_claim": false,
+    "images_or_full_captions_republished": false,
+    "individual_child_names_republished": false
+  },
+  "privacy_minimization": "Public overlap record omits individual child names; only page IDs, count and textual equality/variant metadata retained. Frozen private artifacts untouched."
+}
